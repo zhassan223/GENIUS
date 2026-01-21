@@ -1,0 +1,105 @@
+[
+  {
+    "policy_index": 0,
+    "policy_statement": "The City of Dakar commits to reduce its greenhouse gas emissions by 25% by 2030 and by 54% by 2050 below the Business-as-Usual (BAU) trajectory through implementation of ambitious actions in the PCET.",
+    "primary_category": "Mitigation",
+    "secondary_categories": [],
+    "classification_reasoning": "1. Identify primary intent: The statement explicitly frames the policy in terms of percentage reductions in GHG emissions relative to BAU for specific future years \u2014 a direct emissions-target framing.  \n2. Apply Rule 2 (Climate system vs impacts): Because the policy acts on emissions (the climate system) rather than on climate impacts or vulnerability, it falls under Mitigation.  \n3. Apply Rule 1 (Primary mechanism > secondary benefits): There is no language indicating the measures are primarily about efficiency, resilience, or ecosystem functioning; the primary objective is lowering GHGs, so we do not reclassify as Resource Efficiency or Adaptation even though measures within the PCET could have those features.  \n4. Check for NbS (Rule 3): The text does not indicate reliance on ecosystems or ecosystem-based mechanisms; thus NbS is not selected.  \n5. Secondary categories: None assigned because the text gives no detail on mechanisms that would justify labeling as Resource Efficiency, Adaptation, or NbS. If the PCET actions were specified and included, for example, large-scale ecosystem restoration or resilience measures, an additional label (NbS or Adaptation) might be warranted.  \n\nConclusion: Primary classification = Mitigation based on explicit emissions reduction targets and BAU comparisons.",
+    "confidence_score": 0.95,
+    "edge_case_notes": "The statement does not specify which types of actions (e.g., renewable energy deployment, energy efficiency, transport electrification, nature-based sequestration) will be used. If the PCET's \"ambitious actions\" are primarily ecosystem-based (e.g., large-scale afforestation, wetland restoration) the policy could additionally be Nature-Based Solutions; if primarily efficiency-focused, Resource Efficiency could be relevant. Classification assumes targets are achieved via mitigation measures broadly, but mechanism-level ambiguity remains.",
+    "primary_causal_pathway": "Human activity \u2192 DECREASED GHG emissions \u2192 DECREASED atmospheric forcing"
+  },
+  {
+    "policy_index": 1,
+    "policy_statement": "The City of Dakar targets increasing the share of renewable energy in the city's energy mix to at least 65% by 2050.",
+    "primary_category": "Mitigation",
+    "secondary_categories": [],
+    "classification_reasoning": "Step-by-step:\n1. Identify primary action: The verbatim text mandates increasing renewable energy share in the energy mix (deployment/scale-up of renewables).\n2. Apply Rule 2 (Climate system vs impacts): This acts on the emissions source (energy system) to lower GHGs rather than addressing climate impacts or vulnerability\u2014therefore it is Mitigation.\n3. Apply Rule 1 (primary mechanism > co-benefits): Although renewable deployment can have co-benefits (energy security, air quality), the stated objective is explicitly a GHG reduction target, so the mechanism is emissions reduction-focused, not resource-efficiency-first.\n4. Apply Rule 3 (natural vs engineered): This is an engineered/technology/policy pathway (energy system change), not an ecosystem-based mechanism, so it is not NbS.\n5. Multi-label check (Rule 4): No parallel adaptation or NbS mechanism is described, so single primary label (Mitigation) is appropriate.",
+    "confidence_score": 0.95,
+    "edge_case_notes": "Potential secondary effects (e.g., increased energy security, local air-quality improvements, or resilience of decentralized renewables) exist but are not described as the primary mechanism. No ambiguity that the policy targets emissions reduction via energy-system change.",
+    "primary_causal_pathway": "Human activity \u2192 \u2193 GHG emissions"
+  },
+  {
+    "policy_index": 2,
+    "policy_statement": "The City of Dakar aims to reduce the energy bill of its built heritage by 75% by 2050 through energy efficiency and renewable measures.",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [
+      "Mitigation"
+    ],
+    "classification_reasoning": "1) Identify primary objective from the statement: the explicit metric is a \"75% reduction in the energy bill\" for built heritage \u2014 this frames the policy around lowering energy use/costs (resource optimization), not primarily framing it as emissions reduction.  \n2) Apply Rule 1 (primary mechanism > secondary benefits): energy efficiency is a Resource Efficiency mechanism even if it reduces emissions as a co-benefit. The inclusion of \"renewable measures\" introduces mitigation mechanisms, but the stated goal centers on energy bill reduction.  \n3) Apply Rule 2 (climate system vs impacts): the policy acts on energy use and energy sources rather than on climate hazards or vulnerability, so it is not Adaptation.  \n4) Apply Rule 3 (natural vs engineered): measures cited are engineered/technical (efficiency retrofits, renewables), not ecosystem-based, so not NbS.  \n5) Therefore primary classification is Resource Efficiency; Mitigation is a valid secondary label because renewables and the broader city goal (54% GHG reduction) indicate an emissions-reduction pathway as a consequential/explicit co-objective.",
+    "confidence_score": 0.9,
+    "edge_case_notes": "The presence of both \"energy efficiency\" and \"renewable measures\" creates some ambiguity: if the policy emphasis or implementation funding primarily targets renewable deployment (displacing grid emissions) rather than efficiency retrofits, one could reasonably argue Mitigation as primary. Also the document's adjacent goal of \"54% reduction in GHG emissions by 2050\" suggests a broader mitigation framing at city level; however, the built-heritage line is explicitly expressed as an energy-bill reduction target, supporting Resource Efficiency as primary.",
+    "primary_causal_pathway": "Same service (built heritage functions) \u2192 DECREASED energy input / reduced energy consumption (and energy bills)"
+  },
+  {
+    "policy_index": 3,
+    "policy_statement": "The City of Dakar will replace street lighting to increase the share of LED and solar-LED lamps to 75% of total street lighting by 2050.",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [
+      "Mitigation"
+    ],
+    "classification_reasoning": "1. Identify primary mechanism: The policy focuses on replacing lamps with LEDs/solar-LEDs to deliver the same lighting service more efficiently \u2014 this is an efficiency intervention. (Matches Resource Efficiency definition and typical mechanisms: energy efficiency codes/retrofits.)  \n2. Apply Rule 1 (Primary mechanism > co-benefits): Although reduced energy use will lower GHG emissions, the action is framed and implemented as an efficiency upgrade rather than primarily to change the climate system; per the rules, \"energy efficiency to reduce emissions\" is classified as Resource Efficiency, not Mitigation.  \n3. Apply Rule 2 (Climate system vs impacts): The policy does not address climate hazards, vulnerability, or resilience explicitly, so it is not Adaptation.  \n4. Apply Rule 3 (Natural vs engineered): The mechanism is engineered technology (LEDs/solar-LEDs), not ecosystem-based, so it is not Nature-Based Solutions.  \n5. Secondary label: Emissions reductions are an expected co-benefit of lower electricity consumption and use of solar-LEDs, so Mitigation is added as a secondary category.",
+    "confidence_score": 0.92,
+    "edge_case_notes": "Solar-LED inclusion introduces ambiguity: off-grid solar-LEDs could be interpreted as small-scale renewable deployment (mitigation) and can also improve resilience during grid outages (adaptation). If the policy emphasizes renewable energy adoption or resilience goals, Mitigation or Adaptation could be elevated. The 2050 horizon is long; implementation details (whether replacing with grid-powered LEDs vs standalone solar-LEDs) would affect the relative strength of mitigation/resilience co-benefits.",
+    "primary_causal_pathway": "Same service \u2192 DECREASED energy input (reduced electricity consumption for street lighting)"
+  },
+  {
+    "policy_index": 4,
+    "policy_statement": "The City of Dakar will increase urban green spaces by 150 hectares by 2030 to strengthen resilience and improve the living environment.",
+    "primary_category": "Nature-Based Solutions",
+    "secondary_categories": [
+      "Adaptation"
+    ],
+    "classification_reasoning": "1) Identify mechanism: The policy's core action is expanding urban green spaces \u2014 an intervention that depends on living ecosystems to deliver benefits. Per Rule 3 (\u201cNatural vs engineered pathways\u201d), that indicates Nature-Based Solutions as the primary category.  \n2) Assess objectives: The policy explicitly states \"strengthen resilience,\" which is adaptation-oriented (reducing vulnerability/increasing capacity). Per Rule 2, this makes Adaptation a relevant secondary category.  \n3) Apply Rule 1 (primary mechanism > secondary benefits): Although urban greening can sequester carbon and reduce emissions indirectly, the stated intent and mechanism are ecosystem-based resilience and improved living conditions, so mitigation is a co-benefit, not the primary classification.  \n4) Result: Primary = NbS because the effectiveness depends on living systems; Secondary = Adaptation because resilience is an explicit goal.",
+    "confidence_score": 0.91,
+    "edge_case_notes": "- Potential ambiguity if the green-space expansion is purely aesthetic/land-use planning without climate-resilience design; in that case Adaptation links might be weaker but it would still be NbS if reliant on vegetation.  \n- If the measures prioritized engineered green infrastructure (e.g., underground detention basins with minimal ecological function) the NbS classification could be less clear.  \n- Mitigation (carbon sequestration) and co-benefits (biodiversity, health, air quality) are likely but not primary per the stated intent.",
+    "primary_causal_pathway": "Ecosystem enhancement (urban green space creation) \u2192 Increased adaptive capacity / \u2193 exposure and sensitivity to urban climate hazards (heat, stormwater/flooding), improved local environmental conditions"
+  },
+  {
+    "policy_index": 5,
+    "policy_statement": "The City of Dakar aims to compost 50% of organic waste and 30% of garden waste by 2050 as part of a circular economy approach.",
+    "primary_category": "Mitigation",
+    "secondary_categories": [
+      "Resource Efficiency"
+    ],
+    "classification_reasoning": "1) Identify primary action: The verbatim text explicitly lists \"Composting\" and specifies quantitative targets (\"50% of organic waste and 30% of garden waste will be composted by 2050\") within \"targets for each of the waste sector's main sources of emissions.\" That frames the measure as addressing emissions. (Rule 2: acts on emissions \u2192 Mitigation.) \n2) Mechanism: Composting diverts organics from anaerobic landfill decomposition, thereby reducing methane emissions (a direct GHG reduction pathway). This is an action on the climate system (emissions), not solely on service efficiency or hazard exposure. (Mitigation definition and primary pathway match.) \n3) Secondary label: The policy explicitly references a \"circular economy approach,\" and composting/recycling organics improves resource recovery and reduces material inputs/waste, which fits Resource Efficiency. Per Rule 1, because the stated mechanism targets emissions, Mitigation is primary and Resource Efficiency is secondary. \n4) Exclusions: The policy does not rely on functioning ecosystems as the mechanism (so not NbS) nor does it primarily address climate hazards, vulnerability, or protective/resilience measures (so not Adaptation).",
+    "confidence_score": 0.92,
+    "edge_case_notes": "The \"circular economy\" framing introduces ambiguity: if the policy were primarily framed and implemented solely to recover nutrients and reduce resource use (with emissions reduction treated as incidental), Resource Efficiency might be primary. However, the verbatim header ties the targets to \"waste sector's main sources of emissions,\" supporting Mitigation as primary. Also, composting can have local environmental/soil benefits that overlap categories, but those are secondary here.",
+    "primary_causal_pathway": "Human activity \u2192 DECREASED GHG emissions \u2192 DECREASED atmospheric forcing"
+  },
+  {
+    "policy_index": 6,
+    "policy_statement": "The City of Dakar targets that 32% of wastewater treatment be accomplished via activated sludge processes by 2050.",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [],
+    "classification_reasoning": "1. Rule-check: The policy specifies a treatment technology and share target (activated sludge) \u2014 an engineered wastewater treatment mechanism.  \n2. Not Mitigation: The policy does not frame action as reducing GHG emissions or carbon sinks; any GHG benefits (e.g., reduced methane from untreated sewage) would be secondary.  \n3. Not NbS: Although activated sludge uses microbes, it is an engineered treatment process in reactors/tanks, not an ecosystem-based solution that depends on functioning natural ecosystems.  \n4. Not clearly Adaptation: The text does not reference climate hazards, resilience, or reducing exposure/sensitivity to climate impacts.  \n5. Fits Resource Efficiency: The policy governs how waste is processed (reducing pollutant discharge/waste output through improved treatment). Under Rule 1 (classify by what the policy does), this is primarily about optimizing management of wastewater services and outputs, so Resource Efficiency is the best fit.",
+    "confidence_score": 0.7,
+    "edge_case_notes": "Possible ambiguity: if the policy context (not provided) frames this target as primarily to reduce methane/N2O emissions from untreated sewage or as part of climate mitigation planning, it could be (partly) Mitigation. If framed as strengthening sanitation infrastructure to cope with climate-driven risks, it could be partly Adaptation. Also, activated sludge uses biological processes\u2014this might superficially resemble NbS, but it is an engineered treatment system, so NbS was not chosen.",
+    "primary_causal_pathway": "Same service (wastewater treatment) \u2192 Decreased waste/pollution output"
+  },
+  {
+    "policy_index": 7,
+    "policy_statement": "The City of Dakar seeks to increase mass-transport modal share to achieve 20% BRT and 15% TER usage by 2050 as part of a low\u2011carbon transport strategy.",
+    "primary_category": "Mitigation",
+    "secondary_categories": [
+      "Resource Efficiency",
+      "Adaptation"
+    ],
+    "classification_reasoning": "1. Identify primary mechanism: The policy's core action is increasing mass-transport modal share (BRT and TER) to reduce transportation emissions. That directly acts on emissions/output of the climate system rather than only reducing vulnerability. (Rule 1 & Rule 2)  \n2. Matches Mitigation definition: It aims to change human behavior/infrastructure to decrease GHG emissions or fossil fuel use in transport\u2014classic mitigation (energy/transport decarbonization).  \n3. Engineered pathway: The mechanism is transit infrastructure/planning (engineered), not ecosystem-based, so not NbS (Rule 3).  \n4. Secondary labels: It also improves resource use (more people moved per unit energy \u2192 Resource Efficiency) and the verbatim mentions \"urban resilience\" and TOD strengthening imply improved adaptive capacity and resilience benefits (Adaptation). However these are secondary to the explicit low\u2011carbon objective and emissions reduction pathway, so Mitigation is primary (Rule 4 & Rule 1).  \n5. Measurement orientation: Targets are given as modal shares (20% BRT, 15% TER) tied to \"reduction targets ... transportation emissions\" which links the modal-share mechanism to emissions outcomes, reinforcing Mitigation as primary.",
+    "confidence_score": 0.93,
+    "edge_case_notes": "- The verbatim text mentions \"urban resilience\" and TOD strengthening; if the policy emphasis were primarily on resilience (e.g., ensuring mobility during extreme events), Adaptation could be primary. Here the explicit framing as a \"low\u2011carbon transport strategy\" and \"reduction targets for ... transportation emissions\" make Mitigation the dominant intent.  \n- Modal-share targets are an indirect measure of emissions reduction (they target behavior/infrastructure rather than specifying CO2 reductions); this introduces minor ambiguity but the low-carbon framing resolves it.",
+    "primary_causal_pathway": "Human activity (modal shift to mass transit) \u2192 \u2193 transport fuel consumption / \u2193 GHG emissions"
+  },
+  {
+    "policy_index": 8,
+    "policy_statement": "Adopt and enforce energy efficiency standards (building code) to improve the energy performance of new buildings in Dakar.",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [
+      "Mitigation"
+    ],
+    "classification_reasoning": "1) Identify primary action: The policy prescribes energy efficiency standards in the building code to improve energy performance of new buildings \u2014 the direct mechanism is reducing energy consumption per unit of service.  \n2) Apply Rule 1 (primary mechanism > co-benefits): Although emissions reductions may result, the policy operates by optimizing resource (energy) use to deliver the same services, which aligns with Resource Efficiency.  \n3) Apply Rule 2 (climate system vs impacts): The policy does not act on climate hazards, vulnerability, or resilience (so not Adaptation). It also does not primarily act to change the climate system (e.g., explicit emissions cap or carbon removal) even if emissions fall as a side effect.  \n4) Apply Rule 3 (natural vs engineered): Mechanism is engineered/technical (building codes), not ecosystem-based, so not NbS.  \n5) Therefore primary label: Resource Efficiency. Secondary label: Mitigation, because reduced energy use typically lowers GHG emissions and is a common co-benefit.",
+    "confidence_score": 0.92,
+    "edge_case_notes": "If the policy text explicitly framed the standards as primarily intended to meet emissions reduction targets or was part of a formal decarbonization mandate (e.g., \"to achieve X% emissions reduction\" or \"net-zero buildings\"), the primary category could be Mitigation instead. Also, if standards emphasized passive cooling or green roofs specifically for heat exposure, there could be overlap with Adaptation or NbS; those elements are not present in the provided text.",
+    "primary_causal_pathway": "Same service \u2192 \u2193 energy input"
+  }
+]

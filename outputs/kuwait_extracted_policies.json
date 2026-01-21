@@ -1,0 +1,83 @@
+[
+  {
+    "policy_statement": "The Government (through the Environment Public Authority) will implement Kuwait's National Adaptation Plan (NAP) nationally and establish a national coordination mechanism to implement adaptation initiatives.",
+    "verbatim_text": "The Government of Kuwait, represented by the Environment Public Authority (EPA), has committed itself to ensure the implementation of its National Adaptation Plan (NAP), in partnership with other governmental and non-governmental institutions, furthermore A national coordination mechanism has been identified to implement a range of national initiatives to protect the various vital sectors from the Negative impacts of climate change.",
+    "has_quantifiable_target": "No. The sentence does not specify numeric targets; the document title indicates NAP 2019-2030 (timeline referenced elsewhere).",
+    "has_timeline": "Yes \u2014 implicit in document context (NAP 2019-2030).",
+    "has_binding_mechanism": "No. The quote records a government commitment and coordination mechanism but does not cite a legal mandate in the quoted text.",
+    "has_spatial_specificity": "Yes \u2014 national (State of Kuwait).",
+    "extraction_rationale": "Government-level commitment to implement the National Adaptation Plan (NAP). This is a stated commitment by the EPA/Government to implement a named program (NAP) and to set up coordination for national initiatives \u2014 qualifies as a specific intervention and institutional commitment. No explicit legal enforcement is cited in the quoted sentence."
+  },
+  {
+    "policy_statement": "Environment Protection Law No. 42/2014 establishes national legal obligations to adapt to adverse impacts of climate change and to protect land, water and reserves.",
+    "verbatim_text": "Environment Protection Law No. 42/2014   Adapting to the adverse impacts of climate change. The protection of land and soil, reducing desertification, management of natural reserves and water resources and creating plans for disaster management.",
+    "has_quantifiable_target": "No specific numeric emissions/percent targets in the quoted text.",
+    "has_timeline": "Yes \u2014 enacted 2014 (date provided in table).",
+    "has_binding_mechanism": "Yes \u2014 legal mandate: Environment Protection Law No. 42/2014 (national legislation).",
+    "has_spatial_specificity": "Yes \u2014 national (applies across State of Kuwait).",
+    "extraction_rationale": "A national law explicitly linked to adaptation and a range of environmental protection actions. This is a binding legal instrument (Law No. 42/2014) that explicitly references adapting to adverse climate impacts and resource management \u2014 meets the 'binding mechanism' criterion."
+  },
+  {
+    "policy_statement": "Implement national green-belt / 'Green Wall' afforestation projects (e.g., plant 315,000 trees to form a 420 km wall and establish green belts of 50\u2013180 km length and 5\u201320 km width) to reduce dust and adapt to desertification.",
+    "verbatim_text": "These projects are the 5-year duration and started in 2015 (KUNA, 2015). Meanwhile, Kuwait has implemented a project called 'Kuwait Green Wall Project. This project aims to increase the protected areas by planting 315,000 trees for 420 Km wall along the borderline to hold back the moving sand.",
+    "has_quantifiable_target": "Yes \u2014 planting 315,000 trees for a 420 Km wall; green belt dimensions 50-180 km length and 5-20 km width for other green belt projects.",
+    "has_timeline": "Yes \u2014 projects started in 2015 and described as having a 5-year duration.",
+    "has_binding_mechanism": "No \u2014 project/initiative (implemented by government/NGOs); not presented as legislation.",
+    "has_spatial_specificity": "Yes \u2014 along the borderline / national green-belt locations (borderline, green belts in Wafra/Abdali regions referenced elsewhere).",
+    "extraction_rationale": "Named, quantified national afforestation / dust-control project with specific planting target and spatial extent. This is a concrete intervention and resource commitment (planting 315,000 trees over 420 km) and includes timeline (started 2015, five-year duration)."
+  },
+  {
+    "policy_statement": "Expand national desalination capacity through construction and commissioning of multiple large desalination plants (examples: Al-Zour North 250 MGD (EUR 320M), Al-Zour South 145 MGD, Al Khiran 125 MGD, Doha 60 MGD) and tender further projects totalling ~285 MGD planned as of 2019.",
+    "verbatim_text": "Al-Zour North IWPP (capacity: 250  Million of Gallons per Day (MGD) for EUR  320  million),  Al-Zour South Plant (capacity: 145 MGD), Al Khiran IWPP (capacity: 125 MGD), and Doha desalination plant (60 MGD) are examples of these projects. While, 4 more projects (Al-Nwaiseeb, New Shuaiba, New Doha, Doha RO phase 2) with an additional capacity of around 285 MGD are planned to be tendered as of 2019.",
+    "has_quantifiable_target": "Yes \u2014 plant capacities listed (e.g., Al-Zour North IWPP 250 MGD; Al-Zour South 145 MGD; Al Khiran 125 MGD; Doha 60 MGD; plus ~285 MGD additional planned capacity). Also budget example EUR 320 million for Al-Zour North.",
+    "has_timeline": "Yes \u2014 indicates planned tendering 'as of 2019' for additional projects; earlier capacity increase reported between 2000 and 2015.",
+    "has_binding_mechanism": "No \u2014 infrastructure projects/ investments by ministries/agencies (administrative commitments, not cited as law in quote).",
+    "has_spatial_specificity": "Yes \u2014 specific plants / locations (Al-Zour, Al Khiran, Doha, Al-Nwaiseeb, New Shuaiba, New Doha).",
+    "extraction_rationale": "Government investment and planned expansion of desalination capacity listed with named plants, capacities and an investment value for one plant. This is a specific infrastructure intervention with numeric capacities and at least one budget figure \u2014 qualifies as resource allocation and specific intervention."
+  },
+  {
+    "policy_statement": "Establish and operate eMISK: an electronic national environmental monitoring and GIS database (eMISK) to compile and analyze geo-environmental data to support adaptation planning and monitoring.",
+    "verbatim_text": "Kuwait Environmental Public Authority (EPA) has established an electronic environmental Monitoring Information System of Kuwait (eMISK) and beatona. eMISK is an electronic system established by the Environment Public Authority (EPA) of Kuwait and aims at building and maintaining a comprehensive geo-environmental database of Kuwait and a GIS system to facilitate updating and analyzing environmental data. The project starts in 2015 by EPA and is still ongoing.",
+    "has_quantifiable_target": "No numeric target in the quoted text (project scope described qualitatively).",
+    "has_timeline": "Yes \u2014 project starts in 2015 and is described as ongoing.",
+    "has_binding_mechanism": "No \u2014 administrative project implemented by EPA (not presented as law).",
+    "has_spatial_specificity": "Yes \u2014 national environmental geospatial database covering Kuwait.",
+    "extraction_rationale": "Named national environmental information system established by EPA with an implementation start-year and ongoing status. This is a concrete institutional/technical intervention (data system) to support adaptation and monitoring \u2014 meets 'specific intervention' criterion."
+  },
+  {
+    "policy_statement": "Implement a Food Security programme (FAO\u2013Kuwait) comprising twelve projects in fisheries management, water resource management, natural resource management, animal production and health, and technical capacity development; budget US$850,000 over 1\u20135 years.",
+    "verbatim_text": "In  2016, the project  ' Food security '  was  established.  FAO  in  cooperation  with  the State of Kuwait planned to undertake twelve projects in the following fields:\n- Fisheries management;\n- Water resource management;\n- Natural resource management;\n- Animal production;\n- Animal health;\n- Technical capacity development.\nThese projects have a time frame between 1-5 years under the Food Security Sector. Food and Agriculture Organization (FAO) were the responsible parties for this project, with a budget of $850,000.",
+    "has_quantifiable_target": "Yes \u2014 'twelve projects' across defined fields and budget US$850,000.",
+    "has_timeline": "Yes \u2014 timeframe between 1\u20135 years (project established 2016).",
+    "has_binding_mechanism": "No \u2014 project partnership (FAO + State of Kuwait), not a law.",
+    "has_spatial_specificity": "Yes \u2014 national (Food Security Sector in Kuwait), fields listed (fisheries, water, natural resources, animal production/health).",
+    "extraction_rationale": "A named, funded food-security programme established with FAO cooperation; lists number of projects and budget and a clear timeframe (1\u20135 years). This is a specific intervention and resource allocation in the food/fisheries/ water sectors."
+  },
+  {
+    "policy_statement": "Apply national regulation to prohibit outdoor work between 11:00 and 16:00 during June\u2013August to reduce heat-related health risks.",
+    "verbatim_text": "Adjust the official working hours Initiative Source :  the Ministry of Social Affairs and Labor of Kuwait issued a national law in 2005 to stop any outdoor work from 11:00 AM to 16:00 PM during the months of June through August. The EPA started this project in 2018 under the Public Health Sector.",
+    "has_quantifiable_target": "Yes \u2014 temporal restriction on outdoor work: stop outdoor work from 11:00 AM to 16:00 PM during June through August.",
+    "has_timeline": "Yes \u2014 law enacted 2005 and EPA project referenced 2018; the rule applies June\u2013August annually.",
+    "has_binding_mechanism": "Yes \u2014 described as a national law issued by the Ministry of Social Affairs and Labor (2005).",
+    "has_spatial_specificity": "Yes \u2014 national (applies to Kuwait according to the text).",
+    "extraction_rationale": "National occupational/regulatory measure restricting outdoor work hours during hottest months to reduce heat exposure \u2014 presented as a national law with clear hours and months. This is a binding labour/health regulation (legal or regulatory instrument)."
+  },
+  {
+    "policy_statement": "Kuwait has ratified the Paris Agreement on climate change (2016) and is party to the international climate framework.",
+    "verbatim_text": "Paris Agreement on climate change                                                      | Kuwait has ratified the Paris Agreement on climate change.                                                                              | General   |   2016 | EPA/ Kuwait       ",
+    "has_quantifiable_target": "No specific national mitigation/adaptation numeric target quoted here (the document simply records ratification).",
+    "has_timeline": "Yes \u2014 ratification year 2016 (table entry).",
+    "has_binding_mechanism": "Yes \u2014 international treaty ratification (Paris Agreement), date shown in table (2016).",
+    "has_spatial_specificity": "Yes \u2014 national (State of Kuwait is a contracting party).",
+    "extraction_rationale": "Ratification of an international climate agreement (Paris Agreement). This is a formal international commitment by the State; qualifies as a binding international instrument (subject to treaty mechanisms) and thus a policy-level commitment."
+  },
+  {
+    "policy_statement": "Implement the NAP through 56 initiatives: 21 short-term (under 1 year), 18 medium-term (around 3 years), and 17 long-term (3\u20135 years) initiatives across priority sectors.",
+    "verbatim_text": "In total, 56 initiatives were proposed as follows; 21 short-term initiatives, 18 medium-term initiatives, and 17 long-term initiatives.",
+    "has_quantifiable_target": "Yes \u2014 56 initiatives in total: 21 short-term, 18 medium-term, 17 long-term.",
+    "has_timeline": "Yes \u2014 timing categories given: short-term (<1 year), medium-term (\u22483 years), long-term (3\u20135 years); within NAP 2019\u20132030 context.",
+    "has_binding_mechanism": "No \u2014 this is an action plan commitment rather than a law; implementation depends on agencies and funding.",
+    "has_spatial_specificity": "Yes \u2014 national and sectoral (four main sectors referenced: marine/fisheries, water resources, coastal zones, human health).",
+    "extraction_rationale": "NAP action-plan commitment broken into a quantified number of initiatives with short/medium/long term timing categories \u2014 this is an explicit, quantified program-level commitment within the NAP and indicates concrete initiative counts and timing buckets."
+  }
+]

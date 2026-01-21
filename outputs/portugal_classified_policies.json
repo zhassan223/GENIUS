@@ -1,0 +1,184 @@
+[
+  {
+    "policy_statement": "Portugal commits to achieve carbon neutrality (net-zero greenhouse gas balance) by 2050 as established by the Council of Ministers resolution.",
+    "verbatim_text": "It shall be stressed that the Portuguese carbon neutrality goal in 2050 has been established in the Resolution of the Council of Ministers n.\u00ba 107/2019, which as above mentioned it also approved the Carbon Neutrality Roadmap 2050 (RNC2050) that constituted the Portuguese Long-Term Strategy submitted to the European Commission and to United Nations Framework Convention for Climate Change (UNFCCC).",
+    "has_quantifiable_target": "Yes - carbon neutrality (net zero balance between emissions and removals) by 2050.",
+    "has_timeline": "Yes - by 2050.",
+    "has_binding_mechanism": "Yes - established by Resolution of the Council of Ministers n.\u00ba 107/2019 (national political/legal instrument).",
+    "has_spatial_specificity": "Yes - national (Portugal).",
+    "extraction_rationale": "National mitigation target established in a Council of Ministers resolution; explicit, numeric, time-bound objective (carbon neutrality by 2050). This is a national policy commitment (long-term mitigation goal) and is suitable for extraction because it is a stated commitment with a clear quantifiable target and a named binding instrument.",
+    "validation_status": "VALID",
+    "confidence_score": 0.88,
+    "final_verdict": true,
+    "weak_signals": "\"commit(s) to\", \"goal\", \"roadmap\" (could indicate strategy-level/aspirational language); lack of interim targets/baseline; no sectoral/technological measures specified",
+    "strong_signals": "\"carbon neutrality\", \"net-zero\", \"by 2050\", \"Resolution of the Council of Ministers n.\u00ba 107/2019\", \"Carbon Neutrality Roadmap 2050\", national scope (Portugal)",
+    "primary_category": "Mitigation",
+    "secondary_categories": [],
+    "primary_causal_pathway": "Human activity \u2192 \u2193GHG emissions and/or \u2191carbon sinks \u2192 \u2193atmospheric forcing",
+    "key_indicators": [
+      "\"carbon neutrality\"",
+      "\"net-zero greenhouse gas balance\"",
+      "\"Carbon Neutrality Roadmap 2050\"",
+      "\"Long-Term Strategy\"",
+      "\"goal...in 2050\""
+    ],
+    "policy_mechanisms": [
+      "National net-zero target / commitment; Long-Term Strategy / Roadmap for carbon neutrality (policy planning and sectoral decarbonization framework)"
+    ],
+    "classification_confidence": 0.95,
+    "co_benefits": [],
+    "edge_case_notes": "The resolution references a roadmap (RNC2050) which could contain adaptation measures or nature-based sink strategies (e.g., afforestation, soil carbon) \u2014 if the underlying measures rely primarily on ecosystems the policy could also merit NbS as a secondary/primary label. The provided text, however, only states a net-zero target and strategy, so no NbS/adaptation specifics are available."
+  },
+  {
+    "policy_statement": "Portugal approves the Adaptation to Climate Change Action Programme (P-3AC) to implement adaptation measures through defined lines of action, monitoring indicators and targets for 2020 and 2030, and to integrate these measures in sectoral policies and funding instruments.",
+    "verbatim_text": "To approve the Action Programme on Climate Change Adaptation (P-3AC), annexed to this resolution and which forms an integral part thereof.\nThe P-3AC aims to achieve the 2nd ENAAC objective - Implement adaptation measures - particularly at the level of physical interventions with direct impact on the territory.",
+    "has_quantifiable_target": "Yes - P-3AC sets short-term (2020) and medium-term (2030) targets for multiple indicators and identifies funding envelopes for lines of action (see Annex II and funding tables).",
+    "has_timeline": "Yes - defines short-term (up to 2020) and medium-term (up to 2030) implementation horizons and requires annual monitoring; resolution takes effect the day following publication.",
+    "has_binding_mechanism": "Yes - approved by the Resolution of the Council of Ministers N\u00ba. 130/2019, of 2 August 2019 (national-level programmatic legal instrument).",
+    "has_spatial_specificity": "Yes - national (Portugal); lines of action include national, regional and local measures.",
+    "extraction_rationale": "P-3AC is an Action Programme for adaptation formally approved by the Council of Ministers (Resolution N\u00ba.130/2019). It names concrete lines of action, assigns responsible entities, defines monitoring and reporting obligations, and contains numeric targets and funding envelopes (see Annexes). This meets the policy definition (stated commitment with specific interventions, targets, and monitoring).",
+    "validation_status": "VALID",
+    "confidence_score": 0.92,
+    "final_verdict": true,
+    "weak_signals": "\"aims to achieve\", \"integrate\", \"implement adaptation measures\" (some aspirational/process language), lack of explicit baseline in excerpt",
+    "strong_signals": "\"targets for 2020 and 2030\", \"annual monitoring\", \"funding envelopes / funding tables\", \"Resolution of the Council of Ministers N\u00ba. 130/2019\", \"national / regional / local scope\", \"physical interventions with direct impact on the territory\", \"lines of action\", reference to Annex II (indicators)",
+    "primary_category": "Adaptation",
+    "secondary_categories": [],
+    "primary_causal_pathway": "Climate hazard \u2192 Decreased exposure",
+    "key_indicators": [
+      "\"Adaptation to Climate Change Action Programme\"",
+      "\"implement adaptation measures\"",
+      "\"monitoring indicators and targets\"",
+      "\"integrate these measures in sectoral policies and funding instruments\"",
+      "\"physical interventions with direct impact on the territory\"",
+      "\"Implement adaptation measures\""
+    ],
+    "policy_mechanisms": [
+      "National adaptation action programme; defined lines of action; monitoring indicators and targets (2020",
+      "2030); mainstreaming/integration into sectoral policies and funding instruments; physical interventions at territorial/land-use level (e.g.",
+      "infrastructure or land management measures implied)"
+    ],
+    "classification_confidence": 0.92,
+    "co_benefits": [],
+    "edge_case_notes": "Physical interventions \"with direct impact on the territory\" could include nature-based solutions (wetlands, coastal buffers) or engineered infrastructure (levees, drainage). Because the text does not specify ecosystem-based approaches, NbS is not assigned as secondary, but if annex details include ecosystem restoration those would merit NbS as an additional category. No explicit co-benefits or mitigation measures are specified."
+  },
+  {
+    "policy_statement": "P-3AC establishes monitoring result indicators and numeric targets to be achieved by 2020 and 2030 across municipalities and sectors (e.g., municipal coverage by adaptation plans, sectoral entities having adaptation/contingency plans, water efficiency metrics).",
+    "verbatim_text": "Table 1. Result indicators and targets defined under the NAP (Adaptation to Climate Change Action Programme - P-3AC).\n| Result indicator | Target 2020 | Target 2030 |\n| Municipalities covered by adaptation plans (municipal, inter-municipal or regional) | 60% | 100% |\n| Energy production, transmission and distribution companies that have adaptation plans or contingency plans for extreme events | 25% | 100% |\n| Water use efficiency in agriculture | 65% | 80% |",
+    "has_quantifiable_target": "Yes - multiple numeric targets (examples: Municipalities covered by adaptation plans: 60% by 2020, 100% by 2030; Energy companies with adaptation plans: 25% by 2020, 100% by 2030; Water use efficiency in agriculture: 65% by 2020, 80% by 2030).",
+    "has_timeline": "Yes - targets set for 2020 and 2030 (explicit timelines in the Annex II table).",
+    "has_binding_mechanism": "Yes - these indicators and targets are defined under the NAP / P-3AC, approved by Resolution of the Council of Ministers (N\u00b0 130/2019); they form the monitoring framework of the national programme.",
+    "has_spatial_specificity": "Yes - national; indicators address municipal coverage and sectoral entities across territory.",
+    "extraction_rationale": "The P-3AC Annex II presents explicit, numeric result indicators and time-bound targets for 2020 and 2030 (e.g., municipalities covered by adaptation plans, sectoral entities with adaptation plans, water efficiency targets). These are quantifiable, national-level policy targets tied to the Action Programme and its monitoring, and therefore qualify as extractable policy commitments.",
+    "validation_status": "VALID",
+    "confidence_score": 0.92,
+    "final_verdict": true,
+    "weak_signals": "plans (administrative focus; baseline not provided; enforcement mechanisms not detailed)",
+    "strong_signals": "\"60% by 2020 / 100% by 2030\" (municipal coverage); \"25% by 2020 / 100% by 2030\" (energy companies); \"65% by 2020 / 80% by 2030\" (water use efficiency); explicit years 2020 and 2030; Resolution N\u00b0130/2019 / monitoring framework; national municipal and sectoral scope; numeric, time-bound, sector-specific targets",
+    "primary_category": "Adaptation",
+    "secondary_categories": [
+      "Resource Efficiency"
+    ],
+    "primary_causal_pathway": "Climate hazard \u2192 \u2191 adaptive capacity (and \u2193 sensitivity/exposure through preparedness)",
+    "key_indicators": [
+      "\"Municipalities covered by adaptation plans\"",
+      "\"adaptation plans or contingency plans\"",
+      "\"Energy production",
+      "transmission and distribution companies that have adaptation plans or contingency plans for extreme events\"",
+      "\"Water use efficiency in agriculture\"",
+      "\"result indicators and targets\"",
+      "\"2020 / 2030 targets\""
+    ],
+    "policy_mechanisms": [
+      "Establishing monitoring indicators and numeric targets; mandating or promoting adoption of adaptation plans at municipal/inter-municipal/regional level; requiring sectoral entities (e.g.",
+      "energy companies) to have contingency/adaptation plans; setting water use efficiency targets for agriculture (performance metric)."
+    ],
+    "classification_confidence": 0.9,
+    "co_benefits": [
+      "Improved water resource conservation",
+      "reduced agricultural vulnerability to drought",
+      "improved continuity/resilience of energy services",
+      "reduced economic losses from extreme events",
+      "possible secondary reductions in energy/water-related emissions"
+    ],
+    "edge_case_notes": "The water use efficiency indicator could, in some implementations, be part of a standalone Resource Efficiency policy rather than adaptation. Here it appears embedded within an Adaptation Action Programme, so I treated it as secondary. If the water-efficiency metric were the dominant focus (with adaptation plans minor), the primary classification might shift to Resource Efficiency."
+  },
+  {
+    "policy_statement": "Portugal commits to mobilise between 0.15% and 0.20% of its GNI as ODA allocated to Least Developed Countries by 2030.",
+    "verbatim_text": "As an EU Member State, Portugal made the commitment to mobilise 0.15% to 0.20% of its GNI as ODA allocated to Least Developed Countries (LDC) by 2030.",
+    "has_quantifiable_target": "Yes - mobilise 0.15% to 0.20% of GNI as ODA allocated to Least Developed Countries by 2030.",
+    "has_timeline": "Yes - by 2030.",
+    "has_binding_mechanism": "Yes - stated as a commitment of Portugal as an EU Member State (political/international commitment); not a domestic legal target but an international ODA pledge.",
+    "has_spatial_specificity": "Yes - international (allocation to Least Developed Countries; geographic focus is identified).",
+    "extraction_rationale": "Portugal's international finance commitment for development assistance to LDCs is a time-bound, numeric pledge (0.15%-0.20% of GNI by 2030). This is an explicit policy/financial commitment and therefore extractable.",
+    "validation_status": "VALID",
+    "confidence_score": 0.87,
+    "final_verdict": true,
+    "weak_signals": "commit, commitment, pledge, mobilise (aspirational/political language); no baseline stated",
+    "strong_signals": "0.15% to 0.20% of GNI, by 2030, ODA allocated to Least Developed Countries, numeric target, clear deadline, beneficiary geography",
+    "primary_category": "Adaptation",
+    "secondary_categories": [],
+    "primary_causal_pathway": "Climate hazard \u2192 INCREASED adaptive capacity",
+    "key_indicators": [
+      "\"mobilise ... of its GNI as ODA\"",
+      "\"allocated to Least Developed Countries\"",
+      "\"by 2030\"",
+      "\"Official Development Assistance\""
+    ],
+    "policy_mechanisms": [
+      "Bilateral/multilateral development finance transfers (ODA)",
+      "budgetary allocation/commitment",
+      "concessional grants/loans",
+      "international assistance programming"
+    ],
+    "classification_confidence": 0.25,
+    "co_benefits": [
+      "Poverty reduction",
+      "economic development",
+      "capacity building",
+      "institutional strengthening",
+      "potential climate adaptation or mitigation depending on fund use"
+    ],
+    "edge_case_notes": "The statement contains no explicit climate, resilience, emissions, efficiency, or ecosystem language. This is an edge case: the policy is a finance commitment (international development assistance) rather than a climate policy per se. It could fund mitigation, adaptation, NbS, or non-climate development activities depending on allocation. If further documents indicate the ODA is earmarked for climate/adaptation, the classification should be updated. If forced to strictly follow only explicit text, the correct label would be \"None of the four categories.\""
+  },
+  {
+    "policy_statement": "Portugal established the Portuguese Environmental Fund (2017) to support national environmental policies and international cooperation on climate change; of the climate-related bilateral support cited, USD 5.3 million is considered new and additional to existing ODA flows.",
+    "verbatim_text": "The Portuguese Environmental Fund was established in 2017. The purpose of this instrument is to support national environmental policies for the pursuit of Sustainable Development Objectives, contributing to the achievement of national and international objectives and commitments, in particular those related to climate change, water resources, waste and nature conservation and biodiversity. ... Regarding climate change adaptation bilateral cooperation of a total amount of 6.6 million USD, 5.3 million USD is new and additional.",
+    "has_quantifiable_target": "Yes - the document states that for climate change adaptation bilateral cooperation of a total of 6.6 million USD, 5.3 million USD is new and additional (explicit amounts).",
+    "has_timeline": "No specific deadline attached to the allocation statement in the quoted text (fund established in 2017; figures presented for recent years).",
+    "has_binding_mechanism": "Yes - the Environmental Fund was established by decree/legal instrument (document references its establishment in 2017), and it is identified as a financing instrument for environmental/climate objectives.",
+    "has_spatial_specificity": "Yes - national fund with international cooperation focus (support to developing countries, with geographic prioritisation: PALOP and Timor-Leste).",
+    "extraction_rationale": "Creation of a national financing instrument (Portuguese Environmental Fund) with an explicit mandate to support environmental policies and international cooperation on climate change; document quantifies amounts classified as new and additional for bilateral climate adaptation cooperation. This is a resource-allocation policy (legal establishment of a fund and declared use).",
+    "validation_status": "VALID",
+    "confidence_score": 0.88,
+    "final_verdict": true,
+    "weak_signals": "support, contributing to, pursue Sustainable Development Objectives, cooperation, objectives/commitments, generic programmatic language, no outcome metric, no disbursement timeline",
+    "strong_signals": "5.3 million USD (new and additional), 6.6 million USD total, established 2017 (legal/institutional instrument), \"Environmental Fund\" (financing mechanism), national fund with geographic prioritisation (PALOP, Timor-Leste), described as financing instrument",
+    "primary_category": "Adaptation",
+    "secondary_categories": [
+      "Nature-Based Solutions"
+    ],
+    "primary_causal_pathway": "Climate hazard \u2192 INCREASED adaptive capacity",
+    "key_indicators": [
+      "\"climate change adaptation\"",
+      "\"climate change\"",
+      "\"support national environmental policies\"",
+      "\"bilateral cooperation\"",
+      "\"nature conservation\"",
+      "\"biodiversity\"",
+      "\"water resources\"",
+      "\"new and additional\""
+    ],
+    "policy_mechanisms": [
+      "Environmental fund / grant financing for national environmental policies and bilateral adaptation cooperation; provision of development/ODA financing targeted to adaptation and environmental projects"
+    ],
+    "classification_confidence": 0.8,
+    "co_benefits": [
+      "Biodiversity conservation",
+      "water resources management",
+      "waste management",
+      "sustainable development / international cooperation"
+    ],
+    "edge_case_notes": "The fund is multi-purpose and the description is high-level; specific funded projects are not listed. This creates ambiguity because the fund could finance mitigation projects, resource-efficiency measures, or NbS depending on allocations. The explicit mention of \"climate change adaptation\" and the specified adaptation-related bilateral amount supports choosing Adaptation as primary, but this is based on textual emphasis rather than detailed project-level mechanisms."
+  }
+]

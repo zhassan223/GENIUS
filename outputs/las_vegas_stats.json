@@ -1,0 +1,14 @@
+{
+  "location": "las_vegas",
+  "total_extracted": 8,
+  "passed_validation": 4,
+  "final_classified": 4,
+  "validation_rate": 0.5,
+  "filtered_out": 4,
+  "category_distribution": {
+    "Nature-Based Solutions": 2,
+    "Resource Efficiency": 2
+  },
+  "avg_classification_confidence": 0.8925000000000001,
+  "multi_label_count": 4
+}

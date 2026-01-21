@@ -1,0 +1,14 @@
+{
+  "location": "seattle",
+  "total_extracted": 18,
+  "passed_validation": 10,
+  "final_classified": 10,
+  "validation_rate": 0.5555555555555556,
+  "filtered_out": 8,
+  "category_distribution": {
+    "Mitigation": 6,
+    "Resource Efficiency": 4
+  },
+  "avg_classification_confidence": 0.9229999999999998,
+  "multi_label_count": 6
+}

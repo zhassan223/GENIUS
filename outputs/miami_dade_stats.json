@@ -1,0 +1,15 @@
+{
+  "location": "miami_dade",
+  "total_extracted": 21,
+  "passed_validation": 19,
+  "final_classified": 19,
+  "validation_rate": 0.9047619047619048,
+  "filtered_out": 2,
+  "category_distribution": {
+    "Mitigation": 8,
+    "Resource Efficiency": 9,
+    "Nature-Based Solutions": 2
+  },
+  "avg_classification_confidence": 0.9215789473684209,
+  "multi_label_count": 12
+}

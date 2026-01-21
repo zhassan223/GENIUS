@@ -1,0 +1,281 @@
+[
+  {
+    "policy_statement": "Chicago will reduce citywide greenhouse gas (GHG) emissions by a minimum of 62% by 2040 (relative to the 2017 inventory).",
+    "verbatim_text": "The 2022 CAP aims to chart an equitable path to reduce Chicago's GHG emissions by a minimum of 62% by 2040.",
+    "has_quantifiable_target": "Yes \u2014 '62% reduction by 2040' (from 2017 baseline).",
+    "has_timeline": "Yes \u2014 by 2040.",
+    "has_binding_mechanism": "No; stated as a CAP target (the plan notes formalization through legislation may follow).",
+    "has_spatial_specificity": "Yes \u2014 citywide (Chicago).",
+    "extraction_rationale": "Clear, numerical citywide GHG reduction target with deadline \u2014 qualifies as a quantifiable target."
+  },
+  {
+    "policy_statement": "Retrofit 20% of residential buildings with 4 or fewer units by 2030 and 50% by 2040, prioritizing low- or moderate-income households.",
+    "verbatim_text": "Retrofit residential buildings with 4 or fewer units:20% by 2030 and 50%by2040, prioritizing low- or moder- ate-income households",
+    "has_quantifiable_target": "Yes \u2014 '20% by 2030 and 50% by 2040' for residential buildings with 4 or fewer units.",
+    "has_timeline": "Yes \u2014 2030 and 2040.",
+    "has_binding_mechanism": "No; presented as a CAP action/target (implementation and enforcement to be developed).",
+    "has_spatial_specificity": "Yes \u2014 citywide, targeted to buildings with 4 or fewer units in Chicago.",
+    "extraction_rationale": "Specific retrofit target with percentages and deadlines for a defined building class."
+  },
+  {
+    "policy_statement": "Retrofit 20% of total 5+ unit residential buildings by 2030.",
+    "verbatim_text": "Retrofit 20% of total 5+ unit residential buildings by 2030",
+    "has_quantifiable_target": "Yes \u2014 'Retrofit 20% of total 5+ unit residential buildings by 2030'.",
+    "has_timeline": "Yes \u2014 by 2030.",
+    "has_binding_mechanism": "No; CAP action \u2014 may require programs or legislation to implement.",
+    "has_spatial_specificity": "Yes \u2014 citywide (Chicago) and specified building type (5+ unit residential).",
+    "extraction_rationale": "Numerical retrofit commitment for large multifamily buildings with a deadline."
+  },
+  {
+    "policy_statement": "Retrofit 20% of total industrial buildings by 2030.",
+    "verbatim_text": "Retrofit 20% of total industrial buildings by 2030",
+    "has_quantifiable_target": "Yes \u2014 'Retrofit 20% of total industrial buildings by 2030'.",
+    "has_timeline": "Yes \u2014 by 2030.",
+    "has_binding_mechanism": "No; CAP action target contingent on implementation measures.",
+    "has_spatial_specificity": "Yes \u2014 citywide (Chicago), specified sector 'industrial buildings'.",
+    "extraction_rationale": "Retrofit target for industrial buildings with a clear percentage and deadline."
+  },
+  {
+    "policy_statement": "Retrofit 90% of total City-owned and sister agency-owned buildings by 2035.",
+    "verbatim_text": "Retrofit 90%oftotalCity-ownedandsisteragen - cy-owned buildings by 2035",
+    "has_quantifiable_target": "Yes \u2014 'Retrofit 90% of total City-owned and sister agency-owned buildings by 2035'.",
+    "has_timeline": "Yes \u2014 by 2035.",
+    "has_binding_mechanism": "No; the City is committing to lead by example but this is a CAP target rather than an enacted mandate.",
+    "has_spatial_specificity": "Yes \u2014 City-owned and sister-agency-owned buildings in Chicago.",
+    "extraction_rationale": "Specific target for retrofitting public (City and sister agency) buildings with a percentage and deadline."
+  },
+  {
+    "policy_statement": "Install 5 megawatts of co-owned community solar projects within Chicago by 2025, prioritizing households with high energy burden.",
+    "verbatim_text": "Install 5 megawatts of co-owned community solar projects by 2025",
+    "has_quantifiable_target": "Yes \u2014 'Install 5 megawatts of co-owned community solar projects by 2025'.",
+    "has_timeline": "Yes \u2014 by 2025.",
+    "has_binding_mechanism": "No; target in CAP to be implemented via programs and partnerships.",
+    "has_spatial_specificity": "Yes \u2014 within city limits/Chicago.",
+    "extraction_rationale": "Community solar installation target with MW and deadline \u2014 quantifiable intervention."
+  },
+  {
+    "policy_statement": "Increase Chicago-based community renewable energy capacity to 20 megawatts by 2025.",
+    "verbatim_text": "Increase Chicago-based community renewables to 20 megawatts by 2025",
+    "has_quantifiable_target": "Yes \u2014 'Increase Chicago-based community renewables to 20 megawatts by 2025'.",
+    "has_timeline": "Yes \u2014 by 2025.",
+    "has_binding_mechanism": "No; CAP target to be advanced via programs and partnerships.",
+    "has_spatial_specificity": "Yes \u2014 Chicago-based projects.",
+    "extraction_rationale": "Numeric city-level community renewables capacity target with deadline."
+  },
+  {
+    "policy_statement": "Increase community renewable subscriptions to achieve 25% subscribed by low-income and/or environmental justice low-income residents by 2030.",
+    "verbatim_text": "Increase community renewables subscriptions to achieve 25%subscribed by low-income and/or environ- mental justice low-income residents by 2030",
+    "has_quantifiable_target": "Yes \u2014 '25% subscribed by low-income and/or environmental justice low-income residents by 2030'.",
+    "has_timeline": "Yes \u2014 by 2030.",
+    "has_binding_mechanism": "No; CAP target focused on equitable subscription rates.",
+    "has_spatial_specificity": "Yes \u2014 community renewables subscriptions in Chicago, prioritized for low-income/EJ residents.",
+    "extraction_rationale": "Target for subscription share among low-income/EJ residents \u2014 quantifiable social inclusion metric with deadline."
+  },
+  {
+    "policy_statement": "Introduce community-wide organic waste collection and decomposition by 2025.",
+    "verbatim_text": "Introduce community-wide organic waste collection and decomposition by 2025",
+    "has_quantifiable_target": "Yes \u2014 deadline (by 2025) for citywide organic waste collection implementation.",
+    "has_timeline": "Yes \u2014 by 2025.",
+    "has_binding_mechanism": "No; CAP action to be implemented by relevant departments (pilot and rollout required).",
+    "has_spatial_specificity": "Yes \u2014 community-wide / Chicago neighborhoods.",
+    "extraction_rationale": "Waste collection program commitment with a deadline \u2014 naming a specific intervention."
+  },
+  {
+    "policy_statement": "Divert 90% of commercial, industrial, and institutional waste by 2030.",
+    "verbatim_text": "Divert 90%ofcommercial, industrial, and institutional waste by 2030",
+    "has_quantifiable_target": "Yes \u2014 'Divert 90% of commercial, industrial, and institutional waste by 2030'.",
+    "has_timeline": "Yes \u2014 by 2030.",
+    "has_binding_mechanism": "No; presented as a CAP goal that will require regulatory or programmatic measures to achieve.",
+    "has_spatial_specificity": "Yes \u2014 Chicago, for commercial/industrial/institutional waste streams.",
+    "extraction_rationale": "High-percentage waste diversion target with deadline for commercial/industrial/institutional sector."
+  },
+  {
+    "policy_statement": "Divert 75% of construction and demolition waste by 2030.",
+    "verbatim_text": "Divert 75%of construction and demolition waste by 2030",
+    "has_quantifiable_target": "Yes \u2014 'Divert 75% of construction and demolition waste by 2030'.",
+    "has_timeline": "Yes \u2014 by 2030.",
+    "has_binding_mechanism": "No; CAP target that likely needs regulatory or incentive mechanisms.",
+    "has_spatial_specificity": "Yes \u2014 City of Chicago construction and demolition waste.",
+    "extraction_rationale": "Construction & demolition diversion target with percentage and deadline."
+  },
+  {
+    "policy_statement": "Divert 90% of residential waste by 2040.",
+    "verbatim_text": "Divert 90%ofresidential waste by 2040",
+    "has_quantifiable_target": "Yes \u2014 'Divert 90% of residential waste by 2040'.",
+    "has_timeline": "Yes \u2014 by 2040.",
+    "has_binding_mechanism": "No; CAP objective requiring program changes to reach goal.",
+    "has_spatial_specificity": "Yes \u2014 residential waste citywide (Chicago).",
+    "extraction_rationale": "Residential waste diversion target with a long-term deadline and percent target."
+  },
+  {
+    "policy_statement": "Increase Divvy bikes and shared micromobility trips by 30% by 2030.",
+    "verbatim_text": "Increase Divvy bikes and shared micromobility trips30% by 2030",
+    "has_quantifiable_target": "Yes \u2014 'Increase Divvy bikes and shared micromobility trips 30% by 2030'.",
+    "has_timeline": "Yes \u2014 by 2030.",
+    "has_binding_mechanism": "No; CAP target to be delivered through investments and programs (Divvy expansion noted).",
+    "has_spatial_specificity": "Yes \u2014 citywide (Chicago) Divvy/shared micromobility network.",
+    "extraction_rationale": "Target to increase shared micromobility ridership with percentage and deadline."
+  },
+  {
+    "policy_statement": "Enable walking, biking, transit, or shared micromobility for 45% of all trips in Chicago by 2040.",
+    "verbatim_text": "Enable Chicagoans to walk, bike, take transit, or use shared micromobility for 45%ofall trips by 2040",
+    "has_quantifiable_target": "Yes \u2014 'Enable Chicagoans to walk, bike, take transit, or use shared micromobility for 45% of all trips by 2040'.",
+    "has_timeline": "Yes \u2014 by 2040.",
+    "has_binding_mechanism": "No; a modal-shift target to be achieved by investments in infrastructure and policy.",
+    "has_spatial_specificity": "Yes \u2014 citywide (Chicago).",
+    "extraction_rationale": "Mode-share target for all trips \u2014 explicit percentage and long-term deadline."
+  },
+  {
+    "policy_statement": "Update land use policies to encourage sustainable development, accessibility, and street safety by 2023.",
+    "verbatim_text": "Update land use policies to encourage sustainable devel- opment, accessibility, and street safety by 2023",
+    "has_quantifiable_target": "No (it is an action with a deadline, not a numerical performance metric).",
+    "has_timeline": "Yes \u2014 by 2023.",
+    "has_binding_mechanism": "No (target to update policy by deadline; actual binding mechanism would be ordinance/resolution).",
+    "has_spatial_specificity": "Yes \u2014 citywide land use policies in Chicago.",
+    "extraction_rationale": "Land-use policy update with a specified deadline \u2014 a named policy intervention."
+  },
+  {
+    "policy_statement": "Increase CTA ridership by 20% by 2030 (relative to pre-pandemic baseline).",
+    "verbatim_text": "Increase CTA ridership 20% by 2030",
+    "has_quantifiable_target": "Yes \u2014 'Increase CTA ridership 20% by 2030'.",
+    "has_timeline": "Yes \u2014 by 2030.",
+    "has_binding_mechanism": "No; a performance target that will require coordinated investments and programs.",
+    "has_spatial_specificity": "Yes \u2014 CTA system serving Chicago/Chicagoland (focus in city).",
+    "extraction_rationale": "Transit ridership target with percentage and deadline \u2014 quantifiable municipal objective."
+  },
+  {
+    "policy_statement": "Electrify 100% of the City's fleet by 2035.",
+    "verbatim_text": "Electrify 100% of the City's fleet by 2035",
+    "has_quantifiable_target": "Yes \u2014 'Electrify 100% of the City's fleet by 2035'.",
+    "has_timeline": "Yes \u2014 by 2035.",
+    "has_binding_mechanism": "No; CAP commitment by City departments (implementation requires procurement and infrastructure).",
+    "has_spatial_specificity": "Yes \u2014 City of Chicago municipal fleet.",
+    "extraction_rationale": "Fleet electrification target for municipal fleet with deadline and percentage."
+  },
+  {
+    "policy_statement": "Enable 100% electrification of delivery fleets operating in Chicago by 2035.",
+    "verbatim_text": "Enable 100% electrification of delivery fleets by 2035",
+    "has_quantifiable_target": "Yes \u2014 'Enable 100% electrification of delivery fleets by 2035'.",
+    "has_timeline": "Yes \u2014 by 2035.",
+    "has_binding_mechanism": "No; CAP enabling action (the City will 'enable' 100% electrification but enforcement depends on external fleet operators and policy instruments).",
+    "has_spatial_specificity": "Yes \u2014 delivery fleets operating in Chicago.",
+    "extraction_rationale": "Target to enable electrification of delivery fleets with a clear deadline."
+  },
+  {
+    "policy_statement": "Support equitable electrification of ride-hail and taxi fleets by 2030.",
+    "verbatim_text": "Support equitable electrification of ride-hail and taxi fleets by 2030",
+    "has_quantifiable_target": "Yes \u2014 'Support equitable electrification of ride-hail and taxi fleets by 2030'.",
+    "has_timeline": "Yes \u2014 by 2030.",
+    "has_binding_mechanism": "No; CAP target that will require regulatory or partnership measures to implement.",
+    "has_spatial_specificity": "Yes \u2014 ride-hail and taxi fleets operating in Chicago.",
+    "extraction_rationale": "Explicit target for ride-hail and taxi electrification with deadline."
+  },
+  {
+    "policy_statement": "Achieve zero-emission transit fleets across Chicagoland by 2040.",
+    "verbatim_text": "Achieve zero-emission transit fleets across Chicagoland by 2040",
+    "has_quantifiable_target": "Yes \u2014 'Achieve zero-emission transit fleets across Chicagoland by 2040'.",
+    "has_timeline": "Yes \u2014 by 2040.",
+    "has_binding_mechanism": "No; commitment oriented and coordinated with transit agencies (CTA/Metra/PACE).",
+    "has_spatial_specificity": "Yes \u2014 Chicagoland transit fleets (regional).",
+    "extraction_rationale": "Target for zero-emission transit across the region with a deadline \u2014 a sector-wide emissions elimination goal."
+  },
+  {
+    "policy_statement": "Aggregate 5,000 megawatts of clean renewable energy within a 250-mile radius of Chicago by 2030.",
+    "verbatim_text": "Aggregate 5,000 megawatts of clean renewable energy within a 250-mile radius of Chicago by 2030",
+    "has_quantifiable_target": "Yes \u2014 'Aggregate 5,000 megawatts of clean renewable energy within a 250-mile radius of Chicago by 2030'.",
+    "has_timeline": "Yes \u2014 by 2030.",
+    "has_binding_mechanism": "No; CAP target to be pursued via regional partnerships and procurement (may require contracts/PPA).",
+    "has_spatial_specificity": "Yes \u2014 within a 250-mile radius of Chicago (regional).",
+    "extraction_rationale": "Large regional renewable procurement/aggregation target with MW and deadline \u2014 quantifiable clean energy commitment."
+  },
+  {
+    "policy_statement": "Install 30 megawatts of clean renewable energy projects on City property by 2030.",
+    "verbatim_text": "Install 30 megawatts of clean renewable energy projects on City property by 2030",
+    "has_quantifiable_target": "Yes \u2014 'Install 30 megawatts of clean renewable energy projects on City property by 2030'.",
+    "has_timeline": "Yes \u2014 by 2030.",
+    "has_binding_mechanism": "No; City-led target requiring project development and funding.",
+    "has_spatial_specificity": "Yes \u2014 City-owned property in Chicago.",
+    "extraction_rationale": "Target to install renewable capacity on City property with MW and deadline."
+  },
+  {
+    "policy_statement": "Achieve 100% clean renewable energy community-wide by 2035.",
+    "verbatim_text": "Achieve 100%clean renewable energy community-wide by 2035",
+    "has_quantifiable_target": "Yes \u2014 'Achieve 100% clean renewable energy community-wide by 2035'.",
+    "has_timeline": "Yes \u2014 by 2035.",
+    "has_binding_mechanism": "No; target to be pursued in partnership with utilities and other actors; plan notes steps to formalize agreements.",
+    "has_spatial_specificity": "Yes \u2014 community-wide (Chicago).",
+    "extraction_rationale": "Community-wide clean energy target with a date \u2014 quantifiable policy goal."
+  },
+  {
+    "policy_statement": "Ensure 150 megawatts of energy storage capacity by 2025.",
+    "verbatim_text": "Ensure 150 megawatts of energy storage by 2025",
+    "has_quantifiable_target": "Yes \u2014 'Ensure 150 megawatts of energy storage by 2025'.",
+    "has_timeline": "Yes \u2014 by 2025.",
+    "has_binding_mechanism": "No; CAP infrastructure target that requires project deployment and partner coordination.",
+    "has_spatial_specificity": "Yes \u2014 Chicago and City-partnered sites as listed.",
+    "extraction_rationale": "Energy storage capacity target with a short deadline \u2014 quantifiable infrastructure commitment."
+  },
+  {
+    "policy_statement": "Encourage 1,000 megawatts of new energy demand reduction by 2030 and 3,000 megawatts by 2040.",
+    "verbatim_text": "Encourage 1,000 megawatts of new energy demand reduction by 2030, and 3,000 megawatts by 2040",
+    "has_quantifiable_target": "Yes \u2014 'Encourage 1,000 megawatts of new energy demand reduction by 2030, and 3,000 megawatts by 2040'.",
+    "has_timeline": "Yes \u2014 by 2030 and 2040.",
+    "has_binding_mechanism": "No; CAP target to be achieved through programs and utility partnerships.",
+    "has_spatial_specificity": "Yes \u2014 regional/Chicago-aligned demand reduction (within plan's area of influence).",
+    "extraction_rationale": "Demand response / energy demand reduction numeric goals with timelines."
+  },
+  {
+    "policy_statement": "Plant 75,000 trees across Chicago over five years (goal by 2026), prioritizing underserved areas.",
+    "verbatim_text": "Together with city departments and community partners, Chicago has the goal of planting 75,000 trees by 2026.",
+    "has_quantifiable_target": "Yes \u2014 'planting 75,000 trees by 2026' (over 5 years).",
+    "has_timeline": "Yes \u2014 by 2026 (5-year program).",
+    "has_binding_mechanism": "No; CAP commitment and funded program (Chicago Recovery Plan funding noted).",
+    "has_spatial_specificity": "Yes \u2014 prioritized in underserved community areas of Chicago.",
+    "extraction_rationale": "Tree-planting numeric target with an explicit year \u2014 resource and nature-based intervention."
+  },
+  {
+    "policy_statement": "The City has allocated $188 million for historic climate resiliency and mitigation investments as part of the Chicago Recovery Plan.",
+    "verbatim_text": "In October 2021, Chicago's City Council approved $188 million for climate resiliency and mitigation, as part of Mayor Lori Lightfoot's $2.5 billion Chicago Recovery Plan.",
+    "has_quantifiable_target": "Yes \u2014 '$188 million in climate resiliency and mitigation investments (total climate funding of $188M)'.",
+    "has_timeline": "No specific single deadline attached to the $188M statement in the excerpt; funding allocated as part of the Chicago Recovery Plan (2021/2022).",
+    "has_binding_mechanism": "Yes \u2014 City Council-approved budget allocation and Recovery Plan funding (legal municipal budget appropriation).",
+    "has_spatial_specificity": "Yes \u2014 funds allocated for Chicago programs and neighborhoods.",
+    "extraction_rationale": "Explicit resource allocation in the Recovery Plan tied to climate interventions \u2014 counts as committed funding."
+  },
+  {
+    "policy_statement": "Develop a fossil-fuel plants transition strategy by 2024.",
+    "verbatim_text": "Develop a fossil-fuel plants transition strategy by 2024",
+    "has_quantifiable_target": "No (strategy development by a specific year rather than a numeric target for closures).",
+    "has_timeline": "Yes \u2014 develop strategy by 2024.",
+    "has_binding_mechanism": "No; CAP action requiring planning and coordination with regional partners.",
+    "has_spatial_specificity": "Yes \u2014 affects peaker/fossil plants relevant to Chicago/region.",
+    "extraction_rationale": "Explicit commitment to develop a fossil-fuel plant transition strategy with a deadline \u2014 named action."
+  },
+  {
+    "policy_statement": "Report energy burden by community area by 2023.",
+    "verbatim_text": "Report energy burden by community area by 2023",
+    "has_quantifiable_target": "No numeric target but a clear deliverable and year for reporting.",
+    "has_timeline": "Yes \u2014 by 2023.",
+    "has_binding_mechanism": "No; CAP reporting commitment to publish metrics and reports \u2014 implementation depends on departmental action.",
+    "has_spatial_specificity": "Yes \u2014 report energy burden by community area across Chicago.",
+    "extraction_rationale": "Equity/accountability data reporting action with a deadline (quantifiable in terms of reporting timeline)."
+  },
+  {
+    "policy_statement": "Establish a robust outdoor air quality monitoring network by 2025.",
+    "verbatim_text": "Establish a robust outdoor air quality monitoring network by 2025",
+    "has_quantifiable_target": "No numeric network size stated here, but a clear deadline for establishing a 'robust outdoor air quality monitoring network' by 2025.",
+    "has_timeline": "Yes \u2014 by 2025.",
+    "has_binding_mechanism": "No; CAP action to establish monitoring network (implementation by departments).",
+    "has_spatial_specificity": "Yes \u2014 citywide network (Chicago) with station examples noted (CTA stations, bus stops, schools).",
+    "extraction_rationale": "Outdoor air quality monitoring network commitment with timeline \u2014 named quantifiable program deliverable (network establishment by year)."
+  },
+  {
+    "policy_statement": "Enable 2,500 new public passenger electric vehicle charging stations in Chicago by 2035, prioritizing low- and middle-income communities.",
+    "verbatim_text": "Enable 2,500 new public passenger electric vehicle charging stations by 2035",
+    "has_quantifiable_target": "Yes \u2014 'Enable 2,500 new public passenger electric vehicle charging stations by 2035'.",
+    "has_timeline": "Yes \u2014 by 2035.",
+    "has_binding_mechanism": "No; CAP enabling target \u2014 implementation depends on coordination with private operators and building owners.",
+    "has_spatial_specificity": "Yes \u2014 priority given to low- and middle-income communities in Chicago.",
+    "extraction_rationale": "EV charging infrastructure target with a numeric station count and deadline."
+  }
+]

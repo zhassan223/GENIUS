@@ -1,0 +1,15 @@
+{
+  "location": "dakar",
+  "total_extracted": 10,
+  "passed_validation": 9,
+  "final_classified": 9,
+  "validation_rate": 0.9,
+  "filtered_out": 1,
+  "category_distribution": {
+    "Mitigation": 4,
+    "Resource Efficiency": 4,
+    "Nature-Based Solutions": 1
+  },
+  "avg_classification_confidence": 0.8999999999999999,
+  "multi_label_count": 6
+}

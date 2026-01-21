@@ -1,0 +1,51 @@
+[
+  {
+    "policy_index": 0,
+    "policy_statement": "Amend LVMC/zoning and plant at least 100,000 high-quality native/adaptive public and private trees to raise city canopy to 20%.",
+    "primary_category": "Nature-Based Solutions",
+    "secondary_categories": [
+      "Adaptation",
+      "Mitigation"
+    ],
+    "classification_reasoning": "1. Identify the mechanism: The policy's primary action is planting and establishing trees and changing zoning to enable that. Trees are living ecosystems\u2014policy effectiveness depends on functioning vegetation. (Matches NbS definition: \"uses natural systems or ecological processes\".)  \n2. Apply Rule 3 (Natural vs engineered pathways): Because the solution depends on ecosystems (urban canopy) rather than solely engineered infrastructure, classify as Nature-Based Solutions.  \n3. Apply Rule 1 (primary mechanism > co-benefits): Although planting trees also sequesters carbon (mitigation) and reduces heat/flood exposure (adaptation), those are co-benefits of the ecosystem-based mechanism. The primary mechanism is ecosystem establishment, so NbS is primary.  \n4. Assign secondary categories: Trees provide shade/cooling and stormwater interception\u2014these directly reduce exposure/sensitivity to climate hazards (Adaptation). Trees also store carbon, so there is a Mitigation co-benefit. Therefore label these as secondary categories.  \n5. Note governance mechanism: The inclusion of LVMC/zoning amendments indicates regulatory support to enable planting on public and private land, confirming the policy is focused on implementing the ecosystem intervention rather than a technological mitigation or pure efficiency measure.",
+    "confidence_score": 0.93,
+    "edge_case_notes": "- The verbatim text does not explicitly state primary objective (e.g., cooling, biodiversity, carbon). If the explicit aim were primarily aesthetic or urban forestry for non-climate reasons, NbS would still apply because the mechanism is ecosystem-based, but Adaptation as a secondary label would be less certain.  \n- Mixed public/private implementation and use of zoning could imply regulatory/resource-efficiency elements (e.g., minimum planting per development), but those are implementation tools, not the primary mechanism.",
+    "primary_causal_pathway": "Ecosystem enhancement (urban tree canopy) \u2192 \u2193 exposure to heat and storm impacts (and \u2191 ecosystem services)"
+  },
+  {
+    "policy_index": 1,
+    "policy_statement": "Develop a Parks System Plan, achieve CAPRA certification, increase park acreage to 7 acres per 1,000 residents, and ensure 85% of dwelling units are within a short walk of a park or trail.",
+    "primary_category": "Nature-Based Solutions",
+    "secondary_categories": [
+      "Adaptation"
+    ],
+    "classification_reasoning": "1) Identify primary mechanism: the policy's actions are to create, expand, and certify parks and trails and set targets for park acreage and walkable access. These actions rely on living ecosystems/green spaces to deliver benefits. (Rule 3: if the mechanism is ecosystem-mediated, classify as NbS.)  \n2) Apply Rule 1 (primary mechanism over co-benefits): although parks yield many co-benefits (e.g., cooling, stormwater retention), the policy's primary doing is establishment/management of green space, not an engineered or purely social program. That makes NbS the correct primary label.  \n3) Consider adaptation linkage: Parks increase shade, cooling, and opportunities for stormwater absorption and can reduce vulnerability/exposure \u2014 matching the Adaptation pathway (climate hazard \u2192 \u2193 exposure / \u2191 adaptive capacity). Because the policy does not explicitly state climate objectives, adaptation is treated as a secondary category that is likely but not definitive.  \n4) Exclude other categories: The policy is not primarily about reducing GHG emissions or optimizing resource inputs per service (Mitigation and Resource Efficiency), so those are not primary.  \n5) Conclusion: Primary = Nature-Based Solutions; Secondary = Adaptation (plausible resilience benefit), with edge-case notes about absence of explicit climate framing.",
+    "confidence_score": 0.87,
+    "edge_case_notes": "The policy text does not explicitly reference climate hazards or ecosystem services; it could be a general recreation/health/urban planning policy with co-benefits rather than a climate-focused NbS. CAPRA accreditation is primarily a standards/accreditation mechanism for parks management (not inherently climate-oriented). If the parks are engineered (hardscapes) with little ecological function, NbS would be less appropriate; text implies conventional parks/green space but does not specify ecological design.",
+    "primary_causal_pathway": "Ecosystem creation/provision (parks & trails) \u2192 Increased adaptive capacity and reduced exposure to climate hazards (e.g., heat, runoff)"
+  },
+  {
+    "policy_index": 2,
+    "policy_statement": "Align with SNWA to reduce per-person water consumption to 90 gallons/day through code changes, pricing, incentives, and education.",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [
+      "Adaptation"
+    ],
+    "classification_reasoning": "1) Identify primary mechanism: The policy's explicit action is to lower per-capita water use through codes, pricing, incentives, and education \u2014 all measures that reduce resource (water) input for the same level of service. This matches the Resource Efficiency definition and primary pathway (\"Same service leads to DECREASED energy/water/material input\"). (Applies Rule 1: classify by what the policy DOES, not by secondary benefits.)\n\n2) Exclude Mitigation: The measures target water consumption, not greenhouse gas emissions or carbon sinks; any emissions reductions (e.g., less pumping) are incidental, so Mitigation is not primary (applies Rule 2).\n\n3) Consider NbS: The policy uses behavioral/regulatory/economic instruments, not ecosystem functioning or restoration. Effectiveness does not depend on living systems, so it is not NbS (applies Rule 3).\n\n4) Secondary category (Adaptation): The statement frames the action \"in the face of a changing climate\" and aligns with regional water resources planning. Reduced per-capita water demand increases resilience to drought and water scarcity, which fits Adaptation as a secondary benefit. Because the primary mechanism remains efficiency, Adaptation is included as a secondary category (applies Rule 4 for multi-label where appropriate).",
+    "confidence_score": 0.92,
+    "edge_case_notes": "Policy mentions climate context and regional water-resources plan, which could indicate an adaptation framing; however, the described instruments and explicit target focus on reducing resource use (efficiency/conservation). If the program prioritized drought-risk reduction measures (e.g., emergency water allocations, infrastructure for supply augmentation) rather than long-term efficiency, classification might shift toward Adaptation. Currently judged unambiguous enough for Resource Efficiency primary.",
+    "primary_causal_pathway": "Same service \u2192 decreased water input per person (reduced per-capita water consumption)"
+  },
+  {
+    "policy_index": 3,
+    "policy_statement": "Prioritize infill and redevelopment by linking regional centers with mixed-use transit-oriented development corridors and adopt modest amendments to Title 19 to support higher-density, mixed housing types.",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [
+      "Mitigation"
+    ],
+    "classification_reasoning": "1) Identify primary mechanism: the policy changes land-use rules and promotes denser, mixed-use development along transit \u2014 an efficiency/optimization of land and transport resources.  \n2) Apply Rule 1 (primary mechanism > co-benefits): although reduced greenhouse gas emissions are a likely co-benefit, the policy's action is to optimize provision of housing/access (same services with fewer inputs), which aligns with Resource Efficiency.  \n3) Apply Rule 2 (climate system vs impacts): the policy does not explicitly act on the climate system (no emissions targets, renewables, or CCS) nor does it explicitly address climate hazards or resilience, so Mitigation or Adaptation cannot be the primary label.  \n4) Apply Rule 3 (natural vs engineered): interventions are regulatory/engineering/land-use (not ecosystem-based), so not NbS.  \n5) Multi-label: added Mitigation as secondary because compact TOD reduces VMT and therefore GHG emissions, but that is a co-benefit, not the stated primary mechanism.",
+    "confidence_score": 0.85,
+    "edge_case_notes": "If the underlying plan explicitly framed the TOD/infill measures primarily as emissions-reduction strategies (e.g., part of a greenhouse gas reduction chapter), the primary label could be Mitigation. Similarly, if the amendments are primarily intended to increase climate resilience (e.g., reduce sprawl to avoid climate-exposed areas), Adaptation could be relevant. The verbatim text provided focuses on land-use, so Resource Efficiency is chosen.",
+    "primary_causal_pathway": "Same service (housing + access) \u2192 decreased energy/transport/material input (reduced vehicle miles travelled and infrastructure/land per capita)"
+  }
+]

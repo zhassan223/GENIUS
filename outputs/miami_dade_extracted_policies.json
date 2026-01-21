@@ -1,0 +1,191 @@
+[
+  {
+    "policy_statement": "Miami-Dade County will cut communitywide greenhouse gas emissions 50% by 2030 from 2019 levels, and achieve net zero by 2050.",
+    "verbatim_text": "this plan describes work taking place on multiple fronts to cut MiamiDade's greenhouse gas emissions 50 percent by 2030 from 2019 levels,  with  the  goal  of  achieving  net  zero  by  2050.\n\nThis pledge is mobilizing communities to swiftly enact measures to reduce GHG emissions 50% by 2030 compared to 2019 levels and then progress forward to achieve net zero by 2050.",
+    "has_quantifiable_target": "Yes \u2014 '50% by 2030 (from 2019)'; net zero by 2050",
+    "has_timeline": "Yes \u2014 50% by 2030; net-zero by 2050",
+    "has_binding_mechanism": "No (County commitment / pledge; not presented as a legally binding ordinance in the excerpt)",
+    "has_spatial_specificity": "Yes \u2014 Miami-Dade County (communitywide)",
+    "extraction_rationale": "Clear, numerical community target and repeated as the Strategy's core goal (quantifiable target). It is a stated County commitment (Race to Zero pledge) and frames the Strategy."
+  },
+  {
+    "policy_statement": "Benchmark 1.3 billion square feet of communitywide buildings by 2026.",
+    "verbatim_text": "BENCHMARK 1.3 BILLION SQUARE FEET COMMUNITYWIDE BY 2026",
+    "has_quantifiable_target": "Yes \u2014 Benchmark 1.3 billion sq ft by 2026",
+    "has_timeline": "Yes \u2014 by 2026",
+    "has_binding_mechanism": "No (target stated; implementation actions described elsewhere but no legal mechanism specified in the line itself)",
+    "has_spatial_specificity": "Yes \u2014 communitywide (Miami-Dade County)",
+    "extraction_rationale": "Explicit, numerical target for building benchmarking (quantifiable target and specific intervention)."
+  },
+  {
+    "policy_statement": "Retune 1.1 billion square feet of communitywide buildings by 2030.",
+    "verbatim_text": "RETUNE 1.1 BILLION SQUARE FOOTAGE OF COMMUNITY WIDE BUILDINGS BY 2030",
+    "has_quantifiable_target": "Yes \u2014 Retune 1.1 billion sq ft by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (target stated; the text elsewhere recommends an ordinance, but this line is a target)",
+    "has_spatial_specificity": "Yes \u2014 communitywide (Miami-Dade County)",
+    "extraction_rationale": "Explicit numerical target for retuning (quantifiable target and specific intervention)."
+  },
+  {
+    "policy_statement": "Retrofit 167,500 homes (prioritizing LMI households) to reduce energy costs by 28% by 2030.",
+    "verbatim_text": "RETROFIT 167,500 HOMES TO REDUCE ENERGY COSTS 28% PRIORITIZING LOW TO MODERATE INCOME (LMI) HOMES BY 2030",
+    "has_quantifiable_target": "Yes \u2014 Retrofit 167,500 homes to reduce energy costs 28% by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (stated target and prioritization; not shown as a legal mandate)",
+    "has_spatial_specificity": "Yes \u2014 communitywide (Miami-Dade County), prioritizing Low- to Moderate-Income (LMI) homes",
+    "extraction_rationale": "Specific numerical retrofit target and performance outcome for homes, prioritized for LMI households (quantifiable target + equity focus)."
+  },
+  {
+    "policy_statement": "Install 61,725 kW of solar energy by 2030 on County buildings, land, and water.",
+    "verbatim_text": "INSTALL 61,725 KW OF SOLAR ENERGY BY 2030 ON COUNTY BUILDINGS, LAND, AND WATER EQUIVALENT TO 7,498 HOMES' ELECTRICITY USE FOR ONE YEAR",
+    "has_quantifiable_target": "Yes \u2014 Install 61,725 kW on County buildings/land/water by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (targeted installations and program participation; specific financing/programs are proposed elsewhere but not a binding law in this line)",
+    "has_spatial_specificity": "Yes \u2014 on County buildings, land, and water (Miami-Dade County)",
+    "extraction_rationale": "Solar-installation capacity targets are explicit numeric commitments distinguishing County assets from commercial/residential (quantifiable targets and specific interventions)."
+  },
+  {
+    "policy_statement": "Install 794,000 kW of solar energy by 2030 on commercial and residential buildings.",
+    "verbatim_text": "INSTALL 794,000 KW OF SOLAR ENERGY BY 2030 ON COMMERCIAL AND RESIDENTIAL BUILDINGS EQUIVALENT TO 104,014 HOMES' ELECTRICITY USE FOR ONE YEAR",
+    "has_quantifiable_target": "Yes \u2014 Install 794,000 kW on commercial and residential buildings by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (target for installations across commercial and residential buildings; not presented as regulatory requirement)",
+    "has_spatial_specificity": "Yes \u2014 commercial and residential buildings across Miami-Dade County (communitywide)",
+    "extraction_rationale": "Large commercial/residential solar capacity target (quantifiable target and sectoral specificity)."
+  },
+  {
+    "policy_statement": "Reduce the energy use intensity of new buildings 20% by 2030 below 2020 levels.",
+    "verbatim_text": "REDUCE THE ENERGY USE INTENSITY OF NEW BUILDINGS 20% BY 2030 BELOW 2020 LEVELS",
+    "has_quantifiable_target": "Yes \u2014 Reduce EUI of new buildings 20% by 2030 below 2020 levels",
+    "has_timeline": "Yes \u2014 by 2030 (relative to 2020 baseline)",
+    "has_binding_mechanism": "No (stated performance target; other text indicates County programs to require ULE for County buildings but this line is a target)",
+    "has_spatial_specificity": "Yes \u2014 new buildings in Miami-Dade County (communitywide/new construction)",
+    "extraction_rationale": "Clear numerical energy-performance target for new buildings (quantifiable target and specific intervention towards efficiency)."
+  },
+  {
+    "policy_statement": "All new County buildings will be Ultra-Low Energy (ULE) by 2030.",
+    "verbatim_text": "All new County buildings will be Ultra-Low Energy by 2030",
+    "has_quantifiable_target": "Yes \u2014 all new County buildings will be Ultra-Low Energy by 2030 (performance standard)",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "Yes \u2014 County policy/administrative requirement (statement: 'All new County buildings will be Ultra-Low Energy by 2030')",
+    "has_spatial_specificity": "Yes \u2014 County-owned new buildings (Miami-Dade County government operations)",
+    "extraction_rationale": "Direct County-level commitment that requires County construction to meet a specific standard (specific intervention and County-level administrative requirement)."
+  },
+  {
+    "policy_statement": "Adopt a Building Performance Ordinance to ensure benchmarking and retuning of large existing buildings community-wide.",
+    "verbatim_text": "Adopt a Building Performance Ordinance to ensure benchmarking and retuning of large existing buildings community-wide",
+    "has_quantifiable_target": "No (the ordinance is a binding mechanism; the benchmarking/retuning targets are separate items already captured)",
+    "has_timeline": "No explicit deadline in the quoted sentence (ordinance adoption proposed as action)",
+    "has_binding_mechanism": "Yes \u2014 proposed legal/regulatory mechanism ('Adopt a Building Performance Ordinance') to mandate benchmarking and retuning",
+    "has_spatial_specificity": "Yes \u2014 large existing buildings community-wide in Miami-Dade County",
+    "extraction_rationale": "Explicit proposed regulatory measure to ensure benchmarking and retuning of large buildings (binding mechanism / specific intervention)."
+  },
+  {
+    "policy_statement": "Shift 10% of transportation mode away from single-occupant vehicles by 2030.",
+    "verbatim_text": "SHIFT 10% OF TRANSPORTATION MODE AWAY FROM SINGLE OCCUPANT VEHICLES BY 2030",
+    "has_quantifiable_target": "Yes \u2014 Shift 10% of transportation mode away from single occupant vehicles by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (mode-shift target and planning objective; implementation requires multiple measures)",
+    "has_spatial_specificity": "Yes \u2014 communitywide (Miami-Dade County)",
+    "extraction_rationale": "Transport modal-shift numeric target (quantifiable target addressing mode share)."
+  },
+  {
+    "policy_statement": "Electrify the County fleet: 80% of light vehicles and 50% of public transit buses by 2030.",
+    "verbatim_text": "ELECTRIFY THE COUNTY FLEET: 80% OF LIGHT VEHICLES AND 50% OF PUBLIC TRANSIT BUSES BY 2030",
+    "has_quantifiable_target": "Yes \u2014 80% of light vehicles and 50% of public transit buses electrified by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "Yes \u2014 County operational commitment/administrative policy to electrify its fleet (implied procurement/operational requirement)",
+    "has_spatial_specificity": "Yes \u2014 County fleet and public transit bus fleet (Miami-Dade County government operations/public transit)",
+    "extraction_rationale": "Explicit electrification targets for County fleet and buses (quantifiable targets and administrative/operational commitment)."
+  },
+  {
+    "policy_statement": "Transition 30% of communitywide vehicles to electric power by 2030.",
+    "verbatim_text": "TRANSITION 30% OF COMMUNITYWIDE VEHICLES TO ELECTRIC POWER BY 2030",
+    "has_quantifiable_target": "Yes \u2014 Transition 30% of communitywide vehicles to electric power by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (communitywide adoption target; not a regulatory mandate in the line itself)",
+    "has_spatial_specificity": "Yes \u2014 communitywide (Miami-Dade County)",
+    "extraction_rationale": "Explicit community-level EV adoption target (quantifiable target)."
+  },
+  {
+    "policy_statement": "Reduce greenhouse gas emissions from Miami International Airport and PortMiami operations by 50% and 25%, respectively, by 2030.",
+    "verbatim_text": "REDUCE GREENHOUSE GAS EMISSIONS FROM MIAMI INTERNATIONAL AIRPORT AND PORTMIAMI OPERATIONS BY 50% AND 25%, RESPECTIVELY BY 2030",
+    "has_quantifiable_target": "Yes \u2014 Reduce GHG emissions from Miami International Airport by 50% and PortMiami by 25% by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (operational targets; will require collaboration with airport/port stakeholders and industry)",
+    "has_spatial_specificity": "Yes \u2014 Miami International Airport and PortMiami operations (within Miami-Dade County)",
+    "extraction_rationale": "Clear numeric targets to cut emissions from two major transport hubs (quantifiable target; sector-specific)."
+  },
+  {
+    "policy_statement": "Increase community-wide tree canopy to 30% coverage by 2030.",
+    "verbatim_text": "INCREASE COMMUNITY-WIDE TREE CANOPY TO 30% COVERAGE BY 2030.  [COMMUNITY RECOMMENDATION ]",
+    "has_quantifiable_target": "Yes \u2014 Increase community-wide tree canopy to 30% coverage by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (community recommendation/target; other lines propose County facility requirements but this line is a communitywide target)",
+    "has_spatial_specificity": "Yes \u2014 communitywide (Miami-Dade County)",
+    "extraction_rationale": "Explicit urban canopy target (quantifiable target and communitywide natural-asset objective)."
+  },
+  {
+    "policy_statement": "Ensure County facilities within the UDB attain at least 30% canopy cover and County facilities outside the UDB attain at least 50% canopy coverage by 2030.",
+    "verbatim_text": "ENSURE THAT ALL COUNTY FACILITIES WITHIN THE URBAN DEVELOPMENT BOUNDARY (UDB) (PER 2013 DELINEATION) SHALL ATTAIN AN AVERAGE OF AT LEAST 30% CANOPY COVERAGE AND ALL COUNTY FACILITIES OUTSIDE THE UDB SHALL ATTAIN AN AVERAGE OF AT LEAST 50% CANOPY COVERAGE BY 2030",
+    "has_quantifiable_target": "Yes \u2014 County facilities within UDB: at least 30% canopy; outside UDB: at least 50% canopy \u2014 by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "Yes \u2014 the sentence uses 'ENSURE ... SHALL ATTAIN', indicating an administrative/required standard for County facilities (implies binding County policy)",
+    "has_spatial_specificity": "Yes \u2014 County facilities within and outside the Urban Development Boundary in Miami-Dade County",
+    "extraction_rationale": "Specific County-facility canopy coverage targets (quantifiable and spatially differentiated requirement for County facilities)."
+  },
+  {
+    "policy_statement": "Produce 48 GWh/year of electricity from cogeneration at wastewater plants by 2030.",
+    "verbatim_text": "48 GWH/YEAR OF ELECTRICITY FROM COGENERATION AT WASTEWATER PLANTS BY 2030",
+    "has_quantifiable_target": "Yes \u2014 48 GWh/year of electricity from cogeneration at wastewater plants by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (operational/production target for utility operations; not presented as law)",
+    "has_spatial_specificity": "Yes \u2014 wastewater plants in Miami-Dade County (WASD operations)",
+    "extraction_rationale": "Explicit target to increase energy from wastewater cogeneration (quantifiable target and specific intervention)."
+  },
+  {
+    "policy_statement": "Convert 50% of non-recycled garbage to energy by 2030.",
+    "verbatim_text": "50% OF NON-RECYCLED GARBAGE CONVERTED TO ENERGY BY 2030",
+    "has_quantifiable_target": "Yes \u2014 Convert 50% of non-recycled garbage to energy by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (operational/target for waste management; implementation requires facility upgrades and programs)",
+    "has_spatial_specificity": "Yes \u2014 countywide (Miami-Dade County solid waste stream)",
+    "extraction_rationale": "Explicit waste-to-energy target converting non-recycled garbage (quantifiable target and specific intervention)."
+  },
+  {
+    "policy_statement": "Increase recycling rates by 10% and cut non-recyclables 'contamination' in half (target tied to the Strategy's waste-to-energy approach).",
+    "verbatim_text": "10% INCREASE IN RECYCLING RATES AND CUT NON-RECYCLABLES 'CONTAMINATION' IN HALF",
+    "has_quantifiable_target": "Yes \u2014 10% increase in recycling rates and cut non-recyclables 'contamination' in half (no explicit date in the line but presented in the 2030 approach section)",
+    "has_timeline": "Implicitly by 2030 (part of Approach 6 targets)",
+    "has_binding_mechanism": "No (performance targets for recycling programs; not specified as regulatory mandate in the cited line)",
+    "has_spatial_specificity": "Yes \u2014 communitywide (Miami-Dade County)",
+    "extraction_rationale": "Explicit recycling improvement and contamination reduction target (quantifiable target for waste diversion performance)."
+  },
+  {
+    "policy_statement": "Reduce landfill waste per person by 50% by 2030.",
+    "verbatim_text": "REDUCE LANDFILL WASTE PER PERSON 50% BY 2030",
+    "has_quantifiable_target": "Yes \u2014 Reduce landfill waste per person 50% by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (communitywide target; implementation requires programmatic and regulatory actions)",
+    "has_spatial_specificity": "Yes \u2014 per-person/communitywide in Miami-Dade County",
+    "extraction_rationale": "Explicit per-capita landfill reduction target (quantifiable target for waste reduction)."
+  },
+  {
+    "policy_statement": "Reduce water consumption per person by 30% by 2030.",
+    "verbatim_text": "REDUCE WATER CONSUMPTION PER PERSON 30% BY 2030",
+    "has_quantifiable_target": "Yes \u2014 Reduce water consumption per person 30% by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (target for conservation programs; not presented as a mandatory limit in the line itself)",
+    "has_spatial_specificity": "Yes \u2014 per-person/communitywide in Miami-Dade County",
+    "extraction_rationale": "Explicit per-capita water consumption reduction target (quantifiable target for water use)."
+  },
+  {
+    "policy_statement": "Double the total non-wetland acreage of natural habitat in preservation.",
+    "verbatim_text": "DOUBLE THE TOTAL NON-WETLAND ACREAGE OF NATURAL HABITAT IN PRESERVATION",
+    "has_quantifiable_target": "Yes \u2014 Double the total non-wetland acreage of natural habitat in preservation (quantified target, no year stated)",
+    "has_timeline": "No explicit timeline provided in the quoted line",
+    "has_binding_mechanism": "No (stated target/community recommendation; not presented as a legal requirement in the quoted line)",
+    "has_spatial_specificity": "Yes \u2014 Miami-Dade County (communitywide natural habitat preservation)",
+    "extraction_rationale": "Explicit natural-habitat preservation target (specific intervention; quantifiable as 'double'), though no explicit timeline is provided in that line."
+  }
+]

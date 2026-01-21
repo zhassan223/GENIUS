@@ -1,0 +1,747 @@
+[
+  {
+    "policy_statement": "Miami-Dade County will cut communitywide greenhouse gas emissions 50% by 2030 from 2019 levels, and achieve net zero by 2050.",
+    "verbatim_text": "this plan describes work taking place on multiple fronts to cut MiamiDade's greenhouse gas emissions 50 percent by 2030 from 2019 levels,  with  the  goal  of  achieving  net  zero  by  2050.\n\nThis pledge is mobilizing communities to swiftly enact measures to reduce GHG emissions 50% by 2030 compared to 2019 levels and then progress forward to achieve net zero by 2050.",
+    "has_quantifiable_target": "Yes \u2014 '50% by 2030 (from 2019)'; net zero by 2050",
+    "has_timeline": "Yes \u2014 50% by 2030; net-zero by 2050",
+    "has_binding_mechanism": "No (County commitment / pledge; not presented as a legally binding ordinance in the excerpt)",
+    "has_spatial_specificity": "Yes \u2014 Miami-Dade County (communitywide)",
+    "extraction_rationale": "Clear, numerical community target and repeated as the Strategy's core goal (quantifiable target). It is a stated County commitment (Race to Zero pledge) and frames the Strategy.",
+    "validation_status": "VALID",
+    "confidence_score": 0.85,
+    "final_verdict": true,
+    "weak_signals": "pledge; mobilizing communities; goal; plan describes work; swiftly enact measures (aspirational/process language)",
+    "strong_signals": "50% by 2030; from 2019 levels (baseline); net zero by 2050; Miami\u2011Dade County; communitywide (spatial specificity); explicit dates and percentage",
+    "primary_category": "Mitigation",
+    "secondary_categories": [],
+    "primary_causal_pathway": "Human activity \u2192 \u2193 GHG emissions / \u2191 carbon sinks \u2192 \u2193 atmospheric forcing",
+    "key_indicators": [
+      "\"cut ... greenhouse gas emissions 50% by 2030\"",
+      "\"net zero by 2050\"",
+      "\"reduce GHG emissions 50% by 2030 compared to 2019 levels\"",
+      "\"pledge ... enact measures to reduce GHG emissions\""
+    ],
+    "policy_mechanisms": [
+      "Not specified in the text (mechanism is a target/pledge). Likely/typical mechanisms to meet the target could include: renewable energy deployment",
+      "electrification of transport and buildings",
+      "energy efficiency measures",
+      "fuel switching",
+      "carbon sequestration/offsets",
+      "and decarbonization of waste and industrial sectors."
+    ],
+    "classification_confidence": 0.95,
+    "co_benefits": [],
+    "edge_case_notes": "Mechanisms are unspecified; if the implementation emphasized ecosystem restoration (mangroves, urban forests) or natural carbon sinks as the main method, an additional NbS label would be appropriate. If the pathway emphasized purely efficiency improvements framed without climate rationale, Resource Efficiency could be relevant. Text as given contains only emissions targets, so those nuances are absent."
+  },
+  {
+    "policy_statement": "Retune 1.1 billion square feet of communitywide buildings by 2030.",
+    "verbatim_text": "RETUNE 1.1 BILLION SQUARE FOOTAGE OF COMMUNITY WIDE BUILDINGS BY 2030",
+    "has_quantifiable_target": "Yes \u2014 Retune 1.1 billion sq ft by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (target stated; the text elsewhere recommends an ordinance, but this line is a target)",
+    "has_spatial_specificity": "Yes \u2014 communitywide (Miami-Dade County)",
+    "extraction_rationale": "Explicit numerical target for retuning (quantifiable target and specific intervention).",
+    "validation_status": "VALID",
+    "confidence_score": 0.85,
+    "final_verdict": true,
+    "weak_signals": "No legal/regulatory mandate in this line; no baseline or definition of \"retune\"; missing implementation/enforcement details",
+    "strong_signals": "\"1.1 billion square feet\"; \"by 2030\"; \"communitywide\" (Miami\u2011Dade); actionable verb \"retune\" (building systems optimization)",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [
+      "Mitigation"
+    ],
+    "primary_causal_pathway": "Same service \u2192 \u2193 energy input (reduced energy consumption per service)",
+    "key_indicators": [
+      "\"Retune\"",
+      "\"buildings\"",
+      "\"communitywide\"",
+      "\"1.1 billion square feet\"",
+      "\"by 2030\" (implies building operational optimization/retro\u2011commissioning at scale)"
+    ],
+    "policy_mechanisms": [
+      "Building tune-ups / retro-commissioning / recommissioning",
+      "HVAC controls optimization",
+      "operations & maintenance improvements",
+      "building automation tuning",
+      "efficiency measures (no explicit new construction or ecosystem action)"
+    ],
+    "classification_confidence": 0.9,
+    "co_benefits": [
+      "GHG emissions reductions",
+      "reduced energy costs",
+      "peak load reduction",
+      "improved occupant comfort/indoor environmental quality"
+    ],
+    "edge_case_notes": "\"Retune\" is somewhat terse\u2014if the program included deep retrofits (insulation, fuel switching, electrification) the primary category could shift toward Mitigation. Also, if \"retune\" explicitly targeted resilience (e.g., HVAC changes to handle extreme heat events), Adaptation could be relevant. The provided text lacks those specifics."
+  },
+  {
+    "policy_statement": "Retrofit 167,500 homes (prioritizing LMI households) to reduce energy costs by 28% by 2030.",
+    "verbatim_text": "RETROFIT 167,500 HOMES TO REDUCE ENERGY COSTS 28% PRIORITIZING LOW TO MODERATE INCOME (LMI) HOMES BY 2030",
+    "has_quantifiable_target": "Yes \u2014 Retrofit 167,500 homes to reduce energy costs 28% by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (stated target and prioritization; not shown as a legal mandate)",
+    "has_spatial_specificity": "Yes \u2014 communitywide (Miami-Dade County), prioritizing Low- to Moderate-Income (LMI) homes",
+    "extraction_rationale": "Specific numerical retrofit target and performance outcome for homes, prioritized for LMI households (quantifiable target + equity focus).",
+    "validation_status": "VALID",
+    "confidence_score": 0.87,
+    "final_verdict": true,
+    "weak_signals": "No classic weak keywords detected (e.g., \"explore\", \"promote\"); minor wording note: \"prioritizing\" indicates prioritization policy but not a substitute for binding allocation or enforcement",
+    "strong_signals": "\"167,500 homes\" (numeric target); \"28%\" (quantifiable reduction); \"by 2030\" (timeline); \"retrofit\" (specific intervention/technological shift); \"prioritizing LMI homes\" and \"communitywide (Miami\u2011Dade)\" (spatial and equity specificity)",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [
+      "Mitigation"
+    ],
+    "primary_causal_pathway": "Same service (housing thermal comfort/utility) \u2192 \u2193 energy input/use per household",
+    "key_indicators": [
+      "\"Retrofit 167",
+      "500 homes\"",
+      "\"reduce energy costs 28%\"",
+      "\"homes\"",
+      "\"prioritizing LMI\"",
+      "\"by 2030\""
+    ],
+    "policy_mechanisms": [
+      "Home/building energy retrofits including insulation and air-sealing",
+      "window upgrades",
+      "HVAC/heating system upgrades or replacement",
+      "efficient appliances and lighting",
+      "energy audits",
+      "weatherization programs",
+      "targeted subsidies/grants or financing for LMI households",
+      "program outreach and prioritization"
+    ],
+    "classification_confidence": 0.95,
+    "co_benefits": [
+      "Emissions reduction (lower GHGs)",
+      "improved occupant comfort and indoor air quality",
+      "reduced energy poverty for LMI households",
+      "health benefits",
+      "lower peak demand and grid stress",
+      "local job creation in retrofit services"
+    ],
+    "edge_case_notes": "None. (Potential ambiguity only if the program explicitly prioritized measures that primarily decarbonize the energy supply (e.g., on-site renewables or fuel switching) or primarily enhance climate resilience (e.g., heat-resilient cooling installations); the provided text emphasizes cost/energy reduction via retrofits, so Resource Efficiency is clear.)"
+  },
+  {
+    "policy_statement": "Install 61,725 kW of solar energy by 2030 on County buildings, land, and water.",
+    "verbatim_text": "INSTALL 61,725 KW OF SOLAR ENERGY BY 2030 ON COUNTY BUILDINGS, LAND, AND WATER EQUIVALENT TO 7,498 HOMES' ELECTRICITY USE FOR ONE YEAR",
+    "has_quantifiable_target": "Yes \u2014 Install 61,725 kW on County buildings/land/water by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (targeted installations and program participation; specific financing/programs are proposed elsewhere but not a binding law in this line)",
+    "has_spatial_specificity": "Yes \u2014 on County buildings, land, and water (Miami-Dade County)",
+    "extraction_rationale": "Solar-installation capacity targets are explicit numeric commitments distinguishing County assets from commercial/residential (quantifiable targets and specific interventions).",
+    "validation_status": "VALID",
+    "confidence_score": 0.82,
+    "final_verdict": true,
+    "weak_signals": "no binding mechanism / enforcement; no stated baseline or interim milestones; lacks implementation/financing/accountability language",
+    "strong_signals": "\"61,725 kW\" (numeric capacity); \"by 2030\" (deadline); \"install\" (actionable verb); \"County buildings, land, and water\" (spatial specificity); \"solar\" / technological shift; \"equivalent to 7,498 homes\" (quantified public-equivalence metric)",
+    "primary_category": "Mitigation",
+    "secondary_categories": [],
+    "primary_causal_pathway": "Deployment of low-carbon electricity (solar PV) \u2192 \u2193 fossil-fuel electricity generation \u2192 \u2193 GHG emissions / \u2193 atmospheric forcing",
+    "key_indicators": [
+      "\"Install\"",
+      "\"solar energy\"",
+      "\"61",
+      "725 kW\"",
+      "\"by 2030\"",
+      "\"on County buildings",
+      "land",
+      "and water\"",
+      "\"equivalent to 7",
+      "498 homes' electricity use\""
+    ],
+    "policy_mechanisms": [
+      "Deployment of solar photovoltaic (PV) systems on county assets \u2014 rooftop and ground-mounted solar",
+      "and floating/over-water solar installations; on-site renewable electricity generation to displace grid fossil generation"
+    ],
+    "classification_confidence": 0.95,
+    "co_benefits": [
+      "Increased local energy resilience and reliability",
+      "reduced energy bills/cost savings",
+      "local air quality improvements",
+      "job creation in installation and maintenance"
+    ],
+    "edge_case_notes": "None significant. Minor ambiguity: if the program were explicitly framed primarily for energy resilience or emergency backup (rather than decarbonization), classification could shift toward Adaptation; the provided wording and emphasis on electricity equivalence support Mitigation as primary."
+  },
+  {
+    "policy_statement": "Install 794,000 kW of solar energy by 2030 on commercial and residential buildings.",
+    "verbatim_text": "INSTALL 794,000 KW OF SOLAR ENERGY BY 2030 ON COMMERCIAL AND RESIDENTIAL BUILDINGS EQUIVALENT TO 104,014 HOMES' ELECTRICITY USE FOR ONE YEAR",
+    "has_quantifiable_target": "Yes \u2014 Install 794,000 kW on commercial and residential buildings by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (target for installations across commercial and residential buildings; not presented as regulatory requirement)",
+    "has_spatial_specificity": "Yes \u2014 commercial and residential buildings across Miami-Dade County (communitywide)",
+    "extraction_rationale": "Large commercial/residential solar capacity target (quantifiable target and sectoral specificity).",
+    "validation_status": "VALID",
+    "confidence_score": 0.78,
+    "final_verdict": true,
+    "weak_signals": "no legal/mandatory language; no baseline (current installed capacity); no interim milestones or enforcement described",
+    "strong_signals": "\"794,000 kW\" (quantified capacity); \"by 2030\" (deadline); \"commercial and residential buildings\" (spatial scope); \"install\" (action verb); \"equivalent to 104,014 homes\" (impact metric)",
+    "primary_category": "Mitigation",
+    "secondary_categories": [],
+    "primary_causal_pathway": "Increased deployment of renewable electricity (solar PV) \u2192 \u2193 GHG emissions from power generation \u2192 \u2193 atmospheric forcing",
+    "key_indicators": [
+      "\"Install 794",
+      "000 kW of solar\"",
+      "\"solar energy\"",
+      "\"by 2030\"",
+      "\"commercial and residential buildings\"",
+      "\"equivalent to 104",
+      "014 homes' electricity use\""
+    ],
+    "policy_mechanisms": [
+      "Deployment/installation of rooftop and building-integrated solar PV capacity; explicit capacity target (794",
+      "000 kW) with a deadline (by 2030)"
+    ],
+    "classification_confidence": 0.95,
+    "co_benefits": [
+      "Energy cost savings for households/businesses",
+      "improved energy security/resilience",
+      "local job creation in installation/maintenance",
+      "reduced air pollution"
+    ],
+    "edge_case_notes": "Minor ambiguity: rooftop solar can also enhance local energy resilience (backup power) and reduce bills; if the policy were explicitly framed primarily to improve resilience or reliability (e.g., mandate coupled storage for outage protection), Adaptation or dual-label (Mitigation+Adaptation) could apply. The text provided contains no such framing, so Mitigation is primary."
+  },
+  {
+    "policy_statement": "Reduce the energy use intensity of new buildings 20% by 2030 below 2020 levels.",
+    "verbatim_text": "REDUCE THE ENERGY USE INTENSITY OF NEW BUILDINGS 20% BY 2030 BELOW 2020 LEVELS",
+    "has_quantifiable_target": "Yes \u2014 Reduce EUI of new buildings 20% by 2030 below 2020 levels",
+    "has_timeline": "Yes \u2014 by 2030 (relative to 2020 baseline)",
+    "has_binding_mechanism": "No (stated performance target; other text indicates County programs to require ULE for County buildings but this line is a target)",
+    "has_spatial_specificity": "Yes \u2014 new buildings in Miami-Dade County (communitywide/new construction)",
+    "extraction_rationale": "Clear numerical energy-performance target for new buildings (quantifiable target and specific intervention towards efficiency).",
+    "validation_status": "VALID",
+    "confidence_score": 0.82,
+    "final_verdict": true,
+    "weak_signals": "performance target not legally binding; no enforcement mechanism; lacks specified technological mandate",
+    "strong_signals": "\"20%\"; \"by 2030\"; \"below 2020 levels\" (baseline); \"energy use intensity (EUI)\"; \"new buildings\" / new construction; measurable, time-bound percentage reduction",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [
+      "Mitigation"
+    ],
+    "primary_causal_pathway": "Same service \u2192 DECREASED energy input",
+    "key_indicators": [
+      "\"Reduce the energy use intensity\"",
+      "\"new buildings\"",
+      "\"20% by 2030 below 2020 levels\"",
+      "energy performance target"
+    ],
+    "policy_mechanisms": [
+      "Building energy efficiency standards / codes",
+      "energy performance targets for new construction",
+      "mandatory energy use intensity benchmarking for new buildings"
+    ],
+    "classification_confidence": 0.92,
+    "co_benefits": [
+      "Emissions reduction (lower CO2)",
+      "lower energy bills / operating cost savings",
+      "reduced peak electricity demand",
+      "improved building performance"
+    ],
+    "edge_case_notes": "None \u2014 only minor ambiguity if the policy were explicitly framed as an emissions target (e.g., \"to meet net-zero\"), which could shift primary classification to Mitigation; but the text focuses on energy-use intensity, supporting Resource Efficiency as primary."
+  },
+  {
+    "policy_statement": "All new County buildings will be Ultra-Low Energy (ULE) by 2030.",
+    "verbatim_text": "All new County buildings will be Ultra-Low Energy by 2030",
+    "has_quantifiable_target": "Yes \u2014 all new County buildings will be Ultra-Low Energy by 2030 (performance standard)",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "Yes \u2014 County policy/administrative requirement (statement: 'All new County buildings will be Ultra-Low Energy by 2030')",
+    "has_spatial_specificity": "Yes \u2014 County-owned new buildings (Miami-Dade County government operations)",
+    "extraction_rationale": "Direct County-level commitment that requires County construction to meet a specific standard (specific intervention and County-level administrative requirement).",
+    "validation_status": "VALID",
+    "confidence_score": 0.9,
+    "final_verdict": true,
+    "weak_signals": "no defined numeric metric (kWh/m2 or %); no stated baseline; no explicit enforcement/monitoring mechanism; ULE term not defined",
+    "strong_signals": "\"All new\" (universal scope); \"Ultra-Low Energy\" (performance standard); \"by 2030\" (deadline); county policy / administrative mandate",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [
+      "Mitigation"
+    ],
+    "primary_causal_pathway": "Same service \u2192 DECREASED energy input",
+    "key_indicators": [
+      "\"Ultra-Low Energy (ULE)\"",
+      "\"All new County buildings\"",
+      "\"by 2030\"",
+      "building performance/standard implication"
+    ],
+    "policy_mechanisms": [
+      "Mandatory building performance/energy efficiency standard for new County buildings (ULE requirement); procurement/design requirements; building codes or internal county construction specifications to achieve ultra-low energy use (insulation/airtightness",
+      "high-efficiency HVAC",
+      "passive design",
+      "energy modelling/verification)"
+    ],
+    "classification_confidence": 0.92,
+    "co_benefits": [
+      "Emissions reduction (lower operational GHGs)",
+      "reduced energy bills/operational costs",
+      "improved occupant comfort/indoor environmental quality",
+      "reduced peak electricity demand"
+    ],
+    "edge_case_notes": "If \"ULE\" is defined in this jurisdiction to require on-site renewables or net-zero operational emissions, the policy could be framed primarily as Mitigation. If ULE explicitly includes passive cooling or heat-resilience measures tied to protecting occupants during heatwaves, there could be a stronger Adaptation component. The provided text lacks those definitions, so Resource Efficiency is chosen."
+  },
+  {
+    "policy_statement": "Adopt a Building Performance Ordinance to ensure benchmarking and retuning of large existing buildings community-wide.",
+    "verbatim_text": "Adopt a Building Performance Ordinance to ensure benchmarking and retuning of large existing buildings community-wide",
+    "has_quantifiable_target": "No (the ordinance is a binding mechanism; the benchmarking/retuning targets are separate items already captured)",
+    "has_timeline": "No explicit deadline in the quoted sentence (ordinance adoption proposed as action)",
+    "has_binding_mechanism": "Yes \u2014 proposed legal/regulatory mechanism ('Adopt a Building Performance Ordinance') to mandate benchmarking and retuning",
+    "has_spatial_specificity": "Yes \u2014 large existing buildings community-wide in Miami-Dade County",
+    "extraction_rationale": "Explicit proposed regulatory measure to ensure benchmarking and retuning of large buildings (binding mechanism / specific intervention).",
+    "validation_status": "VALID",
+    "confidence_score": 0.8,
+    "final_verdict": true,
+    "weak_signals": "\"ensure\" (vague outcome), absence of numeric targets, absence of compliance timeline/deadlines, no baseline or required performance thresholds",
+    "strong_signals": "\"Adopt ... Ordinance\" (binding/mandate), \"community-wide\" / \"large existing buildings\" (spatial scope), \"benchmarking\" and \"retuning\" (specific operational requirements)",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [
+      "Mitigation"
+    ],
+    "primary_causal_pathway": "Same service \u2192 DECREASED energy input",
+    "key_indicators": [
+      "\"Building Performance Ordinance\"",
+      "\"benchmarking\"",
+      "\"retuning\"",
+      "\"large existing buildings\"",
+      "\"performance\""
+    ],
+    "policy_mechanisms": [
+      "Energy benchmarking and disclosure; mandatory building performance standards/ordinance; periodic building tune-ups/retuning (operational optimization); compliance/reporting requirements for large existing buildings"
+    ],
+    "classification_confidence": 0.92,
+    "co_benefits": [
+      "Emissions reduction (GHG savings)",
+      "lower energy costs",
+      "reduced peak electricity demand",
+      "improved occupant comfort/indoor environment",
+      "potential public health benefits"
+    ],
+    "edge_case_notes": "If the ordinance explicitly set emissions targets or tied benchmarking to GHG limits/credits, primary classification could shift toward Mitigation. If retuning requirements were framed explicitly as heat-wave resilience (e.g., maintaining indoor conditions during extreme heat) the policy might gain an Adaptation component. As written, wording focuses on performance/efficiency, so Resource Efficiency is best fit."
+  },
+  {
+    "policy_statement": "Shift 10% of transportation mode away from single-occupant vehicles by 2030.",
+    "verbatim_text": "SHIFT 10% OF TRANSPORTATION MODE AWAY FROM SINGLE OCCUPANT VEHICLES BY 2030",
+    "has_quantifiable_target": "Yes \u2014 Shift 10% of transportation mode away from single occupant vehicles by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (mode-shift target and planning objective; implementation requires multiple measures)",
+    "has_spatial_specificity": "Yes \u2014 communitywide (Miami-Dade County)",
+    "extraction_rationale": "Transport modal-shift numeric target (quantifiable target addressing mode share).",
+    "validation_status": "VALID",
+    "confidence_score": 0.78,
+    "final_verdict": true,
+    "weak_signals": "none (red flags: no binding mechanism; no baseline/metric definition; implementation unspecified)",
+    "strong_signals": "\"10%\"; \"by 2030\"; explicit mode shift away from single\u2011occupant vehicles; spatial scope = communitywide (Miami\u2011Dade County)",
+    "primary_category": "Mitigation",
+    "secondary_categories": [
+      "Resource Efficiency"
+    ],
+    "primary_causal_pathway": "Human activity (transport mode choice) \u2192 DECREASED GHG emissions",
+    "key_indicators": [
+      "\"shift ... away from single-occupant vehicles\"",
+      "\"transportation mode\"",
+      "\"10% by 2030\""
+    ],
+    "policy_mechanisms": [
+      "Mode\u2011shift target / target setting (10% shift away from SOVs); implies transport demand management measures such as expanded public transit",
+      "active\u2011transport infrastructure",
+      "carpooling/carpool priority",
+      "parking/pricing incentives",
+      "and travel behavior change programs (note: the statement itself is a mode\u2011share target rather than a specific implementation instrument)"
+    ],
+    "classification_confidence": 0.88,
+    "co_benefits": [
+      "Reduced congestion",
+      "improved air quality",
+      "public health benefits (active travel)",
+      "lower energy use per passenger",
+      "reduced road wear and parking demand",
+      "potential equity and cost savings for households"
+    ],
+    "edge_case_notes": "The statement is a high\u2011level target without explicit implementation instruments or stated objectives (e.g., congestion relief, air quality, equity). If the actual program prioritized resilience or passenger access (framed as reducing vulnerability), it could be classified partly as Adaptation. Likewise, if the mode shift relied primarily on improving public realm/green infrastructure for walking/cycling, parts could be considered NbS only if effectiveness depended on ecosystems \u2014 neither is explicit here."
+  },
+  {
+    "policy_statement": "Electrify the County fleet: 80% of light vehicles and 50% of public transit buses by 2030.",
+    "verbatim_text": "ELECTRIFY THE COUNTY FLEET: 80% OF LIGHT VEHICLES AND 50% OF PUBLIC TRANSIT BUSES BY 2030",
+    "has_quantifiable_target": "Yes \u2014 80% of light vehicles and 50% of public transit buses electrified by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "Yes \u2014 County operational commitment/administrative policy to electrify its fleet (implied procurement/operational requirement)",
+    "has_spatial_specificity": "Yes \u2014 County fleet and public transit bus fleet (Miami-Dade County government operations/public transit)",
+    "extraction_rationale": "Explicit electrification targets for County fleet and buses (quantifiable targets and administrative/operational commitment).",
+    "validation_status": "VALID",
+    "confidence_score": 0.93,
+    "final_verdict": true,
+    "weak_signals": "No baseline stated; binding mechanism is implied/administrative (not explicitly statutory); lacks implementation/funding detail",
+    "strong_signals": "\"80%\" (light vehicles), \"50%\" (buses), \"by 2030\" (deadline), \"electrify\" (clear technological shift), explicit spatial scope (\"County fleet\", \"public transit buses\"), implied procurement/operational mandate",
+    "primary_category": "Mitigation",
+    "secondary_categories": [],
+    "primary_causal_pathway": "Human activity (fossil-fuel vehicles \u2192 EV adoption) \u2192 \u2193 GHG emissions (vehicle sector) \u2192 \u2193 atmospheric forcing",
+    "key_indicators": [
+      "\"Electrify the County fleet\"",
+      "\"80% of light vehicles\"",
+      "\"50% of public transit buses\"",
+      "target year \"by 2030\"",
+      "\"electrify\""
+    ],
+    "policy_mechanisms": [
+      "Fleet electrification targets / procurement mandate for electric vehicles; transition from internal-combustion vehicles to battery electric vehicles; (implied) deployment of vehicle charging infrastructure and phase-out schedule for ICE vehicles"
+    ],
+    "classification_confidence": 0.95,
+    "co_benefits": [
+      "Improved local air quality (reduced tailpipe pollutants)",
+      "lower fuel/operating costs",
+      "reduced noise",
+      "potential energy-cost savings",
+      "potential long-term GHG reductions depending on grid decarbonization"
+    ],
+    "edge_case_notes": "- If the policy were primarily framed as maintaining service during extreme events (e.g., resilient/backup electric buses with on-board power for emergencies) or emphasized charging microgrids for disaster response, an Adaptation component could be relevant \u2014 but no such framing is present.  \n- Actual emissions reduction depends on grid carbon intensity; if the electricity is highly carbon-intensive, net mitigation impact could be smaller (still typically reduces local tailpipe emissions).  \n- Some resource-efficiency and local air-quality co-benefits are expected but are secondary."
+  },
+  {
+    "policy_statement": "Transition 30% of communitywide vehicles to electric power by 2030.",
+    "verbatim_text": "TRANSITION 30% OF COMMUNITYWIDE VEHICLES TO ELECTRIC POWER BY 2030",
+    "has_quantifiable_target": "Yes \u2014 Transition 30% of communitywide vehicles to electric power by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (communitywide adoption target; not a regulatory mandate in the line itself)",
+    "has_spatial_specificity": "Yes \u2014 communitywide (Miami-Dade County)",
+    "extraction_rationale": "Explicit community-level EV adoption target (quantifiable target).",
+    "validation_status": "VALID",
+    "confidence_score": 0.88,
+    "final_verdict": true,
+    "weak_signals": "No binding/enforcement language; no baseline provided; lacks specified implementation/funding/responsible parties",
+    "strong_signals": "\"30%\" (quantitative target); \"by 2030\" (timeline); \"communitywide\"/Miami-Dade (spatial specificity); \"vehicles to electric power\" (technological shift)",
+    "primary_category": "Mitigation",
+    "secondary_categories": [],
+    "primary_causal_pathway": "Human activity (vehicle fuel use \u2192 vehicle electrification) \u2192 \u2193 GHG emissions from transport \u2192 \u2193 atmospheric forcing",
+    "key_indicators": [
+      "\"Transition ... vehicles to electric power\"",
+      "\"30% of communitywide vehicles\"",
+      "\"by 2030\"",
+      "\"electric\""
+    ],
+    "policy_mechanisms": [
+      "Fleet electrification target/mandate (30% EV by 2030); implied mechanisms to achieve target could include procurement/replacement schedules for public fleets",
+      "EV purchase incentives/subsidies",
+      "deployment of charging infrastructure",
+      "and vehicle retirement/scrappage programs."
+    ],
+    "classification_confidence": 0.92,
+    "co_benefits": [
+      "Reduced local air pollution and health impacts",
+      "lower noise",
+      "potential energy security/resilience benefits",
+      "reduced tailpipe emissions",
+      "potential long-term operational cost savings"
+    ],
+    "edge_case_notes": "- Net mitigation depends on the electricity grid mix; if electricity is highly carbon-intensive, near-term GHG reductions could be smaller or require parallel grid decarbonization.  \n- \"Communitywide vehicles\" is ambiguous (public fleet only vs all community vehicles); scope affects scale of emissions impact.  \n- Electrification can have secondary resilience or resource-efficiency effects (V2G, reduced local fuel supply dependence), but those are not the primary mechanism here."
+  },
+  {
+    "policy_statement": "Reduce greenhouse gas emissions from Miami International Airport and PortMiami operations by 50% and 25%, respectively, by 2030.",
+    "verbatim_text": "REDUCE GREENHOUSE GAS EMISSIONS FROM MIAMI INTERNATIONAL AIRPORT AND PORTMIAMI OPERATIONS BY 50% AND 25%, RESPECTIVELY BY 2030",
+    "has_quantifiable_target": "Yes \u2014 Reduce GHG emissions from Miami International Airport by 50% and PortMiami by 25% by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (operational targets; will require collaboration with airport/port stakeholders and industry)",
+    "has_spatial_specificity": "Yes \u2014 Miami International Airport and PortMiami operations (within Miami-Dade County)",
+    "extraction_rationale": "Clear numeric targets to cut emissions from two major transport hubs (quantifiable target; sector-specific).",
+    "validation_status": "VALID",
+    "confidence_score": 0.82,
+    "final_verdict": true,
+    "weak_signals": "no binding mechanism; baseline year not specified; implementation/technology pathway unspecified; relies on stakeholder collaboration (voluntary)",
+    "strong_signals": "50%; 25%; by 2030; Miami International Airport; PortMiami; explicit percentage reductions; clear deadline; spatial specificity",
+    "primary_category": "Mitigation",
+    "secondary_categories": [],
+    "primary_causal_pathway": "Human activity (airport/port operations) \u2192 \u2193 GHG emissions \u2192 \u2193 atmospheric forcing",
+    "key_indicators": [
+      "\"Reduce greenhouse gas emissions\"",
+      "\"50% by 2030\"",
+      "\"25% by 2030\"",
+      "\"Miami International Airport\"",
+      "\"PortMiami operations\""
+    ],
+    "policy_mechanisms": [
+      "Emissions reduction targets and reporting; electrification of ground support equipment and vehicles; procurement of renewable electricity (PPAs) / on-site solar; energy efficiency retrofits of buildings and terminals; fuel switching to low-carbon fuels; operational changes to reduce idling/fuel use; carbon monitoring and management; possible use of offsets as a residual measure"
+    ],
+    "classification_confidence": 0.95,
+    "co_benefits": [
+      "Improved local air quality",
+      "reduced fuel and energy costs",
+      "noise reduction",
+      "public health benefits",
+      "operational efficiency",
+      "potential jobs in clean energy/electrification sectors"
+    ],
+    "edge_case_notes": "Possible ambiguities: the statement is a high-level target without specified means. If implementation emphasizes only efficiency (resource savings) or resilience measures framed primarily to maintain operations under climate impacts, a secondary label (Resource Efficiency or Adaptation) could be relevant. Also, if implementation relied chiefly on ecosystem measures for emissions/removal (e.g., large-scale blue carbon offsets tied to port lands), NbS could be an additional label \u2014 but nothing in the text indicates that."
+  },
+  {
+    "policy_statement": "Increase community-wide tree canopy to 30% coverage by 2030.",
+    "verbatim_text": "INCREASE COMMUNITY-WIDE TREE CANOPY TO 30% COVERAGE BY 2030.  [COMMUNITY RECOMMENDATION ]",
+    "has_quantifiable_target": "Yes \u2014 Increase community-wide tree canopy to 30% coverage by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (community recommendation/target; other lines propose County facility requirements but this line is a communitywide target)",
+    "has_spatial_specificity": "Yes \u2014 communitywide (Miami-Dade County)",
+    "extraction_rationale": "Explicit urban canopy target (quantifiable target and communitywide natural-asset objective).",
+    "validation_status": "VALID",
+    "confidence_score": 0.78,
+    "final_verdict": true,
+    "weak_signals": "\"community recommendation\" (non-binding); no baseline provided; lacks enforcement/funding/implementation details",
+    "strong_signals": "\"30% coverage\" (quantitative target); \"by 2030\" (timeline); \"community-wide\" (spatial specificity); \"Increase\" (clear directional/transition objective)",
+    "primary_category": "Nature-Based Solutions",
+    "secondary_categories": [
+      "Adaptation",
+      "Mitigation"
+    ],
+    "primary_causal_pathway": "Ecosystem enhancement (increased tree canopy) \u2192 \u2191 adaptive capacity / \u2193 exposure to heat and flooding (and \u2191 carbon uptake as co-benefit)",
+    "key_indicators": [
+      "\"tree canopy\"",
+      "\"30% coverage\"",
+      "\"community-wide\"",
+      "\"increase ... canopy\"",
+      "planting/coverage target"
+    ],
+    "policy_mechanisms": [
+      "Urban tree-planting programs; municipal canopy targets; urban forestry management and maintenance; incentives or funding for street and private-tree planting; public-private planting partnerships; tree protection and stewardship policies"
+    ],
+    "classification_confidence": 0.92,
+    "co_benefits": [
+      "Urban cooling / reduced heat exposure",
+      "stormwater absorption and flood risk reduction",
+      "increased carbon sequestration",
+      "improved air quality",
+      "enhanced biodiversity",
+      "public health and well-being"
+    ],
+    "edge_case_notes": "The policy text lacks explicit climate framing (could be motivated by aesthetics, biodiversity, or urban greening rather than climate). If the primary intent were purely non-climate (e.g., property value), one might classify it as urban planning/green infrastructure with NbS still appropriate. No indication that the target is solely resource-efficiency (e.g., replacing trees with engineered shade), so NbS remains primary."
+  },
+  {
+    "policy_statement": "Ensure County facilities within the UDB attain at least 30% canopy cover and County facilities outside the UDB attain at least 50% canopy coverage by 2030.",
+    "verbatim_text": "ENSURE THAT ALL COUNTY FACILITIES WITHIN THE URBAN DEVELOPMENT BOUNDARY (UDB) (PER 2013 DELINEATION) SHALL ATTAIN AN AVERAGE OF AT LEAST 30% CANOPY COVERAGE AND ALL COUNTY FACILITIES OUTSIDE THE UDB SHALL ATTAIN AN AVERAGE OF AT LEAST 50% CANOPY COVERAGE BY 2030",
+    "has_quantifiable_target": "Yes \u2014 County facilities within UDB: at least 30% canopy; outside UDB: at least 50% canopy \u2014 by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "Yes \u2014 the sentence uses 'ENSURE ... SHALL ATTAIN', indicating an administrative/required standard for County facilities (implies binding County policy)",
+    "has_spatial_specificity": "Yes \u2014 County facilities within and outside the Urban Development Boundary in Miami-Dade County",
+    "extraction_rationale": "Specific County-facility canopy coverage targets (quantifiable and spatially differentiated requirement for County facilities).",
+    "validation_status": "VALID",
+    "confidence_score": 0.9,
+    "final_verdict": true,
+    "weak_signals": "baseline unspecified; measurement method unspecified; enforcement/implementation details unspecified",
+    "strong_signals": "\"30% canopy\"; \"50% canopy\"; \"by 2030\"; \"ENSURE\"/\"SHALL ATTAIN\" (binding language); spatial split: within/outside UDB (2013 delineation)",
+    "primary_category": "Nature-Based Solutions",
+    "secondary_categories": [
+      "Adaptation",
+      "Mitigation"
+    ],
+    "primary_causal_pathway": "Ecosystem enhancement (\u2191 canopy cover) \u2192 \u2191 ecosystem services (shading, evapotranspiration, infiltration, carbon uptake) \u2192 \u2193 heat exposure and flood/runoff risk (resilience) and \u2191 carbon sinks",
+    "key_indicators": [
+      "\"canopy cover\"/\"canopy coverage\"",
+      "\"County facilities\"",
+      "\"attain\"",
+      "\"30%\"/\"50% canopy\"",
+      "\"by 2030\"",
+      "\"within/outside the Urban Development Boundary (UDB)\""
+    ],
+    "policy_mechanisms": [
+      "Canopy/urban forestry targets for County facilities; tree planting and preservation programs; site landscaping and maintenance standards; urban forest management and monitoring to reach percentage coverage goals"
+    ],
+    "classification_confidence": 0.92,
+    "co_benefits": [
+      "Heat mitigation/cooling (reduced urban heat exposure)",
+      "stormwater management/flood risk reduction",
+      "carbon sequestration (GHG reduction)",
+      "improved air quality",
+      "biodiversity habitat",
+      "public health/well-being",
+      "energy demand reduction for cooling"
+    ],
+    "edge_case_notes": "Possible ambiguity about primary intent: if the policy were primarily for aesthetics, biodiversity, or urban forestry program administration without intended climate/resilience outcomes, one might treat it as general urban greening (still NbS mechanistically). The relative weighting between adaptation vs mitigation benefits isn't specified; adaptation benefits (cooling, stormwater) are likely primary practical outcomes, but because the mechanism is ecosystem-based NbS is prioritized per classification rules."
+  },
+  {
+    "policy_statement": "Produce 48 GWh/year of electricity from cogeneration at wastewater plants by 2030.",
+    "verbatim_text": "48 GWH/YEAR OF ELECTRICITY FROM COGENERATION AT WASTEWATER PLANTS BY 2030",
+    "has_quantifiable_target": "Yes \u2014 48 GWh/year of electricity from cogeneration at wastewater plants by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (operational/production target for utility operations; not presented as law)",
+    "has_spatial_specificity": "Yes \u2014 wastewater plants in Miami-Dade County (WASD operations)",
+    "extraction_rationale": "Explicit target to increase energy from wastewater cogeneration (quantifiable target and specific intervention).",
+    "validation_status": "VALID",
+    "confidence_score": 0.88,
+    "final_verdict": true,
+    "weak_signals": "no baseline; no binding/legal mandate; no interim milestones; operational/production target (not codified)",
+    "strong_signals": "\"48 GWh/year\"; \"by 2030\"; \"cogeneration\"; \"electricity\"; \"wastewater plants\" (WASD, Miami\u2011Dade County)",
+    "primary_category": "Mitigation",
+    "secondary_categories": [
+      "Resource Efficiency"
+    ],
+    "primary_causal_pathway": "Human activity (waste-to-energy/cogeneration) \u2192 \u2193 GHG emissions (methane capture + fossil electricity displacement) \u2192 \u2193 atmospheric forcing",
+    "key_indicators": [
+      "\"cogeneration\"",
+      "\"wastewater plants\"",
+      "\"48 GWh/year\"",
+      "\"electricity\"",
+      "\"by 2030\""
+    ],
+    "policy_mechanisms": [
+      "Biogas capture and use",
+      "cogeneration/combined heat and power (CHP) at wastewater treatment plants",
+      "on-site renewable electricity generation targets/quotas",
+      "energy recovery from wastewater"
+    ],
+    "classification_confidence": 0.9,
+    "co_benefits": [
+      "Reduced methane emissions from wastewater",
+      "improved energy self-sufficiency for utilities",
+      "lower operational energy costs",
+      "circular economy/resource recovery",
+      "local air quality improvements"
+    ],
+    "edge_case_notes": "Possible ambiguity: the statement does not explicitly mention \"biogas\" or \"methane capture\" \u2014 cogeneration at wastewater plants often implies anaerobic digestion and biogas use, but if cogeneration used fossil gas feedstock there would be different implications. Also, if the policy's primary motivation were energy security/resilience rather than emissions, Adaptation or Resource Efficiency could be argued; however the energy-output target (GWh/year) typically signals mitigation/energy-generation intent."
+  },
+  {
+    "policy_statement": "Convert 50% of non-recycled garbage to energy by 2030.",
+    "verbatim_text": "50% OF NON-RECYCLED GARBAGE CONVERTED TO ENERGY BY 2030",
+    "has_quantifiable_target": "Yes \u2014 Convert 50% of non-recycled garbage to energy by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (operational/target for waste management; implementation requires facility upgrades and programs)",
+    "has_spatial_specificity": "Yes \u2014 countywide (Miami-Dade County solid waste stream)",
+    "extraction_rationale": "Explicit waste-to-energy target converting non-recycled garbage (quantifiable target and specific intervention).",
+    "validation_status": "VALID",
+    "confidence_score": 0.82,
+    "final_verdict": true,
+    "weak_signals": "No explicit red-flag wording (e.g., \"promote\", \"explore\") present; structural weak signals: no binding mechanism/legal mandate; no baseline value provided; lacks technology/emissions/monitoring details; implementation responsibilities and financing unspecified.",
+    "strong_signals": "\"50%\"; \"by 2030\"; clear action verb \"Convert ... to energy\"; spatial scope (countywide / Miami\u2011Dade solid waste stream).",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [
+      "Mitigation"
+    ],
+    "primary_causal_pathway": "Same service \u2192 DECREASED waste output / INCREASED energy recovery",
+    "key_indicators": [
+      "\"convert ... garbage to energy\"",
+      "\"non-recycled garbage\"",
+      "\"50% ... by 2030\"",
+      "\"convert to energy\"",
+      "\"garbage-to-energy\""
+    ],
+    "policy_mechanisms": [
+      "Waste-to-energy conversion mandate/target; deployment of WtE infrastructure (incineration with energy recovery)",
+      "anaerobic digestion",
+      "landfill-gas-to-energy capture; feedstock diversion targets / regulatory target for percent conversion by 2030; possible incentives or permits to develop energy-from-waste facilities."
+    ],
+    "classification_confidence": 0.88,
+    "co_benefits": [
+      "Emissions reduction (avoided landfill methane",
+      "displacement of fossil fuel electricity)",
+      "local energy generation",
+      "reduced landfill volumes/land use",
+      "improved municipal waste management",
+      "potential reduced reliance on imported fuels"
+    ],
+    "edge_case_notes": "Ambiguity over technology: anaerobic digestion or landfill-gas-to-energy are more strongly climate\u2011beneficial than incineration, which emits CO2; the policy doesn't specify technology or emission controls, so climate impact is uncertain. If the policy were explicitly framed as \"to reduce GHGs\" or specified methane avoidance/fossil fuel displacement as the goal, primary classification could shift to Mitigation. Not NbS or Adaptation based on available wording."
+  },
+  {
+    "policy_statement": "Increase recycling rates by 10% and cut non-recyclables 'contamination' in half (target tied to the Strategy's waste-to-energy approach).",
+    "verbatim_text": "10% INCREASE IN RECYCLING RATES AND CUT NON-RECYCLABLES 'CONTAMINATION' IN HALF",
+    "has_quantifiable_target": "Yes \u2014 10% increase in recycling rates and cut non-recyclables 'contamination' in half (no explicit date in the line but presented in the 2030 approach section)",
+    "has_timeline": "Implicitly by 2030 (part of Approach 6 targets)",
+    "has_binding_mechanism": "No (performance targets for recycling programs; not specified as regulatory mandate in the cited line)",
+    "has_spatial_specificity": "Yes \u2014 communitywide (Miami-Dade County)",
+    "extraction_rationale": "Explicit recycling improvement and contamination reduction target (quantifiable target for waste diversion performance).",
+    "validation_status": "VALID",
+    "confidence_score": 0.78,
+    "final_verdict": true,
+    "weak_signals": "\"tied to the Strategy\", \"approach\", quoted/ambiguous \"contamination\", no explicit mandate/enforcement",
+    "strong_signals": "\"10% increase in recycling rates\", \"cut ... in half\" (50% reduction), implicit \"2030\" timeline, communitywide (Miami\u2011Dade County), measurable percent targets",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [
+      "Mitigation"
+    ],
+    "primary_causal_pathway": "Same service/consumption level \u2192 \u2193 material/waste output (reduced waste generation and contamination)",
+    "key_indicators": [
+      "\"increase recycling rates by 10%\"",
+      "\"cut non-recyclables 'contamination' in half\"",
+      "\"waste-to-energy approach\"",
+      "\"recycling\"",
+      "\"contamination\""
+    ],
+    "policy_mechanisms": [
+      "Recycling targets/quotas; contamination-reduction measures (improved source separation",
+      "sorting standards); improved collection/processing infrastructure; monitoring and reporting requirements; incentives/penalties and public education campaigns to improve recycling quality"
+    ],
+    "classification_confidence": 0.88,
+    "co_benefits": [
+      "Emissions reduction (landfill methane avoidance",
+      "lower embodied emissions from recycled materials)",
+      "landfill diversion",
+      "resource conservation",
+      "reduced pollution",
+      "potential energy recovery"
+    ],
+    "edge_case_notes": "Mention of \"waste-to-energy approach\" creates ambiguity: if the program's primary intent were to optimize energy generation or cut GHGs (e.g., by diverting biodegradable waste from landfill to reduce methane), the primary label could shift toward Mitigation. Also, if contamination reduction is primarily to improve feedstock quality for incineration rather than recycling, the mechanisms and classification might differ. Current text emphasizes recycling rates and contamination\u2014supports Resource Efficiency as primary."
+  },
+  {
+    "policy_statement": "Reduce landfill waste per person by 50% by 2030.",
+    "verbatim_text": "REDUCE LANDFILL WASTE PER PERSON 50% BY 2030",
+    "has_quantifiable_target": "Yes \u2014 Reduce landfill waste per person 50% by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (communitywide target; implementation requires programmatic and regulatory actions)",
+    "has_spatial_specificity": "Yes \u2014 per-person/communitywide in Miami-Dade County",
+    "extraction_rationale": "Explicit per-capita landfill reduction target (quantifiable target for waste reduction).",
+    "validation_status": "VALID",
+    "confidence_score": 0.78,
+    "final_verdict": true,
+    "weak_signals": "No binding mechanism; no baseline/methodology stated; implementation/means unspecified; potential for aspirational framing",
+    "strong_signals": "\"50%\" (quantitative target); \"by 2030\" (timeline); \"per person\"/communitywide (spatial specificity); explicit reduction target (\"Reduce landfill waste\")",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [
+      "Mitigation"
+    ],
+    "primary_causal_pathway": "Same service \u2192 DECREASED waste output",
+    "key_indicators": [
+      "\"Reduce landfill waste per person\"",
+      "\"50% by 2030\"",
+      "\"landfill waste\"",
+      "\"per person\"",
+      "\"reduce landfill\""
+    ],
+    "policy_mechanisms": [
+      "Waste diversion / landfill diversion targets; recycling and composting programs; extended producer responsibility (EPR); bans or restrictions on landfilling organics/recyclables; pay-as-you-throw pricing; reuse and repair incentives; public education and waste reduction campaigns; municipal collection and sorting improvements"
+    ],
+    "classification_confidence": 0.9,
+    "co_benefits": [
+      "Emissions reduction (lower methane from landfills)",
+      "resource conservation (materials diverted to recycling/reuse)",
+      "reduced pollution and landfill impacts",
+      "potential cost savings and jobs in recycling/composting sectors"
+    ],
+    "edge_case_notes": "The statement is terse and does not specify mechanisms. If implemented via landfill-gas capture projects or carbon accounting and framed explicitly to meet GHG targets, the primary classification could be Mitigation. If the implementation emphasized reuse/behavioral change vs. infrastructure, it could remain Resource Efficiency but emphasize different mechanisms. No indication of NbS or Adaptation in text."
+  },
+  {
+    "policy_statement": "Reduce water consumption per person by 30% by 2030.",
+    "verbatim_text": "REDUCE WATER CONSUMPTION PER PERSON 30% BY 2030",
+    "has_quantifiable_target": "Yes \u2014 Reduce water consumption per person 30% by 2030",
+    "has_timeline": "Yes \u2014 by 2030",
+    "has_binding_mechanism": "No (target for conservation programs; not presented as a mandatory limit in the line itself)",
+    "has_spatial_specificity": "Yes \u2014 per-person/communitywide in Miami-Dade County",
+    "extraction_rationale": "Explicit per-capita water consumption reduction target (quantifiable target for water use).",
+    "validation_status": "VALID",
+    "confidence_score": 0.82,
+    "final_verdict": true,
+    "weak_signals": "None of the typical vague keywords present (no \"promote\"/\"explore\"/\"aim to\"); principal red flags: absence of binding language and no explicit baseline specified",
+    "strong_signals": "\"30%\" (quantitative target); \"by 2030\" (timebound); \"per person\"/communitywide (spatial/scale specificity); explicit reduction outcome (\"Reduce water consumption\")",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [],
+    "primary_causal_pathway": "Same service leads to decreased water input per capita \u2192 decreased water consumption",
+    "key_indicators": [
+      "\"Reduce water consumption per person\"",
+      "\"30% by 2030\"",
+      "\"per person\"",
+      "\"reduce water consumption\""
+    ],
+    "policy_mechanisms": [
+      "Per-capita water-use reduction target; water-efficiency standards for appliances and fixtures (e.g.",
+      "low-flow toilets/showerheads",
+      "efficient washing machines); water pricing/tariff reforms to encourage conservation; leak detection and infrastructure loss reduction; public awareness/behavior-change campaigns; incentives/subsidies for water-saving technologies; regulations on non-essential outdoor water use"
+    ],
+    "classification_confidence": 0.95,
+    "co_benefits": [
+      "Reduced energy use for water treatment and pumping (emissions reduction)",
+      "improved drought resilience and water security",
+      "lower household/utility costs",
+      "reduced pressure on freshwater ecosystems"
+    ],
+    "edge_case_notes": "Potential ambiguity if additional context framed the target explicitly as drought resilience or climate adaptation (e.g., \"to increase resilience to climate-driven water scarcity\"); in that case the policy could be Adaptation or Adaptation + Resource Efficiency. Also, if mechanisms rely primarily on ecosystem restoration (e.g., watershed restoration to increase available water), NbS could be relevant\u2014no such information is provided."
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "location": "austin",
+  "total_extracted": 13,
+  "passed_validation": 12,
+  "final_classified": 12,
+  "validation_rate": 0.9230769230769231,
+  "filtered_out": 1,
+  "category_distribution": {
+    "Mitigation": 8,
+    "Resource Efficiency": 1,
+    "Nature-Based Solutions": 3
+  },
+  "avg_classification_confidence": 0.9225,
+  "multi_label_count": 7
+}

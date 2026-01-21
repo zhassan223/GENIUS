@@ -1,0 +1,344 @@
+[
+  {
+    "policy_statement": "The City of Dakar commits to reduce its greenhouse gas emissions by 25% by 2030 and by 54% by 2050 below the Business-as-Usual (BAU) trajectory through implementation of ambitious actions in the PCET.",
+    "verbatim_text": "According to the assumptions defined, the implementation  of  ambitious  actions  will reduce  future  GHG  emissions  by  25%  in 2030, 36% in 2040 and 54% in 2050 below the BAU projections.",
+    "has_quantifiable_target": "Yes. Reduce future GHG emissions by 25% in 2030 and 54% in 2050 below BAU projections (also 36% in 2040 noted).",
+    "has_timeline": "Yes. 2030 and 2050 (also 2040 indicated).",
+    "has_binding_mechanism": "No. This is a municipal target in the PCET (ambitious scenario) rather than an explicitly enacted law or regulation in the quoted text.",
+    "has_spatial_specificity": "Yes. City of Dakar (territorial scope covered by the PCET).",
+    "extraction_rationale": "Clear quantified mitigation targets stated by the City in the PCET and in the GHG scenarios (explicit percentages and years). Meets the QUANTIFIABLE TARGET criterion.",
+    "validation_status": "VALID",
+    "confidence_score": 0.85,
+    "final_verdict": true,
+    "weak_signals": "\"ambitious actions\"; \"commit\"; \"according to the assumptions defined\" (vague/aspirational implementation language)",
+    "strong_signals": "25% by 2030; 36% by 2040; 54% by 2050; \"below BAU projections\"; \"City of Dakar\"; \"PCET\" (territorial plan)",
+    "primary_category": "Mitigation",
+    "secondary_categories": [],
+    "primary_causal_pathway": "Human activity \u2192 DECREASED GHG emissions \u2192 DECREASED atmospheric forcing",
+    "key_indicators": [
+      "\"reduce its greenhouse gas emissions\"",
+      "\"25% by 2030\"",
+      "\"54% by 2050\"",
+      "\"below the Business-as-Usual (BAU) trajectory\"",
+      "\"implementation ... actions in the PCET\"",
+      "\"reduce future GHG emissions\""
+    ],
+    "policy_mechanisms": [
+      "Commitment to implement ambitious actions in the PCET to achieve quantified GHG reduction targets (mechanisms unspecified in the provided text)"
+    ],
+    "classification_confidence": 0.95,
+    "co_benefits": [],
+    "edge_case_notes": "The statement does not specify which types of actions (e.g., renewable energy deployment, energy efficiency, transport electrification, nature-based sequestration) will be used. If the PCET's \"ambitious actions\" are primarily ecosystem-based (e.g., large-scale afforestation, wetland restoration) the policy could additionally be Nature-Based Solutions; if primarily efficiency-focused, Resource Efficiency could be relevant. Classification assumes targets are achieved via mitigation measures broadly, but mechanism-level ambiguity remains."
+  },
+  {
+    "policy_statement": "The City of Dakar targets increasing the share of renewable energy in the city's energy mix to at least 65% by 2050.",
+    "verbatim_text": "The GHG reduction targets for the energy sector's  main  sources  of  emissions  are presented below:\n- Increase the share of renewable energy in the energy mix to at least 65% by 2050",
+    "has_quantifiable_target": "Yes. Increase the share of renewable energy in the energy mix to at least 65% by 2050.",
+    "has_timeline": "Yes. By 2050.",
+    "has_binding_mechanism": "No. The text sets a target for the city's energy mix; no legal instrument is cited in the quoted lines.",
+    "has_spatial_specificity": "Yes. City of Dakar / Dakar energy mix (territorial energy mix targets).",
+    "extraction_rationale": "Explicit quantified target for the energy mix (renewable share) in the energy sector\u2014meets QUANTIFIABLE TARGET criterion and is a named sectoral mitigation target.",
+    "validation_status": "VALID",
+    "confidence_score": 0.82,
+    "final_verdict": true,
+    "weak_signals": "No binding/enforcement language; no baseline provided; no interim targets/milestones; no implementation or responsible authority specified",
+    "strong_signals": "\"65%\"; \"by 2050\"; \"increase the share of renewable energy\"; \"energy mix\"; \"City of Dakar\"",
+    "primary_category": "Mitigation",
+    "secondary_categories": [],
+    "primary_causal_pathway": "Human activity \u2192 \u2193 GHG emissions",
+    "key_indicators": [
+      "\"increase the share of renewable energy\"",
+      "\"renewable energy in the energy mix\"",
+      "\"GHG reduction targets\"",
+      "\"65% by 2050\""
+    ],
+    "policy_mechanisms": [
+      "Renewable energy deployment/mandates and targets; energy-mix decarbonization (scale-up of wind/solar/hydro/other renewables)"
+    ],
+    "classification_confidence": 0.95,
+    "co_benefits": [
+      "Energy security",
+      "reduced air pollution",
+      "reduced fossil fuel imports",
+      "job creation in renewables"
+    ],
+    "edge_case_notes": "Potential secondary effects (e.g., increased energy security, local air-quality improvements, or resilience of decentralized renewables) exist but are not described as the primary mechanism. No ambiguity that the policy targets emissions reduction via energy-system change."
+  },
+  {
+    "policy_statement": "The City of Dakar aims to reduce the energy bill of its built heritage by 75% by 2050 through energy efficiency and renewable measures.",
+    "verbatim_text": "Overall, the goals that the city could achieve are:\n-    a  54%  reduction  in  GHG  emissions  by 2050;\n-  a 75% reduction in the energy bill in the built heritage of the City of Dakar by 2050;",
+    "has_quantifiable_target": "Yes. 75% reduction in the energy bill in the built heritage of the City of Dakar by 2050.",
+    "has_timeline": "Yes. By 2050.",
+    "has_binding_mechanism": "No. This is a municipal goal within the PCET rather than a cited legal mandate.",
+    "has_spatial_specificity": "Yes. Applies to the built heritage managed by the City of Dakar (municipal buildings/public lighting).",
+    "extraction_rationale": "Explicit quantified financial/energy saving target for municipal built heritage\u2014meets QUANTIFIABLE TARGET and RESOURCE ALLOCATION relevance for municipal operations.",
+    "validation_status": "VALID",
+    "confidence_score": 0.75,
+    "final_verdict": true,
+    "weak_signals": "\"aims\", \"could achieve\", aspirational language, no cited legal mandate, no baseline, no interim milestones",
+    "strong_signals": "\"75% reduction\", \"by 2050\", \"built heritage of the City of Dakar\", \"energy efficiency\", \"renewable measures\"",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [
+      "Mitigation"
+    ],
+    "primary_causal_pathway": "Same service (built heritage functions) \u2192 DECREASED energy input / reduced energy consumption (and energy bills)",
+    "key_indicators": [
+      "\"reduce the energy bill\"",
+      "\"75% reduction in the energy bill\"",
+      "\"energy efficiency\"",
+      "\"renewable measures\"",
+      "\"built heritage\"",
+      "also mentions \"54% reduction in GHG emissions\" (contextual)"
+    ],
+    "policy_mechanisms": [
+      "Energy efficiency measures for buildings (retrofitting",
+      "insulation",
+      "efficient appliances/lighting",
+      "HVAC optimization)",
+      "on-site renewable energy deployment (solar PV",
+      "solar water heaters)",
+      "building energy management and demand reduction measures"
+    ],
+    "classification_confidence": 0.9,
+    "co_benefits": [
+      "Emissions reduction (GHG)",
+      "reduced operational costs",
+      "improved energy security",
+      "improved indoor comfort and potentially local air quality improvements"
+    ],
+    "edge_case_notes": "The presence of both \"energy efficiency\" and \"renewable measures\" creates some ambiguity: if the policy emphasis or implementation funding primarily targets renewable deployment (displacing grid emissions) rather than efficiency retrofits, one could reasonably argue Mitigation as primary. Also the document's adjacent goal of \"54% reduction in GHG emissions by 2050\" suggests a broader mitigation framing at city level; however, the built-heritage line is explicitly expressed as an energy-bill reduction target, supporting Resource Efficiency as primary."
+  },
+  {
+    "policy_statement": "The City of Dakar will replace street lighting to increase the share of LED and solar-LED lamps to 75% of total street lighting by 2050.",
+    "verbatim_text": "Efficiency in public lighting\n- Increase the share of LEDs to 75% of total street lighting lamps by 2050.",
+    "has_quantifiable_target": "Yes. Increase the share of LEDs to 75% of total street lighting lamps by 2050 (also other LED targets for buildings noted elsewhere).",
+    "has_timeline": "Yes. By 2050.",
+    "has_binding_mechanism": "No. The PCET sets a target; the quoted text does not cite an enacted regulation.",
+    "has_spatial_specificity": "Yes. City of Dakar street lighting.",
+    "extraction_rationale": "Explicit, quantified target for public lighting technology deployment (LED share) \u2014 meets QUANTIFIABLE TARGET and SPECIFIC INTERVENTION (LED replacement) criteria.",
+    "validation_status": "VALID",
+    "confidence_score": 0.86,
+    "final_verdict": true,
+    "weak_signals": "increase, will replace, no cited regulation, no baseline/interim targets",
+    "strong_signals": "75%, by 2050, LED, solar-LED, street lighting, City of Dakar, \"share of total street lighting\"",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [
+      "Mitigation"
+    ],
+    "primary_causal_pathway": "Same service \u2192 DECREASED energy input (reduced electricity consumption for street lighting)",
+    "key_indicators": [
+      "\"Increase the share of LEDs\"",
+      "\"solar-LED lamps\"",
+      "\"Efficiency in public lighting\"",
+      "\"replace street lighting\"",
+      "\"75% of total street lighting by 2050\""
+    ],
+    "policy_mechanisms": [
+      "Public lighting retrofit / LED replacement program; installation of solar-LED standalone lamps; procurement targets and phased replacement of inefficient lamps; energy-efficiency modernization of street lighting infrastructure"
+    ],
+    "classification_confidence": 0.92,
+    "co_benefits": [
+      "Emissions reduction (lower electricity-related GHGs)",
+      "reduced operating and maintenance costs",
+      "improved energy security/resilience during outages (if solar-LEDs are off-grid)",
+      "potential improved lighting quality and safety"
+    ],
+    "edge_case_notes": "Solar-LED inclusion introduces ambiguity: off-grid solar-LEDs could be interpreted as small-scale renewable deployment (mitigation) and can also improve resilience during grid outages (adaptation). If the policy emphasizes renewable energy adoption or resilience goals, Mitigation or Adaptation could be elevated. The 2050 horizon is long; implementation details (whether replacing with grid-powered LEDs vs standalone solar-LEDs) would affect the relative strength of mitigation/resilience co-benefits."
+  },
+  {
+    "policy_statement": "The City of Dakar will increase urban green spaces by 150 hectares by 2030 to strengthen resilience and improve the living environment.",
+    "verbatim_text": "The objectives set are as follows:\n- Increase urban green spaces by 150 ha in Dakar by 2030",
+    "has_quantifiable_target": "Yes. Increase urban green spaces by 150 ha in Dakar by 2030.",
+    "has_timeline": "Yes. By 2030.",
+    "has_binding_mechanism": "No. It is an objective in the PCET action plan; no specific legal instrument is referenced.",
+    "has_spatial_specificity": "Yes. City of Dakar (urban green spaces).",
+    "extraction_rationale": "Explicit adaptation target expressed as a quantified increase in green space\u2014meets QUANTIFIABLE TARGET and SPECIFIC INTERVENTION (green space increase) criteria.",
+    "validation_status": "VALID",
+    "confidence_score": 0.87,
+    "final_verdict": true,
+    "weak_signals": "strengthen, improve, objective, action plan, resilience, no baseline, no legal/regulatory backing",
+    "strong_signals": "150 ha, by 2030, Dakar, increase urban green spaces, numeric target, timeline, spatial specificity",
+    "primary_category": "Nature-Based Solutions",
+    "secondary_categories": [
+      "Adaptation"
+    ],
+    "primary_causal_pathway": "Ecosystem enhancement (urban green space creation) \u2192 Increased adaptive capacity / \u2193 exposure and sensitivity to urban climate hazards (heat, stormwater/flooding), improved local environmental conditions",
+    "key_indicators": [
+      "\"increase urban green spaces\"",
+      "\"150 ha\"",
+      "\"strengthen resilience\"",
+      "\"improve the living environment\"",
+      "\"urban green\""
+    ],
+    "policy_mechanisms": [
+      "Urban greening (creation/expansion of parks and green corridors)",
+      "tree planting/urban forestry",
+      "pocket parks/green plazas",
+      "restoration/creation of vegetated surfaces for stormwater management and shading"
+    ],
+    "classification_confidence": 0.91,
+    "co_benefits": [
+      "Carbon sequestration (minor)",
+      "urban heat island reduction/cooling",
+      "stormwater absorption/flood risk reduction",
+      "biodiversity enhancement",
+      "improved air quality",
+      "recreation and mental/physical health benefits"
+    ],
+    "edge_case_notes": "- Potential ambiguity if the green-space expansion is purely aesthetic/land-use planning without climate-resilience design; in that case Adaptation links might be weaker but it would still be NbS if reliant on vegetation.  \n- If the measures prioritized engineered green infrastructure (e.g., underground detention basins with minimal ecological function) the NbS classification could be less clear.  \n- Mitigation (carbon sequestration) and co-benefits (biodiversity, health, air quality) are likely but not primary per the stated intent."
+  },
+  {
+    "policy_statement": "The City of Dakar aims to compost 50% of organic waste and 30% of garden waste by 2050 as part of a circular economy approach.",
+    "verbatim_text": "The targets for each of the waste sector's main sources of emissions are:\n- Composting\n- 50% of organic waste and 30% of garden waste will be composted by 2050.",
+    "has_quantifiable_target": "Yes. 50% of organic waste and 30% of garden waste will be composted by 2050.",
+    "has_timeline": "Yes. By 2050.",
+    "has_binding_mechanism": "No. Targets are set by the PCET; no binding regulatory mechanism is cited in the quoted lines.",
+    "has_spatial_specificity": "Yes. City of Dakar (waste generated in the city).",
+    "extraction_rationale": "Explicit quantified waste-sector targets for composting percentages\u2014meets QUANTIFIABLE TARGET and SPECIFIC INTERVENTION (organic waste recovery) criteria.",
+    "validation_status": "VALID",
+    "confidence_score": 0.75,
+    "final_verdict": true,
+    "weak_signals": "\"aims to\", \"as part of\", \"circular economy\", no baseline, no binding mechanism, long-horizon (2050) without interim milestones",
+    "strong_signals": "\"50%\", \"30%\", \"by 2050\", \"compost(ed)\", \"organic waste\", \"garden waste\", \"City of Dakar\", \"composting\"",
+    "primary_category": "Mitigation",
+    "secondary_categories": [
+      "Resource Efficiency"
+    ],
+    "primary_causal_pathway": "Human activity \u2192 DECREASED GHG emissions \u2192 DECREASED atmospheric forcing",
+    "key_indicators": [
+      "\"compost\"",
+      "\"composting\"",
+      "\"50% of organic waste\"",
+      "\"30% of garden waste\"",
+      "\"waste sector's main sources of emissions\"",
+      "\"circular economy\""
+    ],
+    "policy_mechanisms": [
+      "Composting targets and diversion of organics from landfill; expansion of municipal/industrial composting facilities; separate organic waste collection and processing; mandates/incentives for composting and waste diversion; circular-economy measures to recycle nutrients"
+    ],
+    "classification_confidence": 0.92,
+    "co_benefits": [
+      "Reduced landfill use and local pollution (odors",
+      "leachate); improved soil health and nutrient recycling from compost application; reduced reliance on synthetic fertilizers; reduced waste disposal costs; circular economy/resource recovery benefits"
+    ],
+    "edge_case_notes": "The \"circular economy\" framing introduces ambiguity: if the policy were primarily framed and implemented solely to recover nutrients and reduce resource use (with emissions reduction treated as incidental), Resource Efficiency might be primary. However, the verbatim header ties the targets to \"waste sector's main sources of emissions,\" supporting Mitigation as primary. Also, composting can have local environmental/soil benefits that overlap categories, but those are secondary here."
+  },
+  {
+    "policy_statement": "The City of Dakar targets that 32% of wastewater treatment be accomplished via activated sludge processes by 2050.",
+    "verbatim_text": "Wastewater treatment\n-  32%  of  wastewater  treatment  by  2050 will  be  done  through  the  treatment  of activated sludge.",
+    "has_quantifiable_target": "Yes. 32% of wastewater treatment by 2050 will be done through activated sludge treatment.",
+    "has_timeline": "Yes. By 2050.",
+    "has_binding_mechanism": "No. This is a municipal sectoral target in the PCET; a binding mechanism is not explicitly stated.",
+    "has_spatial_specificity": "Yes. Applies to wastewater treatment within the City of Dakar scope.",
+    "extraction_rationale": "Explicit quantified target for wastewater treatment modality\u2014meets QUANTIFIABLE TARGET and SPECIFIC INTERVENTION (activated sludge treatment) criteria.",
+    "validation_status": "VALID",
+    "confidence_score": 0.85,
+    "final_verdict": true,
+    "weak_signals": "\"targets\" (aspirational wording), no stated legal/regulatory mandate, missing baseline/interim targets",
+    "strong_signals": "\"32%\", \"by 2050\", \"activated sludge\", \"City of Dakar\", \"wastewater treatment\"",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [],
+    "primary_causal_pathway": "Same service (wastewater treatment) \u2192 Decreased waste/pollution output",
+    "key_indicators": [
+      "\"wastewater treatment\"",
+      "\"activated sludge\"",
+      "\"32% of wastewater treatment by 2050\""
+    ],
+    "policy_mechanisms": [
+      "Targeted deployment/scale-up of activated sludge biological wastewater treatment (centralized/engineered wastewater treatment infrastructure and processes)"
+    ],
+    "classification_confidence": 0.7,
+    "co_benefits": [
+      "Improved water quality",
+      "public health/sanitation",
+      "potential for reduced GHG emissions from untreated wastewater",
+      "potential for reuse of treated effluent"
+    ],
+    "edge_case_notes": "Possible ambiguity: if the policy context (not provided) frames this target as primarily to reduce methane/N2O emissions from untreated sewage or as part of climate mitigation planning, it could be (partly) Mitigation. If framed as strengthening sanitation infrastructure to cope with climate-driven risks, it could be partly Adaptation. Also, activated sludge uses biological processes\u2014this might superficially resemble NbS, but it is an engineered treatment system, so NbS was not chosen."
+  },
+  {
+    "policy_statement": "The City of Dakar seeks to increase mass-transport modal share to achieve 20% BRT and 15% TER usage by 2050 as part of a low\u2011carbon transport strategy.",
+    "verbatim_text": "The reduction targets for each of the major sources  of  transportation  emissions  and urban resilience due to the strengthening of the TOD are:\n- increase the modal shares of the BRT to 20% and the TER to 15% by 2050;",
+    "has_quantifiable_target": "Yes. Increase modal share of BRT to 20% and TER to 15% by 2050.",
+    "has_timeline": "Yes. By 2050.",
+    "has_binding_mechanism": "No. Targets are included in the PCET; the transport system is managed by CETUD and national actors, so city influence is collaborative rather than a standalone legal mandate in the quoted text.",
+    "has_spatial_specificity": "Yes. City/metropolitan transport (Dakar / Dakar metropolitan area).",
+    "extraction_rationale": "Transport-sector quantified modal-share targets for mass transit (BRT and TER)\u2014meets QUANTIFIABLE TARGET and SPECIFIC INTERVENTION (promote BRT/TER) criteria.",
+    "validation_status": "VALID",
+    "confidence_score": 0.82,
+    "final_verdict": true,
+    "weak_signals": "\"seeks to\" (aspirational), no baseline provided, no interim milestones, no legal/regulatory mandate cited, lack of implementation/funding detail",
+    "strong_signals": "\"20% BRT\", \"15% TER\", \"by 2050\" (timeline), Dakar / metropolitan area (spatial specificity), explicit modal-share targets (technological/behavioral shift)",
+    "primary_category": "Mitigation",
+    "secondary_categories": [
+      "Resource Efficiency",
+      "Adaptation"
+    ],
+    "primary_causal_pathway": "Human activity (modal shift to mass transit) \u2192 \u2193 transport fuel consumption / \u2193 GHG emissions",
+    "key_indicators": [
+      "\"low\u2011carbon transport strategy\"",
+      "\"increase mass-transport modal share\"",
+      "\"20% BRT\"",
+      "\"15% TER\"",
+      "\"reduction targets for ... transportation emissions\"",
+      "\"strengthening of the TOD\"",
+      "\"urban resilience\" (verbatim mentions)"
+    ],
+    "policy_mechanisms": [
+      "Modal-shift targets; mass-transit expansion (BRT",
+      "TER); Transit-Oriented Development (TOD) strengthening; public-transport promotion and planning; emissions-reduction target setting for transport sector"
+    ],
+    "classification_confidence": 0.93,
+    "co_benefits": [
+      "Improved air quality",
+      "reduced congestion",
+      "lower energy use per passenger (energy savings)",
+      "increased accessibility/equity",
+      "enhanced urban resilience and reduced transport vulnerability"
+    ],
+    "edge_case_notes": "- The verbatim text mentions \"urban resilience\" and TOD strengthening; if the policy emphasis were primarily on resilience (e.g., ensuring mobility during extreme events), Adaptation could be primary. Here the explicit framing as a \"low\u2011carbon transport strategy\" and \"reduction targets for ... transportation emissions\" make Mitigation the dominant intent.  \n- Modal-share targets are an indirect measure of emissions reduction (they target behavior/infrastructure rather than specifying CO2 reductions); this introduces minor ambiguity but the low-carbon framing resolves it."
+  },
+  {
+    "policy_statement": "Adopt and enforce energy efficiency standards (building code) to improve the energy performance of new buildings in Dakar.",
+    "verbatim_text": "Adoption of energy efficiency standards (building code) to improve the energy performance of new buildings",
+    "has_quantifiable_target": "No numeric target is in this specific line (it is a regulatory action), though other sections include related quantified goals (e.g., % LEDs, energy savings).",
+    "has_timeline": "No explicit year in the quoted line; it is listed among priority actions for implementation within the PCET (Five\u2011Year Action Plan context).",
+    "has_binding_mechanism": "Yes. Adoption of 'energy efficiency standards (building code)' implies a regulatory/binding mechanism (building code enforcement) to improve energy performance of new buildings.",
+    "has_spatial_specificity": "Yes. Applies to new buildings in the City of Dakar (municipal jurisdiction over urban planning/building standards).",
+    "extraction_rationale": "Explicit policy action: adoption of energy efficiency standards (building code) appears as a named action in the plan\u2014meets SPECIFIC INTERVENTION and (potentially) BINDING MECHANISM criteria because building codes are regulatory.",
+    "validation_status": "VALID",
+    "confidence_score": 0.78,
+    "final_verdict": true,
+    "weak_signals": "\"improve\" (vague outcome); no numeric target; no deadline/timeline; baseline not stated; enforcement details unspecified",
+    "strong_signals": "\"adopt and enforce\"; \"energy efficiency standards\"; \"building code\"; \"new buildings\"; \"Dakar\" (spatial scope); regulatory/binding mechanism implied",
+    "primary_category": "Resource Efficiency",
+    "secondary_categories": [
+      "Mitigation"
+    ],
+    "primary_causal_pathway": "Same service \u2192 \u2193 energy input",
+    "key_indicators": [
+      "\"energy efficiency standards\"",
+      "\"building code\"",
+      "\"improve the energy performance\"",
+      "\"new buildings\""
+    ],
+    "policy_mechanisms": [
+      "Adoption and enforcement of building energy efficiency standards / minimum performance requirements in the building code (e.g.",
+      "insulation",
+      "glazing",
+      "HVAC efficiency",
+      "building envelope requirements)",
+      "compliance and enforcement mechanisms",
+      "mandatory performance-based standards for new construction"
+    ],
+    "classification_confidence": 0.92,
+    "co_benefits": [
+      "Emissions reduction (lower CO2)",
+      "reduced energy bills",
+      "lower peak electricity demand",
+      "improved thermal comfort/indoor environment",
+      "reduced fuel import dependence"
+    ],
+    "edge_case_notes": "If the policy text explicitly framed the standards as primarily intended to meet emissions reduction targets or was part of a formal decarbonization mandate (e.g., \"to achieve X% emissions reduction\" or \"net-zero buildings\"), the primary category could be Mitigation instead. Also, if standards emphasized passive cooling or green roofs specifically for heat exposure, there could be overlap with Adaptation or NbS; those elements are not present in the provided text."
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "policy_statement": "The City of Seattle will become carbon neutral by 2050, per Resolution 31312.",
+    "verbatim_text": "In 2011, the Mayor and City Council adopted a bold climate protection goal for our community to become carbon neutral by 2050 and directed the creation of a plan to meet the goal (Resolution 31312).",
+    "has_quantifiable_target": "Yes \u2014 become carbon neutral by 2050.",
+    "has_timeline": "Yes \u2014 target year 2050.",
+    "has_binding_mechanism": "Yes \u2014 adopted by the Mayor and City Council via Resolution 31312 (legal/policy resolution).",
+    "has_spatial_specificity": "Yes \u2014 city-wide (Seattle).",
+    "extraction_rationale": "Clear city-level resolution establishing a quantifiable emissions goal (carbon neutral by 2050). This is a formal policy commitment (Resolution 31312)."
+  },
+  {
+    "policy_statement": "Seattle committed to uphold the pollution reduction targets in the Paris Agreement and the City Council affirmed commitment to those goals (Resolution 31757).",
+    "verbatim_text": "In 2017, when President Trump removed the U.S. from the Paris Climate Agreement, the City committed to upholding the pollution reduction targets in the Agreement.  The City Council adopted Resolution 31757, affirming Seattle's commitment to the goals established in the Paris Agreement, and directing the Office of Sustainability & Environment (OSE) to identify the actions necessary to do our part to limit warming to 1.5 degrees Celsius.",
+    "has_quantifiable_target": "No \u2014 references Paris Agreement targets but doesn't restate specific numeric targets in these sentences.",
+    "has_timeline": "No \u2014 no specific new deadline in these lines.",
+    "has_binding_mechanism": "Yes \u2014 City Council resolution (Resolution 31757) affirmed the commitment.",
+    "has_spatial_specificity": "Yes \u2014 city-level commitment (Seattle).",
+    "extraction_rationale": "Explicit municipal commitment to uphold international emissions reduction targets following federal withdrawal \u2014 specific policy stance adopted by the City Council (Resolution 31757)."
+  },
+  {
+    "policy_statement": "The City will reduce municipal fleet emissions by 50% by 2025 through electrification, cleaner fuels, efficiency, and procurement standards as guided by the Green Fleet Action Plan.",
+    "verbatim_text": "The Green Fleet Action Plan guides the City's efforts to meet the goal to reduce municipal fleet emissions by 50 percent by 2025 by increasingly electrifying the fleet, using cleaner fuels when electrification is not feasible, increasing efficiency in how vehicles are used, and setting standards for vehicle procurement.",
+    "has_quantifiable_target": "Yes \u2014 reduce municipal fleet emissions by 50 percent by 2025.",
+    "has_timeline": "Yes \u2014 by 2025.",
+    "has_binding_mechanism": "No (program guidance) \u2014 the Green Fleet Action Plan guides efforts; it's a formal plan rather than a law in the quoted text.",
+    "has_spatial_specificity": "Yes \u2014 municipal fleet (City of Seattle vehicles).",
+    "extraction_rationale": "Existing programmatic target guiding municipal fleet policy with a clear numeric target and date (50% reduction by 2025)."
+  },
+  {
+    "policy_statement": "Require commercial buildings 50,000 sq ft or larger to complete Building Tune-Ups (operations & maintenance improvements) under SMC 22.930, with phased compliance beginning in early 2019.",
+    "verbatim_text": "Adopted in 2016, the Building Tune-Ups Ordinance (SMC 22.930) requires commercial buildings 50,000 square feet or larger to identifying low- or no-cost building operations and maintenance improvements to improve energy and water efficiency. Compliance deadlines will be phased in by building size, beginning in early 2019.",
+    "has_quantifiable_target": "No numeric emissions target in the quoted text, but it quantifies expected percent energy reductions sector-wide (5-8% energy; 6-9% GHG) as expected outcomes.",
+    "has_timeline": "Yes \u2014 compliance deadlines phased in by building size, beginning in early 2019.",
+    "has_binding_mechanism": "Yes \u2014 Building Tune-Ups Ordinance (SMC 22.930), a local regulatory requirement.",
+    "has_spatial_specificity": "Yes \u2014 applies to commercial buildings in Seattle 50,000 sq ft or larger.",
+    "extraction_rationale": "Local ordinance requirement (SMC 22.930) imposing mandatory actions on a defined set of buildings, with phased compliance and a start date \u2014 fits binding mechanism + timeline criteria."
+  },
+  {
+    "policy_statement": "Require owners of nonresidential and multi-family buildings 20,000 sq ft or larger to track and annually report building energy performance to the City (SMC 22.920).",
+    "verbatim_text": "Adopted in 2010, Seattle's Energy Benchmarking Program (SMC 22.920) requires owners of nonresidential and multi-family buildings (20,000 square feet or larger) to track energy performance and annually report to the City. The policy was updated in 2016 to make reported data publicly available to further increase awareness of building energy use and support real estate market transformation.",
+    "has_quantifiable_target": "No emissions target in the quoted text, but it requires reporting for buildings 20,000 sq ft or larger.",
+    "has_timeline": "No explicit deadline in the quoted lines (ongoing annual reporting).",
+    "has_binding_mechanism": "Yes \u2014 Energy Benchmarking Program (SMC 22.920), a municipal code requirement.",
+    "has_spatial_specificity": "Yes \u2014 applies to nonresidential and multi-family buildings (20,000 sq ft+) in Seattle.",
+    "extraction_rationale": "Existing binding municipal requirement (SMC 22.920) that mandates benchmarking and annual reporting; a specific intervention to enable emissions reductions."
+  },
+  {
+    "policy_statement": "Pass an electric vehicle readiness ordinance in 2018 to ensure new construction or renovation of parking structures is built with EV infrastructure.",
+    "verbatim_text": "Pass a new electric vehicle readiness ordinance in 2018, which will ensure new construction or renovation of parking structures is built with electric vehicle infrastructure.",
+    "has_quantifiable_target": "No numeric target for infrastructure counts, but commits to requiring EV infrastructure in new/renovated parking.",
+    "has_timeline": "Yes \u2014 commit to pass the ordinance in 2018.",
+    "has_binding_mechanism": "Yes \u2014 a city ordinance is committed ('Pass a new electric vehicle readiness ordinance in 2018').",
+    "has_spatial_specificity": "Yes \u2014 applies to new construction or renovation in Seattle.",
+    "extraction_rationale": "Explicit, time-bound municipal ordinance commitment to require EV infrastructure in new/renovated parking (pass ordinance in 2018) \u2014 specific intervention + timeline + binding mechanism implied (ordinance)."
+  },
+  {
+    "policy_statement": "Seattle Electrical Code (2017) requires new parking to have adequate electrical capacity to serve one EV charging station per parking space and to show conduit/equipment for future EV charging.",
+    "verbatim_text": "In 2017, the Seattle Electrical Code was amended to ensure new parking is built to facilitate future electric vehicle charging infrastructure. The code requires adequate electrical capacity to serve one electric vehicle charging station per parking space and that construction documents show the location of equipment and conduit for future installation of electric vehicles charging stations.",
+    "has_quantifiable_target": "Yes \u2014 requires adequate electrical capacity to serve one electric vehicle charging station per parking space (a specific technical requirement).",
+    "has_timeline": "Yes \u2014 amendment adopted in 2017 (effective from that amendment).",
+    "has_binding_mechanism": "Yes \u2014 Seattle Electrical Code amendment (binding code).",
+    "has_spatial_specificity": "Yes \u2014 applies to new parking in Seattle.",
+    "extraction_rationale": "Code amendment (2017 Seattle Electrical Code) imposing specific technical requirements for new parking \u2014 binding regulatory change."
+  },
+  {
+    "policy_statement": "Release a charging station network map and strategy in 2018 to guide equitable deployment and support the goal of 30% of light\u2011duty vehicles being electric by 2030.",
+    "verbatim_text": "Release map of optimal distribution of charging infrastructure in 2018. An effective and just distribution of charging stations is critical to realizing the goal of 30 percent of light duty vehicles being electric by 2030, and to support electrification of professional fleets.",
+    "has_quantifiable_target": "Yes \u2014 connects to the stated goal of 30 percent of light duty vehicles being electric by 2030; also has a release year 2018 for the map.",
+    "has_timeline": "Yes \u2014 map to be released in 2018; EV target by 2030 referenced.",
+    "has_binding_mechanism": "No \u2014 this is a strategic/planning action (release a network map and strategy), not itself a law.",
+    "has_spatial_specificity": "Yes \u2014 Seattle-wide charging distribution and network; focuses on equitable distribution across the city.",
+    "extraction_rationale": "Time-bound enabling action to guide public/private investment in charging infrastructure and linked to a numeric EV adoption goal (30% by 2030)."
+  },
+  {
+    "policy_statement": "Seattle City Light will install 20 public fast charging stations and launch a residential in-home charging program expected in fall 2018 to expand public fast charging availability and residential access.",
+    "verbatim_text": "Through the right of way charging pilot program described above, City Light is installing 20 public fast charging stations to increase access, while also ensuring that charging is distributed more equitably around the city. The residential program will offer customers access to inhome charging at a manageable monthly cost and is expected to launch in the fall of 2018.",
+    "has_quantifiable_target": "Yes \u2014 install 20 public fast charging stations; residential program expected to launch fall 2018.",
+    "has_timeline": "Yes \u2014 residential program expected to launch in fall 2018; installation program described as underway.",
+    "has_binding_mechanism": "No \u2014 municipal utility program (Seattle City Light) implementation rather than a law, but it is a specific committed action by the utility.",
+    "has_spatial_specificity": "Yes \u2014 deployment around the city (Seattle).",
+    "extraction_rationale": "Utility program with quantified installations and a clear near-term timetable (20 public fast chargers; residential program launch expected fall 2018). This is a concrete City Light implementation action."
+  },
+  {
+    "policy_statement": "Operate a 2017 pilot to permit publicly-available EV charging stations on non-residential streets in urban villages/centers and commercial streets; review pilot results in mid-2018.",
+    "verbatim_text": "To meet that need, in 2017, a pilot program was initiated to permit the installation of publicly-available electric vehicle charging stations on non-residential streets in urban villages, urban centers, and commercial streets. Pilot program results will be reviewed in mid-2018.",
+    "has_quantifiable_target": "No numeric target for number of stations in the quoted text, but it reports 'over 60 applications' have been received and sets a review date.",
+    "has_timeline": "Yes \u2014 pilot initiated in 2017 and pilot program results will be reviewed in mid-2018.",
+    "has_binding_mechanism": "No \u2014 a pilot permitting program (administrative pilot), though it operates under city permitting processes.",
+    "has_spatial_specificity": "Yes \u2014 targets non-residential streets in urban villages, urban centers, and commercial streets in Seattle.",
+    "extraction_rationale": "Pilot permitting program to allow publicly-available curbside charging \u2014 named program with review timeline (mid-2018) and defined geographic priorities (urban villages/centers)."
+  },
+  {
+    "policy_statement": "Work with stakeholders to develop recommendations and a timeline for making all new for\u2011hire vehicles in Seattle electric and prepare to permit only electric vehicles for for\u2011hire use.",
+    "verbatim_text": "Work with community and business stakeholders to develop recommendations for making all new forhire vehicles in Seattle electric. The city will work with these stakeholders to create recommendations on how to electrify shared vehicle fleets, determine a year after which all such vehicles must be electric, and prepare for the City to begin permitting only electric vehicles for for-hire use.",
+    "has_quantifiable_target": "No explicit numeric or year target in the quoted initial statement; the city will 'determine a year' later \u2014 flagged as vague/conditional.",
+    "has_timeline": "No definitive timeline in the quoted text (the process to develop recommendations is committed, but the year for compliance is to be determined).",
+    "has_binding_mechanism": "No (currently a stakeholder-directed work program); eventual binding mechanism indicated (prepare for City to begin permitting only electric vehicles for for\u2011hire use) but timing is to be determined.",
+    "has_spatial_specificity": "Yes \u2014 applies to for-hire vehicles operating in Seattle.",
+    "extraction_rationale": "City commitment to develop recommendations and then set a date and permitting changes for for-hire vehicle electrification \u2014 a named policy area but the critical implementation year is to be determined through stakeholder work (vague/conditional)."
+  },
+  {
+    "policy_statement": "Issue an Executive Order directing City departments to assess the GHG emissions impact of City plans, policies, and major investments, and define assessment methods by October 2018.",
+    "verbatim_text": "Issue an Executive Order directing City departments to assess the GHG emissions impact of City plans, policies, and major investments. The Mayor will direct the Office of Sustainability & Environment to work with departments to define the types of projects to assess, the assessment method, and how to account for the broader costs of carbon, by October 2018.",
+    "has_quantifiable_target": "No numeric emissions reduction target, but a procedural requirement with a concrete deadline to define assessment methods by October 2018.",
+    "has_timeline": "Yes \u2014 Mayor will direct OSE to define types, method, and accounting approach by October 2018.",
+    "has_binding_mechanism": "Yes \u2014 commit to 'Issue an Executive Order' directing departments (executive binding mechanism).",
+    "has_spatial_specificity": "Yes \u2014 applies to City of Seattle departments/plans/projects.",
+    "extraction_rationale": "Executive action to institutionalize GHG impact assessment for city decisions with a concrete deadline to define methods \u2014 binding mechanism (Executive Order) and timeline (by October 2018)."
+  },
+  {
+    "policy_statement": "Double the budget allocation for municipal building energy reductions (2021\u20132025) and target a 40% reduction in energy use and carbon emissions in municipal buildings by 2025.",
+    "verbatim_text": "The City will lead the way toward performance standards by aiming to reduce energy and emissions from our own building portfolio. Building on existing efforts to reduce energy use 20 percent by 2020, the City will double its budget allocation from 2021 to 2025, and set a new target to achieve an overall 40 percent energy and carbon emissions reduction in municipal buildings by 2025.",
+    "has_quantifiable_target": "Yes \u2014 achieve overall 40 percent energy and carbon emissions reduction in municipal buildings by 2025; double budget allocation from 2021 to 2025.",
+    "has_timeline": "Yes \u2014 40% reduction by 2025 and budget doubling planned 2021\u20132025.",
+    "has_binding_mechanism": "No explicit binding mechanism in quoted text (budget commitment/plan) though it's a formal City program commitment.",
+    "has_spatial_specificity": "Yes \u2014 applies to City-owned municipal buildings in Seattle.",
+    "extraction_rationale": "Municipal commitment to allocate additional budget resources and a quantitative municipal building energy and emissions reduction target (40% by 2025) with specific timeline for increased funding (2021\u20132025)."
+  },
+  {
+    "policy_statement": "OSE will propose recommendations to the mayor to accelerate conversion of 18,000 oil-heated homes to electric heat pumps, including financing plans and incentives for low-income residents.",
+    "verbatim_text": "OSE will propose recommendations to the mayor aimed at accelerating the transition of 18,000 homes from heating with oil to an electric heat pump, and adequately serving those unable to finance the switch alone. Recommendations will include a financing plan to support low-income residents, as well as a combination of public and private incentives to spur action.",
+    "has_quantifiable_target": "Yes \u2014 transition 18,000 homes from oil heating to electric heat pumps.",
+    "has_timeline": "No specific completion date given in the quoted text; commitment is to propose recommendations (timeline for proposal not in the quoted sentence).",
+    "has_binding_mechanism": "No \u2014 this is a policy proposal/program recommendation from OSE to the mayor (administrative/programmatic commitment).",
+    "has_spatial_specificity": "Yes \u2014 applies to oil-heated homes in Seattle.",
+    "extraction_rationale": "Programmatic target to convert homes from oil to heat pumps with a specific numeric target (18,000 homes) and commitment to recommendations and financing approaches \u2014 quantitative intervention with conditional financing support noted."
+  },
+  {
+    "policy_statement": "Provide programs and incentives to spur improved energy efficiency in commercial and multifamily buildings, and phase in minimum performance requirements beginning in 2030.",
+    "verbatim_text": "Provide programs and incentives to spur improved energy efficiency and reduced carbon emissions, backed by a minimum performance standard beginning in 2030. Leading up to 2030, the city will work with building owners through incentives, technical assistance and other programs to help them become voluntary early adopters of the standards, and would then phase in performance requirements beginning in 2030.",
+    "has_quantifiable_target": "No single numeric emissions percentage in the quoted statement, but it sets a regulatory start year (2030) for minimum performance standards.",
+    "has_timeline": "Yes \u2014 performance requirements phase in beginning in 2030.",
+    "has_binding_mechanism": "Yes/No \u2014 the text commits to programs and incentives with a phase-in to 'performance requirements beginning in 2030'; the binding mechanism would be the future phased-in performance requirements (implied regulatory requirement).",
+    "has_spatial_specificity": "Yes \u2014 commercial and large multifamily buildings in Seattle.",
+    "extraction_rationale": "Policy to establish incentive-driven performance standards with a mandatory backstop beginning in 2030 (clear timeline and policy instrument \u2014 performance standard), applied to commercial and multifamily buildings."
+  },
+  {
+    "policy_statement": "Create a 2030 Challenge pilot offering additional height and floor area incentives for up to 20 major renovation projects that cut energy and water use well below code, including no fossil fuels for heating, with the pilot to reach projects by 2025.",
+    "verbatim_text": "Create pilot program offering additional height and floor area incentives for significant upgrades in energy and water use, and transportation efficiency. A new pilot will offer additional height and floor area incentives for up to 20 major renovations in urban centers outside the International District. Projects would receive the incentives in exchange for cutting energy and water use well below code, including no use of fossil fuels for heating.",
+    "has_quantifiable_target": "Yes \u2014 up to 20 major renovations/projects; target completion by 2025.",
+    "has_timeline": "Yes \u2014 pilot targets projects by 2025.",
+    "has_binding_mechanism": "No \u2014 incentive-based pilot program (administrative/land-use incentives) rather than an immediate binding regulatory mandate; participation would be via developer agreements and zoning incentives.",
+    "has_spatial_specificity": "Yes \u2014 urban centers outside the International District in Seattle.",
+    "extraction_rationale": "Pilot program with a quantified scope (up to 20 major renovations) and a completion target (by 2025) offering zoning incentives in exchange for deep energy/water/transportation performance \u2014 specific intervention and timeline."
+  },
+  {
+    "policy_statement": "Scale Pay for Performance efforts and pilot Energy Efficiency as a Service (EEaS) in up to 30 buildings to enable deeper energy savings at scale.",
+    "verbatim_text": "Scale Pay for Performance efforts and pilot an innovative utility program exploring Energy Efficiency as a Service in up to 30 buildings to unlock greater levels of energy efficiency depth at scale.",
+    "has_quantifiable_target": "Yes \u2014 pilot EEaS in up to 30 buildings.",
+    "has_timeline": "No explicit deadline in the quoted text for pilot start/completion.",
+    "has_binding_mechanism": "No \u2014 utility program/pilot (Seattle City Light program) rather than a regulatory mandate.",
+    "has_spatial_specificity": "Yes \u2014 applies to commercial buildings in Seattle (City Light customer base).",
+    "extraction_rationale": "Utility program commitment to scale Pay for Performance and pilot Energy Efficiency as a Service up to a defined number of buildings (up to 30) \u2014 specific intervention with quantified pilot size."
+  },
+  {
+    "policy_statement": "Advocate for and prioritize legislation in the 2019 state legislative session to adopt a tiered residential energy code that cities can adopt.",
+    "verbatim_text": "Adopt a tiered state residential energy code that can be adopted by cities. Cities are currently only able to adopt a commercial energy code in Washington state, while the state controls the residential version. Legislation to allow for tiered energy codes will be a priority for the City of Seattle in the 2019 legislative session.",
+    "has_quantifiable_target": "No numeric emissions target, but a concrete policy action (seek state legislation to allow tiered codes).",
+    "has_timeline": "Yes \u2014 priority for the 2019 legislative session.",
+    "has_binding_mechanism": "No \u2014 this is a city priority to pursue state legislation; binding mechanism would be state law if enacted (text notes legislation required).",
+    "has_spatial_specificity": "Yes \u2014 would enable Seattle and other cities in Washington to adopt higher-tier residential energy codes.",
+    "extraction_rationale": "Policy objective to pursue state-level legislation enabling a tiered residential energy code for cities \u2014 a clear advocacy/legislative objective with a specified target session year (2019)."
+  }
+]
