@@ -18,12 +18,18 @@ Design philosophy — LENIENT for initiatives:
 
 # ─── Imports ────────────────────────────────────────────────────────────────
 
-from typing import List, Optional, Literal
+from typing import List, Optional, Literal, Union
 from pydantic import BaseModel, Field
 import dspy
 import pandas as pd
 from tqdm import tqdm
+from pathlib import Path
 
+try:
+    from IPython.display import display
+except ImportError:
+    # Fallback to print if display is not available (e.g. running from CLI)
+    display = print
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # 1.  COMPOSITE INPUT BUILDER
