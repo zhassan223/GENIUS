@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Retrofit buildings to reduce energy use and GHG emissions across residential, multifamily, industrial, City/sister-agency, and commercial buildings.",
+  "role": "parent",
+  "sector": "buildings",
+  "canonical_mechanism": "building_retrofit → energy_use_reduction",
+  "mechanism_description": "Implementing energy-efficiency retrofits in existing buildings lowers energy demand, thereby reducing fuel combustion and electricity-related greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Building retrofits deliver the same building services (heating/cooling/lighting/hot water) with less energy input by improving the efficiency of the building envelope and systems.",
+  "primary_causal_pathway": "Building upgrades/controls → ↓ building energy demand → ↓ fuel combustion & ↓ grid electricity generation → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Existing buildings are upgraded via envelope improvements (insulation, air sealing, windows), HVAC and water-heating upgrades, efficient lighting/appliances, and controls/commissioning. (2) Process: Reduced heat loss/gain and more efficient conversion/use of energy lowers delivered energy needed to provide the same indoor services. (3) Outcome: Lower onsite fossil fuel use and reduced electricity demand decrease associated CO₂e emissions from combustion and power generation (and often lower peak demand impacts).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect of policies using this mechanism is reduced greenhouse gas emissions from lower building energy consumption (electricity and/or fuel).",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Retrofits reduce energy use, which directly reduces GHG emissions from building fuels and electricity.  \n2) Why this primary over alternatives: Although retrofits can improve comfort and sometimes resilience (e.g., better thermal stability), the mechanism as defined is centered on energy-use reduction and its emissions consequences, which is the largest and most consistent climate effect across instances.  \n3) Inherent causal chain for each secondary: Resource Efficiency is inherent because the mechanism explicitly achieves the same service with lower energy input (reduced energy intensity).  \n4) Edge cases applied: If a “retrofit” is aimed primarily at hazard hardening (e.g., floodproofing) without energy savings, it would not fit this mechanism; within this mechanism, rebound effects can reduce net savings but do not change the dominant intended pathway.  \n5) Confirm labels apply to ALL instances: Any policy implementing energy-efficiency retrofits in existing buildings necessarily targets reduced energy consumption (resource efficiency) and, in normal energy systems, yields lower associated GHG emissions (mitigation).",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Some retrofits may increase electricity use (e.g., adding cooling) or shift fuels (electrification) such that emissions outcomes depend on grid carbon intensity; however, the mechanism “energy_use_reduction” generally implies net energy savings, making mitigation the dominant classification.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"RETROFIT BUILDINGS\"; \"Reducing building energy use through efficiency\"; \"reduce the city's GHG emissions\"; \"nearly 69% of the City's carbon footprint\"; \"improve the city's resiliency to climate shocks and stressors\"",
+  "co_benefits": "Cost savings (\"save residents and businesses money\"); general resilience benefits (\"improve the city's resiliency to climate shocks and stressors\")",
+  "instance_edge_case_notes": "“Improve resiliency to climate shocks and stressors” suggests adaptation co-benefits (e.g., improved thermal comfort during heat/cold events), but without a specified local hazard context or explicit adaptation mechanism (cool roofs, floodproofing, backup power, etc.), it does not meet the threshold to add an adaptation secondary category."
+}

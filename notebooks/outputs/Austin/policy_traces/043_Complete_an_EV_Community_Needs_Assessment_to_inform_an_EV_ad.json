@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Complete an EV Community Needs Assessment to inform an EV adoption growth plan, working with community partners and hiring residents to help conduct the assessment.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "ev_needs_assessment_and_planning → ev_adoption_enabling",
+  "mechanism_description": "Conducting an EV community needs assessment and associated planning identifies and reduces adoption barriers, enabling increased EV uptake and downstream transportation emissions reductions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Planning/needs assessment → ↓ adoption barriers → ↑ EV adoption → ↓ ICE vehicle use → ↓ tailpipe GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: A city assesses community EV needs and produces an EV adoption growth plan (often including targeted outreach, charging siting priorities, workforce/community partner engagement, and program design).  \n(2) Mediating process: The assessment identifies constraints (charging access gaps, cost/financing barriers, information/trust barriers, permitting delays, inequitable infrastructure distribution) and enables better-targeted interventions, lowering friction and increasing EV purchase/usage.  \n(3) Outcome: Higher EV adoption replaces gasoline/diesel vehicle travel, cutting direct combustion emissions (and usually net lifecycle GHGs depending on electricity mix), yielding overall transportation-sector emissions reductions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is increased EV adoption that displaces internal-combustion vehicle miles, reducing transportation GHG emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: assessment/planning → reduced EV adoption barriers → increased EV uptake → reduced ICE fuel combustion → reduced GHG emissions (mitigation).  \n2) Why this primary over alternatives: While planning can improve service delivery or equity outcomes, the mechanism’s defining climate-relevant intent and effect is enabling electrification of transport to cut emissions, not conserving resources as the main endpoint (Resource Efficiency) nor reducing hazard exposure (Adaptation) nor enhancing ecosystems (Nature-Based Solutions).  \n3) Inherent causal chain for each secondary: None—an assessment/planning process does not unavoidably produce adaptation benefits or material/energy efficiency gains; those depend on what actions are implemented afterward.  \n4) Edge cases applied: If the plan leads to more driving (rebound) or the grid is highly carbon-intensive, net mitigation could be smaller, but the dominant pathway remains emissions reduction through EV displacement of ICE travel.  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism (EV needs assessment + planning to enable adoption) is fundamentally an emissions-reduction enabling measure for transport electrification, so Mitigation applies broadly.",
+  "mechanism_confidence": 0.84,
+  "mechanism_edge_case_notes": "Effectiveness depends on follow-through policies and local electricity emissions intensity; the needs assessment itself is an enabling step whose direct emissions impact is indirect and may be delayed. Rebound travel effects are possible but not inherent to the mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Conduct an EV Community Needs Assessment\"; \"inform an EV adoption growth plan\"; \"Hire residents... to help conduct the needs assessment\"",
+  "co_benefits": "Workforce/community economic benefits (hiring residents); potential air quality and public health improvements from increased EV adoption; equity improvements via targeted community engagement.",
+  "instance_edge_case_notes": "Could be coded as more climate-direct if the text explicitly committed to specific mitigation targets or implementation measures (e.g., charging buildout, rebates); as written it is upstream planning enabling later mitigation actions."
+}

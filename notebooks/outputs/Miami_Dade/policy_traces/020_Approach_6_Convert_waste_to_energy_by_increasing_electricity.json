@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Approach 6: Convert waste to energy by increasing electricity generation from wastewater cogeneration and increasing conversion of non-recycled garbage to energy while improving recycling quality.",
+  "role": "parent",
+  "sector": "waste",
+  "canonical_mechanism": "waste_to_energy_conversion → landfill_methane_avoidance_and_energy_recovery",
+  "mechanism_description": "Convert wastewater and non-recycled solid waste into electricity/energy, avoiding landfill methane emissions while recovering energy that can displace fossil-based generation.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Residual waste and wastewater biosolids are converted into usable electricity/heat, increasing energy recovered per unit waste and reducing demand for virgin energy inputs for the same delivered service.",
+  "primary_causal_pathway": "Waste management system change → ↓ uncontrolled landfill anaerobic decomposition (↓ CH₄) + controlled energy recovery → ↓ net GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Municipal systems shift residual solid waste and/or wastewater sludge from landfill disposal toward waste-to-energy pathways (incineration with energy recovery, anaerobic digestion/biogas capture, wastewater cogeneration).  \n(2) Process: Diverting waste from landfills reduces anaerobic decomposition that would emit methane; instead, carbon is oxidized in controlled conditions and/or methane is captured and combusted to CO₂ while producing energy.  \n(3) Outcome: Lower lifecycle climate impact via avoided landfill CH₄ emissions and additional reductions when recovered electricity/heat displaces higher-emitting grid or fossil thermal energy.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced net GHG emissions (especially avoided landfill methane) from diverting organic/residual waste to controlled energy recovery.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Waste is redirected from landfill (high CH₄ leakage risk) to controlled conversion with energy recovery, producing a net reduction in GHGs—this is a direct mitigation pathway.  \n2) Why Mitigation over alternatives: While energy recovery and “using waste as a resource” is important, the largest climate effect across instances is typically avoided methane (high GWP) plus displacement of fossil energy, both of which are mitigation outcomes rather than adaptation.  \n3) Inherent secondary chain(s):  \n   - Resource Efficiency is inherent because the mechanism necessarily recovers usable energy from a previously discarded stream, reducing required external energy inputs for equivalent energy services.  \n4) Edge cases applied: If the waste-to-energy pathway is mass-burn incineration of fossil-plastic-heavy waste without meaningful landfill methane avoidance (or if landfill gas capture already near-complete), the net mitigation benefit can be smaller or ambiguous; however, the mechanism as defined includes landfill methane avoidance and energy recovery, keeping mitigation dominant.  \n5) Labels apply to ALL instances: Any policy implementing this mechanism aims to reduce net emissions through landfill diversion/CH₄ avoidance and energy recovery, so Mitigation (with inherent Resource Efficiency) fits across contexts.",
+  "mechanism_confidence": 0.78,
+  "mechanism_edge_case_notes": "Net mitigation depends on waste composition (biogenic vs plastic), baseline landfill methane capture, and whether recovered energy actually displaces fossil generation; some implementations can increase local air pollutants, but that does not change the primary climate category.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"48 GWH/YEAR OF ELECTRICITY FROM COGENERATION AT WASTEWATER PLANTS BY 2030\"; \"50% OF NON-RECYCLED GARBAGE CONVERTED TO ENERGY BY 2030\"; \"10% INCREASE IN RECYCLING RATES\"; \"CUT ... 'CONTAMINATION' IN HALF\"; \"CONVERT WASTE TO ENERGY\"",
+  "co_benefits": "Potential air-quality and public-health improvements from reduced landfill use; potential reduced landfill volume/land use and nuisance odors; potential local energy resilience from distributed generation (not framed as hazard exposure reduction).",
+  "instance_edge_case_notes": "Instrument could also be interpreted as a planning-strategy if presented as a non-binding approach; however the explicit numeric “by 2030” commitments read most like target-setting."
+}

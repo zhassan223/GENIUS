@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Reduce the energy use intensity of new buildings 20% by 2030 below 2020 levels.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "building_energy_code → energy_use_reduction",
+  "mechanism_description": "Tighten requirements for new building energy performance so new construction uses less energy, reducing associated operational emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Higher building energy performance delivers the same building services (heating/cooling/lighting) with less energy input, inherently improving energy productivity even when grid emissions are low.",
+  "primary_causal_pathway": "Building design/construction standards → ↓ building energy demand (and often ↓ on-site fuel combustion) → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Policies require or induce more efficient building envelopes, HVAC, lighting, controls, and sometimes electrification/net-zero performance for new (and sometimes existing) buildings.  \n(2) Mediating process: Improved thermal performance and equipment efficiency reduce delivered electricity and fuel needed to provide indoor comfort and services; where fossil systems are reduced, direct combustion also falls.  \n(3) Outcome: Lower operational CO₂e emissions (and frequently lower peak load), contributing to climate change mitigation.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced operational energy demand in buildings, which lowers associated CO₂e emissions from electricity and on-site fuel use.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: building standards → reduced energy use → reduced operational GHG emissions (largest and most direct effect).  \n2) Why this primary over alternatives: While codes can incidentally improve comfort/heat resilience, the defining and generally largest intended climate impact across instances is emissions reduction from lower energy consumption and fuel switching.  \n3) Inherent secondary chain(s):  \n   - Resource Efficiency is inherent because the mechanism is explicitly about delivering the same building function with less energy input.  \n4) Edge cases applied: If the electricity grid is already zero-carbon, mitigation benefits shrink but the mechanism still targets operational emissions in general and remains primarily mitigation across typical contexts; adaptation co-benefits (e.g., better thermal comfort during heat/outages) are not guaranteed and thus not inherent.  \n5) Confirm labels apply to ALL instances: Any policy that tightens building energy performance to reduce energy use will, by construction, reduce energy demand and typically emissions (Mitigation) and always improve energy input efficiency (Resource Efficiency).",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "In very low-carbon grids or where efficiency leads to rebound effects, net GHG reductions may be smaller; adaptation benefits (reduced heat stress, improved passive survivability) can occur but depend on design specifics and are not universal to all energy-code policies.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Reduce the energy use intensity\"; \"new buildings\"; \"20% by 2030\"; \"below 2020 levels\"",
+  "co_benefits": "Potential co-benefits: lower energy bills/operating costs; reduced peak electricity demand; improved indoor comfort/health—however these are not explicitly linked to a local climate hazard or specified in the text.",
+  "instance_edge_case_notes": "Could be implemented via a regulatory performance standard or building energy code update, but the excerpt only states the reduction target (no compliance/enforcement details), so classified as target-setting rather than regulatory-mandate/performance-standard."
+}

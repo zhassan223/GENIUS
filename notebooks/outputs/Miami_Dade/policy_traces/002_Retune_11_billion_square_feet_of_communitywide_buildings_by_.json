@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Retune 1.1 billion square feet of communitywide buildings by 2030.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "building_retuning → energy_use_reduction",
+  "mechanism_description": "Operationally retuning existing buildings improves system performance and reduces energy use, cutting emissions from building energy consumption.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Retuning reduces energy input per unit of heating/cooling/lighting service by optimizing equipment operation and controls, inherently improving energy productivity.",
+  "primary_causal_pathway": "Building operations optimization → ↓ energy demand (electricity/fuels) → ↓ combustion/power-sector GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Building operators/owners retune existing building systems (HVAC controls, scheduling, setpoints, ventilation rates, sensor calibration, balancing, fault detection and correction) without necessarily major capital retrofit. (2) Process: Improved control logic and equipment performance reduces unnecessary run time, simultaneous heating/cooling, and losses while maintaining comparable comfort/service. (3) Outcome: Lower site energy use leads to lower source energy production and reduced CO₂e emissions from electricity generation and on-site fuel combustion.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced building energy consumption, which lowers upstream power/combustion-related GHG emissions.",
+  "mechanism_classification_reasoning": "(1) Dominant causal pathway: operational retuning → reduced energy demand → reduced GHG emissions from energy supply. (2) Primary category choice: This mechanism’s main climate effect is emissions reduction (Mitigation), not hazard exposure reduction (Adaptation) or carbon sequestration (Nature-Based Solutions). (3) Secondary inherent effects: Because retuning is explicitly about using less energy for the same service, it inherently increases energy efficiency (Resource Efficiency). (4) Edge cases: If a jurisdiction’s grid is already near-zero carbon, the GHG benefit shrinks, but the mechanism still primarily targets emissions via energy reduction; comfort/resilience benefits are possible but not guaranteed outcomes of retuning. (5) Applicability to all instances: Any “retuning existing buildings” policy operates through operational efficiency improvements that reduce energy use, so the labels hold across locations.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "In very low-carbon grids, mitigation impact may be modest and resource-efficiency benefits dominate in practice; retuning can sometimes increase energy use if it corrects under-ventilation/under-conditioning, but the intended and typical mechanism is net energy reduction.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“RETUNE”; “1.1 BILLION SQUARE FOOTAGE”; “BY 2030”",
+  "co_benefits": "Improved indoor comfort and air quality; reduced operating costs; potential peak-demand reduction and grid reliability benefits.",
+  "instance_edge_case_notes": "“Retune … by 2030” is a target rather than an explicit mandate, incentive, or investment; real-world delivery could occur via ordinances, programs, or standards not specified in the text."
+}

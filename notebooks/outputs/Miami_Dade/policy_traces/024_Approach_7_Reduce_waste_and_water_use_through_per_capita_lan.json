@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Approach 7: Reduce waste and water use through per-capita landfill waste reduction and per-capita water consumption reduction by 2030.",
+  "role": "parent",
+  "sector": "cross_sector",
+  "canonical_mechanism": "waste_diversion_and_water_efficiency_standards → landfill_methane_avoidance_and_per_capita_water_reduction",
+  "mechanism_description": "Reducing per-capita landfill waste lowers landfill methane emissions, while reducing per-capita water consumption lowers overall water demand through efficiency.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Per-capita water consumption reduction inherently delivers the same water services with less water withdrawn/treated/distributed, i.e., reduced water demand through efficiency/conservation.",
+  "primary_causal_pathway": "Waste generation/disposal behavior → ↓ landfilled (especially organic) waste → ↓ anaerobic decomposition in landfills → ↓ CH₄ emissions → ↓ radiative forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Policies reduce per-capita landfill disposal (via waste prevention, recycling/composting, diversion) and reduce per-capita potable water consumption (via efficiency standards and conservation).  \n2) Mediating physical/ecological processes: Less biodegradable material in landfills leads to less anaerobic degradation and methane formation; lower water demand reduces volumes that must be extracted, pumped, treated, and distributed (often lowering energy use).  \n3) Climate-relevant outcomes: Primary outcome is reduced methane emissions from landfills (mitigation); additionally, reduced water use improves resource productivity and often reduces indirect GHG emissions from the water supply chain.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is avoiding high-GWP methane emissions by reducing the amount of organic waste disposed in landfills.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Reduced landfilling (especially organics) → reduced landfill CH₄ → mitigation.  \n2) Why this primary over alternatives: Methane avoidance is a direct, high-impact GHG reduction pathway that applies broadly wherever landfilling is reduced; water-use reduction’s climate benefit can be indirect and varies with local energy intensity of water supply and whether water savings translate to energy/emissions savings.  \n3) Inherent secondary chain(s):  \n   - Resource Efficiency is inherent because the mechanism explicitly targets reduced per-capita water consumption (same end-use service with less water input).  \n4) Edge cases applied: If waste reduction is achieved mainly by shifting waste to incineration without energy recovery, net GHG benefits could be smaller; if landfills already capture nearly all methane or waste is largely inert, methane-avoidance benefits diminish. Water savings may primarily yield adaptation/resilience rather than emissions reductions in some contexts.  \n5) Confirm labels apply to ALL instances: Any policy that reduces landfilled waste will generally reduce potential landfill methane generation (mitigation), and any policy that reduces per-capita water use is inherently a resource-efficiency intervention.",
+  "mechanism_confidence": 0.76,
+  "mechanism_edge_case_notes": "Combined mechanism spans two domains; primary is set by the most consistently material climate effect (landfill CH₄ avoidance). In places with near-universal landfill gas capture or minimal organics landfilling, the dominant effect could shift toward energy/water-system emissions or drought resilience, but that is not guaranteed across all instances.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"REDUCE LANDFILL WASTE PER PERSON 50% BY 2030\"; \"REDUCE WATER CONSUMPTION PER PERSON 30% BY 2030\"",
+  "co_benefits": "Potential co-benefits: reduced local air pollutants from waste handling/disposal; reduced water supply stress and operating costs; reduced upstream energy use for water treatment/pumping; reduced landfill leachate generation.",
+  "instance_edge_case_notes": "Targets could be implemented via multiple instruments (pricing, mandates, infrastructure, incentives), but the excerpt itself only specifies outcome targets, not the implementing tool."
+}

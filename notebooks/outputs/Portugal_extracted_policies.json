@@ -1,0 +1,200 @@
+[
+  {
+    "policy_statement": "Adopt and implement the National Energy and Climate Plan 2021-2030 (PNEC 2030) as Portugal’s primary national energy and climate policy instrument for the decade, with political coordination and monitoring by the Ministerial Commission for Climate Action (CAC).",
+    "verbatim_text": "The National Energy and Climate Plan 2021-2030 (PNEC 2030) is this decade's primary national energy and climate policy instrument and it was approved through the Council of Ministers Resolution n.º 53/2020, of 10 th of July. The Ministerial Commission for Climate Action (CAC) is responsible for the political coordination of PNEC 2030, in charge of supervising and monitoring its implementation and the achievement of the established targets.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.2. Legal and policy frameworks and institutional arrangements",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Formal, approved national policy instrument with defined governance/implementation responsibility."
+  },
+  {
+    "policy_statement": "Set Portugal’s long-term mitigation vision through the Carbon Neutrality Roadmap 2050 (RNC2050), approved by government resolution, constituting Portugal’s Long-Term Strategy submitted to the European Commission and UNFCCC.",
+    "verbatim_text": "The Portuguese long-term vision for mitigation has been set in the Carbon Neutrality Roadmap 2050  (RNC2050),  approved  by  the  Council  of  Ministers  nº.  107/2019,  of  1 st of  July,  which constituted the Portuguese Long-Term Strategy submitted to the European Commission and to United Nations Framework Convention for Climate Change (UNFCCC).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.2. Legal and policy frameworks and institutional arrangements",
+    "sector": "Mitigation",
+    "extraction_rationale": "Explicitly approved roadmap/strategy with legal/political basis (Council of Ministers resolution)."
+  },
+  {
+    "policy_statement": "Maintain a revised National Adaptation Strategy (ENAAC 2020/NAS) approved by Council of Ministers Resolution No. 56/2015, focused on improving cross-domain articulation, integrating adaptation in sectoral policies, and implementing adaptation measures.",
+    "verbatim_text": "Portugal also has a revised NAS - National Adaptation Strategy (ENAAC 2020, approved by the Council of Ministers Resolution n.º 56/2015, of 30 th of July) ... focusing on improving the articulation between domains ... on the integration in sectoral policies, and the implementation of adaptation measures.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "1.2. Legal and policy frameworks and institutional arrangements",
+    "sector": "Adaptation",
+    "extraction_rationale": "Named national strategy, formally approved, and the document describes multiple objectives/implementation elements under it—treated as an umbrella policy."
+  },
+  {
+    "policy_statement": "Adopt and implement the Adaptation to Climate Change Action Programme (P-3AC / NAP), approved by Council of Ministers Resolution No. 130/2019, to complement and operationalize ENAAC 2020’s objective of implementing adaptation measures.",
+    "verbatim_text": "The Adaptation to Climate Change Action Programme, approved by the Resolution of the Council of  Ministers  Nº.  130/2019,  of  2 nd of  August ... complements  and systematises  the  work  carried  out  in  the  context  of  ENAAC  2020,  focusing  on  its  second objective: to implement adaptation measures.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "1.2. Legal and policy frameworks and institutional arrangements",
+    "sector": "Adaptation",
+    "extraction_rationale": "Named programme with formal approval; explicitly organizes multiple intervention lines and measures—fits parent policy."
+  },
+  {
+    "policy_statement": "Extend the validity of the National Adaptation Strategy (NAS) until 31 December 2025 through PNEC 2030.",
+    "verbatim_text": "The National Energy and Climate Plan 2020-2030 (PNEC 2030) is the main instrument of national energy and climate policy for the next decade towards carbon neutrality in 2050. PNEC 2030 also has extended the validity of the NAS until 31 st of December 2025.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3. National adaptation priorities, strategies, policies, plans, goals and actions",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete time-bound extension of an existing national strategy stated in the text."
+  },
+  {
+    "policy_statement": "Develop the National Adaptation Roadmap 2100 (RNA 2100), expected to be completed in 2023, to update climate projections/impacts, produce regional adaptation narratives, establish spatial-planning guidelines, and identify investment needs/costs including costs of inaction.",
+    "verbatim_text": "Following a similar approach, the National Adaptation Roadmap 2100 (RNA 2100) is being drawn up and is expected to be completed in 2023. ... The roadmap will also help to identify investment needs and costs, including costs of inaction.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3. National adaptation priorities, strategies, policies, plans, goals and actions",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit ongoing government roadmap with expected completion date and defined outputs."
+  },
+  {
+    "policy_statement": "Establish the Portuguese Environmental Fund (2017) to support national environmental policies and help achieve national/international commitments, including climate change, and identify international climate-change cooperation as an action domain.",
+    "verbatim_text": "The Portuguese Environmental Fund was established in 2017. The purpose of this instrument is to support national environmental policies for the pursuit of Sustainable Development Objectives, contributing to the achievement of national and international objectives and commitments, in particular those related to climate change... One of  the  domains  that  is  clearly  identified  as  action  domain  of  this  Fund  is  international cooperation in the field of climate change, in accordance with the compliance of international commitments.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.5. Provision of new and additional resources",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Creation of a funding instrument with stated purpose and scope is a clear policy action."
+  },
+  {
+    "policy_statement": "As an EU Member State, commit to mobilise 0.15% to 0.20% of GNI as ODA allocated to Least Developed Countries (LDCs) by 2030.",
+    "verbatim_text": "As an EU Member State, Portugal made the commitment to mobilise 0.15% to 0.20% of its GNI as ODA allocated to Least Developed Countries (LDC) by 2030.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.5. Provision of new and additional resources",
+    "sector": "Finance",
+    "extraction_rationale": "Quantified, time-bound commitment (share of GNI by 2030)."
+  },
+  {
+    "policy_statement": "Support adaptation of agriculture/forest to climate change via the Rural Development Programme (PDR 2020), with €1,746.5 million in support and distribution across categories (knowledge, investments, agricultural risks, forestry, agro-environmental/climate, and areas with constraints).",
+    "verbatim_text": "In  the  case  of  the  agriculture  and  food/rural  development  sector,  the  Rural  Development Programme (PDR 2020) supported with €1746.5 million the adaptation of agriculture/forest to Climate Change (54.5% of total funding to agriculture and forests). This amount was distributed as follows: 0.5% (Knowledge); 12.2% (Investments); 1.6% (agricultural risks); 13.4% (forestry); 48.8% (agro-environmental measures and climate); 23.5% (Areas with constraints).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.1. State of play of the implementation of measures planned under 'Strategies and Plans'",
+    "sector": "Agriculture",
+    "extraction_rationale": "Clear resource allocation with quantified funding amount and breakdown tied to adaptation."
+  },
+  {
+    "policy_statement": "Implement POSEUR Priority Axis 2 for adaptation and risk prevention/management (IP 5.1 and 5.2), including calls for proposals and financing allocations; by end-2019 support 413 operations with €485 million eligible cost and €398 million Cohesion Fund allocation.",
+    "verbatim_text": "Its Priority Axis 2 - Adaptation to climate change and risk  prevention  and  management,  includes  two  investment  priorities  (IP):  5.1.  Support  for investment for adaptation to climate change; 5.2. Promoting investments to address specific risks... At the end of 2019, 413 operations were supported, with a total eligible cost of €485 million and a Cohesion Fund allocation of €398 million.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.2. State of play of the implementation of measures planned under 'Strategies and Plans'",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete programme implementation with defined investment priorities and quantified funding/operations."
+  },
+  {
+    "policy_statement": "Create the support programme “More Sustainable Buildings” (2020) to rehabilitate and improve buildings’ energy and water performance, financing 890 applications totaling €1.75 million.",
+    "verbatim_text": "With the specific objective  of  rehabilitating  and  improving  buildings'  concerning  energy  and water  performance  it  was  created  the  support  programme  \"More  Sustainable  Buildings\",  in 2020, and it has been financing 890 applications, amounting to €1.75 million.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.3. State of play of the implementation of measures planned under 'Strategies and Plans': the share of spending used to support climate adaptation in each sector",
+    "sector": "Buildings",
+    "extraction_rationale": "Named programme with explicit objective and quantified financing."
+  },
+  {
+    "policy_statement": "Approve the Regional Programme for Climate Change (PRAC) in the Azores (Regional Legislative Decree No. 30/2019/A) encompassing mitigation and adaptation, including studies of vulnerabilities and definition of adaptation measures for relevant sectors.",
+    "verbatim_text": "The Autonomous Region of the Azores proceeded with the Regional Programme for Climate Change  (PRAC -Portuguese  acronym),  approved  by  the  Regional  Legislative  Decree  Nº. 30/2019/A, 28 th of  November, which encompasses mitigation and adaptation. PRAC allowed improving the level of knowledge on climate change in the Region through the studies of current and  future  vulnerabilities  and  the  definition  of  adaptation  measures  for  the  most  relevant sectors.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.1. State of play of the implementation of measures planned under 'Strategies and Plans'",
+    "sector": "Adaptation",
+    "extraction_rationale": "Subnational legally approved programme with specified scope and actions."
+  },
+  {
+    "policy_statement": "Set P-3AC (NAP) result-indicator targets for 2020 and 2030, including: municipalities covered by adaptation plans (60% by 2020; 100% by 2030) and multiple sector targets (water efficiency, contingency/adaptation plans by companies, coastline erosion, precision irrigation, etc.).",
+    "verbatim_text": "Table 1. Result indicators and targets defined under the NAP (Adaptation to Climate Change Action Programme - P-3AC).\n\n| Result indicator | Target 2020 | Target 2030 |\n| Municipalities covered by adaptation plans (municipal, inter-municipal or regional) | 60% | 100% |\n| Water efficiency in urban consumption | 80% | 85% |\n| Water use efficiency in agriculture | 65% | 80% |\n| Continental coastline in a critical state of erosion | 16,5% | 10% |",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.5. Monitoring and evaluation",
+    "sector": "Adaptation",
+    "extraction_rationale": "Quantified targets with deadlines constitute an actionable policy commitment/benchmark."
+  },
+  {
+    "policy_statement": "Implement P-3AC Line of Action #1: Rural fire prevention through structural interventions in agricultural and forestry areas, including fuel discontinuity bands/mosaics, biomass valorisation systems, infrastructure reconfiguration (e.g., burying cables), and warning/communication systems.",
+    "verbatim_text": "## Line of Action #1 - Rural fire prevention - structural interventions in agricultural and forestry areas\n\nMeasures/concretization: • Introduction of discontinuity bands or patches by: - (re)afforestation with other forest species resistant to the risk of fire ... - introduction of agricultural mosaic ... • Economic valorisation of biomass through the installation of Intermunicipal Systems for the collection and interim storage of biomass ... • Conversion and reconfiguration of linear electricity transmission and distribution structures that cross-forest areas (e.g. burying cables; changing routes) • Reconversion and reconfiguration of telecommunications networks ... • Installation and reconfiguration of warning... and communication/information systems, including surveillance and warning systems for local populations",
+    "policy_type": "sub",
+    "parent_policy_name": "Adaptation to Climate Change Action Programme (P-3AC)",
+    "section_header": "Annex I -Lines of action and measures",
+    "sector": "Forestry",
+    "extraction_rationale": "Specific intervention package under a named line of action within P-3AC, with concrete measures."
+  },
+  {
+    "policy_statement": "Implement P-3AC Line of Action #2: Soil conservation and fertility improvement techniques to minimise erosion, increase soil organic matter and water retention, reduce runoff from extreme rainfall, and recover degraded soils using specified measures (afforestation with soil-improving species, compost/manures, direct seeding, riparian rehabilitation, infiltration solutions).",
+    "verbatim_text": "## Line of Action #2 - Implementation of soil conservation and fertility improvement techniques\n\nMain objectives: • Minimising soil erosion • Increase the levels of organic matter in the soil • Improve the soil's water retention capacity • Reduce runoff from extreme rainfall events...\n\nMeasures/concretization: • Afforestation with soil-improving species ... • Incorporation of manures and compost... • Direct seeding... • Reposition/rehabilitation of the riparian gallery... • Creation of infiltration gardens and other aquifer recharge solutions",
+    "policy_type": "sub",
+    "parent_policy_name": "Adaptation to Climate Change Action Programme (P-3AC)",
+    "section_header": "Annex I -Lines of action and measures",
+    "sector": "Agriculture",
+    "extraction_rationale": "Clearly defined line of action with concrete on-the-ground measures listed."
+  },
+  {
+    "policy_statement": "Implement P-3AC Line of Action #3: Good water management practices in agriculture, industry, aquaculture and the urban sector to reduce water consumption and improve efficiency, including modernised irrigation, monitoring crop water needs, reuse of treated wastewater, rainwater harvesting, leakage monitoring and diversified urban water sources.",
+    "verbatim_text": "## Line of Action #3 - Implementation of good water management practices in agriculture, aquaculture, industry and the urban sector...\n\nMeasures/concretization: • Adoption of good water management practices in agriculture... [installation of sprinkler... micro-sprinklers, drop-by-drop) and installation of meters] ... • Use of rainwater and re-use of treated wastewater in agriculture ... • Adoption of good water management practices in the industry... - Wastewater reuse ... - Installation of rainwater harvesting systems ... • Rehabilitation of water distribution systems and installation of leakage monitoring systems",
+    "policy_type": "sub",
+    "parent_policy_name": "Adaptation to Climate Change Action Programme (P-3AC)",
+    "section_header": "Annex I -Lines of action and measures",
+    "sector": "Water",
+    "extraction_rationale": "Concrete set of specified interventions under a numbered P-3AC line of action."
+  },
+  {
+    "policy_statement": "Implement P-3AC Line of Action #4: Increase resilience of ecosystems, species and habitats, including restoring riparian galleries, maintaining environmental flows and river continuity, regulating irrigation abstractions in refuges, adapting/adding fish passage devices, and creating ecological corridors/refuges and wildlife crossings.",
+    "verbatim_text": "## Line of Action #4 - Increasing the resilience of ecosystems, species, and habitats to the effects of climate change\n\nMeasures/concretization: • Intervention in riparian galleries... • Conservation and rehabilitation of watercourses to maintain environmental flows and the river continuity... • Regulating the volumes of water abstracted for irrigation... • Installation or adaptation of transposition devices on weirs... • Installation or adaptation of wildlife passages/crossings on the highway/railway... • Creation of refuges and ecological corridors for vulnerable fauna species",
+    "policy_type": "sub",
+    "parent_policy_name": "Adaptation to Climate Change Action Programme (P-3AC)",
+    "section_header": "Annex I -Lines of action and measures",
+    "sector": "Biodiversity",
+    "extraction_rationale": "Numbered line under P-3AC with specific ecosystem-based measures."
+  },
+  {
+    "policy_statement": "Implement P-3AC Line of Action #5: Reduce vulnerability of urban areas to heatwaves and rising maximum temperatures via green infrastructure, water retention basins, shaded areas, ventilation corridors, drinking fountains/misting, awareness actions, and retrofitting shading/cooling in transport infrastructure and public buildings.",
+    "verbatim_text": "## Line of Action #5 - Reducing the vulnerability of urban areas to heatwaves and increasing maximum temperatures\n\nMeasures... counter the heat island effect... • Implementation of green infrastructure... • Implementation of water retention basins • Creation of shaded areas... • Creating ventilation corridors • Thermoregulation of air by misting and installation of public drinking fountains • Awareness-raising actions... • Installation or retrofit of shading/cooling equipment in... Urban transport infrastructure... Public buildings (primarily schools, hospitals and health centres)",
+    "policy_type": "sub",
+    "parent_policy_name": "Adaptation to Climate Change Action Programme (P-3AC)",
+    "section_header": "Annex I -Lines of action and measures",
+    "sector": "Cities",
+    "extraction_rationale": "Explicit, actionable urban adaptation interventions listed under a P-3AC line."
+  },
+  {
+    "policy_statement": "Implement P-3AC Line of Action #6: Prevent establishment and spread of invasive alien species, vector-borne diseases, and agricultural/forestry pests through strengthened surveillance (including REVIVE), risk-area mapping platforms, warning systems, and control/eradication actions.",
+    "verbatim_text": "## Line of Action #6 - Preventing the establishment and spread of invasive alien species, vector-borne diseases, and agricultural and forestry diseases and pests\n\nMeasures/concretization: • Strengthening entomological surveillance... through the expansion Programme for Surveillance of Culicidal Vectors (REVIVE) • Identification of risk areas through mapping and geo-referencing... on an electronic platform • ...centralised warning system... • Control of invasive alien species, and, where possible, eradication",
+    "policy_type": "sub",
+    "parent_policy_name": "Adaptation to Climate Change Action Programme (P-3AC)",
+    "section_header": "Annex I -Lines of action and measures",
+    "sector": "Health",
+    "extraction_rationale": "Specific interventions and named surveillance programme under a P-3AC line."
+  },
+  {
+    "policy_statement": "Implement P-3AC Line of Action #7: Reduce/minimise risks from flooding via retention/infiltration areas, river profile restoration and cleaning, protective infrastructure, hydrometric stations, modelling and forecasting/warning systems, and stormwater drainage remodelling.",
+    "verbatim_text": "Main objectives: • Reduce the risk of river and urban flooding ... Measures/concretization: • Creating infiltration areas through: - Construction and/or rehabilitation of retention basins ... - Reconversion of impermeable surface areas ... • Protecting water lines and restoring the natural profiles... - Cleaning and regularisation of water lines ... • Maintenance/installation of hydrometric stations ... • Implementation of hydrological and hydraulic modelling ... • Implementation of forecasting and warning systems for the population",
+    "policy_type": "sub",
+    "parent_policy_name": "Adaptation to Climate Change Action Programme (P-3AC)",
+    "section_header": "Annex I -Lines of action and measures",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Numbered P-3AC line with concrete flood-risk interventions."
+  },
+  {
+    "policy_statement": "Implement P-3AC Line of Action #8: Increase resilience and coastal protection in high-risk areas through sediment management (including artificial feeding), dune and coastal system interventions, coastal defence structures, planned retreat (removal/relocation of structures), and protection/relocation of coastal infrastructure.",
+    "verbatim_text": "## Line of Action #8 - Increasing resilience and coastal protection in areas at high risk from coastal erosion, overtopping and flooding\n\nMeasures/concretization: • Interventions in dune systems... • Interventions to replenish sediment in coastal systems ... • Interventions in coastal defence structures... • Artificial feeding operations... • Planned retreat with the removal of structures or buildings in high-risk areas ... • Interventions in transport and communication infrastructures located in coastal areas (strengthening, relocation)",
+    "policy_type": "sub",
+    "parent_policy_name": "Adaptation to Climate Change Action Programme (P-3AC)",
+    "section_header": "Annex I -Lines of action and measures",
+    "sector": "Coastal",
+    "extraction_rationale": "Specific coastal adaptation actions under a numbered P-3AC line."
+  },
+  {
+    "policy_statement": "Implement P-3AC Line of Action #9: Develop decision-support tools, capacity building, and awareness-raising actions, including a National Adaptation Platform, climate risk mapping, adaptation plans, and forecasting/warning/response systems.",
+    "verbatim_text": "## Line of Action #9 - Development of decision support tools, capacity building and awareness-raising actions\n\nMeasures/concretization: • Development of decision support tools ... reporting and developing a National Adaptation Platform. • Capacity building actions... • Production of information and knowledge... climate risk mapping • Development of Climate Change Adaptation Plans • Setting up forecasting, warning and response systems",
+    "policy_type": "sub",
+    "parent_policy_name": "Adaptation to Climate Change Action Programme (P-3AC)",
+    "section_header": "Annex I -Lines of action and measures",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Concrete capacity/tooling measures explicitly listed as a P-3AC line of action."
+  }
+]

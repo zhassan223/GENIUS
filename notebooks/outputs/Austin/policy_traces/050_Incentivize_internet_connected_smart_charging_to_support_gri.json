@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Incentivize internet-connected smart charging to support grid reliability, accessibility, and lower costs.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "ev_smart_charging_infrastructure_incentive → ev_adoption_enabling_and_grid_reliability_support",
+  "mechanism_description": "Incentives for internet-connected smart chargers increase deployment of managed charging, enabling higher EV adoption while reducing grid stress through flexible load control.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Managed (smart) charging shifts and smooths electricity demand (load shifting/peak shaving), increasing utilization of existing grid capacity and reducing need for peaking generation and some grid upgrades per unit of EV charging service.",
+  "primary_causal_pathway": "Charging infrastructure incentives + smart load control → ↑ EV adoption + ↓ gasoline/diesel VMT emissions (and cleaner-timed electricity use) → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: The city incentivizes deployment of internet-connected EV chargers and managed-charging capability (e.g., scheduled charging, demand response, dynamic pricing response).  \n(2) Mediating process: Greater charger availability reduces “range/charging anxiety,” enabling higher EV ownership/use; connectivity enables load management that shifts charging away from peak periods and toward times of higher renewable output, reducing marginal fossil generation and avoiding grid stress.  \n(3) Climate-relevant outcome: Net reduction in CO₂e from displaced combustion of gasoline/diesel and potentially lower emissions intensity of charging electricity via temporal alignment and reduced reliance on peaker plants.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced GHG emissions from transportation by enabling EV uptake and managed charging that displaces gasoline/diesel use (and can better align charging with cleaner electricity).",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Incentivizing smart charging primarily drives emissions reductions by enabling EV adoption and optimizing charging, which displaces fossil transportation fuels.  \n2) Why this primary over alternatives: While “grid reliability/resilience” is highlighted, the core climate-relevant impact of this mechanism across instances is decarbonizing transport energy use (mitigation), not reducing hazard exposure (adaptation) or ecosystem services (NBS).  \n3) Inherent secondary causal chain(s):  \n   - Resource Efficiency is inherent because smart charging explicitly manages load to reduce peaks/curtailment and improve grid asset utilization for the same charging service.  \n4) Edge cases applied: If the grid is extremely carbon-intensive and managed charging simply shifts load without enabling EV uptake, mitigation benefits could be smaller; however, the mechanism definition includes EV adoption enabling plus grid-support features, keeping mitigation dominant.  \n5) Confirm labels apply to ALL instances: Any policy that incentivizes internet-connected smart charging to enable EV scaling and manage load will generally target transport emissions reductions (Mitigation) and inherently improve electricity system efficiency via flexible demand (Resource Efficiency).",
+  "mechanism_confidence": 0.83,
+  "mechanism_edge_case_notes": "If smart charging is implemented solely for reliability with negligible EV adoption impact, or if additional electricity demand is met by high-emitting marginal generation without fuel switching benefits, mitigation could be reduced; nevertheless, under the stated mechanism (adoption enabling + managed charging), mitigation remains the dominant category.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "incentive-program",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Incentivize internet-connected smart charging”; “By 2030”; “network of intelligent charging”; “supports grid reliability and resilience”; “Incentivize internet-connected charging infrastructure”",
+  "co_benefits": "Grid reliability/resilience and potential cost savings/accessibility benefits for EV charging users (non-climate co-benefits mentioned but not sufficient to assign an additional secondary without hazard/exposure linkage).",
+  "instance_edge_case_notes": "“Resilience” is mentioned, but without a specified local climate hazard or an explicit mechanism that reduces exposure/sensitivity to a climate impact, it is treated as grid operational resilience rather than an adaptation category."
+}

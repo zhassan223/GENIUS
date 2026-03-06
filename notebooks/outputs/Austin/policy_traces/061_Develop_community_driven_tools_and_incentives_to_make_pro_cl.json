@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Develop community-driven tools and incentives to make pro-climate, pro-health food choices affordable and culturally relevant, including education and transparency tools.",
+  "role": "sub",
+  "sector": "land_use",
+  "canonical_mechanism": "sustainable_diet_incentives_and_education → food_system_emissions_reduction",
+  "mechanism_description": "Education, transparency, and incentives shift diets toward lower-emissions foods, which reduces upstream agricultural and food-supply-chain greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Shifting diets toward less resource-intensive foods (e.g., plant-forward options) inherently reduces land, water, and fertilizer inputs per calorie/protein, lowering material/energy throughput in the food system alongside the emissions reduction.",
+  "primary_causal_pathway": "Consumer information + incentives → diet shift to lower-emissions foods → ↓ agricultural CH₄/N₂O + ↓ land-use pressure + ↓ supply-chain emissions → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human activity/system: Policies use education, transparency (e.g., labeling), and incentives to change purchasing and eating habits toward “pro-climate” foods.  \n(2) Mediating physical/ecological process: Reduced demand for emissions-intensive foods (especially ruminant products) decreases enteric fermentation methane, manure-related emissions, fertilizer-driven N₂O, and can reduce land conversion/land management emissions associated with feed and livestock production; supply-chain energy use may also decline depending on substitutions.  \n(3) Climate-relevant outcome: Net reduction in food-system lifecycle GHG emissions (CO₂e), lowering overall emissions contributing to climate change.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced lifecycle GHG emissions from food production and supply chains due to a shift in consumer demand toward lower-emissions foods.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Diet-shift interventions → reduced upstream agricultural and supply-chain emissions → mitigation.  \n2) Why this primary over alternatives: While such policies can have health or equity co-benefits, the direct climate mechanism described is emissions reduction, not hazard reduction (adaptation) or carbon sequestration (nature-based).  \n3) Inherent causal chain for each secondary: Resource Efficiency is inherent because lower-emissions dietary substitutions generally require fewer biophysical inputs (land, water, fertilizer, feed), reducing throughput per unit of food consumed.  \n4) Edge cases applied: If “pro-climate” choices emphasized only local/seasonal foods, effects could be mixed; however, the stated mechanism explicitly targets lower-emissions choices, so mitigation remains dominant.  \n5) Confirm labels apply to ALL instances: Any policy fitting this mechanism (education/transparency/incentives that shift diets to lower-emissions foods) will, by definition, aim to reduce lifecycle food-system emissions; the mitigation label holds across locations.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If implementation defines “pro-climate” primarily as “local” rather than emissions-intensity (and leads to higher-emissions substitutions, e.g., heated greenhouses or air-freighted niche items), realized mitigation could be smaller or ambiguous; classification still follows the stated mechanism (lower-emissions diet shift).",
+  "additional_secondary_evidence": null,
+  "instrument_type": "incentive-program",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Incentivize”, “community-driven programs and tools”, “affordable”, “culturally relevant”, “pro-climate, prohealth food choices”, “education”, “transparency tools”",
+  "co_benefits": "Public health/nutrition improvements; equity/affordability; potential food security benefits.",
+  "instance_edge_case_notes": "Instrument mix is implied (incentives + education/transparency). If implementation is primarily labeling/education rather than financial incentives, the instrument_type could also be interpreted as information-disclosure; however “Incentivize” makes incentive-program the best single fit."
+}

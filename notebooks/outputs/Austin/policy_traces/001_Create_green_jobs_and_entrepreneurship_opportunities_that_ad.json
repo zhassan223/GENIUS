@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Create green jobs and entrepreneurship opportunities that advance the plan, expand economic opportunity and inclusion, and build decision-making power in low-income communities and communities of color.",
+  "role": "sub",
+  "sector": "cross_sector",
+  "canonical_mechanism": "green_jobs_and_entrepreneurship_program → implementation_capacity_for_emissions_reduction",
+  "mechanism_description": "Expanding green jobs and entrepreneurship increases local capacity to design, deliver, and scale climate actions, enabling broader emissions reductions across sectors.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Workforce/market capacity building → ↑ deployment of low-carbon measures → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human activity/system: The city invests in and organizes green workforce development and inclusive entrepreneurship (training, placement, business support) aligned with climate-plan actions.  \n(2) Mediating physical/system process: Increased availability of skilled labor, contractors, and firms reduces bottlenecks and transaction costs, improving adoption rates, quality, and scale of decarbonization technologies and practices (e.g., building electrification, energy efficiency, solar/storage, EV infrastructure).  \n(3) Climate-relevant outcome: Accelerated and expanded implementation of emissions-reduction measures leads to lower community-wide GHG emissions relative to the counterfactual.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is that expanding green jobs and entrepreneurship increases implementation capacity for decarbonization actions, resulting in larger and faster GHG emissions reductions across sectors.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Capacity-building (jobs/entrepreneurship) increases the ability to execute decarbonization projects, yielding downstream GHG reductions.  \n2) Why Mitigation is primary: The mechanism’s core climate claim is enabling emissions reductions; it does not inherently reduce energy/material use by itself (resource efficiency), reduce hazard exposure (adaptation), or enhance ecosystems (nature-based solutions).  \n3) Inherent causal chain for each secondary: None—any equity, economic, or resilience co-benefits are plausible but not guaranteed as a physical consequence in every instance.  \n4) Edge cases applied: Some green-jobs programs could be oriented toward adaptation trades (e.g., floodproofing) or urban forestry; those would be different mechanisms. This canonical mechanism is explicitly “implementation capacity for emissions reduction,” anchoring it in mitigation.  \n5) Confirm labels apply to ALL instances: Any policy matching this mechanism is, by definition, aimed at increasing capacity to implement emissions-reducing actions, so Mitigation applies across contexts.",
+  "mechanism_confidence": 0.74,
+  "mechanism_edge_case_notes": "If a “green jobs” program is not tied to decarbonization delivery (e.g., general green economy promotion without emissions linkage) or is primarily focused on adaptation/nature workforces, the mechanism (and potentially the primary category) should be reclassified accordingly.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Green Jobs and Entrepreneurship\"; \"Create green jobs and entrepreneurship opportunities\"; \"advance the goals of this plan\"; \"expand economic opportunity and inclusion\"; \"build agency and decision-making power in low-income communities and communities of color\"",
+  "co_benefits": "Economic opportunity/inclusion; community agency/decision-making power; potential reductions in unemployment/poverty and associated health benefits",
+  "instance_edge_case_notes": "Could also be implemented via incentive-programs (grants/TA) or procurement-requirements (local hire/set-asides), but the excerpt itself reads as a broad strategic commitment without specifying the delivery instrument."
+}

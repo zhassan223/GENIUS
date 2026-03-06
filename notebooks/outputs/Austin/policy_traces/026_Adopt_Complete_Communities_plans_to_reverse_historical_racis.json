@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Adopt Complete Communities plans to reverse historical racist displacement impacts and preserve neighborhoods in communities of color.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "complete_communities_planning → equitable_land_use_and_displacement_prevention",
+  "mechanism_description": "Adopting complete communities plans guides equitable land-use and community investment decisions to prevent displacement and preserve vulnerable neighborhoods, strengthening overall climate resilience through improved planning outcomes.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Land-use governance & investment decisions → ↓ displacement / ↑ housing-neighborhood stability + ↑ equitable access to services → ↓ vulnerability (exposure/sensitivity) to climate hazards",
+  "causal_mechanism_detail": "(1) Change: Cities adopt and apply “complete communities” planning frameworks that guide zoning, development patterns, public investment, and anti-displacement actions with an explicit equity focus. (2) Mediating process: By steering growth and resources while embedding displacement-prevention measures (e.g., tenant protections, affordable housing requirements, targeted reinvestment), communities experience greater housing stability, social cohesion, and improved access to essential services and safer environments. (3) Climate-relevant outcome: Lower vulnerability to climate impacts (e.g., heat, flooding, disruptions) because at-risk residents are less likely to be forced into higher-risk areas and more likely to benefit from resilience investments and service access.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced climate vulnerability by preventing displacement and maintaining equitable access to safer housing, services, and infrastructure that lowers exposure and sensitivity to climate hazards.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: governance/planning to prevent displacement → stronger social stability and equitable access → reduced exposure/sensitivity to hazards (adaptation).  \n2) Why this primary over alternatives: while compact/complete-community planning can sometimes reduce VMT/energy use (mitigation/resource efficiency), the canonical mechanism here is explicitly “equitable land use and displacement prevention,” whose direct, universal climate effect is vulnerability reduction rather than guaranteed emissions cuts.  \n3) Inherent causal chain for each secondary: none—mitigation or resource-efficiency benefits are context-dependent (e.g., whether plans actually shift mode share/VMT), and nature-based outcomes are not inherent unless green infrastructure/ecosystem actions are specified.  \n4) Edge cases applied: if a jurisdiction’s “complete communities” plan is primarily a compact-growth/transit-oriented development mechanism, the dominant pathway could shift toward mitigation/resource efficiency; however, for this mechanism as defined (displacement prevention), adaptation remains dominant.  \n5) Confirm labels apply to ALL instances: any policy using this mechanism aims to preserve vulnerable communities and reduce displacement pressures, which consistently supports climate resilience/adaptive capacity even though emissions impacts vary by implementation.",
+  "mechanism_confidence": 0.76,
+  "mechanism_edge_case_notes": "Some “complete communities” implementations emphasize compact growth and multimodal access (often yielding mitigation/resource-efficiency gains), but those outcomes are not guaranteed by displacement-prevention planning alone; classification should change only if the stated mechanism is primarily VMT/energy reduction rather than equity/anti-displacement.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Adopt Complete Communities plans\"; \"reverse historical and racist impacts\"; \"areas experiencing displacement\"; \"preserve neighborhoods in communities of color\"",
+  "co_benefits": "Anti-displacement and neighborhood preservation; racial equity; housing stability; improved access to services/amenities",
+  "instance_edge_case_notes": "“Complete Communities” plans can include regulatory or investment components (e.g., zoning changes, capital projects), but the text here is framed at the plan-adoption level without specifying binding requirements or funded infrastructure, so it is classified as a planning strategy (enabling) rather than a mandate/investment."
+}

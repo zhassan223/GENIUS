@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Assess and pursue water-energy nexus measures to reduce emissions, including evaluating Austin Water facility energy use and quantifying emissions impacts of customer water demand reductions.",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "water_demand_reduction → energy_use_and_emissions_reduction",
+  "mechanism_description": "Reducing customer and utility water demand lowers energy used for water treatment/pumping and end-use water heating, which in turn reduces greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Water conservation delivers the same (or managed) water services with lower water withdrawals/throughput, i.e., less water input per unit of service, inherently improving water-use efficiency.",
+  "primary_causal_pathway": "Water conservation actions → ↓ water volumes treated/pumped/heated → ↓ electricity/fuel use → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Utilities and customers reduce water demand via conservation, efficiency retrofits, leak reduction, and operational optimization.  \n2) Mediating physical process: Lower volumetric flow reduces energy intensity of water services (less pumping head/flow, less treatment and aeration, less wastewater conveyance) and reduces thermal energy needed to heat water at end use.  \n3) Climate-relevant outcome: Reduced electricity and fuel consumption leads to lower direct and indirect GHG emissions from power generation and combustion.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced GHG emissions from lower electricity/fuel use across water utilities and (often) customer hot-water use due to reduced water demand.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Reduced water demand lowers energy use in the water system and hot-water end uses, which lowers GHG emissions—this is a direct mitigation pathway.  \n2) Why this primary over alternatives: While conserving water can support drought resilience, the canonical mechanism specified here is explicitly “water_demand_reduction → energy_use_and_emissions_reduction,” so the primary intended and largest climate effect is emissions reduction rather than hazard exposure reduction.  \n3) Inherent causal chain for each secondary:  \n   - Resource Efficiency: Demand reduction necessarily reduces water throughput/withdrawals for a given level of service, improving efficiency regardless of grid mix or climate hazards.  \n4) Edge cases applied: If the water system is gravity-fed with minimal energy, or if energy is fully decarbonized, mitigation impact shrinks, but the mechanism’s dominant climate-relevant intent/effect remains emissions reduction where energy is nonzero; resource-efficiency remains inherent.  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism relies on conserving water to cut energy use and associated emissions (Mitigation) and necessarily uses less water per service delivered (Resource Efficiency).",
+  "mechanism_confidence": 0.83,
+  "mechanism_edge_case_notes": "Mitigation magnitude varies with (a) grid emissions factor, (b) share of water that is heated at end use, and (c) system topology (gravity vs pumped) and wastewater treatment energy; some implementations may also improve drought preparedness, but that is not inherent to the stated mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Assess how water demand reduction is associated with energy consumption\"; \"Identify and pursue synergistic water conservation and energy management optimization efforts\"; \"Reduce emissions at the water-energy nexus\"",
+  "co_benefits": "Potential water savings and improved utility operational efficiency/cost savings (and potentially improved drought resilience), but not specified as hazard-focused outcomes in the provided text.",
+  "instance_edge_case_notes": "Although the strategy implies eventual implementation of conservation/optimization measures, the stated action in the excerpt is primarily assessment and identification, so it is coded as a planning-strategy with enabling directness."
+}

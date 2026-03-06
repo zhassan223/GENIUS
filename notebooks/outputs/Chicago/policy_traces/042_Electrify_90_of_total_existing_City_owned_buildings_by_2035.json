@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Electrify 90% of total existing City-owned buildings by 2035.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "building_electrification → direct_fossil_fuel_combustion_reduction",
+  "mechanism_description": "Electrifying existing city-owned buildings replaces fossil-fueled heating/cooking with electric systems, cutting direct on-site fuel combustion emissions and enabling further reductions as the grid decarbonizes.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Electrification typically replaces combustion-based equipment with higher-efficiency electric technologies (notably heat pumps), delivering the same heating/service with less final energy input and reduced fuel consumption.",
+  "primary_causal_pathway": "Building energy end-use conversion (fossil → electric) → ↓ on-site fossil combustion → ↓ direct GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in system: Building retrofits convert end-uses that previously relied on gas/oil/propane (boilers, furnaces, water heaters, stoves) to electric equipment (heat pumps, electric resistance where used, induction, etc.).  \n(2) Mediating process: Reduced or eliminated combustion of fossil fuels on-site directly avoids CO₂ (and also methane/N₂O) emissions associated with that combustion; remaining emissions depend on upstream fuel cycle and the grid’s generation mix.  \n(3) Climate-relevant outcome: Net reduction in GHG emissions, with greater benefits as grid electricity becomes lower-carbon and when efficient electric technologies (e.g., heat pumps) are used.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced GHG emissions from avoiding on-site combustion of fossil fuels in buildings (and, secondarily, shifting remaining emissions to the electricity system).",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Switching from on-site fossil combustion to electricity primarily reduces direct combustion emissions, which is a mitigation outcome.  \n2) Why this primary over alternatives: While electrification can improve resilience/comfort or indoor air quality, the dominant climate-relevant effect across all instances is GHG reduction from avoided fuel combustion (and potential additional reductions via cleaner grids).  \n3) Inherent causal chain for each secondary:  \n   - Resource Efficiency: Many electrification implementations rely on heat pumps/modern electric systems that provide the same service with lower energy input than combustion systems, inherently reducing fuel/energy consumption intensity.  \n4) Edge cases applied: If electrification is done with inefficient electric resistance and a high-carbon grid, net GHG reductions may be smaller or can even be negative; however, the mechanism’s intended and typical dominant pathway remains combustion reduction for mitigation.  \n5) Confirm labels apply to ALL instances: Any policy under this mechanism entails substituting electricity for direct fossil combustion in buildings, which by definition targets direct emissions reductions (Mitigation); efficiency gains are common and structurally linked to typical electrification tech, supporting Resource Efficiency as a secondary.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Net GHG impact can vary with grid carbon intensity, technology choice (heat pump vs resistance), and upstream methane leakage; some implementations may deliver limited near-term reductions but still fit the mitigation mechanism via direct combustion avoidance.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Electrify 90%\"; \"existing City-owned buildings\"; \"by 2035\"",
+  "co_benefits": "Improved indoor air quality; reduced exposure to combustion-related pollutants (NOx/CO); potential operating cost savings and reduced fossil price volatility; potential resilience benefits if paired with storage/microgrids (not stated).",
+  "instance_edge_case_notes": "Target implies subsequent implementation instruments (capital retrofits/procurement/standards), but the statement itself is best classified as target-setting rather than an explicit investment or mandate."
+}

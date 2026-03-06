@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Strengthen the City of Austin Sustainable Procurement Program by adopting/developing sustainability guidelines and engaging vendors and departments.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "sustainable_procurement_program → supply_chain_emissions_reduction",
+  "mechanism_description": "Adopting sustainability procurement guidelines and engaging vendors shifts municipal purchasing toward lower-carbon products and services, reducing lifecycle (supply-chain) emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Procurement criteria that favor recycled/low-material, durable, repairable, or lower-waste products typically reduce material throughput and embodied energy per unit of service, lowering resource use alongside emissions.",
+  "primary_causal_pathway": "Government purchasing choices → shift demand to low-carbon suppliers/products → ↓ lifecycle (Scope 3) GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Municipal procurement specifications, bid evaluation, and contracting are updated to include sustainability/lifecycle-carbon requirements and vendor reporting/engagement. (2) Mediating process: Suppliers respond by offering lower-carbon materials, manufacturing, logistics, and packaging; purchasing shifts market share toward these options, reducing embodied emissions and waste across the value chain. (3) Outcome: Lower upstream and lifecycle GHG emissions attributable to government consumption (reduced Scope 3 emissions; sometimes also Scope 1–2 via purchased energy/services).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced lifecycle/supply-chain GHG emissions from the goods and services a government purchases.",
+  "mechanism_classification_reasoning": "(1) Dominant causal pathway: procurement rules shift purchasing toward low-carbon goods/services, cutting supply-chain emissions—this is a direct GHG reduction pathway. (2) Why Mitigation: the principal intended and largest climate effect is emissions reduction, not hazard reduction (Adaptation) or carbon sequestration (Nature-Based Solutions). (3) Secondary inherent effects: Resource Efficiency is commonly inherent because lower-carbon procurement frequently relies on reduced material/energy intensity and circularity attributes (durability/reuse/recycled content), which physically reduce resource throughput. (4) Edge cases: if a “sustainable procurement” program were defined purely around social/ethical sourcing with no environmental/carbon criteria, mitigation would not follow; under this canonical mechanism, sustainability criteria are explicitly low-carbon/lifecycle-focused. (5) Applicability to all instances: any policy implementing this mechanism (sustainability procurement guidelines + vendor engagement to buy lower-carbon options) will, by design, target upstream emissions reductions; the mitigation label holds across locations.",
+  "mechanism_confidence": 0.82,
+  "mechanism_edge_case_notes": "If procurement standards prioritize non-climate attributes (e.g., local purchasing solely for economic development) or inadvertently increase emissions (e.g., “local” but higher-carbon production), the mitigation effect could weaken; classification assumes explicit lifecycle/supply-chain carbon criteria consistent with the mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "procurement-requirement",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Strengthen the City of Austin's Sustainable Procurement Program\"; \"sustainable purchasing program\"; \"adopting/developing sustainability guidelines\"; \"engaging vendors and departments\"",
+  "co_benefits": "Potential co-benefits include reduced waste and toxics, improved supplier practices/transparency, and possible cost savings via total cost of ownership—however these are not explicitly specified in the provided text.",
+  "instance_edge_case_notes": "Instrument could be read as a planning/strategy action because it says “strengthen” and references guidelines/engagement rather than explicit mandatory clauses; classified as procurement-requirement because the mechanism is still procurement-driven (guidelines shaping purchasing decisions)."
+}

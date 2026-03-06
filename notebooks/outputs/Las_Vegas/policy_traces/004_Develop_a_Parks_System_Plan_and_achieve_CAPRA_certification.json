@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Develop a Parks System Plan and achieve CAPRA certification.",
+  "role": "sub",
+  "sector": "land_use",
+  "canonical_mechanism": "park_system_expansion → heat_and_stormwater_resilience",
+  "mechanism_description": "Creating a parks system plan and obtaining parks accreditation supports expanding and improving park/green space networks, which reduces urban heat and improves stormwater management resilience.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Nature-Based Solutions",
+  "secondary_justification": "Nature-Based Solutions: Expanding parks typically increases vegetated/permeable surfaces and tree canopy, which inherently delivers ecosystem-mediated cooling (shade/evapotranspiration) and stormwater regulation (infiltration/retention) as part of the mechanism.",
+  "primary_causal_pathway": "Climate hazard (extreme heat + heavy rainfall) → ↓ exposure/sensitivity via urban green infrastructure cooling + runoff infiltration/retention → ↓ climate damages/health risk",
+  "causal_mechanism_detail": "(1) Change: The city increases the acreage, distribution, and connectivity of parks/trails and associated green infrastructure (often adding trees, vegetated areas, and permeable ground).  \n(2) Mediating processes: Vegetation provides shade and evapotranspiration that lowers ambient and surface temperatures; soils/vegetation increase infiltration and temporary storage, slowing runoff and reducing peak flows.  \n(3) Climate-relevant outcome: Reduced urban heat island impacts and lower stormwater/flooding impacts during extreme precipitation, improving public health and infrastructure resilience under climate change.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing heat- and stormwater-related impacts on people and infrastructure by increasing urban green infrastructure that cools the city and manages runoff.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Heat and heavy-rainfall hazards are buffered by added parkland/green infrastructure through cooling and stormwater regulation, reducing risk and impacts.  \n2) Why this primary over alternatives: While parks can incidentally sequester carbon or reduce energy demand, the stated and most direct mechanism here is hazard-impact reduction (heat/stormwater resilience), which is Adaptation.  \n3) Inherent causal chain for each secondary:  \n   - Nature-Based Solutions: The mechanism relies on vegetated/permeable landscapes functioning as ecosystem-based cooling and hydrologic regulation; this is inseparable from “park system expansion” aimed at heat/stormwater resilience.  \n4) Edge cases applied: If a “park expansion” were implemented mainly as hardscaped plazas or primarily for recreation without meaningful vegetative/hydrologic function, the NBS secondary could weaken; however, the canonical mechanism explicitly ties expansion to heat and stormwater resilience, implying green/ecosystem function.  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism (expanding park/green-space networks to address heat and stormwater) primarily reduces climate risk (Adaptation) and inherently uses ecosystem features (Nature-Based Solutions).",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Some implementations may emphasize recreational access with limited canopy/permeable area (reducing NBS intensity), or add irrigated turf in arid regions (water-demand tradeoffs); however, the mechanism as defined is explicitly heat/stormwater resilience via green infrastructure, keeping Adaptation as primary.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Develop a Parks System Plan\"; \"achieve CAPRA certification\"",
+  "co_benefits": "Recreation access; public health/physical activity; habitat/biodiversity; urban tree canopy expansion; stormwater management potential",
+  "instance_edge_case_notes": "CAPRA certification is an accreditation/performance framework; without accompanying implementation commitments (e.g., park expansion, tree-planting, green infrastructure standards), the climate adaptation benefit is best treated as enabling/indirect rather than direct."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Expand use of commuter benefits by 2024.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "commuter_benefits_program → modal_shift_to_sustainable_transport",
+  "mechanism_description": "Providing commuter benefits lowers the effective cost of transit or shared commuting, encouraging a shift away from driving alone and reducing transportation emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Mode shift away from single-occupancy vehicles reduces vehicle-miles traveled per person-trip, lowering energy use per passenger-mile for the same mobility service.",
+  "primary_causal_pathway": "Commuting incentives → modal shift (↓ SOV VMT; ↑ transit/carpool/active travel) → ↓ gasoline/diesel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in system/activity: Employers and/or governments provide financial incentives or tax advantages for commuting via public transit, vanpool/carpool, or other shared/low-carbon modes rather than driving alone.  \n(2) Mediating physical process: Reduced out-of-pocket cost (and sometimes improved access) changes travel behavior, decreasing single-occupancy vehicle trips and vehicle-miles traveled; this reduces combustion of petroleum fuels in light-duty vehicles.  \n(3) Climate-relevant outcome: Lower tailpipe CO₂ (and some CH₄/N₂O) emissions from reduced fuel consumption, with potential additional upstream fuel-cycle emission reductions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions from shifting commuters from driving alone to transit/carpool/active modes.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Financial commuter benefits → mode shift away from SOV driving → reduced fuel combustion → reduced GHG emissions.  \n2) Why this primary over alternatives: While programs can have equity, congestion, or air-quality co-benefits, the most direct and largest climate effect is emissions mitigation from reduced on-road fossil fuel use.  \n3) Inherent causal chain for each secondary: Resource Efficiency is inherent because any sustained shift from SOV to higher-occupancy or non-motorized modes lowers energy per passenger-mile for the same commuting demand.  \n4) Edge cases applied: If benefits are structured around parking subsidies, they could increase SOV use; however, the canonical mechanism explicitly specifies benefits that encourage sustainable mode shift, so mitigation remains dominant.  \n5) Confirm labels apply to ALL instances: Any policy fitting this mechanism (commuter benefits that induce sustainable mode shift) will, by design, reduce SOV travel and associated GHGs; thus Mitigation (and inherent energy efficiency) applies across contexts.",
+  "mechanism_confidence": 0.83,
+  "mechanism_edge_case_notes": "If “commuter benefits” are implemented primarily as subsidized parking or otherwise lower the cost of driving, the mechanism flips (induced SOV VMT) and the classification would not apply; similarly, if the benefit only shifts time-of-day rather than mode, emissions impacts may be smaller or ambiguous.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Expand use\"; \"commuter benefits\"; \"by 2024\"",
+  "co_benefits": "Potential co-benefits: reduced traffic congestion, improved local air quality, lower household transportation costs.",
+  "instance_edge_case_notes": "Instrument could be an incentive program or regulatory mandate in full context (e.g., employer requirement), but the provided text only specifies an expansion goal with a deadline, so it is treated as target-setting."
+}

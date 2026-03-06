@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Food and Product Consumption: by 2030, reduce greenhouse gas emissions from institutional, commercial, and government purchasing by at least 50%.",
+  "role": "parent",
+  "sector": "cross_sector",
+  "canonical_mechanism": "low_carbon_procurement_target → supply_chain_emissions_reduction",
+  "mechanism_description": "Setting and pursuing low-carbon purchasing targets shifts procurement toward lower-emissions products and suppliers, reducing upstream supply-chain greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Procurement decisions → ↓ demand for high-embodied-carbon goods/services → ↓ upstream production emissions (Scope 3) → ↓ total GHG emissions",
+  "causal_mechanism_detail": "(1) Change: Institutions/governments/businesses set low-carbon procurement targets and alter purchasing specifications, vendor requirements, and product choices. (2) Mediating process: Market demand shifts toward lower-emissions materials, foods, and services; suppliers respond via cleaner production, lower-carbon inputs, and reduced high-emitting product mix. (3) Outcome: Lower life-cycle GHG emissions associated with purchased goods/services (reduced supply-chain emissions), contributing to overall emissions mitigation.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced life-cycle/supply-chain GHG emissions (Scope 3) from purchased goods and services due to shifting procurement to lower-carbon products and vendors.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: procurement targets shift purchasing toward low-embodied-carbon goods/services, cutting upstream supply-chain GHG emissions.  \n2) Why this primary over alternatives: although procurement can sometimes reduce waste or improve efficiency, the defining and largest intended climate effect of this mechanism is emissions mitigation through reduced life-cycle/supply-chain emissions.  \n3) Inherent causal chain for each secondary: none is guaranteed—resource efficiency (less material/energy), nature-based outcomes (more sequestration), or adaptation benefits depend on what is procured and are not universal to all low-carbon procurement targets.  \n4) Edge cases applied: if a procurement target is achieved via offsets/credits rather than real supply-chain reductions, the mitigation impact is weaker, but the mechanism category remains mitigation because it is still framed around reducing procurement-related emissions.  \n5) Confirm labels apply to ALL instances: any policy using low-carbon procurement targets is aimed at reducing GHGs from purchased goods/services, so “Mitigation” consistently applies across contexts.",
+  "mechanism_confidence": 0.88,
+  "mechanism_edge_case_notes": "Procurement “emissions reductions” may be delivered through accounting choices (e.g., offsets, renewable certificates, boundary changes) rather than physical supply-chain abatement; some procurement actions can also drive resource efficiency or nature-based outcomes, but these are not inherent to the mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "indirect",
+  "climate_relevance": "direct",
+  "key_indicators": "\"By 2030\"; \"reduce greenhouse gas emissions\"; \"institutional, commercial, and government purchasing\"; \"by at least 50%\"",
+  "co_benefits": "Potential co-benefits include improved air quality and public health (if purchases shift away from high-emitting foods/materials), reduced waste/material use, and potential cost savings from efficiency—however these are not explicitly stated or specified as mechanisms.",
+  "instance_edge_case_notes": "Could also be operationalized via procurement requirements/standards or vendor disclosure, but the text itself only specifies an emissions reduction target for purchasing, not the implementation tool."
+}

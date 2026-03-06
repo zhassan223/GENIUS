@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Phase out free parking for employees at City facilities and other large employers within 1/2 mile of the transit priority network and offer alternatives (cash-out, transit passes, teleworking, etc.), including developing City remote work policies to reduce parking demand.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "parking_pricing_and_cash_out → modal_shift_and_vmt_reduction",
+  "mechanism_description": "Eliminating free employee parking and offering cash-out/transit/telework options reduces solo driving and vehicle miles traveled, leading to lower transportation emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Parking cost/benefit reform → modal shift + ↓ VMT → ↓ fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Employers/cities remove free parking, introduce parking pricing and/or parking cash-out, and offer substitutes (transit passes, telework, etc.), altering commuter incentives. (2) Process: Higher marginal cost of driving + monetized alternative benefits reduce solo driving, increase transit/carpool/active travel/telework, and shorten or eliminate trips, lowering VMT and fuel consumption. (3) Outcome: Reduced tailpipe CO₂ (and some co-pollutants), yielding lower overall transport-sector GHG emissions.",
+  "dominant_pathway_test": "By making driving and parking more expensive (or paying people to forgo parking), the biggest climate-relevant effect is reduced VMT and fuel use, which directly reduces transportation GHG emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: incentive reform around parking → mode shift/less driving → less fuel burned → lower GHG emissions.  \n2) Why this primary over alternatives: while these policies can also affect congestion, air quality, and household costs, the single largest climate-relevant effect is the direct reduction in on-road fuel combustion from reduced VMT.  \n3) Inherent secondary chains: none are unavoidable—effects like resilience, resource efficiency, or nature-based outcomes are not physically guaranteed by parking pricing/cash-out alone.  \n4) Edge cases applied: if drivers shift to EVs or parking management reduces cruising without reducing VMT much, mitigation can still occur (often smaller); if added revenue is reinvested poorly it doesn’t negate the mechanism’s dominant intent/effect pathway.  \n5) Confirm labels apply to ALL instances: any policy under this mechanism operates by changing parking price/benefits to reduce driving activity; that is fundamentally a direct emissions-reduction (mitigation) mechanism.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If parking pricing leads mainly to reduced cruising/search time (rather than fewer/shorter trips) or induces spillover parking in nearby areas, the net VMT/GHG reduction may be smaller; however, the canonical mechanism is still primarily mitigation via VMT reduction.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "pricing-mechanism",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Phase out the practice of providing free parking spaces\"; \"offer a parking cash-out\"; \"offer alternatives (cash-out, transit passes, teleworking)\"; \"within 1/2 mile of the ... transit priority network\"; \"develop more remote work policies\"; \"reduce parking demand\"",
+  "co_benefits": "Improved local air quality (reduced NOx/PM from less driving); reduced congestion; reduced household transportation costs for employees who shift modes; potential public health benefits from increased active travel",
+  "instance_edge_case_notes": "Instrument could also be framed as a regulatory-mandate if implemented via ordinance/requirement on employers, but the core mechanism is parking price/benefit reform (removing a parking subsidy and offering cash-out), so it is classified as a pricing-mechanism."
+}

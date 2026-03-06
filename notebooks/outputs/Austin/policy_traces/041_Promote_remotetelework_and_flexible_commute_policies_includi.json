@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Promote remote/telework and flexible commute policies, including a City telework policy encouraging at least 85% of eligible City employees to telework, to support mode-shift goals.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "telework_and_flexible_commuting → transport_emissions_reduction",
+  "mechanism_description": "Encouraging telework and flexible commute schedules reduces commuting travel demand (VMT), which in turn reduces transportation-related greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Work/commute behavior change → ↓ commute trips/VMT → ↓ fuel combustion in transport → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Employers/governments enable and encourage telework, hybrid work, and flexible schedules to reduce or shift commuting. (2) Process: Fewer commute trips and/or reduced peak-period congestion lowers vehicle-miles traveled and fuel burned (and can increase feasibility of non-car modes). (3) Outcome: Reduced tailpipe CO₂ (and related combustion emissions) from passenger transportation.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced commuting vehicle-miles traveled, leading to lower on-road fuel combustion and reduced transportation GHG emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: reduced travel demand (VMT) from telework/flexible commuting → reduced fuel combustion → reduced GHG emissions.  \n2) Why this primary over alternatives: the mechanism’s intended and largest climate effect is emissions reduction (not primarily adaptation, resource efficiency, or ecosystem enhancement).  \n3) Inherent secondary effects: none are guaranteed across all instances (e.g., congestion reduction, air quality, or resilience benefits can occur but are context-dependent and not physically unavoidable).  \n4) Edge cases applied: potential rebound effects (more non-work trips, longer residential location choices, increased home energy use) can offset benefits, but they are not inherent outcomes of every telework policy; the mechanism remains emissions mitigation in intent and typical net effect.  \n5) Label applies to all instances: any policy using this mechanism acts through reducing/reshaping commuting travel demand to cut transport-sector emissions, which is squarely mitigation.",
+  "mechanism_confidence": 0.88,
+  "mechanism_edge_case_notes": "Net emissions impact can vary with rebound (additional discretionary travel), induced suburbanization/longer trips on office days, and increased residential energy use; some implementations also target congestion relief, but those co-benefits are not universal enough to classify as inherent secondary categories.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Promote remote/telework and flexible commute policies\"; \"implement a City of Austin telework policy\"; \"encouraging no less than 85% of eligible City of Austin employees\"; \"support mode-shift goals\"",
+  "co_benefits": "Reduced congestion/peak travel demand; improved local air quality; potential travel time savings and employee flexibility",
+  "instance_edge_case_notes": "Although framed as “promote” (could imply an enabling strategy), the explicit “no less than 85%” participation level makes it functionally a target-setting policy; not enough detail to classify as a mandate or incentive program."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Adaptation plan program: Enhance the resilience of coastal zones to face sea level rise (SLR) risks, with an allocated budget of 7.8 million USD and identified responsible institutions.",
+  "role": "parent",
+  "sector": "cross_sector",
+  "canonical_mechanism": "coastal_resilience_program → sea_level_rise_risk_reduction",
+  "mechanism_description": "Implementing a coastal adaptation/resilience program reduces exposure and vulnerability of coastal zones to sea level rise impacts.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (sea level rise + coastal flooding/erosion) → ↓ exposure/vulnerability (coastal defenses, planning, preparedness) → ↓ physical/economic damages + ↓ service disruption",
+  "causal_mechanism_detail": "(1) Human activity/system changed: Coastal-zone governance and investment shift toward an organized resilience program (planning, capital works, land-use controls, early warning/emergency planning, nature/engineering shoreline protection, and asset retrofits).  \n(2) Mediating physical/ecological process: Measures reduce inundation probability/extent, wave run-up and erosion, saltwater intrusion, and/or move assets out of high-risk areas; preparedness improves response and recovery.  \n(3) Climate-relevant outcome: Reduced exposure and sensitivity of coastal communities and infrastructure to sea level rise, lowering expected losses and maintaining critical services under rising sea levels and storm surge conditions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced damage and disruption from sea level rise by lowering exposure and/or vulnerability of people, assets, and ecosystems in coastal zones.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Sea level rise hazard is addressed by reducing exposure/vulnerability, yielding lower climate impact damages—this is the defining adaptation pathway.  \n2) Why this primary over alternatives: The mechanism’s core objective is risk reduction from SLR (a climate hazard), not reducing emissions (Mitigation), not necessarily reducing resource inputs for the same service (Resource Efficiency), and not necessarily relying on ecosystem restoration as the required means (Nature-Based Solutions).  \n3) Inherent causal chain for each secondary: None—coastal resilience programs may sometimes include efficiency upgrades or nature-based elements, but these are optional design choices, not unavoidable outcomes of “coastal resilience program → SLR risk reduction.”  \n4) Edge cases applied: If implemented specifically via wetlands/mangroves restoration as the central mechanism, it could shift toward Nature-Based Solutions; if primarily hard-infrastructure or planning/retreat, it remains Adaptation. The canonical mechanism here is programmatic SLR risk reduction in general, so Adaptation holds.  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism targets reduced SLR impacts through resilience actions, which consistently maps to Adaptation.",
+  "mechanism_confidence": 0.92,
+  "mechanism_edge_case_notes": "If a “coastal resilience program” is implemented predominantly through ecosystem restoration (mangroves, reefs, dunes) with material co-benefits for carbon sequestration, a secondary (or in some cases primary) Nature-Based Solutions classification could be warranted; however that is not inherent to the generic mechanism as stated.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Enhancing the resilience of coastal zones”; “face SLR risks”; “Budget | 7.8 million USD”; “Responsibility | … (KEPA)… (SCPD)… KISR”",
+  "co_benefits": "Potential co-benefits: protection of coastal ecosystems, reduced non-climate coastal erosion impacts, safeguarding coastal economic activity and public assets.",
+  "instance_edge_case_notes": "Could be classified as infrastructure-investment if the source specified funded capital works (e.g., seawalls, beach nourishment, surge barriers), but the excerpt only indicates a resilience program with budget/responsible institutions, not the concrete measures."
+}

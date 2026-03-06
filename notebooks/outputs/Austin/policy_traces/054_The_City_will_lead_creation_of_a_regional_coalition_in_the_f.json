@@ -1,0 +1,23 @@
+{
+  "policy_statement": "The City will lead creation of a regional coalition in the five-county MSA to support EV adoption with government, business, and community stakeholders.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "ev_adoption_coalition_building → ev_adoption_enabling",
+  "mechanism_description": "Creating a regional EV coalition coordinates stakeholders and reduces adoption barriers, enabling higher EV uptake and associated transport emissions reductions over time.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Coordination/market enabling → ↑ EV adoption → ↓ ICE fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human/system activity: The city convenes and leads a regional coalition to align plans and actions that enable EV adoption (e.g., coordinated charging rollout, harmonized permitting, joint outreach, aligned incentives, fleet commitments).  \n(2) Mediating process: Reduced transaction costs and adoption barriers plus improved network effects (more charging availability, clearer standards, higher consumer confidence) increases EV purchases and use.  \n(3) Climate-relevant outcome: Increased electrified travel displaces fossil fuel combustion in the transport sector, lowering lifecycle GHG emissions (magnitude depends on grid mix but directionally reduces emissions in typical contexts).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions from accelerated EV adoption that displaces gasoline/diesel vehicle miles.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Coalition-building is an enabling intervention whose main downstream effect is higher EV adoption leading to lower tailpipe (and typically lifecycle) GHG emissions—i.e., mitigation.  \n2) Why this primary over alternatives: While EVs can improve local air quality and energy security, the climate-relevant “single biggest” effect of the mechanism is emissions reduction from replacing internal combustion driving with electrified driving.  \n3) Inherent causal chain for each secondary: None—resource efficiency (less energy per mile) or adaptation co-benefits are not guaranteed across all instances and depend on vehicle type, grid carbon intensity, and complementary measures.  \n4) Edge cases applied: If the grid is very carbon-intensive or EV adoption increases vehicle miles traveled, net GHG benefits can be smaller; however, the intended and generally dominant climate pathway remains mitigation via electrification.  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism (coalition-building to enable EV adoption) is fundamentally designed to increase EV uptake; the consistent climate-relevant intent and typical outcome is transport emissions mitigation.",
+  "mechanism_confidence": 0.84,
+  "mechanism_edge_case_notes": "If coalition efforts primarily focus on economic development/industry growth without materially increasing EV adoption, climate impact may be indirect or negligible; also, net GHG benefits vary with grid mix and induced demand, but these do not change the mechanism’s dominant mitigation pathway.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"lead in creating a regional coalition\"; \"support EV adoption\"; \"within the fivecounty MSA\"",
+  "co_benefits": "Improved regional air quality and public health; reduced transportation fuel costs; economic development/workforce opportunities; reduced transportation noise",
+  "instance_edge_case_notes": "Coalition formation could be paired with future instruments (incentives, procurement, infrastructure investment), but the text here only establishes coordination/leadership, so it is classified as a planning/strategy enabling instrument."
+}

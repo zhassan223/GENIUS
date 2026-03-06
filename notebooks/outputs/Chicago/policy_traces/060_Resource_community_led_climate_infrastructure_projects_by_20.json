@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Resource community-led climate infrastructure projects by 2022.",
+  "role": "sub",
+  "sector": "cross_sector",
+  "canonical_mechanism": "climate_infrastructure_funding_program → emissions_reduction_and_resilience_enabling",
+  "mechanism_description": "Providing resources for community-led climate infrastructure projects enables deployment of mitigation and adaptation measures, supporting emissions reductions and improved climate resilience.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Public investment/funding → deployment of resilience infrastructure/services → ↓ hazard exposure/↓ vulnerability → ↓ climate damages",
+  "causal_mechanism_detail": "1) Change in human/system activity: Government/municipality provides funding, grants, or resourcing to community-led climate infrastructure projects (planning, capital works, retrofits, preparedness assets).  \n2) Mediating physical/process link: Funded projects are built/implemented, improving protective capacity (e.g., stormwater management, cooling access, backup power, hardened facilities), preparedness, and response capability.  \n3) Climate-relevant outcome: Reduced impacts from climate hazards (heat, flooding, storms, etc.) through lowered exposure and vulnerability; any GHG reductions are indirect and depend on project types funded, so they are not inherent to the mechanism.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect of policies using this mechanism is enabling deployment of resilience measures that reduce exposure/vulnerability to climate hazards by funding climate infrastructure projects.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: The mechanism’s direct, universal function is to finance/enable implementation of climate infrastructure, which most consistently yields resilience outcomes by reducing hazard impacts.  \n2) Why this primary over alternatives: While “climate infrastructure” can include mitigation (e.g., efficiency, electrification), emissions reductions are not guaranteed across all funded-project portfolios; resilience benefits (reduced risk via protective/adaptive infrastructure) are the most robust cross-instance effect, especially given the explicit “community resiliency” framing in the provided policy.  \n3) Inherent causal chain for each secondary: None—mitigation/resource-efficiency benefits occur only if the funded projects specifically target energy/GHG outcomes, which is not unavoidable.  \n4) Edge cases applied: If a jurisdiction defines the funding program narrowly for GHG-reducing infrastructure only (e.g., EV charging, building electrification), the dominant pathway would shift to Mitigation; this is not specified in the mechanism as given.  \n5) Confirm labels apply to ALL instances: Any instance of “resourcing climate infrastructure projects” will at minimum enable adaptive/resilience measures; mitigation is optional and therefore not assigned as inherent secondary.",
+  "mechanism_confidence": 0.67,
+  "mechanism_edge_case_notes": "If the funding program is explicitly restricted to decarbonization infrastructure (renewables, electrification, efficiency) or has binding emissions targets as the primary purpose, classification should switch to Mitigation; if it is restricted to green infrastructure/ecosystem restoration, it may instead be Nature-Based Solutions.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Resource\"; \"community-led\"; \"climate infrastructure projects\"; \"by 2022\"",
+  "co_benefits": "Potential local economic development/community capacity-building benefits from funding community-led projects; potential mitigation co-benefits depending on project types.",
+  "instance_edge_case_notes": "“Resource” is ambiguous between direct capital spending vs. a grant/incentive program; classified as infrastructure-investment because the object is “infrastructure projects,” but it could alternatively be framed as an incentive-program if implemented primarily via grants."
+}

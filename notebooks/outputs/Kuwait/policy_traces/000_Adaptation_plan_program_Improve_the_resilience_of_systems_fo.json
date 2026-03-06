@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Adaptation plan program: Improve the resilience of systems for the water sector, with an allocated budget of 6.2 million USD and identified responsible institutions.",
+  "role": "parent",
+  "sector": "water",
+  "canonical_mechanism": "water_sector_resilience_upgrade → water_supply_resilience",
+  "mechanism_description": "Implementing resilience upgrades in water-sector systems increases the reliability and continuity of water supply and services under climate-related disruptions.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard + water-system vulnerability → resilience upgrades (hardening/redundancy/contingency) → ↓ service disruption/↓ failure probability → ↓ exposure to water insecurity",
+  "causal_mechanism_detail": "(1) Change: The policy upgrades water-sector systems (infrastructure, operations, governance, emergency planning, redundancy) to withstand climate stresses and shocks. (2) Process: Hardening, diversification of supply, backup power/storage, improved monitoring/controls, and contingency operations reduce the likelihood that climate hazards trigger system failures. (3) Outcome: Increased continuity and reliability of water supply/services under climate change, reducing population and economic vulnerability to water outages and shortages.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing exposure and sensitivity to climate hazards by maintaining reliable water supply and water services during climate-related disruptions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: climate hazard acting on a vulnerable water system is countered by resilience upgrades that reduce service disruption—an adaptation pathway.  \n2) Why this primary over alternatives: while some upgrades can incidentally affect energy use/emissions (e.g., more efficient pumps), the defining and largest intended effect across “resilience upgrades → water supply resilience” is continuity of service under climate stress, not mitigation or general resource efficiency.  \n3) Inherent secondary effects: none are guaranteed in all instances—resilience can increase or decrease energy use depending on the measures (e.g., backup diesel generators could increase emissions; efficiency improvements could reduce).  \n4) Edge cases applied: if a specific policy instance is actually primarily efficiency retrofits (same service with less energy/water loss) or low-carbon water supply (renewable-powered desalination), it may belong to Resource Efficiency or Mitigation, but that would be a different mechanism than “resilience upgrade → resilience.”  \n5) Label applicability check: all policies sharing this mechanism (resilience-focused upgrades to water-sector systems) inherently target reduced climate risk and improved reliability, fitting Adaptation across locations.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Some “resilience” water projects may be implemented via energy-efficiency measures, leak reduction, or renewable-powered supply; those can shift the dominant pathway toward Resource Efficiency or Mitigation if they are the primary effect, but that would require a different canonical mechanism than the one provided.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Improve the resilience of systems for the water sector”; “Budget | 6.2 million USD”; “Responsibility | Ministry of Electricity and Water … KISR … KEPA … SCPD”",
+  "co_benefits": "Potential co-benefits: improved routine service reliability and water-security outcomes (non-climate), operational efficiency and governance/coordination improvements.",
+  "instance_edge_case_notes": "Instrument could also be interpreted as a planning-strategy because the excerpt lacks specific capital works; however, the explicit allocated “Budget” supports classifying it as an infrastructure-investment program. No hazard is named, preventing assignment of any additional hazard-linked secondary category."
+}

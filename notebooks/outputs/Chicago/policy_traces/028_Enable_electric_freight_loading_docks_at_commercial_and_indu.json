@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Enable electric freight loading docks at commercial and industrial buildings, addressing new buildings by 2025 and existing buildings by 2030.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "freight_electrification_infrastructure → ev_adoption_enabling",
+  "mechanism_description": "Installing electric-capable freight loading dock infrastructure enables electrified freight vehicles/equipment to operate and charge, supporting freight electrification and reducing transport emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Electrified freight equipment/vehicles typically provides the same freight service with lower final energy input per unit of work than internal combustion (higher drivetrain efficiency, reduced idling/auxiliary fuel use at docks), reducing energy waste as an inherent co-effect of electrification.",
+  "primary_causal_pathway": "Freight operations infrastructure upgrade → enables electric freight vehicle/equipment adoption → ↓ diesel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Commercial/industrial sites install electric-capable freight loading dock infrastructure (power supply, charging/connection hardware, electrical capacity upgrades) for new and existing buildings.  \n(2) Process: Availability of reliable on-site power/charging reduces range/charging constraints and dwell-time barriers, enabling electric trucks, yard tractors, refrigeration units, and other freight-handling equipment to operate without diesel engines during loading/queuing.  \n(3) Outcome: Displacement of diesel fuel use lowers CO₂ (and often methane/black carbon co-pollutants), delivering net transport-sector emissions reductions contingent on grid emissions intensity.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced greenhouse gas emissions from freight operations by enabling a shift from diesel-powered freight vehicles/equipment to electricity (often lower-carbon over time).",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Infrastructure enabling → electrified freight adoption → reduced fossil fuel combustion → reduced GHG emissions (mitigation).  \n2) Why this primary over alternatives: The mechanism’s direct purpose and largest climate effect is emissions abatement from freight energy switching; any resilience benefits (e.g., quieter/cleaner operations) are not the main climate pathway.  \n3) Inherent secondary chain(s):  \n   - Resource Efficiency: Electrification inherently improves end-use energy conversion efficiency for freight movement/yard operations, so less energy is required for the same service alongside the emissions reduction.  \n4) Edge cases applied: If electricity is very carbon-intensive, near-term GHG benefits can be smaller, but the mechanism still targets emissions reduction via fuel switching and typically improves as grids decarbonize.  \n5) Confirm labels apply to ALL instances: Any policy that installs/mandates electric freight dock infrastructure is fundamentally an EV-enabling measure whose dominant climate effect is mitigation via reduced diesel use; efficiency gains are generally intrinsic to electrified end-use.",
+  "mechanism_confidence": 0.87,
+  "mechanism_edge_case_notes": "Emissions outcomes depend on grid carbon intensity and the extent of actual EV uptake; in rare cases diesel displacement could be limited if infrastructure is underutilized, but the intended and typical dominant pathway remains mitigation via fuel switching.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "regulatory-mandate",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Enable electric freight loading docks\"; \"commercial and industrial buildings\"; \"new buildings by 2025\"; \"existing buildings by 2030\"",
+  "co_benefits": "Air quality and public health co-benefits from reduced diesel NOx/PM; noise reduction at loading areas; potential operational cost savings from electrification.",
+  "instance_edge_case_notes": "“Enable” could imply an incentive/assistance program, but the inclusion of explicit compliance-style deadlines for new vs. existing buildings suggests a mandate/requirement rather than voluntary support."
+}

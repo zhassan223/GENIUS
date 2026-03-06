@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Transportation Electrification: by 2030, provide an equitably distributed mix of Level 1, Level 2, and DC fast charging to accommodate 40% of VMT (about 37,000 charging ports; 226 MW load).",
+  "role": "parent",
+  "sector": "transport",
+  "canonical_mechanism": "ev_charging_infrastructure → ev_adoption_enabling",
+  "mechanism_description": "Deploying widely available EV charging infrastructure reduces range/charging barriers, enabling greater electric vehicle adoption and use.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Shifting travel from internal-combustion drivetrains to electric drivetrains typically provides the same mobility service with lower energy input per mile (higher drivetrain efficiency), reducing overall energy demand for transport.",
+  "primary_causal_pathway": "Charging access expansion → ↑ EV adoption/use → ↓ fossil fuel combustion in road transport → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human/system activity: Cities install public fast/level charging, enable residential charging programs, and/or require EV-ready wiring/conduit and electrical capacity in new parking/buildings.  \n(2) Mediating physical/process mechanism: Increased charger availability, reduced “range anxiety,” and lower installation/transaction costs make EV ownership and operation more feasible, increasing EV uptake and utilization relative to ICE vehicles.  \n(3) Climate-relevant outcome: EV miles displace gasoline/diesel miles, reducing tailpipe CO₂ and (depending on grid mix) lowering lifecycle GHG emissions from the transport sector.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions by enabling higher electric-vehicle adoption that displaces gasoline/diesel vehicle miles.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Charging infrastructure (public/residential or EV-ready requirements) increases EV adoption and use, which displaces fossil fuel combustion in vehicles, producing net GHG reductions—this is mitigation.  \n2) Why this primary over alternatives: While chargers can have co-benefits (e.g., energy savings or air quality), the central intent and largest climate effect is emissions reduction via transport electrification.  \n3) Inherent secondary causal chain(s):  \n   - Resource Efficiency: EVs generally use less energy per mile than ICE vehicles, so enabling EV uptake tends to reduce energy required for the same mobility service.  \n4) Edge cases applied: If EV charging is supplied by very carbon-intensive electricity, the GHG benefit can be smaller; however, the mechanism is still aimed at emissions reduction via electrification and typically yields reductions as grids decarbonize.  \n5) Confirm labels apply to ALL instances: Whether via installing chargers, running residential programs, or requiring EV-ready capacity, every instance functions by lowering charging barriers to increase EV adoption, making Mitigation the consistent primary category.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Net mitigation impact depends on electricity carbon intensity and whether increased convenience induces additional vehicle travel (rebound); also, if chargers primarily serve plug-in hybrids or are underutilized, realized GHG reductions may be lower, but the mechanism classification remains mitigation-focused.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“By 2030”; “equitably distributed mix”; “level 1, 2, and DC fast charging infrastructure”; “accommodate 40% of total vehicle miles traveled”; “226 megawatts of electrical load”; “more than 37,000 charging ports”",
+  "co_benefits": "Improved local air quality; reduced transportation fuel costs; increased mobility access/equity; potential noise reduction.",
+  "instance_edge_case_notes": "Although the mechanism is typically implemented via infrastructure investment, the text itself is framed as a quantified 2030 goal rather than a funded buildout commitment or mandate; therefore classified as target-setting and “enabling” (it facilitates EV adoption rather than directly reducing emissions on its own)."
+}

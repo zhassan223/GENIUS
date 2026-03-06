@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Implement community-driven programs to incentivize and promote affordable, culturally relevant pro-climate, pro-health retail/prepared food options while minimizing displacement.",
+  "role": "sub",
+  "sector": "land_use",
+  "canonical_mechanism": "sustainable_food_retail_programs → diet_shift_emissions_reduction",
+  "mechanism_description": "Community-driven incentives and programs change retail/prepared food availability and affordability, leading to lower-carbon food purchasing patterns and reduced food-system greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Food retail environment + pricing/marketing → diet/purchase shift → ↓ lifecycle food GHG emissions (esp. methane, land-use-related CO₂) → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Cities/funders/community partners implement programs in grocery, corner stores, restaurants, and prepared-food retail that improve availability, affordability, placement, and cultural relevance of “pro-climate” food choices (often plant-based, lower-emissions items) via incentives and promotion.  \n(2) Process: Consumers respond to changed choice architecture and relative prices by purchasing/consuming a different basket of foods; upstream supply adjusts, reducing demand for high-emissions products (notably ruminant meat/dairy) and associated production, enteric methane, manure emissions, and land-use pressures.  \n(3) Outcome: Net reduction in lifecycle GHG emissions from the food system attributable to dietary demand shifting.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced food-system greenhouse gas emissions from shifting diets and purchases toward lower-carbon foods.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Retail/prepared-food programs change purchases/diets, which reduces lifecycle food-sector GHG emissions—this is a direct mitigation pathway.  \n2) Why this primary over alternatives: While these programs can improve public health, affordability, or food access, the climate-relevant mechanism described is explicitly the reduction of emissions via diet shift; adaptation is not the primary effect.  \n3) Inherent causal chain for each secondary: None—resource efficiency or nature-based benefits are not unavoidable outcomes of “sustainable food retail” programs; they depend on specific design choices (e.g., local sourcing, regenerative standards, waste reduction components).  \n4) Edge cases applied: If a program focuses mainly on food access without demonstrable lower-carbon substitution, climate effects could be neutral; however, the canonical mechanism explicitly includes “diet_shift_emissions_reduction,” anchoring the classification in mitigation.  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism targets lower-carbon purchasing patterns through retail interventions, whose core climate impact is emissions reduction, fitting Mitigation across locations.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If “pro-climate” retail programs emphasize local/organic without reducing high-emissions animal products, net GHG benefits can be ambiguous; if they include explicit plant-forward substitution, the mitigation effect is stronger. Also, equity/anti-displacement provisions affect social outcomes but do not change the primary climate category.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "incentive-program",
+  "instrument_directness": "indirect",
+  "climate_relevance": "direct",
+  "key_indicators": "\"community-driven programs\"; \"incentivize and promote\"; \"more affordable\"; \"culturally relevant\"; \"pro-climate, pro-health choices\"; \"prepared and retail food options\"; \"minimizing displacement\"",
+  "co_benefits": "Public health/nutrition improvements; food security/affordability; local economic support for small retailers; equity/anti-displacement outcomes.",
+  "instance_edge_case_notes": "“Minimizing displacement” is an equity/anti-gentrification guardrail but is not itself a climate mechanism category here; instrument type could shift toward “planning-strategy” if the full policy details are primarily governance/coordination rather than financial incentives."
+}

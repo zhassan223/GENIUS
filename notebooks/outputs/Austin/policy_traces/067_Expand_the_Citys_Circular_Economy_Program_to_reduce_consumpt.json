@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Expand the City’s Circular Economy Program to reduce consumption, enable internal reuse/sharing, and provide incubation supports (space/grants/loans/technical assistance) for qualifying circular organizations.",
+  "role": "sub",
+  "sector": "cross_sector",
+  "canonical_mechanism": "circular_economy_program_expansion → consumption_and_embodied_emissions_reduction",
+  "mechanism_description": "Expanding circular economy supports increases reuse/sharing and reduces material consumption, which lowers demand for new material production and thereby reduces lifecycle (embodied) greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Circular economy expansion inherently reduces virgin material throughput (same or similar services delivered with fewer new material inputs) via reuse/sharing/repair and internal redistribution.",
+  "primary_causal_pathway": "Consumption/purchasing patterns shift toward reuse/repair/sharing → ↓ demand for virgin material production → ↓ industrial supply-chain GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: The city expands programs and supports (internal reuse/sharing systems, circular business incubation, and circular procurement practices) that shift institutions and markets away from buying new products toward reusing, repairing, sharing, and recirculating goods.  \n(2) Process: Reduced demand for new goods lowers upstream extraction, processing, manufacturing, and freight activity across supply chains, cutting energy use and process emissions (including high-emitting materials like steel, cement, plastics, textiles).  \n(3) Outcome: Net reduction in embodied (lifecycle) GHG emissions attributable to material production and associated transport.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced lifecycle (embodied) greenhouse gas emissions from producing fewer new goods and materials due to increased reuse, repair, sharing, and circular purchasing.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: reduced material consumption and increased circularity → reduced upstream industrial production → reduced embodied GHG emissions (mitigation).  \n2) Why this primary over alternatives: while circularity improves material efficiency, the climate-significant endpoint is the avoided GHG emissions from less virgin production; it is not primarily about reducing exposure to hazards (adaptation) or enhancing ecosystems (nature-based solutions).  \n3) Inherent secondary chain(s):  \n   - Resource Efficiency: delivering comparable utility with fewer virgin material inputs is intrinsic to reuse/sharing/repair models and therefore present in every instance of this mechanism.  \n4) Edge cases applied: if a “circular” program were implemented in a way that mainly shifts waste handling without reducing virgin demand, mitigation benefits could be smaller—but the stated mechanism explicitly targets consumption reduction and reuse/sharing, so embodied-emissions mitigation remains dominant.  \n5) Confirm labels apply to ALL instances: any policy genuinely expanding circular economy capacity to increase reuse/sharing/repair and reduce purchasing will, by construction, reduce virgin material throughput (resource efficiency) and typically avoid upstream GHG emissions (mitigation).",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If circularity focuses on recycling with high-energy processing or causes rebound effects (more total consumption due to cheaper reused goods), net mitigation could be reduced; classification still holds because the intended and dominant mechanism is reduced virgin production via reduced consumption and increased reuse/sharing.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "incentive-program",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Expand the City of Austin's Circular Economy Program\"; \"reducing consumption\"; \"internal reuse/sharing\"; \"rent-subsidized incubation spaces\"; \"grants, loans, and technical assistance\"",
+  "co_benefits": "Economic development/job creation for circular enterprises; waste reduction/landfill diversion; potential cost savings for City departments; community resilience via local repair/reuse capacity",
+  "instance_edge_case_notes": "Includes elements of planning/strategy (program expansion) and potentially infrastructure investment (use of City-owned space), but the dominant mechanism is provision of financial/technical supports and subsidized space, consistent with an incentive-program."
+}

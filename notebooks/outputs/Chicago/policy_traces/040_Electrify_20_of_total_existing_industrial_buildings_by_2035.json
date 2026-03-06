@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Electrify 20% of total existing industrial buildings by 2035.",
+  "role": "sub",
+  "sector": "industry",
+  "canonical_mechanism": "industrial_building_electrification → direct_fossil_fuel_use_reduction",
+  "mechanism_description": "Electrifying industrial buildings replaces on-site fossil fuel combustion with electricity, reducing direct fossil fuel use and associated greenhouse gas emissions (especially as electricity supply gets cleaner).",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Electrification commonly increases end-use conversion efficiency (e.g., heat pumps vs. boilers/resistance heating), delivering the same heating/service with less final energy input, which reduces overall fuel/energy demand alongside direct fossil displacement.",
+  "primary_causal_pathway": "Industrial building energy service → electrified end-use replaces on-site combustion → ↓ direct fossil fuel use → ↓ GHG emissions",
+  "causal_mechanism_detail": "(1) Change: Industrial buildings replace fossil-fired boilers/furnaces/heaters and other combustion-based end-uses with electric alternatives (e.g., heat pumps, electric boilers where applicable, electric process heaters).  \n(2) Process: Eliminates point-of-use combustion of methane/oil/propane and shifts energy input to electricity; in many cases electrified technologies provide higher thermodynamic efficiency, reducing total energy required.  \n(3) Outcome: Lower direct (Scope 1) combustion CO₂e emissions and, depending on grid emissions intensity, lower net (Scope 1+2) emissions over time, especially as electricity supply decarbonizes.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced GHG emissions from avoiding on-site fossil fuel combustion in industrial buildings by switching end-uses to electricity.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: switching industrial building end-uses from on-site fossil combustion to electricity primarily reduces GHG emissions by cutting direct fossil fuel consumption.  \n2) Why this primary over alternatives: the defining intent and unavoidable first-order effect of the mechanism is emissions mitigation via combustion avoidance; adaptation or nature-based effects are not inherent.  \n3) Inherent secondary chain(s): Resource Efficiency applies because electrification (notably heat pumps) typically provides the same service with less final energy, inherently reducing energy inputs relative to combustion in many implementations.  \n4) Edge cases applied: if electricity is high-carbon, near-term net GHG benefits can be smaller or delayed, but the mechanism still targets direct fossil reduction; if electrification uses inefficient resistance heat, efficiency gains may be limited, but the mechanism still displaces on-site combustion.  \n5) Label universality check: all policies that “electrify industrial buildings” share the same dominant mitigation pathway (direct fossil combustion reduction); no other category is universally and unavoidably produced across all instances.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Net emissions outcomes depend on grid carbon intensity and the specific electrified technologies; some industrial “electrification” may include resistance heating with limited efficiency gains, so Resource Efficiency is common but not guaranteed in every niche application.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "indirect",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Electrify 20%\", \"existing industrial buildings\", \"by 2035\"",
+  "co_benefits": "Potential air quality improvements (reduced on-site combustion pollutants) and potential occupational health benefits; not specified in text.",
+  "instance_edge_case_notes": "“Electrify 20% … by 2035” is a target without an explicit compliance mechanism; if paired with a binding requirement or standard in the full policy, instrument_type could shift to regulatory-mandate or performance-standard."
+}

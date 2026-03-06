@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Publish clean energy just transition metrics by 2022.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "just_transition_metrics_reporting → accountability_and_equity_in_transition",
+  "mechanism_description": "Publishing just transition metrics increases transparency and accountability, helping decision-makers steer clean energy policies toward equitable outcomes during decarbonization.",
+  "primary_category": "Resource Efficiency",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Governance/measurement → improved decision-making and accountability → more effective/targeted allocation of transition efforts and resources",
+  "causal_mechanism_detail": "(1) Change: A city defines, collects, and publicly reports just transition indicators (e.g., workforce impacts, access/affordability, investment distribution, participation).  \n(2) Mediating process: Transparency enables oversight, benchmarking, and course-correction; decision-makers and stakeholders can detect inequities and adjust program design, budgets, and enforcement.  \n(3) Climate-relevant outcome: Increases the effectiveness and fairness of the clean-energy transition process (indirectly supporting durable implementation), without a guaranteed direct emissions or hazard-reduction effect.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is improved governance that can steer climate actions toward equitable implementation, but it does not directly reduce GHG emissions or physical climate risk on its own.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: governance via measurement/reporting improves accountability and targeting of transition actions.  \n2) Why this primary over alternatives: it is not a direct Mitigation mechanism (no inherent emissions reduction), not Adaptation (no inherent reduction in exposure/sensitivity), and not Nature-Based Solutions (no ecosystem pathway). It most closely fits Resource Efficiency as an enabling mechanism that improves how resources and policies are directed and managed.  \n3) Inherent secondary chains: none are guaranteed physically—any mitigation/adaptation benefits depend on subsequent policy changes informed by the metrics.  \n4) Edge cases applied: if metrics are legally tied to emissions caps, mandatory corrective actions, or funding triggers, downstream mitigation/adaptation could become dominant—but that is not inherent to “publishing metrics.”  \n5) Label applies to all instances: any policy that only publishes just transition metrics primarily functions as an accountability/management tool rather than a direct physical climate intervention.",
+  "mechanism_confidence": 0.66,
+  "mechanism_edge_case_notes": "If reporting is coupled to binding requirements (e.g., automatic budget reallocations, enforceable equity thresholds, or mandated emissions-reduction actions), the dominant pathway could shift toward Mitigation (or Adaptation) depending on what the triggers compel; standalone reporting remains primarily an enabling/governance mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "information-disclosure",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Publish\"; \"just transition metrics\"; \"by 2022\"",
+  "co_benefits": "Improved equity and distributional outcomes (workforce impacts, affordability, participation) via transparency and accountability; improved public trust/engagement.",
+  "instance_edge_case_notes": "Primary is pre-assigned as Resource Efficiency, but the text is primarily a governance/measurement (disclosure) requirement rather than an efficiency intervention; climate impact depends on subsequent actions taken in response to the metrics."
+}

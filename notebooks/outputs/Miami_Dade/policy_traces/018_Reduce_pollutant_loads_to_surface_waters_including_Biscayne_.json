@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Reduce pollutant loads to surface waters (including Biscayne Bay) to facilitate recovery of seagrasses to historic levels.",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "surface_water_pollution_reduction → aquatic_ecosystem_restoration",
+  "mechanism_description": "Reducing pollutant inputs to surface waters improves water quality, which supports seagrass recovery and strengthens coastal ecosystem resilience.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Nature-Based Solutions",
+  "secondary_justification": "Nature-Based Solutions: Reduced nutrient/toxic/sediment pollution → improved water clarity/chemistry → seagrass/aquatic habitat recovery → increased ecosystem function (including carbon storage in biomass/sediments and wave/shoreline buffering) through a biologically mediated “nature” pathway.",
+  "primary_causal_pathway": "Pollution control → improved water quality → aquatic vegetation/habitat recovery → ↓ coastal hazard impacts (erosion/wave energy) + ↓ exposure/vulnerability",
+  "causal_mechanism_detail": "(1) Change: Policies reduce pollutant loads (nutrients, sediments, contaminants) entering bays/rivers/estuaries from wastewater, stormwater runoff, or land uses.  \n(2) Mediating process: Lower pollution improves water clarity and reduces eutrophication/toxicity, enabling seagrass and other aquatic habitat to re-establish and persist, restoring ecosystem structure and function.  \n(3) Climate-relevant outcome: Restored aquatic/coastal ecosystems can buffer shorelines and reduce vulnerability to coastal storms and erosion (adaptation), and often increase blue-carbon storage in vegetation and sediments (secondary NBS/mitigation co-benefit).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is improved resilience to coastal hazards (reduced erosion and storm/wave impacts) via healthier aquatic/coastal ecosystems enabled by cleaner surface waters.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Reducing surface-water pollution enables aquatic ecosystem (seagrass) recovery, which most strongly affects climate outcomes by lowering coastal vulnerability (natural buffering, shoreline stabilization).  \n2) Why this primary over alternatives: While carbon sequestration can increase with seagrass recovery, the mechanism’s most direct and generally largest climate-relevant benefit across contexts is hazard-risk reduction and resilience improvement—an adaptation outcome.  \n3) Inherent secondary chain(s):  \n   - Nature-Based Solutions is inherent because the mechanism explicitly relies on ecological recovery (seagrass/aquatic habitat) to deliver outcomes; restored ecosystems commonly provide blue-carbon storage and other regulating services.  \n4) Edge cases applied: In some locations the main motivation may be water-quality compliance or biodiversity; nevertheless, when climate-relevant effects are considered, the consistent pathway is ecosystem-mediated buffering (adaptation) with potential blue-carbon co-benefits.  \n5) Labels apply to ALL instances: Any policy that reduces pollutant loads specifically to restore aquatic ecosystems necessarily acts through ecosystem recovery (NBS) and typically increases resilience to coastal/water-related hazards (adaptation).",
+  "mechanism_confidence": 0.78,
+  "mechanism_edge_case_notes": "If the restored aquatic ecosystem is inland with minimal hazard-buffering relevance (e.g., purely freshwater habitat restoration without flood/erosion implications), the dominant climate-relevant effect could shift toward carbon/bio-geochemical benefits or be minor; however, for coastal seagrass/Bay recovery (as in the example), adaptation via coastal buffering is the most consistent dominant pathway.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Reduce pollutant loads\"; \"surface waters, including Biscayne Bay\"; \"facilitate recovery of seagrasses to historic levels\"; \"community recommendation\"",
+  "co_benefits": "Potential mitigation co-benefit via increased blue-carbon storage in seagrass sediments; improved fisheries/biodiversity and recreation/tourism from better water quality.",
+  "instance_edge_case_notes": "Instrument is ambiguous (could be implemented via regulation, infrastructure upgrades, or incentives), but the provided text only states an objective/recommendation, so it is treated as a planning-strategy and enabling rather than a direct regulatory or investment action."
+}

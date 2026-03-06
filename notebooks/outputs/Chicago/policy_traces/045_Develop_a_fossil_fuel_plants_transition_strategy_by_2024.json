@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Develop a fossil-fuel plants transition strategy by 2024.",
+  "role": "sub",
+  "sector": "energy_supply",
+  "canonical_mechanism": "fossil_fuel_plant_transition_strategy → grid_decarbonization",
+  "mechanism_description": "Developing a transition strategy for fossil-fuel power plants enables their phase-down or replacement with cleaner resources, reducing electricity-sector greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Electricity system planning/asset transition → ↓ fossil generation/↑ clean generation → ↓ CO2e emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: The city/utility/regulator develops and implements a structured transition plan for fossil power assets (e.g., retirement schedules, replacement portfolios, workforce/community transition steps, procurement and permitting sequencing). (2) Mediating process: The plan enables binding decisions and coordinated actions that reduce fossil plant utilization and/or retire units and substitute output with renewables, storage, demand response, and/or other low/zero-carbon resources. (3) Outcome: Lower grid carbon intensity and absolute electricity-sector CO2 (and typically co-pollutant) emissions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing electricity-sector GHG emissions by accelerating the phase-down/retirement or reduced operation of fossil-fuel power plants and replacing their output with cleaner generation.",
+  "mechanism_classification_reasoning": "(1) Dominant causal pathway: A transition strategy’s core purpose is to move the generation mix away from fossil fuels, yielding direct reductions in power-sector GHG emissions.  \n(2) Why this primary over alternatives: While such strategies can include reliability and equity elements, their defining, largest climate-relevant effect across instances is emissions reduction from fossil plant phase-down/replacement, which is Mitigation.  \n(3) Inherent causal chain for each secondary: None—adaptation benefits (e.g., resilience) or resource-efficiency effects are not unavoidable physical consequences of merely adopting a transition strategy; they depend on specific replacement choices and grid-hardening measures.  \n(4) Edge cases applied: If the “transition” replaced coal with unabated gas, mitigation could be smaller or ambiguous, but the canonical mechanism is explicitly “grid_decarbonization,” implying net emissions reduction as the intended causal endpoint.  \n(5) Confirm labels apply to ALL instances: Any policy using this mechanism (transition strategy aimed at decommissioning fossil power to decarbonize the grid) shares the same primary mitigation pathway.",
+  "mechanism_confidence": 0.84,
+  "mechanism_edge_case_notes": "If the transition strategy results in fuel-switching to another fossil source (or increased imports from fossil-heavy grids) without net decarbonization, realized mitigation may be limited; however, the mechanism definition presumes replacement with cleaner resources for grid decarbonization.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Develop\"; \"fossil-fuel plants transition strategy\"; \"by 2024\"",
+  "co_benefits": "Improved local air quality and public health from reduced co-pollutants; potential workforce/community transition support (implied by “transition strategy”)—but not explicit in the text.",
+  "instance_edge_case_notes": "Could be interpreted as target-setting because of the deadline, but the action is primarily to produce a strategy/plan (planning-strategy), not to set an emissions or retirement target."
+}

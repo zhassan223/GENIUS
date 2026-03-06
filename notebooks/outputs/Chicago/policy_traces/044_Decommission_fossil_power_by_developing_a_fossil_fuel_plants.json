@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Decommission fossil power by developing a fossil-fuel plants transition strategy.",
+  "role": "parent",
+  "sector": "energy_supply",
+  "canonical_mechanism": "fossil_power_plant_decommissioning → grid_decarbonization",
+  "mechanism_description": "Retiring fossil-fuel power plants reduces fossil electricity generation, leading to a cleaner grid and lower power-sector emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Fossil electricity generation → ↓ fossil fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in system: Fossil-fuel power plants are retired/closed (and their electricity output is reduced or replaced through other generation, imports, storage, efficiency, or demand response).  \n(2) Mediating process: Less coal/oil/gas combustion in the power sector reduces direct stack emissions (primarily CO₂; also CH₄ and N₂O) associated with electricity production.  \n(3) Climate-relevant outcome: Lower grid emissions intensity and total power-sector GHG emissions, enabling economy-wide emissions reductions where electricity is consumed.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced CO₂ (and other GHG) emissions from electricity generation due to eliminating fossil power plant operations.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Retiring fossil power plants reduces fossil combustion for electricity, producing a direct and large reduction in GHG emissions.  \n2) Why this primary over alternatives: While plant retirements can also yield air-quality and health co-benefits and may affect reliability/resilience depending on replacement resources, the mechanism as stated is fundamentally about decarbonizing the grid via eliminating fossil generation—i.e., mitigation.  \n3) Inherent causal chain for each secondary: None—resource efficiency, adaptation, or nature-based effects are not unavoidable physical consequences of decommissioning; they depend on what replaces the capacity and local grid conditions.  \n4) Edge cases applied: If retirement is paired with replacement by other fossil generation, the mitigation effect is weakened, but the canonical mechanism presumes net grid decarbonization through reduced fossil generation.  \n5) Confirm labels apply to ALL instances: Any policy that truly decommissions fossil power to decarbonize the grid has mitigation as its primary, dominant climate effect.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "If decommissioning leads to increased imports from fossil-heavy grids or replacement with other fossil plants, net mitigation may be smaller; reliability/resilience outcomes vary by replacement mix and are not inherent to the mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"DECOMMISSION FOSSIL POWER\"; \"developing a fossil-fuel plants transition strategy\"; \"transition strategy\"",
+  "co_benefits": "Potential air quality and public health benefits from reduced SOx/NOx/PM; potential energy system modernization and reliability benefits (if replacement resources are cleaner/more resilient). These are not explicit and do not meet the threshold for a secondary category.",
+  "instance_edge_case_notes": "The excerpt provides only a strategy heading; if the full strategy includes mandatory phase-out dates or enforceable retirement schedules, the instrument type could shift toward regulatory-mandate/target-setting."
+}

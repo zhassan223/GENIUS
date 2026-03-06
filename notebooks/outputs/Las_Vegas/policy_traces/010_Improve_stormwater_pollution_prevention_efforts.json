@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Improve stormwater pollution prevention efforts.",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "stormwater_pollution_prevention → water_quality_protection",
+  "mechanism_description": "Implementing stormwater pollution prevention measures reduces pollutants carried by runoff into waterways, protecting water quality and aquatic ecosystems.",
+  "primary_category": "Resource Efficiency",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Water/land management practice → ↓ pollutant loading to waterways → improved water quality/ecosystem condition",
+  "causal_mechanism_detail": "1) Change in human activity/system: Stormwater management is improved (e.g., preventing pollutants from entering runoff via controls at construction sites, streets, industrial areas, or drainage networks).  \n2) Mediating physical/ecological process: Reduced mobilization and transport of sediments, nutrients, oils/metals, and other contaminants during rainfall/runoff events, lowering pollutant concentrations and total maximum daily loads in receiving waters.  \n3) Climate-relevant outcome: Improved water quality and aquatic ecosystem health (primarily an environmental/resource outcome; climate links are typically indirect through healthier ecosystems and potentially reduced water treatment burdens).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is improved ecosystem and water system functioning through reduced pollutant loads in runoff, which is generally a co-benefit rather than a direct GHG mitigation or climate hazard adaptation effect.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: The direct mechanism is pollutant-source control and runoff treatment leading to improved water quality/ecosystem condition.  \n2) Why this primary over alternatives: While stormwater measures can sometimes reduce flood risk (adaptation) or reduce energy use in water treatment (mitigation/resource efficiency), those effects are not guaranteed by “pollution prevention” itself; the core, most consistent outcome across instances is water-quality protection.  \n3) Inherent causal chain for each secondary: None, because neither GHG reductions nor reduced climate-hazard exposure are physically unavoidable outcomes of stormwater pollution prevention (they depend on specific designs/contexts).  \n4) Edge cases applied: If implemented primarily via green infrastructure that also measurably reduces urban heat or peak flooding, adaptation or nature-based classifications could become primary for that different mechanism—but that is not inherent to “pollution prevention → water quality protection.”  \n5) Confirm labels apply to ALL instances: Any policy under this mechanism aims at reducing pollutant runoff and protecting water quality; classifying as Resource Efficiency (environmental resource protection) fits all instances, with no unavoidable secondary category.",
+  "mechanism_confidence": 0.63,
+  "mechanism_edge_case_notes": "Stormwater programs can be framed/implemented as flood-risk reduction (Adaptation) or as green infrastructure with ecosystem co-benefits (Nature-Based Solutions); those would be different dominant mechanisms if the primary intended/physical outcome shifts from pollutant reduction to hazard mitigation or ecosystem-based interventions.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Improve stormwater pollution prevention efforts\"",
+  "co_benefits": "Potential co-benefits: reduced flood-related contamination/combined sewer overflow impacts, improved urban amenity and public health, potential groundwater recharge if green infrastructure is used (not specified).",
+  "instance_edge_case_notes": "Instrument is underspecified; depending on implementation, it could be a regulatory-mandate (e.g., SWPPP/BMP requirements) or infrastructure-investment (e.g., green infrastructure), but the text alone supports only a general strategy/priority."
+}

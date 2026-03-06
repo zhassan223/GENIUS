@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Utilize water conservation technologies (short-term action).",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "water_conservation_technology_adoption → per_capita_water_reduction",
+  "mechanism_description": "Adopting water conservation technologies reduces water use per person by increasing end-use water efficiency.",
+  "primary_category": "Resource Efficiency",
+  "secondary_categories": "Mitigation",
+  "secondary_justification": "Mitigation: ↓ per-capita water demand → ↓ pumping/treatment/desalination and (often) ↓ water heating energy → ↓ fossil energy consumption → ↓ GHG emissions.",
+  "primary_causal_pathway": "Same service (water end-use) → ↓ water input per person → ↓ upstream energy/material inputs → ↓ life-cycle environmental burden (incl. GHG)",
+  "causal_mechanism_detail": "(1) Change: Households, businesses, and utilities adopt water conservation technologies that deliver the same water service with less water (and reduce losses). (2) Mediating process: Lower volumetric demand reduces extraction, conveyance, pumping pressure, treatment and—in many contexts—desalination throughput; it can also reduce hot-water demand when end uses are reduced. (3) Climate-relevant outcome: Reduced energy consumption in the urban water cycle (and sometimes in-building hot water) leads to lower associated GHG emissions; additionally, reduced demand improves water-system robustness under scarcity.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect of policies using this mechanism is reducing the energy needed to supply/treat/heat water, thereby lowering GHG emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: technology-driven reductions in per-capita water use primarily operate through “same service with less resource input,” i.e., resource efficiency.  \n2) Why this primary over alternatives: while often situated in “adaptation” water-resilience plans, the mechanism itself is not hazard-response (exposure/vulnerability reduction); it is demand reduction via efficiency, with climate relevance mainly through reduced resource/energy inputs.  \n3) Inherent secondary(s): Mitigation is inherent because reduced water volumes almost always reduce energy use somewhere in the water cycle (pumping/treatment/distribution; and frequently hot water), which translates to lower GHG emissions.  \n4) Edge cases applied: in rare settings with negligible energy intensity of water supply and no hot-water implications, mitigation benefits may be small, but the mechanism still remains resource-efficiency by definition.  \n5) Confirm labels apply to ALL instances: any implementation of water conservation technologies aims to reduce per-capita water demand via efficiency (Resource Efficiency) and will generally also reduce associated operational energy/GHG (Mitigation).",
+  "mechanism_confidence": 0.78,
+  "mechanism_edge_case_notes": "If water supply is gravity-fed with minimal treatment and energy is fully renewable, GHG mitigation may be marginal; however, the mechanism still classifies as Resource Efficiency because it reduces water input for the same service.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "“Short-term actions”; “Utilize water conservation technologies”",
+  "co_benefits": "Potential improved drought/scarcity resilience and reduced water bills, but no location hazard context or explicit adaptation framing in the text.",
+  "instance_edge_case_notes": "Instrument type is ambiguous because no specific tool (rebate, mandate, pricing, procurement) is named; treated as a general plan/strategy directive rather than an implemented regulatory or spending instrument."
+}

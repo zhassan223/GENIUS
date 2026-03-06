@@ -1,0 +1,25 @@
+[
+  {
+    "policy_statement": "The City of Geneva aims to heat buildings using 100% renewable sources by 2050.",
+    "role": "individual",
+    "canonical_mechanism": "renewable_building_heating_target → building_heating_emissions_reduction",
+    "mechanism_description": "Set a target to supply building heating from renewable energy, displacing fossil-based heat and reducing greenhouse gas emissions from building heating.",
+    "sector": "buildings",
+    "primary_category": "Mitigation",
+    "secondary_categories": "None",
+    "secondary_justification": "None",
+    "primary_causal_pathway": "Building heat provision (fuel choice) → ↓ fossil combustion for heat / ↑ renewable heat supply → ↓ GHG emissions → ↓ atmospheric forcing",
+    "causal_mechanism_detail": "(1) Change: The energy source used to provide building space and water heating is shifted via a policy target from fossil fuels (natural gas, heating oil) to renewable/low-carbon heat (e.g., geothermal, solar thermal, biomass where applicable, renewable electricity + heat pumps, renewable district heating).  \n(2) Mediating process: Reduced on-site combustion of carbon-based fuels and/or reduced carbon intensity of delivered heat/electricity used for heating lowers CO₂ (and often methane/N₂O upstream) associated with heat generation.  \n(3) Outcome: Lower operational emissions from the buildings sector, contributing to overall citywide GHG mitigation.",
+    "dominant_pathway_test": "The single biggest climate-relevant effect is reduced greenhouse gas emissions from building space/water heating by replacing fossil-based heat with renewable/low-carbon heat.",
+    "mechanism_classification_reasoning": "1) Dominant causal pathway: The mechanism acts on the carbon intensity of building heating energy, yielding direct reductions in GHG emissions from fossil fuel combustion—this is mitigation.  \n2) Why this primary over alternatives: While renewable heating can also improve energy security or indoor comfort, the mechanism as stated (“100% renewable heating”) is explicitly a decarbonization lever whose largest climate effect is emissions reduction, not reduced energy use (resource efficiency) or hazard resilience (adaptation).  \n3) Inherent causal chain for each secondary: None—renewable heating targets do not unavoidably reduce total energy demand (could even increase electricity use with heat pumps) and do not inherently deliver nature-based carbon sequestration or guaranteed resilience outcomes.  \n4) Edge cases applied: If “renewable” is met via high-emitting biomass or non-additional renewable certificates, realized GHG reductions can be smaller, but the intended and typical dominant pathway remains operational emissions reduction from heating.  \n5) Confirm labels apply to ALL instances: Any policy that sets a renewable/clean heating supply target for buildings shares the same primary mitigation pathway (fuel switching / decarbonized heat), regardless of city context.",
+    "mechanism_confidence": 0.93,
+    "mechanism_edge_case_notes": "If implementation relies on high-emitting biomass, waste incineration counted as “renewable,” or unbundled RECs without physical decarbonization, actual mitigation may be reduced; some implementations may pair with efficiency retrofits, but efficiency is not inherent to the mechanism “renewable heating target.”",
+    "additional_secondary_evidence": "None",
+    "instrument_type": "target-setting",
+    "instrument_directness": "enabling",
+    "climate_relevance": "direct",
+    "key_indicators": "“heat buildings using 100% renewable sources”; “by 2050”; “challenge we have set”",
+    "co_benefits": "Improved local air quality from reduced combustion of heating oil/gas; potential energy security benefits.",
+    "instance_edge_case_notes": "The text is aspirational and does not specify binding requirements, interim milestones, or implementation tools; classification therefore favors “target-setting” with enabling directness."
+  }
+]

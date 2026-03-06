@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Reduce Dakar’s GHG emissions by 54% by 2050.",
+  "role": "individual",
+  "sector": "cross_sector",
+  "canonical_mechanism": "economy_wide_ghg_target → emissions_reduction_pathway",
+  "mechanism_description": "Sets an economy-wide GHG reduction target that drives planning and coordinated actions across sectors to reduce overall emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Governance commitment/target-setting → coordinated cross-sector mitigation actions → ↓ net GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human activity/system: The jurisdiction sets an economy-wide emissions-reduction or carbon-neutrality/net-zero target (often with interim milestones) and typically triggers planning, accountability, and alignment across departments and sectors.  \n(2) Mediating process: The target creates institutional and political incentives (prioritization, budgeting, regulation, performance management) that increase adoption and stringency of emissions-reducing measures across energy, buildings, transport, waste, and industry.  \n(3) Climate-relevant outcome: Reduced (or net-zero) community-wide GHG emissions over time, lowering cumulative emissions and associated warming.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect of policies using this mechanism is reducing economy-wide net GHG emissions by aligning and accelerating cross-sector mitigation actions toward a quantified target.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Target-setting is designed to drive cross-sector actions whose direct physical outcome is lower net GHG emissions (mitigation).  \n2) Why this primary over alternatives: While targets can indirectly influence efficiency, resource use, or resilience planning, those effects are contingent on the chosen measures; the mechanism itself is explicitly oriented around emissions outcomes.  \n3) Inherent causal chain for each secondary: None—no secondary outcome (resource efficiency, adaptation, or nature-based solutions) is guaranteed by merely adopting an economy-wide target; the target can be met through many mixes of actions.  \n4) Edge cases applied: “Carbon neutral/net zero” may be achieved partly via offsets/removals; this still sits in mitigation because the intended climate effect is lowering net atmospheric GHG impact, but the specific pathway (reductions vs offsets) varies.  \n5) Confirm labels apply to ALL instances: Across Chicago, Seattle, and Miami-Dade examples, the shared mechanism is an economy-wide quantified emissions objective intended to drive emissions reduction planning and implementation; mitigation remains the primary category in all cases.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Targets that rely heavily on carbon offsets, renewable energy credits, or external procurement reduce net emissions accounting rather than necessarily local gross emissions; still mitigation. If a “climate goal” were framed primarily around resilience outcomes (without an emissions objective), it would not fit this mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“54% reduction in GHG emissions by 2050”; “goals”",
+  "co_benefits": "Potential air quality and public health co-benefits from reduced fossil fuel combustion, but not specified in the text.",
+  "instance_edge_case_notes": "Target is presented as an overall goal without indicating whether it is legally binding, interim milestones, sectoral allocation, or implementation instruments."
+}

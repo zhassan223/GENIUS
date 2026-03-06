@@ -1,0 +1,200 @@
+[
+  {
+    "policy_statement": "Urban Forestry heat-mitigation program to reduce heat hazards using green infrastructure, including code/zoning amendments for trees and large-scale tree planting to increase canopy coverage.",
+    "verbatim_text": "## URBAN FORESTRY\nDue to notable increases in the urban heat island effect, steps must be taken to reduce heat hazards with appropriate green infrastructure, including:",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "URBAN FORESTRY",
+    "sector": "AFOLU",
+    "extraction_rationale": "This is an action-oriented program area introduced with specific listed measures underneath (code/zoning amendments; quantified tree planting/canopy target)."
+  },
+  {
+    "policy_statement": "Adopt Las Vegas Municipal Code (LVMC) and zoning amendments for trees to support urban forestry and heat reduction.",
+    "verbatim_text": "- LVMC and zoning amendments for trees",
+    "policy_type": "sub",
+    "parent_policy_name": "Urban Forestry",
+    "section_header": "URBAN FORESTRY",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific intervention: code/zoning amendments (a regulatory mechanism) explicitly listed as an implementation step."
+  },
+  {
+    "policy_statement": "Plant at least 100,000 public and private high-quality native/adaptive trees to increase canopy coverage to 20%.",
+    "verbatim_text": "- At least 100,000 public and private high quality, native and adaptive trees that increase the canopy are planted to increase the canopy to 20%",
+    "policy_type": "sub",
+    "parent_policy_name": "Urban Forestry",
+    "section_header": "URBAN FORESTRY",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantifiable target (100,000 trees; canopy to 20%) with a clear action (planting trees)."
+  },
+  {
+    "policy_statement": "Parks and connectivity actions to expand planning, acreage, and access to parks/trails.",
+    "verbatim_text": "## PARKS AND CONNECTIVITY\nBecause parks and recreational facilities are an important quality of life component... As a result, the City will",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "PARKS AND CONNECTIVITY",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Parent commitment introduced as 'the City will' followed by multiple specific, measurable bullet actions."
+  },
+  {
+    "policy_statement": "Develop a Parks System Plan and achieve CAPRA certification.",
+    "verbatim_text": "- Develop  a  Parks  System  Plan  and  achieve  CAPRA certification",
+    "policy_type": "sub",
+    "parent_policy_name": "Parks and Connectivity",
+    "section_header": "PARKS AND CONNECTIVITY",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Specific intervention with a defined deliverable (Parks System Plan) and certification goal."
+  },
+  {
+    "policy_statement": "Increase park acreage to 7 acres per 1,000 residents, specifically in noted areas of need.",
+    "verbatim_text": "- Increase park acreage to 7 acres per 1,000 residents, specifically in noted areas of need",
+    "policy_type": "sub",
+    "parent_policy_name": "Parks and Connectivity",
+    "section_header": "PARKS AND CONNECTIVITY",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Quantifiable target with unit (acres per 1,000 residents)."
+  },
+  {
+    "policy_statement": "Ensure 85% of dwelling units are within a short walk of a park or trail.",
+    "verbatim_text": "- Ensure 85% of dwelling units are within a short walk of a park or trail",
+    "policy_type": "sub",
+    "parent_policy_name": "Parks and Connectivity",
+    "section_header": "PARKS AND CONNECTIVITY",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Quantifiable access target (85% of dwelling units) with a clear outcome metric."
+  },
+  {
+    "policy_statement": "Food and urban agriculture actions to improve food access and expand community gardens/small agricultural uses.",
+    "verbatim_text": "## FOOD AND URBAN AGRICULTURE\nGiven  the  lack  of  regional  agriculture... To supplement these efforts, the City must ensure:",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "FOOD AND URBAN AGRICULTURE",
+    "sector": "AFOLU",
+    "extraction_rationale": "Parent framing ('the City must ensure') followed by concrete bullet commitments."
+  },
+  {
+    "policy_statement": "Eliminate food deserts and reduce food swamps by increasing healthy food access.",
+    "verbatim_text": "- No food deserts and reduce food swamps by increasing healthy food access",
+    "policy_type": "sub",
+    "parent_policy_name": "Food and Urban Agriculture",
+    "section_header": "FOOD AND URBAN AGRICULTURE",
+    "sector": "AFOLU",
+    "extraction_rationale": "Defined outcome commitment (no food deserts; reduce food swamps) paired with the intervention (increase healthy food access)."
+  },
+  {
+    "policy_statement": "Provide accessibility to community gardens and increase allowable small agricultural uses.",
+    "verbatim_text": "- Provide accessibility to community gardens and increase allowable small agricultural uses",
+    "policy_type": "sub",
+    "parent_policy_name": "Food and Urban Agriculture",
+    "section_header": "FOOD AND URBAN AGRICULTURE",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific interventions including changing what uses are allowable (land-use/regulatory change)."
+  },
+  {
+    "policy_statement": "Environmental justice commitments to reduce exposure and risk in low-income and minority communities, especially for transportation and infrastructure projects.",
+    "verbatim_text": "## ENVIRONMENTAL JUSTICE\nReducing  exposure  and  risk  to  low-income  and  minority communities must be prioritized, especially for new transportation and infrastructure projects. The City must:",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "ENVIRONMENTAL JUSTICE",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Introduces a set of required actions ('The City must') with multiple concrete bullets."
+  },
+  {
+    "policy_statement": "Ensure an air quality index of 100 or better.",
+    "verbatim_text": "- Ensure an air quality index of 100 or better",
+    "policy_type": "sub",
+    "parent_policy_name": "Environmental Justice",
+    "section_header": "ENVIRONMENTAL JUSTICE",
+    "sector": "Health",
+    "extraction_rationale": "Quantifiable target (AQI 100 or better)."
+  },
+  {
+    "policy_statement": "Eliminate brownfields within the City through redevelopment.",
+    "verbatim_text": "- Eliminate brownfields within the City by redevelopment",
+    "policy_type": "sub",
+    "parent_policy_name": "Environmental Justice",
+    "section_header": "ENVIRONMENTAL JUSTICE",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Clear action/outcome (eliminate brownfields) and mechanism (redevelopment)."
+  },
+  {
+    "policy_statement": "Improve stormwater pollution prevention efforts.",
+    "verbatim_text": "- Improve stormwater pollution prevention efforts",
+    "policy_type": "sub",
+    "parent_policy_name": "Environmental Justice",
+    "section_header": "ENVIRONMENTAL JUSTICE",
+    "sector": "Water",
+    "extraction_rationale": "Specific intervention (improving stormwater pollution prevention)."
+  },
+  {
+    "policy_statement": "Engage residents of all races, ethnicities, abilities and means in the planning and transportation decisionmaking process.",
+    "verbatim_text": "- Engage residents of all races, ethnicities, abilities and means  in  the  planning  and  transportation  decisionmaking process",
+    "policy_type": "sub",
+    "parent_policy_name": "Environmental Justice",
+    "section_header": "ENVIRONMENTAL JUSTICE",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Concrete governance/process commitment tied to decisionmaking for planning and transportation."
+  },
+  {
+    "policy_statement": "Transit-oriented high-capacity transit implementation on key TOD corridors through developing and implementing RTC On Board Mobility Plan recommendations.",
+    "verbatim_text": "## TRANSIT\nTied  closely  to  the  2050  General  Plan  for  future  land use,  the  City  and  RTC  must  develop  and  implement  the recommendations  from  RTC's  On  Board  Mobility  Plan that  will  enable  high  capacity  transit  to  be  built  on  key TOD corridors, including Maryland Pkwy, Charleston Blvd, Decatur Blvd, Sahara Ave, and Las Vegas Blvd.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TRANSIT",
+    "sector": "Transport",
+    "extraction_rationale": "Specific intervention (develop and implement a named plan’s recommendations) with defined scope (high-capacity transit on listed corridors)."
+  },
+  {
+    "policy_statement": "Water conservation policy aligned to reduce water consumption to 90 gallons per person per day using code changes, pricing, incentives, and education.",
+    "verbatim_text": "## WATER\nIn the face of a changing climate, this plan is closely linked to  Southern  Nevada  Water  Authority's  Water  Resources Plan  and  aligns  a  target  to  reduce  water  consumption  to 90 gallons per person per day. This can be done by making corresponding code changes, pricing, incentives, and education efforts   to meet regional water resources and conservation goals.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "WATER",
+    "sector": "Water",
+    "extraction_rationale": "Quantified target (90 gallons/person/day) plus specified implementation levers (code changes, pricing, incentives, education)."
+  },
+  {
+    "policy_statement": "Work to attain municipal and community carbon neutrality by reducing emissions from stationary and mobile sources.",
+    "verbatim_text": "## GREENHOUSE GAS EMISSIONS\nBecause of the City's leadership in sustainability, the City will boldly work to attain municipal and community carbon neutrality  through  reductions  from  stationary  and  mobile sources of emissions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "GREENHOUSE GAS EMISSIONS",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit commitment to a defined outcome (municipal and community carbon neutrality) with a mechanism (reductions from stationary and mobile sources), even though no date is specified here."
+  },
+  {
+    "policy_statement": "Prioritize construction of 30 new schools and classroom additions and improve the development process for new schools.",
+    "verbatim_text": "## LINK SCHOOL FACILITIES WITH LAND USE\nDue  to  existing  overcrowding  and  projected  long-term student  population  growth,  the  City  must  improve  the development process for new schools and prioritize construction of 30 new schools and classroom additions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "LINK SCHOOL FACILITIES WITH LAND USE",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Quantifiable target (30 new schools) and specific action (improve development process; prioritize construction)."
+  },
+  {
+    "policy_statement": "Reduce the total unsheltered homeless population by 50% and achieve functional zero homelessness in 2050 through coordinated prevention/diversion and Housing First approaches.",
+    "verbatim_text": "## HOMELESSNESS\nThe plan anticipates to continue and enhance coordinated provision  of  early  and  direct  prevention  and  diversion measures  with  regional  stakeholders  to  reduce  the  total unsheltered homeless population by 50%, with functional zero homelessness in 2050.\n\n- Employ a 'Housing First' approach",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "HOMELESSNESS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Contains quantified target (50% reduction) and a deadline/outcome (functional zero in 2050) plus a specific intervention (Housing First)."
+  },
+  {
+    "policy_statement": "Publish an annual report to evaluate and discuss progress and implementation of plan outcomes including 'Fifty by '50' outcomes.",
+    "verbatim_text": "For  transparent  communication  of  the  plan's  outcomes and performance, the City will publish a prepared annual report to  evaluate  and  discuss  annual  progress  and implementation of the plan, progress of the 'Fifty by '50'\n\noutcomes  and  others  highlighted  for each  goal,  and  recommendations  for plan improvement.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "FIFTY BY '50",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Clear governance/implementation commitment (“will publish… annual report”) specifying the action and purpose."
+  },
+  {
+    "policy_statement": "Adopt 2-year strategic action plans to implement strategies and achieve outcomes in the 2050 Master Plan.",
+    "verbatim_text": "## STRATEGIC ACTION PLANS\nThe  plan  recommends  that  the  City  Council  and  city management adopt 2-year strategic action plans to implement  various  strategies  and  to  achieve  outcomes.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "STRATEGIC ACTION PLANS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Specific institutional commitment with a defined cadence (2-year strategic action plans) and a governing body (City Council/city management)."
+  }
+]

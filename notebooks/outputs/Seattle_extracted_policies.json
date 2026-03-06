@@ -1,0 +1,245 @@
+[
+  {
+    "policy_statement": "Adopted a community climate protection goal to become carbon neutral by 2050 and directed creation of a plan to meet the goal (Resolution 31312).",
+    "verbatim_text": "In 2011, the Mayor and City Council adopted a bold climate protection goal for our community to become carbon neutral by 2050 and directed the creation of a plan to meet the goal (Resolution 31312).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Background",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Contains an explicit, formal goal (carbon neutral by 2050) adopted by Mayor and City Council and a directive via a named resolution."
+  },
+  {
+    "policy_statement": "Affirm Seattle’s commitment to the Paris Agreement goals and direct the Office of Sustainability & Environment to identify actions needed to limit warming to 1.5°C (Resolution 31757).",
+    "verbatim_text": "the City Council adopted Resolution 31757, affirming Seattle's commitment to the goals established in the Paris Agreement, and directing the Office of Sustainability & Environment (OSE) to identify the actions necessary to do our part to limit warming to 1.5 degrees Celsius.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Background",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Binding mechanism (City Council resolution) plus a specific directive to an agency (OSE) tied to a quantified temperature threshold (1.5°C)."
+  },
+  {
+    "policy_statement": "Operate an electric vehicle charging pilot to permit publicly-available EV charging stations in the public right-of-way on non-residential streets, with siting/data-sharing guidelines and a mid-2018 review.",
+    "verbatim_text": "in 2017, a pilot program was initiated to permit the installation of publicly-available electric vehicle charging stations on non-residential streets in urban villages, urban centers, and commercial streets. The pilot program has strict siting and data sharing guidelines... Pilot program results will be reviewed in mid-2018.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Electric Vehicle Charging in the Right of Way",
+    "sector": "Transport",
+    "extraction_rationale": "Specific intervention (named pilot program) with governance features (guidelines) and a stated review timeline."
+  },
+  {
+    "policy_statement": "Install 20 public fast charging stations through Seattle City Light’s charging infrastructure pilots and launch a residential in-home charging program expected in fall 2018.",
+    "verbatim_text": "Seattle City Light is designing and implementing two charging infrastructure pilot programs... Through the right of way charging pilot program described above, City Light is installing 20 public fast charging stations to increase access... The residential program will offer customers access to inhome charging at a manageable monthly cost and is expected to launch in the fall of 2018.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Seattle City Light Charging Program",
+    "sector": "Transport",
+    "extraction_rationale": "Specific interventions with a quantified deployment (20 fast chargers) and a time-bound program launch (fall 2018)."
+  },
+  {
+    "policy_statement": "Amend the Seattle Electrical Code to require new parking to be built with electrical capacity and documented conduit/equipment locations to facilitate EV charging at one charging station per parking space.",
+    "verbatim_text": "In 2017, the Seattle Electrical Code was amended to ensure new parking is built to facilitate future electric vehicle charging infrastructure. The code requires adequate electrical capacity to serve one electric vehicle charging station per parking space and that construction documents show the location of equipment and conduit for future installation of electric vehicles charging stations.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Electrical Code",
+    "sector": "Transport",
+    "extraction_rationale": "Binding mechanism (code amendment) with a clear requirement and quantitative standard (one EV charging station per parking space capacity)."
+  },
+  {
+    "policy_statement": "Develop a dense network of shared mobility hubs co-located with major transit facilities and intersections of frequent transit, including accommodating fast charging to advance electric carshare and ride-hail vehicles.",
+    "verbatim_text": "Seattle's Shared Mobility Hub program will aggregate transportation connections... The Seattle Transportation Department is developing a dense network of shared mobility hubs throughout the city, co-located with major transit facilities and in places where frequent transit services intersect. A key objective for shared mobility hubs is to advance the use of electric car share and ride hail vehicles by accommodating fast charging at or very near hub locations.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Shared Mobility Hubs",
+    "sector": "Transport",
+    "extraction_rationale": "Specific intervention (program) with concrete implementation action (develop network) and infrastructure element (fast charging)."
+  },
+  {
+    "policy_statement": "Use the Green Fleet Action Plan to meet the goal of reducing municipal fleet emissions by 50% by 2025 through electrification, cleaner fuels where needed, efficiency, and procurement standards.",
+    "verbatim_text": "The Green Fleet Action Plan guides the City's efforts to meet the goal to reduce municipal fleet emissions by 50 percent by 2025 by increasingly electrifying the fleet, using cleaner fuels when electrification is not feasible, increasing efficiency in how vehicles are used, and setting standards for vehicle procurement.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Municipal Fleet",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified target (50% by 2025) and specific levers (electrify, fuels, efficiency, procurement standards)."
+  },
+  {
+    "policy_statement": "Require owners of nonresidential and multifamily buildings ≥20,000 sq ft to benchmark and annually report energy performance to the City, with public disclosure of reported data (Energy Benchmarking Program SMC 22.920).",
+    "verbatim_text": "Seattle's Energy Benchmarking Program (SMC 22.920) requires owners of nonresidential and multi-family buildings (20,000 square feet or larger) to track energy performance and annually report to the City. The policy was updated in 2016 to make reported data publicly available",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Benchmarking",
+    "sector": "Buildings",
+    "extraction_rationale": "Binding mechanism (municipal code) with clear applicability threshold and reporting/public-disclosure requirements."
+  },
+  {
+    "policy_statement": "Mandate commercial buildings ≥50,000 sq ft to complete building tune-ups to identify low/no-cost operational and maintenance improvements for energy and water efficiency, with phased compliance starting in early 2019 (Building Tune-Ups Ordinance SMC 22.930).",
+    "verbatim_text": "Adopted in 2016, the Building Tune-Ups Ordinance (SMC 22.930) requires commercial buildings 50,000 square feet or larger to identifying low- or no-cost building operations and maintenance improvements to improve energy and water efficiency. Compliance deadlines will be phased in by building size, beginning in early 2019.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Tune Ups",
+    "sector": "Buildings",
+    "extraction_rationale": "Binding mechanism (ordinance) with building-size threshold and a defined compliance start date."
+  },
+  {
+    "policy_statement": "Commit the City to meet the Building Tune-Ups deadline one year earlier than required for private owners (Resolution 31652).",
+    "verbatim_text": "To demonstrate leadership... the city has committed (Resolution 31652) to meeting the Building Tune-Ups deadline one year earlier than required for private owners.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Tune Ups",
+    "sector": "Buildings",
+    "extraction_rationale": "Formal commitment with a clear time-acceleration requirement tied to an existing ordinance and specified resolution."
+  },
+  {
+    "policy_statement": "Implement the Building Tune-Up Accelerator Program (funded by a DOE grant) to provide incentives for early compliance with the Tune-Ups Ordinance for 50,000–100,000 sq ft buildings.",
+    "verbatim_text": "With funding from a Department of Energy grant, the City is implementing the Building Tune-Up Accelerator Program providing incentives for early compliance with the Tune-Ups Ordinance. The Accelerator is a voluntary program for owners of mid-size buildings, those 50,000-100,000 square feet, to conduct a tune-up",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Tune-Up Accelerator",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific intervention (program) with resource linkage (DOE grant) and defined eligibility scope."
+  },
+  {
+    "policy_statement": "Provide incentives via the Oil Heated Home Conversion program to replace oil heating systems with electric heat pumps, converting 200 homes per year.",
+    "verbatim_text": "The Oil Heated Home Conversion program provides incentives for homeowners to replace oil heating systems with clean, efficient, electric heat pumps... the program is converting 200 homes per year",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Oil Heated Home Conversion",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific program with quantified annual conversion rate (200 homes/year) and clear intervention (heat pumps)."
+  },
+  {
+    "policy_statement": "Require City-owned building projects to achieve LEED Gold certification and be 15% more energy efficient than current code under the City’s Sustainable Building Policy (updated 2011).",
+    "verbatim_text": "In 2011, the City updated its Sustainable Building Policy for City-owned buildings covering new construction and major renovations. In addition to the requirement to achieve LEED Gold certification, projects are expected to be 15 percent more energy efficient than the current code.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Municipal Buildings",
+    "sector": "Buildings",
+    "extraction_rationale": "Concrete requirement for municipal projects with a specific certification standard and quantified efficiency expectation."
+  },
+  {
+    "policy_statement": "Pursue a 20% reduction in energy use across City-owned buildings by 2020 (2008 baseline) under the Resource Conservation Management Plan (Resolution 31491).",
+    "verbatim_text": "In 2013, the City adopted a Resource Conservation Management Plan (Resolution 31491), with the goal to achieve a 20 percent reduction in energy use across City-owned buildings by 2020 (2008 baseline).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Municipal Buildings",
+    "sector": "Buildings",
+    "extraction_rationale": "Quantified target with deadline and baseline, backed by a named resolution/plan."
+  },
+  {
+    "policy_statement": "Near-Term Climate Action Priorities: implement a suite of near-term priority actions to keep Seattle on track to meet climate protection goals, with some actions implemented immediately and others explored for implementation/funding over the next year.",
+    "verbatim_text": "we have identified a suite of near-term priority actions, which will help the City remain on track to meet our climate protection goals... The actions are presented below... Some of these actions will be implemented immediately, while for others we will explore implementation or funding options over the next year with an aim for implementation soon after.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Near-Term Climate Action Priorities",
+    "sector": "Economy-wide",
+    "extraction_rationale": "This section introduces an action agenda with multiple specific actions listed beneath it (and summarized in Table 1), fitting a parent policy structure."
+  },
+  {
+    "policy_statement": "Develop and release a strategy to address congestion and transportation emissions through pricing, coupled with investments in expanded transit and electrification in underserved communities.",
+    "verbatim_text": "Announce that the City will develop and release a strategy to address congestion and transportation emissions through pricing, coupled with investments in expanded transit and electrification in underserved communities.",
+    "policy_type": "sub",
+    "parent_policy_name": "Near-Term Climate Action Priorities",
+    "section_header": "Improving mobility through pricing",
+    "sector": "Transport",
+    "extraction_rationale": "Specific planned intervention (pricing strategy) paired with linked investment directions."
+  },
+  {
+    "policy_statement": "Pass a new electric vehicle readiness ordinance in 2018 to ensure new construction or renovation of parking structures is built with EV infrastructure.",
+    "verbatim_text": "Pass a new electric vehicle readiness ordinance in 2018, which will ensure new construction or renovation of parking structures is built with electric vehicle infrastructure.",
+    "policy_type": "sub",
+    "parent_policy_name": "Near-Term Climate Action Priorities",
+    "section_header": "Electric vehicle readiness ordinance for new construction",
+    "sector": "Transport",
+    "extraction_rationale": "Binding mechanism (new ordinance) with a clear deadline (2018) and defined scope (new construction/renovation of parking structures)."
+  },
+  {
+    "policy_statement": "Release a map of optimal distribution of EV charging infrastructure in 2018 to guide public and private investment in charging stations.",
+    "verbatim_text": "Release map of optimal distribution of charging infrastructure in 2018. ... a charging station network map which demonstrates the City's strategy and outlines our technical and policy preferences ... will foster the most effective distribution of charging stations and help deploy private investment.",
+    "policy_type": "sub",
+    "parent_policy_name": "Near-Term Climate Action Priorities",
+    "section_header": "Charging station network map & strategy",
+    "sector": "Transport",
+    "extraction_rationale": "Concrete deliverable (release map) with a specific timeline (2018) and intended use to guide investment."
+  },
+  {
+    "policy_statement": "Work with stakeholders to develop recommendations to make all new for-hire vehicles in Seattle electric, including determining a year after which all such vehicles must be electric and preparing to permit only electric vehicles for for-hire use.",
+    "verbatim_text": "The city will work with these stakeholders to create recommendations on how to electrify shared vehicle fleets, determine a year after which all such vehicles must be electric, and prepare for the City to begin permitting only electric vehicles for for-hire use.",
+    "policy_type": "sub",
+    "parent_policy_name": "Near-Term Climate Action Priorities",
+    "section_header": "Ride share and taxi fleet electrification",
+    "sector": "Transport",
+    "extraction_rationale": "Stated commitment to develop policy recommendations leading to a regulatory permitting change (permit only EVs) and a future requirement year."
+  },
+  {
+    "policy_statement": "Create a new Green Fleet Action Plan by end of 2018 to accelerate municipal fleet electrification and phase out fossil fuel use in municipal vehicles.",
+    "verbatim_text": "Create a new Green Fleet Action Plan, by the end of 2018, to accelerate the electrification of the municipal fleet and phase out fossil fuel use in municipal vehicles.",
+    "policy_type": "sub",
+    "parent_policy_name": "Near-Term Climate Action Priorities",
+    "section_header": "Green Fleet Action Plan update",
+    "sector": "Transport",
+    "extraction_rationale": "Time-bound commitment (by end of 2018) with clear objectives (electrification, phase out fossil fuels)."
+  },
+  {
+    "policy_statement": "Issue an Executive Order directing City departments to assess GHG emissions impacts of City plans, policies, and major investments, and direct OSE to define scope and method by October 2018.",
+    "verbatim_text": "Issue an Executive Order directing City departments to assess the GHG emissions impact of City plans, policies, and major investments. ... The Mayor will direct the Office of Sustainability & Environment to work with departments to define the types of projects to assess, the assessment method, and how to account for the broader costs of carbon, by October 2018.",
+    "policy_type": "sub",
+    "parent_policy_name": "Near-Term Climate Action Priorities",
+    "section_header": "Assess GHG Emissions Impact of City decisions",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Binding mechanism (Executive Order) plus a specific implementation deliverable with deadline (by October 2018)."
+  },
+  {
+    "policy_statement": "Prioritize 2019 state legislation to enable a tiered residential energy code that cities can adopt (by directing the State Building Code Council to develop the tiered code).",
+    "verbatim_text": "Legislation to allow for tiered energy codes will be a priority for the City of Seattle in the 2019 legislative session.",
+    "policy_type": "sub",
+    "parent_policy_name": "Near-Term Climate Action Priorities",
+    "section_header": "Washington State tiered residential energy code",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific commitment to pursue legislation on a defined timeline (2019 legislative session) to enable a policy tool (tiered code)."
+  },
+  {
+    "policy_statement": "Create a 2030 Challenge pilot offering additional height and floor area incentives for up to 20 major renovations, targeting 20 upgraded high-performing projects by 2025, including no fossil fuels for heating.",
+    "verbatim_text": "Establish new 2030 Challenge pilot for 20 upgraded, high performing projects by 2025... A new pilot will offer additional height and floor area incentives for up to 20 major renovations... Projects would receive the incentives in exchange for cutting energy and water use well below code, including no use of fossil fuels for heating.",
+    "policy_type": "sub",
+    "parent_policy_name": "Near-Term Climate Action Priorities",
+    "section_header": "Establish new 2030 Challenge pilot for 20 upgraded, high performing projects by 2025",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific intervention (pilot) with quantified cap/target (up to 20; by 2025) and explicit performance condition (no fossil fuels for heating)."
+  },
+  {
+    "policy_statement": "Provide incentives and programs to improve energy efficiency and reduce emissions in commercial and multifamily buildings, backed by a minimum performance standard beginning in 2030.",
+    "verbatim_text": "Provide programs and incentives to spur improved energy efficiency and reduced carbon emissions, backed by a minimum performance standard beginning in 2030.",
+    "policy_type": "sub",
+    "parent_policy_name": "Near-Term Climate Action Priorities",
+    "section_header": "Incentive-driven 2030 performance standards for commercial and multifamily buildings",
+    "sector": "Buildings",
+    "extraction_rationale": "Contains a concrete regulatory anchor (minimum performance standard beginning in 2030) and enabling program actions leading up to it."
+  },
+  {
+    "policy_statement": "Pilot City Light’s Energy Efficiency as a Service (EEaS) and scale Pay for Performance, exploring EEaS in up to 30 buildings.",
+    "verbatim_text": "Scale Pay for Performance efforts and pilot an innovative utility program exploring Energy Efficiency as a Service in up to 30 buildings... Seattle City Light will pilot Energy Efficiency as a Service (EEaS)",
+    "policy_type": "sub",
+    "parent_policy_name": "Near-Term Climate Action Priorities",
+    "section_header": "City Light Whole Building Pay for Performance (P4P) Programs",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific intervention (pilot) with quantified scope (up to 30 buildings) and clear programmatic action."
+  },
+  {
+    "policy_statement": "Double the City’s budget allocation for municipal building energy reductions from 2021–2025 and target a 40% reduction in energy use and carbon emissions in municipal buildings by 2025.",
+    "verbatim_text": "the City will double its budget allocation from 2021 to 2025, and set a new target to achieve an overall 40 percent energy and carbon emissions reduction in municipal buildings by 2025.",
+    "policy_type": "sub",
+    "parent_policy_name": "Near-Term Climate Action Priorities",
+    "section_header": "Improve municipal building energy efficiency and reduce carbon emissions by 2025",
+    "sector": "Buildings",
+    "extraction_rationale": "Resource allocation (double budget 2021–2025) plus quantified target and deadline (40% by 2025)."
+  },
+  {
+    "policy_statement": "Propose recommendations to the Mayor to accelerate conversion of 18,000 oil-heated homes to electric heat pumps, including financing for low-income residents and public/private incentives.",
+    "verbatim_text": "Propose recommendations to mayor to convert 18,000 homes from heating oil to an electric heat pump... Recommendations will include a financing plan to support low-income residents, as well as a combination of public and private incentives to spur action.",
+    "policy_type": "sub",
+    "parent_policy_name": "Near-Term Climate Action Priorities",
+    "section_header": "Oil to heat pump conversion",
+    "sector": "Buildings",
+    "extraction_rationale": "Quantified target (18,000 homes) and concrete policy instruments (financing plan; incentives) tied to a stated deliverable (recommendations to Mayor)."
+  }
+]

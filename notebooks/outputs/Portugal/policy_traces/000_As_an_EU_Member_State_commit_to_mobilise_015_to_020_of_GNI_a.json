@@ -1,0 +1,23 @@
+{
+  "policy_statement": "As an EU Member State, commit to mobilise 0.15% to 0.20% of GNI as ODA allocated to Least Developed Countries (LDCs) by 2030.",
+  "role": "individual",
+  "sector": "governance",
+  "canonical_mechanism": "international_development_finance → development_capacity_building",
+  "mechanism_description": "Provide international development assistance to least developed countries to strengthen development and implementation capacity, including for climate-related actions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Adaptation",
+  "secondary_justification": "Adaptation: Increased development/implementation capacity (institutions, planning, project pipelines, access to finance) inherently improves the ability to design, fund, and execute resilience measures, reducing climate risk even when the finance is not exclusively earmarked for mitigation.",
+  "primary_causal_pathway": "International finance/assistance → ↑ institutional & implementation capacity → ↑ deployment of low-carbon actions → ↓ GHG emissions",
+  "causal_mechanism_detail": "(1) Change: A donor government allocates and mobilizes official development assistance (e.g., a fixed share of GNI) to least developed countries.  \n(2) Mediating process: The additional finance and associated support strengthen governance, technical expertise, project preparation, and delivery systems, improving the ability to plan and implement programs and investments (including energy, transport, land use, and MRV systems).  \n(3) Climate-relevant outcome: Higher capacity increases the likelihood, scale, and speed of mitigation measures being implemented, leading to avoided/ reduced greenhouse gas emissions (with co-produced resilience benefits).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect of policies using this mechanism is enabling additional climate action (often emissions-reducing investments and programs) by increasing institutional/financial capacity in recipient countries.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Finance → capacity → implementation of climate actions, with the largest expected climate effect coming from enabling emissions-reducing investments and policies (mitigation).  \n2) Why this primary over alternatives: The mechanism itself is not a physical efficiency improvement or ecosystem intervention; it is enabling finance/capacity. Across typical ODA-to-LDC commitments, the biggest global climate lever is enabling additional mitigation deployment (clean energy, efficiency, avoided deforestation programs, etc.).  \n3) Inherent causal chain for each secondary:  \n   - Adaptation: The same strengthened institutions and delivery capacity inherently support resilience planning and execution, reducing hazard impacts/exposure when applied.  \n4) Edge cases applied: If funds are explicitly earmarked only for adaptation or only for non-climate development, the realized effect could shift; however, the canonical mechanism is general capacity-building for climate-related actions, so both mitigation and adaptation relevance persist.  \n5) Confirm labels apply to ALL instances: Any policy that provides international development finance to build recipient capacity can enable mitigation as the dominant climate-relevant pathway and also inherently supports adaptation capacity; it is not inherently resource-efficiency or nature-based.",
+  "mechanism_confidence": 0.62,
+  "mechanism_edge_case_notes": "If ODA is strictly earmarked for adaptation-only programming, Adaptation could become primary; if it is not climate-related in practice, climate impact may be negligible—this mechanism’s climate effect is enabling/indirect and depends on downstream allocation.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "“commitment to mobilise 0.15% to 0.20% of its GNI”, “as ODA allocated to Least Developed Countries (LDC)”, “by 2030”",
+  "co_benefits": "General development co-benefits in recipient LDCs (poverty reduction, health, education, institutional strengthening) that may incidentally improve resilience and lower emissions depending on sectoral allocation.",
+  "instance_edge_case_notes": "Although coded under Mitigation/Adaptation pathways, the verbatim text does not specify climate finance or climate-conditional ODA; classification relies on the assumed causal pathway that ODA can support low-carbon and resilience actions in LDCs."
+}

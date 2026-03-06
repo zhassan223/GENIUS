@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Reduce refrigerant use volumes by expanding codes and incentives favoring passive design, reduction, and efficiency and educating stakeholders.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "refrigerant_management → fugitive_emissions_reduction",
+  "mechanism_description": "Expand building-oriented codes, incentives, and education to minimize refrigerant use and leakage, thereby reducing high-GWP refrigerant fugitive emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Refrigerant use/handling → ↓ refrigerant leakage/venting (high‑GWP gases) → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Policies require or incentivize improved refrigerant management across equipment lifecycles—leak detection and repair, maintenance standards, recovery at end-of-life, take-back/capture programs, destruction of recovered refrigerants, and/or transition to low/no‑GWP refrigerants via codes/standards.  \n(2) Process: Better containment plus capture/destruction prevents fugitive emissions; substituting to low‑GWP refrigerants reduces the climate impact per unit leaked even when leakage occurs.  \n(3) Outcome: Reduced direct (Scope 1-type) emissions of potent fluorinated gases, lowering CO₂e and near-term radiative forcing.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is avoiding releases of high‑GWP refrigerants, directly lowering total GHG emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Direct reduction of high‑GWP fugitive refrigerant emissions through containment, capture, destruction, and/or substitution.  \n2) Why this primary over alternatives: While some measures can have ancillary energy/efficiency effects (e.g., better-maintained HVAC may run slightly more efficiently), the mechanism as defined is explicitly about refrigerant leakage/chemistry and its direct CO₂e impact, which dominates.  \n3) Inherent secondary effects: None are unavoidable—energy savings, ozone protection, or cost savings may occur but are not guaranteed across all implementations.  \n4) Edge cases applied: If a policy only improved HVAC efficiency without addressing refrigerants, it would not fit this mechanism; if it mandates low‑GWP refrigerants primarily for ozone or safety reasons, it still yields mitigation via lower GWP when leakage occurs, but the classification remains mitigation because the dominant climate effect is reduced CO₂e from refrigerants.  \n5) Confirm labels apply to ALL instances: Any policy under this mechanism necessarily targets reduced refrigerant releases and thus reduces GHG emissions, fitting Mitigation consistently.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Some refrigerant transitions involve mild flammability/toxicity tradeoffs and may require additional safety codes; also, “refrigerant management” programs can incidentally improve system efficiency, but that is not intrinsic to the mechanism and should not drive category assignment.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Reduce the volume of refrigerants”; “Ensure codes and incentives… are expanded and prioritized”; “favor passive design, reduction, and efficiency”; “educating stakeholders”",
+  "co_benefits": "Potential air-conditioning energy savings and associated air quality/public health benefits (reduced electricity demand/peak load), but not stated explicitly enough to assign an additional category.",
+  "instance_edge_case_notes": "Instrument type is somewhat mixed: “codes” suggests a regulatory element and “incentives” suggests an incentive-program, but the text is framed as a strategy to expand/prioritize these tools rather than setting a specific mandate or rebate design; thus classified as a planning-strategy with enabling directness."
+}

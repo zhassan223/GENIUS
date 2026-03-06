@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Approach 1: Benchmark, retune, and retrofit existing buildings to reduce emissions from the buildings sector by improving efficiency and retrofits.",
+  "role": "parent",
+  "sector": "buildings",
+  "canonical_mechanism": "building_performance_ordinance → energy_use_reduction",
+  "mechanism_description": "Require and implement building energy measurement plus operational and physical efficiency improvements to cut building energy consumption and associated emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Building performance improvements deliver the same building services (comfort, lighting, hot water, operations) with less energy input, i.e., reduced energy intensity per unit service.",
+  "primary_causal_pathway": "Building operations + building envelope/HVAC upgrades → ↓ energy demand → ↓ fossil generation/combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human activity/system: Building owners/operators measure and disclose energy use (benchmarking) and implement operational tuning and capital retrofits (controls, HVAC upgrades, insulation, windows, lighting, commissioning) to meet performance targets.  \n(2) Mediating physical process: Improved thermal performance, reduced heat losses/gains, higher equipment efficiency, and optimized controls reduce delivered energy required to provide heating/cooling/lighting and other services.  \n(3) Climate-relevant outcome: Lower site and source energy demand reduces upstream electricity generation and onsite fuel combustion, cutting CO₂e emissions (and often co-pollutants).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing building energy use, which lowers electricity and fuel combustion emissions (CO₂e).",
+  "mechanism_classification_reasoning": "(1) Dominant causal pathway: Building efficiency/performance requirements → lower energy use → lower GHG emissions from electricity and fuel combustion.  \n(2) Why this primary over alternatives: While benchmarking/retrofits can improve comfort or resilience, the mechanism as defined is explicitly aimed at reducing energy consumption and emissions; the largest and most generalizable climate effect is mitigation via avoided energy-related emissions.  \n(3) Inherent causal chain for each secondary:  \n- Resource Efficiency: Efficiency/retuning/retrofits inherently reduce energy inputs for the same service level, which is a direct resource-efficiency outcome in every instance.  \n(4) Edge cases applied: If the grid is already near-zero-carbon, the mitigation benefit diminishes, but the mechanism still primarily targets and achieves energy reduction; adaptation benefits (e.g., passive survivability) are not guaranteed by all performance ordinances and therefore are not inherent.  \n(5) Confirm labels apply to ALL instances: Any policy that implements building performance ordinances to reduce energy use will inherently reduce energy intensity (resource efficiency) and typically reduce GHGs (mitigation) across contexts.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Mitigation impact varies with grid carbon intensity and with rebound effects; some retrofits can also increase resilience/thermal comfort, but those outcomes are not universal to all building performance ordinances and thus are not assigned as inherent secondary categories.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "indirect",
+  "climate_relevance": "direct",
+  "key_indicators": "\"BENCHMARK 1.3 BILLION SQUARE FEET… BY 2026\"; \"RETUNE… BY 2030\"; \"RETROFIT 167,500 HOMES\"; \"reduce emissions\"; \"reduce energy costs 28%\"; \"improving efficiency and retrofits\"",
+  "co_benefits": "Lower household energy bills (especially for LMI homes); potential indoor comfort/health improvements from better building performance.",
+  "instance_edge_case_notes": "“Benchmark” could imply an eventual regulatory benchmarking/disclosure requirement, and “retrofit” could be implemented via incentives or mandates, but the excerpt itself provides goals without specifying the compliance mechanism—so classified as target-setting and indirect."
+}

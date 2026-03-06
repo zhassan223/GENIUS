@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Increase water block-tariff to control unnecessary water consumption (medium-term action).",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "water_pricing_tariff_increase → per_capita_water_reduction",
+  "mechanism_description": "Raising block water tariffs increases the marginal cost of high consumption, incentivizing users to conserve and reducing per-capita water demand.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Price signal ↑ → ↓ discretionary water use / ↓ per-capita demand → ↓ water withdrawals & system stress → ↑ resilience to drought/water scarcity",
+  "causal_mechanism_detail": "(1) Change: The policy increases the marginal price of water consumption (often via increasing-block tariffs), especially for higher-use customers.  \n(2) Mediating process: Higher marginal costs induce conservation behaviors (reduced indoor/outdoor use, efficiency investments, leakage repair) that decrease total demand placed on the water supply and distribution system.  \n(3) Climate-relevant outcome: Lower demand reduces vulnerability to climate-amplified water scarcity (e.g., drought, reduced recharge/inflows), improving supply reliability and the system’s ability to cope with shortages.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced water demand/withdrawals, which lowers pressure on scarce supplies and increases resilience to drought and water scarcity.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Pricing → demand reduction → reduced exposure/sensitivity to water scarcity (a climate hazard) → improved resilience, which is Adaptation.  \n2) Why this primary over alternatives: While reduced water use can lower energy use and thus emissions (Mitigation/Resource Efficiency), that effect is not universal in magnitude (depends on treatment/desalination intensity, pumping head, grid mix) and is secondary to the direct objective/physical outcome of demand reduction for water security.  \n3) Inherent causal chain for secondaries: No secondary category is unavoidable—GHG reductions occur only where water services are energy/emissions intensive; resource-efficiency framing is plausible but not guaranteed to be the single, always-present climate-relevant co-effect across all implementations.  \n4) Edge cases applied: In highly desalination-dependent systems, mitigation co-benefits could be large, but the mechanism itself still directly targets scarcity resilience through demand reduction.  \n5) Confirm labels apply to ALL instances: Any tariff increase intended to curb consumption will, by design, act through reduced per-capita water demand to lessen water-scarcity risk, fitting Adaptation across contexts.",
+  "mechanism_confidence": 0.74,
+  "mechanism_edge_case_notes": "In desalination- or energy-intensive water systems, the same mechanism can yield substantial GHG reductions (possible Mitigation co-benefit), but this is not inherent/universal enough to assign a secondary category for all instances.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "pricing-mechanism",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“Increase water block-tariff”; “control unnecessary water consumption”; “Medium-term actions”",
+  "co_benefits": "Potential utility revenue stabilization and reduced energy use for water pumping/treatment (and associated emissions reductions), but these are ancillary and not specified as core aims.",
+  "instance_edge_case_notes": "No location vulnerability context was provided; if the locale faces drought/chronic water scarcity, a water-security secondary could be supported. Also, tariff reforms can raise equity/affordability considerations (e.g., need for lifeline rates), but these are not mentioned in the text."
+}

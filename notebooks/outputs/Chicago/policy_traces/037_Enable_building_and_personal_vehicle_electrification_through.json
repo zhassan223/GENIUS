@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Enable building and personal vehicle electrification through incentives, electrification targets by building type, and EV charging expansion.",
+  "role": "parent",
+  "sector": "cross_sector",
+  "canonical_mechanism": "end_use_electrification → fossil_fuel_combustion_displacement_and_emissions_reduction",
+  "mechanism_description": "Incentives, targets, and charging deployment accelerate electrification of building end-uses and personal vehicles, displacing on-site fossil fuel combustion and reducing greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Energy service demand (heat/mobility) → electrified end-use technologies replace combustion → ↓ direct fossil fuel use → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Policies shift buildings (space/water heating, cooking, appliances) and personal vehicles from fossil-fueled equipment (furnaces/boilers/ICE cars) to electric alternatives (heat pumps, induction, EVs) and supporting charging/electrical capacity.  \n(2) Mediating process: Electrification eliminates or reduces point-of-use combustion; energy is supplied via the electric grid with typically lower (and declining) carbon intensity than distributed combustion, and higher end-use efficiency (e.g., heat pumps) reduces total energy required.  \n(3) Climate outcome: Net reduction in lifecycle GHG emissions (especially CO₂; also reduced CH₄ leakage associated with delivered fossil fuels when they are avoided), driving mitigation benefits.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced GHG emissions from displacing on-site fossil fuel combustion with electricity for the same energy services.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: End-use electrification displaces fossil fuel combustion, yielding lower GHG emissions.  \n2) Why this primary over alternatives: While electrification can improve efficiency and local air quality, the defining and largest climate-relevant effect across all such policies is mitigation via combustion displacement and associated emissions reductions.  \n3) Inherent secondary effects: None are unavoidable across all instances—resource efficiency may occur (e.g., heat pump COP), but not universally (e.g., resistance heating, marginal grid emissions), and adaptation benefits are context-dependent rather than inherent.  \n4) Edge cases applied: If the grid is very carbon-intensive or electrification is inefficiently implemented, near-term net emissions reductions can be smaller or delayed, but the mechanism’s intent and primary pathway remain emissions mitigation via combustion displacement.  \n5) Label applies to all instances: Any policy using this mechanism necessarily targets replacing fossil end-use combustion with electricity, which is fundamentally a mitigation pathway.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Net GHG impact depends on grid emissions intensity, technology choice (heat pumps vs resistance), and induced demand; some cases could have limited or temporary emissions benefits, but the mechanism classification remains Mitigation because the dominant intended physical pathway is fossil combustion displacement.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "incentive-program",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"ENABLE BUILDING AND PERSONAL VEHICLE ELECTRIFICATION\"; \"incentives\"; \"electrification targets by building type\"; \"EV charging expansion\"",
+  "co_benefits": "Improved local air quality (reduced NOx/PM from combustion), public health benefits, reduced noise (EVs), potential household energy cost savings/price stability, reduced indoor air pollution from gas cooking/heating.",
+  "instance_edge_case_notes": "Instrument type is somewhat mixed (incentives + target-setting + infrastructure investment), but categorized as an incentive-program because incentives are explicitly named first and frame the “enable” approach in the policy statement; verbatim text alone does not specify instruments beyond the strategy title."
+}

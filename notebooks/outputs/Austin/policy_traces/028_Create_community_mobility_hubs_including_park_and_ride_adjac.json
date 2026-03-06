@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Create community mobility hubs (including park-and-ride) adjacent to transit stops to offer first/last mile options and amenities.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "mobility_hubs_and_first_last_mile_connectivity → modal_shift_to_transit",
+  "mechanism_description": "Build mobility hubs and first/last-mile connections at transit stops to make transit easier to use, prompting shifts from driving to transit and reducing transportation emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Mode shift from private automobiles to higher-occupancy transit typically reduces energy use per passenger-mile (less fuel/electricity per trip for the same mobility service), i.e., delivering the same travel demand with lower energy input.",
+  "primary_causal_pathway": "Mobility infrastructure + service integration → modal shift (↓ car VMT, ↑ transit ridership) → ↓ fuel combustion/energy use → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in system/activity: Cities build and operate community mobility hubs (e.g., park-and-ride, bike/scooter access, wayfinding, shelters, secure parking, microtransit connections) and improve first/last-mile connectivity to transit stops.  \n(2) Mediating process: Reduced “generalized cost” of transit (time, hassle, access barriers) increases transit attractiveness and enables seamless transfers, leading travelers to substitute transit for some car trips and/or reduce trip chaining by car.  \n(3) Climate-relevant outcome: Lower private vehicle VMT reduces tailpipe CO₂ (and upstream fuel-cycle emissions); depending on grid and fleet, transit operations may add some energy use but net emissions typically fall when car trips are displaced.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions due to shifting trips from private vehicles to public transit enabled by better first/last-mile access.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Improve first/last-mile access and trip integration → more transit use and fewer car trips → reduced fuel combustion → reduced GHG emissions.  \n2) Why this primary over alternatives: While hubs can have co-benefits (access, congestion relief), the mechanism’s intended and largest climate impact is emissions mitigation via modal shift away from private vehicles.  \n3) Inherent secondary causal chain(s):  \n   - Resource Efficiency: Transit (and active/micromobility connections) generally moves people with lower energy per passenger-mile than single-occupant driving, so providing the same mobility service uses less energy.  \n4) Edge cases applied: If transit is underutilized or powered by high-emitting energy and induces additional travel, net GHG benefits could shrink, but the mechanism is still fundamentally aimed at mode shift and emissions reduction.  \n5) Confirm labels apply to ALL instances: Any policy that builds mobility hubs/first-last-mile connectivity to increase transit use shares the same primary mitigation pathway; the energy-intensity improvement relative to private cars is a general, mechanism-inherent efficiency effect.",
+  "mechanism_confidence": 0.83,
+  "mechanism_edge_case_notes": "Benefits depend on actual ridership gains, transit vehicle occupancy, and the emissions intensity of transit energy supply; park-and-ride expansions can sometimes add car access miles or induce demand, partially offsetting reductions.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Create community mobility hubs\"; \"including park-and-ride facilities\"; \"adjacent to transit stops\"; \"offer first/last mile options\"; \"offer a complete trip experience\"",
+  "co_benefits": "Improved mobility/access and convenience; potential congestion reduction; potential local air quality improvements; potential safety/wayfinding benefits.",
+  "instance_edge_case_notes": "Park-and-ride can have mixed emissions impacts (may induce some driving to stations), but the stated intent is to support transit access/complete trips, so it is classified under mitigation via modal shift enabled by infrastructure investment."
+}

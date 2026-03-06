@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Set government-operations greenhouse gas reduction targets for the city office: 5.1% by FY2020 and 30% by FY2030 (base year FY2013), plus FY2020 targets by emission type (administration offices, waste, sewage, water).",
+  "role": "individual",
+  "sector": "governance",
+  "canonical_mechanism": "government_operations_ghg_target → emissions_reduction_pathway",
+  "mechanism_description": "Setting government-operations emissions reduction targets creates an internal mandate and accountability framework that drives operational changes across facilities and services, resulting in reduced greenhouse gas emissions over time.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Government target-setting + accountability → operational changes in municipal assets/services → ↓ fuel/energy use and/or ↓ process emissions → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Municipal government commits to specific, measurable GHG-reduction targets for its own operations (buildings, fleets, waste/water/sewage operations) and embeds them in planning, budgeting, and performance management. (2) Mediating process: Targets create internal mandates, monitoring/reporting, and incentives that accelerate implementation of emissions-abatement measures (efficiency upgrades, electrification, renewable procurement, process optimization, methane control). (3) Outcome: Net reduction in operational CO₂e emissions over the target period.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced greenhouse gas emissions from government operations due to target-driven operational changes and accountability.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: A GHG target for government operations primarily functions to drive emissions reductions (mitigation). 2) Why this primary over alternatives: While targets can yield cost savings (resource efficiency) or improve resilience indirectly, those outcomes depend on the specific measures chosen; the mechanism’s defining, intended, and most direct climate effect is lowering GHG emissions. 3) Inherent secondary chains: None—efficiency gains, renewable adoption, or adaptation co-benefits are not physically inevitable from target-setting alone. 4) Edge cases applied: If a jurisdiction sets a “net-zero” target heavily reliant on offsets, the mechanism still aims at mitigation (reducing net GHG impact), but the on-the-ground pathway may shift toward credit purchasing; classification remains Mitigation. 5) Confirm labels apply to ALL instances: Any policy that sets GHG-reduction targets for municipal operations is fundamentally a mitigation governance mechanism irrespective of sector specifics (buildings, fleets, utilities).",
+  "mechanism_confidence": 0.92,
+  "mechanism_edge_case_notes": "Targets without implementation, enforcement, or MRV may deliver little real-world abatement, but the mechanism’s dominant intended pathway remains mitigation; “net” targets achieved via offsets/RECs may reduce direct operational emissions less, yet still operate within a mitigation framing.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Reduction target\"; \"Base Year FY2013\"; \"Target Year FY2020\"; \"FY2030\"; \"City office ▲ 5.1%\"; \"City office ▲ 30%\"; \"Target by emission type\"; \"Emissions from offices\"; \"waste processing\"; \"sewage processing\"; \"water supply\"",
+  "co_benefits": "Potential operational cost savings (energy/water efficiency), improved air quality from reduced fuel use, and improved waste/wastewater system performance.",
+  "instance_edge_case_notes": "Percent reductions are presented with an upward triangle symbol (▲), which could be misread as an increase; however, the section heading and context indicate these are reduction targets (i.e., intended decreases from the base year)."
+}

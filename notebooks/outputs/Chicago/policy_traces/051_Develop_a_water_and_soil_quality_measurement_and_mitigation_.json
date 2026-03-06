@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Develop a water and soil quality measurement and mitigation strategy by 2023.",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "environmental_monitoring_system → adaptation_planning_support",
+  "mechanism_description": "Establishing water and soil quality measurement and mitigation planning improves environmental monitoring and decision-making, enabling more effective resilience and risk-reduction actions.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Information system enhancement → improved risk detection/forecasting + decision support → better targeting/timing of resilience actions → ↓ climate hazard exposure/vulnerability",
+  "causal_mechanism_detail": "(1) Change: A city establishes or expands monitoring networks and data systems (e.g., outdoor air quality sensors, water/soil quality measurement programs, community energy-burden tracking) and integrates the outputs into planning/management processes.  \n(2) Mediating process: Higher-resolution, more frequent, and more reliable environmental data improves detection of harmful conditions (including climate-exacerbated extremes), trend analysis, hotspot identification, and evaluation of intervention effectiveness.  \n(3) Climate-relevant outcome: Better-informed adaptation planning and operational decisions reduce vulnerability and impacts (health, service disruption, inequitable exposure) from climate-related hazards (e.g., wildfire smoke/ozone episodes, flooding-related water contamination, heat-related stress interacting with air quality).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is improved identification, targeting, and timing of actions that reduce climate hazard exposure and vulnerability through better information for resilience planning and response.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: The mechanism’s direct output is information (measure/track conditions) that enables risk management decisions; the climate benefit occurs via reduced exposure/vulnerability, which is Adaptation.  \n2) Why this primary over alternatives: Monitoring does not inherently lower GHG emissions (Mitigation), reduce resource inputs for the same service (Resource Efficiency), or enhance ecosystems/carbon sinks (Nature-Based Solutions); any such outcomes would be downstream and contingent on what actions are taken after monitoring.  \n3) Inherent causal chain for each secondary: None—there is no unavoidable, direct emissions reduction or resource-efficiency gain from monitoring alone.  \n4) Edge cases applied: If monitoring is explicitly for MRV of GHG emissions or to enforce energy efficiency standards, it could support Mitigation/Resource Efficiency; however, this canonical mechanism is framed as environmental monitoring supporting adaptation planning, so Adaptation remains primary.  \n5) Confirm labels apply to ALL instances: Collecting/establishing networks for air quality, water/soil quality, and energy-burden tracking consistently functions as decision-support for managing climate-related risks and inequities; the common, dominant effect is improved adaptation planning and targeting.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Environmental monitoring can sometimes be primarily mitigation-oriented (e.g., emissions inventories/MRV for regulatory compliance) or public-health oriented without a clear climate hazard linkage; classification should be revisited if the monitored indicators are used chiefly to drive GHG reductions rather than risk reduction/adaptation decisions.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"water and soil quality measurement\"; \"mitigation strategy\"; \"Develop ... strategy by 2023\"",
+  "co_benefits": "Public health protection; ecosystem/watershed protection; regulatory compliance support (non-climate environmental quality).",
+  "instance_edge_case_notes": "“Mitigation” here is ambiguous (could mean pollution abatement rather than climate mitigation). Because the action is to *develop a strategy* (not implement infrastructure or enforce limits), the instrument is treated as planning/enabling, with indirect climate relevance via improved monitoring and targeting of actions."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Generate 48 GWh/year of electricity from cogeneration at wastewater plants by 2030.",
+  "role": "sub",
+  "sector": "waste",
+  "canonical_mechanism": "cogeneration_waste_to_energy → fossil_generation_displacement_and_methane_capture",
+  "mechanism_description": "Implementing cogeneration at wastewater plants generates energy from treatment-process biogas, displacing fossil electricity and reducing methane emissions through capture and use.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Wastewater-derived biogas is recovered and converted into electricity/heat (same service with less external energy input), increasing energy recovery from waste streams.",
+  "primary_causal_pathway": "Waste management system change → methane capture + biogas-to-energy → ↓ CH₄ emissions + ↓ fossil energy generation → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Install/expand anaerobic digestion biogas collection and cogeneration (CHP) at wastewater treatment plants and operate it to produce electricity/usable heat.  \n(2) Process: Capturing methane prevents its release; combusting biogas converts CH₄ to CO₂ (lower warming impact) while generating energy that substitutes for grid electricity and/or on-site fossil boiler fuel.  \n(3) Outcome: Reduced lifecycle GHG emissions through avoided fugitive methane and displaced fossil generation (often with co-benefits of improved plant energy self-sufficiency).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is net GHG mitigation from methane capture/use and fossil energy displacement via wastewater biogas cogeneration.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Capture and beneficial use of wastewater biogas reduces methane emissions and displaces fossil energy—both directly reduce GHGs.  \n2) Why this primary over alternatives: While it also improves energy productivity at the facility, the defining and largest climate effect across instances is emissions reduction (CH₄ avoidance + fossil displacement), which is Mitigation.  \n3) Inherent secondary chain(s): Resource Efficiency is inherent because the mechanism necessarily recovers energy from a waste stream to deliver the same electricity/heat services with less imported energy.  \n4) Edge cases applied: If the captured gas would otherwise be flared, incremental mitigation comes mainly from fossil displacement; if leakage is poorly controlled, benefits are reduced but the mechanism’s intent and dominant pathway remain mitigation.  \n5) Label applies to ALL instances: Any wastewater cogeneration/biogas-to-energy implementation intrinsically involves methane capture/controlled combustion and energy substitution, yielding net mitigation as the primary effect.",
+  "mechanism_confidence": 0.87,
+  "mechanism_edge_case_notes": "If biogas capture is minimal (already fully captured/flared) or methane leakage/slip from engines is high, mitigation magnitude can be materially lower; classification remains Mitigation because the mechanism’s central pathway is still GHG reduction via methane control and fossil displacement.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "indirect",
+  "climate_relevance": "direct",
+  "key_indicators": "“48 GWh/year”; “electricity from cogeneration”; “wastewater plants”; “by 2030”",
+  "co_benefits": "Energy resilience/plant self-sufficiency; potential reduction in local air pollutants versus separate fossil generation (not specified); operational cost savings (not specified)",
+  "instance_edge_case_notes": "Could be “infrastructure-investment” if the broader policy text specified funding/installation of CHP/digesters; could be “performance-standard” if it required plants to meet a minimum energy recovery rate. With only a numeric outcome and deadline provided, it is treated as target-setting."
+}

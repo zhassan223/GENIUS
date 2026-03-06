@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Update citywide car and bike parking requirements by 2025.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "parking_requirement_reform → modal_shift_and_vmt_reduction",
+  "mechanism_description": "Reforming car and bicycle parking requirements reduces car dependence and supports cycling/transit use, leading to lower vehicle miles traveled and reduced transportation emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Reducing or unbundling minimum parking requirements typically reduces construction of parking spaces (especially structured parking), which lowers material/energy inputs for building and operating parking facilities while delivering similar mobility access via non-car modes.",
+  "primary_causal_pathway": "Parking supply/pricing rules change → ↓ car ownership/use + ↑ non-auto mode share → ↓ VMT/fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Zoning/land-use rules are revised to reduce/remove minimum off-street parking requirements (and/or unbundle parking, set maximums, or rebalance bike vs car parking), altering how much parking is built and how easy/cheap driving is at destinations.  \n(2) Mediating process: Reduced parking availability and increased effective cost/friction of driving (plus improved viability of transit/walk/bike-oriented development) shifts travel behavior away from private autos and can reduce car ownership and trip lengths.  \n(3) Outcome: Fewer vehicle miles traveled and less gasoline/diesel combustion lead to lower transportation-sector CO₂e emissions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions from lower VMT and/or fewer car trips due to less abundant/cheaper-to-provide parking.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Parking requirement reform primarily affects travel behavior; the largest climate effect is reduced VMT and tailpipe emissions.  \n2) Why Mitigation: The mechanism’s direct, intended, and typically largest climate outcome is lowering GHG emissions from transportation energy use, not primarily reducing hazard exposure (Adaptation) or increasing carbon sinks (Nature-Based Solutions).  \n3) Inherent secondary: Resource Efficiency is inherent because fewer mandated parking spaces usually means less parking is constructed/operated, reducing material and energy inputs per unit of mobility access.  \n4) Edge cases applied: If reforms inadvertently increase cruising for parking or spillover parking, that could partially offset benefits, but the canonical mechanism presumes net reduction in car dependence/VMT across implementations.  \n5) Confirm labels apply broadly: Any policy that reforms parking requirements with the goal/effect of reducing car dependence operates through reduced auto travel demand and thus fits Mitigation; the resource/material savings from avoided parking construction is commonly co-produced by the same reform logic.",
+  "mechanism_confidence": 0.82,
+  "mechanism_edge_case_notes": "Some implementations may pair reduced minimums with increased free on-street parking or weak curb management, increasing cruising/spillover and reducing net VMT benefits; conversely, benefits can be much larger when combined with pricing, transit improvements, and strong TDM requirements.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "regulatory-mandate",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Update citywide\"; \"car and bike parking requirements\"; \"by 2025\"",
+  "co_benefits": "Improved active transportation safety/comfort and public health (via increased biking/walking); reduced congestion and local air pollutants (NOx/PM); reduced land consumption for parking and potential urban design improvements.",
+  "instance_edge_case_notes": "The direction of the parking update (e.g., removing car minimums vs increasing them; strengthening bike requirements) is not specified; classification assumes the typical climate-mitigation intent of parking reform toward less car parking and/or more bike parking."
+}

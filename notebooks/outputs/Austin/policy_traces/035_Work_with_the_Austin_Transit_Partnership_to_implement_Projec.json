@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Work with the Austin Transit Partnership to implement Project Connect and expand/improve public transportation, including needs assessment, expanded paratransit, and anti-displacement measures.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "transit_service_expansion → transport_emissions_reduction",
+  "mechanism_description": "Expanding and improving public transit service increases transit accessibility and ridership, shifting trips away from private vehicles and reducing transportation-related greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Mode shift to higher-occupancy transit typically reduces energy use per passenger-km (same mobility service with lower energy input), lowering fuel/energy consumption alongside emissions.",
+  "primary_causal_pathway": "Travel demand + mode choice → ↑ public transit ridership / ↓ private vehicle VKT → ↓ fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: The city increases the quantity/quality/affordability/accessibility of transit service (e.g., new lines, higher frequency, paratransit expansion, fare-free programs).  \n(2) Mediating process: Improved level-of-service and lower generalized cost of transit increases ridership and induces mode shift (and sometimes trip consolidation) away from private vehicle travel, reducing vehicle-kilometers traveled (VKT) and per-trip fuel burn.  \n(3) Climate outcome: Lower on-road fuel combustion (and potentially lower upstream fuel/electricity emissions) reduces CO₂e from the transportation sector.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions from mode shift away from private vehicle travel to public transit.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Transit improvements → mode shift from cars → reduced fuel combustion → reduced GHG emissions (mitigation).  \n2) Why this primary over alternatives: While transit can also improve access and resilience, the canonical mechanism explicitly targets transport emissions reduction; the largest climate-relevant effect across instances is emissions mitigation.  \n3) Inherent secondary causal chain(s):  \n   - Resource Efficiency: Higher occupancy and reduced VKT generally mean less energy per passenger-km for the same mobility service.  \n4) Edge cases applied: If added service is underutilized or increases vehicle operations without reducing car travel, mitigation benefits may be smaller; however, the mechanism’s intent and typical effect remain emissions reduction via mode shift. Electrified transit changes the emissions factor but not the dominant pathway (still reduces transport emissions).  \n5) Confirm labels apply to ALL instances: Any policy fitting this mechanism (service expansion or fare-free access designed to increase ridership) is fundamentally an emissions-reduction strategy; energy/resource efficiency is a common physical co-effect of shifting to shared mobility.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Ridership response and net GHG impact depend on utilization, service type, and the marginal emissions of transit vs. displaced car trips; fare-free policies can increase trips (some induced demand) and may shift from walking/biking as well as cars, which can dilute emissions reductions but does not change the dominant intended pathway.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "indirect",
+  "climate_relevance": "direct",
+  "key_indicators": "\"implement Project Connect\"; \"expand and improve public transportation services\"; \"Conduct a community needs assessment\"; \"Expand paratransit\"",
+  "co_benefits": "Mobility/access improvements (especially for people with disabilities via paratransit); potential congestion reduction; improved air quality; equity/anti-displacement benefits.",
+  "instance_edge_case_notes": "“Anti-displacement measures” is mentioned but not specified; without concrete housing/land-use instruments in the excerpt, it is treated as a co-benefit/equity note rather than a separate secondary mechanism. The text does not specify capital build-out vs. operations funding, so classification is kept at planning-strategy rather than infrastructure-investment."
+}

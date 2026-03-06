@@ -1,10 +1,10 @@
-cluster_id,cluster_type,role,sector,section_header,policy_statement,parent_statement,verbatim_text,extraction_rationale
+cluster_id,cluster_type,role,sector,section_header,policy_statement,parent_statement,verbatim_text,extraction_rationale,canonical_mechanism,primary_category,secondary_categories,instrument_type,climate_relevance,mechanism_confidence
 14.0,individual,individual,Cross-sectoral,8.1 Dakar's vision for 2050,Reduce Dakar’s GHG emissions by 54% by 2050.,,"Overall, the goals that the city could achieve are:
 
--    a  54%  reduction  in  GHG  emissions  by 2050;",Quantified mitigation target with a deadline (2050).
+-    a  54%  reduction  in  GHG  emissions  by 2050;",Quantified mitigation target with a deadline (2050).,economy_wide_ghg_target → emissions_reduction_pathway,Mitigation,,target-setting,direct,0.93
 15.0,individual,individual,Buildings,8.1 Dakar's vision for 2050,Reduce the energy bill in the built heritage of the City of Dakar by 75% by 2050.,,"Overall, the goals that the city could achieve are:
 
--  a 75% reduction in the energy bill in the built heritage of the City of Dakar by 2050;",Quantified target with deadline focused on municipal/built heritage energy costs.
+-  a 75% reduction in the energy bill in the built heritage of the City of Dakar by 2050;",Quantified target with deadline focused on municipal/built heritage energy costs.,commercial_building_retrofit → energy_use_reduction,Mitigation,Resource Efficiency,target-setting,direct,0.93
 16.0,individual,individual,Energy,8.1 Dakar's vision for 2050,Increase the share of renewable energy in Dakar’s energy mix to at least 65% by 2050.,,"Overall, the goals that the city could achieve are:
 
--    an  increase  in  the  share  of  renewable energy in the energy mix of at least 65% by 2050.",Quantified renewable energy share target with a deadline (2050).
+-    an  increase  in  the  share  of  renewable energy in the energy mix of at least 65% by 2050.",Quantified renewable energy share target with a deadline (2050).,renewable_energy_target → grid_decarbonization,Mitigation,,target-setting,direct,0.95

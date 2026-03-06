@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Transportation and Land Use: by 2030, 80% of new non-residential development will be located within the city’s Imagine Austin activity centers and corridors.",
+  "role": "parent",
+  "sector": "transport",
+  "canonical_mechanism": "transit_oriented_development → transport_emissions_and_land_use_reduction",
+  "mechanism_description": "Concentrating new development in activity centers and corridors supports more compact, transit-accessible growth, reducing vehicle travel and associated emissions while limiting dispersed land-use impacts.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Compact, transit-supportive land use reduces per-capita energy and material demand for transportation (less fuel use/vehicle-km traveled) and often lowers infrastructure intensity per person (shorter networks and less road/parking area), yielding the same mobility/access with less resource input.",
+  "primary_causal_pathway": "Land-use + mobility policy → mode shift + reduced trip length/VMT → ↓ fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Policies steer housing/jobs/services and street design/parking/TDM toward transit corridors and activity centers and improve transit performance, making non-auto travel more convenient than driving.  \n(2) Mediating process: Increased proximity and accessibility shortens trips and increases transit/walk/bike mode share; parking constraints and commuter benefits further reduce driving demand.  \n(3) Climate-relevant outcome: Reduced vehicle miles traveled and fuel combustion, lowering CO₂ (and other) emissions from on-road transportation; secondarily reduces energy/resource intensity of mobility and associated infrastructure.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced GHG emissions from fewer and shorter car trips due to concentrating development around high-quality transit and improving non-auto access.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: TOD changes where development occurs and how people travel, leading to fewer/shorter car trips and thus lower transportation fuel combustion and GHG emissions.  \n2) Why Mitigation is primary: The direct, intended, and largest climate effect across TOD implementations is emissions reduction from avoided driving and induced mode shift; this outweighs other co-benefits in typical TOD policy designs.  \n3) Inherent secondary chain(s):  \n   - Resource Efficiency: Delivering access/mobility with fewer vehicle-km and typically less road/parking provision reduces energy and material throughput per capita.  \n4) Edge cases applied: Some TOD can increase construction emissions or local congestion, but the mechanism as defined is centered on reducing auto dependence and shaping lower-carbon travel/land use; those countervailing effects are context-specific and not the dominant mechanism.  \n5) Confirm labels apply to ALL instances: Any policy genuinely implementing TOD to shift travel and concentrate growth around transit has mitigation as the core outcome (transport GHG reduction); resource-efficiency effects follow inherently from reduced VMT/auto dependence.",
+  "mechanism_confidence": 0.88,
+  "mechanism_edge_case_notes": "If “TOD” is implemented without improved transit service or without constraints on parking/auto access, mode shift may be weaker; however, the canonical mechanism still targets transport-emissions reduction via transit-centered land use, so Mitigation remains the correct primary category. Construction-phase embodied carbon impacts are possible but are not inherent to the TOD→transport-emissions reduction pathway.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "“By 2030”, “80%”, “new non-residential development”, “located within”, “activity centers and corridors”",
+  "co_benefits": "Potential co-benefits include improved air quality, reduced congestion, and improved access to services/jobs via more compact development patterns, but these are not explicitly stated and no local hazard linkage is provided.",
+  "instance_edge_case_notes": "Instrument could be interpreted as a planning strategy (growth management/TOD direction) rather than pure target-setting; however, the text is framed as a numeric outcome/goal (“80% by 2030”), which fits target-setting best."
+}

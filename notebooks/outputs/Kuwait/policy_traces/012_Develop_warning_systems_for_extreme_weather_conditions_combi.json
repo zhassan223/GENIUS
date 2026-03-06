@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Develop warning systems for extreme weather conditions combined with a communication strategy for alerts (medium-term action).",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "extreme_weather_early_warning_system → climate_risk_exposure_reduction",
+  "mechanism_description": "Implementing extreme-weather monitoring, warning, and public alert communications increases preparedness and timely protective actions, reducing vulnerability and harm from climate hazards.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard forecasting + alerts → earlier protective actions/response → ↓ exposure/vulnerability → ↓ climate impacts",
+  "causal_mechanism_detail": "(1) Change in system: A jurisdiction implements monitoring/forecasting, thresholds, alert dissemination, and risk communication protocols for extreme events (heatwaves, storms, floods, dust storms, etc.), often linked to emergency/health-sector response procedures. (2) Mediating process: Improved situational awareness and rapid risk communication prompts behavioral and institutional actions (evacuation, sheltering, work-hour changes, cooling center use, pre-positioning medical resources), reducing contact with the hazard and preventing cascading failures. (3) Climate-relevant outcome: Reduced climate-related injuries/illness/deaths and reduced disruption/damages from extreme weather events (i.e., increased resilience).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced harm (mortality, morbidity, asset loss, service disruption) by lowering people’s exposure and vulnerability to extreme weather through timely alerts and response actions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: hazard information and alerts lead to protective action that reduces exposure/vulnerability to extreme events—an adaptation mechanism.  \n2) Why this primary over alternatives: the mechanism’s intended and largest effect is reducing impacts from climate hazards, not reducing GHG emissions (Mitigation), reducing resource inputs (Resource Efficiency), or enhancing ecosystems (Nature-Based Solutions).  \n3) Inherent secondary chains: none are guaranteed—any emissions changes (e.g., fewer disaster-response trips, backup generator use) are context-dependent and not inherent to all early warning systems.  \n4) Edge cases applied: even when housed in a “health sector” program, the mechanism remains risk/exposure reduction; health co-benefits are part of adaptation outcomes rather than a separate category here.  \n5) Confirm labels apply to ALL instances: any policy that implements extreme weather monitoring/warnings/communications functions through the same adaptation pathway of preparedness and exposure reduction.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "If an early warning system is explicitly paired with operational measures that systematically reduce energy use or emissions (e.g., automated grid demand response as the main intent), that would be a different or additional mechanism; standing alone, early warning/alerts are Adaptation.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“Develop warning systems”; “extreme weather conditions”; “communication strategy for alerts”",
+  "co_benefits": "Improved general disaster preparedness and emergency communication for non-climate hazards.",
+  "instance_edge_case_notes": "Instrument could also be framed as a planning-strategy (communication protocols), but the core action is development of warning systems and alerting capability, best fit as infrastructure-investment."
+}

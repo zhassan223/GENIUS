@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Reclaim underused public spaces to increase access and ecological function via green infrastructure, including studying conversion of City surface parking lots to green uses where feasible.",
+  "role": "sub",
+  "sector": "land_use",
+  "canonical_mechanism": "green_infrastructure_conversion → heat_and_stormwater_resilience",
+  "mechanism_description": "Convert underused impervious public spaces (e.g., surface parking lots) into green infrastructure to increase vegetated area, improving urban heat mitigation and stormwater management.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Urban land cover change (impervious → green infrastructure) → ↓ urban heat island + ↑ stormwater infiltration/detention → ↓ heat/flood exposure and impacts during climate extremes",
+  "causal_mechanism_detail": "(1) Change: Retrofit/convert underused impervious public spaces (e.g., surface parking lots) into green infrastructure such as trees, planted areas, bioswales, rain gardens, and permeable/green surfaces. (2) Process: Vegetation provides shading and evapotranspirative cooling that lowers surface and air temperatures; permeable soils and engineered GI features increase infiltration and temporary storage, reducing runoff volume/peak flow and combined sewer/storm system burden. (3) Outcome: Reduced heat stress risk and reduced pluvial flooding/nuisance flooding impacts under hotter temperatures and more intense precipitation events.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced exposure and vulnerability to heat waves and heavy-rain flooding through cooling (shade/evapotranspiration) and increased infiltration/detention of stormwater.",
+  "mechanism_classification_reasoning": "(1) Dominant causal pathway: Converting impervious areas to green infrastructure primarily changes local microclimate and hydrology, reducing hazard impacts from heat and extreme rainfall. (2) Why this primary over alternatives: Any mitigation from added biomass carbon or reduced cooling energy use is typically smaller and more uncertain than the direct, local reduction in heat exposure and stormwater flooding for GI conversions, so Adaptation best matches the main effect. (3) Inherent causal chain for each secondary: None—mitigation and resource-efficiency co-benefits are possible but not guaranteed across all implementations (e.g., vegetation type, maintenance, irrigation needs, and whether buildings’ cooling loads are meaningfully affected). (4) Edge cases applied: If the conversion were explicitly designed/quantified primarily for carbon sequestration (e.g., afforestation with verified carbon accounting) the classification could shift, but the stated mechanism targets heat and stormwater resilience. (5) Confirm labels apply to ALL instances: Any policy implementing this mechanism (impervious-to-green conversion aimed at heat/stormwater performance) inherently delivers adaptation via cooling and runoff management regardless of location, though magnitude varies.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Some projects may be framed as mitigation (urban forestry carbon) or resource efficiency (reduced cooling energy), but those outcomes are not universally dominant or guaranteed; classification should remain Adaptation unless the policy’s primary intent and design metrics are explicitly emissions/carbon-focused.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Reclaim public space and prioritize green infrastructure”; “underused… public spaces”; “study should be conducted”; “surface-level parking lots on City property”; “develop a plan to convert… to functional green uses”",
+  "co_benefits": "Improved access to public space/recreation; ecological function/habitat enhancement; air quality improvements; aesthetic/placemaking benefits.",
+  "instance_edge_case_notes": "Although the broader strategy implies eventual physical conversion (which could be “infrastructure-investment”), the verbatim text for this action is primarily a study/plan, so it is treated as enabling planning rather than direct implementation."
+}

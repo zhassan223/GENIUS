@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Adaptation plan program: Enhance and build the capacity of the health sector to prepare for increased health risks due to climate change, with an allocated budget of 4.1 million USD and identified responsible institutions.",
+  "role": "parent",
+  "sector": "cross_sector",
+  "canonical_mechanism": "health_sector_capacity_building → climate_health_risk_reduction",
+  "mechanism_description": "Build health-sector institutional and operational capacity to improve preparedness and response, reducing adverse health outcomes from climate-related hazards.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard → improved health-system preparedness/response → ↓ exposure/susceptibility + faster treatment → ↓ climate-related health impacts",
+  "causal_mechanism_detail": "(1) Change in human/system activity: Governments and health authorities invest in health-sector institutional, workforce, and operational capacity (planning, coordination, training, surveillance, emergency protocols, early warning integration, stockpiles, and service continuity).  \n(2) Mediating process: Stronger public health functions and clinical surge capacity improve risk detection (surveillance/forecast-based alerts), prevention (targeted outreach, cooling/health advisories), and response (rapid deployment, triage, treatment, continuity of care).  \n(3) Climate-relevant outcome: Reduced adverse health outcomes (illness, deaths, system disruption) during and after climate-related events (heat, floods, dust storms/air quality episodes, infectious disease outbreaks influenced by climate).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced morbidity and mortality from climate-driven health hazards through improved preparedness, surveillance, and response capacity.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Climate hazards create health risks; boosting health-sector capacity reduces vulnerability and improves response, lowering harm—an adaptation outcome.  \n2) Why this primary over alternatives: The mechanism’s core objective and effect is risk reduction (morbidity/mortality) rather than emissions reduction (Mitigation) or lowering energy/material inputs (Resource Efficiency) or enhancing ecosystems (Nature-Based Solutions).  \n3) Inherent causal chain for each secondary: None—any mitigation co-benefits (e.g., efficient facilities) are optional and not guaranteed by “capacity building” itself.  \n4) Edge cases applied: If a specific capacity-building action were explicitly about decarbonizing healthcare operations (e.g., renewable backup power replacing diesel), that would be a different mechanism; as stated, this is preparedness/response capacity.  \n5) Confirm labels apply to ALL instances: Any policy fitting “health sector capacity building for climate health risk reduction” primarily functions by reducing climate-related health impacts via preparedness and response, i.e., Adaptation.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Some health-sector plans bundle operational decarbonization (energy efficiency, clean power for hospitals) with preparedness; those components would shift mechanisms for those sub-actions, but the stated mechanism here is purely climate-health risk reduction via capacity building.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Enhance and building the capacity of the health sector”; “be prepared for increased health risks due to climate change”; “Budget | 4.1 million USD”; “Responsibility | Ministry of Health … Meteorological department”",
+  "co_benefits": "General public health system strengthening and improved routine emergency preparedness (non-climate-related), but not specified enough to classify as an additional secondary category.",
+  "instance_edge_case_notes": "Instrument type could also be interpreted as an incentive-program (budget appropriation) or infrastructure-investment if the budget were tied to facilities/equipment, but the text emphasizes capacity/preparedness and governance assignments rather than specific capital works."
+}

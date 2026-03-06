@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Integrate community resilience and climate justice criteria into department-level strategic planning and annual budget setting by 2023.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "climate_justice_and_resilience_budgeting → institutional_adaptive_capacity",
+  "mechanism_description": "Embedding resilience and climate justice criteria into strategic planning and budget decisions shifts resource allocation and priorities, increasing institutional capacity to plan for and implement equitable climate adaptation.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Governance change → improved prioritization/targeting of resilience investments → ↓ exposure & vulnerability to climate hazards",
+  "causal_mechanism_detail": "(1) Change: City departments integrate resilience and climate justice criteria into strategic plans and annual budget decisions, altering prioritization, program selection, and funding allocations. (2) Mediating process: Decision rules, performance criteria, and budgeting processes steer resources toward risk-informed and equity-informed interventions, improving coordination and readiness (adaptive capacity). (3) Outcome: More consistent and better-targeted implementation of adaptation measures, reducing impacts from climate hazards (e.g., heat, flooding) especially for vulnerable populations.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is improved institutional adaptive capacity that leads to better-designed and better-funded actions that reduce climate risk and vulnerability for exposed communities.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Governance and budgeting reform primarily changes adaptive capacity and the ability to reduce hazard impacts through improved planning and resourcing.  \n2) Why this primary over alternatives: Any mitigation co-benefits are indirect and contingent on what projects get funded; the mechanism itself is not an emissions-reduction technology or efficiency measure, but a resilience/equity budgeting rule that improves adaptation decision-making.  \n3) Inherent causal chain for each secondary: None—this mechanism does not unavoidably cause mitigation, resource efficiency, or nature-based outcomes without additional, separate project choices.  \n4) Edge cases applied: If a jurisdiction uses “climate budgeting” specifically to prioritize emissions cuts, that would be a different dominant mechanism; here the explicit focus is “community resilience and climate justice criteria,” which points to adaptation capacity.  \n5) Confirm labels apply to ALL instances: Across contexts, embedding resilience/justice criteria into budgeting consistently functions as an adaptive-capacity lever; physical outcomes may vary, but the primary climate-relevant effect remains improved adaptation governance.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Could shift to Mitigation if the budgeting criteria are explicitly defined around GHG targets (e.g., carbon budgets, mandatory emissions scoring) rather than resilience/vulnerability reduction; however, with resilience + climate justice framing, Adaptation is the robust dominant classification.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Integrate\"; \"community resilience\"; \"climate justice criteria\"; \"department-level strategic planning\"; \"annual budget setting\"; \"by 2023\"",
+  "co_benefits": "Improved equity in public spending and service delivery; stronger cross-department coordination and transparency in budgeting (but not a distinct hazard-specific exposure/sensitivity reduction on its own).",
+  "instance_edge_case_notes": "Could also be framed as a regulatory-mandate if the integration is enforced as a binding requirement; classified as planning-strategy because the mechanism described is incorporation into planning and budgeting processes rather than a specific enforceable performance threshold."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Retrofit 20% of total 5+ unit residential buildings by 2030.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "residential_building_retrofit → energy_use_reduction",
+  "mechanism_description": "Retrofitting residential buildings improves efficiency of building envelopes and systems, lowering energy consumption and associated emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Efficiency retrofits deliver the same household energy services (comfort, hot water, lighting) with less energy input, i.e., reduced energy intensity as a direct physical consequence of improved building systems/envelope.",
+  "primary_causal_pathway": "Building operation (retrofit upgrades) → ↓ energy demand (kWh/therms) → ↓ fuel combustion / ↓ grid generation → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human activity/system: Building owners/occupants implement retrofits in existing homes (e.g., insulation/air sealing, window upgrades, HVAC replacements, heat pumps, efficient lighting/appliances, controls/commissioning).  \n(2) Mediating physical process: Improved thermal resistance and reduced air leakage lower heating/cooling loads; higher equipment efficiencies and better controls reduce energy required to provide the same end-use services.  \n(3) Climate-relevant outcome: Lower site and source energy use reduces combustion of fossil fuels (directly in buildings and indirectly in power generation), cutting CO₂ (and in some cases methane from fuel supply chains) emissions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced greenhouse gas emissions from lower residential energy consumption (and associated reduced fuel combustion in buildings and the electricity grid).",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Residential retrofits primarily reduce energy consumption, which reduces upstream/downstream fuel combustion and thus GHG emissions.  \n2) Why this primary over alternatives: While retrofits can also improve comfort and resilience, the mechanism as stated (“energy_use_reduction”) is directly tied to emissions reduction, making Mitigation the dominant climate effect across contexts.  \n3) Inherent causal chain for each secondary:  \n   - Resource Efficiency: Retrofits increase energy productivity (same service with less energy), which is inherently true whenever energy use is reduced via efficiency measures.  \n4) Edge cases applied: If a retrofit is purely for electrification without reducing energy (or if rebound effects negate savings), the mechanism would differ; however, this canonical mechanism explicitly centers on energy reduction, so mitigation remains primary.  \n5) Confirm labels apply to ALL instances: Any policy that retrofits homes to reduce energy use will (all else equal) reduce energy demand and associated emissions, and will inherently improve energy efficiency/resource use per unit of service.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Rebound effects (increased energy use due to improved affordability/comfort) can erode savings; grid decarbonization reduces marginal GHG benefits over time; some “retrofits” may focus on electrification or resilience (e.g., storm hardening) rather than energy reduction—those would warrant a different mechanism/category, but are outside this specified mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Retrofit”; “20%”; “total 5+ unit residential buildings”; “by 2030”",
+  "co_benefits": "Potential co-benefits include improved indoor comfort/health, reduced energy bills, and potential resilience to temperature extremes via better building envelopes, but these are not stated and no hazard context is provided to justify an additional secondary category.",
+  "instance_edge_case_notes": "Instrument could be interpreted as a mandate if embedded in enforceable requirements, but as written it reads as a standalone retrofit target without explicit compliance/enforcement language."
+}

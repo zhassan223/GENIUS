@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Engage residents of all races, ethnicities, abilities and means in the planning and transportation decisionmaking process.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "inclusive_public_engagement_in_planning → institutional_capacity_and_equitable_outcomes",
+  "mechanism_description": "Inclusive resident engagement in planning and transportation decision-making improves governance and institutional capacity, helping decisions better reflect community needs and enabling more effective and equitable climate-related actions.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Governance process change → ↑ inclusive/legitimate planning decisions → ↑ institutional capacity to implement climate actions (outcomes depend on chosen actions)",
+  "causal_mechanism_detail": "(1) Change: The planning and transportation decision-making process is modified to systematically include residents across races, ethnicities, abilities, and income levels (e.g., broader outreach, participatory processes, reducing barriers to participation).  \n(2) Mediating process: Improved information flow about local needs, increased trust/legitimacy, and reduced procedural bias leads to better prioritization, design, and uptake of plans and projects.  \n(3) Climate-relevant outcome: Greater capacity to select and implement effective and equitable climate-related investments and policies; any emissions or risk reduction occurs only via subsequent measures chosen through the improved process.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect of policies using this mechanism is improved institutional decision-making capacity and procedural equity that can enable more effective downstream climate mitigation/adaptation actions, rather than directly changing emissions or climate risk.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Inclusive engagement primarily changes governance/decision processes, which affects the ability to plan and implement climate responses.  \n2) Why this primary over alternatives: There is no inherent, direct mitigation (no guaranteed ↓GHGs), no inherent resource efficiency (no guaranteed ↓inputs for same service), and no inherent nature-based effect (no ecosystem change). The most common climate linkage is enabling more robust planning for climate risks and equitable infrastructure decisions, which aligns most closely with Adaptation as “capacity to manage climate hazards,” even though benefits are indirect.  \n3) Inherent causal chain for each secondary: None—mitigation, efficiency, or nature outcomes are not physically unavoidable from engagement alone.  \n4) Edge cases applied: In some jurisdictions, engagement is embedded in specific mitigation (e.g., transit mode-shift plans) or adaptation (e.g., flood planning) projects, but those outcomes arise from the paired substantive measures, not from the engagement mechanism itself.  \n5) Confirm labels apply to ALL instances: All instances of this mechanism involve inclusive engagement to improve institutional capacity/equity; treating it as Adaptation (capacity-building) with no inherent secondary categories is the most broadly applicable classification across contexts.",
+  "mechanism_confidence": 0.62,
+  "mechanism_edge_case_notes": "This is an enabling governance mechanism; depending on the downstream plan it supports, realized impacts may be mitigation-focused (e.g., transit investments) or adaptation-focused (e.g., heat/flood protection). If your taxonomy allows a “Governance/Enabling” primary category, that would fit better than any of the four required categories.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Engage residents\"; \"all races, ethnicities, abilities and means\"; \"planning and transportation decisionmaking process\"",
+  "co_benefits": "Improved equity and accessibility in transportation planning; increased public trust/legitimacy; better alignment of investments with community needs (may later yield safety, air quality, and health benefits depending on resulting projects)",
+  "instance_edge_case_notes": "Could be coded as a regulatory-mandate if the broader policy document uses binding language (e.g., “shall/must” with specified engagement standards). Here the text reads as a general engagement directive without enforceable thresholds, so it is treated as a planning-strategy/enabling process change."
+}

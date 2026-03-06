@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Sustainable Buildings: achieve net-zero carbon for all new buildings, reduce emissions by 25% for existing buildings, and lower natural gas-related emissions by 30% by 2030.",
+  "role": "parent",
+  "sector": "buildings",
+  "canonical_mechanism": "building_energy_code → energy_use_reduction",
+  "mechanism_description": "Mandating net-zero standards for new construction and improved performance in existing buildings reduces operational energy use and associated on-site fossil fuel (natural gas) combustion emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Higher building energy performance delivers the same building services (heating/cooling/lighting) with less energy input, inherently improving energy productivity even when grid emissions are low.",
+  "primary_causal_pathway": "Building design/construction standards → ↓ building energy demand (and often ↓ on-site fuel combustion) → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Policies require or induce more efficient building envelopes, HVAC, lighting, controls, and sometimes electrification/net-zero performance for new (and sometimes existing) buildings.  \n(2) Mediating process: Improved thermal performance and equipment efficiency reduce delivered electricity and fuel needed to provide indoor comfort and services; where fossil systems are reduced, direct combustion also falls.  \n(3) Outcome: Lower operational CO₂e emissions (and frequently lower peak load), contributing to climate change mitigation.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced operational energy demand in buildings, which lowers associated CO₂e emissions from electricity and on-site fuel use.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: building standards → reduced energy use → reduced operational GHG emissions (largest and most direct effect).  \n2) Why this primary over alternatives: While codes can incidentally improve comfort/heat resilience, the defining and generally largest intended climate impact across instances is emissions reduction from lower energy consumption and fuel switching.  \n3) Inherent secondary chain(s):  \n   - Resource Efficiency is inherent because the mechanism is explicitly about delivering the same building function with less energy input.  \n4) Edge cases applied: If the electricity grid is already zero-carbon, mitigation benefits shrink but the mechanism still targets operational emissions in general and remains primarily mitigation across typical contexts; adaptation co-benefits (e.g., better thermal comfort during heat/outages) are not guaranteed and thus not inherent.  \n5) Confirm labels apply to ALL instances: Any policy that tightens building energy performance to reduce energy use will, by construction, reduce energy demand and typically emissions (Mitigation) and always improve energy input efficiency (Resource Efficiency).",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "In very low-carbon grids or where efficiency leads to rebound effects, net GHG reductions may be smaller; adaptation benefits (reduced heat stress, improved passive survivability) can occur but depend on design specifics and are not universal to all energy-code policies.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "indirect",
+  "climate_relevance": "direct",
+  "key_indicators": "\"By 2030\"; \"achieve net-zero carbon for all new buildings\"; \"reduce emissions by 25% for existing buildings\"; \"lowering all natural gas-related emissions by 30%\"",
+  "co_benefits": "Potential air quality/health benefits from reduced natural gas combustion; potential energy cost savings for occupants; potential reduced peak load (not explicitly stated).",
+  "instance_edge_case_notes": "Instrument could be implemented via performance standards or building code mandates, but the text itself is framed as an outcome/goal without specifying the enforcing mechanism; thus classified as target-setting and indirect."
+}

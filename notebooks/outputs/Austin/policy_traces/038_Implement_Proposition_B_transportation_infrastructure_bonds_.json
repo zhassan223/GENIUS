@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Implement Proposition B transportation infrastructure bonds for sidewalks, bikeways, trails, safety projects, safe routes to school, and substandard streets in low-income communities and communities of color.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "active_transportation_infrastructure_investment → modal_shift_to_sustainable_transport_and_transport_emissions_reduction",
+  "mechanism_description": "Investing in sidewalks, bikeways, and trails makes walking and cycling safer and more convenient, shifting trips away from car travel and reducing transportation-related greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Transport infrastructure investment → ↑ walking/cycling safety & convenience → modal shift / ↓ VMT by private vehicles → ↓ fuel combustion → ↓ GHG emissions",
+  "causal_mechanism_detail": "(1) Change: Cities build/upgrade active-transport facilities (sidewalks, protected bike lanes, trails, crossings, safe-routes-to-school connections) and related safety improvements.  \n(2) Process: Improved network connectivity, perceived and actual safety, and travel-time reliability increases the attractiveness of walking/cycling for short trips and as first/last-mile options, displacing some car trips and reducing VMT.  \n(3) Outcome: Lower gasoline/diesel combustion and associated CO₂e emissions from on-road transportation (with potential additional reductions from reduced congestion/idling in some contexts).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions due to modal shift from private car trips to walking/cycling (and sometimes transit access improvements) enabled by safer, more convenient active-transport networks.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Infrastructure for walking/cycling → mode shift away from car travel → reduced fuel combustion → reduced GHG emissions.  \n2) Why this primary over alternatives: While these projects can improve safety, health, and sometimes heat/stormwater outcomes, the mechanism as defined and commonly used in climate plans is principally intended to cut transport emissions via VMT reduction and mode shift, which is a direct mitigation lever.  \n3) Inherent causal chain for each secondary: None—adaptation, resource-efficiency, or nature-based outcomes are not physically unavoidable across all implementations (e.g., many projects are purely mobility/safety focused and may not include green infrastructure or resilience design).  \n4) Edge cases applied: If an “active transport” investment includes permeable surfaces/trees (nature-based) or flood/heat hardening (adaptation), those would be context-specific add-ons rather than inherent to the mechanism.  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism aims to enable non-motorized travel and displace motor-vehicle travel, yielding mitigation through reduced transport emissions.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Some active-transport projects may be implemented primarily for safety/public health or may incorporate green infrastructure (trees, bioswales) or heat/flood resilience features; those would introduce potential secondary categories, but they are not inherent to the mechanism of modal shift via active-transport infrastructure investment.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“Implement the 2020 Proposition B voter-approved general obligation bonds”; “transportation infrastructure”; “sidewalks”; “bikeways”; “urban trails”; “safety projects”; “safe routes to school”; “substandard streets”; “low-income communities and communities of color”",
+  "co_benefits": "Improved road safety and reduced traffic injuries; improved access/mobility for underserved communities (equity); public health benefits from active travel; potential air-quality improvements; improved connectivity to schools/services.",
+  "instance_edge_case_notes": "Although sidewalks/bikeways can have resilience/safety benefits during extreme heat or emergencies, no local hazard/vulnerability context is provided and the mechanism described is primarily mitigation via mode shift."
+}

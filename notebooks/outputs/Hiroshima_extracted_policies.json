@@ -1,0 +1,416 @@
+[
+  {
+    "policy_statement": "Set citywide greenhouse gas emissions reduction targets for FY2020, FY2030, and FY2050 relative to FY2013.",
+    "verbatim_text": "## 2. Reduction target for greenhouse gas emissions\n\n| Timeframe            | Target Year   | Reduction Target (Total Target Amount)            |\n|----------------------|---------------|---------------------------------------------------|\n| Long-term Target     | FY2050        | Compared to FY2013 ▲ 80%                          |\n| Mid-term Target *1   | FY2030        | Compared to FY2013 ▲ 30%                          |\n| Short-term Target *2 | FY2020        | Compared to FY2013 ▲ 5% (Compared to FY2005 ▲ 7%) |",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) — 2. Reduction target for greenhouse gas emissions",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Quantified, time-bound mitigation targets adopted by the city (80% by FY2050; 30% by FY2030; 5% by FY2020)."
+  },
+  {
+    "policy_statement": "Set sector- and gas-specific mid-term (FY2030) reduction targets, including CO2 reductions by sector and reductions for methane, nitrous oxide, and fluorinated gases.",
+    "verbatim_text": "## *1 Setting of targets by sectors in the mid-term target\n\nApart from the total target amount, we set the targets by sector as follows:\n\n- -Carbon Dioxide: Industry sector ▲ 7%, Consumer/household sector ▲ 40%, Consumer/business sector ▲ 40%, Transport sector ▲ 28%, Waste ▲ 6.7%\n- -Methane ▲ 12.3%\n- -Dinitrogen monoxide: ▲ 6.1%\n- -4 gases such as chlorofluorocarbon alternatives: ▲ 25.1%",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) — *1 Setting of targets by sectors in the mid-term target",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Contains specific quantitative reduction targets by sector and by non-CO2 gases."
+  },
+  {
+    "policy_statement": "Set a short-term energy-use reduction target of 5% (energy use not affected by electricity emission factors).",
+    "verbatim_text": "## *2 Setting of short-term energy reduction target\n\nTotal amount of energy use that is not affected by the carbon dioxide emission factor of electric utility\n\n- -Total amount of energy use: ▲ 5%",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) — *2 Setting of short-term energy reduction target",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit quantified target (5%) tied to near-term implementation framing."
+  },
+  {
+    "policy_statement": "Organize Hiroshima’s mitigation approach around four pillars (values, innovative technology, low-carbon city development, and a low-carbon city network) with phased focus before and after FY2020 toward FY2050.",
+    "verbatim_text": "In order to achieve the vision for Hiroshima, the direction of measures is restructured into the following 4 pillars...\n\nBasically, until the deadline of the short-term targets in FY2020, the actions will focus on the first and second pillars...\n\nFrom FY2020... the focus will move on to the third and fourth pillars, realizing the city Hiroshima aims to become by FY2050.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) — 3. Direction of measures for achieving the reduction target",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Defines a named, structured programmatic approach (four pillars) and a time-phased implementation commitment, with multiple sub-measure groupings under it."
+  },
+  {
+    "policy_statement": "Implement mitigation measures in the household sector and manage progress using KPIs.",
+    "verbatim_text": "## ◆ Household\n\nConsidering the frameworks of measures, measures for each scene of daily life and social economic activities will be promoted as follows. The achievement status of the greenhouse effect gas reduction target by implementing these measures will be managed by setting the KPI (Key Performance Indicator)*.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) — 5. Concrete measures for achieving the reduction target — Household",
+    "sector": "Buildings",
+    "extraction_rationale": "Introduces a package of household measures with multiple specific actions and KPIs listed beneath."
+  },
+  {
+    "policy_statement": "Promote household energy-saving actions and environmental learning/education through global warming prevention campaigns.",
+    "verbatim_text": "Take measures to promote energy saving actions and environment-related learning/education by global warming prevention campaign, etc.",
+    "policy_type": "sub",
+    "parent_policy_name": "Household",
+    "section_header": "Chapter 5 — Concrete measures — Household",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific intervention (campaign-based promotion of energy saving and education) under the household measures."
+  },
+  {
+    "policy_statement": "Promote introduction of low-carbon housing/buildings using innovative technologies (ZEH/ZEB) and energy-saving devices based on the Top Runner Program.",
+    "verbatim_text": "Take measures to promote the introduction of low-carbon houses with high energy-saving effect using innovative technology such as Net Zero Energy House (hereinafter called 'ZEH') and Net Zero Energy Building (hereinafter called 'ZEB'), and energy saving devices based on the state's Top Runner Program.",
+    "policy_type": "sub",
+    "parent_policy_name": "Household",
+    "section_header": "Chapter 5 — Concrete measures — Household",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific interventions (ZEH/ZEB and Top Runner devices) clearly stated as measures to be promoted."
+  },
+  {
+    "policy_statement": "Promote a shift to environmentally-friendly lifestyles by developing low-carbon communities with residents’ initiative.",
+    "verbatim_text": "Promote the shift to an environmentally-friendly lifestyle developing low-carbon communities, etc. with residents' initiative, under the concept of 'Develop our town by ourselves'.",
+    "policy_type": "sub",
+    "parent_policy_name": "Household",
+    "section_header": "Chapter 5 — Concrete measures — Household",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Concrete community-level intervention commitment (develop low-carbon communities) under household measures."
+  },
+  {
+    "policy_statement": "Implement mitigation measures in the business activities sector with KPIs (including energy management and CFC device management; ZEB and Top Runner devices; lower-carbon business practices).",
+    "verbatim_text": "## ◆ Business activities\n\nTake measures to promote energy management and energy saving actions, as well as thorough management of devices using chlorofluorocarbons...\n\nTake measures to promote the introduction of... ZEB... and energy saving devices...\n\nPromote the shift to the environmentally-friendly business style...",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) — 5. Concrete measures — Business activities",
+    "sector": "Industry",
+    "extraction_rationale": "Business-activity measures are presented as a grouped set with multiple explicit actions and KPI table."
+  },
+  {
+    "policy_statement": "Promote energy management and energy-saving actions and ensure thorough management of devices using chlorofluorocarbons.",
+    "verbatim_text": "Take measures to promote energy management and energy saving actions, as well as thorough management of devices using chlorofluorocarbons that have an extremely high greenhouse effect.",
+    "policy_type": "sub",
+    "parent_policy_name": "Business activities",
+    "section_header": "Chapter 5 — Concrete measures — Business activities",
+    "sector": "Industry",
+    "extraction_rationale": "Specific intervention combining energy management and high-GWP refrigerant management."
+  },
+  {
+    "policy_statement": "Promote introduction of low-carbon buildings (ZEB) and energy-saving devices based on the Top Runner Program in business activities.",
+    "verbatim_text": "Take measures to promote the introduction of low-carbon houses with high energy-saving effect using innovative technology such as ZEB, and energy saving devices based on the state's Top Runner Program.",
+    "policy_type": "sub",
+    "parent_policy_name": "Business activities",
+    "section_header": "Chapter 5 — Concrete measures — Business activities",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific technology interventions (ZEB and Top Runner devices) for the business sector."
+  },
+  {
+    "policy_statement": "Promote a shift to environmentally-friendly business styles by reducing CO2 in products/services and by promoting eco-friendly contracts and economic approaches (green purchase/green fund).",
+    "verbatim_text": "Promote the shift to the environmentally-friendly business style by promoting the reduction of carbon dioxide in product/services, and by improving carbon dioxide emission factors of electric utilities through the promotion of eco-friendly contracts and economic approaches such as green purchase/green fund, etc.",
+    "policy_type": "sub",
+    "parent_policy_name": "Business activities",
+    "section_header": "Chapter 5 — Concrete measures — Business activities",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Explicit policy instruments (eco-friendly contracts, green purchase/fund) and decarbonization actions."
+  },
+  {
+    "policy_statement": "Implement mitigation measures in the transport sector (eco-driving/public transport, next-generation vehicles, and low-carbon transport system improvements) with KPIs.",
+    "verbatim_text": "## ◆ Transport\n\nPromote the eco-driving and use of public transport, etc.\n\nPromote introduction of next generation vehicles such as electric vehicles and clean diesel cars.\n\nMake transport smart and low-carbon by enhancing public transport... preparing the bicycle/pedestrian network...",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) — 5. Concrete measures — Transport",
+    "sector": "Transport",
+    "extraction_rationale": "Transport measures are grouped with multiple concrete interventions and KPI targets."
+  },
+  {
+    "policy_statement": "Promote eco-driving and the use of public transport (and related actions such as reducing food miles).",
+    "verbatim_text": "Promote the eco-driving and use of public transport, etc., as well as local food production for local consumption for food miles reduction, etc.",
+    "policy_type": "sub",
+    "parent_policy_name": "Transport",
+    "section_header": "Chapter 5 — Concrete measures — Transport",
+    "sector": "Transport",
+    "extraction_rationale": "Concrete behavior and modal-shift interventions stated as measures."
+  },
+  {
+    "policy_statement": "Promote introduction of next generation vehicles such as electric vehicles and clean diesel cars.",
+    "verbatim_text": "Promote introduction of next generation vehicles such as electric vehicles and clean diesel cars.",
+    "policy_type": "sub",
+    "parent_policy_name": "Transport",
+    "section_header": "Chapter 5 — Concrete measures — Transport",
+    "sector": "Transport",
+    "extraction_rationale": "Specific technology intervention: next-generation vehicles."
+  },
+  {
+    "policy_statement": "Enhance public transport and prepare bicycle/pedestrian networks and road improvements to make transport smart and low-carbon.",
+    "verbatim_text": "Make transport smart and low-carbon by enhancing public transport as well as by preparing the bicycle/pedestrian network as well as promoting road improvement for alleviating traffic congestion, etc.",
+    "policy_type": "sub",
+    "parent_policy_name": "Transport",
+    "section_header": "Chapter 5 — Concrete measures — Transport",
+    "sector": "Transport",
+    "extraction_rationale": "Specific infrastructure/system interventions to reduce transport emissions."
+  },
+  {
+    "policy_statement": "Implement mitigation measures in the waste sector (waste reduction/recycling, efficiency of waste power generation, biomass plastics) with KPIs.",
+    "verbatim_text": "## ◆ Waste\n\nPromote educational activities... in waste reduction and recycling.\n\nIncrease the efficiency of waste power generation...\n\n...promoting the shift... to using biomass plastic...",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) — 5. Concrete measures — Waste",
+    "sector": "Waste",
+    "extraction_rationale": "Waste measures are presented as a bundled set with multiple explicit actions and KPI targets."
+  },
+  {
+    "policy_statement": "Promote educational activities so citizens and businesses reduce waste and recycle.",
+    "verbatim_text": "Promote educational activities to make citizens and business operators take initiatives in waste reduction and recycling.",
+    "policy_type": "sub",
+    "parent_policy_name": "Waste",
+    "section_header": "Chapter 5 — Concrete measures — Waste",
+    "sector": "Waste",
+    "extraction_rationale": "Concrete intervention (education/awareness) aimed at waste reduction and recycling."
+  },
+  {
+    "policy_statement": "Increase efficiency of waste power generation and improve recycling rates at construction sites.",
+    "verbatim_text": "Increase the efficiency of waste power generation and the recycling rate of construction by-product produced at construction sites.",
+    "policy_type": "sub",
+    "parent_policy_name": "Waste",
+    "section_header": "Chapter 5 — Concrete measures — Waste",
+    "sector": "Waste",
+    "extraction_rationale": "Specific operational/technology improvement commitment in waste management."
+  },
+  {
+    "policy_statement": "Promote a shift from petroleum-derived plastics to biomass plastics to reduce greenhouse gas emissions from burning plastics.",
+    "verbatim_text": "Construct the circulating system of resources... by promoting the shift from using petroleum-derived plastic that emits a large amount of greenhouse effect gases at burning to using biomass plastic whose raw materials are carbon-free plants, etc.",
+    "policy_type": "sub",
+    "parent_policy_name": "Waste",
+    "section_header": "Chapter 5 — Concrete measures — Waste",
+    "sector": "Waste",
+    "extraction_rationale": "Specific intervention: substitution toward biomass plastics."
+  },
+  {
+    "policy_statement": "Implement measures for forest absorption/greening, including tree planting, woody biomass, forest conservation, and heat-island countermeasures, with KPIs.",
+    "verbatim_text": "## ◆ Source of forest absorption /planting trees\n\n- 1) ... Education and promotion of tree planting...\n- 2) ... introduction of woody biomass\n- 3) ... Conservation and tree planting...\n- 4) Countermeasures against heat-island phenomenon Promote to increase greenery on the top and sides of buildings...",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) — 5. Concrete measures — Source of forest absorption /planting trees",
+    "sector": "AFOLU",
+    "extraction_rationale": "Grouped land/biomass/greening measures with multiple listed actions and KPI table."
+  },
+  {
+    "policy_statement": "Educate and promote tree planting on private lands and forest creation by citizens.",
+    "verbatim_text": "- 1) Promotion of development of environmentally-friendly people and offices (Change of Values) Education and promotion of tree planting on private lands and creation of forests by citizens",
+    "policy_type": "sub",
+    "parent_policy_name": "Source of forest absorption /planting trees",
+    "section_header": "Chapter 5 — Concrete measures — Source of forest absorption /planting trees",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific intervention: private-land tree planting and citizen-led forest creation."
+  },
+  {
+    "policy_statement": "Promote tree planting on private lands and introduce woody biomass.",
+    "verbatim_text": "- 2) Promotion of large-scale introduction of innovative technology (Change of Action) Promotion of tree planting on private lands as well as the introduction of woody biomass",
+    "policy_type": "sub",
+    "parent_policy_name": "Source of forest absorption /planting trees",
+    "section_header": "Chapter 5 — Concrete measures — Source of forest absorption /planting trees",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific intervention: woody biomass introduction and tree planting."
+  },
+  {
+    "policy_statement": "Conserve and plant trees on green lands to create and preserve healthy forests.",
+    "verbatim_text": "- 3) Promotion of development of low-carbon city (Change of Social System) Conservation and tree planting on green lands, creating and preserving healthy forests",
+    "policy_type": "sub",
+    "parent_policy_name": "Source of forest absorption /planting trees",
+    "section_header": "Chapter 5 — Concrete measures — Source of forest absorption /planting trees",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific land management commitment for forest health and carbon sink."
+  },
+  {
+    "policy_statement": "Increase greenery on roofs and building sides and utilize water/green networks as heat-island countermeasures.",
+    "verbatim_text": "- 4) Countermeasures against heat-island phenomenon Promote to increase greenery on the top and sides of buildings in the city, utilizing the network of rich water and greenery from our forests, green land, rivers, coasts, etc., which are the city's characteristics, under the three pillars of measure directions.",
+    "policy_type": "sub",
+    "parent_policy_name": "Source of forest absorption /planting trees",
+    "section_header": "Chapter 5 — Concrete measures — Source of forest absorption /planting trees",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete urban greening intervention framed as heat-island countermeasures."
+  },
+  {
+    "policy_statement": "Implement cross-sectional mitigation measures including an all-citizens energy-saving campaign and education on smart communities; promote dispersed power systems and smart community foundations; and promote a sustainable low-carbon city including hydrogen innovation support.",
+    "verbatim_text": "## ◆ Cross-sectional measures\n\n1) ... conduct 'Breaking Free from Global Warming! All citizens Campaign (tentative)'...\n\n2) ... Promote and expand the use of the dispersed power system...\n\n3) ... promoting smart community, supporting innovation with new energies, e.g., hydrogen, etc...",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) — 5. Concrete measures — Cross-sectional measures",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "A distinct grouped package titled 'Cross-sectional measures' with multiple concrete actions listed."
+  },
+  {
+    "policy_statement": "Conduct an all-citizens campaign aligned with 'COOL CHOICE' to reduce GHG emissions through energy saving and environmentally-friendly actions, and educate about smart communities.",
+    "verbatim_text": "In response to the statewide movement 'COOL CHOICE'... conduct 'Breaking Free from Global Warming! All citizens Campaign (tentative)' that aims to reduce greenhouse gas emissions by saving energy, etc...\n\nFurther, educate people and promote the meaning and necessity of... the smart community...",
+    "policy_type": "sub",
+    "parent_policy_name": "Cross-sectional measures",
+    "section_header": "Chapter 5 — Cross-sectional measures — 1) Change of Values",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Specific intervention: named campaign with explicit aim (reduce emissions) plus education component."
+  },
+  {
+    "policy_statement": "Promote and expand dispersed power systems for effective community energy use and emergency power, building the foundation of a smart community.",
+    "verbatim_text": "Promote and expand the use of the dispersed power system whose energy can be effectively used in a community as well as an emergency power source at the time of disaster, and build the foundation of a smart community.",
+    "policy_type": "sub",
+    "parent_policy_name": "Cross-sectional measures",
+    "section_header": "Chapter 5 — Cross-sectional measures — 2) Change of Action",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete energy-system intervention (distributed power) with resilience co-benefit."
+  },
+  {
+    "policy_statement": "Promote construction of a sustainable low-carbon city by promoting smart communities, supporting innovation in new energies (e.g., hydrogen), and building a city with little environmental impact.",
+    "verbatim_text": "Promote the construction of a sustainable low-carbon city by promoting smart community, supporting innovation with new energies, e.g., hydrogen, etc., and promoting the building of a city with little effect on the environment.",
+    "policy_type": "sub",
+    "parent_policy_name": "Cross-sectional measures",
+    "section_header": "Chapter 5 — Cross-sectional measures — 3) Change of Social System",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Explicit commitments to promote smart communities and support hydrogen/new energy innovation."
+  },
+  {
+    "policy_statement": "Promote a low-carbon city network via cooperation in the greater Hiroshima area and with domestic/international city networks (ICLEI/Compact of Mayors) to share achievements and build cooperation systems.",
+    "verbatim_text": "## ◆ Promotion of low-carbon city network\n\nWe will share Hiroshima City's achievements with neighboring towns and consider a system to promote the introduction of eco-friendly energy...\n\n...the city aims to achieve 'Compact of Mayors' for the first time in Japan, share our achievements and leading measures by other cities, build the system to cooperate with domestic and international cities for creating synergy...",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) — Promotion of low-carbon city network",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Named program area (low-carbon city network) with multiple cooperation measures under it."
+  },
+  {
+    "policy_statement": "Share achievements with neighboring towns and consider a system to promote introduction of eco-friendly energy, including next-generation energy such as woody biomass, small hydro, and hydrogen in the greater Hiroshima area.",
+    "verbatim_text": "We will share Hiroshima City's achievements with neighboring towns and consider a system to promote the introduction of eco-friendly energy... and plan measures to promote the introduction of the next generation energy such as woody biomass, small hydroelectric generation and hydrogen, etc.",
+    "policy_type": "sub",
+    "parent_policy_name": "Promotion of low-carbon city network",
+    "section_header": "Chapter 5 — Promotion of low-carbon city network — 1) Measures in greater Hiroshima city area",
+    "sector": "Energy",
+    "extraction_rationale": "Specific cooperative intervention including examples of technologies (biomass, small hydro, hydrogen)."
+  },
+  {
+    "policy_statement": "Cooperate with domestic and international cities through networks such as ICLEI and Compact of Mayors, aiming to achieve Compact of Mayors and create synergies.",
+    "verbatim_text": "Hiroshima City is an executive board member city of the Japan Bureau of 'ICLEI'... as well as a member city of 'Compact of Mayors'...\n\nthe city aims to achieve 'Compact of Mayors' for the first time in Japan... build the system to cooperate with domestic and international cities for creating synergy...",
+    "policy_type": "sub",
+    "parent_policy_name": "Promotion of low-carbon city network",
+    "section_header": "Chapter 5 — Promotion of low-carbon city network — 2) Cooperation with domestic and international cities",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Clear cooperation commitment and stated aim related to Compact of Mayors."
+  },
+  {
+    "policy_statement": "Adopt an adaptation strategy with two pillars (understanding and comprehensive risk-handling capacity) and implement three measures: promoting understanding, building resilient city, and learning/evaluating climate impacts.",
+    "verbatim_text": "## 2. Direction and structure of measures\n\nAdaptation measures will have 2 pillars as the directions of measures; under those pillars, there are 3 measures that will be comprehensively developed in line with the plan.\n\n<<First Pillar>> Improvement of acknowledgement and understanding of climate change and its effect\n\n<<Second Pillar>> Improvement of regions' comprehensive ability to deal with climate change risks\n\n<Measures> Creating environment to promote understanding climate change and its effect\n\n<Measures> Building of a city with resilience against climate\n\nBuilding of a system to learn and evaluate the effect of climate change",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Chapter 6: Adapting to the effects of climate change (Adaptation) — 2. Direction and structure of measures",
+    "sector": "Adaptation",
+    "extraction_rationale": "Defines structured adaptation framework and enumerates three concrete measures, enabling parent/sub extraction."
+  },
+  {
+    "policy_statement": "Create an environment to promote understanding of climate change impacts through publicity/education, school sub-readings, and delivery lectures.",
+    "verbatim_text": "## 1) Creating an environment to promote understanding of climate change and its effect\n\nPromote the creation of an environment for more accurate understanding of climate change and its effect.\n\n## ◇ Main measures\n\n- -New Publicity and education using the city's PR magazine... and the city website,\n- -New Preparation of sub-readings available for school education,\n- -New Delivery lecture by the city and Hiroshima City Global Warming Countermeasure Regional Council, etc.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 6: Adaptation — 3. Concrete measures — 1) Creating an environment to promote understanding",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit action list (publicity/education materials and lectures) constitutes a concrete adaptation measure."
+  },
+  {
+    "policy_statement": "Advance adaptation measures with an added 'adaptation' viewpoint, focusing particularly on natural disasters/coast area, health, and people's life/city life; and steadily promote selected measures from the FY2015 comprehensive strategy.",
+    "verbatim_text": "## 2)    Building resilience against climate change\n\n...particularly, the city will focus on the items of 'natural disaster/coast area', 'health' and 'people's life/city life'...\n\n...they will be advanced with the additional 'adaptation' viewpoint.\n\nWe choose the effective measures for adaptation from the ... strategy ... prepared in FY2015; based on these measures, the city will conduct the steady promotion.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 6: Adaptation — 3. Concrete measures — 2) Building resilience against climate change",
+    "sector": "Adaptation",
+    "extraction_rationale": "Clear commitment to focus areas and to advance/steadily promote selected measures."
+  },
+  {
+    "policy_statement": "Implement measures against short-duration heavy rain including city renovation for disaster prevention, a disaster information sharing system, and enhanced disaster information delivery.",
+    "verbatim_text": "【 Measures against increase of heavy rain in short time 】\n\n- -City renovation for disaster prevention, construction of disaster information sharing system, enhancement of disaster information delivery system",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 6: Adaptation — Main measures (heavy rain)",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific adaptation interventions for extreme rainfall risks."
+  },
+  {
+    "policy_statement": "Implement health adaptation measures by publicizing heat disorder risks and providing heat disorder prevention information.",
+    "verbatim_text": "【 Measures against the effect of climate change on health due to the temperature rises, etc. 】\n\n- -Publicity on heat disorder, information provision of heat disorder prevention",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 6: Adaptation — Main measures (health/heat disorder)",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete public health actions specified for heat impacts."
+  },
+  {
+    "policy_statement": "Implement heat/heat-island countermeasures by creating water and green networks through conservation/creation of public open spaces and promoting rooftop/wall greening (including via green promotion systems).",
+    "verbatim_text": "【 Countermeasures against heat (heat island phenomenon, etc.) 】\n\n- -Creation of water and green network by the conservation and creation of public open space such as rivers and roads through which the wind passes; promotion of greenery increase on roof and walls of buildings (including those by the green promotion system).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 6: Adaptation — Main measures (heat island)",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific, implementable urban adaptation measures are enumerated."
+  },
+  {
+    "policy_statement": "Cooperate with the state and universities to consider a system to learn and evaluate climate change effects to time adaptation measures appropriately.",
+    "verbatim_text": "## 3)    Building of a system to learn and evaluate the effects of climate change\n\n...the city will cooperate with the state and universities and consider a system to learn and evaluate.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 6: Adaptation — 3. Concrete measures — 3) Building of a system to learn and evaluate",
+    "sector": "Adaptation",
+    "extraction_rationale": "Institutional commitment to establish an evaluation/learning system with named partners."
+  },
+  {
+    "policy_statement": "Set government-operations greenhouse gas reduction targets for the city office: 5.1% by FY2020 and 30% by FY2030 (base year FY2013), plus FY2020 targets by emission type (administration offices, waste, sewage, water).",
+    "verbatim_text": "## 3. Reduction target\n\n| Segment           | Base Year | Target Year | ... | City office |\n| Short-term target | FY2013    | FY2020      | ... | ▲ 5.1%      |\n...\n| Mid-term target   | FY2013    | FY2030      | ... | ▲ 30%       |\n\n...Target by emission type... Emissions from offices concerning municipal administration ... ▲ 9.1%\n... Emissions from waste processing ... ▲ 1.1%\n... Emissions from sewage processing ... ▲ 4.1%\n... Emissions from water supply ... ▲ 2.4%",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 7: Government operations — 3. Reduction target",
+    "sector": "Public sector",
+    "extraction_rationale": "Quantified, time-bound targets specifically for municipal operations, including breakdown by emission source."
+  },
+  {
+    "policy_statement": "Change the administration system to reduce GHG emissions via (1) eco-friendly (green) contract system, (2) green procurement under Hiroshima City Green Purchase Policy, and (3) thorough application of energy-saving specifications for city-owned buildings.",
+    "verbatim_text": "## 4. Policy direction\n\nThe city will also change the 'system' of administration as follows...\n1. Introduction of contract system based on the eco-friendly contract laws(*)\n2. 'Promotion of procuring of environmental goods based on 'Hiroshima City Green Purchase Policy'\n3. Thorough application of 'Energy saving specification of city-owned buildings'",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 7: Government operations — 4. Policy direction",
+    "sector": "Public sector",
+    "extraction_rationale": "Lists specific administrative policy instruments and procurement/building requirements."
+  },
+  {
+    "policy_statement": "Count surplus power from waste power generation after self-consumption as greenhouse gas emissions reductions to promote eco-friendly energy use.",
+    "verbatim_text": "In order to promote the use of eco-friendly energy, surplus power from waste power generation, etc., after self-consumption is counted as the reduction of greenhouse gas emissions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 7: Government operations — 4. Policy direction",
+    "sector": "Energy",
+    "extraction_rationale": "Defines a concrete accounting/implementation approach tied to municipal energy/waste power."
+  },
+  {
+    "policy_statement": "Implement planned introduction of high energy-saving facilities and efficient resource/energy use for waste, sewage, and water-supply operations.",
+    "verbatim_text": "For the emission of greenhouse effect gases from processing waste, sewage and water supply, the planned introduction of the facilities with a high-energy saving effect and efficient use of resource/energy are conducted.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 7: Government operations — 4. Policy direction",
+    "sector": "Public sector",
+    "extraction_rationale": "Operational commitment to introduce energy-saving/efficient facilities across municipal utilities."
+  },
+  {
+    "policy_statement": "Implement specific municipal-operations measures including green power contracts, LED retrofits, facility renewal/ESCO, next-generation vehicle renewal and eco-driving, and solar/woody biomass introduction to reduce emissions from municipal administration offices.",
+    "verbatim_text": "## 5. Main measures by emission source and estimated reduction of greenhouse gas emissions\n\nEmissions from offices concerning municipal administration ...\nPower contract based on eco-friendly contract laws ...\nIntroduction of LED lighting ...\nFacility renewal by ESCO project ...\nIntroduction of the next generation vehicles ...\nThorough conduct of eco-drive ...\nIntroduction of solar power and woody biomass, etc.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 7: Government operations — 5. Main measures by emission source and estimated reduction",
+    "sector": "Public sector",
+    "extraction_rationale": "Contains a concrete list of specific interventions for municipal operations (contracts, LEDs, ESCO, fleet, renewables/biomass)."
+  },
+  {
+    "policy_statement": "Establish a 'Low-carbon City Development Citizens Conference (tentative)' as a system for citizens, businesses, and administrators to act together.",
+    "verbatim_text": "## 1. Plan promotion system and progress management\n\nBy preparing this plan, 'Low-carbon City Development Citizens Conference (tentative)' representing citizens, business operators and administrators, etc., is established as a system to take actions together.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 8: Plan Promotion — 1. Plan promotion system and progress management",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Institutional setup commitment (establishment of a multi-stakeholder conference)."
+  },
+  {
+    "policy_statement": "Evaluate achievement status in FY2020 and revise measure directions and GHG reduction targets based on domestic/international and socio-economic changes, updating or preparing the next plan.",
+    "verbatim_text": "## 2. Revision of plan\n\nIn the short-term target year in this plan (FY2020), the achievement status of measures will be evaluated, and directions of measures and reduction target of greenhouse effect gases, etc., will be revised ... and then the plan will be changed or the next plan will be prepared.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 8: Plan Promotion — 2. Revision of plan",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Explicit commitment to a review/revision process tied to a specific year (FY2020)."
+  }
+]

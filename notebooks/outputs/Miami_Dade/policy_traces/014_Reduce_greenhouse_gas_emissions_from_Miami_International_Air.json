@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Reduce greenhouse gas emissions from Miami International Airport operations by 50% and PortMiami operations by 25% by 2030.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "transport_operations_ghg_target → transport_emissions_reduction",
+  "mechanism_description": "Set GHG-reduction targets for airport and port operations to drive operational changes and investments that reduce transportation-related emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Operational target-setting → operational changes/investment → ↓ fuel combustion (and leakage) → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Changed human activity/system: Management and operation of transport hubs and fleets (airport/port energy use, ground support equipment, terminal energy, harbor craft, idling/throughput operations) are governed by a quantified GHG target and deadline.  \n2) Mediating physical process: Implemented measures reduce fossil fuel combustion and/or substitute lower-carbon energy (electrification with cleaner grids, renewable electricity procurement, efficiency upgrades), thereby reducing CO₂ emissions (and potentially CH₄/N₂O depending on fuels/processes).  \n3) Climate-relevant outcome: Net reduction in transportation-operations GHG emissions relative to baseline.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced operational fuel use and combustion emissions from transport facilities, leading to lower GHG emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: A GHG-reduction target for transport operations most directly functions to cut emissions from those operations.  \n2) Why this primary over alternatives: While targets can co-deliver cost savings or local air-quality benefits, the mechanism is explicitly designed around GHG outcomes; the largest climate effect is emissions abatement (Mitigation).  \n3) Inherent causal chain for each secondary: None are unavoidable—resource efficiency or adaptation benefits may occur depending on chosen measures but are not guaranteed by target-setting alone.  \n4) Edge cases applied: If a target is met primarily via offsets or renewable energy credits without operational changes, the mechanism still aims at mitigation (accounting-based emissions reduction), but physical co-benefits become less certain.  \n5) Confirm labels apply to ALL instances: Any policy that sets operational GHG targets for transport facilities is fundamentally intended to reduce GHG emissions, so Mitigation applies consistently.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Targets may be achieved via accounting measures (offsets/RECs) rather than direct fuel/energy reductions; co-benefits like energy efficiency (Resource Efficiency) or resilience upgrades (Adaptation) are optional implementation choices, not inherent to the mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"REDUCE GREENHOUSE GAS EMISSIONS\"; \"Miami International Airport\"; \"PortMiami operations\"; \"by 50% and 25%\"; \"by 2030\"",
+  "co_benefits": "Potential air quality and public health benefits from reduced fuel combustion (criteria pollutants), and potential operational cost savings from efficiency—however not explicitly stated.",
+  "instance_edge_case_notes": "Instrument directness is treated as enabling because the text specifies a reduction target but does not specify the binding measures (e.g., mandates, standards, investments) that would directly produce the emissions cuts."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Retrofit 20% of total industrial buildings by 2030.",
+  "role": "sub",
+  "sector": "industry",
+  "canonical_mechanism": "commercial_building_retrofit → energy_use_reduction",
+  "mechanism_description": "Retrofitting industrial buildings upgrades equipment/envelopes so they use less energy, reducing associated greenhouse gas emissions from energy consumption.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Retrofit measures (insulation, HVAC upgrades, controls, efficient lighting/equipment) deliver the same building services with less energy input, i.e., improved energy productivity as an inherent physical consequence of the mechanism.",
+  "primary_causal_pathway": "Building systems/envelope upgrades → ↓ building energy demand → ↓ fuel/electricity consumption → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Existing commercial/industrial/public building stock is retrofitted via efficiency upgrades (envelope improvements, HVAC replacement/optimization, controls, lighting and equipment upgrades, commissioning).  \n(2) Process: Reduced heat transfer losses/gains and improved conversion/control efficiency lowers delivered energy required for the same comfort/operations.  \n(3) Outcome: Lower operational energy consumption reduces upstream and on-site combustion emissions (CO₂e) associated with providing that energy.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced operational energy use in existing buildings, which lowers GHG emissions from on-site fuel combustion and/or grid electricity generation.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: retrofit → lower energy use → lower energy-related GHG emissions, which is a direct mitigation pathway.  \n2) Why this primary over alternatives: while retrofits can incidentally improve comfort or resilience, the mechanism as stated and implemented is explicitly energy-use reduction leading to emissions reduction; that is the largest and most consistent climate effect across instances.  \n3) Inherent secondary chain(s): Resource Efficiency is inherent because achieving “energy use reduction” necessarily means providing the same service with less energy input.  \n4) Edge cases applied: if a retrofit includes electrification or fuel switching, emissions benefits depend on grid intensity, but the mechanism here is specifically energy reduction (still mitigation-dominant). If retrofits are for hazard hardening (e.g., floodproofing) without energy impacts, that would be adaptation—but that is a different mechanism.  \n5) Confirm labels apply to ALL instances: retrofitting industrial, city-owned, and commercial buildings to reduce energy use always reduces energy demand and therefore tends to reduce associated operational emissions (Mitigation) and improves energy productivity (Resource Efficiency).",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Emissions reductions magnitude can vary with rebound effects and grid carbon intensity; some retrofit bundles may target comfort/resilience (adaptation) or include on-site renewables/electrification, but those are additional mechanisms beyond “energy_use_reduction.”",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Retrofit\"; \"20% of total industrial buildings\"; \"by 2030\"",
+  "co_benefits": "Potential co-benefits: improved indoor thermal comfort for workers, reduced operating costs/energy bills, improved productivity, local air pollutant reductions (if fossil fuel use declines)",
+  "instance_edge_case_notes": "Could be interpreted as a regulatory mandate if the broader policy text specifies a binding requirement; with the provided text alone it reads as a non-specific target (no compliance mechanism, standard, or program described)."
+}

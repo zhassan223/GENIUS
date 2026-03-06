@@ -1,0 +1,407 @@
+[
+  {
+    "policy_statement": "Kuwait (EPA/KEPA) committed to ensure implementation of the National Adaptation Plan (NAP) through a national coordination mechanism and partnerships with governmental and non-governmental institutions.",
+    "verbatim_text": "“The Government of Kuwait, represented by the Environment Public Authority (EPA), has committed itself to ensure the implementation of its National Adaptation Plan (NAP), in partnership with other governmental and non-governmental institutions, furthermore A national coordination mechanism has been identified to implement a range of national initiatives to protect the various vital sectors from the Negative impacts of climate change.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "FOREWORD",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Explicit commitment by government/EPA to implement the NAP and establish a national coordination mechanism (specific intervention/implementation commitment)."
+  },
+  {
+    "policy_statement": "Establish an ongoing comprehensive monitoring program using environmental data and information, in partnership with stakeholders, to monitor climate change and assess impacts in Kuwait on an ongoing basis.",
+    "verbatim_text": "“One of the expected results is a comprehensive ongoing monitoring program through the necessary environmental data and information to monitor climate change and assess its impact on the State of Kuwait on an ongoing basis, In partnership with all stakeholders such as the academia, private sector and nongovernmental actors in the areas of adaptation to climate change.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "FOREWORD",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Concrete programmatic commitment (monitoring program) with defined purpose and stakeholder partnership."
+  },
+  {
+    "policy_statement": "Establish the Electronic Environmental Monitoring Information System of Kuwait (eMISK) to build and maintain a comprehensive geo-environmental database and GIS system for updating and analyzing environmental data.",
+    "verbatim_text": "“Kuwait Environmental Public Authority (EPA) has established an electronic environmental Monitoring Information System of Kuwait (eMISK) and beatona. The eMISK aims at building and maintaining a comprehensive geo-environmental database of Kuwait and a GIS system to facilitate updating and analyzing environmental data.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Specific named system established with clear function (specific intervention)."
+  },
+  {
+    "policy_statement": "Implement the Beatona initiative to increase public awareness by sharing real-time environmental news and information.",
+    "verbatim_text": "“While beatona initiative aims to increase public awareness through sharing real-time environmental news and information.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Specific public-awareness initiative with a defined mechanism."
+  },
+  {
+    "policy_statement": "Implement green belts and increase protected areas to adapt to dust storms, including planted green belts of 50–180 km length and 5–20 km width starting in 2015 for a 5-year duration.",
+    "verbatim_text": "“Kuwait has undertaken some adaptation projects such as implementing green belts project and increasing the protected areas to adapt to a dust storm. The green belt projects consist of planted areas with trees and shrubs of 50-180 Km in length and 5-20 Km in width. These projects have started in 2015 for 5-year duration time.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.1 Introduction / 4.2 Projects and National Initiatives",
+    "sector": "Health",
+    "extraction_rationale": "Concrete adaptation project with quantified dimensions and timeframe."
+  },
+  {
+    "policy_statement": "Implement the Kuwait Green Wall Project to increase protected areas by planting 315,000 trees along a 420 km wall on the borderline to hold back moving sand (started 2015, ongoing).",
+    "verbatim_text": "“Kuwait has implemented a project called 'Kuwait Green Wall Project. This project aims to increase the protected areas by planting 315,000 trees for 420 Km wall along the borderline to hold back the moving sand. … This project started in 2015 and still ongoing.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Health",
+    "extraction_rationale": "Specific named project with quantifiable target (trees, km) and start date."
+  },
+  {
+    "policy_statement": "Establish the 'Food security' project (2016) with FAO cooperation to undertake twelve projects across fisheries, water resources, natural resources, animal production, animal health, and technical capacity development with a budget of $850,000 and 1–5 year timeframe.",
+    "verbatim_text": "“In 2016, the project ' Food security ' was established. FAO in cooperation with the State of Kuwait planned to undertake twelve projects in the following fields: - Fisheries management; - Water resource management; - Natural resource management; - Animal production; - Animal health; - Technical capacity development. These projects have a time frame between 1-5 years… with a budget of $850,000.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "AFOLU",
+    "extraction_rationale": "Contains a named project, planned interventions, timeframe, and budget (resource allocation)."
+  },
+  {
+    "policy_statement": "Establish a regional database and information center to support fisheries management and aquaculture development (FAO/PAAFR), with a budget of $250,000/year (started Dec 2016).",
+    "verbatim_text": "“Establishment of a regional database and information center to support the fisheries management and aquaculture development, a joint project between PAAFR in Kuwait and FAO in December 2016. The project aims at establishing a regional database and information center… with a budget of $250,000/year.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific intervention with budget and start date."
+  },
+  {
+    "policy_statement": "Implement fisheries farms including Nile tilapia culture using brackish groundwater (5–8 ppt) in Al-Wafra, Abdali, and Al-Sulybia as a food security adaptation step, with a budget of $250,000/year.",
+    "verbatim_text": "“The establishment of fisheries farms is an important step to adapt to climate change under the food security sector. Nile tilapia (Oreochromis niloticus) culture is implemented… These farms are in the Al-Wafra, Abdali and Al-Sulybia areas. Brackish water with a salinity of 5-8 ppt pumped from underground wells is used in these farms. The budget for this project is also $250,000/year.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "AFOLU",
+    "extraction_rationale": "Concrete ongoing implementation with technical specifics and budget."
+  },
+  {
+    "policy_statement": "Build and commission additional desalination plants and desalination projects, including examples and planned tenders, to protect freshwater sources and maintain ecological stability.",
+    "verbatim_text": "“Building desalination plants. In the process of protecting freshwater sources and to maintain ecological stability. Kuwait has constructed several desalination plants… In 2016, Kuwait produced around 3.85 MCM/d of desalinated water. Eight additional plants were being commissioned by the government… While, 4 more projects… are planned to be tendered as of 2019.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Water",
+    "extraction_rationale": "Specific infrastructure intervention with quantitative production figure and planned pipeline of projects."
+  },
+  {
+    "policy_statement": "Invest USD 5.5 million jointly with MIT to conduct research on updating current and next-generation desalination plants (since 2016, ongoing).",
+    "verbatim_text": "“Kuwait is investing USD 5.5 million jointly with MIT to conduct researches on updating the current desalination plants and next-generation desalination plants. … The Government is responsible for the implementation of this project since 2016 and it is still ongoing.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Water",
+    "extraction_rationale": "Clear resource allocation (USD 5.5 million) to a defined R&D activity."
+  },
+  {
+    "policy_statement": "Provide education on in-house water desalination techniques in rural areas jointly with the United Nations (started 2016).",
+    "verbatim_text": "“Education on household desalination. Kuwait jointly with United Nations taught the Kuwaiti people in rural areas the 'in-house water desalination techniques', where households can have freshwater at low cost and short time. … The UNDP started this project up in 2016.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Water",
+    "extraction_rationale": "Specific intervention (training/education program) with start year and implementer."
+  },
+  {
+    "policy_statement": "Implement Kuwait Integrated Environmental Information Network Phase IV (KIEIN-IV) as an integrated GIS-based system for environmental indicators and spatial decision support, with a budget of $1,200,000 (2012–2014).",
+    "verbatim_text": "“Kuwait Integrated Environmental Information Network Phase-IV… an integrated GIS-based system… spatial decision support system tools (SDSS). … This project was running from 2012-2014 by the UNDP and EPA with a budget of $1,200,000.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Named project with budget and timeframe."
+  },
+  {
+    "policy_statement": "Implement the Kuwait Environmental Governance Initiative (KEGI) to support the design of the National Adaptation Plan and related initiatives, with a budget of $2,000,000 (2017–2018).",
+    "verbatim_text": "“Kuwait Environmental Governance Initiative (KEGI). The Project supports the design of the National Adaptation Plan (NAP) of Kuwait and the relevant initiatives linked to water, city planning, and other sectors. This project was running from 2017-2018 by the UNDP and EPA with a budget of $2,000,000.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Concrete program with budget and dates."
+  },
+  {
+    "policy_statement": "Establish land and marine nature reserves (Sabah Al-Ahmed and Jahra pool natural reserve areas) to safeguard marine and land ecosystems (2011–2016).",
+    "verbatim_text": "“Establishment of land and marine nature reserves. The project aims to establish a series of land and marine nature reserves in the State of Kuwait… These natural reserves are in Sabah Al-Ahmed natural reserve area and Jahra pool natural reserve area. … This project was running from 2011-2016 by the EPA.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Nature",
+    "extraction_rationale": "Specific conservation intervention with named sites and timeframe."
+  },
+  {
+    "policy_statement": "Apply water conservation technologies as an adaptation option to reduce water consumption by 20% (started 2012, ongoing; partially implemented).",
+    "verbatim_text": "“Water Conservation (Partially implemented)… the application of water conservation technologies was also one of the adaptation options to reduce water consumption by 20 %… the project started in 2012 and is still ongoing.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Water",
+    "extraction_rationale": "Quantified target (20% reduction) and implementation status/timeframe."
+  },
+  {
+    "policy_statement": "Establish a Coastal Information System (CIS) to support protection of coastal zones and marine environments by providing coastal information to planners and decision makers (started 2006, ongoing).",
+    "verbatim_text": "“Establishing a Coastal information system (CIS); Coastal Information System (CIS) was established to help in the protection of coastal zones and marine environments in Kuwait. CIS provides information about Kuwait's coastal area to planners and decision makers… The project was started in 2006 by KISR/CIS and is still ongoingg.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Coastal",
+    "extraction_rationale": "Named technology/information system with defined function and start date."
+  },
+  {
+    "policy_statement": "Construct tidal barriers (tidal gate system and offshore breakwater) in new coastal developments (Sabah Al Ahmad Sea City) to cope with sea level rise and protect from wave erosion (completed 2016).",
+    "verbatim_text": "“Constructing tidal barriers in new developments; Sabah Al Ahmad Sea City… constructed a tidal gate system and offshore breakwater… to cope with the rising sea levels… The project was completed in 2016.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Coastal",
+    "extraction_rationale": "Specific hard-infrastructure adaptation measure with completion year."
+  },
+  {
+    "policy_statement": "Implement the Coastal Management Program (CMP) to produce Integrated Coastal Zone Management (ICZM) for Kuwait; Phase 1 completed and Phase 2 ongoing (started 1979).",
+    "verbatim_text": "“Coastal Management Program; the CMP… was responsible to produce Integrated Coastal Zone Management (ICZM) for Kuwait. The ICZM consists of two phases, Phase 1 has already completed. While phase 2 is still ongoing. The project started in 1979, while phase 2 is still ongoing…”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Coastal",
+    "extraction_rationale": "Named long-running program with clear deliverable (ICZM) and status."
+  },
+  {
+    "policy_statement": "Initiate the Water Resources Development and Management Program (WRDM) to develop integrated water policies, management options, and action plans to solve water scarcity and increase water security and resilience (ongoing).",
+    "verbatim_text": "“Establishment of the Water Resources Program; A water resources development and management program (WRDM) was initiated… WRDM program was designed to develop integrated water policies, management options, and action plans to solve water scarcity problems and increase Kuwait's water security and resilience. The project is still ongoing…”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Water",
+    "extraction_rationale": "Specific program initiative with defined outputs (policies/action plans)."
+  },
+  {
+    "policy_statement": "Initiate the Wastewater Treatment and Reclamation Technologies Program to reclaim and reuse wastewater for irrigation; MPW states about 65% of treated wastewater is already reused in irrigation (ongoing).",
+    "verbatim_text": "“Wastewater Treatment and Reclamation Technologies Program; this program has been initiated… aims at conducting research on reclaiming and reusing Kuwait's wastewater to utilize it in irrigation purposes… Ministry of Public Works (MPW) stated that about 65% of its treated wastewater is reused in irrigation already. The project is still ongoing…”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Water",
+    "extraction_rationale": "Concrete program with specific reuse purpose; includes an implementation figure (65%)."
+  },
+  {
+    "policy_statement": "Conduct the Tarsheed campaign to reduce per-capita consumption of electricity and water (completed 2007).",
+    "verbatim_text": "“Tarsheed Campaign; Tarsheed campaign was an Initiative made to reduce the percapita consumption of electricity and water… The project was completed in 2007…”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Energy",
+    "extraction_rationale": "Specific named initiative with clear objective and completion date."
+  },
+  {
+    "policy_statement": "Utilize treated sewage effluent (TSE) from Umm Al-Hayman WWTP for irrigation of green and agricultural areas (2012–2018).",
+    "verbatim_text": "“Utilizing TSE water generated from Umm Al-Hayman WWTP in Irrigation purposes; TSE is utilized to irrigate the green areas and agricultural areas… The Ministry of Public Works (MPW) held this project from 2012-2018…”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Water",
+    "extraction_rationale": "Specific implementation measure with timeframe."
+  },
+  {
+    "policy_statement": "Ban outdoor work from 11:00 AM to 16:00 PM during June through August under a national law issued in 2005 (occupational heat protection).",
+    "verbatim_text": "“the Ministry of Social Affairs and Labor of Kuwait issued a national law in 2005 to stop any outdoor work from 11:00 AM to 16:00 PM during the months of June through August.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives (Item 30)",
+    "sector": "Health",
+    "extraction_rationale": "Binding mechanism (national law) with specific time restriction and period."
+  },
+  {
+    "policy_statement": "Issue new Articles No. 76 and 79 related to ambient air quality compliance and emission sources evaluation (2010).",
+    "verbatim_text": "“Issuing new Articles No. 76 and 79. Article No. 76 regarding the ambient air and Air Quality Zone Compliance actions and Article No. 79 regarding the emission sources and evaluation.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.3 Policies and Strategies on Climate Change Adaptation (Table 17)",
+    "sector": "Health",
+    "extraction_rationale": "Regulatory/legal instrument explicitly issued with defined compliance/evaluation scope."
+  },
+  {
+    "policy_statement": "Adopt Environment Protection Law No. 42/2014 including provisions for adapting to adverse impacts of climate change, reducing desertification, managing natural reserves and water resources, and creating disaster management plans.",
+    "verbatim_text": "“Environment Protection Law No. 42/2014: Adapting to the adverse impacts of climate change. The protection of land and soil, reducing desertification, management of natural reserves and water resources and creating plans for disaster management.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.3 Policies and Strategies on Climate Change Adaptation (Table 17)",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Binding mechanism (national law) with explicit adaptation-related content."
+  },
+  {
+    "policy_statement": "Adaptation plan program: Increase the resilience of the fisheries and marine sector to climate change, with an allocated budget of 3.4 million USD and identified responsible institutions.",
+    "verbatim_text": "| Increase the resilience of the fisheries and marine sector to climate change |\n...\n“Budget            | 3.4 million USD”\n“Responsibility    | • Public Authority for Agricultural Affairs and Fish Resources (PAAFR). • Kuwait Environment Protection Authority (KEPA) • Kuwait Institute for Scientific Research (KISR). • The General Secretariat of the Supreme Council for Planning and Development (SCPD)”",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "5.3.1 Adaptation Plans to enhance the resilience of the Fisheries and Marine Sector.",
+    "sector": "Marine",
+    "extraction_rationale": "A structured adaptation plan with multiple listed actions (short/medium/long-term) and a stated budget; serves as umbrella for sub-actions."
+  },
+  {
+    "policy_statement": "Enhance awareness by involving the local community in the protection and sustainable consumption of marine life.",
+    "verbatim_text": "“Short-term actions  ▪ Enhance awareness by involving the local community in the protection and sustainable consumption of marine life.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Increase the resilience of the fisheries and marine sector to climate change",
+    "section_header": "5.3.1 Adaptation Plans to enhance the resilience of the Fisheries and Marine Sector.",
+    "sector": "Marine",
+    "extraction_rationale": "Specific intervention listed as a short-term action under the fisheries/marine adaptation plan."
+  },
+  {
+    "policy_statement": "Provide financial and technical support to institutions and sectors responsible for marine life protection.",
+    "verbatim_text": "“Short-term actions … ▪ Provide financial and technical support to institutions and sectors responsible for marine life protection.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Increase the resilience of the fisheries and marine sector to climate change",
+    "section_header": "5.3.1 Adaptation Plans to enhance the resilience of the Fisheries and Marine Sector.",
+    "sector": "Marine",
+    "extraction_rationale": "Resource/support commitment stated as an action item."
+  },
+  {
+    "policy_statement": "Undertake risk and vulnerability assessment of the fishers' value chain.",
+    "verbatim_text": "“Short-term actions … ▪ Undertake risk and vulnerability assessment of the fishers' value chain.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Increase the resilience of the fisheries and marine sector to climate change",
+    "section_header": "5.3.1 Adaptation Plans to enhance the resilience of the Fisheries and Marine Sector.",
+    "sector": "Marine",
+    "extraction_rationale": "Concrete assessment activity under the plan."
+  },
+  {
+    "policy_statement": "Designate new marine protected areas (medium-term action).",
+    "verbatim_text": "“Medium-term actions  ▪ Designation of new marine protected areas.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Increase the resilience of the fisheries and marine sector to climate change",
+    "section_header": "5.3.1 Adaptation Plans to enhance the resilience of the Fisheries and Marine Sector.",
+    "sector": "Marine",
+    "extraction_rationale": "Specific conservation action listed under medium-term actions."
+  },
+  {
+    "policy_statement": "Develop a crisis plan and management to confront climate change effects (long-term action).",
+    "verbatim_text": "“Long-term actions … ▪ Develop a crisis plan and management to confront climate change effects.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Increase the resilience of the fisheries and marine sector to climate change",
+    "section_header": "5.3.1 Adaptation Plans to enhance the resilience of the Fisheries and Marine Sector.",
+    "sector": "Marine",
+    "extraction_rationale": "Specific planning/management intervention under long-term actions."
+  },
+  {
+    "policy_statement": "Adaptation plan program: Improve the resilience of systems for the water sector, with an allocated budget of 6.2 million USD and identified responsible institutions.",
+    "verbatim_text": "| Improve the resilience of systems for the water sector |\n...\n“Budget         | 6.2 million USD”\n“Responsibility | • Ministry of Electricity and Water • KISR. • Kuwait Environment Protection Authority (KEPA) • The General Secretariat of the Supreme Council for Planning and Development (SCPD) …”",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "5.3.2 Adaptation Plans to enhance the resilience of the Water Resources",
+    "sector": "Water",
+    "extraction_rationale": "Structured water-sector adaptation plan with multiple action items and a stated budget; appropriate as parent."
+  },
+  {
+    "policy_statement": "Increase water block-tariff to control unnecessary water consumption (medium-term action).",
+    "verbatim_text": "“Medium-term actions … ▪ Increase water block-tariff to control unnecessary water consumption.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Improve the resilience of systems for the water sector",
+    "section_header": "5.3.2 Adaptation Plans to enhance the resilience of the Water Resources",
+    "sector": "Water",
+    "extraction_rationale": "Concrete pricing policy instrument listed as an adaptation action."
+  },
+  {
+    "policy_statement": "Utilize water conservation technologies (short-term action).",
+    "verbatim_text": "“Short-term actions  ▪ … ▪ Utilize water conservation technologies.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Improve the resilience of systems for the water sector",
+    "section_header": "5.3.2 Adaptation Plans to enhance the resilience of the Water Resources",
+    "sector": "Water",
+    "extraction_rationale": "Specific technological intervention listed under short-term actions."
+  },
+  {
+    "policy_statement": "Adopt efficient irrigation methods to reduce water losses (medium-term action).",
+    "verbatim_text": "“Medium-term actions … ▪ Adapt efficient irrigation methods to reduce water losses.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Improve the resilience of systems for the water sector",
+    "section_header": "5.3.2 Adaptation Plans to enhance the resilience of the Water Resources",
+    "sector": "Water",
+    "extraction_rationale": "Specific adaptation measure for irrigation efficiency."
+  },
+  {
+    "policy_statement": "Involve more environmentally sustainable methods of water treatment like reverse osmosis to lower net energy consumption (long-term action).",
+    "verbatim_text": "“Long-term actions … ▪ Involve more environmentally sustainable methods of water treatment like Reverse osmosis, where the net energy consumption is lower than other methods.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Improve the resilience of systems for the water sector",
+    "section_header": "5.3.2 Adaptation Plans to enhance the resilience of the Water Resources",
+    "sector": "Water",
+    "extraction_rationale": "Specific technology shift proposed as long-term action."
+  },
+  {
+    "policy_statement": "Adaptation plan program: Enhance the resilience of coastal zones to face sea level rise (SLR) risks, with an allocated budget of 7.8 million USD and identified responsible institutions.",
+    "verbatim_text": "| Enhancing the resilience of coastal zones to face SLR risks |\n...\n“Budget                | 7.8 million USD”\n“Responsibility        | • Kuwait Environment Protection Authority (KEPA) • The General Secretariat of the Supreme Council for Planning and Development (SCPD). • KISR …”",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "5.3.3 Adaptation Plans to enhance the resilience of the Coastal Zone",
+    "sector": "Coastal",
+    "extraction_rationale": "Structured coastal adaptation plan with multiple actions (short/medium/long-term) and a stated budget; serves as umbrella."
+  },
+  {
+    "policy_statement": "Develop vulnerability and risk assessment reports for coastal zones (short-term action).",
+    "verbatim_text": "“Short-term actions  ▪ Develop vulnerability and risk assessment reports”",
+    "policy_type": "sub",
+    "parent_policy_name": "Enhancing the resilience of coastal zones to face SLR risks",
+    "section_header": "5.3.3 Adaptation Plans to enhance the resilience of the Coastal Zone",
+    "sector": "Coastal",
+    "extraction_rationale": "Concrete deliverable listed as a short-term action."
+  },
+  {
+    "policy_statement": "Legislate laws to restrict negative anthropogenic activities in coastal zones to maintain coastal wildlife (medium-term action).",
+    "verbatim_text": "“Medium-term actions … ▪ Legislating laws to restrict negative anthropogenic activities in the coastal zones to maintain the coastal wildlife”",
+    "policy_type": "sub",
+    "parent_policy_name": "Enhancing the resilience of coastal zones to face SLR risks",
+    "section_header": "5.3.3 Adaptation Plans to enhance the resilience of the Coastal Zone",
+    "sector": "Coastal",
+    "extraction_rationale": "Legal/regulatory intervention explicitly stated."
+  },
+  {
+    "policy_statement": "Protect coastlines from sea level rise by constructing protection barriers (long-term action).",
+    "verbatim_text": "“Long-term actions … ▪ Protect coastlines from SLR by constructing protection barriers.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Enhancing the resilience of coastal zones to face SLR risks",
+    "section_header": "5.3.3 Adaptation Plans to enhance the resilience of the Coastal Zone",
+    "sector": "Coastal",
+    "extraction_rationale": "Specific infrastructure protection measure listed as long-term action."
+  },
+  {
+    "policy_statement": "Adaptation plan program: Enhance and build the capacity of the health sector to prepare for increased health risks due to climate change, with an allocated budget of 4.1 million USD and identified responsible institutions.",
+    "verbatim_text": "| Enhance and building the capacity of the health sector to be prepared for increased health risks due to climate change |\n...\n“Budget              | 4.1 million USD.”\n“Responsibility      | Ministry of Health … KEPA. … Meteorological department - Civil Aviation”",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "5.3.4 Adaptation Plans to enhance the resilience of the Human Health Sector",
+    "sector": "Health",
+    "extraction_rationale": "Structured health-sector adaptation plan with multiple actions and a stated budget; serves as umbrella."
+  },
+  {
+    "policy_statement": "Adjust official working hours to avoid working during maximum daytime temperatures (short-term action, including studying and issuing a new threshold).",
+    "verbatim_text": "“Short term actions … ▪ Adjust the official working hours to avoid working during maximum temperatures in the day (study and issue a new threshold).”",
+    "policy_type": "sub",
+    "parent_policy_name": "Enhance and building the capacity of the health sector to be prepared for increased health risks due to climate change",
+    "section_header": "5.3.4 Adaptation Plans to enhance the resilience of the Human Health Sector",
+    "sector": "Health",
+    "extraction_rationale": "Specific occupational-heat adaptation action listed in the plan."
+  },
+  {
+    "policy_statement": "Establish national health alerts for dust storms and heat waves (short-term action).",
+    "verbatim_text": "“Short term actions … ▪ Establishing national health alerts for dust storms and heat waves.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Enhance and building the capacity of the health sector to be prepared for increased health risks due to climate change",
+    "section_header": "5.3.4 Adaptation Plans to enhance the resilience of the Human Health Sector",
+    "sector": "Health",
+    "extraction_rationale": "Concrete early-warning/alert system commitment under short-term actions."
+  },
+  {
+    "policy_statement": "Develop warning systems for extreme weather conditions combined with a communication strategy for alerts (medium-term action).",
+    "verbatim_text": "“Medium-term actions  ▪ Develop warning systems for extreme weather conditions combined with a communication strategy for alerts.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Enhance and building the capacity of the health sector to be prepared for increased health risks due to climate change",
+    "section_header": "5.3.4 Adaptation Plans to enhance the resilience of the Human Health Sector",
+    "sector": "Health",
+    "extraction_rationale": "Specific systems-based intervention with communication component."
+  }
+]

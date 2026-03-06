@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Amend the Seattle Electrical Code to require new parking to be built with electrical capacity and documented conduit/equipment locations to facilitate EV charging at one charging station per parking space.",
+  "role": "individual",
+  "sector": "transport",
+  "canonical_mechanism": "ev_charging_infrastructure → ev_adoption_enabling",
+  "mechanism_description": "Requiring EV-ready electrical capacity and conduit plans in new parking enables easier installation of EV chargers, reducing infrastructure barriers and supporting increased electric vehicle adoption.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Shifting travel from internal-combustion drivetrains to electric drivetrains typically provides the same mobility service with lower energy input per mile (higher drivetrain efficiency), reducing overall energy demand for transport.",
+  "primary_causal_pathway": "Charging access expansion → ↑ EV adoption/use → ↓ fossil fuel combustion in road transport → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human/system activity: Cities install public fast/level charging, enable residential charging programs, and/or require EV-ready wiring/conduit and electrical capacity in new parking/buildings.  \n(2) Mediating physical/process mechanism: Increased charger availability, reduced “range anxiety,” and lower installation/transaction costs make EV ownership and operation more feasible, increasing EV uptake and utilization relative to ICE vehicles.  \n(3) Climate-relevant outcome: EV miles displace gasoline/diesel miles, reducing tailpipe CO₂ and (depending on grid mix) lowering lifecycle GHG emissions from the transport sector.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions by enabling higher electric-vehicle adoption that displaces gasoline/diesel vehicle miles.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Charging infrastructure (public/residential or EV-ready requirements) increases EV adoption and use, which displaces fossil fuel combustion in vehicles, producing net GHG reductions—this is mitigation.  \n2) Why this primary over alternatives: While chargers can have co-benefits (e.g., energy savings or air quality), the central intent and largest climate effect is emissions reduction via transport electrification.  \n3) Inherent secondary causal chain(s):  \n   - Resource Efficiency: EVs generally use less energy per mile than ICE vehicles, so enabling EV uptake tends to reduce energy required for the same mobility service.  \n4) Edge cases applied: If EV charging is supplied by very carbon-intensive electricity, the GHG benefit can be smaller; however, the mechanism is still aimed at emissions reduction via electrification and typically yields reductions as grids decarbonize.  \n5) Confirm labels apply to ALL instances: Whether via installing chargers, running residential programs, or requiring EV-ready capacity, every instance functions by lowering charging barriers to increase EV adoption, making Mitigation the consistent primary category.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Net mitigation impact depends on electricity carbon intensity and whether increased convenience induces additional vehicle travel (rebound); also, if chargers primarily serve plug-in hybrids or are underutilized, realized GHG reductions may be lower, but the mechanism classification remains mitigation-focused.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "regulatory-mandate",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Seattle Electrical Code was amended”; “requires adequate electrical capacity”; “serve one electric vehicle charging station per parking space”; “construction documents show the location of equipment and conduit”; “facilitate future electric vehicle charging infrastructure”",
+  "co_benefits": "Potential air quality and public health benefits from reduced tailpipe pollution; potential noise reduction from increased EV use; potential grid modernization/load planning benefits from pre-wiring and documented conduit locations.",
+  "instance_edge_case_notes": "Although framed as “facilitate future” (not immediate charger installation), the requirement is still a mandate; classification as “enabling” reflects that it lowers future installation barriers rather than directly deploying chargers now."
+}

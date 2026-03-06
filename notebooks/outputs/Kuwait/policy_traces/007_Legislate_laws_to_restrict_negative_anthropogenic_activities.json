@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Legislate laws to restrict negative anthropogenic activities in coastal zones to maintain coastal wildlife (medium-term action).",
+  "role": "sub",
+  "sector": "land_use",
+  "canonical_mechanism": "coastal_zone_activity_restriction_law → coastal_ecosystem_and_biodiversity_preservation",
+  "mechanism_description": "Legally restricting damaging activities in coastal areas reduces ecosystem degradation, helping preserve coastal biodiversity and associated ecosystem carbon and resilience functions.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Nature-Based Solutions",
+  "secondary_justification": "Nature-Based Solutions: Restricting damaging coastal activities preserves/recovers functioning coastal habitats (e.g., wetlands, dunes, seagrass, reefs) that act as natural infrastructure, thereby reducing wave energy/erosion and supporting resilience to coastal hazards.",
+  "primary_causal_pathway": "Climate hazard (SLR, storm surge, erosion) + coastal ecosystem condition → ↑ natural coastal protection → ↓ exposure/sensitivity → ↓ climate damages",
+  "causal_mechanism_detail": "1) Change in human activity/system: Government enacts and enforces coastal-zone restrictions (zoning/setbacks, bans/limits on destructive uses like dredging, sand mining, habitat clearing, pollution discharge, off-road driving on dunes, illegal development).  \n2) Mediating physical/ecological process: Reduced direct disturbance and pollution slows habitat loss and degradation; coastal vegetation/reefs/dunes maintain sediment stabilization, wave attenuation, and shoreline-building processes; biodiversity and ecosystem integrity support recovery after extreme events.  \n3) Climate-relevant outcome: Lower vulnerability to sea-level rise and coastal extremes through reduced flooding, erosion, and storm-surge impacts (with potential co-benefits of maintaining “blue carbon” stocks depending on habitat type).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is maintaining/restoring coastal ecosystems that physically reduce exposure to sea-level rise and storm impacts (erosion, flooding, surge) by preserving natural protective functions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: The mechanism protects coastal ecosystems so they continue to provide hazard-buffering services; this directly reduces exposure to SLR/storm surge/erosion (adaptation).  \n2) Why this primary over alternatives: Although ecosystem preservation can conserve carbon stocks, many coastal restrictions target wildlife/habitat and shoreline protection; the most consistently material climate effect across “any policy using this mechanism” is reduced physical risk from coastal hazards, not guaranteed net GHG reduction.  \n3) Inherent causal chain for each secondary:  \n   - Nature-Based Solutions: The policy operates by conserving natural systems that deliver protective services; using ecosystems as protective infrastructure is intrinsic to the mechanism.  \n4) Edge cases applied: If restrictions specifically target mangrove/seagrass/wetland protection, mitigation via avoided carbon loss can be meaningful, but it is not universally assured for all “coastal wildlife” protections (e.g., rocky shore habitats) and therefore not set as an inherent secondary.  \n5) Confirm labels apply to ALL instances: Any coastal activity restriction aimed at preventing ecosystem degradation necessarily supports ecosystem-based resilience (NbS) and primarily reduces coastal climate risk (adaptation), regardless of location.",
+  "mechanism_confidence": 0.74,
+  "mechanism_edge_case_notes": "Some coastal ecosystem protections (mangroves, saltmarsh, seagrass) can have strong mitigation (blue-carbon) effects; however, because the mechanism is framed broadly as “coastal wildlife/ecosystem preservation,” the GHG benefit is not guaranteed across all instances, so mitigation is not assigned as an inherent secondary.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "regulatory-mandate",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“Legislating laws”; “restrict negative anthropogenic activities”; “in the coastal zones”; “to maintain the coastal wildlife”",
+  "co_benefits": "Biodiversity conservation; improved water quality/pollution reduction; potential fisheries benefits; potential carbon storage (“blue carbon”) depending on habitats protected",
+  "instance_edge_case_notes": "Policy text emphasizes “coastal wildlife” rather than explicit risk reduction; however, maintaining coastal ecosystems is a recognized adaptation mechanism via nature-based coastal protection."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Integrate community resiliency strategies with the City's hazard mitigation planning by 2023.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "hazard_mitigation_plan_integration → institutional_adaptive_capacity",
+  "mechanism_description": "Integrating resiliency strategies into hazard mitigation planning improves coordination and preparedness, increasing institutional capacity to anticipate, reduce, and manage climate-related risks.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Governance/planning integration → improved preparedness & coordinated risk reduction actions → ↓ exposure/vulnerability to climate hazards → ↓ climate-related damages",
+  "causal_mechanism_detail": "(1) Change in human system: The city updates and integrates community resiliency strategies into its official hazard mitigation planning process (goals, priorities, responsibilities, project lists, and timelines).  \n(2) Mediating process: Better cross-department coordination, clearer procedures, improved prioritization of risk-reduction investments, and more consistent preparedness/response planning increase institutional adaptive capacity.  \n(3) Climate-relevant outcome: Reduced risk and severity of climate hazard impacts (e.g., fewer people/assets exposed, faster recovery, lower damages and service disruptions) under increasing climate stressors.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced impacts from climate hazards by improving institutional planning and coordination that lowers exposure and vulnerability.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Planning integration increases institutional adaptive capacity, which reduces exposure/vulnerability to climate hazards—an adaptation pathway.  \n2) Why this primary over alternatives: Any mitigation effects (e.g., emissions reductions from resilience infrastructure) are optional and context-dependent, whereas the core, direct effect of hazard mitigation plan integration is improved preparedness and risk management.  \n3) Inherent causal chain for each secondary: None—this mechanism does not physically require emissions reductions, resource-efficiency gains, or ecosystem enhancement in every instance.  \n4) Edge cases applied: If a specific hazard mitigation plan mandates low-carbon measures, those measures would be a separate mitigation mechanism; the integration action itself remains primarily adaptation-focused.  \n5) Confirm labels apply to ALL instances: Across locations, integrating resiliency into hazard mitigation planning consistently targets reduced climate risk impacts via governance capacity, fitting Adaptation universally.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Some hazard mitigation plans may include mitigation co-benefits (e.g., resilient energy systems, building retrofits) or nature-based projects; those are not guaranteed by the integration mechanism itself and should be classified under their own mechanisms if explicitly specified.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Integrate\"; \"community resiliency strategies\"; \"City's hazard mitigation planning\"; \"by 2023\"",
+  "co_benefits": "Improved emergency management coordination; potential reductions in non-climate disaster losses; stronger community engagement and governance capacity.",
+  "instance_edge_case_notes": "Could be “direct” climate relevance if the hazard mitigation plan explicitly targets climate hazards (e.g., flooding/heat/wildfire) or is tied to a climate risk assessment, but that specificity is not present in the provided text."
+}

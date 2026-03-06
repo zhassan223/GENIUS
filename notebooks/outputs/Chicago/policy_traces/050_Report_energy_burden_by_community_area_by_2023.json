@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Report energy burden by community area by 2023.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "energy_benchmarking_disclosure → market_signal_for_efficiency",
+  "mechanism_description": "Publishing energy burden data increases transparency and accountability, creating a signal that can motivate or target efficiency and affordability interventions that reduce building energy use and associated emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Benchmarking/disclosure is inherently aimed at identifying and motivating reductions in energy input per unit of building service (same comfort/operation with less energy), i.e., improved energy productivity even when the ultimate goal is emissions reduction.",
+  "primary_causal_pathway": "Information disclosure/benchmarking → market/reputational/regulatory pressure → efficiency actions → ↓ energy demand → ↓ fossil fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human activity/system: Building owners/occupants and markets are provided standardized, comparable energy (and sometimes water) performance data via mandatory benchmarking, reporting, and public disclosure (or targeted publication such as energy burden by area).  \n(2) Mediating physical/process mechanism: Increased transparency enables comparison and accountability, shifting decisions by owners, tenants, lenders, and regulators toward audits, retro-commissioning, operational improvements, and capital retrofits that reduce energy required for the same building services.  \n(3) Climate-relevant outcome: Lower site and/or grid energy consumption reduces associated CO₂ (and upstream) emissions from electricity generation and combustion of natural gas/fuels in buildings.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced building energy use leading to reduced fossil fuel combustion (directly onsite and/or at power plants) and therefore lower GHG emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: disclosure/benchmarking drives efficiency improvements that reduce energy demand and thus GHG emissions (mitigation).  \n2) Why this primary over alternatives: While these policies can support affordability planning or resilience planning, their direct, intended, and largest climate-relevant effect across instances is emissions reduction via reduced energy use in buildings.  \n3) Inherent secondary causal chain(s):  \n   - Resource Efficiency: the mechanism necessarily targets reduced energy input per building service through measurement, comparison, and consequent efficiency actions.  \n4) Edge cases applied: If disclosure is limited to “energy burden” reporting (affordability lens), it still functions as an information/targeting signal that can motivate or prioritize efficiency interventions; however, if a policy only publishes data with no plausible link to efficiency action, mitigation impact becomes indirect and weaker (still the intended mechanism here).  \n5) Confirm labels apply to ALL instances: Chicago (energy burden reporting), Miami-Dade (benchmarking scale-up), and Austin (expanded benchmarking/data access + outreach) all rely on transparency-induced efficiency action as the shared mechanism, making Mitigation the correct primary label.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If implementation results only in disclosure without subsequent market/regulatory response (no uptake, no complementary programs), realized mitigation may be small; nonetheless the mechanism’s dominant intended pathway remains efficiency-driven emissions reduction. Also, benchmarking can include water data, but water savings are not guaranteed in every instance and are not inherent to “energy benchmarking → market signal for efficiency.”",
+  "additional_secondary_evidence": null,
+  "instrument_type": "information-disclosure",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Report\"; \"energy burden\"; \"by community area\"; \"by 2023\"",
+  "co_benefits": "Energy affordability/equity insights; targeting of bill assistance or weatherization programs; public health benefits from potential subsequent energy efficiency improvements",
+  "instance_edge_case_notes": "“Energy burden” reporting is adjacent to energy justice/affordability; however, absent explicit requirements for retrofits/assistance or performance thresholds, it remains an enabling disclosure action rather than a direct mitigation measure."
+}

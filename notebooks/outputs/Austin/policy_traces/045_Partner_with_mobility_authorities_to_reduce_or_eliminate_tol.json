@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Partner with mobility authorities to reduce or eliminate toll rates for low-income communities and communities of color who drive EVs on toll roads from the Eastern Crescent to central Austin.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "ev_financial_incentive → ev_adoption_and_transport_emissions_reduction",
+  "mechanism_description": "Reducing toll costs for EV drivers incentivizes EV adoption and usage, which shifts driving from fossil-fueled vehicles to electric vehicles and lowers transportation greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Financial incentive → ↑ EV adoption/usage → ↓ ICE vehicle fuel combustion → ↓ transport GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human activity/system: Policy lowers the cost of owning/operating an EV (e.g., toll discounts/exemptions), which changes consumer vehicle purchase decisions and route/usage choices toward EVs. (2) Mediating physical process: Increased EV market share and EV vehicle-miles traveled reduces gasoline/diesel combustion in internal-combustion engines; emissions shift toward electricity generation with typically lower (and decarbonizing) carbon intensity per mile. (3) Climate-relevant outcome: Net reduction in transportation-sector greenhouse gas emissions (CO₂e) on a lifecycle/per-mile basis relative to ICE travel.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions by accelerating EV adoption/use that displaces fossil-fueled vehicle travel.",
+  "mechanism_classification_reasoning": "(1) Dominant causal pathway: A price signal directly increases EV adoption and/or EV driving, which displaces ICE driving and reduces GHG emissions—this is a direct emissions-reduction pathway. (2) Why this primary over alternatives: While the policy can have equity, air-quality, or mobility benefits, its defining climate effect across all instances of this mechanism is mitigation via lower transport emissions; it is not primarily about reducing hazard exposure (adaptation) or conserving materials/energy for the same service (resource efficiency) beyond the emissions outcome. (3) Inherent causal chain for each secondary: None—co-benefits like improved air quality or affordability are common but not guaranteed in every implementation and are not one of the provided categories. (4) Edge cases applied: If the grid is very carbon-intensive or incentives induce substantial additional driving, net GHG benefits can be smaller; nonetheless the mechanism’s intended and typical dominant pathway remains emissions reduction via electrification. (5) Confirm labels apply to ALL instances: Any “EV financial incentive” mechanism is designed to increase EV uptake/use relative to ICE, making mitigation the consistent primary category across locations.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "If incentives increase total VMT (rebound) or if marginal electricity is highly fossil-based, near-term net GHG reductions may be reduced; however, the mechanism classification remains Mitigation because the core causal lever is ICE displacement through EV adoption/usage.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "incentive-program",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"offer a reduced or eliminated toll rate\"; \"who drive EVs\"; \"Partner with highway and regional mobility authorities\"; \"low-income communities and communities of color\"; \"toll roads\"",
+  "co_benefits": "Equity/affordability benefits for transportation access; potential local air quality improvements from reduced ICE use.",
+  "instance_edge_case_notes": "Could be viewed as a pricing-mechanism (toll pricing) but the targeted discount/exemption functions as an incentive program for EV uptake/use rather than a broad price signal. No explicit adaptation/exposure-reduction mechanism is stated."
+}

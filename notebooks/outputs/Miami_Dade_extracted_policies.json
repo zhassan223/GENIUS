@@ -1,0 +1,353 @@
+[
+  {
+    "policy_statement": "Miami-Dade County will cut communitywide greenhouse gas emissions 50% by 2030 from 2019 levels, with a goal of achieving net zero by 2050.",
+    "verbatim_text": "Officially launched on Oct. 27, 2021, this plan describes work taking place on multiple fronts to cut MiamiDade's greenhouse gas emissions 50 percent by 2030 from 2019 levels, with the goal of achieving net zero by 2050.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "LETTER FROM MAYOR DANIELLA LEVINE CAVA",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Quantified emissions-reduction target with deadlines (2030, 2050) stated as a plan goal/commitment."
+  },
+  {
+    "policy_statement": "Miami-Dade County committed to the international Race to Zero pledge to reduce GHG emissions 50% by 2030 (vs. 2019) and achieve net zero by 2050.",
+    "verbatim_text": "On April 22, 2021, in commemoration of the 51st anniversary of Earth Day, Mayor Daniella Levine Cava announced Miami-Dade County's commitment to the international Race to Zero... This pledge is mobilizing communities to swiftly enact measures to reduce GHG emissions 50% by 2030 compared to 2019 levels and then progress forward to achieve net zero by 2050.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "INTRODUCTION",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Explicit commitment to an international pledge with quantified targets and timelines."
+  },
+  {
+    "policy_statement": "Miami-Dade County will report progress annually and update the Climate Action Strategy every five years.",
+    "verbatim_text": "While a gap remains to reach the goal of a 50% cut by 2030, progress will be reported on an annual basis and the Strategy will be updated every five-years to reflect technological advances and new state and federal energy and transportation policies.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "SEVEN APPROACHES TO CUT EMISSIONS 50% BY 2030",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Governance/implementation commitments with defined cadence (annual reporting; five-year updates)."
+  },
+  {
+    "policy_statement": "Miami-Dade County will track progress toward targets through greenhouse gas inventories conducted every two years and will provide related metrics and investment summaries through the budget process and on the County website.",
+    "verbatim_text": "Progress towards specific targets will be tracked through greenhouse gas inventories conducted every two years. Related metrics and a summary of investments the County has made will be provided through the budget process and on the County website.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "IMPLEMENTATION",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Specific monitoring/reporting mechanism (biennial inventories; publication via budget/website)."
+  },
+  {
+    "policy_statement": "In five years, Miami-Dade County will update the Climate Action Strategy to incorporate new technology, funding opportunities, and community identified solutions.",
+    "verbatim_text": "In five years, the Climate Action Strategy will be updated to incorporate new technology, funding opportunities, and community identified solutions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "IMPLEMENTATION",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Concrete schedule for plan revision (five years) stated as an implementation commitment."
+  },
+  {
+    "policy_statement": "Mayor Daniella Levine Cava will convene meetings with South Florida governments, utilities, schools, businesses, and institutions to identify solutions to close the 2030 emissions gap.",
+    "verbatim_text": "Action: To identify solutions to close the emissions gap, Mayor Daniella Levine Cava will convene meetings with multiple South Florida governments, utility providers, schools, businesses, and institutions that have set aggressive greenhouse gas reduction goals.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "CLOSING THE GAP",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Specific intervention (convening meetings) explicitly assigned to the Mayor to address an identified emissions gap."
+  },
+  {
+    "policy_statement": "Mayor Daniella Levine Cava established a Resilience Action Team and appointed the Chief Heat Officer and Chief Bay Officer to help implement climate solutions.",
+    "verbatim_text": "To make sure that the ideas in this Strategy leap off the drawing board to become real-world solutions, I've established a Resilience Action Team with leaders from all departments in Miami-Dade government... and also appointed the world's first Chief Heat Officer and the County's first Chief Bay Officer.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "LETTER FROM MAYOR DANIELLA LEVINE CAVA",
+    "sector": "Cross-cutting / Governance",
+    "extraction_rationale": "Named institutional actions already taken to implement the Strategy (team creation and executive appointments)."
+  },
+  {
+    "policy_statement": "Miami-Dade County will work with municipalities through the Resilient35 in the 305 network to collaborate on projects and funding and build capacity/knowledge sharing to avoid duplicative efforts.",
+    "verbatim_text": "Leveraging the Resilient35 in the 305 network (Action 46, Resilient305 Strategy), the County will work with municipalities to identify opportunities to collaborate on projects and funding while also helping build capacity and knowledge sharing across the network to avoid duplicative efforts.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "COLLABORATING FOR CLIMATE ACTION",
+    "sector": "Cross-cutting / Governance",
+    "extraction_rationale": "Explicit commitment by the County to a defined collaboration mechanism with municipalities."
+  },
+  {
+    "policy_statement": "Approach 1: Benchmark, retune, and retrofit existing buildings to reduce emissions from the buildings sector by improving efficiency and retrofits.",
+    "verbatim_text": "## 1. BENCHMARK, RETUNE AND RETROFIT EXISTING BUILDINGS\n- BENCHMARK 1.3 BILLION SQUARE FEET COMMUNITYWIDE BY 2026\n- RETUNE 1.1 BILLION SQUARE FOOTAGE OF COMMUNITY WIDE BUILDINGS BY 2030\n- RETROFIT 167,500 HOMES TO REDUCE ENERGY COSTS 28% PRIORITIZING LOW TO MODERATE INCOME (LMI) HOMES BY 2030",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — ENERGY & BUILDINGS — 1. BENCHMARK, RETUNE AND RETROFIT EXISTING BUILDINGS",
+    "sector": "Energy & Buildings",
+    "extraction_rationale": "Named approach with multiple quantified sub-targets listed beneath it; fits parent policy definition."
+  },
+  {
+    "policy_statement": "Benchmark 1.3 billion square feet of communitywide buildings by 2026.",
+    "verbatim_text": "- BENCHMARK 1.3 BILLION SQUARE FEET COMMUNITYWIDE BY 2026",
+    "policy_type": "sub",
+    "parent_policy_name": "1. BENCHMARK, RETUNE AND RETROFIT EXISTING BUILDINGS",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — ENERGY & BUILDINGS — 1. BENCHMARK, RETUNE AND RETROFIT EXISTING BUILDINGS",
+    "sector": "Energy & Buildings",
+    "extraction_rationale": "Quantified target with deadline presented as a bullet under Approach 1."
+  },
+  {
+    "policy_statement": "Retune 1.1 billion square feet of communitywide buildings by 2030.",
+    "verbatim_text": "- RETUNE 1.1 BILLION SQUARE FOOTAGE OF COMMUNITY WIDE BUILDINGS BY 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "1. BENCHMARK, RETUNE AND RETROFIT EXISTING BUILDINGS",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — ENERGY & BUILDINGS — 1. BENCHMARK, RETUNE AND RETROFIT EXISTING BUILDINGS",
+    "sector": "Energy & Buildings",
+    "extraction_rationale": "Quantified target with deadline presented as a bullet under Approach 1."
+  },
+  {
+    "policy_statement": "Retrofit 167,500 homes by 2030 to reduce energy costs 28%, prioritizing low- to moderate-income (LMI) homes.",
+    "verbatim_text": "-   RETROFIT 167,500 HOMES TO REDUCE ENERGY COSTS 28% PRIORITIZING LOW TO MODERATE INCOME (LMI) HOMES BY 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "1. BENCHMARK, RETUNE AND RETROFIT EXISTING BUILDINGS",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — ENERGY & BUILDINGS — 1. BENCHMARK, RETUNE AND RETROFIT EXISTING BUILDINGS",
+    "sector": "Energy & Buildings",
+    "extraction_rationale": "Quantified retrofit and cost-reduction target with deadline and equity prioritization under Approach 1."
+  },
+  {
+    "policy_statement": "Miami-Dade County will adopt a Building Performance Ordinance to ensure benchmarking and retuning of large existing buildings community-wide.",
+    "verbatim_text": "-   Adopt a Building Performance Ordinance to ensure benchmarking and retuning of large existing buildings community-wide",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "APPROACH 1: BENCHMARK, RETUNE, AND RETROFIT EXISTING BUILDINGS",
+    "sector": "Energy & Buildings",
+    "extraction_rationale": "Binding mechanism explicitly proposed (ordinance adoption) with a defined purpose."
+  },
+  {
+    "policy_statement": "Miami-Dade County actions under Approach 1 include passing a Building Performance Ordinance for benchmarking and retuning large existing buildings.",
+    "verbatim_text": "## Miami-Dade County actions:\n\n- Pass Building Performance Ordinance for benchmarking and retuning large existing buildings",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "APPROACH 1: BENCHMARK, RETUNE, AND RETROFIT EXISTING BUILDINGS — Miami-Dade County actions",
+    "sector": "Energy & Buildings",
+    "extraction_rationale": "Explicit action item (pass ordinance) stated as a County action."
+  },
+  {
+    "policy_statement": "Approach 2: Expand renewable energy generation, including solar installations on County and community buildings and participation in utility-scale renewable programs.",
+    "verbatim_text": "## 2. EXPAND RENEWABLE ENERGY GENERATION\n-   INSTALL 61,725 KW OF SOLAR ENERGY BY 2030 ON COUNTY BUILDINGS, LAND, AND WATER...\n-   INSTALL 794,000 KW OF SOLAR ENERGY BY 2030 ON COMMERCIAL AND RESIDENTIAL BUILDINGS...\n-   MAXIMIZE PARTICIPATION IN UTILITY-SCALE RENEWABLE ENERGY PROGRAMS",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — ENERGY & BUILDINGS — 2. EXPAND RENEWABLE ENERGY GENERATION",
+    "sector": "Energy & Buildings",
+    "extraction_rationale": "Named approach with multiple bullet targets beneath it; qualifies as parent."
+  },
+  {
+    "policy_statement": "Install 61,725 kW of solar energy by 2030 on County buildings, land, and water (equivalent to 7,498 homes’ electricity use for one year).",
+    "verbatim_text": "-   INSTALL 61,725 KW OF SOLAR ENERGY BY 2030 ON COUNTY BUILDINGS, LAND, AND WATER EQUIVALENT TO 7,498 HOMES' ELECTRICITY USE FOR ONE YEAR",
+    "policy_type": "sub",
+    "parent_policy_name": "2. EXPAND RENEWABLE ENERGY GENERATION",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — ENERGY & BUILDINGS — 2. EXPAND RENEWABLE ENERGY GENERATION",
+    "sector": "Energy & Buildings",
+    "extraction_rationale": "Quantified deployment target with deadline under Approach 2."
+  },
+  {
+    "policy_statement": "Install 794,000 kW of solar energy by 2030 on commercial and residential buildings (equivalent to 104,014 homes’ electricity use for one year).",
+    "verbatim_text": "-   INSTALL 794,000 KW OF SOLAR ENERGY BY 2030 ON COMMERCIAL AND RESIDENTIAL BUILDINGS EQUIVALENT TO 104,014 HOMES' ELECTRICITY USE FOR ONE YEAR",
+    "policy_type": "sub",
+    "parent_policy_name": "2. EXPAND RENEWABLE ENERGY GENERATION",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — ENERGY & BUILDINGS — 2. EXPAND RENEWABLE ENERGY GENERATION",
+    "sector": "Energy & Buildings",
+    "extraction_rationale": "Quantified deployment target with deadline under Approach 2."
+  },
+  {
+    "policy_statement": "Maximize participation in utility-scale renewable energy programs.",
+    "verbatim_text": "-   MAXIMIZE PARTICIPATION IN UTILITY-SCALE RENEWABLE ENERGY PROGRAMS",
+    "policy_type": "sub",
+    "parent_policy_name": "2. EXPAND RENEWABLE ENERGY GENERATION",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — ENERGY & BUILDINGS — 2. EXPAND RENEWABLE ENERGY GENERATION",
+    "sector": "Energy & Buildings",
+    "extraction_rationale": "Specific intervention (maximize participation) listed as a target under Approach 2, even if not quantified."
+  },
+  {
+    "policy_statement": "Approach 3: Build ultra-low energy buildings by reducing the energy use intensity of new buildings and making new County buildings ultra-low energy.",
+    "verbatim_text": "## 3. BUILD ULTRA-LOW ENERGY BUILDINGS\n- REDUCE THE ENERGY USE INTENSITY OF NEW BUILDINGS 20% BY 2030 BELOW 2020 LEVELS",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — ENERGY & BUILDINGS — 3. BUILD ULTRA-LOW ENERGY BUILDINGS",
+    "sector": "Energy & Buildings",
+    "extraction_rationale": "Named approach with a quantified target; treated as parent for its listed target(s)."
+  },
+  {
+    "policy_statement": "Reduce the energy use intensity of new buildings 20% by 2030 below 2020 levels.",
+    "verbatim_text": "- REDUCE THE ENERGY USE INTENSITY OF NEW BUILDINGS 20% BY 2030 BELOW 2020 LEVELS",
+    "policy_type": "sub",
+    "parent_policy_name": "3. BUILD ULTRA-LOW ENERGY BUILDINGS",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — ENERGY & BUILDINGS — 3. BUILD ULTRA-LOW ENERGY BUILDINGS",
+    "sector": "Energy & Buildings",
+    "extraction_rationale": "Quantified energy performance target with baseline year and deadline listed under Approach 3."
+  },
+  {
+    "policy_statement": "All new County buildings will be Ultra-Low Energy by 2030.",
+    "verbatim_text": "- All new County buildings will be Ultra-Low Energy by 2030",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "APPROACH 3: BUILD ULTRA-LOW ENERGY BUILDINGS",
+    "sector": "Energy & Buildings",
+    "extraction_rationale": "Clear commitment for County-owned new buildings with a deadline."
+  },
+  {
+    "policy_statement": "Approach 4: Reduce transportation-related fuel consumption through mode shift, fleet electrification, community EV adoption, and operational emissions reductions at airport and port.",
+    "verbatim_text": "## 4. REDUCE TRANSPORTATION-RELATED FUEL CONSUMPTION\n- SHIFT 10% OF TRANSPORTATION MODE AWAY FROM SINGLE OCCUPANT VEHICLES BY 2030\n- ELECTRIFY THE COUNTY FLEET: 80% OF LIGHT VEHICLES AND 50% OF PUBLIC TRANSIT BUSES BY 2030\n- TRANSITION 30% OF COMMUNITYWIDE VEHICLES TO ELECTRIC POWER BY 2030\n-   REDUCE GREENHOUSE GAS EMISSIONS FROM MIAMI INTERNATIONAL AIRPORT AND PORTMIAMI OPERATIONS BY 50% AND 25%, RESPECTIVELY BY 2030",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — LAND USE & TRANSPORTATION — 4. REDUCE TRANSPORTATION-RELATED FUEL CONSUMPTION",
+    "sector": "Transport",
+    "extraction_rationale": "Named approach with multiple quantified sub-targets; qualifies as parent."
+  },
+  {
+    "policy_statement": "Shift 10% of transportation mode away from single-occupant vehicles by 2030.",
+    "verbatim_text": "- SHIFT 10% OF TRANSPORTATION MODE AWAY FROM SINGLE OCCUPANT VEHICLES BY 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "4. REDUCE TRANSPORTATION-RELATED FUEL CONSUMPTION",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — LAND USE & TRANSPORTATION — 4. REDUCE TRANSPORTATION-RELATED FUEL CONSUMPTION",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified mode-shift target with deadline under Approach 4."
+  },
+  {
+    "policy_statement": "Electrify the County fleet so that 80% of light vehicles and 50% of public transit buses are electric by 2030.",
+    "verbatim_text": "- ELECTRIFY THE COUNTY FLEET: 80% OF LIGHT VEHICLES AND 50% OF PUBLIC TRANSIT BUSES BY 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "4. REDUCE TRANSPORTATION-RELATED FUEL CONSUMPTION",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — LAND USE & TRANSPORTATION — 4. REDUCE TRANSPORTATION-RELATED FUEL CONSUMPTION",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified fleet electrification target with deadline under Approach 4."
+  },
+  {
+    "policy_statement": "Transition 30% of communitywide vehicles to electric power by 2030.",
+    "verbatim_text": "- TRANSITION 30% OF COMMUNITYWIDE VEHICLES TO ELECTRIC POWER BY 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "4. REDUCE TRANSPORTATION-RELATED FUEL CONSUMPTION",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — LAND USE & TRANSPORTATION — 4. REDUCE TRANSPORTATION-RELATED FUEL CONSUMPTION",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified community EV adoption target with deadline under Approach 4."
+  },
+  {
+    "policy_statement": "Reduce greenhouse gas emissions from Miami International Airport operations by 50% and PortMiami operations by 25% by 2030.",
+    "verbatim_text": "-   REDUCE GREENHOUSE GAS EMISSIONS FROM MIAMI INTERNATIONAL AIRPORT AND PORTMIAMI OPERATIONS BY 50% AND 25%, RESPECTIVELY BY 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "4. REDUCE TRANSPORTATION-RELATED FUEL CONSUMPTION",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — LAND USE & TRANSPORTATION — 4. REDUCE TRANSPORTATION-RELATED FUEL CONSUMPTION",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified operational emissions-reduction targets with deadline under Approach 4."
+  },
+  {
+    "policy_statement": "Approach 5: Expand and protect green and blue spaces to increase canopy and habitat preservation and improve water quality outcomes.",
+    "verbatim_text": "## 5. EXPAND AND PROTECT GREEN AND BLUE SPACES\n-   INCREASE COMMUNITY-WIDE TREE CANOPY TO 30% COVERAGE BY 2030.\n-   ENSURE THAT ALL COUNTY FACILITIES WITHIN THE URBAN DEVELOPMENT BOUNDARY (UDB)... SHALL ATTAIN... AT LEAST 30% CANOPY COVERAGE... OUTSIDE THE UDB... AT LEAST 50%... BY 2030\n-   REDUCE POLLUTANT LOADS TO SURFACE WATERS... TO FACILITATE RECOVERY OF SEAGRASSES TO HISTORIC LEVELS\n-   DOUBLE THE TOTAL NON-WETLAND ACREAGE OF NATURAL HABITAT IN PRESERVATION",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — LAND USE & TRANSPORTATION — 5. EXPAND AND PROTECT GREEN AND BLUE SPACES",
+    "sector": "AFOLU / Nature-based solutions",
+    "extraction_rationale": "Named approach with multiple sub-target bullets; qualifies as parent."
+  },
+  {
+    "policy_statement": "Increase community-wide tree canopy to 30% coverage by 2030.",
+    "verbatim_text": "-   INCREASE COMMUNITY-WIDE TREE CANOPY TO 30% COVERAGE BY 2030.  [COMMUNITY RECOMMENDATION ]",
+    "policy_type": "sub",
+    "parent_policy_name": "5. EXPAND AND PROTECT GREEN AND BLUE SPACES",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — LAND USE & TRANSPORTATION — 5. EXPAND AND PROTECT GREEN AND BLUE SPACES",
+    "sector": "AFOLU / Nature-based solutions",
+    "extraction_rationale": "Quantified canopy target with deadline under Approach 5."
+  },
+  {
+    "policy_statement": "Ensure all County facilities within the Urban Development Boundary attain at least 30% average canopy coverage and all County facilities outside the UDB attain at least 50% average canopy coverage by 2030.",
+    "verbatim_text": "-   ENSURE THAT ALL COUNTY FACILITIES WITHIN THE URBAN DEVELOPMENT BOUNDARY (UDB) (PER 2013 DELINEATION) SHALL ATTAIN AN AVERAGE OF AT LEAST 30% CANOPY COVERAGE AND ALL COUNTY FACILITIES OUTSIDE THE UDB SHALL ATTAIN AN AVERAGE OF AT LEAST 50% CANOPY COVERAGE BY 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "5. EXPAND AND PROTECT GREEN AND BLUE SPACES",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — LAND USE & TRANSPORTATION — 5. EXPAND AND PROTECT GREEN AND BLUE SPACES",
+    "sector": "AFOLU / Nature-based solutions",
+    "extraction_rationale": "Quantified, location-specific canopy requirement with a deadline under Approach 5."
+  },
+  {
+    "policy_statement": "Reduce pollutant loads to surface waters (including Biscayne Bay) to facilitate recovery of seagrasses to historic levels.",
+    "verbatim_text": "-   REDUCE POLLUTANT LOADS TO SURFACE WATERS, INCLUDING BISCAYNE BAY, TO FACILITATE RECOVERY OF SEAGRASSES TO HISTORIC LEVELS [COMMUNITY RECOMMENDATION ]",
+    "policy_type": "sub",
+    "parent_policy_name": "5. EXPAND AND PROTECT GREEN AND BLUE SPACES",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — LAND USE & TRANSPORTATION — 5. EXPAND AND PROTECT GREEN AND BLUE SPACES",
+    "sector": "Water",
+    "extraction_rationale": "Specific intervention outcome (pollutant load reduction enabling seagrass recovery) listed under Approach 5, albeit without numeric target."
+  },
+  {
+    "policy_statement": "Double the total non-wetland acreage of natural habitat in preservation.",
+    "verbatim_text": "-   DOUBLE THE TOTAL NON-WETLAND ACREAGE OF NATURAL HABITAT IN PRESERVATION",
+    "policy_type": "sub",
+    "parent_policy_name": "5. EXPAND AND PROTECT GREEN AND BLUE SPACES",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — LAND USE & TRANSPORTATION — 5. EXPAND AND PROTECT GREEN AND BLUE SPACES",
+    "sector": "AFOLU / Nature-based solutions",
+    "extraction_rationale": "Quantified preservation target ('double') under Approach 5 (deadline not specified in the bullet)."
+  },
+  {
+    "policy_statement": "Approach 6: Convert waste to energy by increasing electricity generation from wastewater cogeneration and increasing conversion of non-recycled garbage to energy while improving recycling quality.",
+    "verbatim_text": "## 6. CONVERT WASTE TO ENERGY\n- 48 GWH/YEAR OF ELECTRICITY FROM COGENERATION AT WASTEWATER PLANTS BY 2030\n- 50% OF NON-RECYCLED GARBAGE CONVERTED TO ENERGY BY 2030\n- 10% INCREASE IN RECYCLING RATES AND CUT NON-RECYCLABLES 'CONTAMINATION' IN HALF",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — WATER & WASTE — 6. CONVERT WASTE TO ENERGY",
+    "sector": "Waste",
+    "extraction_rationale": "Named approach with multiple sub-target bullets; qualifies as parent."
+  },
+  {
+    "policy_statement": "Generate 48 GWh/year of electricity from cogeneration at wastewater plants by 2030.",
+    "verbatim_text": "- 48 GWH/YEAR OF ELECTRICITY FROM COGENERATION AT WASTEWATER PLANTS BY 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "6. CONVERT WASTE TO ENERGY",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — WATER & WASTE — 6. CONVERT WASTE TO ENERGY",
+    "sector": "Waste",
+    "extraction_rationale": "Quantified energy generation target with deadline under Approach 6."
+  },
+  {
+    "policy_statement": "Convert 50% of non-recycled garbage to energy by 2030.",
+    "verbatim_text": "- 50% OF NON-RECYCLED GARBAGE CONVERTED TO ENERGY BY 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "6. CONVERT WASTE TO ENERGY",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — WATER & WASTE — 6. CONVERT WASTE TO ENERGY",
+    "sector": "Waste",
+    "extraction_rationale": "Quantified waste-to-energy target with deadline under Approach 6."
+  },
+  {
+    "policy_statement": "Increase recycling rates by 10% and cut non-recyclables contamination in half.",
+    "verbatim_text": "- 10% INCREASE IN RECYCLING RATES AND CUT NON-RECYC LABLES 'CONTAMINATION' IN HALF",
+    "policy_type": "sub",
+    "parent_policy_name": "6. CONVERT WASTE TO ENERGY",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — WATER & WASTE — 6. CONVERT WASTE TO ENERGY",
+    "sector": "Waste",
+    "extraction_rationale": "Quantified recycling improvement targets listed under Approach 6 (deadline not specified in bullet)."
+  },
+  {
+    "policy_statement": "Approach 7: Reduce waste and water use through per-capita landfill waste reduction and per-capita water consumption reduction by 2030.",
+    "verbatim_text": "## 7. REDUCE WASTE AND WATER USE\n- REDUCE LANDFILL WASTE PER PERSON 50% BY 2030\n- REDUCE WATER CONSUMPTION PER PERSON 30% BY 2030",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — WATER & WASTE — 7. REDUCE WASTE AND WATER USE",
+    "sector": "Waste",
+    "extraction_rationale": "Named approach with multiple quantified sub-targets beneath it; qualifies as parent."
+  },
+  {
+    "policy_statement": "Reduce landfill waste per person by 50% by 2030.",
+    "verbatim_text": "- REDUCE LANDFILL WASTE PER PERSON 50% BY 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "7. REDUCE WASTE AND WATER USE",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — WATER & WASTE — 7. REDUCE WASTE AND WATER USE",
+    "sector": "Waste",
+    "extraction_rationale": "Quantified per-capita landfill waste reduction target with deadline under Approach 7."
+  },
+  {
+    "policy_statement": "Reduce water consumption per person by 30% by 2030.",
+    "verbatim_text": "- REDUCE WATER CONSUMPTION PER PERSON 30% BY 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "7. REDUCE WASTE AND WATER USE",
+    "section_header": "THE 7 APPROACHES AND 2030 TARGETS — WATER & WASTE — 7. REDUCE WASTE AND WATER USE",
+    "sector": "Water",
+    "extraction_rationale": "Quantified per-capita water reduction target with deadline under Approach 7."
+  },
+  {
+    "policy_statement": "Miami-Dade County is working to have shore power at five cruise terminals by 2023 to allow docked ships at PortMiami to turn off engines and reduce carbon emissions.",
+    "verbatim_text": "Miami-Dade County is working to have shore power at five cruise terminals by 2023... Shore power will allow docked ships at PortMiami to turn off their engines... that will reduce carbon emissions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "CUT EMISSIONS FROM OUR SEAPORT, AIRPORTS, AND OTHER COMMERCIAL TRANSPORTATION HUBS",
+    "sector": "Transport",
+    "extraction_rationale": "Time-bound infrastructure commitment (shore power at five terminals by 2023) with clear emissions-reduction mechanism."
+  }
+]

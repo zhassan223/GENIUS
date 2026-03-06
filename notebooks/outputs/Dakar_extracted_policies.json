@@ -1,0 +1,155 @@
+[
+  {
+    "policy_statement": "Implement the Territorial Climate Energy Plan (PCET) / Dakar Climate Action Plan structured around strategic axes and operational adaptation and mitigation actions for 2021–2025 and longer-term horizons.",
+    "verbatim_text": "Dakar's Climate Action Plan is structured into 7 strategic axes with 22 adaptation and mitigation actions that integrate the themes of 'climate, energy, urban planning, risk and disaster management, living environment.\n\n## 9.3  Operational Adaptation and Mitigation Action Plan",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Territorial Climate Energy Plan of Dakar 2021-2025 / 9.3 Operational Adaptation and Mitigation Action Plan",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "This is the umbrella plan/program (PCET) explicitly presented as structured into strategic axes with multiple listed actions underneath, meeting the 'parent' criteria."
+  },
+  {
+    "policy_statement": "Adopt energy efficiency standards (building code) to improve the energy performance of new buildings.",
+    "verbatim_text": "|   # | Actions                                                                                                    |\n|-----|------------------------------------------------------------------------------------------------------------|\n|  10 | Adoption of energy efficiency standards (building code) to improve the energy performance of new buildings |",
+    "policy_type": "sub",
+    "parent_policy_name": "Territorial Climate Energy Plan (PCET) / Operational Adaptation and Mitigation Action Plan",
+    "section_header": "9.3.4 Energy and energy efficiency",
+    "sector": "Buildings",
+    "extraction_rationale": "Numbered action (#10) in the PCET operational action list; a specific intervention (standards/building code)."
+  },
+  {
+    "policy_statement": "Realise energy savings in buildings in the City of Dakar.",
+    "verbatim_text": "|   # | Actions                                                                                                    |\n|-----|------------------------------------------------------------------------------------------------------------|\n|  11 | Realising energy savings in the buildings in the City of Dakar                                             |",
+    "policy_type": "sub",
+    "parent_policy_name": "Territorial Climate Energy Plan (PCET) / Operational Adaptation and Mitigation Action Plan",
+    "section_header": "9.3.4 Energy and energy efficiency",
+    "sector": "Buildings",
+    "extraction_rationale": "Numbered action (#11) in the PCET operational action list; specific intervention focused on building energy savings."
+  },
+  {
+    "policy_statement": "Implement widespread use of solar LED lamps in public lighting.",
+    "verbatim_text": "|   # | Actions                                                                                                    |\n|-----|------------------------------------------------------------------------------------------------------------|\n|  12 | Widespread use of solar LED lamps in public lighting                                                       |",
+    "policy_type": "sub",
+    "parent_policy_name": "Territorial Climate Energy Plan (PCET) / Operational Adaptation and Mitigation Action Plan",
+    "section_header": "9.3.4 Energy and energy efficiency",
+    "sector": "Energy",
+    "extraction_rationale": "Numbered action (#12) in the PCET operational action list; concrete technology deployment (solar/LED public lighting)."
+  },
+  {
+    "policy_statement": "Strengthen electricity generation capacity with renewable energy to boost the energy transition.",
+    "verbatim_text": "|   # | Actions                                                                                                    |\n|-----|------------------------------------------------------------------------------------------------------------|\n|  13 | Strengthening electricity generation capacity with by renewable energy to boost energy transition          |",
+    "policy_type": "sub",
+    "parent_policy_name": "Territorial Climate Energy Plan (PCET) / Operational Adaptation and Mitigation Action Plan",
+    "section_header": "9.3.4 Energy and energy efficiency",
+    "sector": "Energy",
+    "extraction_rationale": "Numbered action (#13) in the PCET operational action list; specific intervention to expand renewable generation capacity."
+  },
+  {
+    "policy_statement": "Develop rapid bus transport (BRT).",
+    "verbatim_text": "|   # | Actions                                                                           |\n|-----|-----------------------------------------------------------------------------------|\n|  14 | Development of rapid bus transport (BRT)                                          |",
+    "policy_type": "sub",
+    "parent_policy_name": "Territorial Climate Energy Plan (PCET) / Operational Adaptation and Mitigation Action Plan",
+    "section_header": "9.3.5 Transport",
+    "sector": "Transport",
+    "extraction_rationale": "Numbered action (#14) in the PCET operational action list; specific transport system intervention."
+  },
+  {
+    "policy_statement": "Establish a fleet that meets fuel efficiency standards by fuel type.",
+    "verbatim_text": "|   # | Actions                                                                           |\n|-----|-----------------------------------------------------------------------------------|\n|  15 | Establishment of a fleet that meets fuel efficiency standards by fuel type        |",
+    "policy_type": "sub",
+    "parent_policy_name": "Territorial Climate Energy Plan (PCET) / Operational Adaptation and Mitigation Action Plan",
+    "section_header": "9.3.5 Transport",
+    "sector": "Transport",
+    "extraction_rationale": "Numbered action (#15) in the PCET operational action list; concrete standards-based fleet intervention."
+  },
+  {
+    "policy_statement": "Promote development around transit stations and promote transit-oriented development (TOD).",
+    "verbatim_text": "|   # | Actions                                                                           |\n|-----|-----------------------------------------------------------------------------------|\n|  16 | Development around transit stations and promotion of transit-oriented development |",
+    "policy_type": "sub",
+    "parent_policy_name": "Territorial Climate Energy Plan (PCET) / Operational Adaptation and Mitigation Action Plan",
+    "section_header": "9.3.5 Transport",
+    "sector": "Transport",
+    "extraction_rationale": "Numbered action (#16) in the PCET operational action list; specific land-use/transport planning intervention."
+  },
+  {
+    "policy_statement": "Construct pedestrian and cycling lanes and paths in municipalities.",
+    "verbatim_text": "|   # | Actions                                                                           |\n|-----|-----------------------------------------------------------------------------------|\n|  17 | Construction of pedestrian and cycling lanes and paths in municipalities          |",
+    "policy_type": "sub",
+    "parent_policy_name": "Territorial Climate Energy Plan (PCET) / Operational Adaptation and Mitigation Action Plan",
+    "section_header": "9.3.5 Transport",
+    "sector": "Transport",
+    "extraction_rationale": "Numbered action (#17) in the PCET operational action list; concrete active-mobility infrastructure intervention."
+  },
+  {
+    "policy_statement": "Develop organic waste recovery channels.",
+    "verbatim_text": "|   # | Actions                                                                                                              |\n|-----|----------------------------------------------------------------------------------------------------------------------|\n|  18 | Development of organic waste recovery channels                                                                       |",
+    "policy_type": "sub",
+    "parent_policy_name": "Territorial Climate Energy Plan (PCET) / Operational Adaptation and Mitigation Action Plan",
+    "section_header": "9.3.6 Solid waste and wastewater",
+    "sector": "Waste",
+    "extraction_rationale": "Numbered action (#18) in the PCET operational action list; specific circular economy/waste intervention."
+  },
+  {
+    "policy_statement": "Ensure proper management of sludge produced by self-contained sanitation in unserved areas to reduce the pollution load.",
+    "verbatim_text": "|   # | Actions                                                                                                              |\n|-----|----------------------------------------------------------------------------------------------------------------------|\n|  19 | Proper management of the sludge produced by self-contained sanitation in unserved areas to reduce the pollution load |",
+    "policy_type": "sub",
+    "parent_policy_name": "Territorial Climate Energy Plan (PCET) / Operational Adaptation and Mitigation Action Plan",
+    "section_header": "9.3.6 Solid waste and wastewater",
+    "sector": "Wastewater",
+    "extraction_rationale": "Numbered action (#19) in the PCET operational action list; specific sanitation/wastewater sludge management intervention."
+  },
+  {
+    "policy_statement": "Establish an institutional framework for governance of the energy and ecological transition.",
+    "verbatim_text": "|   # | Actions                                                                                             |\n|-----|-----------------------------------------------------------------------------------------------------|\n|  20 | Establishing an institutional framework for governance of the energy and ecological transition      |",
+    "policy_type": "sub",
+    "parent_policy_name": "Territorial Climate Energy Plan (PCET) / Operational Adaptation and Mitigation Action Plan",
+    "section_header": "9.3.7 Funding climate action",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Numbered action (#20) in the PCET operational action list; institutional/governance mechanism commitment."
+  },
+  {
+    "policy_statement": "Strengthen human capital in formulating climate change adaptation and mitigation projects (including for access to climate finance).",
+    "verbatim_text": "|   # | Actions                                                                                             |\n|-----|-----------------------------------------------------------------------------------------------------|\n|  21 | Strengthening human capital in formulating climate change adaptation and mitigation projects        |",
+    "policy_type": "sub",
+    "parent_policy_name": "Territorial Climate Energy Plan (PCET) / Operational Adaptation and Mitigation Action Plan",
+    "section_header": "9.3.7 Funding climate action",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Numbered action (#21) in the PCET operational action list; concrete capacity-building commitment."
+  },
+  {
+    "policy_statement": "Establish autonomous financing mechanisms for the risks and vulnerabilities of the City of Dakar.",
+    "verbatim_text": "|   # | Actions                                                                                             |\n|-----|-----------------------------------------------------------------------------------------------------|\n|  22 | Establishing autonomous financing mechanisms for the risks and vulnerabilities of the City of Dakar |",
+    "policy_type": "sub",
+    "parent_policy_name": "Territorial Climate Energy Plan (PCET) / Operational Adaptation and Mitigation Action Plan",
+    "section_header": "9.3.7 Funding climate action",
+    "sector": "Finance",
+    "extraction_rationale": "Numbered action (#22) in the PCET operational action list; concrete financing mechanism commitment."
+  },
+  {
+    "policy_statement": "Reduce Dakar’s GHG emissions by 54% by 2050.",
+    "verbatim_text": "Overall, the goals that the city could achieve are:\n\n-    a  54%  reduction  in  GHG  emissions  by 2050;",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "8.1 Dakar's vision for 2050",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Quantified mitigation target with a deadline (2050)."
+  },
+  {
+    "policy_statement": "Reduce the energy bill in the built heritage of the City of Dakar by 75% by 2050.",
+    "verbatim_text": "Overall, the goals that the city could achieve are:\n\n-  a 75% reduction in the energy bill in the built heritage of the City of Dakar by 2050;",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "8.1 Dakar's vision for 2050",
+    "sector": "Buildings",
+    "extraction_rationale": "Quantified target with deadline focused on municipal/built heritage energy costs."
+  },
+  {
+    "policy_statement": "Increase the share of renewable energy in Dakar’s energy mix to at least 65% by 2050.",
+    "verbatim_text": "Overall, the goals that the city could achieve are:\n\n-    an  increase  in  the  share  of  renewable energy in the energy mix of at least 65% by 2050.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "8.1 Dakar's vision for 2050",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified renewable energy share target with a deadline (2050)."
+  }
+]
