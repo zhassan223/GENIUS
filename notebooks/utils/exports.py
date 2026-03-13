@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import json
+import re
 from pathlib import Path
 from typing import List, Optional
 
@@ -20,6 +22,162 @@ _COMBINED_COLS = [
     "verbatim_text",
     "extraction_rationale",
 ]
+
+_FINAL_COMBINED_COLS = [
+    "policy_id",
+    "role",
+    "parent_statement",
+    "policy_statement",
+    "primary_category",
+    "trace_path",
+]
+
+_TRACE_POLICY_COLS = [
+    "policy_statement",
+    "role",
+    "sector",
+    "canonical_mechanism",
+    "mechanism_description",
+    "primary_category",
+    "secondary_categories",
+    "secondary_justification",
+    "primary_causal_pathway",
+    "causal_mechanism_detail",
+    "dominant_pathway_test",
+    "mechanism_classification_reasoning",
+    "mechanism_confidence",
+    "mechanism_edge_case_notes",
+    "additional_secondary_evidence",
+    "instrument_type",
+    "instrument_directness",
+    "climate_relevance",
+    "key_indicators",
+    "co_benefits",
+    "instance_edge_case_notes",
+]
+
+_TRACE_LOOKUP_COLS = [
+    "policy_id",
+    "role",
+    "parent_statement",
+    "policy_statement",
+    "primary_category",
+    "trace_path",
+    "validation_trace_csv",
+    "validation_lookup_column",
+    "validation_lookup_value",
+]
+
+
+def _safe_filename(s: str, maxlen: int = 60) -> str:
+    s = re.sub(r"[^\w\s-]", "", str(s)).strip()
+    s = re.sub(r"[\s-]+", "_", s)
+    return s[:maxlen]
+
+
+def _build_trace_records(df_classified: pd.DataFrame) -> pd.DataFrame:
+    """
+    Build a stable per-policy trace manifest from classified policies.
+
+    The `policy_id` is derived from row order in `classified_policies.csv` so the
+    generated JSON filenames remain stable across the trace manifest and the
+    written `policy_traces/` directory.
+    """
+    if df_classified.empty:
+        return pd.DataFrame(columns=["policy_id", "policy_statement", "role", "primary_category", "trace_path"])
+
+    df_traces = df_classified.copy().reset_index(drop=True)
+    df_traces["policy_id"] = df_traces.index.map(lambda idx: f"{idx:03d}")
+    df_traces["role"] = df_traces.get("role", pd.Series([None] * len(df_traces))).fillna("individual")
+    df_traces["trace_path"] = df_traces.apply(
+        lambda row: (
+            f"policy_traces/{row['policy_id']}_"
+            f"{_safe_filename(row.get('policy_statement', f'policy_{row.name}'))}.json"
+        ),
+        axis=1,
+    )
+
+    keep_cols = [c for c in ["policy_id", "policy_statement", "role", "primary_category", "trace_path"] if c in df_traces.columns]
+    return df_traces[keep_cols].drop_duplicates(subset=["policy_statement", "role"]).reset_index(drop=True)
+
+
+def export_final_combined_with_traces(
+    *,
+    combined: pd.DataFrame,
+    df_classified: pd.DataFrame,
+    output_dir: str | Path,
+) -> dict:
+    """
+    Write a presentation-friendly combined CSV plus trace artifacts.
+
+    Outputs:
+      - combined_policies.csv      <- minimal final table
+      - policy_trace_lookup.csv    <- how to locate each row's validator trace
+      - policy_traces/*.json       <- one classification trace per policy row
+    """
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    written: dict = {}
+    trace_manifest = _build_trace_records(df_classified)
+    traces_dir = output_dir / "policy_traces"
+    traces_dir.mkdir(parents=True, exist_ok=True)
+
+    trace_cols = [c for c in _TRACE_POLICY_COLS if c in df_classified.columns]
+    for idx, row in df_classified.reset_index(drop=True).iterrows():
+        trace = {c: (None if pd.isna(row[c]) else row[c]) for c in trace_cols}
+        stmt_slug = _safe_filename(row.get("policy_statement", f"policy_{idx}"))
+        fname = f"{idx:03d}_{stmt_slug}.json"
+        with open(traces_dir / fname, "w", encoding="utf-8") as f:
+            json.dump(trace, f, ensure_ascii=False, indent=2)
+
+    written["policy_traces_dir"] = str(traces_dir)
+
+    if combined.empty:
+        final_df = pd.DataFrame(columns=_FINAL_COMBINED_COLS)
+    else:
+        merge_cols = [c for c in ["policy_statement", "role"] if c in combined.columns and c in trace_manifest.columns]
+        if not merge_cols:
+            raise ValueError("combined and classified outputs must share policy_statement and role columns.")
+
+        final_df = combined.merge(trace_manifest, on=merge_cols, how="left", suffixes=("", "_trace"))
+        if "policy_id_trace" in final_df.columns:
+            final_df["policy_id"] = final_df["policy_id_trace"]
+        if "primary_category" not in final_df.columns and "primary_category_trace" in final_df.columns:
+            final_df["primary_category"] = final_df["primary_category_trace"]
+        if "trace_path" not in final_df.columns and "trace_path_trace" in final_df.columns:
+            final_df["trace_path"] = final_df["trace_path_trace"]
+        final_df = final_df.reindex(columns=_FINAL_COMBINED_COLS)
+
+    combined_path = output_dir / "combined_policies.csv"
+    final_df.to_csv(combined_path, index=False)
+    written["combined_policies"] = str(combined_path)
+
+    if final_df.empty:
+        trace_lookup = pd.DataFrame(columns=_TRACE_LOOKUP_COLS)
+    else:
+        trace_lookup = final_df.copy()
+        trace_lookup["validation_trace_csv"] = trace_lookup["role"].map(
+            lambda role: "trace_individual_policies_valid.csv" if role == "individual" else "trace_initiative_policies_valid.csv"
+        )
+        trace_lookup["validation_lookup_column"] = trace_lookup["role"].map(
+            lambda role: "policy_statement" if role == "individual" else "parent_statement"
+        )
+        trace_lookup["validation_lookup_value"] = trace_lookup.apply(
+            lambda row: (
+                row["policy_statement"]
+                if row["role"] in ("individual", "parent")
+                else row["parent_statement"]
+            ),
+            axis=1,
+        )
+        trace_lookup = trace_lookup.reindex(columns=_TRACE_LOOKUP_COLS)
+
+    trace_lookup_path = output_dir / "policy_trace_lookup.csv"
+    trace_lookup.to_csv(trace_lookup_path, index=False)
+    written["policy_trace_lookup"] = str(trace_lookup_path)
+
+    return written
 
 
 def build_combined_policies_table(

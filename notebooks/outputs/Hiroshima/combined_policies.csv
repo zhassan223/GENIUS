@@ -1,27 +1,4 @@
-cluster_id,cluster_type,role,sector,section_header,policy_statement,parent_statement,verbatim_text,extraction_rationale,canonical_mechanism,primary_category,secondary_categories,instrument_type,climate_relevance,mechanism_confidence
-0.0,individual,individual,Economy-wide,Chapter 5: Promotion of counteractions against global warming (Mitigation) — 2. Reduction target for greenhouse gas emissions,"Set citywide greenhouse gas emissions reduction targets for FY2020, FY2030, and FY2050 relative to FY2013.",,"## 2. Reduction target for greenhouse gas emissions
-
-| Timeframe            | Target Year   | Reduction Target (Total Target Amount)            |
-|----------------------|---------------|---------------------------------------------------|
-| Long-term Target     | FY2050        | Compared to FY2013 ▲ 80%                          |
-| Mid-term Target *1   | FY2030        | Compared to FY2013 ▲ 30%                          |
-| Short-term Target *2 | FY2020        | Compared to FY2013 ▲ 5% (Compared to FY2005 ▲ 7%) |","Quantified, time-bound mitigation targets adopted by the city (80% by FY2050; 30% by FY2030; 5% by FY2020).",economy_wide_ghg_target → emissions_reduction_pathway,Mitigation,,target-setting,direct,0.93
-1.0,individual,individual,Economy-wide,Chapter 5: Promotion of counteractions against global warming (Mitigation) — *1 Setting of targets by sectors in the mid-term target,"Set sector- and gas-specific mid-term (FY2030) reduction targets, including CO2 reductions by sector and reductions for methane, nitrous oxide, and fluorinated gases.",,"## *1 Setting of targets by sectors in the mid-term target
-
-Apart from the total target amount, we set the targets by sector as follows:
-
-- -Carbon Dioxide: Industry sector ▲ 7%, Consumer/household sector ▲ 40%, Consumer/business sector ▲ 40%, Transport sector ▲ 28%, Waste ▲ 6.7%
-- -Methane ▲ 12.3%
-- -Dinitrogen monoxide: ▲ 6.1%
-- -4 gases such as chlorofluorocarbon alternatives: ▲ 25.1%",Contains specific quantitative reduction targets by sector and by non-CO2 gases.,economy_wide_ghg_target → emissions_reduction_pathway,Mitigation,,target-setting,direct,0.93
-39.0,individual,individual,Public sector,Chapter 7: Government operations — 3. Reduction target,"Set government-operations greenhouse gas reduction targets for the city office: 5.1% by FY2020 and 30% by FY2030 (base year FY2013), plus FY2020 targets by emission type (administration offices, waste, sewage, water).",,"## 3. Reduction target
-
-| Segment           | Base Year | Target Year | ... | City office |
-| Short-term target | FY2013    | FY2020      | ... | ▲ 5.1%      |
-...
-| Mid-term target   | FY2013    | FY2030      | ... | ▲ 30%       |
-
-...Target by emission type... Emissions from offices concerning municipal administration ... ▲ 9.1%
-... Emissions from waste processing ... ▲ 1.1%
-... Emissions from sewage processing ... ▲ 4.1%
-... Emissions from water supply ... ▲ 2.4%","Quantified, time-bound targets specifically for municipal operations, including breakdown by emission source.",government_operations_ghg_target → emissions_reduction_pathway,Mitigation,,target-setting,direct,0.92
+policy_id,role,parent_statement,policy_statement,primary_category,trace_path
+000,individual,,"Set citywide greenhouse gas emissions reduction targets for FY2020, FY2030, and FY2050 relative to FY2013.",Mitigation,policy_traces/000_Set_citywide_greenhouse_gas_emissions_reduction_targets_for_.json
+001,individual,,"Set sector- and gas-specific mid-term (FY2030) reduction targets, including CO2 reductions by sector and reductions for methane, nitrous oxide, and fluorinated gases.",Mitigation,policy_traces/001_Set_sector_and_gas_specific_mid_term_FY2030_reduction_target.json
+002,individual,,"Set government-operations greenhouse gas reduction targets for the city office: 5.1% by FY2020 and 30% by FY2030 (base year FY2013), plus FY2020 targets by emission type (administration offices, waste, sewage, water).",Mitigation,policy_traces/002_Set_government_operations_greenhouse_gas_reduction_targets_f.json
