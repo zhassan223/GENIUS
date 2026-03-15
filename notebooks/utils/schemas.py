@@ -48,4 +48,21 @@ class DocumentMetadata(BaseModel):
     country: str
     state_or_province: Optional[str] = None
     city: Optional[str] = None
+    doc_id: Optional[str] = None  # e.g. "Chicago_United_States_a3f9c1"
+
+
+def make_doc_id(metadata: DocumentMetadata, text: str) -> str:
+    """Generate a stable document ID from metadata + content hash.
+
+    Normalizes whitespace before hashing so that reformatting the markdown
+    source (trailing spaces, double newlines, etc.) does not change the ID.
+    """
+    import hashlib
+    import re
+
+    slug_parts = [metadata.city, metadata.state_or_province, metadata.country]
+    slug = "_".join(p for p in slug_parts if p).replace(" ", "_")
+    normalized = re.sub(r"\s+", " ", text).strip()
+    h = hashlib.md5(normalized.encode()).hexdigest()[:10]
+    return f"{slug}_{h}"
 

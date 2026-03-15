@@ -1,67 +1,100 @@
 from __future__ import annotations
 
-from collections import defaultdict
+import re
 from typing import Dict, List
 
 from .schemas import ExtractedPolicy
 
 
+def _normalize_header(header: str) -> str:
+    """Normalize a section header for display consistency.
+
+    Strips whitespace, collapses runs, lowercases, and removes trailing
+    punctuation so that minor LLM formatting differences don't affect display.
+    """
+    h = re.sub(r"\s+", " ", header).strip().lower()
+    h = re.sub(r"[.:;,]+$", "", h)
+    return h
+
+
 def cluster_policies(policies: List[ExtractedPolicy]) -> List[dict]:
     """
-    Cluster policies by `section_header`.
+    Cluster policies using the resolver's parent_policy_name linkage.
 
-    Rules (same as notebook logic):
-    - Parent + all subs with same section_header -> one 'parent_with_subs' cluster
-    - Subs with no parent for that header -> one 'orphan_sub' cluster per sub
-    - Individuals -> one 'individual' cluster per policy
+    The resolver (dspy_resolve.py) already spent 3 stages linking subs to
+    parents via parent_policy_name. This function respects that linkage
+    instead of re-grouping by section_header.
+
+    Algorithm:
+    1. Index all parents by policy_statement
+    2. Each sub with a parent_policy_name that matches a parent → grouped
+       under that parent
+    3. Subs with no match → orphan_sub clusters
+    4. Individuals → individual clusters
+    5. Parents with no subs still get a parent_with_subs cluster (empty subs)
     """
 
-    by_header: Dict[str, dict] = defaultdict(
-        lambda: {"parent": None, "subs": [], "individuals": []}
-    )
+    # Index parents by policy_statement for O(1) lookup
+    parent_by_stmt: Dict[str, ExtractedPolicy] = {}
+    parent_subs: Dict[str, List[ExtractedPolicy]] = {}
 
-    for policy in policies:
-        header = policy.section_header.strip()
-        if policy.policy_type == "parent":
-            by_header[header]["parent"] = policy
-        elif policy.policy_type == "sub":
-            by_header[header]["subs"].append(policy)
+    for p in policies:
+        if p.policy_type == "parent":
+            parent_by_stmt[p.policy_statement] = p
+            parent_subs[p.policy_statement] = []
+
+    # Link subs to parents using the resolver's parent_policy_name
+    orphan_subs: List[ExtractedPolicy] = []
+    for p in policies:
+        if p.policy_type != "sub":
+            continue
+        if p.parent_policy_name and p.parent_policy_name in parent_by_stmt:
+            parent_subs[p.parent_policy_name].append(p)
         else:
-            by_header[header]["individuals"].append(policy)
+            orphan_subs.append(p)
 
+    # Build clusters with stable cluster_id
     clusters: List[dict] = []
+    cid = 0
 
-    for header, group in by_header.items():
-        if group["parent"] is not None:
-            clusters.append(
-                {
-                    "cluster_type": "parent_with_subs",
-                    "section_header": header,
-                    "parent": group["parent"],
-                    "subs": group["subs"],
-                }
-            )
-        elif group["subs"]:
-            for sub in group["subs"]:
-                clusters.append(
-                    {
-                        "cluster_type": "orphan_sub",
-                        "section_header": header,
-                        "parent": None,
-                        "subs": [sub],
-                    }
-                )
+    # Parent clusters (with or without subs)
+    for parent_stmt, parent in parent_by_stmt.items():
+        subs = parent_subs[parent_stmt]
+        header = _normalize_header(parent.section_header)
+        clusters.append({
+            "cluster_id": cid,
+            "cluster_type": "parent_with_subs",
+            "section_header": header,
+            "parent": parent,
+            "subs": subs,
+        })
+        cid += 1
 
-        for policy in group["individuals"]:
-            clusters.append(
-                {
-                    "cluster_type": "individual",
-                    "section_header": header,
-                    "parent": None,
-                    "subs": [],
-                    "individual": policy,
-                }
-            )
+    # Orphan subs (no matching parent in list)
+    for sub in orphan_subs:
+        header = _normalize_header(sub.section_header)
+        clusters.append({
+            "cluster_id": cid,
+            "cluster_type": "orphan_sub",
+            "section_header": header,
+            "parent": None,
+            "subs": [sub],
+        })
+        cid += 1
+
+    # Individuals
+    for p in policies:
+        if p.policy_type == "individual":
+            header = _normalize_header(p.section_header)
+            clusters.append({
+                "cluster_id": cid,
+                "cluster_type": "individual",
+                "section_header": header,
+                "parent": None,
+                "subs": [],
+                "individual": p,
+            })
+            cid += 1
 
     return clusters
 
@@ -154,4 +187,3 @@ def clusters_to_records(clusters: List[dict]) -> List[dict]:
             )
 
     return records
-

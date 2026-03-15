@@ -18,7 +18,9 @@ STAGE 3: Enrich each policy with instance-specific metadata (instrument type,
 
 import dspy
 import json
+import re
 from collections import defaultdict
+from difflib import SequenceMatcher
 from typing import List, Dict, Optional
 
 
@@ -841,15 +843,92 @@ class ConsistentPolicyClassifier(dspy.Module):
         # The registry: mechanism_key → classification dict
         self.mechanism_registry: Dict[str, dict] = {}
 
+    # ------------------------------------------------------------------ #
+    # Mechanism string normalization (Fix #8 from critique)
+    # ------------------------------------------------------------------ #
+
+    @staticmethod
+    def _normalize_mechanism_key(s: str) -> str:
+        """Lowercase, collapse whitespace/underscores, normalize arrow notation."""
+        s = s.strip().lower()
+        # Normalize arrow variants: →, ->, ➜, etc.
+        s = re.sub(r"\s*(?:→|->|➜|➡)\s*", " → ", s)
+        # Collapse whitespace and underscores to single underscore
+        s = re.sub(r"[\s_]+", "_", s)
+        return s
+
+    @staticmethod
+    def _mechanism_similarity(a: str, b: str) -> float:
+        return SequenceMatcher(None, a, b).ratio()
+
+    def canonicalize_mechanisms(
+        self,
+        policies: List[dict],
+        threshold: float = 0.85,
+    ) -> List[dict]:
+        """Cluster near-identical mechanism strings to a single canonical form.
+
+        This prevents variants like 'fleet_electrification → transport_emissions_reduction'
+        and 'fleet_electrification → transport_emission_reduction' from being classified
+        independently. Uses greedy single-linkage clustering on normalized strings.
+        """
+        # Build unique mechanism set
+        raw_mechanisms: Dict[str, str] = {}  # normalized -> first-seen raw
+        for p in policies:
+            raw = p.get("canonical_mechanism", "")
+            norm = self._normalize_mechanism_key(raw)
+            if norm not in raw_mechanisms:
+                raw_mechanisms[norm] = raw
+
+        # Greedy clustering: assign each mechanism to the first cluster it matches
+        clusters: Dict[str, str] = {}  # normalized -> canonical representative
+        canonical_list: List[str] = []
+
+        for norm in raw_mechanisms:
+            matched = False
+            for canon in canonical_list:
+                if self._mechanism_similarity(norm, canon) >= threshold:
+                    clusters[norm] = canon
+                    matched = True
+                    break
+            if not matched:
+                clusters[norm] = norm
+                canonical_list.append(norm)
+
+        # Count merges
+        merged = sum(1 for k, v in clusters.items() if k != v)
+        if merged:
+            print(f"  [mechanism-cluster] merged {merged} variant mechanism strings "
+                  f"into {len(canonical_list)} canonical forms")
+
+        # Rewrite policies in-place with the canonical normalized form
+        # This ensures stage2_classify_mechanisms groups correctly since
+        # the registry key = the mechanism string on the policy dict.
+        for p in policies:
+            raw = p.get("canonical_mechanism", "")
+            norm = self._normalize_mechanism_key(raw)
+            canon_norm = clusters.get(norm, norm)
+            # Store the normalized canonical form so registry keys are consistent
+            p["canonical_mechanism"] = raw_mechanisms.get(canon_norm, raw)
+            # Also store the normalized key for registry lookups
+            p["_mechanism_key"] = canon_norm
+
+        return policies
+
     def stage2_classify_mechanisms(self, policies: List[dict]) -> Dict[str, dict]:
-        """Group by canonical_mechanism, classify each unique mechanism once.
+        """Group by normalized mechanism key, classify each unique mechanism once.
+
+        Uses ``_mechanism_key`` (set by ``canonicalize_mechanisms``) so the
+        registry is keyed by a serialization-safe normalized string.  Falls
+        back to ``canonical_mechanism`` if ``_mechanism_key`` is absent.
 
         Picks up to 3 representative policies from different locations so the
         model sees cross-city context when deciding the mechanism's labels.
         """
         mechanism_groups: Dict[str, list] = defaultdict(list)
         for policy in policies:
-            mechanism_groups[policy["canonical_mechanism"]].append(policy)
+            key = policy.get("_mechanism_key", policy["canonical_mechanism"])
+            mechanism_groups[key].append(policy)
 
         registry: Dict[str, dict] = {}
 
@@ -904,18 +983,63 @@ class ConsistentPolicyClassifier(dspy.Module):
 #   Dakar, Kuwait, Portugal, Geneva, Hiroshima
 
 LOCATION_VULNERABILITIES: Dict[str, str] = {
-    # Examples (fill in as needed):
-    # "Miami_Dade": "Miami-Dade faces: sea-level rise, saltwater intrusion, extreme heat, flooding",
-    # "Las_Vegas":  "Las Vegas faces: drought, extreme heat, water scarcity",
-    # "Seattle":    "Seattle faces: wildfire smoke, flooding, landslides",
-    # "Chicago":    "Chicago faces: extreme heat, flooding, urban heat island",
+    "Chicago": (
+        "Chicago faces: extreme heat events, urban heat island effect, "
+        "inland flooding from intense precipitation, Great Lakes water level variability"
+    ),
+    "Seattle": (
+        "Seattle faces: wildfire smoke exposure, landslides from heavy rainfall, "
+        "urban flooding, sea-level rise in Puget Sound, drought stress on water supply"
+    ),
+    "Las_Vegas": (
+        "Las Vegas faces: extreme heat, prolonged drought, water scarcity "
+        "(Colorado River depletion), flash flooding, dust storms"
+    ),
+    "Miami_Dade": (
+        "Miami-Dade faces: sea-level rise, tidal flooding, saltwater intrusion "
+        "into freshwater aquifer, extreme heat, hurricane intensification, storm surge"
+    ),
+    "Austin": (
+        "Austin faces: extreme heat, flash flooding, prolonged drought, "
+        "wildfire risk at urban-wildland interface, water supply stress"
+    ),
+    "Dakar": (
+        "Dakar faces: sea-level rise, coastal erosion, flooding from intense "
+        "rainfall, drought, water scarcity, extreme heat, desertification pressure"
+    ),
+    "Kuwait": (
+        "Kuwait faces: extreme heat (50°C+ events), water scarcity (near-total "
+        "desalination dependence), dust storms, sea-level rise, coral bleaching"
+    ),
+    "Portugal": (
+        "Portugal faces: wildfire risk, drought and desertification (southern regions), "
+        "extreme heat events, coastal erosion, water scarcity, flooding"
+    ),
+    "Geneva": (
+        "Geneva faces: heat waves, Alpine glacial melt affecting water supply, "
+        "flooding from intense precipitation, reduced snowpack"
+    ),
+    "Hiroshima": (
+        "Hiroshima faces: typhoon intensification, flooding and landslides from "
+        "heavy rainfall, extreme heat events, sea-level rise in Seto Inland Sea"
+    ),
 }
 
 
 def build_vulnerability_context(city_key: str) -> str:
     """Return the location vulnerability string for a given city key, or a
-    fallback message if no entry exists yet."""
+    fallback message if no entry exists yet.
+
+    Normalizes the key (strips, replaces hyphens/spaces with underscores)
+    to prevent silent lookup failures from formatting differences.
+    """
+    normalized = city_key.strip().replace("-", "_").replace(" ", "_")
+    # Case-insensitive lookup: try exact, then title-case
+    if normalized in LOCATION_VULNERABILITIES:
+        return LOCATION_VULNERABILITIES[normalized]
+    # Try title-casing each segment: "miami_dade" → "Miami_Dade"
+    title = "_".join(part.capitalize() for part in normalized.split("_"))
     return LOCATION_VULNERABILITIES.get(
-        city_key,
+        title,
         "No vulnerability context provided"
     )

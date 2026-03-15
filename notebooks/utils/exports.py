@@ -210,7 +210,13 @@ def build_combined_policies_table(
         cid   = cluster.get("cluster_id")
 
         if ctype in ("individual", "orphan_sub"):
-            p = cluster.get("policy")
+            # Fix: cluster_policies() uses "individual" key for individuals
+            # and "subs"[0] for orphan_subs — align with actual schema
+            if ctype == "individual":
+                p = cluster.get("individual") or cluster.get("policy")
+            else:  # orphan_sub
+                subs_list = cluster.get("subs") or []
+                p = subs_list[0] if subs_list else cluster.get("policy")
             if p is None:
                 continue
             d = p.model_dump() if hasattr(p, "model_dump") else dict(p)
