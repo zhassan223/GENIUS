@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Near-term climate action priorities for buildings.",
+  "role": "parent",
+  "sector": "buildings",
+  "canonical_mechanism": "building_efficiency_incentives_and_requirements → energy_use_reduction",
+  "mechanism_description": "Use incentives, public-building leadership, and mandates where necessary to drive building efficiency actions that reduce energy consumption and associated emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Efficiency measures deliver the same building service with lower energy input (reduced electricity/gas use), inherently improving energy productivity regardless of grid emissions intensity.",
+  "primary_causal_pathway": "Building upgrades/standards → ↓ energy demand (electricity/fuels) → ↓ energy-system combustion → ↓ GHG emissions → ↓ radiative forcing",
+  "causal_mechanism_detail": "(1) Change: Policies prompt or require building owners/operators (and public agencies for city-owned buildings) to implement efficiency actions (e.g., envelope improvements, high-efficiency HVAC, controls, lighting upgrades, commissioning, performance tuning).  \n(2) Mediating process: Improved thermal performance and equipment/control efficiency reduces heat losses/gains and lowers energy required per unit of service.  \n(3) Outcome: Reduced electricity and fossil fuel consumption leads to lower CO₂ (and some CH₄/N₂O) emissions from power plants and onsite combustion, cutting overall building-sector emissions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is lowering building energy consumption, which reduces GHG emissions from onsite fuel use and electricity generation.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: policy-driven efficiency actions → reduced building energy use → reduced GHG emissions (mitigation).  \n2) Why this primary over alternatives: While efficiency can improve comfort/reliability (potentially aiding resilience), the direct, intended, and largest climate effect across all instances is emissions reduction from lower energy consumption.  \n3) Inherent secondary chain(s):  \n   - Resource Efficiency: same services → less energy input (an unavoidable physical consequence of efficiency measures).  \n4) Edge cases applied: If the electricity grid is already near-zero-carbon, mitigation benefits diminish, but the mechanism still targets energy demand reduction and typically reduces upstream emissions and fuel use (and remains resource-efficient).  \n5) Confirm labels apply to ALL instances: Any implementation of “efficiency incentives/requirements” necessarily reduces energy use per service (resource efficiency) and generally reduces associated emissions (mitigation), independent of city context.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "In very low-carbon grids, the dominant benefit can shift toward resource efficiency/cost savings rather than large GHG reductions; rebound effects (increased usage due to lower operating costs) can partially offset savings but do not change the mechanism’s intended dominant pathway. If measures are framed purely as resilience (e.g., passive survivability without energy reduction), that would be a different mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "incentive-program",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“spur actions through incentives”, “other measures”, “leading efforts in City-owned buildings”, “specific requirements when needed”",
+  "co_benefits": "Potential co-benefits: improved indoor air quality and comfort; possible improved resilience during smoke/heat events via building envelope/filtration upgrades (not explicitly stated).",
+  "instance_edge_case_notes": "“Specific requirements when needed” could imply a regulatory mandate/performance standard component, but the dominant articulated instrument in the excerpt is incentives plus city lead-by-example, so classified as incentive-program with enabling directness."
+}

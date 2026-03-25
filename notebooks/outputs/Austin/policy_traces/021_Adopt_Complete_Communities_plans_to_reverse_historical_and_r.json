@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Adopt Complete Communities plans to reverse historical and racist impacts, address displacement, and preserve neighborhoods in communities of color.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "complete_communities_planning_framework → institutional_equity_and_resilience_capacity",
+  "mechanism_description": "Adopting complete communities plans guides equitable neighborhood preservation and development decisions, strengthening institutional capacity to reduce displacement and improve community resilience.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Governance/planning reform → ↑ equitable decision-making & community stability → ↓ vulnerability (exposure/sensitivity) to climate hazards",
+  "causal_mechanism_detail": "(1) Change: The city adopts and applies “Complete Communities” plans that embed equity goals (anti-displacement, neighborhood preservation, correcting historic harm) into land-use and community planning decisions. (2) Process: More inclusive and equity-centered planning improves institutional capacity, maintains social cohesion, supports continuity of services and local networks, and can steer investments toward underserved areas—factors that affect how well communities prepare for, respond to, and recover from extreme heat, flooding, drought, and other shocks. (3) Outcome: Lower climate impacts on people and systems via reduced vulnerability and improved adaptive capacity (resilience).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced climate risk (exposure/sensitivity) through stronger, more equitable planning decisions and community stability that improve resilience to hazards like heat and flooding.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: adopting equity-centered complete community plans primarily changes governance and planning capacity, leading to reduced vulnerability to hazards (adaptation).  \n2) Why this primary over alternatives: while “complete communities” can sometimes imply compact development or mode shift (mitigation/resource efficiency), the stated mechanism here is explicitly anti-displacement/neighborhood preservation and institutional equity/resilience capacity—its most direct and universal climate effect is improved resilience.  \n3) Inherent causal chain for each secondary: none—GHG reductions, energy savings, or carbon sequestration are not unavoidable physical consequences of adopting such plans; they depend on the specific land-use, transport, or building measures chosen later.  \n4) Edge cases applied: if a complete communities plan mandates infill targets, transit-oriented development, or green infrastructure, mitigation or nature-based effects could occur, but those are contingent add-ons, not inherent to this mechanism as defined.  \n5) Confirm labels apply to ALL instances: any policy sharing this mechanism (equity/resilience capacity via planning frameworks) will principally build adaptive capacity and reduce vulnerability, regardless of location.",
+  "mechanism_confidence": 0.78,
+  "mechanism_edge_case_notes": "Some “complete communities” implementations can be primarily mitigation/resource-efficiency when they explicitly drive compact growth, reduce VMT, or require building efficiency; classification should remain Adaptation here because the canonical mechanism is framed around equity, anti-displacement, and resilience capacity rather than emissions.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Strategy 1: Plan for complete communities\"; \"Adopt Complete Communities plans\"; \"reverse historical and racist impacts\"; \"areas experiencing displacement\"; \"preserve neighborhoods\"; \"communities of color\"",
+  "co_benefits": "Reduced displacement and housing instability; improved social cohesion and continuity of services; potential to steer future investments toward cooling/flood protection in underserved areas (not specified in text)",
+  "instance_edge_case_notes": "Could become “direct” and support a hazard-specific secondary (e.g., extreme heat or flooding) if the Complete Communities plans explicitly include heat island reduction, cooling access, flood-risk zoning, drainage upgrades, or wildfire interface measures; the provided text stays at equity/anti-displacement planning level."
+}

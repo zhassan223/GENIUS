@@ -1,0 +1,23 @@
+{
+  "policy_statement": "For Line of Action #1, make an additional EUR 129 million of public investment in 2020 (PDR 2020: EUR 122 million; POSEUR: EUR 7 million; other funds: EUR 0.1 million).",
+  "role": "sub",
+  "sector": "cross_sector",
+  "canonical_mechanism": "unspecified_public_investment → unspecified_climate_outcome",
+  "mechanism_description": "Increase public investment funding, which could enable climate-related projects but does not specify the action pathway or resulting climate effect.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Public funding allocation → (unspecified implemented measures) → (unspecified change in risk/emissions/resources) → climate outcome unclear",
+  "causal_mechanism_detail": "1) Changed human activity/system: Government increases budgetary resources/public investment.  \n2) Mediating process: Funds may be disbursed to projects/programs, but the mechanism does not specify which system is altered (energy, transport, land use, water, buildings, etc.) or the biophysical process affected.  \n3) Climate-relevant outcome: Indeterminate—could reduce GHGs, reduce hazard exposure, improve efficiency, or enhance sinks depending on what is funded, but none is specified in the mechanism.",
+  "dominant_pathway_test": "Providing unspecified public investment most directly increases financial capacity for potential climate actions, but does not itself produce a defined, single biggest climate-relevant effect without further specification.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Not defined—investment is an enabling input, not a climate-impact pathway.  \n2) Why this primary over alternatives: A primary label is required; “Adaptation” is selected only as a pragmatic default for unspecified climate-related public investment, but this is not grounded in the canonical mechanism’s physics/ecology.  \n3) Inherent causal chain for each secondary: None, because no physical consequence is guaranteed across all instances of “unspecified public investment.”  \n4) Edge cases applied: If the investment were explicitly for wildfire fuel management/forest resilience (as in the parent statement), the mechanism would shift to an adaptation (risk reduction) and potentially nature-based/land management pathway; if for renewables, it would be mitigation; if for efficiency upgrades, resource efficiency.  \n5) Confirm labels apply to ALL instances: They do not strictly apply; classification is low-confidence due to under-specified mechanism.",
+  "mechanism_confidence": 0.2,
+  "mechanism_edge_case_notes": "This canonical mechanism is intrinsically under-specified; classification depends entirely on what the investment funds. If parent/linked text specifies wildfire prevention/forest fuel reduction, reclassify using that concrete mechanism (primarily Adaptation; possibly Nature-Based Solutions or Mitigation depending on whether carbon sinks/emissions are central).",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"make an additional EUR 129 million of public investment\"; \"PDR 2020\"; \"POSEUR\"; \"other funds\"",
+  "co_benefits": "Potential co-benefits depending on funded projects (e.g., reduced wildfire risk, improved water security, flood protection, coastal resilience), but not attributable from the text.",
+  "instance_edge_case_notes": "Ambiguity: although labeled under “Line of Action #1” and categorized as Adaptation, the investment purpose is unspecified; could relate to multiple sectors/hazards or be unrelated to climate, so no hazard-specific secondary can be assigned."
+}

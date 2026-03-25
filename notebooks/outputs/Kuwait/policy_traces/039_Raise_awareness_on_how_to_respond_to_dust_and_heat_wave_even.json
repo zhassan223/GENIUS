@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Raise awareness on how to respond to dust and heat wave events.",
+  "role": "sub",
+  "sector": "cross_sector",
+  "canonical_mechanism": "risk_communication_awareness_campaign → heat_and_air_quality_health_impact_reduction",
+  "mechanism_description": "Public awareness and guidance on dust and heat-wave response increases preparedness and protective behaviors, reducing heat and air-quality-related health risks during extreme events.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Public health (heat/air quality)",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (extreme heat/poor air quality) → risk communication → protective behavior + service uptake → ↓ exposure/susceptibility → ↓ health impacts",
+  "causal_mechanism_detail": "(1) Change in human activity/system: Public health agencies deliver targeted warnings, guidance, and preparedness messaging (e.g., hydration/cooling practices, staying indoors during dust events, checking on vulnerable people, when/where to seek care).  \n(2) Mediating physical/social process: Information increases risk perception and timely protective actions, reducing contact with high temperatures and particulate pollution and improving early treatment/assistance.  \n(3) Climate-relevant outcome: Lower heat stress and air-pollution exposure during climate-amplified extremes, reducing acute and chronic health burdens (illness and deaths) and improving resilience of the population.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced heat- and air-quality-related morbidity/mortality by lowering human exposure and increasing protective behaviors during extreme events.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: hazard-focused communication → behavior change → reduced exposure → reduced health impacts (risk reduction).  \n2) Why this primary over alternatives: The mechanism does not primarily change energy use, material throughput, or carbon sinks; any emissions effects (e.g., more AC use or reduced travel) are incidental and not the main causal chain.  \n3) Inherent causal chain for each secondary: None—no secondary category occurs as an unavoidable physical consequence of awareness campaigns.  \n4) Edge cases applied: Even if messaging suggests energy-saving cooling tips, the core, consistent outcome across instances is health impact reduction during extremes (adaptation).  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism (heat/air-quality risk communication) is fundamentally about reducing vulnerability/exposure to climate hazards, so Adaptation applies universally.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Some campaigns may indirectly affect energy demand (e.g., increased air-conditioning use) or promote efficient cooling; these effects are context-dependent and not inherent, so they are not classified as secondary categories.",
+  "additional_secondary_evidence": "Public health (heat/air quality): Kuwait faces extreme heat (50°C+ events) and dust storms, and raising awareness on how to respond directly reduces exposure/sensitivity because guidance and warnings prompt protective actions (cooling/hydration, staying indoors/limiting outdoor activity during dust) that lower heat stress and particulate inhalation.",
+  "instrument_type": "information-disclosure",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Raising awareness\"; \"respond to dust and heat waves events\"",
+  "co_benefits": "Reduced strain on emergency/health services; improved general disaster preparedness and community cohesion.",
+  "instance_edge_case_notes": "Dust storms are not exclusively climate-driven, but the policy explicitly targets dust and heat-wave response and functions as a climate-relevant health risk communication measure in Kuwait’s hazard context."
+}

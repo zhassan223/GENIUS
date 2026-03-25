@@ -1,0 +1,23 @@
+{
+  "policy_statement": "As adaptation measures for increased short-time heavy rain, Hiroshima City will implement city renovation for disaster prevention, construct a disaster information sharing system, and enhance disaster information delivery systems.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "disaster_information_system_enhancement → flood_risk_impact_reduction",
+  "mechanism_description": "Enhancing disaster information sharing and delivery systems improves early warning and coordination during heavy rainfall, reducing damages and health/safety impacts from flooding events.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Disaster Risk Reduction",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (extreme rainfall/flooding) → improved warning/coordination → ↓ exposure & vulnerability → ↓ flood impacts",
+  "causal_mechanism_detail": "(1) Change: The city upgrades disaster information systems—monitoring, data sharing platforms, alert dissemination channels, and coordination protocols among agencies and the public. (2) Mediating process: Faster detection, clearer risk communication, and better interagency coordination enable earlier evacuation, targeted deployment of resources, and reduced time-to-response. (3) Outcome: Reduced fatalities, injuries, service disruption, and property/infrastructure damage from flood events driven or intensified by climate change.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing flood-related damages and health/safety impacts by improving early warning and response coordination during extreme rainfall events.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: managing a climate hazard by improving information/coordination to reduce impacts (hazard → ↓ exposure/vulnerability → ↓ damages). 2) Why Adaptation: the primary effect is impact reduction during flooding, not emissions reduction or efficiency gains. 3) Inherent secondaries: none are unavoidable—any mitigation or resource-efficiency effects (e.g., fewer response trips, avoided rebuild emissions) are indirect and context-dependent rather than guaranteed by the mechanism. 4) Edge cases applied: if the same system also optimizes energy use or enables low-carbon operations, that would be an additional feature, not inherent to this mechanism. 5) Label applies to all instances: any “disaster information system enhancement” aimed at flood events functions by improving warning/coordination to reduce flood impacts, which is adaptation everywhere.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Some implementations may incidentally reduce emissions by avoiding damage/reconstruction or improving operational logistics, but these effects are not inherent or dominant relative to the flood-impact reduction pathway.",
+  "additional_secondary_evidence": "Disaster Risk Reduction: Hiroshima faces flooding and landslides from heavy rainfall, and city renovation for disaster prevention plus disaster information sharing/delivery systems directly reduce exposure/sensitivity because they improve protective urban design and enable earlier warnings/evacuation and faster response during extreme rainfall events.",
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“Measures against increase of heavy rain in short time”; “City renovation for disaster prevention”; “construction of disaster information sharing system”; “enhancement of disaster information delivery system”",
+  "co_benefits": "Potential co-benefits: improved emergency response capacity for typhoons and other hazards; reduced non-climate disaster losses; improved public safety communications reliability.",
+  "instance_edge_case_notes": "“City renovation for disaster prevention” is broad and could include regulatory/planning components, but as written it most clearly indicates public works/ICT system build-out, so classified as infrastructure investment."
+}

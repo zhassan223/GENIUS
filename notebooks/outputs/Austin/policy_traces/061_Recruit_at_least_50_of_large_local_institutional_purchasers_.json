@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Recruit at least 50% of large local institutional purchasers (2,500+ employees) and at least 2,500 local organizations to adopt environmental and social sustainability procurement standards/guidelines, prioritizing historically underutilized and BIPOC-led/employing organizations.",
+  "role": "sub",
+  "sector": "cross_sector",
+  "canonical_mechanism": "sustainable_procurement_program → supply_chain_emissions_reduction",
+  "mechanism_description": "Adopting and spreading sustainability procurement standards changes what organizations buy, shifting demand toward lower-carbon products and services and reducing upstream supply-chain emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Institutional purchasing standards → demand shift to lower-carbon products/services → ↓ lifecycle (Scope 3) GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: A city or institution modifies procurement rules, specifications, vendor requirements, and staff/vendor practices to prefer lower-emission options (e.g., low-carbon materials, recycled content, efficient equipment, low-emission logistics, verified EPDs).  \n(2) Mediating process: Market demand and contracting conditions drive suppliers to offer/scale lower-carbon production methods and products, lowering embodied emissions in manufacturing, transport, and end-of-life treatment.  \n(3) Outcome: Reduced lifecycle greenhouse gas emissions attributable to the purchaser’s supply chain (primarily Scope 3).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced upstream (Scope 3) GHG emissions from producing, transporting, and disposing of purchased goods and services due to demand shifting toward lower-emission alternatives.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: procurement requirements shift purchasing toward lower-carbon goods/services, decreasing upstream lifecycle emissions.  \n2) Why this primary over alternatives: the mechanism’s intended and largest climate impact is GHG reduction (not hazard exposure reduction or ecosystem carbon sequestration).  \n3) Inherent causal chain for each secondary: none—resource efficiency, adaptation, or nature-based outcomes may occur in some implementations (e.g., reduced material use, resilience criteria), but they are not unavoidable for all sustainable procurement programs.  \n4) Edge cases applied: even when procurement includes social or local-economy goals, the climate mechanism here remains demand-driven supply-chain emissions reduction; if criteria focus purely on waste minimization or water savings without GHG relevance, classification could shift, but that is not inherent to this canonical mechanism.  \n5) Confirm labels apply to ALL instances: any policy under this mechanism, by definition, aims to reduce supply-chain emissions via procurement choices, which is mitigation in all contexts.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If a “sustainable procurement” program is implemented primarily for non-climate attributes (toxics reduction, labor standards) without materially targeting lifecycle GHGs, or if it is dominated by circularity mandates that mainly reduce material throughput, the appropriate primary category could differ; however, for this canonical mechanism (explicit supply-chain emissions reduction), Mitigation is robust.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Recruit at least 50% of local large institutional purchasers\"; \"at least 2,500 local organizations\"; \"collaboratively adopt\"; \"environmental and social sustainability procurement standards and/or guidelines\"",
+  "co_benefits": "Potential equity and local economic development benefits implied by \"social sustainability\" and prioritizing underutilized/BIPOC-led organizations; potential reductions in local air pollutants depending on what standards include.",
+  "instance_edge_case_notes": "Could be classified as a procurement-requirement if the standards were mandatory for City purchasing; however the text emphasizes recruiting external institutions to adopt guidelines, making it a voluntary coalition/strategy (enabling) rather than a binding mandate."
+}

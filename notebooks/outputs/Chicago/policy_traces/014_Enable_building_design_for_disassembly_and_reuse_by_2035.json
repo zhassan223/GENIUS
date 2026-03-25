@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Enable building design for disassembly and reuse by 2035.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "design_for_disassembly_and_reuse → embodied_emissions_reduction",
+  "mechanism_description": "Designing buildings for disassembly enables material reuse and reduces new material production, lowering embodied greenhouse gas emissions from construction.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Designing buildings for disassembly increases component/material reuse and extends material lifetimes, which inherently reduces demand for virgin material extraction and processing per unit of building service.",
+  "primary_causal_pathway": "Building design change (DfD/DfR) → ↑ reuse/recovery of components → ↓ virgin material production (cement/steel/glass/etc.) → ↓ embodied GHG emissions",
+  "causal_mechanism_detail": "1) Change in human activity/system: Building codes, design practices, and procurement shift toward modular construction, reversible connections, standardized components, material passports, and planned deconstruction rather than demolition.  \n2) Mediating physical/industrial process: Higher recovery and direct reuse of structural and finish components displaces production of new materials, reducing energy consumption and process emissions in material manufacturing (notably cement clinker production, steelmaking) and reducing demolition waste flows.  \n3) Climate-relevant outcome: Lower life-cycle/embodied CO₂e emissions associated with construction, renovation, and end-of-life building activities.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced embodied greenhouse gas emissions from avoided virgin material production through increased reuse of building components.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: DfD/DfR → reuse → avoided virgin material production → reduced embodied GHGs (mitigation).  \n2) Why this primary over alternatives: The mechanism’s direct, intended climate effect is emissions reduction (industrial/process + energy) rather than hazard reduction (adaptation) or ecosystem carbon sequestration (nature-based solutions).  \n3) Inherent secondary chain(s):  \n   - Resource Efficiency: Reuse and longer material lifetimes inherently mean fewer new materials are required for the same building function, reducing throughput.  \n4) Edge cases applied: If reuse markets are weak, realized emission reductions may be smaller, but the mechanism remains mitigation-focused because it targets embodied emissions via reuse/displacement.  \n5) Label applicability check: Any policy implementing design for disassembly and reuse necessarily targets reduced virgin material demand and embodied emissions; thus Mitigation (primary) and Resource Efficiency (secondary) apply broadly across instances.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Rebound/implementation risk: if recovered components are downcycled, transported long distances, or not actually reused, benefits can be reduced; operational energy impacts (positive or negative) are not inherent to the mechanism and therefore not classified as a secondary effect.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Enable\"; \"building design for disassembly and reuse\"; \"by 2035\"",
+  "co_benefits": "Potential construction and demolition waste reduction and associated landfill diversion; potential reduced local air pollutants from lower material production (not specified as a local measure in text).",
+  "instance_edge_case_notes": "“Enable” could be implemented via regulatory mandates (building code), procurement requirements, or incentives, but the text alone specifies only a time-bound objective, so it is best treated as target-setting/enabling rather than a direct regulatory or investment instrument."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Line of Action #8: Increase resilience and coastal protection in areas at high risk from coastal erosion, overtopping and flooding, including sediment management, dune and coastal defence interventions, and planned retreat in high-risk areas.",
+  "role": "parent",
+  "sector": "cross_sector",
+  "canonical_mechanism": "coastal_protection_and_managed_retreat → coastal_flood_and_erosion_risk_reduction",
+  "mechanism_description": "Implementing sediment/dune management, coastal defense structures, and planned retreat reduces vulnerability and expected damages from coastal erosion, overtopping, and coastal flooding.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Disaster Risk Reduction",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (sea-level rise, storm surge, waves) → coastal flooding/erosion risk → coastal protection + managed retreat → ↓ exposure/vulnerability → ↓ damages/disruption",
+  "causal_mechanism_detail": "(1) Changes implemented: deploy/upgrade coastal defense structures (e.g., seawalls, revetments), manage sediment budgets (bypassing/nourishment), restore/maintain dunes, and/or execute planned retreat by removing/relocating buildings and infrastructure from erosion/flood zones. (2) Mediating processes: defenses attenuate wave energy and storm surge impacts; dunes and sediment management maintain protective coastal morphology and buffering capacity; retreat eliminates receptors from the hazard zone entirely. (3) Climate-relevant outcome: reduced likelihood and severity of coastal inundation and erosion impacts, lowering climate-related losses, service disruption, and safety risks.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing exposure and expected damages to people, assets, and infrastructure from coastal flooding and erosion driven by sea-level rise and storms.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: intervention targets coastal hazard impacts (flooding/erosion) by reducing exposure/vulnerability and/or physically buffering the hazard.  \n2) Why this primary over alternatives: while some measures (e.g., dune work) can be “nature-based,” the shared mechanism across all instances is hazard risk reduction (including hard defenses and retreat), which is adaptation rather than emissions/sinks or efficiency.  \n3) Inherent causal chain for each secondary: none is unavoidable—these policies can be purely engineered (no inherent ecosystem enhancement) and do not necessarily reduce energy/material use or GHGs.  \n4) Edge cases applied: when implemented specifically via dune/wetland restoration, it may also qualify as nature-based, but that is not guaranteed by “coastal protection and managed retreat” as a whole, so it is not assigned as an inherent secondary.  \n5) Confirm labels apply to ALL instances: any policy under this mechanism—whether seawalls, sediment management, or relocation—centrally aims to reduce coastal flood/erosion risk and associated damages, i.e., adaptation.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Some implementations are explicitly ecosystem-based (e.g., dune or wetland restoration) and could be classified as Nature-Based Solutions in a different, narrower mechanism definition; however, because this canonical mechanism includes hard defenses and retreat as co-equal options, “Nature-Based Solutions” is not inherent to all instances.",
+  "additional_secondary_evidence": "Disaster Risk Reduction: Portugal faces coastal erosion and flooding, and sediment management + dune/coastal defence interventions + planned retreat directly reduce exposure/sensitivity because they buffer wave/surge impacts and remove people/assets from high-risk coastal zones.",
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“areas at high risk from coastal erosion, overtopping and flooding”; “sediment management”; “Interventions in dune systems”; “Interventions in coastal defence structures”; “Planned retreat”; “removal of structures or buildings in high-risk areas”",
+  "co_benefits": "Ecosystem services/biodiversity from dune restoration and more natural sediment dynamics; avoided maintenance costs and improved coastal amenity (beach quality) from sediment management.",
+  "instance_edge_case_notes": "Instrument type is a bundled package (nature-based measures, grey infrastructure, and retreat). Classified as planning-strategy because it is framed as a “Line of Action” specifying measures rather than a specific funding/procurement/regulatory vehicle."
+}

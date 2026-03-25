@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Create inclusive and easily accessible incentives for buying or leasing EVs, prioritizing low-income communities and communities of color and areas with limited transit access.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "ev_purchase_incentives → ev_adoption_and_transport_emissions_reduction",
+  "mechanism_description": "Provide targeted financial/accessible incentives for EV purchase or leasing to accelerate EV adoption, displacing gasoline/diesel driving and reducing transport greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: EV adoption typically reduces energy input per mile traveled (higher drivetrain efficiency than ICE), lowering total energy use for the same mobility service alongside emissions reductions.",
+  "primary_causal_pathway": "Incentives/pricing changes → ↑ EV adoption/usage → ↓ gasoline/diesel vehicle miles and fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Households and fleets face lower effective cost (rebates, grants, tax credits, reduced tolls/fees) to buy/lease and/or operate EVs, increasing EV uptake and utilization.  \n2) Mediating physical process: EVs substitute for internal-combustion vehicles, reducing direct tailpipe CO₂ (and associated upstream fuel-cycle emissions), with remaining emissions depending on electricity generation mix.  \n3) Climate-relevant outcome: Net reduction in lifecycle transportation greenhouse gas emissions (often also reduced local air pollutants, though not a category here).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions as EVs displace internal-combustion vehicle driving and fuel combustion.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Incentives increase EV adoption and/or use, which displaces ICE fuel combustion, producing a direct net decrease in GHG emissions—this is a mitigation pathway.  \n2) Why this primary over alternatives: While incentives can have equity, air quality, or congestion side-effects, the central climate-relevant intent and largest effect is emissions abatement from electrified transport.  \n3) Inherent causal chain for each secondary:  \n   - Resource Efficiency: EV substitution generally delivers the same travel service with lower energy per mile due to higher conversion efficiency, thus reducing energy demand intensity.  \n4) Edge cases applied: If electricity is highly carbon-intensive or incentives induce additional VMT, net GHG benefits could be smaller, but the mechanism’s intended and typical dominant effect remains emissions reduction via electrification.  \n5) Confirm labels apply to ALL instances: Any policy that functions as an EV purchase/lease/use incentive is structurally aimed at accelerating EV adoption relative to ICE, making mitigation primary; the efficiency advantage is generally inherent to EV substitution.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Net mitigation impact can be reduced where the grid is very carbon-intensive, where incentives primarily shift users from transit/walking to driving, or where “EV incentives” apply to inefficient large vehicles and increase total VMT; nonetheless the canonical mechanism is still primarily mitigation via ICE displacement.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "incentive-program",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“Create equitable incentives”; “inclusive and easily accessible incentives”; “buying or leasing electric vehicles”; “prioritize low-income communities and communities of color”; “Collaborate with community partners”",
+  "co_benefits": "Improved local air quality (reduced NOx/PM from tailpipes) and potential public health benefits in priority communities; potential reduced noise pollution.",
+  "instance_edge_case_notes": "Assigned secondary “Resource Efficiency” is not strongly evidenced in the text (focus is fuel-switching/decarbonization rather than explicit energy/resource efficiency), but it is retained as instructed. No clear linkage to Austin-specific hazard exposure reduction (e.g., flood/heat resilience) is described."
+}

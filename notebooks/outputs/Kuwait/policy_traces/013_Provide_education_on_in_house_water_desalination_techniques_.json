@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Provide education on 'in-house water desalination techniques' for rural households, implemented jointly with the United Nations (started 2016).",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "household_desalination_education_program → water_supply_resilience",
+  "mechanism_description": "Educating households on in-home desalination enables local freshwater production, increasing reliable water supply and resilience to water scarcity.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Water Security",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (water scarcity/supply disruption) → ↑ household freshwater availability → ↓ exposure/sensitivity to water shortages",
+  "causal_mechanism_detail": "(1) Human activity/system changed: households adopt in-home desalination practices/technologies due to training and awareness. (2) Mediating process: distributed desalination converts saline/brackish water to freshwater at point-of-use, reducing dependence on centralized supply chains vulnerable to outages, drought, or contamination. (3) Climate-relevant outcome: improved water-supply reliability during climate-amplified scarcity/heat events, reducing household exposure to water insecurity.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is improved resilience to drought/water scarcity and water-supply disruptions by increasing access to reliable freshwater at the household level.",
+  "mechanism_classification_reasoning": "(1) Dominant causal pathway: addresses a climate stressor (water scarcity/disruption) by increasing adaptive capacity and reducing exposure to shortages. (2) Why this primary over alternatives: while desalination can affect energy use/Emissions, an education program enabling household water production is chiefly a resilience measure; emissions direction is ambiguous and not guaranteed across instances. (3) Inherent causal chain for each secondary: none—no unavoidable mitigation, resource-efficiency, or nature-based effect is physically guaranteed by household desalination education. (4) Edge cases applied: if paired with renewable-powered devices or efficiency requirements, it could create mitigation/resource-efficiency co-benefits, but these are not inherent to the mechanism. (5) Confirm labels apply to ALL instances: any program teaching household desalination is fundamentally about ensuring water access under scarcity, which is an adaptation outcome regardless of location.",
+  "mechanism_confidence": 0.83,
+  "mechanism_edge_case_notes": "Household desalination can increase electricity demand (potentially increasing GHG emissions) unless powered by renewables; however, this mitigation-relevant effect is context-dependent and not inherent to the education/resilience mechanism.",
+  "additional_secondary_evidence": "Water Security: Kuwait faces water scarcity (near-total desalination dependence), and education on “in-house water desalination techniques” directly reduces exposure/sensitivity because it enables households to produce freshwater at point-of-use, improving reliability during shortages or supply disruptions.",
+  "instrument_type": "information-disclosure",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Education on household desalination”; “taught the Kuwaiti people in rural areas”; “‘in-house water desalination techniques’”; “households can have freshwater at low cost and short time”; “UNDP started this project”",
+  "co_benefits": "Potential public health and hygiene benefits from improved access to safe freshwater; potential reduced pressure on centralized water distribution during disruptions.",
+  "instance_edge_case_notes": "Instrument could also be framed as a planning-strategy (capacity building/technical assistance program), but the core mechanism in the text is education/training rather than formal planning or infrastructure provision."
+}

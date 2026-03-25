@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Implement capacity building actions for technicians and decision-makers in climate vulnerability assessment and adaptive management.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "capacity_building_for_vulnerability_assessment → institutional_adaptive_capacity",
+  "mechanism_description": "Training technicians and decision-makers to assess climate vulnerabilities and manage adaptively improves institutional capacity to plan and implement effective adaptation measures.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Capacity building/training → improved climate risk assessment & adaptive management → better adaptation planning/implementation → ↓ exposure/sensitivity to climate hazards",
+  "causal_mechanism_detail": "(1) Change in human/system activity: Governments/organizations train technicians and decision-makers in climate vulnerability assessment and adaptive management practices and tools.  \n(2) Mediating process: Improved technical competence, institutional processes, and decision support use (e.g., integrating risk information into plans, prioritization, budgeting, and operations) increases institutional adaptive capacity.  \n(3) Climate-relevant outcome: Earlier/more targeted adaptation actions and better-managed responses reduce damages, disruption, and risk to people, assets, and services under climate extremes and long-term change.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced vulnerability and impacts from climate hazards because trained staff can better assess risks and implement effective adaptation actions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Training for vulnerability assessment/adaptive management increases institutional adaptive capacity, which reduces climate risk impacts (Adaptation).  \n2) Why this primary over alternatives: The mechanism’s direct and intended climate effect is improved preparedness and decision quality for climate hazards, not emissions reductions (Mitigation), not inherent efficiency gains (Resource Efficiency), and not ecosystem restoration (Nature-Based Solutions).  \n3) Inherent causal chain for each secondary: None—any mitigation/resource-efficiency co-benefits depend on which downstream measures are chosen and are not guaranteed by capacity building alone.  \n4) Edge cases applied: Even if training later enables mitigation projects, that is indirect and contingent; the mechanism itself remains adaptation-focused.  \n5) Confirm labels apply to ALL instances: Any policy described as building capacity to conduct vulnerability assessments and practice adaptive management universally functions by strengthening institutional adaptation capability.",
+  "mechanism_confidence": 0.92,
+  "mechanism_edge_case_notes": "If the capacity building is explicitly framed around GHG inventories, energy management, or mitigation planning, the mechanism would differ; here it is explicitly vulnerability assessment/adaptive management, so Adaptation is appropriate.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Capacity building actions”; “technicians and decision-makers”; “climate vulnerability assessment”; “adaptive management”",
+  "co_benefits": "Potential improved disaster preparedness/response and more efficient public investment prioritization, but not explicitly tied to a specific hazard-reduction outcome in the text.",
+  "instance_edge_case_notes": "Could be coded as an incentive-program if the underlying policy provides funded training/technical assistance; however, the excerpt only states the action (capacity building) without specifying grants/subsidies, so it is treated as a planning/strategy-type enabling instrument."
+}

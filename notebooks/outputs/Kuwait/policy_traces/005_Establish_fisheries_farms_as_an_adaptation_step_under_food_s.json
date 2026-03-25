@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Establish fisheries farms as an adaptation step under food security, including Nile tilapia culture in farms using brackish water (5–8 ppt) in Al-Wafra, Abdali and Al-Sulybia areas; budget $250,000/year.",
+  "role": "sub",
+  "sector": "land_use",
+  "canonical_mechanism": "aquaculture_development → food_security_resilience",
+  "mechanism_description": "Developing brackish-water aquaculture increases resilient local fish production, strengthening food security under climate stress.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Water scarcity",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate stressors (heat/drought/salinity/market disruption) → aquaculture production capacity → ↑ stability of local food supply → ↓ vulnerability/impact on food security",
+  "causal_mechanism_detail": "(1) Change in human activity/system: Invest in and operate aquaculture (e.g., brackish-water tilapia farms) to shift part of food provisioning from wild capture/import dependence to managed local production. (2) Mediating process: Controlled cultivation conditions and diversification of protein sources buffer production against climate-driven declines in fisheries, freshwater limits, and supply-chain shocks; brackish-water use can bypass some freshwater constraints. (3) Climate-relevant outcome: Increased resilience of food availability and access during climate extremes and longer-term climatic shifts, reducing food-security risk.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced vulnerability of food supply (availability and stability) to climate hazards through diversified, controlled-environment fish production.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: The mechanism is designed to buffer food systems against climate impacts by increasing reliable local fish production—an exposure/sensitivity reduction outcome (food-security resilience).  \n2) Why this primary over alternatives: While aquaculture can have mitigation co-effects (depending on energy use, feed, and avoided imports), those are not the central or guaranteed outcome across all instances; the intent and main effect here is resilience under climate stress.  \n3) Inherent causal chain for each secondary: None—GHG impacts (positive or negative) vary widely with aeration/pumping energy source, feed type, and baseline supply chain; thus mitigation/resource-efficiency benefits are not unavoidable.  \n4) Edge cases applied: If implemented as low-energy, low-feed systems that displace high-emissions protein, it could be mitigation, but that is contingent, not inherent to “aquaculture development → food security resilience.”  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism is fundamentally about stabilizing food supply under climate variability, so Adaptation applies broadly; no secondary category is guaranteed in every context.",
+  "mechanism_confidence": 0.84,
+  "mechanism_edge_case_notes": "Aquaculture can increase emissions (energy for pumping/aeration, feed production) or reduce them (displacing higher-emissions proteins or imports); it can also affect water use and local ecosystems. Because these effects are context- and design-dependent, they are not assigned as inherent secondary categories.",
+  "additional_secondary_evidence": "Water scarcity: Kuwait faces water scarcity (near-total desalination dependence), and establishing brackish-water tilapia farms directly reduces sensitivity to freshwater scarcity because the farms “use brackish water … pumped from underground wells” rather than relying on freshwater supplies.",
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“important step to adapt to climate change”; “food security sector”; “establishment of fisheries farms”; “Brackish water with a salinity of 5-8 ppt pumped from underground wells”; “budget … $250,000/year”",
+  "co_benefits": "Potential livelihood diversification/local jobs and reduced import dependence (supply-chain resilience), but not explicitly framed as primary hazard-specific exposure/sensitivity reduction beyond food security/water constraints.",
+  "instance_edge_case_notes": "“Water scarcity” is added as a secondary because the mechanism explicitly substitutes brackish groundwater for freshwater, which directly affects sensitivity to freshwater limitations; however, the action could also increase groundwater extraction pressures—this potential tradeoff is not described in the text."
+}

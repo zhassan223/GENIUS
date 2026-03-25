@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Plan for the first Ultra-Low Energy (ULE) or Net Zero Energy (NZE) County building.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "net_zero_building_design → building_operational_emissions_reduction",
+  "mechanism_description": "Planning and delivering an ultra-low or net-zero energy public building reduces operational energy use and associated greenhouse gas emissions from building operations.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Net-zero/ultra-low-energy designs deliver the same building services (comfort, lighting, ventilation) with less energy input through efficiency and passive measures, inherently reducing energy intensity even when the grid is already low-carbon.",
+  "primary_causal_pathway": "Building design + construction standards/incentives → ↓ building energy demand (and often ↑ on-site renewable supply) → ↓ fossil energy use / ↓ grid electricity emissions → ↓ GHG emissions",
+  "causal_mechanism_detail": "(1) Change: New or renovated buildings are designed and delivered to ultra-low-energy or net-zero-energy performance (high-performance envelope, efficient HVAC/lighting/appliances, controls/commissioning, and frequently on-site PV).  \n(2) Process: Reduced thermal losses/gains and higher equipment efficiency lower delivered energy; any on-site renewables displace grid/onsite fossil generation.  \n(3) Outcome: Lower operational CO₂e emissions over the building lifetime (and often reduced peak electricity demand that would otherwise be met by higher-emitting generation).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced GHG emissions from building operations due to sharply lower energy use and/or on-site clean energy supply.",
+  "mechanism_classification_reasoning": "(1) Dominant causal pathway: building performance improvements → lower operational energy use/supply decarbonization → lower operational GHG emissions.  \n(2) Why this primary over alternatives: Although such buildings can improve comfort and resilience, the mechanism as defined is explicitly about reducing operational emissions; mitigation is the dominant intended and realized climate effect across contexts.  \n(3) Inherent secondary chain(s): Resource Efficiency is inherent because ultra-low-energy/net-zero design necessarily reduces energy input per unit service through efficiency/passive strategies (even if net-zero is achieved with renewables, ULE/NZE programs typically require/produce major load reductions).  \n(4) Edge cases applied: If a “net-zero” claim were achieved solely via off-site credits without real load reduction, the resource-efficiency secondary would weaken; however the canonical mechanism here is “design → operational emissions reduction,” which presumes real operational energy reductions and/or clean supply as part of design delivery.  \n(5) Confirm labels apply to ALL instances: Any policy implementing net-zero/ULE building design (via planning, mandates, or incentives) drives operational emissions reductions (Mitigation) and generally reduces energy intensity (Resource Efficiency).",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Some programs label buildings “net-zero” via renewable energy certificates or off-site procurement with limited on-site efficiency gains; in those cases Mitigation still holds, but Resource Efficiency may be less inherent. Adaptation co-benefits (e.g., better thermal comfort during heat) are common but not guaranteed by all NZE/ULE designs, so not assigned as secondary.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Plan\"; \"first Ultra-Low Energy (ULE)\"; \"Net Zero Energy (NZE) County building\"",
+  "co_benefits": "Potential improved heat resilience/indoor comfort during extreme heat events and outages; potential reduced peak load stress on the grid.",
+  "instance_edge_case_notes": "“Plan for” indicates a preparatory/planning action rather than an implemented mandate/standard or capital project yet; NZE could imply on-site solar (infrastructure), but that is not explicit in the text."
+}

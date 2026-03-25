@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Enact policies that support electrified renovations and new construction by 2023.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "building_electrification → building_emissions_reduction",
+  "mechanism_description": "Supportive policies drive electrified building renovations and new construction, replacing fossil fuel end-uses with electricity to reduce building-related greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Building electrification typically enables high-efficiency end-use technologies (especially heat pumps) that deliver the same heating/cooling service with less final energy input, reducing overall energy demand per unit of service.",
+  "primary_causal_pathway": "Building energy end-uses → electrification (no on-site combustion) → ↓ fossil fuel combustion emissions + (over time) ↓ electricity-supply emissions → ↓ GHG emissions",
+  "causal_mechanism_detail": "(1) Change: Policies drive electrified renovations and new construction by replacing fossil-based equipment (gas/oil furnaces/boilers, water heaters, stoves) with electric alternatives (heat pumps, electric resistance in limited cases, induction).  \n(2) Mediating process: Eliminating on-site combustion removes direct CO₂ (and some CH₄/N₂O) emissions; efficient electric technologies (notably heat pumps) reduce energy required for the same thermal service; remaining indirect emissions depend on the grid’s carbon intensity.  \n(3) Outcome: Net reduction in building-sector GHG emissions (Scope 1 decreases immediately; Scope 2 decreases as the grid decarbonizes and/or efficiency lowers kWh demand).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced GHG emissions from buildings by replacing on-site fossil fuel combustion with electric end-use technologies (with further reductions as grid emissions decline).",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: switching building end-uses from fossil combustion to electricity leads to lower GHG emissions.  \n2) Why this primary over alternatives: while electrification can also improve energy productivity, the defining and largest climate intent/effect of this mechanism across policies is emissions abatement (direct combustion eliminated; indirect emissions fall with grid decarbonization).  \n3) Inherent secondary chain(s): Resource Efficiency applies because electrification commonly uses higher-efficiency technologies (especially heat pumps), reducing energy input for the same service.  \n4) Edge cases applied: if electrification is supplied by a highly carbon-intensive grid, near-term net GHG benefits can be smaller or delayed; however the mechanism still targets emissions reduction via fuel switching and is generally paired with grid decarbonization assumptions.  \n5) Confirm labels apply to ALL instances: any policy implementing this mechanism is fundamentally about electrifying building end-uses to cut building emissions; efficiency gains are typical and physically linked to prevalent electrification tech, while adaptation or nature-based outcomes are not inherent.",
+  "mechanism_confidence": 0.84,
+  "mechanism_edge_case_notes": "Net GHG impact can vary with grid carbon intensity and technology choice (e.g., resistance heating vs. heat pumps); electrification may increase peak electric demand unless paired with efficiency and load management, but this does not change the dominant mitigation classification.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Enact policies\"; \"support electrified renovations and new construction\"; \"by 2023\"",
+  "co_benefits": "Potential public-health and indoor air quality improvements from reduced on-site combustion; potential resilience benefits if electrification is paired with weatherization/backup power (not stated).",
+  "instance_edge_case_notes": "The instrument could alternatively be coded as a planning-strategy if embedded in a broader plan, but the explicit “by 2023” deadline and lack of specified tool suggests target-setting. No explicit linkage to cooling demand/heat resilience or flood resilience is stated, so adaptation secondary categories are not added."
+}

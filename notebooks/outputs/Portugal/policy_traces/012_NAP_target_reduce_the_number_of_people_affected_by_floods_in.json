@@ -1,0 +1,23 @@
+{
+  "policy_statement": "NAP target: reduce the number of people affected by floods in risk areas identified in Flood Risk Management Plans by 25% by 2030 (compared with previous PGRI cycle).",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "flood_risk_management_measures → flood_impact_reduction",
+  "mechanism_description": "Implementing flood risk management measures in identified risk areas reduces the number of people affected by flooding.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Disaster Risk Reduction",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (flooding) → risk management measures (protection + storage/infiltration + drainage + warning) → ↓ exposure/vulnerability + ↓ inundation probability/severity → ↓ flood impacts",
+  "causal_mechanism_detail": "(1) Change enacted: Governments implement flood risk management plans and interventions in identified flood-prone areas (e.g., upgraded stormwater drainage, protective infrastructure, infiltration/storage areas, river profile restoration, monitoring/modelling, and early warning systems). (2) Mediating process: These measures physically reduce floodwater levels/velocity or reroute/store runoff, increase system capacity to convey water, and improve preparedness/response time via forecasting and alerts. (3) Climate-relevant outcome: Reduced flood damages and fewer people affected/injured/displaced during extreme precipitation, riverine, or urban flooding events that may increase with climate change.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced human and asset impacts from flooding (lower exposure/vulnerability and damages) under current and future climate conditions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: the mechanism addresses a climate hazard (flooding) by reducing exposure/vulnerability and physical flood impacts. 2) Why this primary over alternatives: while some sub-measures (e.g., infiltration areas, river restoration) can have co-benefits (water quality, ecosystem services), the stated and prevailing objective across policies using this mechanism is impact/risk reduction from flooding, which is Adaptation rather than Mitigation/Resource Efficiency/NBS. 3) Inherent causal chain for secondaries: none are unavoidable across all implementations—many flood measures are purely gray infrastructure or operational systems (warnings), so Nature-Based Solutions and Resource Efficiency are not inherent. 4) Edge cases applied: if a specific policy instance relies exclusively on ecosystem restoration/green infrastructure, it could be NBS as a primary for that narrower mechanism, but the canonical mechanism here includes mixed measures and is defined by flood impact reduction. 5) Confirm labels apply to ALL instances: any flood risk management measure aimed at reducing affected people/damages is fundamentally an adaptation action regardless of local context.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Some implementations may be primarily nature-based (e.g., floodplain reconnection/wetland restoration) or may yield mitigation co-benefits (carbon sequestration in restored floodplains); however these are not guaranteed for all flood risk management measures (e.g., levees, drainage upsizing, warning systems), so they are not assigned as inherent secondary categories.",
+  "additional_secondary_evidence": "Disaster Risk Reduction: Portugal faces flooding, and setting a quantified target to reduce the number of people affected in flood risk areas directly reduces sensitivity/impact by driving and tracking flood risk management actions aimed at lowering harm to people.",
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“reduce the number of people affected by floods”; “risk areas identified in Flood Risk Management Plans”; “by 25% by 2030”",
+  "co_benefits": "Potential co-benefits include improved emergency preparedness and public safety outcomes beyond climate-driven floods; possible reduced disruption to services/economy in flood-prone areas.",
+  "instance_edge_case_notes": "Target could be implemented via multiple instrument mixes (planning, infrastructure investment, warnings), but the text itself specifies only a quantified reduction goal, not the implementing measures—hence classified as target-setting and enabling rather than direct."
+}

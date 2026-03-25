@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Create infiltration areas for flood risk reduction, including constructing/rehabilitating retention basins, reconverting impermeable surfaces (e.g., drainage paving/renaturalisation), and building retention ditches on slopes to retain precipitation.",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "stormwater_infiltration_and_retention → flood_risk_reduction",
+  "mechanism_description": "Expand infiltration and retention infrastructure to slow, store, and infiltrate rainfall, reducing runoff and peak flows to lower flooding risk.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (extreme precipitation) → stormwater retention/infiltration → ↓ runoff peak flow/volume → ↓ flood extent/depth → ↓ exposure and damages",
+  "causal_mechanism_detail": "(1) Change in system: Cities add or upgrade green/gray stormwater controls (retention basins, infiltration areas, permeable/drainage paving, swales/ditches) to alter how rainfall is handled on-site and within the drainage network. (2) Mediating process: Increased temporary storage and enhanced infiltration/soil percolation attenuate hydrographs, reduce effective imperviousness, and delay/limit discharge into sewers and waterways during storm events. (3) Climate-relevant outcome: Lower peak flows and inundation frequency/severity reduces flood risk (people, buildings, infrastructure), improving resilience under more intense rainfall regimes.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing flood impacts from extreme rainfall by slowing, storing, and infiltrating stormwater to lower peak flows and inundation.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: manage extreme precipitation runoff via retention/infiltration to reduce flooding impacts—an exposure/vulnerability reduction pathway.  \n2) Why this primary over alternatives: while some implementations can incidentally improve water quality or reduce pumping energy, the mechanism as defined is explicitly flood-risk reduction, which is an adaptation outcome.  \n3) Inherent causal chain for each secondary: None—co-benefits like groundwater recharge, urban cooling (if vegetated), biodiversity gains, or energy/GHG changes are not guaranteed in every instance (e.g., purely engineered basins/ditches without ecological enhancement; varying downstream treatment/pumping contexts).  \n4) Edge cases applied: infiltration features can sometimes increase baseflow or interact with contaminated soils; these do not change the primary intent/effect of flood attenuation but affect suitability and safeguards.  \n5) Confirm labels apply to ALL instances: any policy using stormwater infiltration/retention to lower runoff peaks is fundamentally reducing flood hazard impacts, so Adaptation applies universally.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Some projects may qualify as Nature-Based Solutions if they explicitly rely on ecosystem restoration/green infrastructure as the core intervention (e.g., wetland restoration, riparian reconnection) and deliver habitat/carbon co-benefits; however, the canonical mechanism here (infiltration/retention for flood reduction) is not inherently ecosystem-based and is best treated as Adaptation across implementations.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Creating infiltration areas\"; \"Construction and/or rehabilitation of retention basins\"; \"Reconversion of impermeable surface areas\"; \"installation of drainage paving\"; \"Building retention ditches... on slopes to retain precipitation\"",
+  "co_benefits": "Potential water quality improvement and groundwater recharge; urban cooling/amenity from renaturalisation (where applicable)",
+  "instance_edge_case_notes": "Could also be implemented via regulatory requirements (e.g., permeable-surface mandates), but the phrasing emphasizes concrete measures/construction, so classified as infrastructure investment."
+}

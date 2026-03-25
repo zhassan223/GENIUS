@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Complete an Electric Vehicle Community Needs Assessment to inform an EV adoption growth plan, using community partners and hiring residents from the communities served.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "ev_needs_assessment_and_planning → ev_adoption_enabling",
+  "mechanism_description": "Conducting an EV community needs assessment improves targeting and design of EV adoption plans, enabling higher EV uptake and associated transport emissions reductions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Planning & barrier identification → ↑ EV adoption → fuel-switching (ICE → EV) → ↓ tailpipe GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in system: The city conducts an EV community needs assessment and uses it to design an EV adoption growth plan (often equity-targeted), reducing informational, access, and program-design barriers to EV uptake. (2) Mediating process: Better-targeted incentives, charging deployment, outreach, and program features increase the probability that households/fleets choose EVs over internal combustion vehicles. (3) Climate-relevant outcome: More EV miles displace fossil fuel combustion in transport, reducing CO₂e emissions (net impact depends on grid emissions intensity but the mechanism’s intent is emissions reduction via electrification).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions when higher EV uptake displaces gasoline/diesel vehicle miles traveled.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: assessment/planning → increased EV adoption → reduced fossil fuel combustion in transport → lower GHG emissions (mitigation).  \n2) Why this primary over alternatives: the assessment itself doesn’t directly reduce energy use or increase resilience; it is an enabling step whose dominant intended climate effect is emissions mitigation through vehicle electrification.  \n3) Inherent causal chain for each secondary: None—resource efficiency (less energy per mile) and air-quality/health co-benefits may occur, but they are not guaranteed for every instance of this mechanism and are not required physical consequences of “needs assessment and planning” alone.  \n4) Edge cases applied: if EVs are charged on a very carbon-intensive grid, net GHG benefits could be smaller; however the mechanism remains designed to mitigate via electrification.  \n5) Confirm labels apply to ALL instances: any policy using this mechanism is fundamentally aimed at enabling EV uptake; the primary climate-relevant pathway is mitigation via transport electrification.",
+  "mechanism_confidence": 0.84,
+  "mechanism_edge_case_notes": "Some instances may be primarily equity/engagement-focused or may not translate into implemented adoption measures; actual emissions impacts depend on follow-through and grid carbon intensity, but the mechanism classification remains mitigation-oriented (enabling EV adoption).",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Community Needs Assessment\"; \"inform an EV adoption growth plan\"; \"using community partners\"; \"hiring residents\"",
+  "co_benefits": "Equity/community capacity-building and local employment; potential (downstream) air quality improvements if EV adoption increases.",
+  "instance_edge_case_notes": "Could contribute indirectly to heat/air-quality public health outcomes via reduced vehicle pollution, but the stated mechanism is planning for EV adoption (mitigation) rather than a direct hazard exposure/sensitivity reduction."
+}

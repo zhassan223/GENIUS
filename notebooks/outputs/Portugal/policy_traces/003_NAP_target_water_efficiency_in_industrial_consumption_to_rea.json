@@ -1,0 +1,23 @@
+{
+  "policy_statement": "NAP target: water efficiency in industrial consumption to reach 85% by 2020 and 90% by 2030.",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "water_efficiency_standards → per_capita_water_reduction",
+  "mechanism_description": "Setting industrial water-efficiency targets reduces water used per unit of activity, lowering overall water demand.",
+  "primary_category": "Resource Efficiency",
+  "secondary_categories": "Adaptation",
+  "secondary_justification": "Adaptation: Lower demand → reduced withdrawal/production needs and peak system strain → improved reliability of supply under drought/heat and reduced probability/severity of water shortages/restrictions.",
+  "primary_causal_pathway": "Same service (water services) → ↓ water throughput → ↓ energy input for conveyance/treatment/heating → ↓ GHG emissions",
+  "causal_mechanism_detail": "1) Change in human activity/system: Households, businesses, and buildings use less water due to standards (e.g., fixtures/appliances), pricing/programs, and demand-management/customer assistance enabling conservation adoption.  \n2) Mediating physical process: Reduced volumetric flow through the urban water cycle lowers electricity/fuel use for raw water extraction, pumping, treatment, pressurization, and wastewater conveyance/aeration; in some contexts it also reduces hot-water demand (water heating energy).  \n3) Climate-relevant outcome: Net reduction in energy consumption and associated CO₂e emissions from utility operations (and sometimes end-use water heating), plus improved robustness of water supply during drought conditions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is lowering GHG emissions by reducing the energy required to pump, treat, distribute, heat, and treat wastewater for a smaller volume of water.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Water efficiency → less water moved/treated/heated → less energy use → lower GHG emissions (resource-efficiency-driven mitigation).  \n2) Why this primary over alternatives: While reduced withdrawals can enhance drought resilience, the mechanism’s core, always-present physical effect is reduced resource throughput (water) and associated energy inputs; that aligns most directly with Resource Efficiency rather than Adaptation.  \n3) Inherent causal chain for each secondary:  \n   - Adaptation is inherent because lower per-capita demand reduces exposure to water-supply stress and improves ability to meet demand during drought/heat (even without new supply).  \n4) Edge cases applied: In very low-energy gravity-fed systems, mitigation magnitude may be small, but the mechanism still primarily targets reducing resource throughput (Resource Efficiency). Where policies explicitly expand supply (e.g., desalination) alongside efficiency, that is outside this mechanism.  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism (standards/programs to reduce per-capita water use) necessarily reduces water throughput; this is Resource Efficiency by definition and generally confers drought-supply resilience as an inherent adaptation co-benefit.",
+  "mechanism_confidence": 0.78,
+  "mechanism_edge_case_notes": "If the local water system has minimal energy intensity (gravity supply, low treatment) or if reduced use causes offsetting effects (e.g., need for extra flushing to maintain sewer function), mitigation may be weaker; adaptation benefits also vary where water is abundant, but demand reduction still improves robustness during extreme events.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "“NAP target”; “water efficiency in industrial consumption”; “85%”; “90%”; “by 2020”; “by 2030”",
+  "co_benefits": "Potential mitigation co-benefit via reduced energy use for water abstraction/pumping/treatment; potential reduced industrial vulnerability to drought-related production disruptions.",
+  "instance_edge_case_notes": "Targets alone do not specify the implementation tool (e.g., standards, pricing, rebates), so directness is coded as enabling rather than direct; mitigation is not stated in the source text."
+}

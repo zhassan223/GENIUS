@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Create an electric bike and car-sharing program centered on low-income communities and communities of color, with income thresholds and actions to address displacement.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "shared_micromobility_and_car_share_program → transport_emissions_reduction",
+  "mechanism_description": "Launching shared e-bikes and electric car-sharing increases access to low/zero-emission travel options, shifting trips away from gasoline vehicles and lowering transport-related emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Mobility service provision (shared e-bikes/car-share) → mode shift and/or vehicle electrification → ↓ fuel combustion / ↓ grid-adjusted emissions per mile → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: A city (or partner operator) deploys shared micromobility (e-bikes/e-scooters) and car-share (often EV) fleets with pricing, siting, and membership that increases access and convenience relative to private gasoline car use.  \n2) Mediating physical process: Trips are substituted from internal combustion vehicle miles to (a) electrically assisted micromobility with very low energy per passenger-mile and/or (b) electric shared vehicles with lower lifecycle emissions depending on the grid; shared access can also reduce private car ownership, lowering total VMT and associated fuel use.  \n3) Climate-relevant outcome: Reduced tailpipe CO₂ (and upstream emissions) from avoided gasoline/diesel combustion and reduced per-mile energy use, yielding lower transportation-sector GHG emissions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions from mode shift and/or fleet electrification enabled by shared micromobility and car-share options.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Provide low/zero-emission shared mobility options → replace higher-emitting trips → lower GHG emissions.  \n2) Why this primary over alternatives: While programs can have equity, congestion, or air-quality co-benefits, the mechanism’s defining climate effect is emissions reduction from mode shift/electrification, which is Mitigation.  \n3) Inherent causal chain for each secondary: None are unavoidable—resource efficiency (e.g., fewer vehicles manufactured) or adaptation benefits (e.g., redundancy during disruptions) may occur in some contexts but are not guaranteed by the mechanism in every instance.  \n4) Edge cases applied: If a car-share fleet is not electric or induces additional trips, net mitigation could be smaller or ambiguous, but the canonical mechanism as stated targets emissions reduction via shared micromobility/car-share deployment.  \n5) Confirm labels apply to ALL instances: Any policy fitting this mechanism is intended to reduce transport emissions via shared low/zero-emission mobility access; thus Mitigation applies broadly, with no universal secondary category.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Net emissions impacts can vary with (a) whether car-share vehicles are EVs or ICE, (b) grid carbon intensity, (c) whether micromobility replaces walking/transit rather than driving, and (d) induced demand/repositioning emissions; these affect magnitude, not the dominant intended pathway for this mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "incentive-program",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“Launch an e-bike and electric car-sharing program”; “Create an electric bike and car-sharing program”; “centered on low-income communities and communities of color”; “functional, low-cost, zero-emissions mobility”",
+  "co_benefits": "Improved transportation affordability and access for priority communities; reduced local air pollutants (NOx/PM) and associated health benefits; potential congestion and parking reductions.",
+  "instance_edge_case_notes": "Instrument type could also be framed as an infrastructure-investment if the policy text specified procuring fleets/charging/docking assets; however, as written it most clearly describes a program offering/service (often including discounts/eligibility), which fits an incentive-program."
+}

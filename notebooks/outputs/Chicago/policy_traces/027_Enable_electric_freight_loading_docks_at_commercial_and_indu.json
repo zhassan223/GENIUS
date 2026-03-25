@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Enable electric freight loading docks at commercial and industrial buildings, addressing new buildings by 2025 and existing buildings by 2030.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "electric_freight_loading_infrastructure → freight_transport_emissions_reduction",
+  "mechanism_description": "Deploying electric-capable freight loading docks enables electrified freight operations, reducing fossil fuel use and associated freight transport emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Freight operations electrification enablement → ↓ diesel combustion in freight vehicles/equipment → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Commercial and industrial buildings install/upgrade freight loading docks to provide electric power/charging capability (and associated electrical capacity) for freight vehicles and material-handling operations.  \n2) Mediating physical process: Electrification substitutes electricity for on-site combustion of diesel (and potentially gasoline), reducing direct combustion emissions; net GHG impact depends on electricity generation mix but is typically lower and can approach zero with clean power.  \n3) Climate-relevant outcome: Lower lifecycle GHG emissions from freight transport and loading operations due to reduced fossil fuel consumption.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced freight-sector GHG emissions by enabling electrification that displaces diesel fuel combustion.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Infrastructure at freight loading sites enables electric freight operations, which reduces fossil fuel combustion and thus GHG emissions.  \n2) Why this primary over alternatives: While it may also reduce local air pollution/noise or improve logistics efficiency, the core climate mechanism is fuel-switching away from diesel—directly a mitigation pathway.  \n3) Inherent causal chain for each secondary: None—resource efficiency or adaptation benefits are not guaranteed by the mechanism in every instance.  \n4) Edge cases applied: If electricity is carbon-intensive, net GHG reductions may be smaller, but the intended and typical effect remains emissions reduction through electrification enablement.  \n5) Confirm labels apply to ALL instances: Any policy that installs electric freight loading/charging infrastructure is primarily aimed at enabling electrified freight activity and reducing associated transport emissions, fitting Mitigation consistently.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Net GHG impact can vary with grid carbon intensity and induced demand (more freight activity) could offset some reductions; however, the mechanism’s dominant intent and typical outcome remains freight emissions mitigation via electrification enablement.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "regulatory-mandate",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Enable electric freight loading docks”; “commercial and industrial buildings”; “new buildings by 2025”; “existing buildings by 2030”",
+  "co_benefits": "Improved local air quality (reduced NOx/PM from diesel idling/operations), potential noise reduction, potential operational cost savings for freight operators.",
+  "instance_edge_case_notes": "Instrument type inferred because the text specifies compliance-style deadlines for new vs. existing buildings, but it does not explicitly state “require/mandate” or name the legal tool (e.g., building code vs. incentive program)."
+}

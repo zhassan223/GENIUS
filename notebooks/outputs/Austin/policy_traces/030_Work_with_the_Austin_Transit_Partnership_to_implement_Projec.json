@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Work with the Austin Transit Partnership to implement Project Connect and expand and improve public transportation services.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "transit_service_expansion → transport_emissions_reduction",
+  "mechanism_description": "Expand and improve public transit service to shift travel from private vehicles to lower-emission modes, reducing transportation emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Higher passenger occupancy and shared vehicle-km mean the same mobility service is delivered with lower energy input per passenger-mile, reducing energy use even beyond the GHG framing.",
+  "primary_causal_pathway": "Transport system service expansion → mode shift (SOV → transit) → ↓ fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Cities add/upgrade transit supply (new corridors, higher frequency, better reliability/amenities) and/or reduce user cost (e.g., free/discounted fares) and improve information access, increasing transit attractiveness.  \n2) Mediating physical process: Travelers substitute some private vehicle trips with transit and/or reduce vehicle miles traveled (VMT); this directly reduces gasoline/diesel combustion in light-duty vehicles (and can improve traffic flow, modestly reducing per-mile emissions for remaining vehicles).  \n3) Climate-relevant outcome: Net reduction in CO₂e from on-road transportation (tailpipe CO₂ primarily; also upstream fuel-cycle emissions), typically partially offset by emissions from operating the additional transit service depending on vehicle type and grid/fuel mix.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions from mode shift away from private vehicle travel to lower-emission public transit.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Expand/improve transit → more riders → mode shift/VMT reduction → less private fuel combustion → lower GHG emissions.  \n2) Why this primary over alternatives: While transit can yield equity, congestion, and air-quality co-benefits, the mechanism’s core climate leverage is direct emissions reduction from reduced private vehicle travel; it is not primarily about hazard reduction (Adaptation) or ecosystem carbon/heat benefits (Nature-Based Solutions).  \n3) Inherent causal chain for each secondary:  \n   - Resource Efficiency: Shared transit increases passenger occupancy and reduces energy per passenger-mile relative to single-occupancy driving for shifted trips.  \n4) Edge cases applied: If added transit service runs with low occupancy or is fossil-fueled, net GHG benefits can be smaller; however, the mechanism intention and typical effect remains emissions reduction via mode shift, so categorization stays Mitigation.  \n5) Confirm labels apply to ALL instances: Any policy that expands/improves/freezes transit to increase ridership relies on mode shift away from higher-emitting private travel as the principal climate effect; resource-efficiency gains from shared mobility are also inherent to that shift.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Net mitigation impact can vary with ridership response, induced demand, service energy source (diesel vs electric), and whether improved transit substitutes for walking/biking; classification remains Mitigation because the dominant intended pathway is transport emissions reduction via mode shift.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“implement Project Connect”; “expand and improve public transportation services”; “Work with the Austin Transit Partnership”",
+  "co_benefits": "Improved mobility/access and affordability; reduced local air pollutants (NOx/PM) and congestion; potential heat exposure reduction from fewer car trips and improved access to cooling centers (not specified); potential emergency mobility benefits during extreme events (not specified).",
+  "instance_edge_case_notes": "Instrument could also be interpreted as a planning/partnership delivery strategy because it emphasizes “work with” a partner, but the core action (“implement Project Connect” and “expand and improve” service) most directly aligns with infrastructure investment/service expansion."
+}

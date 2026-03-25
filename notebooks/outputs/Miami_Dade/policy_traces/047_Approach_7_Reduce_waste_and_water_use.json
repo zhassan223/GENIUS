@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Approach 7: Reduce waste and water use.",
+  "role": "parent",
+  "sector": "cross_sector",
+  "canonical_mechanism": "waste_and_water_use_reduction → emissions_and_resource_use_reduction",
+  "mechanism_description": "Reducing waste and water use lowers landfill-related emissions and reduces water-demand-related energy and resource consumption.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency; Water Security",
+  "secondary_justification": "Resource Efficiency: Reducing waste and water use inherently lowers material and water throughput (same service with less input), cutting extraction, production, pumping, and treatment needs.",
+  "primary_causal_pathway": "Human activity (waste generation + water demand) → ↓ landfill/wastewater volumes + ↓ energy/material production & treatment → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Policies reduce per-capita/total solid waste generation and potable water use (through prevention, reuse, efficient fixtures/processes, leak reduction, and conservation behaviors).  \n(2) Process: Less waste sent to landfills reduces anaerobic decomposition and methane generation; less waste/wastewater and lower water demand reduce energy used for collection, pumping, treatment, and distribution; upstream, reduced consumption/throwaway materials reduces industrial energy use and associated emissions.  \n(3) Outcome: Net reduction in CO₂e emissions (notably CH₄ from landfills and CO₂ from electricity/fuels used in water and waste systems) and reduced overall resource demand.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced GHG emissions from avoided landfill methane and reduced energy use across water and materials systems.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Reduced waste and water use most directly leads to avoided emissions (landfill CH₄ + reduced energy for water/waste services + upstream manufacturing), which is a mitigation pathway.  \n2) Why this primary over alternatives: While water conservation can improve drought resilience, the mechanism as stated emphasizes emissions and resource-use reduction; the largest consistent climate effect across all instances is avoided GHG emissions from lower system loads and landfill methane.  \n3) Inherent secondary causal chain(s):  \n- Resource Efficiency: Waste and water reductions necessarily mean delivering similar services with fewer material/water inputs, reducing throughput regardless of grid carbon intensity.  \n4) Edge cases applied: If implemented mainly for drought risk management, adaptation benefits can be substantial, but they are not unavoidable in every instance of this mechanism description; emissions reduction remains the most general dominant effect.  \n5) Confirm labels apply to ALL instances: Any policy that reduces waste and water use will, by physics and system operation, reduce landfill/wastewater volumes and treatment/pumping needs, yielding mitigation and resource-efficiency effects broadly across contexts.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "In very low-methane-control landfills, landfill CH₄ avoidance can dominate; in regions with highly decarbonized electricity and strong landfill gas capture, emissions benefits may be smaller and co-benefit adaptation (drought resilience) may be locally more salient, but the mechanism still targets emissions/resource reduction overall.",
+  "additional_secondary_evidence": "Water Security: Miami-Dade faces saltwater intrusion into freshwater aquifer, and reducing water use directly reduces sensitivity because lower potable demand can reduce stress on limited freshwater supplies and decrease reliance on an aquifer system vulnerable to salinization.",
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "“Approach 7”, “Reduce waste and water use”",
+  "co_benefits": "Potential reduced flood pollution/overflow impacts (less wastewater volume) and public health benefits, but not explicit enough to code as additional hazard-focused secondary categories.",
+  "instance_edge_case_notes": "No instrument is specified beyond an approach heading; instrument_type set to “planning-strategy” and directness to “enabling” because it signals intent rather than an implemented mandate/standard/investment. Climate relevance is “indirect” because the text does not mention climate hazards or adaptation explicitly, though the mechanism can yield mitigation and local resilience co-benefits."
+}

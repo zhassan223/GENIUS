@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Create a community-wide food rescue plan in collaboration with community-based organizations, businesses, and farmers.",
+  "role": "sub",
+  "sector": "waste",
+  "canonical_mechanism": "food_rescue_program → landfill_methane_avoidance",
+  "mechanism_description": "Implementing a food rescue program diverts edible food from disposal, reducing landfill-bound organic waste and avoiding methane emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Rescuing edible food reduces demand for replacement food production and associated upstream inputs (energy, fertilizer, land, water) per unit of nutrition delivered, lowering overall resource throughput.",
+  "primary_causal_pathway": "Food system intervention (rescue/diversion) → ↓ organic waste landfilled → ↓ anaerobic decomposition in landfill → ↓ CH₄ emissions → ↓ net GHG emissions",
+  "causal_mechanism_detail": "(1) Change: Programs coordinate collection and redistribution of surplus edible food from retailers, farms, institutions, and events to people/organizations instead of discarding it.  \n(2) Process: Reduced landfill-bound organics leads to less anaerobic breakdown and methane formation (and potential methane leakage) in landfills.  \n(3) Outcome: Lower methane emissions (high-GWP GHG) and thus reduced overall climate forcing.",
+  "dominant_pathway_test": "Diverting edible food away from landfill avoids landfill methane emissions, which is the single biggest climate-relevant effect of this mechanism.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: food rescue diverts organics from landfill, avoiding methane—directly reducing GHG emissions.  \n2) Why Mitigation is primary: methane avoidance is the most direct, largest, and most universal climate effect across implementations of food rescue, outweighing other co-benefits.  \n3) Inherent secondary chain(s):  \n   - Resource Efficiency: edible food is utilized rather than replaced, which necessarily reduces total system resource use and upstream emissions intensity per unit consumed (even if the magnitude varies).  \n4) Edge cases applied: if rescued food displaces some other food purchases only partially, methane avoidance still occurs as long as landfill diversion happens; upstream production displacement may vary in magnitude but remains directionally resource-saving.  \n5) Label applies to all instances: any true food rescue program (rescuing edible food from disposal) by definition reduces landfill-bound food waste and therefore has mitigation as the primary category.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If the rescued food would otherwise be composted/anaerobically digested (not landfilled), methane-avoidance benefits could be smaller; if redistribution logistics are very emissions-intensive, net benefits could be reduced, but the canonical mechanism remains landfill methane avoidance.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Create a community-wide food rescue plan\"; \"in collaboration with community-based organizations, businesses, and farmers\"",
+  "co_benefits": "Improved food security and reduced hunger; reduced municipal solid waste management costs; community resilience during disruptions (e.g., storms) through stronger distribution networks.",
+  "instance_edge_case_notes": "Food rescue can support disaster response capacity and heat/hurricane-related service continuity, but the text frames it as a rescue “plan” without explicit hazard-focused adaptation actions (e.g., emergency feeding during hurricanes), so no additional adaptation secondary is assigned."
+}

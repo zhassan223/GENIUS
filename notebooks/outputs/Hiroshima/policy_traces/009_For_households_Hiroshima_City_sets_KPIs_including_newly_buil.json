@@ -1,0 +1,23 @@
+{
+  "policy_statement": "For households, Hiroshima City sets KPIs including: newly-built ZEH share 50% by FY2020 and almost 100% by FY2030; low-carbon house share 50% by FY2020; household fuel cells total 15,000 by FY2020 and 56,000 by FY2030; and LED adoption (>80% of household lighting) 50% by FY2020 and almost 100% by FY2030.",
+  "role": "individual",
+  "sector": "buildings",
+  "canonical_mechanism": "residential_building_energy_efficiency_and_low_carbon_tech_uptake → energy_use_reduction",
+  "mechanism_description": "Increase adoption of high-performance/low-carbon homes and efficient household technologies (e.g., LEDs, fuel cells) to reduce household energy consumption and related emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Higher-efficiency building envelopes and appliances/lighting provide the same household services with less energy input, reducing overall energy resource consumption as an inherent physical consequence.",
+  "primary_causal_pathway": "Same service → ↓ energy input (electricity/fuels) → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Increase uptake of high-performance homes (e.g., ZEH/high-insulation airtightness), efficient end-use technologies (LEDs, efficient HVAC/water heating), and low-carbon residential technologies (e.g., household fuel cells) via targets and programs.  \n(2) Process: Improved thermal performance reduces heat transfer losses/gains; efficient devices convert a higher share of input energy into useful services; onsite high-efficiency/low-carbon supply can displace higher-carbon delivered energy.  \n(3) Outcome: Lower household delivered energy (electricity, gas, kerosene) and/or lower-carbon energy supply reduces CO₂ (and potentially methane) emissions from fuel combustion and electricity generation.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced residential energy consumption (and associated fuel combustion/power-sector generation), leading to lower GHG emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: residential efficiency and low-carbon tech uptake → reduced energy demand and/or cleaner onsite supply → reduced GHG emissions.  \n2) Why this primary over alternatives: while there can be co-benefits (comfort, health, resilience to heat/cold), the direct and largest climate effect across all instances is emissions reduction from lower energy use.  \n3) Inherent secondary chain(s): Resource Efficiency is inherent because the mechanism is explicitly about providing equal service with less energy input.  \n4) Edge cases applied: if the electricity grid is already near-zero carbon, mitigation benefits may be smaller, but the mechanism still targets emissions reduction and still inherently improves energy productivity (resource efficiency).  \n5) Confirm labels apply to ALL instances: any policy that increases residential building efficiency/efficient household tech adoption necessarily reduces energy input per service (resource efficiency) and is intended to cut GHG emissions (mitigation), regardless of geography.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Mitigation impact magnitude varies with grid carbon intensity and rebound effects (efficiency-induced increased usage), but these do not change the dominant intended physical pathway; adaptation benefits (thermal comfort during extremes) may occur but are not inherent to every instance at the mechanism level.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Key Performance Indicator (KPI)”; “ZEH … 50% … Almost100%”; “Low-carbon house … 50%”; “Number of introduced household fuel cells … 15,000 … 56,000”; “Rate of citizens who have introduced LED lighting … 50% … Almost100%”",
+  "co_benefits": "Potential co-benefits: improved indoor thermal comfort during extreme heat; possible reduced peak electricity demand; potential air-quality improvements from reduced fuel use—however these are not specified as hazard-risk reduction measures in the text.",
+  "instance_edge_case_notes": "ZEH/high-insulation homes can improve heat resilience, but the policy statement is framed purely as mitigation KPIs (uptake/penetration targets) without an explicit adaptation objective or design requirements tied to Hiroshima’s heat/flood risks; therefore no adaptation secondary is added."
+}

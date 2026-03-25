@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Continue to play an intervention role with the City’s Courtyard and MORE team.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "program_intervention_support → implementation_capacity_building",
+  "mechanism_description": "Maintain an intervention/support role with city teams to improve program delivery and organizational capacity to implement climate-related actions.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Program support/coordination → ↑ institutional capacity to deliver services/actions → (indirect) improved implementation of climate resilience measures",
+  "causal_mechanism_detail": "1) Changed human/system activity: The city maintains or expands an intervention/support role with designated teams/program units (e.g., outreach, coordination, case management, inter-agency collaboration).  \n2) Mediating process: Increased staffing/coordination, clearer roles, improved workflows, and stronger cross-organization execution capacity.  \n3) Climate-relevant outcome: Indirect—better ability to implement measures that can reduce climate vulnerability (and sometimes emissions), but the mechanism itself does not guarantee a specific climate physical outcome without specifying the downstream actions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect of any policy using this mechanism is indirect enablement—improving organizational capacity so other mitigation/adaptation measures can be implemented more effectively—rather than a direct physical change in emissions, exposure, resource use, or ecosystems.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: implementation-capacity building (governance enablement) that most plausibly translates into improved resilience/service continuity under climate stressors.  \n2) Why this primary over alternatives: There is no inherent emissions reduction (Mitigation), no guaranteed reduction in energy/material inputs (Resource Efficiency), and no ecosystem enhancement (Nature-Based Solutions). If a climate category must be assigned, the most common direct relevance of “intervention/support roles” in city programs is improving preparedness/response and protecting vulnerable populations—i.e., Adaptation—though still indirectly.  \n3) Inherent causal chain for each secondary: None, because any mitigation/resource/nature outcomes depend entirely on what the supported teams implement.  \n4) Edge cases applied: If the supported program is explicitly an energy-efficiency retrofit team, renewable deployment unit, waste diversion crew, etc., the primary category would shift to the dominant physical outcome (often Mitigation/Resource Efficiency). Here, the described team support is not climate-specific and is in a homelessness context, so no unavoidable secondary effects can be claimed.  \n5) Confirm labels apply to ALL instances: “Implementation capacity building” does not universally imply mitigation/resource/nature outcomes; assigning no secondary categories maintains applicability across contexts. Primary set to Adaptation as the closest climate framing when forced to choose among the four categories, recognizing the effect is enabling rather than direct.",
+  "mechanism_confidence": 0.56,
+  "mechanism_edge_case_notes": "This is fundamentally an enabling/governance mechanism; classification into the four climate categories is inherently ambiguous without specifying the downstream climate action. If downstream actions are primarily mitigation-implementing (e.g., building electrification delivery teams), reclassify to Mitigation; if primarily efficiency delivery, to Resource Efficiency; if ecosystem restoration delivery, to Nature-Based Solutions.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Continue\", \"play an intervention role\", \"City's Courtyard\", \"MORE team\"",
+  "co_benefits": "Potential co-benefits (not explicit enough for secondary tagging): improved social services/outreach, reduced homelessness-related vulnerability during extreme heat events, improved emergency coordination.",
+  "instance_edge_case_notes": "“Courtyard” and “MORE team” could plausibly relate to homelessness/outreach that reduces heat exposure for unsheltered populations in Las Vegas, but the text does not explicitly link the intervention role to heat response, cooling access, or any climate hazard-specific service; therefore no hazard-specific secondary is added."
+}

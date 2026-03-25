@@ -1,0 +1,23 @@
+{
+  "policy_statement": "For business activities, Hiroshima City sets KPIs including Eco Action 21/ISO14001 introductions (500 by FY2020; 1,000 by FY2030), LED lighting use in offices (88.1% by FY2020; almost 100% by FY2030), and BEMS introduction rate (13% by FY2020; 47% by FY2030).",
+  "role": "individual",
+  "sector": "buildings",
+  "canonical_mechanism": "building_retrofit → energy_use_reduction",
+  "mechanism_description": "Increase adoption of office energy management and efficient lighting to optimize operations and reduce commercial building energy use, lowering associated emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Building upgrades → ↓ energy demand (same service) → ↓ fuel/electricity use → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Retrofit existing buildings by improving insulation/air sealing, upgrading HVAC and water heating equipment, optimizing controls, and/or installing efficient lighting and appliances.  \n2) Mediating physical process: Improved thermal envelope and higher-efficiency end-use systems reduce heat transfer losses/gains and reduce energy required per unit of heating/cooling/lighting/service delivered.  \n3) Climate-relevant outcome: Lower onsite combustion (e.g., gas/oil) and reduced electricity demand reduce CO₂ (and some CH₄/N₂O) emissions from building operations and power generation.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced building energy consumption leading to lower upstream and onsite greenhouse gas emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Retrofits reduce operational energy use, which directly reduces GHG emissions from energy supply—this is a mitigation pathway.  \n2) Why this primary over alternatives: While some retrofits can improve heat resilience or comfort, the defining and largest climate effect of the mechanism “building_retrofit → energy_use_reduction” is emissions reduction via lower energy demand.  \n3) Inherent causal chain for each secondary: None—adaptation (e.g., reduced heat stress during outages) or resource-efficiency benefits beyond energy are not universal to all retrofits.  \n4) Edge cases applied: Retrofits that focus on passive survivability or weatherization still often reduce energy use, but if a policy’s intent were primarily hazard exposure reduction, that would be a different mechanism; here the mechanism explicitly centers energy-use reduction.  \n5) Confirm labels apply to ALL instances: Any policy implementing this mechanism aims to cut building energy demand; reduced energy demand inherently drives emissions reductions, so “Mitigation” fits across contexts.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "If a “retrofit” policy is specifically for resilience (e.g., floodproofing, backup power, cool refuges) without meaningful energy reduction, it should be classified under a different mechanism; similarly, deep retrofits paired with fuel-switching/electrification could introduce additional mitigation mechanisms beyond energy reduction, but that is not inherent to this mechanism as stated.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Key Performance Indicator (KPI)\"; \"500 by FY2020; 1,000 by FY2030\"; \"Rate of offices that use LED lights\"; \"Almost100%\"; \"introduce Business Energy Management System (BEMS)\"; \"13% ... 47%\"; \"Eco Action 21 and ISO14001 introductions\"",
+  "co_benefits": "Potential co-benefits include improved indoor comfort and potentially reduced heat stress via more efficient lighting/controls, and broader environmental compliance improvements from ISO14001/Eco Action 21, but these are not framed as hazard exposure/sensitivity reduction in the source text.",
+  "instance_edge_case_notes": "LEDs/BEMS could indirectly support extreme-heat resilience by lowering internal heat gains and enabling better demand management, but without explicit linkage to heat-risk reduction or resilience outcomes, no adaptation secondary is assigned."
+}

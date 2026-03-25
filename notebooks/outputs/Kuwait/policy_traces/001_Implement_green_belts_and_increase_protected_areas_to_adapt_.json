@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Implement green belts and increase protected areas to adapt to dust storms, including the 'Kuwait Green Wall Project' to plant 315,000 trees for a 420 km wall along the borderline; started in 2015 and ongoing.",
+  "role": "sub",
+  "sector": "land_use",
+  "canonical_mechanism": "afforestation_greenbelt → desertification_and_erosion_control",
+  "mechanism_description": "Planting and protecting green belts stabilizes soils and sand movement, reducing erosion and dust-storm exposure while improving land resilience.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Nature-Based Solutions; Heat Adaptation",
+  "secondary_justification": "Nature-Based Solutions: Establishing tree/vegetation belts uses ecosystem functions (root binding, surface roughness, moisture retention) to reduce erosion and dust exposure, and it typically adds biomass/soil carbon as a co-benefit.",
+  "primary_causal_pathway": "Climate hazard (aridity/wind/dust events) → vegetative barrier stabilizes soil & reduces sand/dust transport → ↓ exposure/impact on people, infrastructure, and ecosystems",
+  "causal_mechanism_detail": "1) Change in system: Implement afforestation/greenbelts and protect planted areas in vulnerable desert-margin landscapes.  \n2) Mediating process: Vegetation roots bind soils, canopy and surface roughness reduce wind speed at ground level, and improved soil structure/moisture decreases susceptibility to wind erosion and sand drift.  \n3) Climate-relevant outcome: Reduced dust-storm and sand-encroachment impacts (health, transport, infrastructure, agriculture) and improved land resilience under increasing aridity/heat extremes.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing vulnerability to climate-amplified dust storms and land degradation by stabilizing soil and limiting sand movement with vegetated greenbelts.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Vegetation barriers → reduced erosion/sand movement → reduced hazard exposure and damages (adaptation).  \n2) Why this primary over alternatives: While tree planting can sequester carbon (mitigation/NBS), the named mechanism explicitly targets “desertification and erosion control” and dust-storm adaptation; the largest climate-relevant effect across policies using this mechanism is risk reduction.  \n3) Inherent causal chain for each secondary:  \n   - Nature-Based Solutions: The intervention relies on living ecosystems (trees/vegetation) providing regulating services (erosion control, microclimate moderation) and usually increases biomass/soil carbon.  \n4) Edge cases applied: If a program is designed primarily for carbon sinks (timber plantations, carbon offsets) it would shift toward mitigation; however, for this mechanism definition the erosion/dust-risk pathway remains dominant.  \n5) Confirm labels apply to ALL instances: Any “afforestation/greenbelt for desertification/erosion control” inherently functions as an ecosystem-based barrier (NBS) and primarily reduces climate-related land-degradation impacts (adaptation), regardless of location.",
+  "mechanism_confidence": 0.84,
+  "mechanism_edge_case_notes": "If implemented as monoculture plantations with heavy irrigation in water-scarce regions, adaptation benefits may be offset by water/energy burdens; some instances may be framed as mitigation-focused carbon sinks, but that would be a different primary mechanism than “erosion control.”",
+  "additional_secondary_evidence": "Heat Adaptation: Kuwait faces extreme heat (50°C+ events), and planting a large-scale green wall/green belts directly reduces exposure/sensitivity because vegetation increases shade and evapotranspiration and can lower near-surface temperatures and heat stress in adjacent areas.",
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“implementing green belts”, “increasing the protected areas”, “adapt to a dust storm”, “planting 315,000 trees”, “420 Km wall”, “hold back the moving sand”, “started in 2015 and still ongoing”",
+  "co_benefits": "Air quality and public health improvements (reduced particulate matter), biodiversity/habitat enhancement from protected areas, potential carbon sequestration.",
+  "instance_edge_case_notes": "Heat-adaptation secondary is inferred from the nature-based mechanism (tree planting) rather than explicitly stated in the text; the text explicitly targets dust storms/sand encroachment. Carbon benefits exist but the primary framing is adaptation."
+}

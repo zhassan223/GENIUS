@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Electrify 30% of total existing residential buildings by 2035.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "residential_building_electrification → direct_fossil_fuel_use_reduction",
+  "mechanism_description": "Electrifying existing homes replaces on-site fossil fuel equipment with electric alternatives, reducing direct building fossil fuel combustion and associated greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Switching from combustion appliances to efficient electric technologies (notably heat pumps) typically delivers the same heating/hot-water service with less final energy input, reducing overall energy demand as a physical consequence of higher end-use efficiency.",
+  "primary_causal_pathway": "Building energy end-use shift (fossil → electric) → ↓ on-site fuel combustion → ↓ direct GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Retrofit or replace residential fossil-fueled space heating, water heating, and cooking equipment with electric alternatives (e.g., heat pumps, heat-pump water heaters, induction stoves), along with enabling electrical upgrades as needed.  \n2) Mediating physical process: Reduced oxidation/combustion of methane/oil in buildings directly lowers CO₂ emissions (and some combustion-related CH₄/N₂O), while efficient electric devices—especially heat pumps—move heat rather than generate it via combustion.  \n3) Climate-relevant outcome: Lower building-sector GHG emissions immediately from reduced direct combustion, with potential additional reductions depending on electricity generation mix and grid decarbonization over time.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing greenhouse gas emissions by eliminating or lowering on-site fossil fuel combustion in homes.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Residential electrification reduces direct fossil fuel combustion, lowering GHG emissions.  \n2) Why this primary over alternatives: While electrification can improve indoor air quality or resilience, the largest and most direct climate effect of the mechanism is emissions mitigation via reduced on-site combustion (and cleaner grids over time).  \n3) Inherent causal chain for each secondary:  \n   - Resource Efficiency: Efficient electric end-uses (especially heat pumps) typically provide equivalent thermal services with less delivered energy than combustion systems, lowering energy demand.  \n4) Edge cases applied: If electricity is highly carbon-intensive, near-term net emissions reductions could be smaller; however, the mechanism still targets direct fossil combustion reduction and generally enables deeper mitigation as grids decarbonize.  \n5) Confirm labels apply to ALL instances: Any policy that electrifies existing residential buildings necessarily aims to replace/avoid direct fossil fuel use (Mitigation) and generally entails higher end-use efficiency from common electrification technologies (Resource Efficiency).",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Net GHG benefits depend on the grid emissions factor and the specific electric technology deployed (e.g., resistance heating vs heat pumps); some electrification measures may require panel/service upgrades and could increase peak demand without complementary demand management, but these do not change the mechanism’s dominant mitigation pathway.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "indirect",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Electrify\"; \"30%\"; \"total existing residential buildings\"; \"by 2035\"",
+  "co_benefits": "Potential improved indoor thermal comfort and more efficient cooling during extreme heat events (via heat pumps), potential indoor air quality improvements from reduced on-site combustion.",
+  "instance_edge_case_notes": "Electrification could support heat adaptation if it explicitly included deployment of heat pumps/efficient cooling and/or resilience measures; however, as written it is a decarbonization target without explicit hazard-focused adaptation provisions."
+}

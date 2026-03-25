@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Issue an Executive Order directing City departments to assess the GHG emissions impact of City plans, policies, and major investments, with OSE to define scope and method by October 2018.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "ghg_impact_assessment_requirement → decision_support_for_emissions_reduction",
+  "mechanism_description": "Require GHG impact assessments for city plans and major investments to inform decision-making and steer projects toward lower-emission options.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Governance requirement → emissions quantified/price-of-carbon internalized in decisions → selection of lower-GHG options → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: City departments must evaluate and disclose the GHG emissions implications of proposed plans, policies, and major capital investments (often with standardized methods and review).  \n(2) Process: Measurement, disclosure, and (sometimes) monetization of emissions (e.g., social cost of carbon) alters option appraisal, approval conditions, and design choices, making high-emitting options less likely and enabling mitigation requirements/alternatives.  \n(3) Outcome: Lower lifecycle/operational emissions from the portfolio of approved projects and policies (emissions avoided compared to business-as-usual decision processes).",
+  "dominant_pathway_test": "Requiring GHG impact assessments most strongly affects climate by shifting decisions and investments toward lower-emission options, resulting in avoided or reduced GHG emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: The assessment requirement is designed to change decisions so that chosen projects/policies emit less—this is a direct mitigation pathway (governance → ↓ emissions).  \n2) Why this primary over alternatives: While it can improve transparency and planning quality, those are enabling effects; the single biggest climate-relevant effect across all instances is emissions reduction/avoidance via better-informed choices, not hazard reduction (adaptation), reduced resource inputs as an end in itself (resource efficiency), or ecosystem-mediated benefits (nature-based).  \n3) Inherent causal chain for each secondary: None assigned because secondary outcomes (e.g., resource efficiency, air-quality co-benefits, resilience co-benefits) are contingent on what decisions are ultimately made, not guaranteed by the assessment requirement itself.  \n4) Edge cases applied: Even if an assessment is purely informational, its climate-relevant intent and typical use is to steer toward mitigation; however, if not linked to decision criteria, actual emissions impacts may be weak—this affects effectiveness, not category.  \n5) Confirm labels apply to ALL instances: Any policy that mandates GHG impact assessment for decisions is fundamentally a mitigation governance tool intended to reduce/avoid emissions; no other category is unavoidably produced in every instance.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If the requirement is implemented only as reporting with no decision leverage (no thresholds, no approval gates, no carbon pricing, no mandated alternatives analysis), real-world emissions reductions may be minimal; however, the mechanism remains mitigation-focused. Some jurisdictions may pair the assessment with climate-risk screening (adaptation), but that is an added mechanism rather than inherent to GHG impact assessment alone.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "regulatory-mandate",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Issue an Executive Order directing City departments”; “assess the GHG emissions impact”; “major investments”; “define… the assessment method”; “account for the broader costs of carbon”",
+  "co_benefits": "Improved capital planning and risk management; potential downstream air-quality improvements if lower-emitting options are selected (not specified as an explicit objective/mechanism in the text).",
+  "instance_edge_case_notes": "Although “account for the broader costs of carbon” resembles internal carbon pricing, the statement is framed as an assessment/accounting requirement rather than an explicit carbon fee or budget price signal; thus classified as a mandate enabling lower-GHG decisions rather than a pricing mechanism."
+}

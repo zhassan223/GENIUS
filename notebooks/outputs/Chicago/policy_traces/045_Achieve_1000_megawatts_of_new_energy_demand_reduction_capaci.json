@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Achieve 1,000 megawatts of new energy demand reduction capacity by 2030 and 3,000 megawatts by 2040.",
+  "role": "sub",
+  "sector": "energy_supply",
+  "canonical_mechanism": "energy_demand_reduction_target → energy_use_reduction",
+  "mechanism_description": "Setting and pursuing energy demand reduction targets leads to lower electricity demand, which reduces the need for fossil-based generation and associated greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency; Disaster Risk Reduction",
+  "secondary_justification": "Resource Efficiency: Lower energy demand means delivering the same (or acceptable) level of energy services with less energy input, reducing upstream fuel/resource use and conversion losses.",
+  "primary_causal_pathway": "Human activity (energy demand) → ↓ electricity generation (especially fossil) → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: The city sets and implements quantified energy demand reduction (demand-side management) targets, increasing demand reduction capacity and lowering peak and/or total electricity consumption. (2) Mediating process: Reduced load decreases dispatch from marginal generators and/or reduces capacity build-out; where marginal supply is fossil-based, combustion and associated CO₂ (and upstream methane) emissions fall. (3) Outcome: Net reduction in power-sector GHG emissions attributable to lower electricity use.",
+  "dominant_pathway_test": "Reducing electricity demand avoids fossil-fuel electricity generation, thereby reducing GHG emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Demand reduction target → lower electricity use/peak load → reduced fossil generation → reduced GHG emissions (mitigation).  \n2) Why this primary over alternatives: While demand reduction can improve affordability or reliability, the single biggest climate-relevant effect across policies using this mechanism is avoided emissions from reduced generation.  \n3) Inherent secondary causal chain(s): Resource Efficiency is inherent because the mechanism is explicitly about reducing energy demand (less energy input for a given service level).  \n4) Edge cases applied: If the marginal grid is already near-zero carbon, mitigation impact shrinks, but the mechanism still intends to reduce energy use and generally reduces emissions somewhere on the system; resilience benefits (e.g., outage reduction) are not guaranteed and thus not inherent.  \n5) Confirm labels apply to ALL instances: Any policy that sets and pursues demand reduction targets is fundamentally a mitigation strategy (emissions avoidance via reduced energy use) and inherently improves energy resource efficiency.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If demand reductions are met mainly by shifting load in time (without reducing total energy) and the shifted load is served by equally carbon-intensive generation, emissions benefits may be smaller; similarly, in fully decarbonized grids the mitigation effect is limited though still directionally aligned. Adaptation/resilience co-benefits depend on local grid stress and are not universal.",
+  "additional_secondary_evidence": "Disaster Risk Reduction: Chicago faces extreme heat events, and energy demand reduction directly reduces exposure/sensitivity because lowering peak electricity demand during heat waves reduces grid stress and the likelihood/severity of heat-related power outages that increase health risks.",
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Achieve 1,000 megawatts of new energy demand reduction capacity by 2030”; “3,000 megawatts by 2040”; “Encourage … energy demand reduction”",
+  "co_benefits": "Improved air quality from reduced fossil generation; lower energy bills; reduced need for new generation/transmission capacity.",
+  "instance_edge_case_notes": "“Encourage” suggests the target may be non-binding/aspirational (supporting an enabling classification), and the adaptation/resilience benefit (heat-related outage risk reduction) is not explicit but is a direct consequence of peak demand reduction in a heat-vulnerable city."
+}

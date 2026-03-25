@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Create a new pilot program offering additional height and floor area incentives for up to 20 major renovations in exchange for deep reductions including no fossil fuels for heating, and adjust related incentives/penalties consistent with the 2030 Challenge.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "building_retrofit → energy_use_reduction",
+  "mechanism_description": "Offer zoning/scale incentives to drive deep retrofit renovations (including fossil-free heating), reducing building energy consumption and associated emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Building upgrades → ↓ energy demand (same service) → ↓ fuel/electricity use → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Retrofit existing buildings by improving insulation/air sealing, upgrading HVAC and water heating equipment, optimizing controls, and/or installing efficient lighting and appliances.  \n2) Mediating physical process: Improved thermal envelope and higher-efficiency end-use systems reduce heat transfer losses/gains and reduce energy required per unit of heating/cooling/lighting/service delivered.  \n3) Climate-relevant outcome: Lower onsite combustion (e.g., gas/oil) and reduced electricity demand reduce CO₂ (and some CH₄/N₂O) emissions from building operations and power generation.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced building energy consumption leading to lower upstream and onsite greenhouse gas emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Retrofits reduce operational energy use, which directly reduces GHG emissions from energy supply—this is a mitigation pathway.  \n2) Why this primary over alternatives: While some retrofits can improve heat resilience or comfort, the defining and largest climate effect of the mechanism “building_retrofit → energy_use_reduction” is emissions reduction via lower energy demand.  \n3) Inherent causal chain for each secondary: None—adaptation (e.g., reduced heat stress during outages) or resource-efficiency benefits beyond energy are not universal to all retrofits.  \n4) Edge cases applied: Retrofits that focus on passive survivability or weatherization still often reduce energy use, but if a policy’s intent were primarily hazard exposure reduction, that would be a different mechanism; here the mechanism explicitly centers energy-use reduction.  \n5) Confirm labels apply to ALL instances: Any policy implementing this mechanism aims to cut building energy demand; reduced energy demand inherently drives emissions reductions, so “Mitigation” fits across contexts.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "If a “retrofit” policy is specifically for resilience (e.g., floodproofing, backup power, cool refuges) without meaningful energy reduction, it should be classified under a different mechanism; similarly, deep retrofits paired with fuel-switching/electrification could introduce additional mitigation mechanisms beyond energy reduction, but that is not inherent to this mechanism as stated.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "incentive-program",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“pilot will offer additional height and floor area incentives”; “major renovations”; “in exchange for cutting energy and water use well below code”; “including no use of fossil fuels for heating”",
+  "co_benefits": "Reduced water demand (supports resilience under Seattle’s drought stress on water supply); potential indoor air quality improvements from eliminating onsite combustion",
+  "instance_edge_case_notes": "“Height and floor area incentives” function as a zoning/development bonus (often part of planning tools), but because the text frames it as an exchange to motivate retrofit performance, it is best treated as an incentive program rather than a planning strategy. Water savings could be adaptation-relevant for drought, but the mechanism is not explicitly framed as drought-response and is bundled with mitigation-oriented retrofit incentives, so no additional secondary category is assigned."
+}

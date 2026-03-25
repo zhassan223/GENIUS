@@ -1,0 +1,59 @@
+{
+  "doc_id": "Seattle_Washington_United_States_0ff1537e21",
+  "total_chunks": 1,
+  "total_policies_before_resolve": 30,
+  "total_policies_after_resolve": 30,
+  "resolver_stats": {
+    "input_count": 30,
+    "dedup_removed": 0,
+    "statement_dedup_removed": 0,
+    "deterministic_links": 12,
+    "llm_arbitrated": 0,
+    "orphan_count": 0,
+    "output_count": 30
+  },
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "word_count": 6822,
+      "has_overlap": false,
+      "ancestor_headings": [],
+      "policies_extracted": 30,
+      "elapsed_seconds": 67.45,
+      "carry_forward_length": 0,
+      "error": null
+    }
+  ],
+  "chunk_provenance": {
+    "Seattle adopted a community goal to become carbon neutral by 2050 and directed creation of a plan to meet the goal (Resolution 31312).": 0,
+    "Seattle City Council affirmed Seattle’s commitment to the Paris Agreement goals and directed OSE to identify actions needed to help limit warming to 1.5°C (Resolution 31757).": 0,
+    "Seattle’s Energy Benchmarking Program requires large nonresidential and multifamily buildings to track and annually report energy performance, and makes reported data publicly available.": 0,
+    "Seattle’s Building Tune-Ups Ordinance requires large commercial buildings to identify low/no-cost operations and maintenance improvements to improve energy and water efficiency, with phased compliance starting in early 2019.": 0,
+    "The City committed to meeting the Building Tune-Ups deadline for City buildings one year earlier than required for private owners (Resolution 31652).": 0,
+    "Seattle is implementing the Building Tune-Up Accelerator Program to incentivize early compliance with the Tune-Ups Ordinance for mid-size buildings (50,000–100,000 sq ft).": 0,
+    "Seattle’s Oil Heated Home Conversion program provides incentives for homeowners to replace oil heating systems with electric heat pumps, converting 200 homes per year.": 0,
+    "Seattle’s 2015 commercial energy code includes emissions-related criteria requiring either non-fossil-fuel-based heating or more efficient windows.": 0,
+    "Seattle’s Priority Green program provides expedited permitting for projects achieving green building certification and meeting minimum energy efficiency and other criteria.": 0,
+    "Seattle’s Living Building Pilot Program provides additional height and floor area for up to 20 projects meeting specified green building criteria including no on-site fossil-fuel combustion and 25% better energy efficiency than code.": 0,
+    "Seattle updated its Sustainable Building Policy for City-owned buildings to require LEED Gold certification and expected 15% better energy efficiency than current code for new construction and major renovations.": 0,
+    "Seattle adopted a Resource Conservation Management Plan with a goal to reduce energy use across City-owned buildings by 20% by 2020 (2008 baseline).": 0,
+    "Seattle amended the Seattle Electrical Code to require new parking to be built to facilitate future electric vehicle charging, including electrical capacity for one EV charging station per parking space.": 0,
+    "Seattle City Light will install 20 public fast charging stations through the right-of-way charging pilot program to increase access and improve equitable distribution of charging.": 0,
+    "Seattle’s Green Fleet Action Plan guides efforts to reduce municipal fleet emissions 50% by 2025 through electrification, cleaner fuels where needed, efficiency, and procurement standards.": 0,
+    "Near-term climate action priorities for transportation.": 0,
+    "Develop and release a strategy to address congestion and transportation emissions through pricing, coupled with investments in expanded transit and electrification in underserved communities.": 0,
+    "Pass a new electric vehicle readiness ordinance in 2018 to ensure new construction or renovation of parking structures is built with electric vehicle infrastructure.": 0,
+    "Release a map of optimal distribution of charging infrastructure in 2018 and use it to guide public and private investment with a focus on equitable distribution.": 0,
+    "Work with stakeholders to create recommendations for electrifying shared/for-hire fleets, determine a year after which all such vehicles must be electric, and prepare to permit only electric vehicles for for-hire use.": 0,
+    "Create a new Green Fleet Action Plan by the end of 2018 to accelerate electrification of the municipal fleet and phase out fossil fuel use in municipal vehicles.": 0,
+    "Near-term climate action priorities to assess GHG emissions impacts of City decisions.": 0,
+    "Issue an Executive Order directing City departments to assess the GHG emissions impact of City plans, policies, and major investments, with OSE to define scope and method by October 2018.": 0,
+    "Near-term climate action priorities for buildings.": 0,
+    "Pursue state legislation to enable a tiered residential energy code, making it a City priority in the 2019 legislative session.": 0,
+    "Create a new pilot program offering additional height and floor area incentives for up to 20 major renovations in exchange for deep reductions including no fossil fuels for heating, and adjust related incentives/penalties consistent with the 2030 Challenge.": 0,
+    "Provide programs and incentives to improve efficiency and reduce emissions in commercial and multifamily buildings, backed by a minimum performance standard beginning in 2030.": 0,
+    "Seattle City Light will pilot Energy Efficiency as a Service (EEaS) as part of whole-building programs to enable deeper energy efficiency in commercial buildings.": 0,
+    "Double the City’s budget allocation from 2021–2025 and target an overall 40% energy and carbon emissions reduction in municipal buildings by 2025.": 0,
+    "OSE will propose recommendations to accelerate converting 18,000 homes from oil heat to electric heat pumps, including financing for low-income residents and public/private incentives.": 0
+  }
+}

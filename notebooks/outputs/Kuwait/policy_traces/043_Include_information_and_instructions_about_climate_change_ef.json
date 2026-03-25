@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Include information and instructions about climate change effects on health in the early education curriculum.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "climate_health_education_curriculum → public_awareness_and_adaptive_capacity",
+  "mechanism_description": "Integrating climate-change health effects into early education increases climate-health literacy, which can improve preparedness and adaptive capacity over time.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Public health",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Education intervention → ↑ climate-health literacy → behavior/preparedness change → ↓ exposure/vulnerability to climate health hazards → ↓ climate-related morbidity/mortality",
+  "causal_mechanism_detail": "(1) Change: Schools integrate climate change health-effects content and practical guidance into early education curricula (knowledge, skills, norms).  \n(2) Mediating process: Increased literacy improves risk perception, early protective action (e.g., heat precautions, hydration, recognizing heat illness, avoiding smoke/dust exposure, mosquito control, seeking timely care), and supports community uptake of public health advisories.  \n(3) Climate-relevant outcome: Reduced health impacts from climate-amplified hazards (especially extreme heat and air-quality events), strengthening population-level adaptive capacity and resilience.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced climate-related health harm by increasing climate-health literacy and preparedness behaviors that lower exposure and vulnerability during climate hazards.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Education → improved preparedness/behavior → reduced exposure/vulnerability to climate-related health hazards (adaptation).  \n2) Why this primary over alternatives: Any emissions effects are indirect and contingent (not inherent to teaching climate-health content), whereas the intent and necessary physical outcome is reduced vulnerability to climate-driven health risks.  \n3) Inherent causal chain for each secondary: None—resource/energy savings or mitigation outcomes are not guaranteed across all implementations.  \n4) Edge cases applied: If curriculum also mandated specific mitigation actions (e.g., energy-saving programs), that would be a different or additional mechanism; this mechanism as defined remains adaptation-focused.  \n5) Confirm labels apply to ALL instances: Regardless of location, adding climate-health content primarily increases adaptive capacity and reduces health risk; it does not inherently create GHG reductions, resource efficiency, or nature-based outcomes.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Possible co-benefit mitigation through pro-climate attitudes is plausible but not inherent or reliably dominant; classification remains Adaptation unless the curriculum explicitly drives quantifiable emissions-reducing behaviors as a required component.",
+  "additional_secondary_evidence": "Public health: Kuwait faces extreme heat (50°C+ events) and dust storms, and climate-health content in early education directly reduces exposure/sensitivity because it teaches heat precautions (hydration, avoiding peak heat, recognizing heat illness) and respiratory protection/avoidance behaviors during dust/poor air-quality events.",
+  "instrument_type": "regulatory-mandate",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Include information and instructions”; “Climate Change Effects on Health”; “early education curriculum”",
+  "co_benefits": "General environmental awareness; improved disaster preparedness culture; potential long-run support for emissions-reducing behaviors (mitigation co-benefit) but not explicit.",
+  "instance_edge_case_notes": "Instrument type assumes curriculum inclusion is mandated/required; if implemented as voluntary guidance it could instead be a planning-strategy or information-disclosure style intervention."
+}

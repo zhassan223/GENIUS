@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Engage impacted communities to improve transit stops/stations and enforce ADA and accessibility guidelines around transit and public spaces.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "transit_accessibility_improvements → modal_shift_to_public_transit_and_transport_emissions_reduction",
+  "mechanism_description": "Improve and enforce accessibility at transit stops/stations to increase transit usability and ridership, shifting trips from cars to transit and lowering transportation emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Modal shift from single-occupancy vehicles to higher-occupancy transit typically reduces energy use per passenger-km (same mobility service delivered with less fuel/energy input), alongside the GHG reduction.",
+  "primary_causal_pathway": "Transit service accessibility/quality improvements → ↑ transit ridership / ↓ car trips (modal shift) → ↓ fuel combustion in road transport → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Cities upgrade/enforce accessible, safe, and convenient access to transit (e.g., ADA-compliant stops, station access, pedestrian connections), increasing transit usability for more residents.  \n2) Mediating physical process: A portion of travel demand shifts from private vehicles to transit due to reduced access barriers and improved service experience, lowering vehicle-kilometers traveled by cars and/or increasing passenger occupancy per vehicle.  \n3) Climate-relevant outcome: Reduced gasoline/diesel combustion (and associated upstream fuel-cycle emissions) decreases CO₂e emissions from the transportation sector.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions from shifting passenger trips from private cars to public transit.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Accessibility and station/stop improvements → modal shift from cars to transit → reduced fuel combustion → reduced GHG emissions.  \n2) Why this primary over alternatives: While accessibility can improve equity and safety and may incidentally support heat/rain resilience at stops, the mechanism as defined centers on increasing transit ridership to cut transport emissions—an emissions-reduction (mitigation) pathway.  \n3) Inherent causal chain for each secondary:  \n   - Resource Efficiency: Transit trips generally require less energy per passenger-km than private car travel; therefore modal shift inherently delivers the same mobility with lower energy input.  \n4) Edge cases applied: If transit is very carbon-intensive (e.g., diesel buses with low occupancy) the mitigation benefit can be smaller, but the mechanism’s intent and typical net effect remain emissions reduction via reduced car travel.  \n5) Confirm labels apply to ALL instances: Any policy that improves transit accessibility with the aim/effect of shifting travel from cars to transit is fundamentally an emissions-mitigation mechanism and generally increases energy efficiency per trip.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Net GHG benefits depend on (a) the carbon intensity of the transit fleet and grid, (b) ridership/occupancy changes, and (c) whether improvements induce additional trips rather than substituting car trips; however, the dominant intended pathway is still modal shift away from cars, so primary classification remains Mitigation.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "regulatory-mandate",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Engage impacted communities\"; \"improve transit stops, stations, and access\"; \"Enforce the Americans with Disabilities Act (ADA)\"; \"Public Rights-of-Way Accessibility Guidelines regulations\"",
+  "co_benefits": "Improved equitable access and mobility for people with disabilities and low-income communities; potential public health benefits from reduced car dependence; potential safety improvements in public rights-of-way.",
+  "instance_edge_case_notes": "Instrument could also be interpreted as a combined package (community engagement/planning + enforcement). With the excerpt emphasizing “Enforce … regulations,” classification is anchored on regulatory-mandate; if the full strategy includes capital upgrades, it would also implicate infrastructure-investment."
+}

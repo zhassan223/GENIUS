@@ -1,0 +1,23 @@
+{
+  "policy_statement": "For government operations, Hiroshima City sets targets to reduce greenhouse gas emissions by FY2020 by 5% in the city area and 5.1% for the city office (vs FY2013), and by FY2030 by 30% for both city area and city office (vs FY2013).",
+  "role": "individual",
+  "sector": "governance",
+  "canonical_mechanism": "economy_wide_ghg_target → emissions_reduction_pathway",
+  "mechanism_description": "Setting jurisdiction- and government-operations GHG reduction targets drives planning and actions across sectors to reduce overall emissions over time.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Governance commitment (GHG target) → coordinated cross-sector actions → ↓ fuel/energy use + ↓ high-GHG activities → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human activity/system: The city/agency sets a quantified, time-bound GHG reduction or carbon-neutrality target (often with a mandate to develop plans, assign responsibility, and track progress).  \n(2) Mediating process: The target creates an implementation and accountability framework that prioritizes and accelerates emissions-reduction measures across relevant emitting sources (buildings, transport, waste, industry, municipal operations), influencing investments and operational decisions.  \n(3) Climate-relevant outcome: Aggregate reductions in CO₂e emissions relative to a baseline, decreasing the jurisdiction’s contribution to global warming.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is lowering total greenhouse gas emissions over time by committing the jurisdiction/organization to a quantified reduction (or neutrality) pathway that triggers coordinated emissions-cutting actions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: A quantified GHG target primarily functions to drive ↓ GHG emissions through coordinated actions and planning.  \n2) Why this primary over alternatives: While targets can indirectly influence efficiency, resilience, or land stewardship depending on chosen measures, the mechanism itself is explicitly defined by an emissions endpoint (CO₂e reduction/carbon neutrality), making mitigation the dominant and intended climate effect.  \n3) Inherent causal chain for each secondary: None—resource efficiency, adaptation, or nature-based outcomes are not guaranteed by merely setting a target; they depend on the specific measures selected to meet it.  \n4) Edge cases applied: Some targets are scoped to municipal operations (e.g., airport/port) rather than economy-wide; the dominant pathway remains emissions reduction (mitigation) even when the boundary is narrower.  \n5) Confirm labels apply to ALL instances: Any policy that sets a GHG reduction/carbon neutrality target uses the same core mechanism—commitment + accountability → actions → reduced emissions—so “Mitigation” applies consistently.",
+  "mechanism_confidence": 0.92,
+  "mechanism_edge_case_notes": "Targets that are purely aspirational with no associated planning/accountability may have weaker real-world impact, but their dominant intended climate pathway remains mitigation; adaptation or resource-efficiency effects only occur if explicitly embedded via accompanying measures.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Reduction target”; “Base Year FY2013”; “Target Year FY2020 / FY2030”; “City area ▲ 5% / ▲ 30%”; “City office ▲ 5.1% / ▲ 30%”; “reduce greenhouse gas emissions”",
+  "co_benefits": "Potential air-quality and public-health improvements; possible indirect heat-risk reduction via lower waste heat/cleaner energy transitions, but not specified as hazard-risk reduction.",
+  "instance_edge_case_notes": "Targets cover both citywide and government operations; however, the excerpt provides only the numeric targets and no accompanying implementation measures (e.g., building retrofits, cooling centers, flood control), so no adaptation secondary can be justified from the text."
+}

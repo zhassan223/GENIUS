@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Implement the Tarsheed campaign to reduce per-capita consumption of electricity and water (completed 2007).",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "resource_conservation_campaign → per_capita_energy_and_water_use_reduction",
+  "mechanism_description": "A conservation campaign shifts consumer behavior and practices to reduce per-capita electricity and water consumption, lowering associated energy use and emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency; Water Security",
+  "secondary_justification": "Resource Efficiency: Behavior change reduces the same service’s required inputs (kWh and m³ per person) via conservation practices, improving energy and water productivity independent of the exact grid mix.",
+  "primary_causal_pathway": "Consumer behavior change → ↓ electricity/energy demand (incl. water supply energy) → ↓ fuel combustion/operational emissions → ↓ GHG emissions",
+  "causal_mechanism_detail": "1) Change in human activity/system: Households and businesses reduce discretionary and avoidable electricity and water use (e.g., efficient practices, reduced wastage) in response to a conservation campaign.  \n2) Mediating physical process: Lower end-use demand reduces upstream electricity generation and, where applicable, reduces energy used for water production, pumping, desalination, and treatment.  \n3) Climate-relevant outcome: Reduced energy throughput leads to lower CO₂ (and other) emissions from power/utility operations, decreasing net GHG emissions.",
+  "dominant_pathway_test": "Reducing per-capita electricity (and often energy-intensive water supply) demand most strongly drives climate impact by lowering energy-related GHG emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Conservation campaign → reduced per-capita electricity (and often water-related energy) use → reduced energy production/utility operations → reduced GHG emissions.  \n2) Why this primary over alternatives: While water savings can support drought resilience, the mechanism as defined explicitly targets lowering consumption; the most direct and broadly climate-relevant outcome across contexts is emissions reduction from lower energy demand (especially where electricity and desalination are carbon-intensive).  \n3) Inherent causal chain for each secondary:  \n   - Resource Efficiency: Achieves the same services (lighting, cooling, hygiene) with fewer resource inputs through conservation behavior, inherently improving efficiency/productivity of resource use.  \n4) Edge cases applied: If the electricity supply is fully zero-carbon, mitigation benefits shrink, but the mechanism still reduces energy throughput; classification remains Mitigation because the intended/typical dominant pathway is emissions reduction from decreased demand.  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism necessarily attempts to reduce per-capita electricity/water use via behavior change, which inherently constitutes resource conservation (Resource Efficiency) and typically targets emissions reduction through reduced energy demand (Mitigation).",
+  "mechanism_confidence": 0.78,
+  "mechanism_edge_case_notes": "Mitigation impact depends on the marginal emissions factor of electricity and the energy intensity of water services (e.g., desalination); in rare fully decarbonized grids, the dominant effect may shift toward Resource Efficiency rather than GHG mitigation, but the canonical mechanism is still primarily framed as demand-driven emissions reduction.",
+  "additional_secondary_evidence": "Water Security: Kuwait faces water scarcity (near-total desalination dependence), and a campaign to “reduce the percapita consumption of … water” directly reduces sensitivity to water scarcity because lowering demand eases pressure on limited desalinated water supply and the systems needed to produce it.",
+  "instrument_type": "information-disclosure",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Tarsheed campaign”, “Initiative made to reduce the percapita consumption of electricity and water”, “reduce … consumption”",
+  "co_benefits": "Reduced peak electricity load during extreme heat; lower utility operating costs; improved air quality from reduced power generation.",
+  "instance_edge_case_notes": "Instrument type could also be framed as a planning-strategy/public awareness program; classified as information-disclosure because the mechanism relies on conservation messaging/behavior change rather than mandates or pricing."
+}

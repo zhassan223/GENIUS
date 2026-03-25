@@ -1,0 +1,23 @@
+{
+  "policy_statement": "NAP target: telecommunications companies with adaptation or contingency plans for extreme events to reach 25% by 2020 and 100% by 2030.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "telecommunications_contingency_planning_target → institutional_adaptive_capacity",
+  "mechanism_description": "Requiring telecom companies to create extreme-event adaptation/contingency plans improves preparedness and continuity of services, increasing institutional adaptive capacity to climate hazards.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard → preparedness/continuity planning → ↓ service disruption / ↑ response coordination → ↓ vulnerability (↑ adaptive capacity)",
+  "causal_mechanism_detail": "1) Change in human activity/system: Telecommunications companies are required/encouraged to create, maintain, and exercise extreme-event contingency/adaptation plans (e.g., redundancy, backup power, emergency procedures, rapid restoration protocols).  \n2) Mediating process: Improved operational readiness and infrastructure/operational redundancy increases the robustness and recoverability of communications networks during and after hazard events.  \n3) Climate-relevant outcome: Maintained communications enables faster emergency response and coordination, reducing exposure and sensitivity of people and services to climate shocks and strengthening institutional adaptive capacity.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced disruption of telecommunications during extreme events, improving societal capacity to cope with climate hazards.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Extreme-event contingency planning for telecoms primarily functions by increasing preparedness and maintaining critical services during climate hazards, which reduces vulnerability.  \n2) Why this primary over alternatives: While resilient telecoms can indirectly support mitigation actions (e.g., enabling remote work) or efficiency (e.g., smarter operations), those effects are indirect and not the main, necessary consequence of requiring contingency plans; the direct intended effect is hazard resilience and continuity.  \n3) Inherent causal chain for each secondary: None—no unavoidable emissions reduction, resource-efficiency gain, or ecosystem effect follows from planning alone across all implementations.  \n4) Edge cases applied: Even if some plans include energy-efficient upgrades or low-carbon backup systems, those are implementation choices, not inherent to the mechanism of contingency planning targets.  \n5) Confirm labels apply to ALL instances: Any policy that targets telecom contingency/adaptation planning for extreme events is fundamentally aimed at maintaining service and improving adaptive capacity under climate hazards, fitting Adaptation universally.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Some implementations may pair contingency planning with requirements for cleaner backup generation (mitigation) or efficiency upgrades, but those are add-ons; the planning/continuity mechanism itself is adaptation-focused.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“adaptation plans or contingency plans for extreme events”; “25%”; “100%”; “Telecommunications companies that have adaptation plans”",
+  "co_benefits": "Improved general emergency preparedness and service reliability for non-climate shocks (e.g., accidents, technical failures); potential business continuity benefits.",
+  "instance_edge_case_notes": "Could be implemented via regulatory mandate or licensing conditions, but the provided text is framed as a percentage target/KPI rather than an explicit legal requirement, so classified as target-setting and enabling."
+}

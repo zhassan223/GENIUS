@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Valorise genetic material of agricultural and forestry varieties and species to reduce susceptibility to emerging diseases and pests.",
+  "role": "sub",
+  "sector": "land_use",
+  "canonical_mechanism": "climate_resilient_breeding → pest_and_disease_resilience",
+  "mechanism_description": "Improving the genetic resilience of crops and forest species reduces vulnerability to emerging pests and diseases, strengthening climate adaptation capacity in managed and natural landscapes.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate stressors + shifting pest/disease dynamics → (genetic improvement/selection) → ↓ host susceptibility/↑ resistance → ↓ pest/disease damage → ↓ climate impact on yields/forest condition (↓ vulnerability)",
+  "causal_mechanism_detail": "(1) Change: Farmers/foresters and public agencies adopt, breed, or prioritize crop and tree varieties/species with genetic traits that confer resistance/tolerance to current and emerging pests and pathogens.  \n(2) Mediating process: Improved host genetics reduces infection probability, slows pathogen replication/spread, increases plant defense and recovery, and maintains stand/crop vigor under climate stress, which otherwise increases pest/pathogen pressure.  \n(3) Outcome: Reduced losses and dieback, more stable production and ecosystem services, and improved resilience of managed landscapes to climate-amplified biological threats (an adaptation benefit via reduced sensitivity/impact).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced climate-driven yield/forest-loss impacts by increasing resistance/tolerance to pests and diseases, thereby lowering vulnerability and damage under climate change.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: The mechanism targets climate risk (pest/disease outbreaks intensified by climate change) by reducing exposure/sensitivity of crops/forests through genetic resilience—an impact-reduction pathway.  \n2) Why this primary over alternatives: Any mitigation effects (e.g., avoided land-use change from avoided crop failure, reduced pesticide use) are indirect, context-dependent, and not the main or guaranteed outcome of breeding for resistance; the direct, intended, and most reliable effect is reduced climate damage.  \n3) Inherent causal chain for each secondary: None—no secondary category is physically unavoidable across all instances (e.g., pesticide reduction or carbon benefits may or may not occur depending on management, baseline, and adoption).  \n4) Edge cases applied: Even when resilient varieties increase productivity, that does not inherently translate to net GHG reductions; likewise, intensification effects could offset. Therefore, mitigation/resource-efficiency labels are not universally valid for the mechanism.  \n5) Confirm labels apply to ALL instances: Any policy implementing climate-resilient breeding for pest/disease resistance is fundamentally increasing system resilience to climate-amplified biological stressors, fitting Adaptation in all locations.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Some implementations can yield mitigation co-benefits (e.g., avoided deforestation from stabilized yields, reduced pesticide/fuel use), but these are not universal and can be offset by rebound/intensification; classification remains Adaptation.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Valorisation of the genetic material”; “agricultural and forestry varieties and species”; “reduce susceptibility”; “emerging diseases and pests”",
+  "co_benefits": "Potential co-benefits: improved yield stability and forest health; possible reduced pesticide use; potential indirect support for drought/heat resilience if co-selected traits exist (not stated).",
+  "instance_edge_case_notes": "Instrument is not explicitly specified (could be R&D funding, certification, incentives, or procurement); classified as a planning/strategy-type statement because it sets a direction (“valorisation…to reduce susceptibility”) rather than naming a concrete mandate or spending program."
+}

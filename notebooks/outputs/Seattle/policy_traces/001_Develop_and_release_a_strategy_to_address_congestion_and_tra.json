@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Develop and release a strategy to address congestion and transportation emissions through pricing, coupled with investments in expanded transit and electrification in underserved communities.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "modal_shift_to_sustainable_transport → transport_emissions_reduction",
+  "mechanism_description": "Implement congestion pricing and reinvest revenues in transit and electrification to reduce car travel and shift trips to cleaner modes, lowering transportation emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Modal shift delivers the same mobility service with lower energy input per passenger-km (and often reduced total VKT), decreasing fuel/energy consumption as a direct physical consequence of using more efficient modes.",
+  "primary_causal_pathway": "Travel behavior + mode choice shift (car → walk/bike/transit/micromobility) → ↓ fuel combustion / ↓ energy use in transport → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in system/human activity: Cities improve the safety, coverage, convenience, and affordability of walking, biking, transit, and shared micromobility, and/or set mode-share targets, leading travelers to substitute away from private car trips.  \n2) Mediating physical process: Fewer car trips and reduced car VKT lower combustion of gasoline/diesel (and associated upstream emissions); increased use of low- or zero-direct-emission modes raises average passenger-km efficiency.  \n3) Climate-relevant outcome: Net reduction in transportation-sector GHG emissions (primarily CO₂, with some reductions in CH₄ and N₂O from fuel combustion and upstream supply chains).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions by shifting trips from private cars to lower-carbon modes (walking, biking, transit, micromobility).",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: shifting trips from cars to lower-carbon modes reduces fuel burned and thus GHG emissions.  \n2) Why this primary over alternatives: while co-benefits exist (air quality, safety, access), the direct and largest climate effect of the mechanism is emissions reduction from reduced car use—this is mitigation, not adaptation or nature-based action.  \n3) Inherent causal chain for each secondary:  \n   - Resource Efficiency: the mobility service is provided with less energy per passenger-km via active modes and transit, inherently lowering energy demand when mode shift occurs.  \n4) Edge cases applied: if a policy improves walking/biking/transit but fails to cause any shift, the intended mechanism doesn’t realize; however, the mechanism definition assumes achieved/aimed modal shift, which is fundamentally emissions-reducing. Electrification is not required for this mechanism (it’s about mode shift, not drivetrain).  \n5) Confirm labels apply to ALL instances: any policy that successfully induces modal shift toward walking/biking/transit/micromobility will, by physics/energy intensity, reduce transport fuel/energy use and thus emissions (primary mitigation), and inherently improves energy efficiency of mobility (secondary resource efficiency).",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "In rare contexts where added transit service is supplied by high-emitting diesel fleets and induces large rebound travel without reducing car use, net GHG benefits could be smaller; nonetheless, the canonical mechanism is defined as modal shift away from cars, which generally yields net emissions reductions.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“develop and release a strategy”; “address congestion and transportation emissions”; “through pricing”; “coupled with investments in expanded transit and electrification”; “underserved communities”",
+  "co_benefits": "Improved local air quality and public health; reduced traffic congestion/time costs; equity benefits via “underserved communities”; potential noise reduction",
+  "instance_edge_case_notes": "Although “pricing” could indicate a concrete pricing-mechanism, the text is framed as developing/releasing a strategy rather than implementing a specific congestion charge; therefore classified as a planning-strategy (enabling) with pricing and investments as intended components."
+}

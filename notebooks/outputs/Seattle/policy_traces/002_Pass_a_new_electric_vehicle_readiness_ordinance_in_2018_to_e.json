@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Pass a new electric vehicle readiness ordinance in 2018 to ensure new construction or renovation of parking structures is built with electric vehicle infrastructure.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "ev_charging_infrastructure → ev_adoption_enabling",
+  "mechanism_description": "Mandating EV-ready infrastructure in new or renovated parking structures expands charging availability, enabling greater electric vehicle adoption and associated emissions reductions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Infrastructure provision/requirements → ↑ EV charging access & convenience → ↑ EV adoption/usage → ↓ fossil fuel combustion in transport → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human activity/system: Cities invest in, require, or strategically plan EV charging and EV-ready electrical capacity in public spaces and parking facilities.  \n(2) Mediating physical/process link: Increased charger availability and readiness reduces “range anxiety,” lowers time/effort costs of charging, and removes electrical/installation constraints, which increases the feasibility and attractiveness of EV ownership and operation.  \n(3) Climate-relevant outcome: More vehicle-miles shift from internal combustion to electric drivetrains, reducing tailpipe CO₂ (and typically lifecycle GHGs, increasingly so as the grid decarbonizes).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions by enabling greater electric-vehicle adoption that displaces internal-combustion vehicle travel.",
+  "mechanism_classification_reasoning": "(1) Dominant causal pathway: EV charging infrastructure/readiness → higher EV adoption → displacement of gasoline/diesel combustion → lower GHG emissions.  \n(2) Why this primary over alternatives: While charging can have co-benefits (air quality, noise) or interact with grid management, the mechanism described and common policy intent is to enable electrification of transport to cut emissions; that is the largest direct climate effect.  \n(3) Inherent causal chain for each secondary: None—resource efficiency, adaptation, or nature-based outcomes are not unavoidable physical consequences of deploying chargers (they may occur in some implementations but are not inherent to all).  \n(4) Edge cases applied: If chargers are powered by highly fossil-intensive electricity or induce additional driving, net mitigation could be reduced, but the mechanism’s primary intended and typical net effect remains emissions reduction via electrification.  \n(5) Confirm labels apply to ALL instances: Public charger build-out, EV-ready ordinances, and charging network planning all function by enabling EV adoption; therefore “Mitigation” applies across locations/contexts.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Net GHG benefit can vary with grid carbon intensity, charging utilization, induced demand, and whether infrastructure primarily serves PHEVs vs BEVs; V2G/demand-response features could add a Resource Efficiency aspect, but these are not inherent to “charging infrastructure → EV adoption enabling.”",
+  "additional_secondary_evidence": null,
+  "instrument_type": "regulatory-mandate",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“electric vehicle readiness ordinance”; “ensure new construction or renovation of parking structures”; “built with electric vehicle infrastructure”",
+  "co_benefits": "Improved local air quality (reduced tailpipe NOx/PM) and associated health benefits; potential noise reduction from increased EV uptake.",
+  "instance_edge_case_notes": "Could be framed as a building/parking code update; classified as regulatory-mandate (rather than infrastructure-investment) because the text specifies an ordinance ensuring requirements for new construction/renovation, not public spending."
+}

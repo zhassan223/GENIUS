@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Conduct awareness campaigns and symposiums regarding sea level rise, including the 2017 'Our Seas: Theories, Data, and Policies' symposium to increase awareness among stakeholders and the public.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "sea_level_rise_awareness_campaigns → adaptation_capacity_building",
+  "mechanism_description": "Public and stakeholder awareness campaigns on sea level rise increase knowledge and coordination, strengthening capacity to plan and implement adaptation measures.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard awareness/knowledge → improved planning/coordination & adaptive capacity → ↓ exposure/vulnerability to sea-level-rise impacts",
+  "causal_mechanism_detail": "(1) Change in human activity/system: Government/partners deliver public and stakeholder education (campaigns, symposiums, outreach) focused on sea-level rise risks and response options.  \n(2) Mediating process: Increased risk awareness and shared understanding improves coordination, political/social support, and uptake of preparedness and adaptation planning (e.g., coastal zoning, emergency planning, infrastructure prioritization).  \n(3) Climate-relevant outcome: Reduced climate risk through improved adaptive capacity, leading to lower damages and disruption from sea-level-rise-driven coastal hazards.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced exposure and vulnerability to sea-level-rise impacts (e.g., coastal flooding/erosion) via improved awareness, planning, and adaptive capacity.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Information/awareness → capacity to prepare/respond → reduced vulnerability to sea-level rise (a climate hazard).  \n2) Why this primary over alternatives: The mechanism does not inherently cut emissions (Mitigation), reduce material/energy inputs (Resource Efficiency), or enhance ecosystems/carbon sinks (Nature-Based Solutions); it targets preparedness and adaptive capacity.  \n3) Inherent causal chain for each secondary: None—any mitigation co-benefits (e.g., behavior change) or ecosystem outcomes are not physically unavoidable from “awareness campaigns” alone.  \n4) Edge cases applied: If the campaign were explicitly tied to mandatory land-use changes, engineered coastal works, or ecosystem restoration, those would be separate mechanisms; here the mechanism is limited to awareness/capacity-building.  \n5) Confirm labels apply to ALL instances: Any sea-level-rise awareness campaign shares the same dominant effect—improving adaptive capacity and reducing risk—so Adaptation applies universally.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Awareness efforts can be too indirect to guarantee on-the-ground risk reduction; however, the intended and dominant pathway remains adaptation capacity-building. If paired with specific emissions-reduction messaging or nature-based coastal restoration, those would warrant additional mechanisms rather than inherent secondary categories.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "information-disclosure",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"awareness campaigns\"; \"symposium\"; \"aimed at increasing the awareness\"; \"public\"; \"stakeholders\"; \"adaptation to sea level rise\"; \"'Our Seas: Theories, Data, and Policies' Symposium\"",
+  "co_benefits": "May indirectly support broader coastal governance and preparedness (e.g., improved coordination, public engagement), but no explicit linkage to reducing other Kuwait hazards (extreme heat, water scarcity, dust storms, coral bleaching) is stated.",
+  "instance_edge_case_notes": "Could be seen as a planning-strategy if tied to formal planning outputs; however, the text frames it primarily as awareness-raising/education rather than adoption of plans, standards, or investments."
+}

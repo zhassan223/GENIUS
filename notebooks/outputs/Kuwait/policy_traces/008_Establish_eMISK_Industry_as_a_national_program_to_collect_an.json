@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Establish eMISK Industry as a national program to collect an environmental inventory of industrial facilities in Kuwait.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "environmental_monitoring_system → adaptation_planning_support",
+  "mechanism_description": "Establishing a national environmental inventory improves monitoring and data availability, which supports planning and management actions for climate mitigation and adaptation.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Monitoring & analytics → improved hazard/risk information → better adaptation planning/targeting → ↓ exposure/vulnerability to climate impacts",
+  "causal_mechanism_detail": "(1) Change: A jurisdiction establishes or strengthens environmental monitoring (sensors, sampling, networks) and associated data management/analysis to track climate-relevant conditions (e.g., air quality, water/soil quality, heat, flooding indicators).  \n(2) Mediating process: More timely, granular, and reliable data improves detection of trends and extremes, attribution of causes, identification of hotspots/vulnerable populations, and evaluation of intervention performance.  \n(3) Climate-relevant outcome: Better-designed and better-targeted adaptation measures and operational responses reduce vulnerability and impacts from climate-amplified hazards (e.g., heat, flooding, pollution episodes).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced climate risk and damages by improving decision-making and targeting of adaptation actions through better environmental/climate data.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: environmental monitoring improves information quality, which improves adaptation planning and operational readiness, reducing climate-related exposure/vulnerability.  \n2) Why this primary over alternatives: while monitoring can inform mitigation, the mechanism as defined (“adaptation planning support”) most directly and consistently drives resilience outcomes; emissions reductions are neither necessary nor inevitable.  \n3) Inherent secondary chains: none are unavoidable—monitoring can support mitigation/resource efficiency/nature-based decisions, but those effects depend on follow-on policy choices rather than being a physical consequence of monitoring itself.  \n4) Edge cases applied: air-quality monitoring can be motivated by health/criteria pollutants; it may indirectly reduce GHGs if it triggers emissions controls, but that is contingent and not inherent. Water/soil monitoring similarly may lead to mitigation of pollutants or land management changes, but not universally.  \n5) Label applies to all instances: any policy that builds environmental monitoring to support planning primarily functions as an adaptation-enabling measure through improved risk information and targeting.",
+  "mechanism_confidence": 0.84,
+  "mechanism_edge_case_notes": "If a monitoring system is explicitly designed for GHG inventories/MRV (e.g., methane leak detection for enforcement), the dominant pathway could shift to Mitigation; however, the provided examples (air/water/soil quality monitoring to support planning) fit Adaptation as the consistent primary outcome.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "information-disclosure",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"establishing a national program\"; \"collecting an environmental inventory\"; \"industrial facilities\"",
+  "co_benefits": "Improved pollution control and environmental compliance; better public/environmental health surveillance; support for emergency response planning around industrial sites.",
+  "instance_edge_case_notes": "Instrument type could also be framed as a planning-strategy (national environmental data program) if it is primarily an internal government data system rather than a disclosure requirement; text emphasizes data collection/inventory without specifying mandates, standards, or investments."
+}

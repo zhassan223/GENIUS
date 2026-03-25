@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Seattle City Light will pilot Energy Efficiency as a Service (EEaS) as part of whole-building programs to enable deeper energy efficiency in commercial buildings.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "building_retrofit → energy_use_reduction",
+  "mechanism_description": "Pilot an EEaS program to overcome split incentives and enable commercial building efficiency upgrades, reducing building energy consumption.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Building upgrades → ↓ energy demand (same service) → ↓ fuel/electricity use → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Retrofit existing buildings by improving insulation/air sealing, upgrading HVAC and water heating equipment, optimizing controls, and/or installing efficient lighting and appliances.  \n2) Mediating physical process: Improved thermal envelope and higher-efficiency end-use systems reduce heat transfer losses/gains and reduce energy required per unit of heating/cooling/lighting/service delivered.  \n3) Climate-relevant outcome: Lower onsite combustion (e.g., gas/oil) and reduced electricity demand reduce CO₂ (and some CH₄/N₂O) emissions from building operations and power generation.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced building energy consumption leading to lower upstream and onsite greenhouse gas emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Retrofits reduce operational energy use, which directly reduces GHG emissions from energy supply—this is a mitigation pathway.  \n2) Why this primary over alternatives: While some retrofits can improve heat resilience or comfort, the defining and largest climate effect of the mechanism “building_retrofit → energy_use_reduction” is emissions reduction via lower energy demand.  \n3) Inherent causal chain for each secondary: None—adaptation (e.g., reduced heat stress during outages) or resource-efficiency benefits beyond energy are not universal to all retrofits.  \n4) Edge cases applied: Retrofits that focus on passive survivability or weatherization still often reduce energy use, but if a policy’s intent were primarily hazard exposure reduction, that would be a different mechanism; here the mechanism explicitly centers energy-use reduction.  \n5) Confirm labels apply to ALL instances: Any policy implementing this mechanism aims to cut building energy demand; reduced energy demand inherently drives emissions reductions, so “Mitigation” fits across contexts.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "If a “retrofit” policy is specifically for resilience (e.g., floodproofing, backup power, cool refuges) without meaningful energy reduction, it should be classified under a different mechanism; similarly, deep retrofits paired with fuel-switching/electrification could introduce additional mitigation mechanisms beyond energy reduction, but that is not inherent to this mechanism as stated.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "incentive-program",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"pilot Energy Efficiency as a Service (EEaS)\"; \"whole-building programs\"; \"enable deeper energy efficiency\"; \"help participants overcome the split incentive barrier in commercial buildings\"",
+  "co_benefits": "Potential co-benefits: lower energy bills/operating costs for commercial buildings; potential improved indoor comfort and productivity.",
+  "instance_edge_case_notes": "EEaS could be structured as on-bill financing or service-based contracting; without explicit details on pricing/repayment structure, it is best classified broadly as an incentive-program rather than a pricing-mechanism."
+}

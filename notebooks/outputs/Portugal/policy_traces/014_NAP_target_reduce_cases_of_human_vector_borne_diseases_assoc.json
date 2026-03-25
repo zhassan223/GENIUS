@@ -1,0 +1,23 @@
+{
+  "policy_statement": "NAP target: reduce cases of human vector-borne diseases associated with climate change by 10% by 2030 (decadal average).",
+  "role": "sub",
+  "sector": "cross_sector",
+  "canonical_mechanism": "vector_borne_disease_prevention_and_control → climate_related_health_risk_reduction",
+  "mechanism_description": "Implementing vector surveillance, prevention, and control measures reduces the incidence of climate-associated vector-borne diseases, lowering overall climate-related health risks.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate-sensitive disease hazard → public health/vector control → ↓ human exposure & transmission → ↓ climate-related health impacts",
+  "causal_mechanism_detail": "(1) Change: Implement enhanced vector surveillance, source reduction, vector control interventions, and public health measures (e.g., monitoring, targeted spraying/larviciding, habitat management, community education, rapid response).  \n(2) Mediating process: Reduced vector abundance and/or human–vector contact and interrupted pathogen transmission cycles, including earlier detection of outbreaks and faster containment as climate conditions become more favorable for vectors.  \n(3) Outcome: Lower incidence of climate-associated vector-borne diseases and reduced climate-related health risk (illness, healthcare burden, and potential fatalities).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced climate-related morbidity/mortality by lowering exposure to vector-borne diseases that are exacerbated by climate change.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: The mechanism acts on a climate-amplified health hazard (vector-borne disease) to reduce exposure and impacts—an adaptation pathway.  \n2) Why this primary over alternatives: While some implementations might have minor mitigation co-effects (e.g., different chemical use, operational energy), the intended and largest climate-relevant outcome is reduced vulnerability/health impacts, not reduced GHG emissions or resource use.  \n3) Inherent causal chain for each secondary: None, because mitigation/resource-efficiency/nature-based outcomes are not unavoidable physical consequences of “vector surveillance, prevention, and control” (they depend on chosen methods and context).  \n4) Edge cases applied: If control is achieved via ecosystem restoration or wetlands management, it could overlap with Nature-Based Solutions, but that is not inherent to the general mechanism; similarly, pesticide programs do not inherently reduce resources or emissions.  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism (surveillance + prevention/control to reduce climate-associated vector-borne disease) primarily reduces climate health risk, fitting Adaptation universally.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Some implementations may use nature-based habitat modification or green infrastructure to reduce breeding sites (potential NBS co-benefits), or may have operational emissions/toxicity tradeoffs, but these are implementation-specific rather than inherent to the mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Reduction in the number of cases of human vector-borne diseases associated with climate change”; “10%”; “by 2030”; “(decadal average)”",
+  "co_benefits": "Potential co-benefits include improved general public health capacity and outbreak preparedness (including for heat-related illness or post-flood disease risks), but these are not specified as direct mechanisms in the text.",
+  "instance_edge_case_notes": "Although flooding and heat can influence vector ecology, the location vulnerability context provided does not explicitly include vector-borne disease risk; therefore an added secondary category based on local hazards is not assigned."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Adopt a Building Performance Ordinance to ensure benchmarking and retuning of large existing buildings community-wide.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "building_performance_ordinance → energy_use_reduction",
+  "mechanism_description": "Mandating benchmarking and retuning for existing large buildings drives operational efficiency improvements that reduce overall building energy consumption and related greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Performance standards/benchmarking/retuning/retrofits reduce energy input required to deliver the same building services (heating/cooling/lighting), i.e., improved energy productivity (same service → less energy).",
+  "primary_causal_pathway": "Building operations/retrofits mandated → ↓ energy demand (electricity + on-site fuels) → ↓ combustion & grid generation → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human/system activity: Require large existing (and sometimes new) buildings to measure and disclose energy use (benchmark), tune/optimize controls (retune), and/or meet minimum performance targets that trigger retrofits and operational improvements.  \n(2) Mediating physical process: Improved HVAC control, envelope performance, equipment efficiency, and reduced waste heat lowers delivered energy needed to maintain indoor comfort and provide lighting/plug loads.  \n(3) Climate-relevant outcome: Reduced electricity consumption and reduced on-site fossil fuel use (e.g., natural gas for space/water heating) lowers CO₂ (and to a lesser extent CH₄/N₂O) emissions from the building sector and associated energy supply.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is lowering operational building energy consumption, which reduces upstream greenhouse gas emissions from electricity generation and on-site fuel combustion.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: The mechanism’s central lever is reducing operational energy use in buildings, which directly reduces GHG emissions from electricity generation and on-site fuel combustion (mitigation).  \n2) Why this primary over alternatives: While better-performing buildings can incidentally improve comfort and sometimes resilience (e.g., during heat), those effects are not the mechanism’s primary or universal climate-relevant outcome; the consistent intended and realized effect across instances is emissions reduction via energy reduction.  \n3) Inherent causal chain for each secondary:  \n   - Resource Efficiency: By definition, performance standards/benchmarking/retuning/retrofits reduce energy inputs for the same service, making energy use more efficient in all implementations.  \n4) Edge cases applied: Even when paired with incentives or phased future standards (e.g., “beginning in 2030”), the core mechanism still operates through energy-use reduction to cut emissions.  \n5) Confirm labels apply to ALL instances: Any policy that is truly a building performance ordinance/benchmarking-retuning-retrofit requirement necessarily targets operational energy reduction; thus Mitigation (and inherent Resource Efficiency) applies across cities/contexts.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Some building performance ordinances may allow compliance via fuel-switching/electrification or procurement of clean energy/credits; the dominant effect remains mitigation, but if a specific policy variant primarily drives decarbonization without reducing energy (rare), it would be better represented by a different mechanism (e.g., building_electrification → fuel_switching).",
+  "additional_secondary_evidence": null,
+  "instrument_type": "regulatory-mandate",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Adopt a Building Performance Ordinance\"; \"ensure benchmarking\"; \"retuning\"; \"large existing buildings\"",
+  "co_benefits": "Potential reduced heat stress/indoor overheating risk during extreme heat due to improved HVAC controls and efficiency; possible reduced peak-load stress on the grid.",
+  "instance_edge_case_notes": "Could be interpreted as including performance targets (a performance-standard), but the text only specifies benchmarking and retuning, so it is classified as a regulatory mandate rather than an explicit performance standard."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Update Miami-Dade County Government's Electricity Master Plan.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "electricity_master_planning_update → grid_decarbonization_enabling",
+  "mechanism_description": "Updating the electricity master plan improves planning and coordination for power-system investments, enabling subsequent actions that reduce electricity-sector emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Planning/governance update → improved grid investment/operations decisions → ↓ electricity-sector carbon intensity → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human activity/system: The jurisdiction updates and modernizes its electricity master plan (targets, resource plans, interconnection/hosting capacity plans, reliability standards, capital programs, procurement strategy).  \n(2) Mediating physical/technical process: Better-coordinated planning accelerates and optimizes deployment of low/zero-carbon generation and enabling infrastructure (transmission/distribution upgrades, storage, demand flexibility), and can schedule retirement/less utilization of fossil generation.  \n(3) Climate-relevant outcome: Reduced CO₂e emissions from electricity supply and, by extension, from end-use sectors consuming grid electricity as the grid decarbonizes.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect of policies that update an electricity master plan is enabling decisions and investments that lower grid carbon intensity and thereby reduce downstream GHG emissions from electricity generation.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Plan update → enables grid decarbonization investments/operations → lowers generation emissions (mitigation).  \n2) Why this primary over alternatives: The core mechanism is not direct energy reduction (resource efficiency) nor direct hazard exposure reduction (adaptation), but enabling lower-carbon electricity supply.  \n3) Inherent causal chain for each secondary: None—any resilience, reliability, or efficiency co-benefits depend on plan content and local implementation, not the act of updating the plan itself.  \n4) Edge cases applied: If a “master plan” update were purely about reliability/hardening without decarbonization content, it could shift toward adaptation; however, the canonical mechanism explicitly ties the update to grid decarbonization enabling.  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism (planning update explicitly intended to enable grid decarbonization) is primarily mitigation regardless of jurisdiction.",
+  "mechanism_confidence": 0.78,
+  "mechanism_edge_case_notes": "Some electricity master plan updates primarily pursue resilience (storm hardening, undergrounding, redundancy) or affordability; those would not fit this canonical mechanism unless decarbonization enablement is a central, explicit outcome.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Update\"; \"Miami-Dade County Government's Electricity Master Plan\"",
+  "co_benefits": "Potential grid resilience/reliability co-benefits (e.g., improved preparedness for hurricanes, storm surge, tidal flooding, and extreme heat) if incorporated into the master plan, but not stated in the text.",
+  "instance_edge_case_notes": "Could be adaptation-relevant in Miami-Dade if the master plan explicitly includes resilience/hardening measures for sea-level rise, flooding, storm surge, and heat; however, the provided verbatim text only indicates an update, without resilience or hazard-specific components."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Offer financial incentives (e.g., point-of-sale rebates or sales tax holiday) to encourage consumers to choose lower-impact products, repair services, and rentals, developed with low-income communities and communities of color.",
+  "role": "sub",
+  "sector": "cross_sector",
+  "canonical_mechanism": "low_impact_product_incentives → consumption_emissions_reduction",
+  "mechanism_description": "Financial incentives nudge consumers toward lower-impact purchases, repairs, and rentals, reducing lifecycle greenhouse gas emissions from production and consumption.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Incentivizing repair, reuse, rental, and lower-impact products inherently reduces demand for virgin material throughput and extends product lifetimes, delivering the same services with fewer material and energy inputs.",
+  "primary_causal_pathway": "Incentives → consumption shift (buy less/new, choose lower-impact, repair/rent) → ↓ production + logistics + disposal emissions → ↓ GHG emissions",
+  "causal_mechanism_detail": "(1) Change: The policy changes consumer behavior at point-of-sale by lowering the effective price of lower-impact products/services (e.g., repair, rental, reused goods) relative to higher-impact alternatives.  \n(2) Process: Substitution and avoided demand reduce manufacturing and supply-chain activity (material extraction, processing, production, freight) and often reduce end-of-life waste handling (landfill/incineration), with possible additional savings from higher-efficiency product choices.  \n(3) Outcome: Net reduction in lifecycle GHG emissions attributable to consumption (Scope 3-type emissions at the community level), lowering overall atmospheric forcing.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced lifecycle GHG emissions from avoided production and disposal (and sometimes reduced use-phase energy) due to consumers substituting toward lower-impact products, repair, and rental.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: financial incentives drive lower-impact consumption choices, leading primarily to ↓ lifecycle GHG emissions—this is a direct mitigation pathway.  \n2) Why this primary over alternatives: while the policy can reduce waste and materials use, the climate-relevant objective and largest effect is emissions reduction from avoided/shifted production and disposal; it does not principally reduce exposure to climate hazards (adaptation) nor inherently increase carbon sinks (NBS).  \n3) Inherent secondary chain(s):  \n   - Resource Efficiency: repair/reuse/rental and lower-impact purchasing inherently reduce virgin material demand and extend product life, reducing material/energy input per unit of service.  \n4) Edge cases applied: if “lower-impact” is defined purely by non-climate attributes (e.g., toxicity or labor practices) the mitigation effect could be weaker; however, the canonical mechanism definition specifies lifecycle emissions reduction, so classification remains Mitigation.  \n5) Confirm labels apply to ALL instances: any policy using this mechanism (incentives for lower-impact goods/repair/rental) necessarily aims to shift consumption and thereby reduce lifecycle emissions (primary) and generally reduces material throughput (secondary).",
+  "mechanism_confidence": 0.82,
+  "mechanism_edge_case_notes": "Rebound effects (savings spent on other emissions-intensive consumption) and poorly specified “low-impact” eligibility criteria can reduce net GHG benefits; some incentives may primarily target waste reduction goals, but the dominant climate pathway remains lifecycle emissions mitigation.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "incentive-program",
+  "instrument_directness": "direct",
+  "climate_relevance": "indirect",
+  "key_indicators": "“Offer financial incentives”, “point-of-sale rebates”, “sales tax holiday”, “encourage consumers to choose products, repair services, and rentals”, “lower negative environmental and social impact”",
+  "co_benefits": "Potential equity/affordability benefits for low-income communities and communities of color; potential waste reduction and local air-quality improvements from reduced production/disposal—mentioned/implicit but not framed as directly reducing Austin’s specific hazard exposure/sensitivity.",
+  "instance_edge_case_notes": "If “lower-impact products” eligibility were explicitly tied to water-saving appliances, heat-resilient home upgrades, or wildfire/flash-flood risk reduction, an adaptation secondary could apply; the current text is generic on impact type."
+}

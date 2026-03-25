@@ -1,0 +1,23 @@
+{
+  "policy_statement": "City of Chicago aims to reduce city GHG emissions by a minimum of 62% by 2040 (using 2017 inventory levels as baseline).",
+  "role": "individual",
+  "sector": "cross_sector",
+  "canonical_mechanism": "economy_wide_ghg_target → emissions_reduction_pathway",
+  "mechanism_description": "Setting an economy-wide GHG reduction target creates an overarching pathway that drives policies and actions to reduce emissions across sectors.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Governance commitment (GHG target) → coordinated cross-sector actions → ↓ fuel/energy use + ↓ high-GHG activities → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human activity/system: The city/agency sets a quantified, time-bound GHG reduction or carbon-neutrality target (often with a mandate to develop plans, assign responsibility, and track progress).  \n(2) Mediating process: The target creates an implementation and accountability framework that prioritizes and accelerates emissions-reduction measures across relevant emitting sources (buildings, transport, waste, industry, municipal operations), influencing investments and operational decisions.  \n(3) Climate-relevant outcome: Aggregate reductions in CO₂e emissions relative to a baseline, decreasing the jurisdiction’s contribution to global warming.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is lowering total greenhouse gas emissions over time by committing the jurisdiction/organization to a quantified reduction (or neutrality) pathway that triggers coordinated emissions-cutting actions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: A quantified GHG target primarily functions to drive ↓ GHG emissions through coordinated actions and planning.  \n2) Why this primary over alternatives: While targets can indirectly influence efficiency, resilience, or land stewardship depending on chosen measures, the mechanism itself is explicitly defined by an emissions endpoint (CO₂e reduction/carbon neutrality), making mitigation the dominant and intended climate effect.  \n3) Inherent causal chain for each secondary: None—resource efficiency, adaptation, or nature-based outcomes are not guaranteed by merely setting a target; they depend on the specific measures selected to meet it.  \n4) Edge cases applied: Some targets are scoped to municipal operations (e.g., airport/port) rather than economy-wide; the dominant pathway remains emissions reduction (mitigation) even when the boundary is narrower.  \n5) Confirm labels apply to ALL instances: Any policy that sets a GHG reduction/carbon neutrality target uses the same core mechanism—commitment + accountability → actions → reduced emissions—so “Mitigation” applies consistently.",
+  "mechanism_confidence": 0.92,
+  "mechanism_edge_case_notes": "Targets that are purely aspirational with no associated planning/accountability may have weaker real-world impact, but their dominant intended climate pathway remains mitigation; adaptation or resource-efficiency effects only occur if explicitly embedded via accompanying measures.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"aims to reduce Chicago's GHG emissions\"; \"minimum of 62% by 2040\"; \"based on 2017 GHG inventory levels\"; \"2022 CAP aims to chart an equitable path\"",
+  "co_benefits": "Potential long-run co-benefits via reduced warming (e.g., less extreme heat risk) and potential air-quality improvements, but not a direct hazard exposure/sensitivity reduction mechanism in the text.",
+  "instance_edge_case_notes": "Although the CAP may contain adaptation actions, the excerpt provided only specifies an emissions-reduction target; classification is therefore limited to mitigation target-setting."
+}

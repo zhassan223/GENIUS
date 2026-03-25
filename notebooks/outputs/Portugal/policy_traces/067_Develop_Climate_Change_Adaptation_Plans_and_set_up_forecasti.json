@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Develop Climate Change Adaptation Plans and set up forecasting, warning and response systems, including climate prediction models for extreme phenomena and population warning.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "adaptation_planning_and_early_warning_systems → institutional_adaptive_capacity_and_disaster_risk_reduction",
+  "mechanism_description": "Create adaptation plans and climate forecasting/early-warning systems to improve preparedness and response, reducing impacts from extreme events and increasing adaptive capacity.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Disaster Risk Reduction / Emergency Preparedness (Early Warning Systems)",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard forecast/early warning + preparedness planning → earlier protective action & improved emergency response → ↓ exposure/vulnerability → ↓ climate-impact damages",
+  "causal_mechanism_detail": "1) Change in human activity/system: Governments and agencies develop formal adaptation plans and deploy monitoring, forecasting, alerting, and response protocols (including decision-support tools, risk maps, and communications to the public).  \n2) Mediating physical/ecological process: Improved hazard detection and prediction plus faster dissemination of warnings enables timely protective actions (evacuation, cooling measures, flood barrier deployment, pre-positioning resources) and better-coordinated response during events.  \n3) Climate-relevant outcome: Reduced disaster risk and impacts (mortality/morbidity, asset losses, infrastructure downtime) and increased institutional adaptive capacity under extreme climate events.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced loss of life, economic damage, and service disruption from climate hazards (e.g., heatwaves, floods, wildfires) due to earlier warning and better-prepared response.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Forecasting/early warning + preparedness planning primarily reduces exposure and vulnerability to climate hazards, cutting damages.  \n2) Why this primary over alternatives: While planning can incidentally influence mitigation choices, the mechanism as stated is explicitly about preparedness, warning, and response to extreme phenomena—an adaptation/disaster-risk-reduction pathway.  \n3) Inherent causal chain for each secondary: None is unavoidable; mitigation or resource-efficiency outcomes depend on what actions are chosen in the plan (content-contingent), not on planning/EWS itself.  \n4) Edge cases applied: If an “adaptation plan” is actually a climate action plan dominated by emissions measures, classification could shift to Mitigation—but that is not inherent to the planning-and-warning mechanism described here.  \n5) Confirm labels apply to ALL instances: Any policy implementing adaptation planning and early-warning/response systems will, by design, aim to reduce climate hazard impacts and improve adaptive capacity, fitting Adaptation universally.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Some adaptation plans may bundle mitigation actions; early warning systems can also reduce non-climate disaster losses (e.g., earthquakes), but the climate-relevant mechanism remains hazard preparedness/response.",
+  "additional_secondary_evidence": "Disaster Risk Reduction / Emergency Preparedness (Early Warning Systems): Portugal faces wildfire risk, flooding, and extreme heat events, and forecasting/warning/response systems directly reduce exposure/sensitivity because earlier alerts and coordinated response enable evacuation, protective behaviors, and faster deployment of emergency resources during extreme phenomena.",
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Climate Change Adaptation Plans”; “forecasting, warning and response systems”; “climate prediction models for extreme phenomena”; “population warning”",
+  "co_benefits": "Public safety improvements for non-climate hazards; general improvements in emergency management capacity and interagency coordination.",
+  "instance_edge_case_notes": "Instrument could also be interpreted as infrastructure-investment if the emphasis were on building/operating monitoring networks and alerting infrastructure; however, the text foregrounds planning and system setup rather than capital works."
+}

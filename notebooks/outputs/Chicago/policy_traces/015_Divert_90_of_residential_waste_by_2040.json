@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Divert 90% of residential waste by 2040.",
+  "role": "sub",
+  "sector": "waste",
+  "canonical_mechanism": "waste_diversion → landfill_methane_avoidance",
+  "mechanism_description": "Increasing diversion of residential waste from landfills reduces methane-producing decomposition in landfills, avoiding landfill methane emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Waste management change (↑ diversion/↓ landfilling) → ↓ anaerobic landfill decomposition → ↓ CH4 emissions → ↓ net GHG forcing",
+  "causal_mechanism_detail": "1) Changed activity/system: Municipal/commercial/industrial/C&D waste management shifts from disposal (landfilling) toward diversion pathways such as reduction, reuse, recycling, composting, or other non-landfill handling.  \n2) Mediating physical process: With less degradable material buried, there is less anaerobic microbial decomposition in landfills, which directly lowers methane generation (and associated fugitive emissions).  \n3) Climate-relevant outcome: Lower methane (CH4) emissions from the waste sector, reducing near-term and cumulative greenhouse gas impacts.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is avoiding landfill methane emissions by diverting waste away from landfills.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Diverting waste from landfill reduces landfill CH4 emissions—this is a direct GHG reduction pathway.  \n2) Why this primary over alternatives: While diversion can also reduce upstream emissions from producing virgin materials, the canonical mechanism specified is explicitly “landfill_methane_avoidance,” so the primary effect is waste-sector methane mitigation.  \n3) Inherent causal chain for each secondary: None—additional benefits (e.g., resource efficiency via recycling, energy recovery, or resilience co-benefits) depend on the chosen diversion method and are not guaranteed in every instance of “waste diversion.”  \n4) Edge cases applied: If diversion is achieved mainly via waste-to-energy incineration or long-haul transport, some GHG benefits may be smaller or partially offset, but the mechanism’s intent and typical effect remain methane avoidance from reduced landfilling.  \n5) Confirm labels apply to ALL instances: Any policy that increases diversion/lowers landfilling will, by construction, reduce the amount of waste decomposing anaerobically in landfills and thus tends to reduce methane emissions, aligning consistently with Mitigation.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Diversion pathways vary: (a) diverting mostly inert C&D materials yields less methane benefit than diverting organics; (b) shifting from landfill to incineration changes the emissions profile (more CO2, less CH4); (c) methane capture at landfills can reduce the marginal benefit of diversion, though avoidance generally remains beneficial.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Divert 90% of residential waste”; “by 2040”",
+  "co_benefits": "Potential co-benefits include reduced landfill leachate and local air pollutants/odors, conserved materials, and reduced upstream energy use from recycling, but these are not explicitly linked to reducing Chicago’s stated hazards in the text.",
+  "instance_edge_case_notes": "Target could later be implemented via mandates, pricing (PAYT), or infrastructure; however, the statement alone does not specify the instrument beyond a diversion target, so it is classified as target-setting with enabling directness."
+}

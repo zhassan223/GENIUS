@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Promote installation of species/varieties better adapted to climate change, including reconversion of crops to less water-demanding species/varieties/cultivars with high water productivity and resistance to water stress.",
+  "role": "sub",
+  "sector": "land_use",
+  "canonical_mechanism": "climate_resilient_crop_varieties → agricultural_water_stress_resilience",
+  "mechanism_description": "Shifting to drought-tolerant, less water-demanding crop varieties reduces irrigation needs and increases farm resilience to climate-driven water scarcity and extreme events.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Agriculture",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (drought/heat/water scarcity) → crop varietal shift (drought-tolerant/less water-demanding) → ↓ yield loss & ↓ irrigation dependence → ↓ vulnerability of agricultural system",
+  "causal_mechanism_detail": "1) Change in human activity/system: Farmers/agricultural planners replace existing crops/varieties with cultivars that are more drought-tolerant, less water-demanding, and/or higher water-productivity.  \n2) Mediating physical/ecological process: Improved plant water-use efficiency, deeper/changed rooting and phenology, and greater tolerance to water deficit reduce crop water requirement and sensitivity to soil moisture deficits during dry/heat periods.  \n3) Climate-relevant outcome: Reduced impacts of drought and water scarcity on yields and farm operations (greater continuity of production and reduced vulnerability to climate-driven water stress).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is improving agricultural resilience by maintaining productivity under drought and water scarcity through adoption of water-stress-tolerant crop varieties.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Address a climate hazard (drought/water scarcity) by reducing agricultural sensitivity via drought-tolerant/low-water crop varieties, thereby lowering climate impact on yields.  \n2) Why this primary over alternatives: The mechanism’s direct intent and consistent physical effect is resilience to water stress; mitigation/resource-efficiency outcomes (e.g., less irrigation energy, less water withdrawn) are context-dependent and not assured in every implementation.  \n3) Inherent causal chain for each secondary: None—water savings, energy/emissions reductions, or ecosystem co-benefits may occur but are not unavoidable across all cases (e.g., farmers might expand irrigated area, switch to different inputs, or local energy mix may negate emissions changes).  \n4) Edge cases applied: Even if irrigation demand drops, the policy can be implemented in rainfed systems (no pumping), or with rebound effects; therefore do not assign Resource Efficiency or Mitigation as inherent.  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism necessarily aims to and generally does increase tolerance to water stress, fitting Adaptation universally.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Potential co-benefits (sometimes substantial) include reduced irrigation withdrawals and pumping energy (Resource Efficiency/Mitigation), but these depend on baseline irrigation, energy source, and rebound responses, so they are not inherent to the mechanism.",
+  "additional_secondary_evidence": "Agriculture: Portugal faces drought and desertification (southern regions) and water scarcity, and reconversion of crops to less water-demanding, water-stress-resistant varieties directly reduces agricultural sensitivity because it lowers crop water requirements and maintains yields under water stress.",
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Promote installation of species/varieties better adapted to climate change”; “Reconversion of crops to less water-demanding species, varieties, and cultivars”; “high water productivity”; “resistance to water stress”; “adapting crops and varieties to water availability”",
+  "co_benefits": "Potential reduced irrigation withdrawals/pressure on water resources; potential soil conservation benefits linked to reduced desertification pressure (not explicitly stated as policy mechanism beyond crop choice).",
+  "instance_edge_case_notes": "Instrument type is inferred from “Promote” language without an explicit tool (no stated subsidy, mandate, or standard); classified as a planning/strategy-type enabling measure rather than an enforceable requirement."
+}

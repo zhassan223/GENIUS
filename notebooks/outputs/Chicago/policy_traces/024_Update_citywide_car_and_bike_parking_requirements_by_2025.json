@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Update citywide car and bike parking requirements by 2025.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "parking_policy_reform → modal_shift_and_vmt_reduction",
+  "mechanism_description": "Reforming car and bike parking requirements reduces incentives for car use and supports biking, which shifts trips away from driving and lowers transport emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Parking supply/pricing reform → ↑ cost/↓ convenience of car use + ↑ convenience of active/transit access → modal shift + ↓ VMT → ↓ fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: The policy alters parking requirements and/or parking supply, management, and pricing (including reducing car parking minimums, increasing or reforming bike parking requirements, unbundling parking costs, or managing curb spaces).  \n(2) Mediating process: By changing the time/money cost of storing a car and the ease of car-oriented access (and potentially improving bike parking convenience), it shifts traveler and developer behavior—reducing car ownership/use, increasing transit/active mode share, and lowering total VMT.  \n(3) Climate-relevant outcome: Lower VMT reduces tailpipe fuel combustion (and associated upstream fuel-cycle emissions), decreasing transport-sector GHG emissions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions due to lower driving demand (VMT) and mode shift away from private vehicles.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Parking reforms primarily act through travel behavior (mode choice, trip generation, car ownership) to reduce VMT and thus emissions from vehicle fuel combustion.  \n2) Why this primary over alternatives: While parking reform can influence land use patterns, congestion, or local air quality, the most direct and largest climate-relevant effect across implementations is reduced on-road vehicle activity and associated CO₂e.  \n3) Inherent causal chain for each secondary: None—resource efficiency (e.g., less land devoted to parking) or adaptation benefits (e.g., less heat from paved areas) may occur but are not unavoidable outcomes of every parking reform.  \n4) Edge cases applied: If a reform only increases parking supply for cars, it could increase VMT; however, the canonical mechanism specified is explicitly “modal shift and VMT reduction,” which is mitigation-focused.  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism aims to reduce driving demand through parking policy changes; that consistently maps to mitigation via lower transport GHG emissions.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If parking changes are implemented primarily to increase car parking availability or reduce parking prices, the effect can reverse (↑ VMT, ↑ emissions). Also, bike-parking-only reforms may have smaller/indirect VMT impacts unless paired with broader constraints/pricing on car parking; nonetheless, the stated mechanism presumes net modal shift away from driving.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "regulatory-mandate",
+  "instrument_directness": "direct",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Update citywide car and bike parking requirements\"; \"by 2025\"",
+  "co_benefits": "Potential co-benefits: reduced congestion and local air pollutants (NOx/PM), improved safety/active mobility, potential reduction in impervious parking surface (and thus flooding) if requirements reduce paved area—but not explicit in the text.",
+  "instance_edge_case_notes": "Instrument type could be coded as “planning-strategy” if framed as a plan update rather than a binding code/ordinance change; however “parking requirements” most commonly implies a regulatory code requirement. Climate relevance is “indirect” because it affects GHG via travel behavior rather than directly addressing a specific climate hazard."
+}

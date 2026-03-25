@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Implement eMISK Waste to manage the fleet of industrial liquid waste vehicles and organize the logistics process.",
+  "role": "sub",
+  "sector": "waste",
+  "canonical_mechanism": "waste_collection_logistics_optimization → transport_fuel_use_and_emissions_reduction",
+  "mechanism_description": "Implementing a digital system to optimize industrial liquid-waste vehicle fleet operations reduces unnecessary travel and fuel consumption, lowering associated GHG emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Operational optimization → ↓ vehicle travel/idling → ↓ fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Changes waste fleet management (routing, dispatch, scheduling, monitoring) to minimize unnecessary trips, empty runs, and idle time. (2) Reduced kilometers traveled and improved driving/dispatch efficiency reduce liquid fuel consumption and associated tailpipe emissions. (3) The climate-relevant outcome is lower transport-sector GHG emissions attributable to waste collection/haulage operations.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced GHG emissions from waste-collection/transport vehicles due to lower fuel use from optimized routing and fleet operations.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: logistics optimization reduces fuel combustion in collection/haulage vehicles, directly lowering GHG emissions.  \n2) Why this primary over alternatives: while it may incidentally improve service reliability or reduce costs, the largest direct climate effect of the mechanism is tailpipe-emissions reduction (mitigation).  \n3) Inherent secondaries: none are unavoidable—resource/cost savings or local air-quality benefits are common but not guaranteed climate categories here, and adaptation benefits are context-dependent rather than inherent.  \n4) Edge cases applied: if optimization enables more frequent collection (potentially increasing trips) the mechanism would not reliably reduce emissions; however the canonical mechanism explicitly targets fuel/emissions reduction via efficiency, so classification remains mitigation.  \n5) Applicability to all instances: any policy using this mechanism (routing/fleet optimization to cut travel/fuel) has the same primary mitigation pathway regardless of city or waste stream.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "If optimization is implemented mainly to expand coverage/increase pickup frequency (raising VKT) or if rebound effects dominate, net emissions reductions may be smaller or negative; those would represent a different/modified mechanism than the stated “optimization → fuel/emissions reduction.”",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"implementing a solution\"; \"manage the fleet of industrial liquid waste vehicles\"; \"organizing the logistics process\"; \"eMISK Waste\"",
+  "co_benefits": "Potential local air-pollution reductions and reduced heat exposure for drivers from less idling/time on road; improved service reliability during dust storms/extreme heat; operational cost savings.",
+  "instance_edge_case_notes": "Instrument type could be interpreted as a planning-strategy (logistics optimization) or infrastructure-investment (deployment of digital fleet-management system); classified as infrastructure-investment because it involves implementing a management solution/system rather than setting rules/targets."
+}

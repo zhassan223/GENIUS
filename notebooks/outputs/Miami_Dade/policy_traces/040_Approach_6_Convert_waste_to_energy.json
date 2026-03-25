@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Approach 6: Convert waste to energy.",
+  "role": "parent",
+  "sector": "waste",
+  "canonical_mechanism": "waste_to_energy_conversion → landfill_methane_avoidance_and_energy_recovery",
+  "mechanism_description": "Diverting non-recycled waste to waste-to-energy facilities reduces landfill methane while generating energy that can displace more carbon-intensive power sources.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Converting residual waste into usable electricity/heat recovers energy value from materials that would otherwise be discarded, delivering the same energy services with less virgin fuel input.",
+  "primary_causal_pathway": "Waste management choice (landfill → WtE) → ↓ anaerobic decomposition in landfills → ↓ CH₄ emissions (plus energy recovery → ↓ fossil generation) → ↓ net GHG emissions",
+  "causal_mechanism_detail": "1) Change in system/activity: Municipal solid waste that would be landfilled is instead processed in waste-to-energy facilities (e.g., combustion, gasification, anaerobic digestion of suitable fractions) and used to produce electricity/heat.  \n2) Mediating physical process: Reduced landfill deposition lowers anaerobic biodegradation that produces methane; simultaneously, recovered energy supplies the grid/loads and can substitute for fossil-based generation.  \n3) Climate-relevant outcome: Net reduction in lifecycle GHG emissions, primarily via avoided methane and secondarily via displaced fossil CO₂ (net of facility emissions).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is lowering net GHG emissions by avoiding landfill methane from disposed waste (often the dominant portion of the benefit), with additional mitigation from energy recovery displacing fossil generation.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Waste diversion from landfill to WtE reduces methane formation and yields energy that displaces higher-carbon generation → net ↓ GHG.  \n2) Why this primary over alternatives: The intended and largest climate effect is emissions mitigation (CH₄ avoidance and fossil displacement), not hazard reduction (adaptation) or ecosystem carbon (NBS).  \n3) Inherent causal chain for each secondary: Resource Efficiency is inherent because the mechanism explicitly recovers usable energy from residual waste, reducing demand for other primary energy inputs for the same delivered electricity/heat.  \n4) Edge cases applied: Even where WtE has CO₂ emissions, the canonical mechanism specified includes landfill methane avoidance and energy recovery; the climate framing remains mitigation, though net benefit depends on waste composition, baseline landfill gas capture, and displaced grid intensity.  \n5) Confirm labels apply to ALL instances: Any policy implementing “waste-to-energy conversion → landfill methane avoidance and energy recovery” necessarily targets GHG reduction (mitigation) and inherently recovers energy from waste (resource efficiency).",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Net mitigation magnitude can flip or shrink where (a) landfills already have very high methane capture and utilization, (b) displaced electricity is already low-carbon, or (c) high-plastics waste increases fossil CO₂ from combustion; some implementations may also create local air-pollution tradeoffs, but those do not change the primary climate category.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“Convert waste to energy”; “WASTE TO ENERGY”",
+  "co_benefits": "Potential co-benefits: reduced landfill volume/land demand; potential local energy resilience; reduced landfill leachate risk (not explicitly stated and not clearly tied to Miami-Dade’s listed hazards in the text)",
+  "instance_edge_case_notes": "Instrument type is inferred because the source provides only an “approach” title with no explicit policy tool; alternative plausible instrument types (e.g., target-setting or regulatory-mandate for diversion) are not evidenced in the verbatim text."
+}

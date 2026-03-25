@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Construct tidal barriers in new developments (Sabah Al Ahmad Sea City) including a tidal gate system and offshore breakwater to cope with rising sea levels and protect from erosion; completed in 2016.",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "coastal_barrier_construction → sea_level_rise_and_erosion_risk_reduction",
+  "mechanism_description": "Constructing tidal gates and breakwaters reduces coastal flooding and erosion impacts from sea-level rise by physically limiting storm surge and wave energy reaching developed areas.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (sea-level rise + storm surge/wave action) → engineered barrier attenuates/blocks surge & waves → ↓ inundation/erosion exposure → ↓ damages/disruption",
+  "causal_mechanism_detail": "1) Change in human system: Cities/developers construct and operate hard coastal defenses (e.g., tidal gates, breakwaters, seawalls) along vulnerable shorelines or at inlets.  \n2) Mediating physical process: Structures reduce wave energy reaching the coast, limit storm-surge propagation, and/or control tidal flow, thereby lowering nearshore hydrodynamic forces and shoreline retreat.  \n3) Climate-relevant outcome: Reduced risk and impacts of sea-level rise–amplified coastal flooding, overtopping, and erosion for people, assets, and critical infrastructure.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced coastal flooding and erosion damages from sea-level rise and storm surge by physically blocking/attenuating water and wave energy.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: hazard reduction—barriers act directly on coastal water levels/wave energy to reduce exposure to flooding/erosion.  \n2) Why this primary over alternatives: Any mitigation effects (e.g., incidental emission changes from avoided rebuilds) are indirect and not the main mechanism; the direct intended effect is protection from climate-driven coastal hazards.  \n3) Inherent causal chain for each secondary: None—there is no unavoidable, always-present mitigation/resource-efficiency/NBS benefit intrinsic to constructing hard barriers (effects on ecosystems or emissions can vary by design and context).  \n4) Edge cases applied: Some projects may incorporate “green-grey” elements or habitat restoration (which could be NBS) and some may induce development in risk zones; those are not guaranteed by the canonical mechanism “coastal barrier construction” itself.  \n5) Confirm labels apply to ALL instances: Any policy implementing this mechanism (tidal gates, breakwaters, seawalls) is fundamentally aimed at reducing coastal hazard impacts, so Adaptation applies universally.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "If the “barrier” is implemented as or alongside living shorelines/mangrove restoration, the mechanism could shift toward Nature-Based Solutions; hard barriers can also cause maladaptation (down-drift erosion, habitat loss, risk transfer), but those are context-specific and not inherent benefits/secondary categories.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Constructing tidal barriers\"; \"tidal gate system\"; \"offshore breakwater\"; \"to cope with the rising sea levels\"; \"protect from erosion\"; \"adverse impact of climate change\"; \"completed in 2016\"",
+  "co_benefits": "Potential ancillary benefits: protection of coastal real estate/amenities and navigation/harbor calm-water conditions (if applicable), but not explicitly stated.",
+  "instance_edge_case_notes": null
+}

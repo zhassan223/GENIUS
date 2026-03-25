@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Create a performance framework and educational programming on low-carbon materials best practices for industry professionals and the public, focusing on low-income communities and communities of color.",
+  "role": "sub",
+  "sector": "industry",
+  "canonical_mechanism": "low_carbon_materials_education_program → embodied_emissions_reduction",
+  "mechanism_description": "Providing performance guidance and educational programming increases adoption of low-carbon construction materials and practices, reducing lifecycle (embodied) greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Education/performance guidance → material/practice substitution in construction → ↓ embodied (lifecycle) GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Provide performance frameworks, training, guidance, and outreach that shift procurement/specification and construction choices toward low-carbon materials (e.g., lower-clinker cement, recycled content steel, mass timber where appropriate) and improved construction practices.  \n(2) Mediating process: Market and behavioral uptake leads to reduced use of carbon-intensive materials and/or reduced quantities, which lowers upstream industrial process emissions and energy-related emissions in manufacturing and transport across the material lifecycle.  \n(3) Outcome: Net reduction in embodied CO2e per square meter (and potentially per project/citywide construction activity), contributing to overall GHG mitigation.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is lowering embodied greenhouse gas emissions by increasing adoption of lower-carbon building materials and construction practices.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: informational/educational intervention → adoption of low-carbon materials → reduced upstream embodied emissions (mitigation).  \n2) Why this primary over alternatives: while programs may also mention health or community benefits, the core climate-relevant causal chain is emissions reduction from materials production, which is mitigation rather than adaptation/resource efficiency/NBS.  \n3) Inherent secondary chains: none are guaranteed—education may or may not reduce operational energy, waste, or increase carbon sinks; those depend on what materials/practices are adopted and local implementation.  \n4) Edge cases applied: if education is aimed primarily at resilience (e.g., wildfire-resistant materials) it could be adaptation, but under this canonical mechanism the stated intent and physical outcome are embodied-emissions reductions.  \n5) Confirm applies to ALL instances: any policy that is specifically an education/performance-program mechanism targeting low-carbon materials has its primary, consistent climate effect through reduced embodied emissions.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Some implementations could incidentally improve indoor air quality, reduce construction waste, or alter operational energy use, but these are not unavoidable outcomes of an education program and thus are not inherent secondary categories.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "information-disclosure",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Create a performance framework”, “educational programming”, “Educate stakeholders”, “industry professionals and the general public”, “reduce the lifecycle… impacts of building materials”, “low-carbon materials best practices”, “focusing on low-income communities and communities of color”",
+  "co_benefits": "Public health improvements (reduced “negative health impacts” from materials/construction), equity benefits from targeted outreach to “low-income communities and communities of color”",
+  "instance_edge_case_notes": "Could be interpreted as a voluntary performance/benchmarking scheme (performance framework) in addition to education; however, absent a binding requirement or explicit targets, it fits best as an information/disclosure-style enabling instrument rather than a performance-standard or target-setting policy."
+}

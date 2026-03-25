@@ -1,0 +1,23 @@
+{
+  "policy_statement": "For waste, Hiroshima City sets KPIs including reducing waste per person per day to 826 g/person/day by FY2020 and reducing incineration amount to 295,000 ton/year by FY2020.",
+  "role": "individual",
+  "sector": "waste",
+  "canonical_mechanism": "waste_reduction_target → waste_sector_emissions_reduction",
+  "mechanism_description": "Setting targets to reduce per-capita waste generation and the amount of waste incinerated decreases the quantity of waste needing disposal, reducing waste-sector greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Reducing per-capita waste generation inherently means less material throughput (less production/consumption and fewer discarded materials), delivering the same services with fewer material inputs and reduced upstream resource/energy demand.",
+  "primary_causal_pathway": "Waste generation ↓ → waste incineration/landfilling ↓ → ↓ CH₄ and fossil CO₂ emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human activity/system: The city sets quantified targets/KPIs to reduce per-capita waste generation and/or reduce the quantity of waste incinerated/disposed.  \n(2) Mediating process: With less waste produced and managed, there is less combustion of waste (lower CO₂, including fossil fraction) and/or less landfilling of organics (lower anaerobic decomposition and methane formation), and reduced fuel/electricity use in collection and processing.  \n(3) Climate-relevant outcome: Net reduction in waste-sector GHG emissions versus baseline/BAU.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect of policies using this mechanism is reduced waste-treatment/disposal activity, leading to lower direct waste-sector greenhouse gas emissions.",
+  "mechanism_classification_reasoning": "(1) Dominant causal pathway: targets reduce waste generated and disposed; disposal and treatment emissions fall → mitigation.  \n(2) Why this primary over alternatives: the mechanism’s defining intent and most direct physical effect is lower GHG emissions from waste operations (incineration/landfill/process energy), not hazard reduction (adaptation) or ecosystem carbon sequestration (NBS).  \n(3) Inherent causal chain for each secondary: Resource Efficiency occurs because reducing waste generation necessarily reduces material throughput and associated upstream resource/energy use per unit of service.  \n(4) Edge cases applied: if a target is met via shifting waste to another jurisdiction or treatment mode with similar emissions, mitigation benefits could be smaller; however the canonical mechanism presumes actual reduction in waste generation/disposal quantity.  \n(5) Confirm labels apply to ALL instances: any policy that genuinely sets/implements waste-reduction targets operates through reduced waste handling and therefore reduced waste-sector emissions (Mitigation) and reduced material throughput (Resource Efficiency).",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If “waste reduction” is achieved mainly by diverting waste to energy-intensive recycling streams or exporting waste, net GHG benefits may vary; targets framed solely as “incineration reduction” could increase landfilling if not paired with prevention/diversion, affecting the magnitude (but the intended dominant pathway remains emissions reduction from waste treatment/disposal changes).",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Key Performance Indicator (KPI)”; “Waste amount per day per person”; “826 g/person/day by FY2020”; “Incineration amount of waste”; “295,000 ton/year by FY2020”",
+  "co_benefits": "Reduced local air pollutants from incineration (e.g., NOx/PM) and potential cost savings in waste management.",
+  "instance_edge_case_notes": "KPIs alone are enabling (they guide/monitor performance) rather than a direct emissions-reduction action unless paired with specific regulatory/incentive measures."
+}

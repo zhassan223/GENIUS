@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Design an Alternative Workplace Solutions policy and program for Miami-Dade County to maintain and expand employee telecommuting and explore methods to encourage other large employers to implement telecommuting.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "telecommuting_program → transport_emissions_reduction",
+  "mechanism_description": "Expanding telecommuting reduces commuting travel demand, lowering vehicle fuel consumption and transportation greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Adaptation",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Travel demand reduction → ↓ vehicle-km traveled → ↓ fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human activity/system: Employers and governments enable/encourage employees to work remotely instead of commuting to a central workplace on some or all workdays.  \n(2) Mediating physical process: Fewer commute trips reduces vehicle miles traveled and congestion, leading to less gasoline/diesel combustion in cars and trucks.  \n(3) Climate-relevant outcome: Reduced tailpipe CO₂ (and some CH₄/N₂O) emissions from on-road transport; often also reduces co-pollutants (NOx/PM), though those are not the primary climate outcome.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced commuting travel, which lowers on-road fuel combustion and transportation GHG emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: telecommuting → fewer commute trips → less fuel combustion → lower GHG emissions (direct mitigation).  \n2) Why this primary over alternatives: While telework can shift building energy use (more home energy, less office energy) and affect land-use patterns, those impacts are context-dependent and not the core or consistently dominant intended effect; the mechanism as defined targets transport emissions reduction.  \n3) Inherent causal chain for each secondary: None—no secondary category (Adaptation, Resource Efficiency, Nature-Based Solutions) is an unavoidable physical consequence of telecommuting across all contexts.  \n4) Edge cases applied: If remote work increases home heating/cooling enough to offset travel savings, net mitigation may shrink or reverse, but the mechanism’s dominant intended pathway remains transport-emissions reduction.  \n5) Confirm labels apply to ALL instances: Any policy under this mechanism operates by reducing commute travel demand; that is a mitigation pathway regardless of city or hazard context.",
+  "mechanism_confidence": 0.88,
+  "mechanism_edge_case_notes": "Net emissions benefits can vary with (a) office energy rebound or fixed building loads, (b) increased non-commute travel, (c) longer occasional commutes due to residential relocation, and (d) mode shift effects (e.g., reduced transit ridership). These affect magnitude, not the primary classification for the mechanism.",
+  "additional_secondary_evidence": "Adaptation: Miami-Dade faces extreme heat and tidal flooding/hurricanes, and telecommuting directly reduces exposure/sensitivity because enabling employees to work from home avoids commuting and time spent traveling/being outdoors or on flood-prone roads during hazardous conditions.",
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Design an Alternative Workplace Solutions policy and program\"; \"maintain and expand\"; \"employees who telecommute\"; \"encourage other large employers to implement telecommuting\"",
+  "co_benefits": "Improved air quality (NOx/PM reductions), reduced traffic congestion, time savings, potential operational continuity during storms, reduced transportation costs.",
+  "instance_edge_case_notes": "Telecommuting’s adaptation benefit depends on whether the program is explicitly used for hazard days/emergency operations; classification as Adaptation secondary is justified because reduced commuting exposure is a direct mechanism in a location with frequent flooding/heat/hurricane disruptions."
+}

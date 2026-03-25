@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Require transportation demand management plans for new development by 2025.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "transportation_demand_management_requirement → transport_emissions_reduction",
+  "mechanism_description": "Requiring TDM plans for new development reduces car travel demand and shifts trips to lower-carbon modes, lowering transportation greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Reduced vehicle miles traveled and increased occupancy/mode shift deliver the same mobility service with less energy input (fuel/electricity per passenger-km), inherently improving energy efficiency.",
+  "primary_causal_pathway": "Travel demand management requirements → ↓ single-occupancy vehicle trips / ↓ VMT + mode shift → ↓ transport fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human activity/system: New developments must implement TDM plans (e.g., parking management/unbundling, transit passes, bike facilities, carpool incentives, pricing, telework support), altering residents’/workers’ travel choices and reducing car dependence.  \n(2) Mediating physical process: Lower VMT and higher share of low/zero-carbon modes reduces combustion of gasoline/diesel (and reduces upstream fuel-cycle emissions).  \n(3) Climate-relevant outcome: Reduced CO₂e emissions from the transportation sector (often also reducing co-pollutants).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced on-road fuel combustion from lower vehicle miles traveled and mode shift, leading to lower transportation GHG emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: TDM requirements primarily reduce transport emissions by lowering VMT and shifting trips to lower-carbon modes.  \n2) Why this primary over alternatives: While TDM can also reduce congestion and improve air quality, the largest climate-relevant effect across all instances is direct GHG mitigation from reduced vehicle energy use.  \n3) Inherent secondary chain(s): Resource Efficiency is inherent because providing comparable access/mobility with fewer vehicle trips and/or higher occupancy necessarily reduces energy per unit of mobility service.  \n4) Edge cases applied: If a locality’s grid is very low-carbon or EV share is high, benefits may shift toward reduced congestion/air pollution, but the mechanism still reduces energy use and typically reduces lifecycle CO₂e; adaptation benefits (e.g., evacuation capacity) are not inherent.  \n5) Confirm labels apply to ALL instances: Any policy that requires TDM plans (as a condition of development) is designed to manage demand/mode share and thus inherently targets reduced transport energy use and emissions.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "In very high-EV/ultra-low-carbon-grid contexts, operational CO₂ reductions per mile may be smaller, but TDM still tends to reduce lifecycle emissions and is inherently energy-saving (Resource Efficiency). Co-benefits (air quality, congestion, safety) vary and are not categorized here.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "regulatory-mandate",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Require\"; \"transportation demand management plans\"; \"new development\"; \"by 2025\"",
+  "co_benefits": "Potential local air quality improvements (NOx/PM) and reduced congestion/noise; possible health benefits from active transportation.",
+  "instance_edge_case_notes": "Could be implemented via permitting conditions or performance standards (e.g., VMT/mode-split targets), but the text only specifies a requirement to have TDM plans, so it is classified as a regulatory mandate rather than a performance standard."
+}

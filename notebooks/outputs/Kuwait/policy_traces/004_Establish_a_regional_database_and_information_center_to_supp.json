@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Establish a regional database and information center to support fisheries management and aquaculture development (FAO/PAAFR), with budget of $250,000/year (joint project initiated December 2016).",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "environmental_monitoring_system → adaptation_planning_support",
+  "mechanism_description": "Establishing a regional fisheries and aquaculture information center improves data availability and coordination, enabling better planning and management decisions that support climate adaptation and resource resilience.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Ecosystems & biodiversity",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Monitoring & analytics → improved hazard/risk information → better adaptation planning/targeting → ↓ exposure/vulnerability to climate impacts",
+  "causal_mechanism_detail": "(1) Change: A jurisdiction establishes or strengthens environmental monitoring (sensors, sampling, networks) and associated data management/analysis to track climate-relevant conditions (e.g., air quality, water/soil quality, heat, flooding indicators).  \n(2) Mediating process: More timely, granular, and reliable data improves detection of trends and extremes, attribution of causes, identification of hotspots/vulnerable populations, and evaluation of intervention performance.  \n(3) Climate-relevant outcome: Better-designed and better-targeted adaptation measures and operational responses reduce vulnerability and impacts from climate-amplified hazards (e.g., heat, flooding, pollution episodes).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced climate risk and damages by improving decision-making and targeting of adaptation actions through better environmental/climate data.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: environmental monitoring improves information quality, which improves adaptation planning and operational readiness, reducing climate-related exposure/vulnerability.  \n2) Why this primary over alternatives: while monitoring can inform mitigation, the mechanism as defined (“adaptation planning support”) most directly and consistently drives resilience outcomes; emissions reductions are neither necessary nor inevitable.  \n3) Inherent secondary chains: none are unavoidable—monitoring can support mitigation/resource efficiency/nature-based decisions, but those effects depend on follow-on policy choices rather than being a physical consequence of monitoring itself.  \n4) Edge cases applied: air-quality monitoring can be motivated by health/criteria pollutants; it may indirectly reduce GHGs if it triggers emissions controls, but that is contingent and not inherent. Water/soil monitoring similarly may lead to mitigation of pollutants or land management changes, but not universally.  \n5) Label applies to all instances: any policy that builds environmental monitoring to support planning primarily functions as an adaptation-enabling measure through improved risk information and targeting.",
+  "mechanism_confidence": 0.84,
+  "mechanism_edge_case_notes": "If a monitoring system is explicitly designed for GHG inventories/MRV (e.g., methane leak detection for enforcement), the dominant pathway could shift to Mitigation; however, the provided examples (air/water/soil quality monitoring to support planning) fit Adaptation as the consistent primary outcome.",
+  "additional_secondary_evidence": "Ecosystems & biodiversity: Kuwait faces coral bleaching, and a regional fisheries/aquaculture database and information center directly reduces sensitivity by enabling adaptive fisheries management (e.g., stock status tracking, ecosystem condition monitoring, and management adjustments) that can reduce pressure on marine ecosystems stressed by warming.",
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "“Establishment of a regional database and information center”; “support the fisheries management and aquaculture development”; “joint project between … Kuwait and FAO”; “budget of $250,000/year”",
+  "co_benefits": "Food security/livelihood resilience (more stable fisheries and aquaculture production); improved governance and cross-border coordination/data-sharing",
+  "instance_edge_case_notes": "The text does not explicitly mention climate hazards, ecosystem monitoring parameters, or adaptation actions (e.g., early warning for marine heatwaves); classification relies on the plausible adaptation-enabling role of improved fisheries information systems in a coral-bleaching-prone context."
+}

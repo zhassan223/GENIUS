@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Implement 2020 Proposition B bonds for transportation infrastructure (sidewalks, bikeways, trails, safety, safe routes to school, substandard streets) in low-income communities and communities of color through meaningful engagement.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "active_transportation_infrastructure_investment → modal_shift_to_sustainable_transport_and_transport_emissions_reduction",
+  "mechanism_description": "Investing in sidewalks, bikeways, trails, and safe-routes infrastructure enables more walking and cycling in place of driving, reducing transportation-related greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Transport infrastructure investment → modal shift (↓ vehicle-km traveled, ↓ fuel use) → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Cities build/upgrade sidewalks, protected bike lanes, trails, intersections, and safe-routes networks to make walking/cycling viable for more trips.  \n2) Mediating physical/process mechanism: Improved connectivity and safety reduces reliance on internal-combustion vehicle travel by substituting active trips (and often improving first/last-mile access to transit), lowering vehicle-kilometers traveled and associated fuel combustion.  \n3) Climate-relevant outcome: Reduced CO₂ (and some co-pollutant) emissions from on-road transportation due to less gasoline/diesel use.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions from shifting trips from cars to walking/cycling (and sometimes to transit).",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Infrastructure enables active travel → fewer car trips/VKT → less fuel burned → lower transport emissions.  \n2) Why this primary over alternatives: The defining intended and largest climate impact is direct emissions reduction (mitigation), not hazard reduction (adaptation), not primarily reducing resource inputs for the same service across sectors (resource efficiency), and not via ecosystem carbon/heat pathways (nature-based solutions).  \n3) Inherent causal chain for each secondary: None—co-benefits like health, safety, congestion reduction, or equity are common but not physically guaranteed in every instance, and adaptation benefits are context-dependent rather than inherent.  \n4) Edge cases applied: Even if infrastructure includes trees/greenways or stormwater features, those are add-ons; the canonical mechanism here is modal shift and transport emissions reduction.  \n5) Confirm labels apply to ALL instances: Any policy implementing this mechanism relies on enabling walking/cycling to displace motorized travel, which inherently targets emissions reductions, so “Mitigation” fits universally.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "If a project is primarily for safety/health without measurable modal shift, or if it is paired with significant green infrastructure (shade trees, permeable surfaces) making heat/flood resilience a co-primary aim, the mechanism could drift toward Adaptation or Nature-Based Solutions; under the stated canonical mechanism, mitigation via modal shift remains dominant.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“Implement the 2020 Proposition B voter-approved general obligation bonds”; “transportation infrastructure”; “sidewalks, bikeways, trails, safety, safe routes to school”; “Prioritize bicycle networks”; “low-income communities and communities of color”; “meaningful community engagement process”",
+  "co_benefits": "Road safety and injury reduction; improved access/mobility for underserved communities; local air quality benefits; public health (physical activity); potential congestion reduction",
+  "instance_edge_case_notes": "Could have adaptation co-benefits in Austin (e.g., safer active travel during extreme heat or reduced flood risk if projects include drainage/green infrastructure), but the text does not specify heat/flood-resilient design elements, so an additional hazard-focused secondary category is not assigned."
+}

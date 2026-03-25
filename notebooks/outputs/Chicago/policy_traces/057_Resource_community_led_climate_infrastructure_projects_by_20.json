@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Resource community-led climate infrastructure projects by 2022.",
+  "role": "sub",
+  "sector": "cross_sector",
+  "canonical_mechanism": "community_climate_infrastructure_funding_program → emissions_reduction_enabling",
+  "mechanism_description": "Provide funding/resources for community-led climate infrastructure projects, enabling deployment of projects that reduce greenhouse gas emissions and improve climate outcomes.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Public funding/support → ↑ adoption/implementation of low-carbon infrastructure → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: A city creates or expands funding/resources (grants, technical assistance, financing) targeted to community-led climate infrastructure projects. (2) Process: Reduced upfront capital constraints, risk, and capability gaps increases the rate and scale of project deployment (e.g., building efficiency retrofits, local renewables, electrification, waste/transport improvements—depending on what is funded). (3) Outcome: The funded projects reduce fossil energy use and/or methane and other GHG sources, decreasing community-wide emissions relative to a no-program counterfactual.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is enabling additional implementation of emissions-reducing projects, leading to lower greenhouse gas emissions than would occur without the funding.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: funding/support increases deployment of emissions-reducing infrastructure, which directly reduces GHG emissions.  \n2) Why this primary over alternatives: while “community resiliency” language can imply adaptation, the canonical mechanism explicitly targets emissions-reduction enabling; the dominant physical outcome across instances is emissions reduction via accelerated implementation.  \n3) Inherent causal chain for each secondary: none—adaptation, resource efficiency, or nature-based outcomes depend entirely on what specific projects get funded and are not guaranteed by the funding mechanism alone.  \n4) Edge cases applied: if the funded portfolio were primarily resilience-only (e.g., cooling centers, flood barriers) the dominant effect could shift to Adaptation; however that would be a different canonical mechanism (resilience infrastructure funding) rather than emissions-reduction enabling.  \n5) Confirm labels apply to ALL instances: any policy that fits this mechanism (community climate infrastructure funding explicitly to enable emissions-reducing projects) has mitigation as its core climate effect.",
+  "mechanism_confidence": 0.78,
+  "mechanism_edge_case_notes": "This is an enabling mechanism whose realized impacts depend on project selection; classification assumes the program is designed/operated to fund emissions-reducing infrastructure. If the same funding vehicle is agnostic or primarily targets hazard reduction, the correct category could become Adaptation or mixed, but that would indicate a different mechanism definition.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "incentive-program",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Resource\", \"community-led\", \"climate infrastructure projects\", \"by 2022\"",
+  "co_benefits": "Potential resilience co-benefits (heat-risk reduction and stormwater/flood mitigation) if projects include urban greening, cooling, or green infrastructure; potential air-quality and public-health benefits.",
+  "instance_edge_case_notes": "“Climate infrastructure” is ambiguous and could include adaptation infrastructure relevant to Chicago’s heat and flooding risks, but the policy text does not explicitly target those hazards; classification therefore remains mitigation-only with no added secondary."
+}

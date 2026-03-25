@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Increase drought-proof vegetation to reduce dust fallout from dust storms.",
+  "role": "sub",
+  "sector": "land_use",
+  "canonical_mechanism": "drought_tolerant_vegetation_expansion → dust_storm_impact_reduction",
+  "mechanism_description": "Expanding drought-proof vegetation increases ground cover and soil stability, which reduces dust mobilization and fallout during dust storm events.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Nature-Based Solutions",
+  "secondary_justification": "Nature-Based Solutions: Establishing drought-tolerant vegetation uses ecological cover/root structure to stabilize soil and reduce wind erosion, functioning as an ecosystem-based intervention to buffer a climate-amplified hazard (dust storms).",
+  "primary_causal_pathway": "Climate hazard (dust storms) → ↓ exposure/sensitivity via soil stabilization and ground cover → ↓ health and service disruption impacts",
+  "causal_mechanism_detail": "(1) Change: Increase/expand drought-tolerant vegetation cover (e.g., planting, restoring, or maintaining hardy ground cover/shelterbelts) in dust-prone areas.  \n(2) Mediating process: Vegetation increases surface roughness and root binding, improving soil cohesion and reducing wind erosion and particle entrainment during storm conditions, leading to lower dust concentrations and fallout.  \n(3) Outcome: Reduced dust storm intensity at receptor locations and reduced population exposure, yielding lower climate-related health risks (respiratory/cardiovascular impacts) and fewer disruptions to outdoor activity and services.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing human exposure and health/asset impacts from dust storms by stabilizing soils and decreasing dust mobilization.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: A hazard-impact pathway—vegetation reduces dust generation/transport, which reduces exposure and health impacts during dust storms.  \n2) Why this primary over alternatives: Any carbon sequestration benefits from added vegetation are typically secondary and uncertain relative to the direct, intended, and immediate reduction in dust-related impacts; the mechanism’s central outcome is risk reduction, not emissions reduction.  \n3) Inherent causal chain for each secondary:  \n   - Nature-Based Solutions: The intervention is explicitly ecological (vegetation cover) and the buffering effect occurs through ecosystem functions (soil binding/roughness), so NBS is inherent.  \n4) Edge cases applied: Even if implemented in highly managed/irrigated landscaping, the mechanism still operates through vegetation-mediated soil stabilization; however, if the “vegetation” is primarily artificial ground cover (not living ecosystems), it would weaken the NBS label (see notes).  \n5) Confirm labels apply to ALL instances: Expanding drought-tolerant vegetation to reduce dust fallout is consistently an adaptation measure; it consistently uses biophysical/ecosystem processes, supporting NBS as an inherent secondary.",
+  "mechanism_confidence": 0.84,
+  "mechanism_edge_case_notes": "If implementation relies heavily on energy-/water-intensive irrigation or non-ecological dust suppressants, mitigation/resource-efficiency effects could become negative or dominate locally, but the canonical mechanism as stated remains an adaptation (risk-reduction) pathway; NBS secondary presumes living vegetation rather than artificial stabilizers.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Increase drought-proof vegetation\"; \"reduce dust fallout\"; \"dust storms\"; \"Medium-term actions\"",
+  "co_benefits": "Potential urban cooling/heat mitigation and air-quality improvements beyond dust events; potential biodiversity/land restoration benefits.",
+  "instance_edge_case_notes": "Could also be implemented as an infrastructure investment or incentive program (e.g., funded revegetation/afforestation), but the text states the action without specifying funding, mandates, or standards, so it is best coded as a planning/strategy instrument."
+}

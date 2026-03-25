@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Retrofit 167,500 homes by 2030 to reduce energy costs 28%, prioritizing Low- to Moderate-Income (LMI) homes.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "building_retrofit → energy_use_reduction",
+  "mechanism_description": "Upgrade existing residential buildings through retrofits to lower energy consumption, thereby reducing associated greenhouse gas emissions and energy costs.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Adaptation",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Building upgrades → ↓ energy demand (same service) → ↓ fuel/electricity use → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Retrofit existing buildings by improving insulation/air sealing, upgrading HVAC and water heating equipment, optimizing controls, and/or installing efficient lighting and appliances.  \n2) Mediating physical process: Improved thermal envelope and higher-efficiency end-use systems reduce heat transfer losses/gains and reduce energy required per unit of heating/cooling/lighting/service delivered.  \n3) Climate-relevant outcome: Lower onsite combustion (e.g., gas/oil) and reduced electricity demand reduce CO₂ (and some CH₄/N₂O) emissions from building operations and power generation.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced building energy consumption leading to lower upstream and onsite greenhouse gas emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Retrofits reduce operational energy use, which directly reduces GHG emissions from energy supply—this is a mitigation pathway.  \n2) Why this primary over alternatives: While some retrofits can improve heat resilience or comfort, the defining and largest climate effect of the mechanism “building_retrofit → energy_use_reduction” is emissions reduction via lower energy demand.  \n3) Inherent causal chain for each secondary: None—adaptation (e.g., reduced heat stress during outages) or resource-efficiency benefits beyond energy are not universal to all retrofits.  \n4) Edge cases applied: Retrofits that focus on passive survivability or weatherization still often reduce energy use, but if a policy’s intent were primarily hazard exposure reduction, that would be a different mechanism; here the mechanism explicitly centers energy-use reduction.  \n5) Confirm labels apply to ALL instances: Any policy implementing this mechanism aims to cut building energy demand; reduced energy demand inherently drives emissions reductions, so “Mitigation” fits across contexts.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "If a “retrofit” policy is specifically for resilience (e.g., floodproofing, backup power, cool refuges) without meaningful energy reduction, it should be classified under a different mechanism; similarly, deep retrofits paired with fuel-switching/electrification could introduce additional mitigation mechanisms beyond energy reduction, but that is not inherent to this mechanism as stated.",
+  "additional_secondary_evidence": "Adaptation: Miami-Dade faces extreme heat, and home energy-efficiency retrofits (e.g., improved insulation/air sealing, efficient HVAC) directly reduce sensitivity because they improve indoor thermal comfort and reduce overheating/cooling stress during hot periods (including when cooling is constrained by high costs or outages).",
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Retrofit 167,500 homes”; “by 2030”; “reduce energy costs 28%”; “prioritizing Low- to Moderate-Income (LMI) homes”",
+  "co_benefits": "Reduced energy burden for LMI households; improved indoor air quality/health; potential resilience benefits during heat events via improved thermal comfort and lower cooling needs.",
+  "instance_edge_case_notes": "Instrument specifics (rebates, mandates, financing, codes) are not stated; classification is therefore based on the explicit quantitative goal/deadline (target-setting). Adaptation co-benefit is inferred from typical retrofit measures’ effect on heat sensitivity, though the text does not explicitly mention heat resilience."
+}

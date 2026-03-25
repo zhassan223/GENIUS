@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Conduct an awareness campaign on KEPA Articles 76 (ambient air and air quality zone compliance actions) and 79 (emission sources and evaluation), completed in 2010.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "air_quality_regulatory_awareness_campaign → emissions_compliance_improvement",
+  "mechanism_description": "An awareness campaign about air-quality compliance and emissions-source evaluation is intended to improve regulatory compliance, leading to reduced pollutant and GHG emissions from emitting sources.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Regulatory communication/awareness → ↑ compliance/enforcement effectiveness → ↓ emitting activity/intensity (or ↑ controls) → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Government conducts campaigns and guidance on air-quality zone compliance actions and emission-source evaluation, increasing regulated entities’ understanding of obligations and expected practices.  \n2) Mediating process: Higher awareness reduces noncompliance and increases adoption of required operational changes and/or pollution-control measures; monitoring/reporting quality may improve, enabling corrective actions.  \n3) Climate-relevant outcome: Reduced fuel combustion and/or improved control of emitting processes lowers CO₂ (and sometimes CH₄/N₂O) emissions from stationary/industrial sources; co-benefits include reduced criteria air pollutants, but that is not a category here.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced GHG emissions from regulated emitters due to higher compliance with air-quality/emissions rules.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Awareness → compliance improvement → emissions reductions → mitigation.  \n2) Why this primary over alternatives: While framed as air-quality governance, the only systematic climate pathway is reduced GHGs via reduced emissions from sources; it is not primarily about reducing climate hazard exposure (adaptation), reducing resource inputs per service (resource efficiency), or enhancing ecosystems (nature-based solutions).  \n3) Inherent causal chain for each secondary: None is unavoidable—air-quality improvements are likely but not a listed category, and any resource-efficiency gains depend on the specific compliance actions chosen.  \n4) Edge cases applied: If compliance leads mainly to end-of-pipe controls that do not reduce GHGs (or increases energy use), climate benefits could be small or ambiguous; however, across the mechanism definition (“reduced pollutant and GHG emissions”), the intended dominant effect remains mitigation.  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism is fundamentally aimed at improving emissions compliance; when effective, that primarily reduces emissions and thus is mitigation.",
+  "mechanism_confidence": 0.74,
+  "mechanism_edge_case_notes": "Air-quality compliance can sometimes be achieved via controls that have negligible or even adverse GHG impacts (e.g., energy-intensive scrubbing) unless the regulation targets combustion efficiency or CO₂; classification assumes the mechanism includes GHG-relevant compliance improvements as stated.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "information-disclosure",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "“Awareness Campaign”, “increase the awareness”, “Article No. 76… ambient air and Air Quality Zone Compliance actions”, “Article No. 79… emission sources and evaluation”, “completed in 2010”",
+  "co_benefits": "Improved local air quality / reduced criteria air pollutants through better compliance with ambient air and emissions evaluation requirements.",
+  "instance_edge_case_notes": "Air-quality management can marginally reduce heat-related health burden, but the campaign is framed as regulatory awareness/compliance rather than a direct intervention reducing exposure/sensitivity to Kuwait’s specific climate hazards; therefore no adaptation secondary is added."
+}

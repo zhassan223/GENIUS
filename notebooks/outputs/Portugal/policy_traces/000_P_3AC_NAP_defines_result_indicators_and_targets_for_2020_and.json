@@ -1,0 +1,23 @@
+{
+  "policy_statement": "P-3AC (NAP) defines result indicators and targets for 2020 and 2030 to monitor adaptation progress.",
+  "role": "parent",
+  "sector": "governance",
+  "canonical_mechanism": "adaptation_monitoring_indicators → adaptation_planning_support",
+  "mechanism_description": "Defining adaptation result indicators and targets improves monitoring and accountability, which supports better adaptation planning and implementation over time.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Governance capacity (monitoring/indicators) → improved adaptation planning & implementation → ↓ exposure/vulnerability to climate hazards → ↓ climate-related damages",
+  "causal_mechanism_detail": "(1) Change in activity/system: Governments define adaptation result indicators, baselines, and time-bound targets and establish routines to track them (monitoring, evaluation, reporting, review cycles).  \n(2) Mediating process: Improved information, accountability, and learning-by-doing enables adaptive management—prioritizing measures, reallocating resources, correcting underperforming actions, and coordinating across agencies/sectors.  \n(3) Climate-relevant outcome: More effective and timely adaptation investments and policies reduce sensitivity and exposure to hazards (e.g., heat, drought, wildfire, flood, coastal erosion), lowering expected losses and disruption.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is improved adaptation decision-making that reduces vulnerability and impacts from climate hazards through better-targeted and better-managed adaptation actions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: The core effect is risk management—using indicators to strengthen planning and implementation that reduce hazard impacts (Adaptation).  \n2) Why this primary over alternatives: Indicators themselves do not inherently reduce emissions or resource use; any mitigation co-benefits depend on what measures are later chosen, not on monitoring/indicator-setting per se.  \n3) Inherent causal chain for each secondary: None—monitoring frameworks do not unavoidably produce mitigation, resource-efficiency, or nature-based outcomes without additional substantive policies.  \n4) Edge cases applied: While some indicator sets may track GHG outcomes or ecosystem metrics, that is contingent on indicator selection and subsequent actions, so it cannot be treated as inherent to this mechanism.  \n5) Confirm labels apply to ALL instances: Any policy that defines adaptation indicators/targets to monitor progress is fundamentally an adaptation-governance tool aimed at improving resilience outcomes across contexts.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "If the indicator framework is explicitly tied to mitigation targets (e.g., emissions KPIs) or mandates specific low-carbon measures, that would be a different or additional mechanism; as stated, this mechanism remains adaptation-focused monitoring to support adaptation planning.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Result indicators”; “targets”; “defined under the NAP”; “monitor adaptation progress”; “Table 1”",
+  "co_benefits": "Improved public-sector performance management and accountability; better cross-sector coordination and data availability (general governance benefits).",
+  "instance_edge_case_notes": "Although indicators/targets can indirectly drive investments that reduce wildfire, drought, heat, coastal erosion, flooding, and water-scarcity risks, the text does not specify any concrete measures or sectors; it is limited to monitoring/target definition, so no hazard-specific secondary is assigned."
+}

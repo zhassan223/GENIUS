@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Ensure all new County buildings will be Ultra-Low Energy by 2030.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "building_energy_code → energy_use_reduction",
+  "mechanism_description": "Require new government buildings to be built to ultra-low-energy performance so they use less operational energy, reducing associated emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Higher building efficiency delivers the same heating/cooling/lighting/services with less energy input, reducing overall energy resource consumption as an inherent consequence of the mechanism.",
+  "primary_causal_pathway": "Building design/construction standards → ↓ building energy demand → ↓ fuel/electricity use → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Governments adopt/enable stricter building energy codes or ultra-low-energy performance standards for new buildings (and sometimes major renovations), affecting envelopes, HVAC efficiency, lighting, controls, and commissioning.  \n2) Mediating physical process: Improved thermal performance and equipment efficiency reduce heat losses/gains and reduce energy required to maintain indoor comfort and deliver building services.  \n3) Climate-relevant outcome: Lower operational electricity and fuel use reduces CO₂e emissions from grid generation and direct combustion (with magnitude depending on grid carbon intensity and fuel mix).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced operational building energy consumption leading to lower GHG emissions from electricity generation and/or on-site fuel combustion.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Code/standard → reduced building energy demand → reduced energy-related emissions (mitigation).  \n2) Why this primary over alternatives: While better buildings can also improve comfort during heat/cold events, the mechanism as stated is explicitly about reducing energy use (and by extension emissions), which is the largest and most direct climate effect across contexts.  \n3) Inherent causal chain for each secondary:  \n   - Resource Efficiency: Efficiency standards inherently reduce energy input per unit service delivered.  \n4) Edge cases applied: If the grid is already near-zero carbon, GHG benefits diminish, but energy-use reduction remains; classification still follows the intended dominant pathway of emissions reduction for the mechanism category.  \n5) Confirm labels apply to ALL instances: Any policy implementing stronger building energy codes/ultra-low-energy standards will reduce operational energy use relative to baseline practice, yielding mitigation as the dominant effect and energy resource savings as inherent.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Emissions reductions depend on energy supply carbon intensity and potential rebound effects; some code provisions may also increase embodied emissions (e.g., added materials) unless addressed separately, but the mechanism’s dominant pathway remains operational energy reduction.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "performance-standard",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“All new County buildings”; “Ultra-Low Energy”; “by 2030”",
+  "co_benefits": "Potential improved indoor thermal comfort and reduced cooling load during extreme heat; potential improved resilience during outages if paired with passive design (not stated).",
+  "instance_edge_case_notes": "Could be implemented either as an internal government building requirement (procurement/owner standard) or as a jurisdiction-wide code; text specifies “County buildings,” so classified as a direct performance requirement for government-owned new construction."
+}

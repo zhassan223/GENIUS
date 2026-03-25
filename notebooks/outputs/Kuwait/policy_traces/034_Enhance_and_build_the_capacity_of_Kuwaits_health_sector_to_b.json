@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Enhance and build the capacity of Kuwait’s health sector to be prepared for increased health risks due to climate change through identified short-, medium-, and long-term adaptation actions (budgeted at USD 4.1 million).",
+  "role": "parent",
+  "sector": "cross_sector",
+  "canonical_mechanism": "health_system_capacity_building → climate_health_risk_preparedness",
+  "mechanism_description": "Investing in health-sector capacity and preparedness actions improves the system’s ability to anticipate, prevent, and respond to climate change–driven health risks, reducing climate-related health impacts.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Health",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard → health-system preparedness/response capacity → ↓ exposure & vulnerability → ↓ climate-related health impacts",
+  "causal_mechanism_detail": "(1) Change: Governments/health authorities invest in and organize health-system capacity (e.g., workforce training, emergency preparedness plans, heat-health action protocols, disease surveillance, surge capacity, resilient service delivery).  \n(2) Mediating process: Earlier detection, faster response, continuity of care, risk communication, and targeted prevention reduce how strongly climate hazards translate into illness and death.  \n(3) Climate-relevant outcome: Lower climate-attributable health burden (reduced morbidity/mortality, fewer service disruptions) during and after climate stressors such as extreme heat, dust/air pollution episodes, floods, or vector-borne disease changes.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing mortality and morbidity by lowering population exposure and sensitivity to climate-related health hazards through improved health-system readiness and response.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: climate hazards create health risks; increased preparedness reduces vulnerability and impacts (adaptation).  \n2) Why this primary over alternatives: the mechanism’s intended and direct effect is impact reduction (health outcomes and service continuity), not emissions reduction (mitigation), not primarily reducing energy/material inputs (resource efficiency), and not dependent on ecosystem restoration (nature-based solutions).  \n3) Inherent causal chain for each secondary: None—any mitigation/resource-efficiency co-benefits (e.g., efficient hospitals) are optional design choices, not unavoidable consequences of “capacity building for climate health risks.”  \n4) Edge cases applied: even if a program includes facility upgrades, the mechanism remains adaptation unless the defining feature is emissions reduction; health preparedness is still primarily an exposure/sensitivity reduction pathway.  \n5) Confirm labels apply to ALL instances: any policy matching “health system capacity building → climate health risk preparedness” is fundamentally about preparing for and managing climate-related health impacts, which is adaptation across contexts.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "If a policy is framed as “climate-smart healthcare” emphasizing hospital energy decarbonization, that would be a different mechanism (mitigation/resource efficiency). This mechanism is specifically preparedness/capacity for climate-driven health risks, so classification as Adaptation holds.",
+  "additional_secondary_evidence": "Health: Kuwait faces extreme heat and dust storms, and health-sector capacity-building (preparedness/response, protocols, surge capacity) directly reduces population sensitivity and improves outcomes during heat-related illness and dust-related respiratory events.",
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Enhance and building the capacity of the health sector”; “prepared for increased health risks due to climate change”; “objective of climate change adaptation”; “Immediate adaptation actions”; “Budget 4.1 million USD”",
+  "co_benefits": "Potential co-benefits include improved general emergency preparedness and routine public health performance beyond climate-related events.",
+  "instance_edge_case_notes": "Although a budget is specified, the text does not clearly commit funds to a specific capital/infrastructure project; it remains framed as capacity-building/adaptation actions, so classified as a planning/capacity strategy rather than infrastructure investment."
+}

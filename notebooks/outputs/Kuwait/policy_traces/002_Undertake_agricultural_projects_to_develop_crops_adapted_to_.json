@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Undertake agricultural projects to develop crops adapted to high temperatures and resistant to salinity and drought, including introducing more than 50 tree types under an Agriculture Master Plan and implementing varieties such as Conocarpus, Ficus, Prosopis, and date palm trees.",
+  "role": "sub",
+  "sector": "land_use",
+  "canonical_mechanism": "climate_resilient_crop_development → agricultural_resilience_to_heat_and_drought",
+  "mechanism_description": "Developing and planting heat-, drought-, and salinity-tolerant crops and trees increases vegetation and farm system tolerance to climate stress, improving long-term agricultural resilience under hotter and drier conditions.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (heat/drought/salinity stress) → ↓ crop stress sensitivity / ↑ tolerance → ↓ yield loss & livelihood disruption → ↓ climate vulnerability",
+  "causal_mechanism_detail": "(1) Change: Farmers/research agencies develop, introduce, and plant crop varieties and tree species with higher tolerance to heat, water scarcity, and salinity. (2) Mediating process: Improved physiological and agronomic tolerance (e.g., heat tolerance, deeper rooting, reduced transpiration demand, salt exclusion/osmotic adjustment) maintains plant function under extreme conditions. (3) Outcome: More stable yields and agricultural productivity during heat waves, droughts, and salinity intrusion, increasing resilience of the food/agriculture system to climate change.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced agricultural vulnerability and yield loss under higher temperatures and drought through adoption of heat-/drought-/salinity-tolerant crops and trees.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: climate stressors (heat/drought/salinity) are met with tolerant varieties, directly reducing exposure/sensitivity and preventing climate-driven production losses—an adaptation pathway. 2) Why this primary over alternatives: while planting trees/crops can sometimes sequester carbon or reduce urban heat locally, the mechanism as stated is explicitly about maintaining agricultural performance under harsher climate conditions; those other effects are not the main causal objective nor consistently dominant. 3) Inherent causal chain for each secondary: none—mitigation (carbon sequestration) and nature-based cooling depend on scale, land-use change, biomass permanence, irrigation/fertilizer inputs, and survival rates, so they are not unavoidable outcomes of “resilient crop development.” 4) Edge cases applied: if implemented as large-scale afforestation primarily for carbon storage, it would shift toward Nature-Based Solutions, but that would be a different dominant mechanism than “crop development for resilience.” 5) Confirm labels apply to ALL instances: any policy using resilient varieties is fundamentally designed to reduce climate vulnerability of agriculture to heat/drought/salinity, fitting Adaptation across locations.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If the intervention is predominantly tree-planting for landscape cooling/carbon sequestration (with resilience as a minor co-benefit), the dominant pathway could become Nature-Based Solutions; similarly, if the main effect is reduced irrigation energy demand, Resource Efficiency could be argued, but neither is inherent to all instances of this mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“develop crops that can adapt to high temperatures”; “crops resistant to salinity and drought”; “introduced under the Agriculture Master Plan”; “Development of new varieties of crops”; “implemented in Kuwait”",
+  "co_benefits": "Potential urban cooling/amenity and dust mitigation from increased greenery/landscaping; potential carbon sequestration (“reduce climate change effect”)—but these are not specified with a concrete mitigation mechanism/instrument detail.",
+  "instance_edge_case_notes": "“Reduce climate change effect” could imply mitigation via greening/afforestation, but the described mechanism and context focus on adaptation (tolerance to heat/drought/salinity) rather than quantified emissions reductions or carbon policy."
+}

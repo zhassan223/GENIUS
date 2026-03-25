@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Implement the Coastal Management Program (CMP) to produce Integrated Coastal Zone Management (ICZM) for Kuwait (Phase 1 completed; Phase 2 ongoing; started 1979).",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "integrated_coastal_zone_management_program → coastal_climate_risk_reduction",
+  "mechanism_description": "Implementing an integrated coastal zone management program improves coordinated coastal planning and ecosystem management, reducing exposure and vulnerability to coastal climate hazards such as sea-level rise and storm impacts.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (sea-level rise/storm surge/erosion) + coastal development → integrated planning/management → ↓ exposure & ↓ vulnerability → ↓ climate risk and damages",
+  "causal_mechanism_detail": "(1) Change in human activity/system: Coastal governance and decision-making are integrated across sectors (land use, infrastructure, ecosystems, fisheries, ports), aligning zoning, standards, enforcement, monitoring, and investment decisions under a coordinated coastal management framework.  \n(2) Mediating physical/ecological process: Better siting and design of assets, protection of critical coastal buffers, and coordinated management reduces erosion and flood pathways, limits development in high-risk zones, and improves preparedness/response for coastal extremes.  \n(3) Climate-relevant outcome: Reduced impacts from climate-driven coastal hazards—lower expected damages, service disruption, and losses from sea-level rise, storm surge, and coastal flooding/erosion.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect of policies using ICZM is reducing exposure and vulnerability of people, infrastructure, and ecosystems to coastal hazards (e.g., sea-level rise, storm surge, erosion).",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: ICZM primarily functions to manage coastal climate hazards by reducing exposure/vulnerability through coordinated planning and management.  \n2) Why this primary over alternatives: While ICZM can include ecosystem restoration (NBS) or emissions-related measures, the mechanism as stated is a planning/risk-management program whose central climate-relevant outcome is reduced coastal climate risk—an adaptation result.  \n3) Inherent causal chain for each secondary: None—mitigation, resource-efficiency, or nature-based outcomes occur only if specific measures (e.g., mangrove restoration, energy changes) are embedded, which is not inevitable in all ICZM instances.  \n4) Edge cases applied: If an ICZM program explicitly mandates large-scale blue-carbon restoration or coastal wetland creation as the core intervention, a different mechanism/category (Nature-Based Solutions) could become dominant; that is not implied by “ICZM program” alone.  \n5) Confirm labels apply to ALL instances: Any ICZM/coastal management program, regardless of location, is designed to coordinate coastal actions to manage hazards and reduce risk; therefore Adaptation applies broadly.",
+  "mechanism_confidence": 0.83,
+  "mechanism_edge_case_notes": "ICZM is an umbrella governance mechanism: in some jurisdictions it is implemented mainly via hard defenses (seawalls) or mainly via ecosystem-based adaptation; those variants can introduce strong secondary (or even dominant) NBS/mitigation effects, but they are not guaranteed by the generic ICZM mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Coastal Management Program (CMP)\"; \"produce Integrated Coastal Zone Management (ICZM) for Kuwait\"; \"two phases\"; \"Phase 2 is still ongoing\"",
+  "co_benefits": "Improved marine/coastal environmental quality and biodiversity protection; improved coastal development coordination and economic planning (ports/tourism/fisheries)",
+  "instance_edge_case_notes": "ICZM can be implemented via regulatory zoning/setbacks or infrastructure works, but the provided text only indicates establishing/implementing the program/framework, not specific enforceable rules or investments—so classified as a planning strategy with enabling directness."
+}

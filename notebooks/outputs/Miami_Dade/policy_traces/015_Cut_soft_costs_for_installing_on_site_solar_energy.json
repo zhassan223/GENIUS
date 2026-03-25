@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Cut soft costs for installing on-site solar energy.",
+  "role": "sub",
+  "sector": "energy_supply",
+  "canonical_mechanism": "solar_pv_deployment → fossil_generation_displacement",
+  "mechanism_description": "Reducing soft costs makes on-site solar easier and cheaper to install, increasing solar PV deployment that displaces fossil electricity generation.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Electricity supply change (add solar PV) → ↓ fossil generation/↓ grid emissions intensity → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Cities/counties install or procure solar PV capacity (community solar, on-site municipal PV, or other PV projects), increasing renewable electricity supplied to local loads and/or the grid.  \n2) Mediating physical process: PV converts solar radiation to electricity, increasing zero-direct-emissions generation; grid operators or balancing mechanisms reduce output from marginal fossil generators (or the PV offsets electricity that would otherwise be supplied by fossil-heavy grid mix).  \n3) Climate-relevant outcome: Lower CO₂e emissions from the power sector (and potentially upstream fuel-cycle emissions) due to reduced fossil fuel combustion for electricity.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced greenhouse gas emissions from electricity generation because solar PV output displaces fossil-fueled generation on the grid.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Adding solar PV increases clean electricity generation, which directly displaces fossil generation and reduces GHG emissions—this is a mitigation pathway.  \n2) Why this primary over alternatives: While PV can improve energy security or support adaptation when paired with storage/microgrids, those effects are not guaranteed by PV deployment alone; the consistently intended and physically direct outcome across all instances is emissions reduction from electricity supply.  \n3) Inherent causal chain for each secondary: None—resource efficiency (same service with less energy input) is not inherent because PV changes the energy source rather than reducing energy demand; adaptation benefits (backup power during outages, heat resilience) require additional design features (storage/islanding) and hazard context; nature-based effects do not apply.  \n4) Edge cases applied: If PV is added in a grid with high renewable curtailment or very low marginal emissions, displacement and emissions benefits can be smaller, but the mechanism remains primarily mitigation.  \n5) Confirm labels apply to ALL instances: Community solar, PV on city property, and PV on county assets all share the same core mechanism of fossil generation displacement leading to reduced GHG emissions.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Emissions impact depends on marginal grid mix, curtailment levels, and whether PV is truly additional; resilience/adaptation co-benefits may occur only when PV is paired with storage, microgrids, or critical-load islanding, which are not inherent to this mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Cut soft costs”; “installing on-site solar energy”",
+  "co_benefits": "Potential energy-burden reduction and some resilience benefits from distributed generation (if paired with storage/islanding), but not stated and not a direct exposure/sensitivity reduction to Miami-Dade’s specified hazards.",
+  "instance_edge_case_notes": "“Cut soft costs” could be implemented via specific reforms (e.g., streamlined permitting/interconnection = regulatory changes; fee reductions = pricing). With no detail on the lever, it is best treated as a general enabling strategy rather than a specific mandate/incentive."
+}

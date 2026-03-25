@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Install and reconfigure warning, cut-off, traffic diversion, and local population surveillance/warning communication systems and signage for rural fire prevention.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "wildfire_early_warning_and_traffic_management → wildfire_risk_and_impact_reduction",
+  "mechanism_description": "Deploying fire warning/communication and traffic control systems improves early detection and public response, reducing wildfire incidence and/or damages.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Disaster Risk Reduction & Emergency Management",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (wildfire) → early warning + traffic/access management → ↓ exposure/impacts (injury, loss, disruption)",
+  "causal_mechanism_detail": "(1) Change: Authorities deploy and operate wildfire warning/communication systems (surveillance, alerts, signage) and implement road cut-offs, access controls, and traffic diversion during elevated fire risk or active incidents. (2) Mediating process: Improved detection and information flows shorten time-to-alert and time-to-response; traffic controls reduce human ignition opportunities, prevent entry into dangerous zones, and enable orderly evacuation and responder access. (3) Climate-relevant outcome: Lower wildfire harm (fatalities, injuries, property/infrastructure loss, service disruption) and reduced societal vulnerability to increasingly frequent/intense wildfire conditions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced exposure and damages to people and assets from wildfires through earlier warning, safer movement control, and faster response.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: addresses a climate-exacerbated hazard (wildfire) by reducing exposure and improving response capacity, yielding lower impacts. 2) Why Adaptation over alternatives: the core objective is risk/impact reduction and safety (preparedness/response), not emissions reduction or efficiency gains; any emissions effects (e.g., marginally fewer ignitions or avoided burn area) are not the primary, reliable outcome across all instances. 3) Secondary categories: none are inherent—mitigation via avoided wildfire emissions is possible but not guaranteed (warnings may reduce casualties without reducing burned area), and nature-based/resource-efficiency effects are not intrinsic to installing warning/traffic systems. 4) Edge cases applied: even where access control reduces human-caused ignitions, the mechanism is still principally an emergency management adaptation measure; mitigation co-benefits are context-dependent and thus not assigned. 5) Confirm labels apply to ALL instances: any implementation of wildfire early warning plus traffic/access management functions to reduce wildfire risk/impacts, fitting Adaptation universally.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "In some contexts, access restrictions and early detection can reduce area burned and associated GHG/black carbon emissions (a mitigation co-benefit), but this is not an unavoidable outcome of the mechanism and depends on enforcement, ignition sources, weather, and suppression effectiveness.",
+  "additional_secondary_evidence": "Disaster Risk Reduction & Emergency Management: Portugal faces wildfire risk, and installing surveillance/warning systems, signage, and road cut-offs/traffic diversion directly reduces exposure/sensitivity because it improves early warning and enables controlled access/evacuation away from fire-affected areas.",
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Installation and reconfiguration of warning\"; \"cut-off\"; \"traffic diversion\"; \"communication/information systems\"; \"including surveillance and warning systems for local populations\"; \"appropriate signage\"",
+  "co_benefits": "Improved general public safety and emergency response capacity for non-climate incidents (e.g., accidents, industrial fires); reduced congestion during emergencies.",
+  "instance_edge_case_notes": "Primary instrument could also be interpreted as a planning-strategy (traffic/evacuation management protocols), but the verbatim text emphasizes physical installation/reconfiguration of systems and signage, so infrastructure-investment is most fitting."
+}

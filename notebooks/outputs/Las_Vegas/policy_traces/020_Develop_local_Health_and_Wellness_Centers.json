@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Develop local Health and Wellness Centers.",
+  "role": "sub",
+  "sector": "cross_sector",
+  "canonical_mechanism": "health_wellness_centers_development → public_health_service_capacity",
+  "mechanism_description": "Developing local health and wellness centers increases community health service capacity, which may indirectly support climate resilience but is not an explicit climate mitigation mechanism as written.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Public Health",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (e.g., extreme heat, smoke) → improved healthcare access/response capacity → ↓ health vulnerability/impacts",
+  "causal_mechanism_detail": "(1) Change: A city builds/expands local health and wellness centers and associated staffing/services, increasing availability and accessibility of preventive care, screening, chronic disease management, and acute care. (2) Mediating process: Stronger public health and clinical capacity enables earlier detection, risk communication, continuity of care, and faster treatment during climate-related events, which lowers sensitivity and improves coping capacity. (3) Outcome: Reduced morbidity/mortality and overall community vulnerability to climate-amplified health risks (especially heat and air-quality events).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect of policies that develop health and wellness centers is reduced climate-related health impacts by increasing healthcare access and response capacity during hazards like extreme heat and poor air quality.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: service capacity expansion → improved ability to prevent/respond to climate-related health harms → reduced vulnerability (Adaptation).  \n2) Why this primary over alternatives: there is no necessary, direct effect on GHG emissions, energy use, material efficiency, or carbon sequestration; any mitigation co-benefits (e.g., efficient buildings) are optional design choices, not inherent to “develop centers.”  \n3) Inherent causal chain for each secondary: None—resource/energy impacts and any nature-based components are not unavoidable consequences of the mechanism.  \n4) Edge cases applied: If centers are explicitly designated as cooling/clean-air shelters or are built to net-zero standards, those would add adaptation/mitigation features, but they are not guaranteed by this mechanism as stated.  \n5) Confirm labels apply to ALL instances: Any policy that develops health/wellness centers increases health service capacity, which generally strengthens resilience to climate-sensitive health outcomes; therefore Adaptation applies broadly.",
+  "mechanism_confidence": 0.78,
+  "mechanism_edge_case_notes": "If the policy explicitly includes low-carbon building requirements (mitigation) or integrates green infrastructure (nature-based solutions), those would be additional mechanisms; absent such language, classify as Adaptation only.",
+  "additional_secondary_evidence": "Public Health: Las Vegas faces extreme heat, and developing local Health and Wellness Centers directly reduces exposure/sensitivity because expanded, accessible clinical and preventive services improve heat-illness prevention, early detection, and treatment, lowering heat-related morbidity/mortality.",
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Developing local Health and Wellness Centers\"",
+  "co_benefits": "Improved general healthcare access and equity; better chronic disease management; mental/behavioral health support; routine preventive care (not explicitly tied to a specific hazard beyond health vulnerability generally).",
+  "instance_edge_case_notes": "Could also be framed as a planning-strategy if the emphasis is only on planning/siting rather than building/expanding facilities; however, the statement implies service/facility development, so infrastructure-investment is the closest fit."
+}

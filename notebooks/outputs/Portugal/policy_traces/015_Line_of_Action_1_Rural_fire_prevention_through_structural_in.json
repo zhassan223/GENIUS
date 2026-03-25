@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Line of Action #1: Rural fire prevention through structural interventions in agricultural and forestry areas to reduce biomass fuel, slow fire spread, increase forest resilience to fire, and ensure safety of people and property.",
+  "role": "parent",
+  "sector": "land_use",
+  "canonical_mechanism": "wildfire_fuel_management → wildfire_risk_and_impact_reduction",
+  "mechanism_description": "Implementing fuel-reduction and other structural measures in rural agricultural and forest landscapes reduces wildfire intensity/spread and associated damages, improving ecosystem and community resilience.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Disaster Risk Reduction",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (wildfire) → fuel load/continuity reduction + defensible landscape structure → ↓ fire intensity/spread probability → ↓ exposure and impacts on people, assets, and ecosystems",
+  "causal_mechanism_detail": "(1) Change: Land and vegetation management practices are altered in rural agricultural/forestry areas (e.g., thinning, brush removal, fuel breaks, prescribed burning, strategic grazing, maintenance of access/defensible space).  \n(2) Process: Reduced fuel mass and continuity changes fire behavior—lowering flame length, rate of spread, spotting potential, and crown-fire likelihood; improved landscape heterogeneity and access supports more effective suppression and safer evacuation.  \n(3) Outcome: Lower likelihood of extreme wildfire events and reduced severity when fires occur, leading to reduced loss of life, property damage, ecosystem degradation, smoke disruption, and service outages under warming/drier conditions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing wildfire hazard severity/spread and thus reducing damages and disruption from a climate-amplified wildfire risk.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Reduce a climate-exacerbated hazard’s impacts (wildfire) via fuel and landscape management → lower intensity/spread → fewer damages (Adaptation).  \n2) Why this primary over alternatives: Emissions effects are ambiguous and context-dependent (prescribed burning emits; avoided megafires may reduce emissions), whereas risk/impact reduction is the direct and intended physical outcome in essentially all cases.  \n3) Inherent causal chain for each secondary: None—mitigation or resource-efficiency outcomes are not guaranteed across all implementations.  \n4) Edge cases applied: If a program is explicitly designed for carbon sequestration or biomass-to-energy substitution, that would be a different or additional mechanism; fuel management alone does not unavoidably produce net GHG reductions.  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism aims to reduce wildfire severity/spread and resulting impacts, which is an adaptation benefit regardless of geography.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Some fuel treatments (e.g., prescribed burns) can increase near-term GHG emissions and smoke, while potentially avoiding larger future fire emissions; net mitigation impact is not inherent, so mitigation is not assigned as a secondary category. If the policy explicitly includes biomass utilization for energy/materials or long-term carbon objectives, classify that additional pathway separately.",
+  "additional_secondary_evidence": "Disaster Risk Reduction: Portugal faces wildfire risk, and rural fuel-load reduction/structural landscape interventions directly reduce exposure and sensitivity by lowering fire intensity/spread and protecting people and property.",
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Rural fire prevention\"; \"structural interventions in agricultural and forestry areas\"; \"Reducing biomass fuel\"; \"Reducing the speed at which fires spread\"; \"Increasing the forest's resilience to fire\"; \"Ensuring the safety of people and property\"",
+  "co_benefits": "Potential biodiversity and ecosystem health improvements; potential reduced smoke/air pollution impacts; potential carbon/land-management co-benefits—mentioned implicitly via forest resilience but not explicitly tied to non-wildfire hazards in the text.",
+  "instance_edge_case_notes": "Instrument type could also be framed as a planning-strategy if the document is primarily a plan; however, the wording emphasizes on-the-ground structural interventions, best matching infrastructure-investment."
+}

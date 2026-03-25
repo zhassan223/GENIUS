@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Reduce the number of individuals in poverty.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "poverty_reduction_goal → unspecified_climate_effect",
+  "mechanism_description": "Reducing poverty may indirectly affect vulnerability and emissions through broad socioeconomic changes, but no explicit climate causal chain is specified in the policy text.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Socioeconomic support → (potential) ↑ adaptive capacity/↓ social vulnerability → (potential) ↓ climate harm from hazards",
+  "causal_mechanism_detail": "(1) Changes human system: policies that reduce poverty via income supports, service access, housing stability, or employment. (2) Mediating process: improved household resources and access to services can increase ability to prepare for, respond to, and recover from climate-related hazards (e.g., heat, drought, flooding), but the pathway is not specified and is not guaranteed. (3) Climate-relevant outcome: potentially reduced exposure/sensitivity and improved resilience; no direct, assured GHG or resource-efficiency outcome is implied by the mechanism as written.",
+  "dominant_pathway_test": "No single climate-relevant effect is inherent or dominant for poverty-reduction goals absent a specified pathway; climate impacts are indirect and context-dependent.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: the most plausible climate-relevant pathway is via reduced social vulnerability (an adaptation-resilience framing), not via direct emissions/resource/nature mechanisms.  \n2) Why this primary over alternatives: Mitigation/Resource Efficiency/Nature-Based Solutions require an identifiable physical pathway (e.g., fuel switching, efficiency improvements, carbon sequestration). Poverty reduction does not inherently produce these; any emissions effect could be positive or negative depending on consumption patterns and policy design.  \n3) Inherent causal chain for each secondary: None—no secondary climate category is unavoidable from poverty reduction alone.  \n4) Edge cases applied: If poverty reduction is explicitly tied to energy affordability/retrofits, transit access, or resilience investments, it could become Resource Efficiency, Mitigation, or Adaptation more concretely; that linkage is absent here.  \n5) Confirm labels apply to ALL instances: Categorizing as Adaptation is the closest fit for broad social vulnerability reduction, but note the mechanism remains weakly specified; still, it is more consistently aligned with adaptive capacity than with the other categories.",
+  "mechanism_confidence": 0.55,
+  "mechanism_edge_case_notes": "This is an “unspecified climate effect” mechanism: classification is inherently low-confidence. If the poverty-reduction policy is implemented through measures that directly affect energy use (e.g., building retrofits), transport mode shift, or land management, the correct primary category could shift to Resource Efficiency, Mitigation, or Nature-Based Solutions for those specific instances.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Reduce the number of individuals in poverty\"",
+  "co_benefits": "Potential increased resilience to extreme heat and flooding via improved household resources; general public health and housing stability improvements.",
+  "instance_edge_case_notes": "No policy lever (e.g., benefits expansion, housing assistance, cooling support, utility assistance) is specified; classification therefore treated as a high-level target/goal rather than an incentive program or investment. If tied to specific programs (e.g., energy/utility assistance, cooling centers, housing retrofits), a direct adaptation secondary (heat risk) could be justified."
+}

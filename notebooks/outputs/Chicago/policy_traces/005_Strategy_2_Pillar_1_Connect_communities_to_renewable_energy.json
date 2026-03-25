@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Strategy 2 (Pillar 1): Connect communities to renewable energy.",
+  "role": "parent",
+  "sector": "energy_supply",
+  "canonical_mechanism": "renewable_energy_access_program → fossil_generation_displacement",
+  "mechanism_description": "Programs that connect communities—especially prioritized households—to renewable electricity increase clean power consumption and displace fossil generation, lowering power-sector emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Renewable electricity adoption/deployment → fossil generation displaced → ↓ CO₂e emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Households/communities and/or institutions are connected to renewable electricity through programs (e.g., community solar subscriptions, utility green tariffs) and/or additional on-site/off-site renewable capacity is built and procured. (2) Process: Additional zero/low-carbon electricity is generated and dispatched, reducing the need for fossil-fired generation (and sometimes reducing upstream fossil fuel extraction/combustion). (3) Outcome: Net reduction in electricity-supply CO₂e emissions (and often criteria air pollutants), lowering the jurisdiction’s climate mitigation footprint.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced GHG emissions from the electricity sector by substituting renewable generation for fossil generation.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: increased renewable electricity supply/access displaces fossil generation, yielding direct GHG reductions.  \n2) Why this primary over alternatives: while these programs may improve affordability, resilience, or local air quality, the core mechanism described is fuel-switching in power supply, whose principal climate relevance is mitigation via emissions avoidance.  \n3) Inherent causal chain for each secondary: none is unavoidable—air quality, equity, or resilience benefits depend on grid mix, siting, program design, and whether paired with storage/microgrids.  \n4) Edge cases applied: if new renewables are purely additive without fossil displacement (e.g., due to curtailment or exporting), mitigation impact is smaller, but the intended/typical mechanism remains fossil displacement; if framed as backup power for outages, that would be a different (adaptation/resilience) mechanism.  \n5) Confirm labels apply to ALL instances: any “renewable energy access/expansion” policy using this mechanism targets increased renewable consumption/generation and therefore primarily functions through emissions reduction from displaced fossil electricity.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "If renewables are deployed mainly for resilience (microgrids/islanding) or paired with significant storage for outage protection, adaptation co-benefits may become prominent, but they are not inherent to “access/expansion” unless explicitly designed for hazard response; actual displacement depends on marginal grid emissions and curtailment/export conditions.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Connect communities to renewable energy\"; \"Increase access to utility savings and renewable energy\"; \"prioritizing households\"; \"Action\"",
+  "co_benefits": "Potential energy cost savings for households; potential reductions in co-pollutants (NOx/PM) and associated health benefits; potential resilience benefits if paired with storage/microgrids (not stated).",
+  "instance_edge_case_notes": "Instrument type could be incentive-program or procurement-requirement if the underlying “Action” is implemented via rebates, community solar subscriptions, or municipal PPAs, but the excerpt is framed as a strategy headline without a specified implementer/tool, so classified as planning-strategy and enabling."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Establish national health alerts for dust storms and heat waves.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "health_alert_system → heat_and_air_quality_health_risk_reduction",
+  "mechanism_description": "Implementing national alerts for dust storms and heat waves enables earlier protective actions and preparedness, reducing exposure and associated health harms.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Public health (heat & air quality)",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (extreme heat, dust/poor air quality) → early warning + protective behaviors/response → ↓ exposure/vulnerability → ↓ health impacts",
+  "causal_mechanism_detail": "(1) Change: Public health agencies implement and operate hazard-specific alerting (thresholds, forecasting integration, communication channels, response protocols) for heat waves and dust storms. (2) Mediating process: Earlier risk communication and coordinated preparedness prompt behavioral changes and service adjustments (use cooling/clean-air spaces, modify outdoor activity/work, targeted outreach to vulnerable groups, pre-position medical resources), which reduce inhalation/heat stress exposure. (3) Outcome: Reduced heat- and air-quality-related morbidity and mortality during climate-amplified extreme events (improved population resilience).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing human exposure and illness/mortality during heat and air-quality hazard events through timely warnings and response actions.",
+  "mechanism_classification_reasoning": "(1) Dominant causal pathway: hazard information and response actions reduce exposure to heat/air-quality extremes, lowering health harms—an adaptation pathway. (2) Why primary is Adaptation over alternatives: the mechanism’s main outcome is risk reduction during climate hazards; any emissions effects (e.g., increased AC use or avoided travel) are incidental and not reliably in one direction. (3) Secondary categories: none are inherent—resource efficiency or mitigation does not necessarily occur, and nature-based effects are not part of the mechanism. (4) Edge cases: even if alerts recommend energy-saving behaviors, the defining function remains protective action during hazards; classification stays Adaptation. (5) Applies to all instances: any heat/dust/air-quality health alert system operates through early warning → behavior/service changes → reduced exposure/health risk, consistently an adaptation mechanism.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "If an alert system is bundled with mandatory emissions controls (e.g., episodic industrial shutdowns to reduce PM) or long-term urban cooling retrofits, those are separate mechanisms; the alert mechanism itself remains primarily Adaptation.",
+  "additional_secondary_evidence": "Public health (heat & air quality): Kuwait faces extreme heat (50°C+ events) and dust storms, and national health alerts directly reduce exposure/sensitivity because timely warnings trigger protective behaviors (avoiding outdoor exposure, using cooling/clean-air spaces, targeted outreach) that lower heat stress and particulate inhalation.",
+  "instrument_type": "information-disclosure",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“national health alerts”; “dust storms”; “heat waves”",
+  "co_benefits": "Potential reduction in routine air-pollution/respiratory harms beyond climate-amplified events; improved emergency preparedness and health-system surge coordination",
+  "instance_edge_case_notes": "Could also be framed as a planning-strategy (protocols/thresholds and interagency response), but the core action described is alerting/communication, so information-disclosure is the best fit."
+}

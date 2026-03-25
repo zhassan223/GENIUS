@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Adjust official working hours to avoid working during maximum daytime temperatures by studying and issuing a new threshold.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "occupational_heat_restriction → heat_exposure_reduction",
+  "mechanism_description": "By shifting or restricting work during peak heat based on a temperature threshold, the policy reduces workers’ exposure to extreme heat and associated health impacts.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Occupational health & safety (heat stress)",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (extreme heat) + work scheduling rules → ↓ time spent in peak-heat conditions → ↓ heat stress/illness → ↓ climate-related health impacts",
+  "causal_mechanism_detail": "1) Change in human activity/system: Employers/workplaces (often via labor law) restrict or shift outdoor work hours or halt work above a heat/temperature threshold during the hottest parts of the day/season.  \n2) Mediating physical process: Reduced duration and intensity of workers’ heat exposure lowers physiological heat strain (core temperature rise, dehydration) and reduces incidence of heat exhaustion/heat stroke.  \n3) Climate-relevant outcome: Lower morbidity/mortality and occupational health impacts during extreme heat events, increasing population resilience to warming temperatures.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing human exposure to extreme heat, thereby lowering heat-related illness and deaths during heat events.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Extreme heat hazard → reduced exposure time/intensity via work restrictions → reduced health impacts.  \n2) Why this primary over alternatives: The intent and direct effect are protecting people from heat; any energy/emissions effects from changed work patterns are incidental and not the main climate-relevant outcome of the mechanism.  \n3) Inherent causal chain for each secondary: None—there is no unavoidable mitigation/resource-efficiency/nature-based effect that must occur in every instance of restricting outdoor work hours.  \n4) Edge cases applied: Even if some implementations slightly change transport or energy use (e.g., different shift timing), those effects are context-dependent and not guaranteed by the mechanism.  \n5) Confirm labels apply to ALL instances: Any policy that restricts/shifts outdoor work to avoid peak heat operates by reducing exposure and thus is consistently an Adaptation mechanism.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "If paired with mandatory engineering controls (cooling, electrification, shading structures) the combined package could include mitigation/resource-efficiency elements, but the occupational heat restriction mechanism alone remains primarily Adaptation.",
+  "additional_secondary_evidence": "Occupational health & safety (heat stress): Kuwait faces extreme heat (50°C+ events), and adjusting official working hours with a heat/temperature threshold directly reduces exposure/sensitivity because it reduces time spent working during peak heat, lowering heat strain and heat illness risk.",
+  "instrument_type": "performance-standard",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“Adjust the official working hours”; “avoid working during maximum temperatures in the day”; “study and issue a new threshold”",
+  "co_benefits": "Potential productivity protection and reduced electricity demand for cooling during peak hours (not explicit enough to code as additional secondary categories).",
+  "instance_edge_case_notes": "Could also be framed as a regulatory mandate (if legally prohibiting work at/above a threshold); classified as performance-standard because it hinges on a measurable trigger (“new threshold”) governing permissible work conditions."
+}

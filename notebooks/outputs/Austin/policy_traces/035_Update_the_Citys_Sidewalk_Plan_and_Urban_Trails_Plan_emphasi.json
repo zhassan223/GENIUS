@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Update the City's Sidewalk Plan and Urban Trails Plan emphasizing equity and meaningful community engagement, and build priority segments while addressing ADA barriers and gaps.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "active_transport_infrastructure_expansion → modal_shift_to_walking_and_cycling_emissions_reduction",
+  "mechanism_description": "Expand and improve sidewalks and urban trails to enable more walking and biking trips, reducing vehicle travel and associated greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Mode shift to walking/cycling reduces energy use per passenger-km and reduces fuel consumption for the same mobility service (higher mobility energy efficiency).",
+  "primary_causal_pathway": "Transport infrastructure expansion → modal shift away from car trips → ↓ fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Cities build/upgrade sidewalks, trails, crossings, protected bikeways, and fix network gaps/ADA barriers to make active travel safe, direct, and accessible.  \n(2) Mediating process: Improved safety, connectivity, and convenience increase walking/cycling uptake and substitute for some car trips, reducing vehicle-kilometers traveled and associated gasoline/diesel combustion.  \n(3) Climate outcome: Lower tailpipe CO₂ (and some upstream fuel-cycle emissions) from reduced fossil fuel use in the transport sector.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions from shifting trips from motor vehicles to walking/cycling (and reducing vehicle travel).",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Built active-transport infrastructure enables a mode shift that reduces motor-vehicle travel and fuel combustion, cutting GHG emissions.  \n2) Why this primary over alternatives: While such projects can have health, safety, congestion, and air-quality co-benefits, the direct climate-relevant effect that consistently dominates is mitigation via reduced transport emissions.  \n3) Inherent causal chain for each secondary:  \n   - Resource Efficiency: Walking/cycling requires far less energy than private auto travel, so the same mobility demand is met with lower energy input and fuel use.  \n4) Edge cases applied: If infrastructure is built but does not induce mode shift (e.g., disconnected segments), mitigation impact may be small, but the mechanism’s intended and typical climate pathway remains emissions reduction via avoided driving.  \n5) Confirm labels apply to ALL instances: Any policy implementing this mechanism (active transport infrastructure expansion aimed at shifting trips) targets emissions reductions (Mitigation) and inherently improves mobility energy efficiency (Resource Efficiency).",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If induced demand, poor connectivity, or safety perceptions prevent meaningful modal shift, realized mitigation can be limited; some implementations also increase resilience/heat exposure benefits via shade/trees, but those are not inherent to all active-transport infrastructure expansions.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Improve sidewalks, urban trails, and crossings\"; \"Update the City's Sidewalk Plan and Urban Trails Plan\"; \"Build all high- and very-high-priority sidewalk and trail segments\"; \"address ADA barriers and gaps\"",
+  "co_benefits": "Public health (active mobility), accessibility/equity (ADA compliance, community engagement), safety (safer crossings), potential air quality/noise reductions.",
+  "instance_edge_case_notes": "Plan updates are a planning instrument, but the text explicitly commits to building priority segments; classified as infrastructure-investment as the dominant instrument. No adaptation secondary added because hazards (heat/flood) are not directly addressed (e.g., shade, cooling, drainage, flood-proofing) in the mechanism as written."
+}

@@ -6,978 +6,879 @@
     "parent_policy_name": null,
     "section_header": "NEW EMISSIONS GOAL FOR AUSTIN",
     "sector": "Economy-wide",
-    "extraction_rationale": "Clear, quantified community-wide target with deadline (net-zero GHG by 2040)."
+    "extraction_rationale": "A quantified, time-bound citywide emissions target (net-zero by 2040)."
   },
   {
-    "policy_statement": "Overarching strategies to support achieving Austin’s net-zero by 2040 goal, including green jobs, prioritizing community initiatives, regional collaboration, and local carbon reduction/CDR/offsets guidance.",
-    "verbatim_text": "## OVERARCHING STRATEGIES\n\n## Green Jobs and Entrepreneurship\n\n## Prioritize Local Community Initiatives\n\n## Regional Collaboration\n\n## Local Carbon Reduction Projects, Carbon Dioxide Removal, and Carbon Offsets",
+    "policy_statement": "Implement Overarching Strategies for the Austin Climate Equity Plan (green jobs; prioritize local initiatives; regional collaboration; carbon reduction/removal/offsets).",
+    "verbatim_text": "OVERARCHING STRATEGIES\n\n## Green Jobs and Entrepreneurship\n\n- Create green jobs and entrepreneurship opportunities...\n\n## Prioritize Local Community Initiatives\n\n- Recognize and support existing community-led organizations...\n\n## Regional Collaboration\n\n- Create a Texas Climate Collaborative...\n\n## Local Carbon Reduction Projects, Carbon Dioxide Removal, and Carbon Offsets\n\n- Establish clear support and prioritization for local greenhouse gas reduction and carbon removal projects...",
     "policy_type": "parent",
     "parent_policy_name": null,
     "section_header": "OVERARCHING STRATEGIES",
-    "sector": "Cross-sector",
-    "extraction_rationale": "Named umbrella set of strategies with multiple listed sub-items under it."
-  },
-  {
-    "policy_statement": "Create green jobs and entrepreneurship opportunities that advance the plan, expand economic opportunity and inclusion, and build decision-making power in low-income communities and communities of color.",
-    "verbatim_text": "## Green Jobs and Entrepreneurship\n- Create green jobs and entrepreneurship opportunities that advance the goals of this plan, expand economic opportunity and inclusion, and build agency and decision-making power in low-income communities and communities of color.",
-    "policy_type": "sub",
-    "parent_policy_name": "OVERARCHING STRATEGIES",
-    "section_header": "OVERARCHING STRATEGIES",
-    "sector": "Cross-sector",
-    "extraction_rationale": "Specific intervention to create green jobs/entrepreneurship with defined equity focus."
-  },
-  {
-    "policy_statement": "Recognize and support existing community-led organizations, businesses, and programs to achieve the plan’s goals and build a green and just economy and culture.",
-    "verbatim_text": "## Prioritize Local Community Initiatives\n- Recognize and support existing community-led organizations, businesses, and programs that can help achieve the goals in this plan while building a green and just economy and culture.",
-    "policy_type": "sub",
-    "parent_policy_name": "OVERARCHING STRATEGIES",
-    "section_header": "OVERARCHING STRATEGIES",
-    "sector": "Cross-sector",
-    "extraction_rationale": "Concrete support action directed at community-led initiatives."
-  },
-  {
-    "policy_statement": "Create a Texas Climate Collaborative linking elected officials, City staff, and utility staff across major Texas cities and neighboring jurisdictions to focus on implementation lessons, technology demand aggregation, and statewide policy changes.",
-    "verbatim_text": "## Regional Collaboration\n- Create a Texas Climate Collaborative linking elected officials, City staff, and utility staff working to implement recently adopted climate plans in San Antonio, Houston, Dallas, and Austin. Work with cities across the state and neighboring cities, such as Round Rock, Cedar Park, Buda, Pflugerville, San Marcos, and Kyle, and the five-county governments: Travis, Williamson, Hays, Bastrop, and Caldwell.",
-    "policy_type": "sub",
-    "parent_policy_name": "OVERARCHING STRATEGIES",
-    "section_header": "OVERARCHING STRATEGIES",
-    "sector": "Cross-sector",
-    "extraction_rationale": "Specific institutional collaboration mechanism is named and described."
-  },
-  {
-    "policy_statement": "Establish clear support and prioritization for local greenhouse gas reduction and carbon removal projects and use carbon offsets when necessary, guided by defined criteria and a 10% annual cap on offsets.",
-    "verbatim_text": "## Local Carbon Reduction Projects, Carbon Dioxide Removal, and Carbon Offsets\n- Establish clear support and prioritization for local greenhouse gas reduction and carbon removal projects, carbon dioxide removal, and carbon offsets when necessary.\n\n...For any given year, carbon offsets should constitute no more than 10% of the baseline.",
-    "policy_type": "sub",
-    "parent_policy_name": "OVERARCHING STRATEGIES",
-    "section_header": "OVERARCHING STRATEGIES",
-    "sector": "Cross-sector",
-    "extraction_rationale": "Specific policy guidance with an explicit quantitative constraint on offsets (<=10%)."
-  },
-  {
-    "policy_statement": "Austin City Council Resolution 20070215-023 directed the City Manager to make City facilities, fleets, and operations carbon neutral by 2020 and to implement leading climate actions (renewable/efficiency utility leadership, energy-efficient codes, climate action team, and community/regional work).",
-    "verbatim_text": "## 2007 - Original Climate Protection Plan, Resolution 20070215-023\nIn February 2007, the Austin City Council adopted the first resolution in Austin's history that was focused on climate change. The resolution directed the City Manager to make City of Austin facilities, fleets, and operations carbon neutral by 2020, make Austin Energy the leading utility in the nation for greenhouse gas reduction through renewable energy and energy efficiency, implement the most energy-efficient building codes in the nation, establish an interdepartmental City Climate Action Team, and work with community members, businesses and regional entities on reducing emissions.",
-    "policy_type": "individual",
-    "parent_policy_name": null,
-    "section_header": "2007 - Original Climate Protection Plan, Resolution 20070215-023",
-    "sector": "Cross-sector",
-    "extraction_rationale": "Binding directive via City Council resolution with a dated target and specified actions."
-  },
-  {
-    "policy_statement": "Austin City Council Resolution 20140410-024 adopted the goal of net-zero community-wide greenhouse gas emissions (preferably as soon as feasible) and directed the City Manager to review 2007 goals and create a stakeholder process for a new community-wide plan focused on energy, transportation, and waste/industrial emissions sources.",
-    "verbatim_text": "## 2014 - Net-zero by 2050, Resolution 20140410-024\nIn April 2014, the Austin City Council adopted the goal of net-zero community-wide greenhouse gas emissions with the preference to achieve it as soon as feasible. The resolution also directed the City Manager to review the goals from the 2007 plan and create a stakeholder process to develop a new community-wide plan focused on energy, transportation, and waste/industrial emissions sources.",
-    "policy_type": "individual",
-    "parent_policy_name": null,
-    "section_header": "2014 - Net-zero by 2050, Resolution 20140410-024",
     "sector": "Economy-wide",
-    "extraction_rationale": "Formal goal adoption and implementation directive stated in resolution text."
+    "extraction_rationale": "A named umbrella set of cross-cutting strategies presented as a grouped program with multiple sub-strategies listed beneath."
   },
   {
-    "policy_statement": "Austin City Council Resolution 20150604-048 adopted the 2015 Austin Community Climate Plan supporting net-zero by 2050 with interim targets and directed the City Manager to prioritize resources and create the Joint Sustainability Committee for oversight.",
-    "verbatim_text": "## 2015 - Adopt the 2015 Austin Community Climate Plan, Resolution 20150604-048\nIn June 2015, the Austin City Council adopted the 2015 Austin Community Climate Plan, supporting the trajectory to net-zero greenhouse gas emissions by 2050 with interim targets. The resolution also directed the City Manager to identify and prioritize resources to implement the plan and create the Joint Sustainability Committee to oversee its implementation.",
-    "policy_type": "individual",
-    "parent_policy_name": null,
-    "section_header": "2015 - Adopt the 2015 Austin Community Climate Plan, Resolution 20150604-048",
-    "sector": "Cross-sector",
-    "extraction_rationale": "Formal plan adoption plus resource prioritization and governance mechanism."
+    "policy_statement": "Create green jobs and entrepreneurship opportunities that advance the plan's goals and expand economic opportunity and inclusion in low-income communities and communities of color.",
+    "verbatim_text": "## Green Jobs and Entrepreneurship\n\n- Create green jobs and entrepreneurship opportunities that advance the goals of this plan, expand economic opportunity and inclusion, and build agency and decision-making power in low-income communities and communities of color.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement Overarching Strategies for the Austin Climate Equity Plan (green jobs; prioritize local initiatives; regional collaboration; carbon reduction/removal/offsets).",
+    "section_header": "OVERARCHING STRATEGIES",
+    "sector": "Cross-cutting / Workforce",
+    "extraction_rationale": "Explicit commitment to create jobs/entrepreneurship opportunities, framed as an overarching strategy."
   },
   {
-    "policy_statement": "Austin City Council Resolution 20190509-019 recommended creating a comprehensive, community-wide climate resilience plan that is fair, just, and equitable, and expressed support for general tenets of the Green New Deal.",
-    "verbatim_text": "## 2019 - Climate Resilience, Resolution 20190509-019\nIn May 2019, the Austin City Council recommended creating a comprehensive, community-wide climate resilience plan that is fair, just, and equitable. ... They also expressed support for the general tenets of the Green New Deal.",
-    "policy_type": "individual",
-    "parent_policy_name": null,
-    "section_header": "2019 - Climate Resilience, Resolution 20190509-019",
-    "sector": "Adaptation/Resilience",
-    "extraction_rationale": "Explicit council recommendation to create a resilience plan with equity criteria."
+    "policy_statement": "Recognize and support existing community-led organizations, businesses, and programs to help achieve plan goals while building a green and just economy and culture.",
+    "verbatim_text": "## Prioritize Local Community Initiatives\n\n- Recognize and support existing community-led organizations, businesses, and programs that can help achieve the goals in this plan while building a green and just economy and culture.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement Overarching Strategies for the Austin Climate Equity Plan (green jobs; prioritize local initiatives; regional collaboration; carbon reduction/removal/offsets).",
+    "section_header": "OVERARCHING STRATEGIES",
+    "sector": "Cross-cutting / Governance",
+    "extraction_rationale": "Specific intervention to support community-led initiatives, stated as an overarching strategy."
   },
   {
-    "policy_statement": "Austin City Council Resolution 20190509-020 directed the City Manager to analyze EV adoption scenarios and emission reductions, establish interim targets, and identify partnerships to include transportation electrification in the climate plan revision.",
-    "verbatim_text": "## 2019 - Transportation Electrification Plan, Resolution 20190509-020\nIn May 2019, the Austin City Council declared transportation electrification to be included in the Austin Community Climate Plan revision. The resolution directs the City Manager to analyze electric vehicle adoption scenarios and associated emission reductions, establish interim targets, and identify partnerships.",
-    "policy_type": "individual",
-    "parent_policy_name": null,
-    "section_header": "2019 - Transportation Electrification Plan, Resolution 20190509-020",
-    "sector": "Transport",
-    "extraction_rationale": "Directive with specific required actions (analysis, interim targets, partnerships)."
+    "policy_statement": "Create a Texas Climate Collaborative linking elected officials, City staff, and utility staff and work with nearby cities and five-county governments on climate plan implementation.",
+    "verbatim_text": "## Regional Collaboration\n\n- Create a Texas Climate Collaborative linking elected officials, City staff, and utility staff working to implement recently adopted climate plans in San Antonio, Houston, Dallas, and Austin. Work with cities across the state and neighboring cities... and the five-county governments: Travis, Williamson, Hays, Bastrop, and Caldwell.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement Overarching Strategies for the Austin Climate Equity Plan (green jobs; prioritize local initiatives; regional collaboration; carbon reduction/removal/offsets).",
+    "section_header": "OVERARCHING STRATEGIES",
+    "sector": "Cross-cutting / Governance",
+    "extraction_rationale": "Concrete institutional collaboration commitment (create collaborative; named participants/region)."
   },
   {
-    "policy_statement": "Austin City Council Resolution 20190808-078 declared a climate emergency and directed the City Manager to reconsider accountability structures, increase external engagement, and accelerate activity toward the City’s net-zero goal.",
-    "verbatim_text": "## 2019 - Climate Emergency, Resolution 20190808-078\nIn August 2019, the Austin City Council declared a climate emergency and called for immediate emergency mobilization to restore a safe climate. The resolution directs the City Manager to reconsider accountability structures, increase external engagement, and accelerate activity toward the City's net-zero goal.",
-    "policy_type": "individual",
-    "parent_policy_name": null,
-    "section_header": "2019 - Climate Emergency, Resolution 20190808-078",
-    "sector": "Cross-sector",
-    "extraction_rationale": "Formal emergency declaration with implementation directives."
+    "policy_statement": "Establish clear support and prioritization for local greenhouse gas reduction and carbon removal projects, carbon dioxide removal, and carbon offsets when necessary.",
+    "verbatim_text": "## Local Carbon Reduction Projects, Carbon Dioxide Removal, and Carbon Offsets\n\n- Establish clear support and prioritization for local greenhouse gas reduction and carbon removal projects, carbon dioxide removal, and carbon offsets when necessary.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement Overarching Strategies for the Austin Climate Equity Plan (green jobs; prioritize local initiatives; regional collaboration; carbon reduction/removal/offsets).",
+    "section_header": "OVERARCHING STRATEGIES",
+    "sector": "Cross-cutting / Carbon management",
+    "extraction_rationale": "Defines a strategic approach to carbon reductions/removal/offsets as a plan commitment."
   },
   {
-    "policy_statement": "Austin City Council Resolution 20200220-047 directed Texas Gas Service to develop a feasibility assessment of renewable natural gas to support the 2020 update to the Austin Community Climate Plan.",
-    "verbatim_text": "## 2020 - Renewable Natural Gas, Resolution 20200220-047\nIn February 2020, the Austin City Council adopted a resolution focused on Renewable Natural Gas, directing Texas Gas Service to develop a feasibility assessment of renewable natural gas to support the 2020 update to the Austin Community Climate Plan.",
-    "policy_type": "individual",
-    "parent_policy_name": null,
-    "section_header": "2020 - Renewable Natural Gas, Resolution 20200220-047",
-    "sector": "Energy",
-    "extraction_rationale": "Specific directive to develop an RNG feasibility assessment."
-  },
-  {
-    "policy_statement": "Austin Energy Resource, Generation, and Climate Protection Plan to 2030 commits to 93% carbon-free generation by 2030 and 100% by 2035.",
-    "verbatim_text": "The plan calls for:\n- 93% carbon-free generation by 2030, 100% by 2035",
-    "policy_type": "individual",
-    "parent_policy_name": null,
-    "section_header": "Austin Energy Resource, Generation, and Climate Protection Plan to 2030",
-    "sector": "Energy",
-    "extraction_rationale": "Quantified electricity decarbonization targets with years."
-  },
-  {
-    "policy_statement": "Austin Energy Resource Plan includes 1,200 MW of conservation (including 225 MW of peak capacity).",
-    "verbatim_text": "The plan calls for:\n- 1,200 megawatts (MW) of conservation, including 225 MW of peak capacity",
-    "policy_type": "individual",
-    "parent_policy_name": null,
-    "section_header": "Austin Energy Resource, Generation, and Climate Protection Plan to 2030",
-    "sector": "Energy",
-    "extraction_rationale": "Quantified conservation/peak capacity commitments."
-  },
-  {
-    "policy_statement": "Austin Energy Resource Plan targets 1% of retail sales per year in energy efficiency savings, at least 25,000 customer participants annually, with 25% limited-income participation.",
-    "verbatim_text": "The plan calls for:\n- 1% of retail sales per year in energy efficiency savings, at least 25,000 customer participants annually, 25% limited-income",
-    "policy_type": "individual",
-    "parent_policy_name": null,
-    "section_header": "Austin Energy Resource, Generation, and Climate Protection Plan to 2030",
-    "sector": "Energy",
-    "extraction_rationale": "Quantified annual efficiency savings and participation requirements, including an equity participation share."
-  },
-  {
-    "policy_statement": "Austin Energy Resource Plan calls for 375 MW of local solar and 200 MW of customer-sited solar, and expansion of shared solar with preferential access to community solar for moderate and limited-income customers.",
-    "verbatim_text": "The plan calls for:\n- 375 MW of local solar, 200 MW of customer-sited solar\n- Expand shared solar\n- Provide moderate and limited-income customers preferential access to community solar",
-    "policy_type": "individual",
-    "parent_policy_name": null,
-    "section_header": "Austin Energy Resource, Generation, and Climate Protection Plan to 2030",
-    "sector": "Energy",
-    "extraction_rationale": "Specific capacity targets plus an explicit equity access provision."
-  },
-  {
-    "policy_statement": "Austin Energy Resource Plan includes 40 MW of local thermal storage and a commitment to equity evaluation for programs.",
-    "verbatim_text": "The plan calls for:\n- 40 MW of local thermal storage\n- Commitment to equity evaluation for programs",
-    "policy_type": "individual",
-    "parent_policy_name": null,
-    "section_header": "Austin Energy Resource, Generation, and Climate Protection Plan to 2030",
-    "sector": "Energy",
-    "extraction_rationale": "Concrete technology deployment target and program evaluation commitment."
-  },
-  {
-    "policy_statement": "Sustainable Buildings: achieve net-zero carbon for all new buildings, reduce emissions by 25% for existing buildings, and lower natural gas-related emissions by 30% by 2030.",
-    "verbatim_text": "By 2030, achieve net-zero carbon* for all new buildings and reduce emissions by 25% for existing buildings while lowering all natural gas-related emissions by 30%.",
+    "policy_statement": "Achieve net-zero carbon for all new buildings and reduce emissions by 25% for existing buildings while lowering all natural gas-related emissions by 30% by 2030.",
+    "verbatim_text": "## Sustainable Buildings\n\n- Achieve net-zero carbon for all new buildings and reduce emissions by 25% for existing buildings while lowering all natural gas-related emissions by 30%.",
     "policy_type": "parent",
     "parent_policy_name": null,
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 1",
+    "section_header": "NEW 2030 CLIMATE EQUITY GOALS FOR AUSTIN — Sustainable Buildings",
     "sector": "Buildings",
-    "extraction_rationale": "Quantified, time-bound goal with multiple implementation strategies listed beneath."
+    "extraction_rationale": "Quantified 2030 building-sector targets; followed by multiple numbered strategies in the Sustainable Buildings section."
   },
   {
-    "policy_statement": "Pursue an energy poverty mitigation strategy so that repair, energy conservation, and renewable energy incentives/program benefits flow to low-income communities and communities of color, including support/expansion of low-income weatherization and neighborhood preparedness.",
-    "verbatim_text": "## Strategy 1: Ensure benefits flow to low-income communities and communities of color\nPursue a comprehensive energy poverty mitigation strategy by partnering with trusted community organizations, affordable housing developers, and schools in equitable outreach and program development. ... Support and expand upon existing low-income weatherization programs.",
+    "policy_statement": "Ensure benefits of building decarbonization programs flow to low-income communities and communities of color through comprehensive energy poverty mitigation and partnerships.",
+    "verbatim_text": "## Strategy 1: Ensure benefits flow to low-income communities and communities of color\n\nPursue a comprehensive energy poverty mitigation strategy by partnering with trusted community organizations, affordable housing developers, and schools in equitable outreach and program development.",
     "policy_type": "sub",
-    "parent_policy_name": "SUSTAINABLE BUILDINGS — GOAL 1",
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 1",
+    "parent_policy_name": "Achieve net-zero carbon for all new buildings and reduce emissions by 25% for existing buildings while lowering all natural gas-related emissions by 30% by 2030.",
+    "section_header": "SUSTAINABLE BUILDINGS — Goal: Net-zero carbon new buildings; 25% existing; 30% gas emissions reduction",
     "sector": "Buildings",
-    "extraction_rationale": "Specific intervention (energy poverty mitigation, weatherization support) with clear target populations."
+    "extraction_rationale": "Specific intervention (energy poverty mitigation strategy and partnerships) tied to the buildings goal."
   },
   {
-    "policy_statement": "Enhance building energy savings understanding through outreach, culturally relevant communications, expanded benchmarking requirements for all existing buildings, and improved access to energy and water data.",
-    "verbatim_text": "## Strategy 2: Enhance understanding of energy consumption\nEnhance resident and building owner understanding of energy savings opportunities, benefits, and climate impacts of energy consumption. This will be done through direct outreach, culturally relevant communications, expanding benchmarking requirements for all existing buildings, and better access to energy and water data.",
+    "policy_statement": "Enhance resident and building owner understanding of energy consumption via outreach, culturally relevant communications, expanded benchmarking for existing buildings, and better access to energy and water data.",
+    "verbatim_text": "## Strategy 2: Enhance understanding of energy consumption\n\nEnhance resident and building owner understanding of energy savings opportunities, benefits, and climate impacts of energy consumption. This will be done through direct outreach, culturally relevant communications, expanding benchmarking requirements for all existing buildings, and better access to energy and water data.",
     "policy_type": "sub",
-    "parent_policy_name": "SUSTAINABLE BUILDINGS — GOAL 1",
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 1",
+    "parent_policy_name": "Achieve net-zero carbon for all new buildings and reduce emissions by 25% for existing buildings while lowering all natural gas-related emissions by 30% by 2030.",
+    "section_header": "SUSTAINABLE BUILDINGS — Goal: Net-zero carbon new buildings; 25% existing; 30% gas emissions reduction",
     "sector": "Buildings",
-    "extraction_rationale": "Lists concrete mechanisms (benchmarking expansion, data access, outreach)."
+    "extraction_rationale": "Concrete programmatic actions (benchmarking expansion; data access; outreach)."
   },
   {
-    "policy_statement": "Achieve net-zero carbon buildings via new building energy codes/amendments and decarbonize existing buildings through incentives and education, including electrification, peak-load shifting, distributed generation, and gas-to-electric replacement.",
-    "verbatim_text": "## Strategy 3: Achieve energy-efficient, net-zero carbon buildings\nAchieve goal milestones for net-zero carbon buildings through new building energy codes, amendments, and other methods. Engage owners and operators of existing buildings to decarbonize through incentives and education for contractors and occupants.",
+    "policy_statement": "Achieve net-zero carbon building milestones through new building energy codes/amendments and incentives/education for existing building decarbonization, in collaboration with utilities and with equity focus.",
+    "verbatim_text": "## Strategy 3: Achieve energy-efficient, net-zero carbon buildings\n\nAchieve goal milestones for net-zero carbon buildings through new building energy codes, amendments, and other methods. Engage owners and operators of existing buildings to decarbonize through incentives and education for contractors and occupants. Collaborate with local utilities to implement equitable emission reduction strategies.",
     "policy_type": "sub",
-    "parent_policy_name": "SUSTAINABLE BUILDINGS — GOAL 1",
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 1",
+    "parent_policy_name": "Achieve net-zero carbon for all new buildings and reduce emissions by 25% for existing buildings while lowering all natural gas-related emissions by 30% by 2030.",
+    "section_header": "SUSTAINABLE BUILDINGS — Goal: Net-zero carbon new buildings; 25% existing; 30% gas emissions reduction",
     "sector": "Buildings",
-    "extraction_rationale": "Specific policy levers (codes, incentives, education) tied to defined decarbonization actions."
+    "extraction_rationale": "Specific policy mechanisms (codes, amendments, incentives, education, utility collaboration)."
   },
   {
-    "policy_statement": "Partner with unions, education, and advocacy organizations to create equitable workforce development and training for emerging building decarbonization technologies.",
-    "verbatim_text": "## Strategy 4: Ensure equitable workforce development for emerging technologies\nPrioritize investment in local emissions reduction and create equitable workforce development and training opportunities for emerging technologies by partnering with local unions, education, and advocacy organizations that serve low-income communities and communities of color.",
+    "policy_statement": "Create equitable workforce development and training opportunities for emerging building-related technologies by partnering with local unions and education/advocacy organizations serving low-income communities and communities of color.",
+    "verbatim_text": "## Strategy 4: Ensure equitable workforce development for emerging technologies\n\nPrioritize investment in local emissions reduction and create equitable workforce development and training opportunities for emerging technologies by partnering with local unions, education, and advocacy organizations that serve low-income communities and communities of color.",
     "policy_type": "sub",
-    "parent_policy_name": "SUSTAINABLE BUILDINGS — GOAL 1",
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 1",
+    "parent_policy_name": "Achieve net-zero carbon for all new buildings and reduce emissions by 25% for existing buildings while lowering all natural gas-related emissions by 30% by 2030.",
+    "section_header": "SUSTAINABLE BUILDINGS — Goal: Net-zero carbon new buildings; 25% existing; 30% gas emissions reduction",
     "sector": "Buildings",
-    "extraction_rationale": "Concrete workforce development intervention with specified partners and beneficiaries."
+    "extraction_rationale": "Defines a workforce development intervention with specified partners and equity focus."
   },
   {
-    "policy_statement": "Sustainable Buildings: reduce community-wide greenhouse gas emissions from refrigerant leakage by 25% by 2030.",
+    "policy_statement": "Reduce community-wide greenhouse gas emissions from refrigerant leakage by 25% by 2030.",
     "verbatim_text": "By 2030, reduce community-wide greenhouse gas emissions from refrigerant leakage by 25%.",
     "policy_type": "parent",
     "parent_policy_name": null,
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 2",
+    "section_header": "SUSTAINABLE BUILDINGS — Refrigerants",
     "sector": "Buildings",
-    "extraction_rationale": "Quantified, time-bound goal with multiple listed strategies beneath it."
+    "extraction_rationale": "Quantified emissions-reduction target with a deadline; followed by a list of strategies."
   },
   {
-    "policy_statement": "Develop a refrigerant destruction program that prices older high-GWP refrigerants to increase capture and safely destroy harmful gases.",
-    "verbatim_text": "## Strategy 1: Capture and destroy old refrigerants\nDevelop a refrigerant destruction program that places a price on older high ozone-depleting substances and global warming potential (GWP) refrigerants.",
+    "policy_statement": "Develop a refrigerant destruction program that places a price on older high ozone-depleting and high-GWP refrigerants to increase capture and safe destruction.",
+    "verbatim_text": "## Strategy 1: Capture and destroy old refrigerants\n\nDevelop a refrigerant destruction program that places a price on older high ozone-depleting substances and global warming potential (GWP) refrigerants.",
     "policy_type": "sub",
-    "parent_policy_name": "SUSTAINABLE BUILDINGS — GOAL 2",
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 2",
+    "parent_policy_name": "Reduce community-wide greenhouse gas emissions from refrigerant leakage by 25% by 2030.",
+    "section_header": "SUSTAINABLE BUILDINGS — Goal: Reduce refrigerant leakage emissions 25%",
     "sector": "Buildings",
     "extraction_rationale": "Specific program intervention (destruction program with pricing mechanism)."
   },
   {
-    "policy_statement": "Pursue local code amendments and other action to enable low/no-GWP refrigerants as soon as feasible, following revised code developments.",
-    "verbatim_text": "## Strategy 2: Improve building codes to encourage cleaner refrigerants\nClosely follow developments in revised building codes that allow the use of low and no GWP refrigerants ... and move forward with code amendments and other local action as soon as feasible.",
+    "policy_statement": "Move forward with building code amendments and other local actions to allow/encourage low and no-GWP refrigerants as soon as feasible.",
+    "verbatim_text": "## Strategy 2: Improve building codes to encourage cleaner refrigerants\n\nClosely follow developments in revised building codes that allow the use of low and no GWP refrigerants... and move forward with code amendments and other local action as soon as feasible.",
     "policy_type": "sub",
-    "parent_policy_name": "SUSTAINABLE BUILDINGS — GOAL 2",
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 2",
+    "parent_policy_name": "Reduce community-wide greenhouse gas emissions from refrigerant leakage by 25% by 2030.",
+    "section_header": "SUSTAINABLE BUILDINGS — Goal: Reduce refrigerant leakage emissions 25%",
     "sector": "Buildings",
-    "extraction_rationale": "Concrete regulatory mechanism: code amendments when feasible."
+    "extraction_rationale": "Regulatory/code change commitment related to refrigerants."
   },
   {
-    "policy_statement": "Partner with food and HVAC-related businesses to create incentives for refrigerant leak detection, prevention, and repair.",
-    "verbatim_text": "## Strategy 3: Create incentives for leak detection and repair\nPartner with grocery stores, convenience stores, restaurants, restaurant supply companies, refrigerated warehouses, and HVAC tune-up and repair companies to create an incentive for designing and tracking refrigerant leak detection, prevention, and repair.",
+    "policy_statement": "Create incentives for refrigerant leak detection, prevention, and repair in partnership with food retail, restaurants, warehouses, and HVAC companies, prioritizing outreach to small businesses owned by people of color.",
+    "verbatim_text": "## Strategy 3: Create incentives for leak detection and repair\n\nPartner with grocery stores, convenience stores, restaurants... to create an incentive for designing and tracking refrigerant leak detection, prevention, and repair.",
     "policy_type": "sub",
-    "parent_policy_name": "SUSTAINABLE BUILDINGS — GOAL 2",
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 2",
+    "parent_policy_name": "Reduce community-wide greenhouse gas emissions from refrigerant leakage by 25% by 2030.",
+    "section_header": "SUSTAINABLE BUILDINGS — Goal: Reduce refrigerant leakage emissions 25%",
     "sector": "Buildings",
-    "extraction_rationale": "Specific incentive-based intervention with identified target sectors."
+    "extraction_rationale": "Concrete incentive-based policy with named partner sectors."
   },
   {
-    "policy_statement": "Create an awareness, education, and training campaign on refrigerant management for HVAC providers and building staff, and implement a leak detection/prevention/repair program at City-owned facilities.",
-    "verbatim_text": "## Strategy 4: Awareness and training for HVAC service providers\nCreate an awareness, education, and training campaign ... Lead by example by implementing a refrigerant leak detection, prevention, and repair program at City-owned facilities.",
+    "policy_statement": "Create an awareness, education, and training campaign for HVAC service providers and related stakeholders; lead by example with refrigerant leak detection/repair at City-owned facilities.",
+    "verbatim_text": "## Strategy 4: Awareness and training for HVAC service providers\n\nCreate an awareness, education, and training campaign... Lead by example by implementing a refrigerant leak detection, prevention, and repair program at City-owned facilities.",
     "policy_type": "sub",
-    "parent_policy_name": "SUSTAINABLE BUILDINGS — GOAL 2",
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 2",
+    "parent_policy_name": "Reduce community-wide greenhouse gas emissions from refrigerant leakage by 25% by 2030.",
+    "section_header": "SUSTAINABLE BUILDINGS — Goal: Reduce refrigerant leakage emissions 25%",
     "sector": "Buildings",
     "extraction_rationale": "Specific campaign plus a City operational commitment (lead by example)."
   },
   {
-    "policy_statement": "Reduce refrigerant use volumes by expanding codes and incentives favoring passive design, reduction, and efficiency and educating stakeholders.",
-    "verbatim_text": "## Strategy 5: Reduce the volume of refrigerants\nEmphasize the link between design and refrigerant use by reducing and preventing the use of refrigerants ... Ensure codes and incentives that favor passive design, reduction, and efficiency are expanded and prioritized.",
+    "policy_statement": "Reduce the volume/use of refrigerants, particularly high-GWP refrigerants, by expanding and prioritizing codes and incentives favoring passive design, reduction, and efficiency.",
+    "verbatim_text": "## Strategy 5: Reduce the volume of refrigerants\n\nEmphasize the link between design and refrigerant use by reducing and preventing the use of refrigerants... particularly those with high GWP.\n\nHow we'll get there:\n\n- Ensure codes and incentives that favor passive design, reduction, and efficiency are expanded and prioritized.",
     "policy_type": "sub",
-    "parent_policy_name": "SUSTAINABLE BUILDINGS — GOAL 2",
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 2",
+    "parent_policy_name": "Reduce community-wide greenhouse gas emissions from refrigerant leakage by 25% by 2030.",
+    "section_header": "SUSTAINABLE BUILDINGS — Goal: Reduce refrigerant leakage emissions 25%",
     "sector": "Buildings",
-    "extraction_rationale": "Concrete direction to expand/prioritize codes and incentives to reduce refrigerant reliance."
+    "extraction_rationale": "Concrete policy direction to use codes/incentives to reduce refrigerant use."
   },
   {
-    "policy_statement": "Sustainable Buildings: reduce the embodied carbon footprint of building materials used in local construction by 40% from a 2020 baseline by 2030 (not exceeding 500 kg CO2e/m2 per project).",
-    "verbatim_text": "By 2030, reduce the embodied carbon footprint of building materials used in local construction by 40% from a 2020 baseline*.\n\n*The embodied carbon associated with the construction and materials must not exceed 500 kg CO2e/m 2 (~100 lbs. CO2e/sf) per project.",
+    "policy_statement": "Reduce the embodied carbon footprint of building materials used in local construction by 40% from a 2020 baseline by 2030 (with project embodied carbon not exceeding 500 kg CO2e/m2).",
+    "verbatim_text": "By 2030, reduce the embodied carbon footprint of building materials used in local construction by 40% from a 2020 baseline*.\n\n*The embodied carbon associated with the construction and materials must not exceed 500 kg CO2e/m2 (~100 lbs. CO2e/sf) per project.",
     "policy_type": "parent",
     "parent_policy_name": null,
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 3",
+    "section_header": "SUSTAINABLE BUILDINGS — Embodied Carbon",
     "sector": "Buildings",
-    "extraction_rationale": "Quantified target, baseline year, deadline, and an explicit intensity threshold; followed by multiple strategies."
+    "extraction_rationale": "Quantified target plus specific performance threshold; followed by multiple strategies."
   },
   {
-    "policy_statement": "Develop City of Austin design/construction specifications and purchasing agreements to deliver healthy, low-carbon buildings and prioritize healthy building strategies in community facilities serving low-income communities and communities of color first.",
-    "verbatim_text": "## Strategy 1: Lead by example through design and construction standards\n... develop City of Austin design and construction specifications and purchasing agreements to result in healthy, low-carbon buildings.\n... prioritize in community centers, libraries, and other community facilities serving low-income communities and communities of color first.",
+    "policy_statement": "Develop City of Austin design and construction specifications and purchasing agreements to deliver healthy, low-carbon buildings, prioritizing community facilities serving low-income communities and communities of color first.",
+    "verbatim_text": "## Strategy 1: Lead by example through design and construction standards\n\nIn partnership with other cities and states, develop City of Austin design and construction specifications and purchasing agreements to result in healthy, low-carbon buildings.",
     "policy_type": "sub",
-    "parent_policy_name": "SUSTAINABLE BUILDINGS — GOAL 3",
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 3",
+    "parent_policy_name": "Reduce the embodied carbon footprint of building materials used in local construction by 40% from a 2020 baseline by 2030 (with project embodied carbon not exceeding 500 kg CO2e/m2).",
+    "section_header": "SUSTAINABLE BUILDINGS — Goal: Reduce embodied carbon 40%",
     "sector": "Buildings",
-    "extraction_rationale": "Concrete government procurement/standards commitment (lead by example)."
+    "extraction_rationale": "Specific government procurement/standards action (lead by example)."
   },
   {
-    "policy_statement": "Integrate lower-carbon materials and deconstruction into City incentive programs (e.g., expedited permitting and Austin Energy Green Building) and transition voluntary guidance into agreements over time.",
-    "verbatim_text": "## Strategy 2: Incentivize lower-carbon materials\nEnhance and integrate lower-carbon building materials and deconstruction practices into City incentive programs, like the expedited permitting process and Austin Energy's Green Building program, to transition voluntary design guidance into planning and development agreements over time.",
+    "policy_statement": "Integrate lower-carbon building materials and deconstruction practices into City incentive programs (e.g., expedited permitting and Austin Energy Green Building) and transition voluntary guidance into planning/development agreements over time.",
+    "verbatim_text": "## Strategy 2: Incentivize lower-carbon materials\n\nEnhance and integrate lower-carbon building materials and deconstruction practices into City incentive programs, like the expedited permitting process and Austin Energy's Green Building program, to transition voluntary design guidance into planning and development agreements over time.",
     "policy_type": "sub",
-    "parent_policy_name": "SUSTAINABLE BUILDINGS — GOAL 3",
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 3",
+    "parent_policy_name": "Reduce the embodied carbon footprint of building materials used in local construction by 40% from a 2020 baseline by 2030 (with project embodied carbon not exceeding 500 kg CO2e/m2).",
+    "section_header": "SUSTAINABLE BUILDINGS — Goal: Reduce embodied carbon 40%",
     "sector": "Buildings",
-    "extraction_rationale": "Specific intervention using incentives and planning/development agreements."
+    "extraction_rationale": "Clear incentive/program modification commitment."
   },
   {
-    "policy_statement": "Create an education/performance framework on building materials best practices, focusing on low-income communities and communities of color, to reduce lifecycle and health impacts.",
-    "verbatim_text": "## Strategy 3: Educate stakeholders on materials best practices\nCreate a performance framework and educational programming for industry professionals and the general public, focusing on low-income communities and communities of color, to reduce the lifecycle and negative health impacts of building materials and construction practices.",
+    "policy_statement": "Create a performance framework and educational programming on low-carbon materials best practices for industry professionals and the public, focusing on low-income communities and communities of color.",
+    "verbatim_text": "## Strategy 3: Educate stakeholders on materials best practices\n\nCreate a performance framework and educational programming for industry professionals and the general public, focusing on low-income communities and communities of color, to reduce the lifecycle and negative health impacts of building materials and construction practices.",
     "policy_type": "sub",
-    "parent_policy_name": "SUSTAINABLE BUILDINGS — GOAL 3",
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 3",
+    "parent_policy_name": "Reduce the embodied carbon footprint of building materials used in local construction by 40% from a 2020 baseline by 2030 (with project embodied carbon not exceeding 500 kg CO2e/m2).",
+    "section_header": "SUSTAINABLE BUILDINGS — Goal: Reduce embodied carbon 40%",
     "sector": "Buildings",
-    "extraction_rationale": "Specific programming commitment with target audience focus."
+    "extraction_rationale": "Specific education/programming intervention tied to embodied carbon and health impacts."
   },
   {
-    "policy_statement": "Prioritize partnerships in local materials markets to decarbonize high-impact materials (glass, steel, aluminum, concrete, drywall, insulation, carpet) and encourage growth of local businesses creating materials from recovered sources.",
-    "verbatim_text": "## Strategy 4: Stimulate decarbonization with local producers installation\nPrioritize partnerships within local materials markets to decarbonize high-impact materials, specifically glass, steel, aluminum, concrete, drywall, insulation, and carpet.",
+    "policy_statement": "Prioritize partnerships within local materials markets to decarbonize high-impact building materials (e.g., glass, steel, aluminum, concrete, drywall, insulation, carpet).",
+    "verbatim_text": "## Strategy 4: Stimulate decarbonization with local producers installation\n\nPrioritize partnerships within local materials markets to decarbonize high-impact materials, specifically glass, steel, aluminum, concrete, drywall, insulation, and carpet.",
     "policy_type": "sub",
-    "parent_policy_name": "SUSTAINABLE BUILDINGS — GOAL 3",
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 3",
+    "parent_policy_name": "Reduce the embodied carbon footprint of building materials used in local construction by 40% from a 2020 baseline by 2030 (with project embodied carbon not exceeding 500 kg CO2e/m2).",
+    "section_header": "SUSTAINABLE BUILDINGS — Goal: Reduce embodied carbon 40%",
     "sector": "Buildings",
-    "extraction_rationale": "Concrete industrial/materials decarbonization focus naming targeted materials."
+    "extraction_rationale": "Specific intervention focusing on decarbonizing named material categories via partnerships."
   },
   {
-    "policy_statement": "Sustainable Buildings/Water: equitably achieve a community-wide water demand of approximately 152,000 acre-feet per year by 2030 by implementing strategies in the Water Forward Plan.",
+    "policy_statement": "Equitably achieve a community-wide water demand of approximately 152,000 acre-feet per year by 2030 by implementing strategies in the Water Forward Plan.",
     "verbatim_text": "By 2030, equitably achieve a community-wide water demand of approximately 152,000 acre-feet per year by implementing strategies in the Water Forward Plan.",
     "policy_type": "parent",
     "parent_policy_name": null,
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 4",
+    "section_header": "SUSTAINABLE BUILDINGS — Water",
     "sector": "Water",
-    "extraction_rationale": "Quantified, time-bound demand target with multiple implementation strategies listed."
+    "extraction_rationale": "Quantified water-demand target with timeframe and implementation basis; followed by strategies."
   },
   {
-    "policy_statement": "Enhance community engagement and partnerships to advance Water Forward equity via My ATX Water (AMI), incentives, and ordinances, including targeted outreach and demographic monitoring of program participation.",
-    "verbatim_text": "## Strategy 1: Engage residents in water efficiency technological transitions, and conservation programs\nEnhance community engagement strategies and create partnerships with community organizations to advance equity through Water Forward strategies, including My ATX Water (Advanced Metering Infrastructure), incentives, and ordinances.",
+    "policy_statement": "Enhance community engagement and partnerships to advance Water Forward equity strategies (e.g., My ATX Water, incentives, ordinances) and implement targeted outreach to improve participation.",
+    "verbatim_text": "## Strategy 1: Engage residents in water efficiency technological transitions, and conservation programs\n\nEnhance community engagement strategies and create partnerships with community organizations to advance equity through Water Forward strategies, including My ATX Water (Advanced Metering Infrastructure), incentives, and ordinances.",
     "policy_type": "sub",
-    "parent_policy_name": "SUSTAINABLE BUILDINGS — GOAL 4",
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 4",
+    "parent_policy_name": "Equitably achieve a community-wide water demand of approximately 152,000 acre-feet per year by 2030 by implementing strategies in the Water Forward Plan.",
+    "section_header": "SUSTAINABLE BUILDINGS — Goal: Water demand ~152,000 acre-feet/year",
     "sector": "Water",
-    "extraction_rationale": "Specific actions (engagement, partnerships, AMI/incentives/ordinances) to implement Water Forward equitably."
+    "extraction_rationale": "Specific engagement and partnership actions to implement water conservation strategies with equity focus."
   },
   {
-    "policy_statement": "Evaluate program criteria to remove structural barriers and expand enrollment in the Customer Assistance Program and other low-income customer programs, including equity assessments of design and eligibility (e.g., multifamily).",
-    "verbatim_text": "## Strategy 2: Evaluate water conservation, customer assistance, and workforce development program participation criteria\nEvaluate program criteria to identify opportunities to address structural barriers that prevent program participation. ... explore strategies to expand enrollment in the Customer Assistance Program and increase participation in other programs serving low-income customers.",
+    "policy_statement": "Evaluate water conservation and customer assistance program criteria to remove structural barriers and expand enrollment in the Customer Assistance Program and other low-income-serving programs.",
+    "verbatim_text": "## Strategy 2: Evaluate water conservation, customer assistance, and workforce development program participation criteria\n\nEvaluate program criteria to identify opportunities to address structural barriers that prevent program participation... explore strategies to expand enrollment in the Customer Assistance Program and increase participation in other programs serving low-income customers.",
     "policy_type": "sub",
-    "parent_policy_name": "SUSTAINABLE BUILDINGS — GOAL 4",
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 4",
+    "parent_policy_name": "Equitably achieve a community-wide water demand of approximately 152,000 acre-feet per year by 2030 by implementing strategies in the Water Forward Plan.",
+    "section_header": "SUSTAINABLE BUILDINGS — Goal: Water demand ~152,000 acre-feet/year",
     "sector": "Water",
-    "extraction_rationale": "Concrete commitment to evaluate/adjust eligibility and participation criteria for assistance programs."
+    "extraction_rationale": "Concrete program evaluation and expansion commitment for equity in water assistance and conservation."
   },
   {
-    "policy_statement": "Assess and pursue water-energy nexus measures to reduce emissions, including evaluating Austin Water facility energy use and quantifying emissions impacts of customer water demand reductions.",
-    "verbatim_text": "## Strategy 3: Reduce emissions at the water-energy nexus\nAssess how water demand reduction is associated with energy consumption in residential and commercial buildings and Austin Water facilities. Identify and pursue synergistic water conservation and energy management optimization efforts.",
+    "policy_statement": "Assess and pursue water conservation and energy management optimization at the water-energy nexus, including evaluating Austin Water facility energy use and developing methods to quantify emissions reductions from water-demand reduction.",
+    "verbatim_text": "## Strategy 3: Reduce emissions at the water-energy nexus\n\nAssess how water demand reduction is associated with energy consumption in residential and commercial buildings and Austin Water facilities. Identify and pursue synergistic water conservation and energy management optimization efforts through programs and partnerships.",
     "policy_type": "sub",
-    "parent_policy_name": "SUSTAINABLE BUILDINGS — GOAL 4",
-    "section_header": "SUSTAINABLE BUILDINGS — GOAL 4",
+    "parent_policy_name": "Equitably achieve a community-wide water demand of approximately 152,000 acre-feet per year by 2030 by implementing strategies in the Water Forward Plan.",
+    "section_header": "SUSTAINABLE BUILDINGS — Goal: Water demand ~152,000 acre-feet/year",
     "sector": "Water",
-    "extraction_rationale": "Specific assessment and optimization actions linking conservation to emissions reductions."
+    "extraction_rationale": "Specific assessment and optimization actions linking water conservation to emissions reductions."
   },
   {
-    "policy_statement": "Transportation and Land Use: by 2030, 80% of new non-residential development will be located within the city’s Imagine Austin activity centers and corridors.",
+    "policy_statement": "Locate 80% of new non-residential development within the city's Imagine Austin activity centers and corridors by 2030.",
     "verbatim_text": "By 2030, 80% of new non-residential development is located within the city's Imagine Austin activity centers and corridors.",
     "policy_type": "parent",
     "parent_policy_name": null,
-    "section_header": "TRANSPORTATION AND LAND USE — GOAL 1",
+    "section_header": "TRANSPORTATION AND LAND USE",
     "sector": "Transport",
-    "extraction_rationale": "Quantified land use target with multiple strategies listed beneath."
+    "extraction_rationale": "Quantified land-use development siting target with deadline; followed by multiple strategies."
   },
   {
-    "policy_statement": "Adopt Complete Communities plans to reverse historical racist displacement impacts and preserve neighborhoods in communities of color.",
-    "verbatim_text": "## Strategy 1: Plan for complete communities\nAdopt Complete Communities plans that reverse historical and racist impacts on areas experiencing displacement and preserve neighborhoods in communities of color.",
+    "policy_statement": "Adopt Complete Communities plans to reverse historical and racist impacts, address displacement, and preserve neighborhoods in communities of color.",
+    "verbatim_text": "## Strategy 1: Plan for complete communities\n\nAdopt Complete Communities plans that reverse historical and racist impacts on areas experiencing displacement and preserve neighborhoods in communities of color.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION AND LAND USE — GOAL 1",
-    "section_header": "TRANSPORTATION AND LAND USE — GOAL 1",
+    "parent_policy_name": "Locate 80% of new non-residential development within the city's Imagine Austin activity centers and corridors by 2030.",
+    "section_header": "TRANSPORTATION AND LAND USE — Goal: 80% non-residential development in centers/corridors",
     "sector": "Transport",
-    "extraction_rationale": "Specific planning action commitment (adopt plans) with equity purpose."
+    "extraction_rationale": "Specific planning instrument commitment (adopt plans) tied to equity and land use."
   },
   {
-    "policy_statement": "Work with medium and large employers to locate places of business in growth centers and along corridors, including funding anti-displacement measures and providing community amenities in development projects.",
-    "verbatim_text": "## Strategy 2: Work with employers on location and amenities\nWork with medium and large employers to locate their places of business in growth centers and along corridors.\n\n## How we'll get there:\n- Work with local corporations to fund anti-displacement measures...",
+    "policy_statement": "Work with medium and large employers to locate places of business in growth centers and along corridors.",
+    "verbatim_text": "## Strategy 2: Work with employers on location and amenities\n\nWork with medium and large employers to locate their places of business in growth centers and along corridors.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION AND LAND USE — GOAL 1",
-    "section_header": "TRANSPORTATION AND LAND USE — GOAL 1",
+    "parent_policy_name": "Locate 80% of new non-residential development within the city's Imagine Austin activity centers and corridors by 2030.",
+    "section_header": "TRANSPORTATION AND LAND USE — Goal: 80% non-residential development in centers/corridors",
     "sector": "Transport",
-    "extraction_rationale": "Specific intervention engaging employers plus associated measures (anti-displacement, amenities)."
+    "extraction_rationale": "Explicit intervention to influence employer location decisions toward target areas."
   },
   {
-    "policy_statement": "Create community mobility hubs (including park-and-ride) adjacent to transit stops to offer first/last mile options and amenities.",
-    "verbatim_text": "## Strategy 3 : Create mobility hubs\nCreate community mobility hubs, including park-and-ride facilities, adjacent to transit stops to offer a complete trip experience.",
+    "policy_statement": "Create community mobility hubs, including park-and-ride facilities, adjacent to transit stops with first/last-mile options.",
+    "verbatim_text": "## Strategy 3 : Create mobility hubs\n\nCreate community mobility hubs, including park-and-ride facilities, adjacent to transit stops to offer a complete trip experience. These hubs should offer various first- and last-mile mobility options.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION AND LAND USE — GOAL 1",
-    "section_header": "TRANSPORTATION AND LAND USE — GOAL 1",
+    "parent_policy_name": "Locate 80% of new non-residential development within the city's Imagine Austin activity centers and corridors by 2030.",
+    "section_header": "TRANSPORTATION AND LAND USE — Goal: 80% non-residential development in centers/corridors",
     "sector": "Transport",
-    "extraction_rationale": "Specific infrastructure/program intervention."
+    "extraction_rationale": "Concrete infrastructure/program concept to improve multimodal access."
   },
   {
-    "policy_statement": "Phase out free parking for employees at City facilities and other large employers within 1/2 mile of the transit priority network and offer alternatives (cash-out, transit passes, teleworking, etc.), including developing City remote work policies to reduce parking demand.",
-    "verbatim_text": "## Strategy 4: Phase out free parking\nPhase out the practice of providing free parking spaces to employees at City of Austin facilities and other large employers located within 1/2 mile of the Austin Strategic Mobility Plan's transit priority network. Instead, offer a parking cash-out... support for teleworking...\n- The City of Austin should develop more remote work policies...",
+    "policy_statement": "Phase out free employee parking at City facilities and other large employers within 1/2 mile of the transit priority network, replacing it with cash-out, carpool/vanpool, transit passes, telework, or other commuter benefits.",
+    "verbatim_text": "## Strategy 4: Phase out free parking\n\nPhase out the practice of providing free parking spaces to employees at City of Austin facilities and other large employers located within 1/2 mile of the Austin Strategic Mobility Plan's transit priority network. Instead, offer a parking cash-out, carpool and vanpool options, flex schedules, transit passes, support for teleworking, or other commuter benefits programs.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION AND LAND USE — GOAL 1",
-    "section_header": "TRANSPORTATION AND LAND USE — GOAL 1",
+    "parent_policy_name": "Locate 80% of new non-residential development within the city's Imagine Austin activity centers and corridors by 2030.",
+    "section_header": "TRANSPORTATION AND LAND USE — Goal: 80% non-residential development in centers/corridors",
     "sector": "Transport",
-    "extraction_rationale": "Specific policy change (parking benefit removal) with defined alternative measures; amended text adds remote work policy action."
+    "extraction_rationale": "Specific policy change with defined scope and alternative measures."
   },
   {
-    "policy_statement": "Transportation and Land Use: by 2027, preserve and produce 135,000 housing units including 60,000 affordable units, with 75% of new housing within 1/2 mile of activity centers and corridors.",
+    "policy_statement": "Preserve and produce 135,000 housing units (including 60,000 affordable units) by 2027, with 75% of new housing located within 1/2 mile of Imagine Austin activity centers and corridors.",
     "verbatim_text": "By 2027, preserve and produce 135,000 housing units, including 60,000 affordable housing units*, with 75% of new housing located within ½ mile of Imagine Austin activity centers and corridors.",
     "policy_type": "parent",
     "parent_policy_name": null,
-    "section_header": "TRANSPORTATION AND LAND USE — GOAL 2",
-    "sector": "Housing",
-    "extraction_rationale": "Quantified, time-bound housing production/preservation and location target with strategies listed."
+    "section_header": "TRANSPORTATION AND LAND USE",
+    "sector": "Buildings",
+    "extraction_rationale": "Quantified housing production/preservation target with timeframe and location share; followed by strategies."
   },
   {
-    "policy_statement": "Provide immediate affordable housing assistance by engaging displacement-vulnerable communities and monitoring at-risk affordable properties to extend affordability.",
-    "verbatim_text": "## Strategy 1: Offer immediate affordable housing assistance\nEngage directly with communities that are vulnerable to displacement and connect them with services. Proactively monitor affordable housing properties at risk of losing their affordability status to extend the period of affordability.",
+    "policy_statement": "Engage communities vulnerable to displacement for immediate affordable housing assistance and proactively monitor at-risk affordable properties to extend affordability.",
+    "verbatim_text": "## Strategy 1: Offer immediate affordable housing assistance\n\nEngage directly with communities that are vulnerable to displacement and connect them with services. Proactively monitor affordable housing properties at risk of losing their affordability status to extend the period of affordability.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION AND LAND USE — GOAL 2",
-    "section_header": "TRANSPORTATION AND LAND USE — GOAL 2",
-    "sector": "Housing",
-    "extraction_rationale": "Concrete assistance and monitoring actions to preserve affordability."
+    "parent_policy_name": "Preserve and produce 135,000 housing units (including 60,000 affordable units) by 2027, with 75% of new housing located within 1/2 mile of Imagine Austin activity centers and corridors.",
+    "section_header": "TRANSPORTATION AND LAND USE — Goal: 135,000 housing units by 2027",
+    "sector": "Buildings",
+    "extraction_rationale": "Direct programmatic commitment for anti-displacement and affordability preservation."
   },
   {
-    "policy_statement": "Increase funding for the City Housing Trust Fund and expand affordable housing tools (e.g., property acquisition, density bonus expansion, preference policy) to fund affordable housing.",
-    "verbatim_text": "## Strategy 2: Fund affordable housing\nIncrease funding for the City's current Housing Trust Fund...\n\n## How we'll get there:\n- The City may purchase properties...\n- Recalibrate, streamline, and expand density bonus programs...",
+    "policy_statement": "Increase funding for the City's Housing Trust Fund and support capacity building for community development corporations.",
+    "verbatim_text": "## Strategy 2: Fund affordable housing\n\nIncrease funding for the City's current Housing Trust Fund and support capacity building for community development corporations.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION AND LAND USE — GOAL 2",
-    "section_header": "TRANSPORTATION AND LAND USE — GOAL 2",
-    "sector": "Housing",
-    "extraction_rationale": "Resource allocation commitment (increase funding) plus specific mechanisms."
+    "parent_policy_name": "Preserve and produce 135,000 housing units (including 60,000 affordable units) by 2027, with 75% of new housing located within 1/2 mile of Imagine Austin activity centers and corridors.",
+    "section_header": "TRANSPORTATION AND LAND USE — Goal: 135,000 housing units by 2027",
+    "sector": "Buildings",
+    "extraction_rationale": "Resource allocation commitment (increase funding) and institutional capacity building."
   },
   {
-    "policy_statement": "Include impacted communities in Housing Investment Review Committee activities and in creating anti-displacement programs, with culturally relevant outreach for subsidized units in gentrifying areas.",
-    "verbatim_text": "## Strategy 3: Enhance community engagement for affordable housing and antidisplacement programs\nInclude low-income communities, communities of color, and people with disabilities directly affected by systemic inequalities in the City's Housing Investment Review Committee activities and when creating anti-displacement programs.",
+    "policy_statement": "Include impacted low-income communities, communities of color, and people with disabilities in Housing Investment Review Committee activities and in creating anti-displacement programs, and enhance culturally relevant outreach for subsidized affordable units in gentrifying areas.",
+    "verbatim_text": "## Strategy 3: Enhance community engagement for affordable housing and antidisplacement programs\n\nInclude low-income communities, communities of color, and people with disabilities directly affected by systemic inequalities in the City's Housing Investment Review Committee activities and when creating anti-displacement programs.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION AND LAND USE — GOAL 2",
-    "section_header": "TRANSPORTATION AND LAND USE — GOAL 2",
-    "sector": "Housing",
-    "extraction_rationale": "Specific governance/engagement commitment tied to implementation of housing programs."
+    "parent_policy_name": "Preserve and produce 135,000 housing units (including 60,000 affordable units) by 2027, with 75% of new housing located within 1/2 mile of Imagine Austin activity centers and corridors.",
+    "section_header": "TRANSPORTATION AND LAND USE — Goal: 135,000 housing units by 2027",
+    "sector": "Buildings",
+    "extraction_rationale": "Governance/participation mechanism commitment for equitable housing program design and outreach."
   },
   {
-    "policy_statement": "Transportation and Land Use: by 2030, 50% of trips will be by public transit, biking, walking, carpooling, or avoided through working from home.",
+    "policy_statement": "Ensure 50% of trips in Austin are made by public transit, biking, walking, carpooling, or avoided by working from home by 2030.",
     "verbatim_text": "By 2030, 50% of trips in Austin are made using public transit, biking, walking, carpooling, or avoided altogether by working from home*.",
     "policy_type": "parent",
     "parent_policy_name": null,
-    "section_header": "TRANSPORTATION AND LAND USE — GOAL 3",
+    "section_header": "TRANSPORTATION AND LAND USE",
     "sector": "Transport",
-    "extraction_rationale": "Quantified mode-share target with multiple strategies listed beneath."
+    "extraction_rationale": "Quantified mode-shift target with deadline; followed by multiple strategies."
   },
   {
-    "policy_statement": "Work with the Austin Transit Partnership to implement Project Connect and expand/improve public transportation, including needs assessment, expanded paratransit, and anti-displacement measures.",
-    "verbatim_text": "## Strategy 1: Expand and improve public transportation\nWork with the Austin Transit Partnership to implement Project Connect and expand and improve public transportation services.\nHow we'll get there:\n- Conduct a community needs assessment...\n- Expand paratransit...",
+    "policy_statement": "Work with the Austin Transit Partnership to implement Project Connect and expand and improve public transportation services.",
+    "verbatim_text": "## Strategy 1: Expand and improve public transportation\n\nWork with the Austin Transit Partnership to implement Project Connect and expand and improve public transportation services.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION AND LAND USE — GOAL 3",
-    "section_header": "TRANSPORTATION AND LAND USE — GOAL 3",
+    "parent_policy_name": "Ensure 50% of trips in Austin are made by public transit, biking, walking, carpooling, or avoided by working from home by 2030.",
+    "section_header": "TRANSPORTATION AND LAND USE — Goal: 50% mode shift by 2030",
     "sector": "Transport",
-    "extraction_rationale": "Specific implementation commitment tied to a named transit program (Project Connect)."
+    "extraction_rationale": "Specific implementation commitment to deliver transit improvements through Project Connect."
   },
   {
-    "policy_statement": "Expand free transit options through Capital Metro to increase transportation access for low-income communities, communities of color, and people with disabilities.",
-    "verbatim_text": "## Strategy 2: Promote free transportation options\n... Expand free transit options, including through Capital Metro, to provide increased transportation access for low-income communities, communities of color, and people with disabilities.",
+    "policy_statement": "Create comprehensive, user-friendly resources connecting community members with free transportation options and expand free transit options to increase access for low-income communities, communities of color, and people with disabilities.",
+    "verbatim_text": "## Strategy 2: Promote free transportation options\n\nCreate comprehensive, user-friendly resources connecting community members with free transportation options.\n\nHow we'll get there:\n\n- Expand free transit options, including through Capital Metro, to provide increased transportation access for low-income communities, communities of color, and people with disabilities.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION AND LAND USE — GOAL 3",
-    "section_header": "TRANSPORTATION AND LAND USE — GOAL 3",
+    "parent_policy_name": "Ensure 50% of trips in Austin are made by public transit, biking, walking, carpooling, or avoided by working from home by 2030.",
+    "section_header": "TRANSPORTATION AND LAND USE — Goal: 50% mode shift by 2030",
     "sector": "Transport",
-    "extraction_rationale": "Specific intervention (expanding free transit options) with target populations."
+    "extraction_rationale": "Concrete access policy (resources + expanding free transit)."
   },
   {
-    "policy_statement": "Improve transit stops and station access with community engagement and enforce ADA and Public Rights-of-Way Accessibility Guidelines around transit facilities.",
-    "verbatim_text": "## Strategy 3: Enhance transit stations and stops\n... engage ... to improve transit stops, stations, and access...\n- Enforce the Americans with Disabilities Act (ADA) and Public Rights-of-Way Accessibility Guidelines regulations...",
+    "policy_statement": "Engage impacted communities to improve transit stops/stations and enforce ADA and accessibility guidelines around transit and public spaces.",
+    "verbatim_text": "## Strategy 3: Enhance transit stations and stops\n\nPartner with Capital Metro, developers, and community organizers to engage low-income communities, communities of color, and people with disabilities to improve transit stops, stations, and access to these facilities.\n\nHow we'll get there:\n\n- Enforce the Americans with Disabilities Act (ADA) and Public Rights-of-Way Accessibility Guidelines regulations...",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION AND LAND USE — GOAL 3",
-    "section_header": "TRANSPORTATION AND LAND USE — GOAL 3",
+    "parent_policy_name": "Ensure 50% of trips in Austin are made by public transit, biking, walking, carpooling, or avoided by working from home by 2030.",
+    "section_header": "TRANSPORTATION AND LAND USE — Goal: 50% mode shift by 2030",
     "sector": "Transport",
-    "extraction_rationale": "Concrete accessibility/enforcement mechanism and facility improvement action."
+    "extraction_rationale": "Specific implementation and enforcement commitments for equitable, accessible transit facilities."
   },
   {
-    "policy_statement": "Implement Proposition B transportation infrastructure bonds for sidewalks, bikeways, trails, safety projects, safe routes to school, and substandard streets in low-income communities and communities of color.",
-    "verbatim_text": "## Strategy 4: Prioritize bicycle networks\nImplement the 2020 Proposition B voter-approved general obligation bonds for transportation infrastructure, including sidewalks... bikeways, urban trails... in low-income communities and communities of color...",
+    "policy_statement": "Implement 2020 Proposition B bonds for transportation infrastructure (sidewalks, bikeways, trails, safety, safe routes to school, substandard streets) in low-income communities and communities of color through meaningful engagement.",
+    "verbatim_text": "## Strategy 4: Prioritize bicycle networks\n\nImplement the 2020 Proposition B voter-approved general obligation bonds for transportation infrastructure... in low-income communities and communities of color through a meaningful community engagement process.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION AND LAND USE — GOAL 3",
-    "section_header": "TRANSPORTATION AND LAND USE — GOAL 3",
+    "parent_policy_name": "Ensure 50% of trips in Austin are made by public transit, biking, walking, carpooling, or avoided by working from home by 2030.",
+    "section_header": "TRANSPORTATION AND LAND USE — Goal: 50% mode shift by 2030",
     "sector": "Transport",
-    "extraction_rationale": "Explicit implementation of a voter-approved bond program with specified investments and equity targeting."
+    "extraction_rationale": "Concrete infrastructure investment implementation tied to a named funding mechanism (Proposition B)."
   },
   {
-    "policy_statement": "Provide free or reduced-price bicycles and training for communities of color and train police on bicycle laws and racial profiling.",
-    "verbatim_text": "## Strategy 5: Enhance bicycle education and training\nProvide access to free or reduced-priced bicycles and basic bicycle training for communities of color and train police officers on bicycle laws and racial profiling...",
+    "policy_statement": "Provide access to free or reduced-price bicycles and bicycle training for communities of color and train police officers on bicycle laws and racial profiling to improve safety and comfort for riders of color.",
+    "verbatim_text": "## Strategy 5: Enhance bicycle education and training\n\nProvide access to free or reduced-priced bicycles and basic bicycle training for communities of color and train police officers on bicycle laws and racial profiling to improve the comfort and safety of people of color riding bicycles.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION AND LAND USE — GOAL 3",
-    "section_header": "TRANSPORTATION AND LAND USE — GOAL 3",
+    "parent_policy_name": "Ensure 50% of trips in Austin are made by public transit, biking, walking, carpooling, or avoided by working from home by 2030.",
+    "section_header": "TRANSPORTATION AND LAND USE — Goal: 50% mode shift by 2030",
     "sector": "Transport",
-    "extraction_rationale": "Concrete program and training actions with specified beneficiaries."
+    "extraction_rationale": "Specific program/training interventions with equity and safety focus."
   },
   {
-    "policy_statement": "Update Sidewalk and Urban Trails plans emphasizing equity and build priority segments and ADA barrier fixes, including shade/lighting and prioritization of systematically excluded areas.",
-    "verbatim_text": "## Strategy 6: Improve sidewalks, urban trails, and crossings\nUpdate the City's Sidewalk Plan and Urban Trails Plan, emphasizing equity...\n- Build all high- and very-high-priority sidewalk and trail segments and address ADA barriers and gaps...",
+    "policy_statement": "Update the City's Sidewalk Plan and Urban Trails Plan emphasizing equity and meaningful community engagement, and build priority segments while addressing ADA barriers and gaps.",
+    "verbatim_text": "## Strategy 6: Improve sidewalks, urban trails, and crossings\n\nUpdate the City's Sidewalk Plan and Urban Trails Plan, emphasizing equity and meaningful community engagement.\n\nHow we'll get there:\n\n- Build all high- and very-high-priority sidewalk and trail segments and address ADA barriers and gaps...",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION AND LAND USE — GOAL 3",
-    "section_header": "TRANSPORTATION AND LAND USE — GOAL 3",
+    "parent_policy_name": "Ensure 50% of trips in Austin are made by public transit, biking, walking, carpooling, or avoided by working from home by 2030.",
+    "section_header": "TRANSPORTATION AND LAND USE — Goal: 50% mode shift by 2030",
     "sector": "Transport",
-    "extraction_rationale": "Specific planning update and infrastructure build commitments."
+    "extraction_rationale": "Concrete planning update and build-out commitments with accessibility requirements."
   },
   {
-    "policy_statement": "Promote remote/telework and flexible commute policies, including a City telework policy encouraging at least 85% of eligible City employees to telework, to support mode-shift goals.",
-    "verbatim_text": "## Strategy 7: Promote remote and flexible work policies\nActively promote remote work, telework, and flexible commute policies...\nThis should include a strategy to implement a City of Austin telework policy encouraging no less than 85% of eligible City of Austin employees to participate in telework.",
+    "policy_statement": "Actively promote remote work, telework, and flexible commute policies, including a City telework policy encouraging at least 85% of eligible City employees to participate and supporting a goal of 15% residents working from home by 2039.",
+    "verbatim_text": "## Strategy 7: Promote remote and flexible work policies\n\nActively promote remote work, telework, and flexible commute policies to maintain and encourage further reductions in single-occupancy vehicle trips.\n\nHow we'll get there:\n\n- ...all new City of Austin telework and remote work policies contribute towards the goal of achieving 15% Austin residents working from home by 2039. This should include a strategy to implement a City of Austin telework policy encouraging no less than 85% of eligible City of Austin employees to participate in telework.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION AND LAND USE — GOAL 3",
-    "section_header": "TRANSPORTATION AND LAND USE — GOAL 3",
+    "parent_policy_name": "Ensure 50% of trips in Austin are made by public transit, biking, walking, carpooling, or avoided by working from home by 2030.",
+    "section_header": "TRANSPORTATION AND LAND USE — Goal: 50% mode shift by 2030",
     "sector": "Transport",
-    "extraction_rationale": "Specific quantified telework participation commitment tied to travel reduction goals."
+    "extraction_rationale": "Specific policy approach with quantifiable participation targets/timeframe."
   },
   {
-    "policy_statement": "Transportation Electrification: by 2030, electrify 40% of total vehicle miles traveled in Austin and ensure EV ownership is culturally, geographically, and economically diverse (about 460,000 EVs).",
+    "policy_statement": "Electrify 40% of total vehicle miles traveled (VMT) in Austin by 2030 and ensure EV ownership is culturally, geographically, and economically diverse (about 460,000 EVs).",
     "verbatim_text": "By 2030, 40% of total vehicle miles traveled in Austin are electrified, and electric vehicle ownership is culturally, geographically, and economically diverse. This translates to approximately 460,000 electric vehicles on the road.",
     "policy_type": "parent",
     "parent_policy_name": null,
-    "section_header": "TRANSPORTATION ELECTRIFICATION — GOAL 1",
+    "section_header": "TRANSPORTATION ELECTRIFICATION",
     "sector": "Transport",
-    "extraction_rationale": "Quantified, time-bound electrification target plus equity condition; followed by strategies."
+    "extraction_rationale": "Quantified electrification target with timeframe and scale estimate; followed by strategies."
   },
   {
-    "policy_statement": "Complete an EV Community Needs Assessment to inform an EV adoption growth plan, working with community partners and hiring residents to help conduct the assessment.",
-    "verbatim_text": "## Strategy 1: Conduct an EV Community Needs Assessment\nComplete an Electric Vehicle Community Needs Assessment... The assessment will inform an EV adoption growth plan...\n- Hire residents in the communities we aim to serve to help conduct the needs assessment.",
+    "policy_statement": "Complete an Electric Vehicle Community Needs Assessment to inform an EV adoption growth plan, using community partners and hiring residents from the communities served.",
+    "verbatim_text": "## Strategy 1: Conduct an EV Community Needs Assessment\n\nComplete an Electric Vehicle Community Needs Assessment... The assessment will inform an EV adoption growth plan...",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION ELECTRIFICATION — GOAL 1",
-    "section_header": "TRANSPORTATION ELECTRIFICATION — GOAL 1",
+    "parent_policy_name": "Electrify 40% of total vehicle miles traveled (VMT) in Austin by 2030 and ensure EV ownership is culturally, geographically, and economically diverse (about 460,000 EVs).",
+    "section_header": "TRANSPORTATION ELECTRIFICATION — Goal: 40% VMT electrified by 2030",
     "sector": "Transport",
-    "extraction_rationale": "Specific assessment deliverable and implementation approach."
+    "extraction_rationale": "Specific planning/assessment commitment tied to equity and EV adoption."
   },
   {
-    "policy_statement": "Create inclusive incentives for buying or leasing EVs that prioritize low-income communities and communities of color and areas with limited transit access.",
-    "verbatim_text": "## Strategy 2: Create equitable incentives for buying and leasing EVs\n... create inclusive and easily accessible incentives for buying or leasing electric vehicles... prioritize low-income communities and communities of color, and focus on geographic areas with limited or no access to transit.",
+    "policy_statement": "Create inclusive and easily accessible incentives for buying or leasing EVs, prioritizing low-income communities and communities of color and areas with limited transit access.",
+    "verbatim_text": "## Strategy 2: Create equitable incentives for buying and leasing EVs\n\nCollaborate with community partners to create inclusive and easily accessible incentives for buying or leasing electric vehicles. This strategy would... prioritize low-income communities and communities of color...",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION ELECTRIFICATION — GOAL 1",
-    "section_header": "TRANSPORTATION ELECTRIFICATION — GOAL 1",
+    "parent_policy_name": "Electrify 40% of total vehicle miles traveled (VMT) in Austin by 2030 and ensure EV ownership is culturally, geographically, and economically diverse (about 460,000 EVs).",
+    "section_header": "TRANSPORTATION ELECTRIFICATION — Goal: 40% VMT electrified by 2030",
     "sector": "Transport",
-    "extraction_rationale": "Concrete incentive policy targeted to specified populations/areas."
+    "extraction_rationale": "Specific incentive program commitment with equity prioritization."
   },
   {
     "policy_statement": "Partner with mobility authorities to reduce or eliminate toll rates for low-income communities and communities of color who drive EVs on toll roads from the Eastern Crescent to central Austin.",
-    "verbatim_text": "## Strategy 3: Reduce tolls for EVs in the Eastern Crescent\nPartner with highway and regional mobility authorities to offer a reduced or eliminated toll rate for low-income communities and communities of color who drive EVs on toll roads from the Eastern Crescent to central Austin.",
+    "verbatim_text": "## Strategy 3: Reduce tolls for EVs in the Eastern Crescent\n\nPartner with highway and regional mobility authorities to offer a reduced or eliminated toll rate for low-income communities and communities of color who drive EVs on toll roads from the Eastern Crescent to central Austin.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION ELECTRIFICATION — GOAL 1",
-    "section_header": "TRANSPORTATION ELECTRIFICATION — GOAL 1",
+    "parent_policy_name": "Electrify 40% of total vehicle miles traveled (VMT) in Austin by 2030 and ensure EV ownership is culturally, geographically, and economically diverse (about 460,000 EVs).",
+    "section_header": "TRANSPORTATION ELECTRIFICATION — Goal: 40% VMT electrified by 2030",
     "sector": "Transport",
-    "extraction_rationale": "Specific pricing policy intervention with defined geography and beneficiary groups."
+    "extraction_rationale": "Concrete pricing policy intervention targeted by geography and equity groups."
   },
   {
-    "policy_statement": "Create an e-bike and electric car-sharing program centered on low-income communities and communities of color, with an income threshold and displacement actions.",
-    "verbatim_text": "## Strategy 4: Launch an e-bike and electric car-sharing program\nCreate an electric bike and car-sharing program centered on low-income communities and communities of color...\n- Create an income threshold to ensure that low-income residents can access the program and plan specific actions to address displacement.",
+    "policy_statement": "Create an electric bike and car-sharing program centered on low-income communities and communities of color, with income thresholds and actions to address displacement.",
+    "verbatim_text": "## Strategy 4: Launch an e-bike and electric car-sharing program\n\nCreate an electric bike and car-sharing program centered on low-income communities and communities of color to support functional, low-cost, zero-emissions mobility.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION ELECTRIFICATION — GOAL 1",
-    "section_header": "TRANSPORTATION ELECTRIFICATION — GOAL 1",
+    "parent_policy_name": "Electrify 40% of total vehicle miles traveled (VMT) in Austin by 2030 and ensure EV ownership is culturally, geographically, and economically diverse (about 460,000 EVs).",
+    "section_header": "TRANSPORTATION ELECTRIFICATION — Goal: 40% VMT electrified by 2030",
     "sector": "Transport",
-    "extraction_rationale": "Specific shared mobility program commitment with eligibility mechanism."
+    "extraction_rationale": "Specific shared mobility program commitment with equity design features."
   },
   {
-    "policy_statement": "Encourage public sector fleets in the five-county MSA to commit to buying 100% electric vehicles when available, cost-competitive, and operationally suitable, using collaborative purchasing to reduce upfront costs.",
-    "verbatim_text": "## Strategy 5: Electrify public sector fleet vehicles\n... commit to buying 100% electric vehicles when they are available, cost-competitive, and meet operational needs.\nHow we'll get there:\n- Partner with Austin-area public fleets to participate in the Climate Mayors Electric Vehicle Purchasing Collaborative...",
+    "policy_statement": "Encourage public sector fleets in the five-county MSA to commit to buying 100% electric vehicles when available, cost-competitive, and operationally suitable, leveraging purchasing collaboration and considering early retirement of older vehicles.",
+    "verbatim_text": "## Strategy 5: Electrify public sector fleet vehicles\n\nEncourage vehicle fleets from public sector agencies... to commit to buying 100% electric vehicles when they are available, cost-competitive, and meet operational needs.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION ELECTRIFICATION — GOAL 1",
-    "section_header": "TRANSPORTATION ELECTRIFICATION — GOAL 1",
+    "parent_policy_name": "Electrify 40% of total vehicle miles traveled (VMT) in Austin by 2030 and ensure EV ownership is culturally, geographically, and economically diverse (about 460,000 EVs).",
+    "section_header": "TRANSPORTATION ELECTRIFICATION — Goal: 40% VMT electrified by 2030",
     "sector": "Transport",
-    "extraction_rationale": "Concrete fleet procurement commitment with conditions and mechanism."
+    "extraction_rationale": "Fleet procurement commitment framework with conditions and collaboration mechanism."
   },
   {
-    "policy_statement": "Transportation Electrification: by 2030, provide an equitably distributed mix of Level 1, Level 2, and DC fast charging to accommodate 40% of VMT (about 37,000 charging ports; 226 MW load).",
-    "verbatim_text": "By 2030, Austin has a compelling and equitably distributed mix of level 1, 2, and DC fast charging infrastructure to accommodate 40% of total vehicle miles traveled in the city. This translates to 226 megawatts of electrical load and could mean more than 37,000 charging ports.",
+    "policy_statement": "Provide an equitably distributed mix of Level 1, Level 2, and DC fast charging infrastructure sufficient to accommodate 40% of VMT by 2030 (potentially 37,000+ charging ports).",
+    "verbatim_text": "By 2030, Austin has a compelling and equitably distributed mix of level 1, 2, and DC fast charging infrastructure to accommodate 40% of total vehicle miles traveled in the city... could mean more than 37,000 charging ports.",
     "policy_type": "parent",
     "parent_policy_name": null,
-    "section_header": "TRANSPORTATION ELECTRIFICATION — GOAL 2",
+    "section_header": "TRANSPORTATION ELECTRIFICATION",
     "sector": "Transport",
-    "extraction_rationale": "Quantified infrastructure target with deadline and strategies listed."
+    "extraction_rationale": "Time-bound infrastructure scale target; followed by detailed strategies."
   },
   {
-    "policy_statement": "Incentivize installation of EV charging to create a low-cost, reliable network, prioritizing systematically excluded areas and installing charging on publicly owned land where needed.",
-    "verbatim_text": "## Strategy 1: Create a network with more low-cost, accessible charging stations\nContinue to incentivize the installation of EV charging infrastructure...\n- Prioritize areas that have been systematically excluded... Fill in gaps by installing EV charging on publicly owned land...",
+    "policy_statement": "Incentivize installation of EV charging infrastructure by multiple actors and prioritize systematically excluded areas, including installing chargers on publicly owned land to fill gaps.",
+    "verbatim_text": "## Strategy 1: Create a network with more low-cost, accessible charging stations\n\nContinue to incentivize the installation of EV charging infrastructure by the City, businesses, auto manufacturers, and third-party charging companies...\n\n- Prioritize areas that have been systematically excluded... \n- Fill in gaps by installing EV charging on publicly owned land in systematically excluded areas...",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION ELECTRIFICATION — GOAL 2",
-    "section_header": "TRANSPORTATION ELECTRIFICATION — GOAL 2",
+    "parent_policy_name": "Provide an equitably distributed mix of Level 1, Level 2, and DC fast charging infrastructure sufficient to accommodate 40% of VMT by 2030 (potentially 37,000+ charging ports).",
+    "section_header": "TRANSPORTATION ELECTRIFICATION — Goal: Equitably distributed charging by 2030",
     "sector": "Transport",
-    "extraction_rationale": "Specific infrastructure/incentive action with stated equity prioritization."
+    "extraction_rationale": "Concrete infrastructure incentive and siting commitments with equity prioritization."
   },
   {
-    "policy_statement": "Incentivize internet-connected smart charging to support grid reliability, accessibility, and lower costs.",
-    "verbatim_text": "## Strategy 2: Incentivize internet-connected smart charging\nBy 2030, the City will have a network of intelligent charging that supports grid reliability and resilience... Incentivize internet-connected charging infrastructure...",
+    "policy_statement": "Incentivize internet-connected smart charging to support grid reliability, efficiency, reduced emissions, accessibility, and lower costs by 2030.",
+    "verbatim_text": "## Strategy 2: Incentivize internet-connected smart charging\n\nBy 2030, the City will have a network of intelligent charging... Incentivize internet-connected charging infrastructure with the ability to manage the start and end time and charge rate across 24 hours...",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION ELECTRIFICATION — GOAL 2",
-    "section_header": "TRANSPORTATION ELECTRIFICATION — GOAL 2",
+    "parent_policy_name": "Provide an equitably distributed mix of Level 1, Level 2, and DC fast charging infrastructure sufficient to accommodate 40% of VMT by 2030 (potentially 37,000+ charging ports).",
+    "section_header": "TRANSPORTATION ELECTRIFICATION — Goal: Equitably distributed charging by 2030",
     "sector": "Transport",
-    "extraction_rationale": "Concrete incentive action with a stated system objective (smart charging network)."
+    "extraction_rationale": "Specific technology/incentive commitment with deadline (by 2030)."
   },
   {
-    "policy_statement": "Adopt new energy and building codes to address future EV charging needs, including requirements for EV chargers at commercial/multifamily, and EV-ready single-family homes, with mechanisms to offset costs to prevent displacement.",
-    "verbatim_text": "## Strategy 3: Adopt new energy and building codes\nAdopt new energy and building codes that address future EV charging needs...\n- ... requiring EV chargers at commercial and multifamily properties, and requiring single-family homes to be EV charger-ready.\n- Create mechanisms to address the additional costs that drive displacement...",
+    "policy_statement": "Adopt new energy and building codes to address future EV charging needs and lower barriers, including potentially requiring chargers at commercial and multifamily properties and EV-ready single-family homes.",
+    "verbatim_text": "## Strategy 3: Adopt new energy and building codes\n\nAdopt new energy and building codes that address future EV charging needs...\n\nHow we'll get there:\n\n- Consider... requiring EV chargers at commercial and multifamily properties, and requiring single-family homes to be EV charger-ready.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION ELECTRIFICATION — GOAL 2",
-    "section_header": "TRANSPORTATION ELECTRIFICATION — GOAL 2",
+    "parent_policy_name": "Provide an equitably distributed mix of Level 1, Level 2, and DC fast charging infrastructure sufficient to accommodate 40% of VMT by 2030 (potentially 37,000+ charging ports).",
+    "section_header": "TRANSPORTATION ELECTRIFICATION — Goal: Equitably distributed charging by 2030",
     "sector": "Transport",
-    "extraction_rationale": "Regulatory commitment with explicit examples of requirements and equity mitigation."
+    "extraction_rationale": "Explicit regulatory/code-based intervention for EV readiness and charger requirements."
   },
   {
-    "policy_statement": "Expand culturally competent outreach about EV charging incentives and installation to systematically excluded groups via community organizations, unions, and property managers.",
-    "verbatim_text": "## Strategy 4: Expand outreach to systematically excluded groups\nExpand outreach to community groups, professional organizations, unions, and property managers using culturally competent information about EV charging incentives and installation.",
+    "policy_statement": "Expand culturally competent outreach to systematically excluded groups and stakeholders about EV charging incentives and installation.",
+    "verbatim_text": "## Strategy 4: Expand outreach to systematically excluded groups\n\nExpand outreach to community groups, professional organizations, unions, and property managers using culturally competent information about EV charging incentives and installation.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION ELECTRIFICATION — GOAL 2",
-    "section_header": "TRANSPORTATION ELECTRIFICATION — GOAL 2",
+    "parent_policy_name": "Provide an equitably distributed mix of Level 1, Level 2, and DC fast charging infrastructure sufficient to accommodate 40% of VMT by 2030 (potentially 37,000+ charging ports).",
+    "section_header": "TRANSPORTATION ELECTRIFICATION — Goal: Equitably distributed charging by 2030",
     "sector": "Transport",
-    "extraction_rationale": "Specific outreach action tied to implementation of charging deployment."
+    "extraction_rationale": "Specific outreach/communications strategy to increase equitable uptake."
   },
   {
-    "policy_statement": "Transportation Electrification: make the Austin-Round Rock-San Marcos area a leader by adopting electrification policies/technologies that maximize economic and health benefits while supporting industry growth.",
+    "policy_statement": "Make the Austin-Round Rock-San Marcos area a leader in transportation electrification by adopting policies and technologies that maximize economic and health benefits and support industry growth.",
     "verbatim_text": "The Austin-Round Rock-San Marcos area is a leader in transportation electrification by adopting policies and technologies that maximize economic and health benefits while supporting the growth of this emerging industry.",
     "policy_type": "parent",
     "parent_policy_name": null,
-    "section_header": "TRANSPORTATION ELECTRIFICATION — GOAL 3",
+    "section_header": "TRANSPORTATION ELECTRIFICATION",
     "sector": "Transport",
-    "extraction_rationale": "Goal statement introducing multiple strategies beneath it."
+    "extraction_rationale": "Named regional leadership goal accompanied by multiple strategies (regional coalition, pilots, just transition, business ecosystem)."
   },
   {
-    "policy_statement": "The City will lead creation of a regional coalition in the five-county MSA to support EV adoption with government, business, and community stakeholders.",
-    "verbatim_text": "## Strategy 1: Create a regional coalition to support EVs\nThe City will take the lead in creating a regional coalition to support EV adoption within the fivecounty MSA.",
+    "policy_statement": "Create a regional coalition within the five-county MSA to support EV adoption with inclusive government, business, and community stakeholders.",
+    "verbatim_text": "## Strategy 1: Create a regional coalition to support EVs\n\nThe City will take the lead in creating a regional coalition to support EV adoption within the fivecounty MSA.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION ELECTRIFICATION — GOAL 3",
-    "section_header": "TRANSPORTATION ELECTRIFICATION — GOAL 3",
+    "parent_policy_name": "Make the Austin-Round Rock-San Marcos area a leader in transportation electrification by adopting policies and technologies that maximize economic and health benefits and support industry growth.",
+    "section_header": "TRANSPORTATION ELECTRIFICATION — Goal: Regional leadership",
     "sector": "Transport",
-    "extraction_rationale": "Named coalition-building action with identified geography and leadership."
+    "extraction_rationale": "Concrete governance action (City leads creation of coalition)."
   },
   {
-    "policy_statement": "Continue to pilot and early-adopt emerging transportation electrification technologies and ensure low-income communities and communities of color access benefits first, pursuing grants to scale successful pilots.",
-    "verbatim_text": "## Strategy 2: Pilot and adopt new technology\nAustin will continue to pilot and be an early adopter of emerging technologies for transportation electrification and ensure that low-income communities and communities of color can access the benefits first.\nHow we'll get there:\n- Pursue grant funding opportunities...",
+    "policy_statement": "Continue to pilot and be an early adopter of emerging transportation electrification technologies and ensure low-income communities and communities of color access benefits first, including pursuing grants and scaling successful pilots.",
+    "verbatim_text": "## Strategy 2: Pilot and adopt new technology\n\nAustin will continue to pilot and be an early adopter of emerging technologies for transportation electrification and ensure that low-income communities and communities of color can access the benefits first.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION ELECTRIFICATION — GOAL 3",
-    "section_header": "TRANSPORTATION ELECTRIFICATION — GOAL 3",
+    "parent_policy_name": "Make the Austin-Round Rock-San Marcos area a leader in transportation electrification by adopting policies and technologies that maximize economic and health benefits and support industry growth.",
+    "section_header": "TRANSPORTATION ELECTRIFICATION — Goal: Regional leadership",
     "sector": "Transport",
-    "extraction_rationale": "Specific commitment to pilot/adopt technologies with equity prioritization and funding approach."
+    "extraction_rationale": "Explicit commitment to pilots/early adoption with equity-first benefit access."
   },
   {
-    "policy_statement": "Lead a just transition for regional transportation electrification by collaborating with labor/community groups and focusing job training on systematically excluded groups.",
-    "verbatim_text": "## Strategy 3: Prioritize a just transition\nAustin will be a leader in the just transition to an electrified regional transportation system... We will ensure that low-income communities and communities of color are positioned to benefit...",
+    "policy_statement": "Lead a just transition to electrified regional transportation by collaborating with labor, grassroots organizations, and businesses and ensuring low-income communities and communities of color benefit.",
+    "verbatim_text": "## Strategy 3: Prioritize a just transition\n\nAustin will be a leader in the just transition to an electrified regional transportation system... We will ensure that low-income communities and communities of color are positioned to benefit from the switch to electric transportation.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION ELECTRIFICATION — GOAL 3",
-    "section_header": "TRANSPORTATION ELECTRIFICATION — GOAL 3",
+    "parent_policy_name": "Make the Austin-Round Rock-San Marcos area a leader in transportation electrification by adopting policies and technologies that maximize economic and health benefits and support industry growth.",
+    "section_header": "TRANSPORTATION ELECTRIFICATION — Goal: Regional leadership",
     "sector": "Transport",
-    "extraction_rationale": "Concrete just-transition commitment with specified partners and beneficiaries."
+    "extraction_rationale": "Just transition workforce/equity commitment tied to transportation electrification."
   },
   {
-    "policy_statement": "Support development of a Central Texas EV supply-chain business ecosystem and prioritize diverse local ownership and high-paying jobs for low-income communities and communities of color.",
-    "verbatim_text": "## Strategy 4: Expand the EV-related business ecosystem\nCreate a robust electric transportation economic cluster in Central Texas by supporting economic development for new and existing local companies focused on the EV supply chain...\n- Prioritize high-paying jobs for low-income communities and communities of color.",
+    "policy_statement": "Support economic development for new and existing local companies in the EV supply chain to create a robust electric transportation cluster in Central Texas, prioritizing diverse ownership and high-paying jobs for low-income communities and communities of color.",
+    "verbatim_text": "## Strategy 4: Expand the EV-related business ecosystem\n\nCreate a robust electric transportation economic cluster in Central Texas by supporting economic development for new and existing local companies focused on the EV supply chain...\n\n- Prioritize high-paying jobs for low-income communities and communities of color.",
     "policy_type": "sub",
-    "parent_policy_name": "TRANSPORTATION ELECTRIFICATION — GOAL 3",
-    "section_header": "TRANSPORTATION ELECTRIFICATION — GOAL 3",
+    "parent_policy_name": "Make the Austin-Round Rock-San Marcos area a leader in transportation electrification by adopting policies and technologies that maximize economic and health benefits and support industry growth.",
+    "section_header": "TRANSPORTATION ELECTRIFICATION — Goal: Regional leadership",
     "sector": "Transport",
-    "extraction_rationale": "Specific economic development intervention connected to EV transition."
+    "extraction_rationale": "Specific economic development strategy linked to EV ecosystem and equity outcomes."
   },
   {
-    "policy_statement": "Food and Product Consumption: by 2030, ensure all Austinites can access a community-driven food system that addresses food insecurity, prioritizes regenerative agriculture, promotes plant-based foods, and minimizes food waste.",
+    "policy_statement": "Ensure all Austinites can access a community-driven food system that addresses food insecurity, prioritizes regenerative agriculture, supports dietary/health agency, promotes plant-based foods, and minimizes food waste by 2030.",
     "verbatim_text": "By 2030, ensure all Austinites can access a food system that is community-driven, addresses food insecurity, prioritizes regenerative agriculture, supports dietary and health agency, promotes plant-based foods, and minimizes food waste.",
     "policy_type": "parent",
     "parent_policy_name": null,
-    "section_header": "FOOD AND PRODUCT CONSUMPTION — GOAL 1",
-    "sector": "AFOLU/Food",
-    "extraction_rationale": "Time-bound goal with defined system attributes and multiple strategies beneath it."
+    "section_header": "FOOD AND PRODUCT CONSUMPTION",
+    "sector": "AFOLU",
+    "extraction_rationale": "Time-bound system goal with specific features; followed by strategies."
   },
   {
-    "policy_statement": "Apply a purchasing framework and build a regional network to increase institutional and corporate procurement of pro-climate, pro-health food options, including certifications and a purchasing/distribution network.",
-    "verbatim_text": "## Strategy 1: Support institutional food purchasing\nApply a purchasing framework, support supply-chain infrastructure, and build a regional food system network to bolster institutional and corporate food procurement of proclimate, pro-health options.",
+    "policy_statement": "Apply a purchasing framework and build a regional food system network to increase institutional and corporate procurement of pro-climate, pro-health food options.",
+    "verbatim_text": "## Strategy 1: Support institutional food purchasing\n\nApply a purchasing framework, support supply-chain infrastructure, and build a regional food system network to bolster institutional and corporate food procurement of proclimate, pro-health options.",
     "policy_type": "sub",
-    "parent_policy_name": "FOOD AND PRODUCT CONSUMPTION — GOAL 1",
-    "section_header": "FOOD AND PRODUCT CONSUMPTION — GOAL 1",
-    "sector": "AFOLU/Food",
-    "extraction_rationale": "Concrete intervention on institutional procurement and network-building."
+    "parent_policy_name": "Ensure all Austinites can access a community-driven food system that addresses food insecurity, prioritizes regenerative agriculture, supports dietary/health agency, promotes plant-based foods, and minimizes food waste by 2030.",
+    "section_header": "FOOD AND PRODUCT CONSUMPTION — Goal: Equitable food system access",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific institutional procurement and network-building intervention."
   },
   {
-    "policy_statement": "Implement community-driven programs to incentivize and promote affordable, culturally relevant pro-climate, pro-health retail/prepared food options while minimizing displacement.",
-    "verbatim_text": "## Strategy 2: Promote and fund community-driven food retail programs\nImplement community-driven programs to incentivize and promote more affordable and culturally relevant pro-climate, pro-health choices in prepared and retail food options, focusing on minimizing displacement.",
+    "policy_statement": "Implement community-driven programs to incentivize and promote affordable, culturally relevant pro-climate, pro-health food choices in prepared and retail options, focusing on minimizing displacement.",
+    "verbatim_text": "## Strategy 2: Promote and fund community-driven food retail programs\n\nImplement community-driven programs to incentivize and promote more affordable and culturally relevant pro-climate, pro-health choices in prepared and retail food options, focusing on minimizing displacement.",
     "policy_type": "sub",
-    "parent_policy_name": "FOOD AND PRODUCT CONSUMPTION — GOAL 1",
-    "section_header": "FOOD AND PRODUCT CONSUMPTION — GOAL 1",
-    "sector": "AFOLU/Food",
-    "extraction_rationale": "Specific programmatic intervention with clear equity and displacement considerations."
+    "parent_policy_name": "Ensure all Austinites can access a community-driven food system that addresses food insecurity, prioritizes regenerative agriculture, supports dietary/health agency, promotes plant-based foods, and minimizes food waste by 2030.",
+    "section_header": "FOOD AND PRODUCT CONSUMPTION — Goal: Equitable food system access",
+    "sector": "AFOLU",
+    "extraction_rationale": "Concrete program commitment targeting retail/prepared food with equity and displacement lens."
   },
   {
-    "policy_statement": "Develop community-driven tools and incentives to make pro-climate, pro-health food choices affordable and culturally relevant, including education and transparency tools.",
-    "verbatim_text": "## Strategy 3: Incentivize pro-climate, prohealth food choices\nDevelop a variety of community-driven programs and tools to equitably engage and empower ... to make affordable and culturally relevant pro-climate, prohealth food choices.",
+    "policy_statement": "Develop community-driven programs/tools (e.g., labeling, apps, education, incentives) to equitably make pro-climate, pro-health food choices affordable and culturally relevant.",
+    "verbatim_text": "## Strategy 3: Incentivize pro-climate, prohealth food choices\n\nDevelop a variety of community-driven programs and tools to equitably engage and empower... to make affordable and culturally relevant pro-climate, prohealth food choices.",
     "policy_type": "sub",
-    "parent_policy_name": "FOOD AND PRODUCT CONSUMPTION — GOAL 1",
-    "section_header": "FOOD AND PRODUCT CONSUMPTION — GOAL 1",
-    "sector": "AFOLU/Food",
-    "extraction_rationale": "Concrete commitment to develop incentives and tools (programmatic intervention)."
+    "parent_policy_name": "Ensure all Austinites can access a community-driven food system that addresses food insecurity, prioritizes regenerative agriculture, supports dietary/health agency, promotes plant-based foods, and minimizes food waste by 2030.",
+    "section_header": "FOOD AND PRODUCT CONSUMPTION — Goal: Equitable food system access",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific commitment to develop tools and incentives to change food choices equitably."
   },
   {
-    "policy_statement": "Conduct a food waste root cause analysis and implement changes to increase food waste reduction practices by 50% across single-family, multi-family, and commercial properties.",
-    "verbatim_text": "## Strategy 4: Conduct a food waste root cause analysis\nConduct a food waste root cause analysis and implement changes informed by the analysis to increase food waste reduction practices by 50%.",
+    "policy_statement": "Conduct a food waste root cause analysis and implement changes to increase food waste reduction practices by 50%, covering single-family, multifamily, and commercial properties.",
+    "verbatim_text": "## Strategy 4: Conduct a food waste root cause analysis\n\nConduct a food waste root cause analysis and implement changes informed by the analysis to increase food waste reduction practices by 50%. These practices should... include single-family, multi-family, and commercial properties.",
     "policy_type": "sub",
-    "parent_policy_name": "FOOD AND PRODUCT CONSUMPTION — GOAL 1",
-    "section_header": "FOOD AND PRODUCT CONSUMPTION — GOAL 1",
+    "parent_policy_name": "Ensure all Austinites can access a community-driven food system that addresses food insecurity, prioritizes regenerative agriculture, supports dietary/health agency, promotes plant-based foods, and minimizes food waste by 2030.",
+    "section_header": "FOOD AND PRODUCT CONSUMPTION — Goal: Equitable food system access",
     "sector": "Waste",
-    "extraction_rationale": "Specific analysis plus quantified reduction commitment (50%)."
+    "extraction_rationale": "Specific assessment plus quantified reduction action (50%)."
   },
   {
-    "policy_statement": "Food and Product Consumption: by 2030, reduce greenhouse gas emissions from institutional, commercial, and government purchasing by at least 50%.",
+    "policy_statement": "Reduce greenhouse gas emissions from institutional, commercial, and government purchasing by at least 50% by 2030.",
     "verbatim_text": "By 2030, reduce greenhouse gas emissions from institutional, commercial, and government purchasing by at least 50%.",
     "policy_type": "parent",
     "parent_policy_name": null,
-    "section_header": "FOOD AND PRODUCT CONSUMPTION — GOAL 2",
-    "sector": "Cross-sector",
-    "extraction_rationale": "Quantified, time-bound purchasing-emissions reduction goal with strategies listed beneath."
+    "section_header": "FOOD AND PRODUCT CONSUMPTION",
+    "sector": "Industry",
+    "extraction_rationale": "Quantified emissions-reduction target in purchasing with deadline; followed by strategies."
   },
   {
-    "policy_statement": "Develop a methodology to measure lifecycle GHG emissions and other impacts from non-residential purchasing and establish a baseline for tracking progress.",
-    "verbatim_text": "## Strategy 1: Measure institutional lifecycle emissions\nDevelop a methodology to measure lifecycle greenhouse gas emissions ... and identify a baseline for tracking progress.",
+    "policy_statement": "Develop a methodology to measure lifecycle GHG emissions and other impacts from non-residential purchasing and establish a baseline.",
+    "verbatim_text": "## Strategy 1: Measure institutional lifecycle emissions\n\nDevelop a methodology to measure lifecycle greenhouse gas emissions and other environmental and social impacts from non-residential purchasing and identify a baseline for tracking progress.",
     "policy_type": "sub",
-    "parent_policy_name": "FOOD AND PRODUCT CONSUMPTION — GOAL 2",
-    "section_header": "FOOD AND PRODUCT CONSUMPTION — GOAL 2",
-    "sector": "Cross-sector",
-    "extraction_rationale": "Concrete measurement/baseline commitment enabling implementation tracking."
+    "parent_policy_name": "Reduce greenhouse gas emissions from institutional, commercial, and government purchasing by at least 50% by 2030.",
+    "section_header": "FOOD AND PRODUCT CONSUMPTION — Goal: 50% purchasing emissions reduction",
+    "sector": "Industry",
+    "extraction_rationale": "Specific measurement/baseline-building commitment supporting the quantified target."
   },
   {
-    "policy_statement": "Strengthen the City of Austin Sustainable Procurement Program by adopting/developing sustainability guidelines and engaging vendors and departments.",
-    "verbatim_text": "## Strategy 2: Strengthen the City's sustainable purchasing program\nStrengthen the City of Austin's Sustainable Procurement Program to serve as a model for others locally and nationally.",
+    "policy_statement": "Strengthen the City of Austin's Sustainable Procurement Program and adopt/develop sustainability guidelines for high-impact products; educate vendors and staff and integrate procurement with sustainability initiatives.",
+    "verbatim_text": "## Strategy 2: Strengthen the City's sustainable purchasing program\n\nStrengthen the City of Austin's Sustainable Procurement Program to serve as a model for others locally and nationally.",
     "policy_type": "sub",
-    "parent_policy_name": "FOOD AND PRODUCT CONSUMPTION — GOAL 2",
-    "section_header": "FOOD AND PRODUCT CONSUMPTION — GOAL 2",
-    "sector": "Cross-sector",
-    "extraction_rationale": "Specific government procurement program strengthening commitment."
+    "parent_policy_name": "Reduce greenhouse gas emissions from institutional, commercial, and government purchasing by at least 50% by 2030.",
+    "section_header": "FOOD AND PRODUCT CONSUMPTION — Goal: 50% purchasing emissions reduction",
+    "sector": "Industry",
+    "extraction_rationale": "Explicit commitment to strengthen a named City program (sustainable procurement)."
   },
   {
-    "policy_statement": "Recruit at least 50% of local large institutional purchasers (2,500+ employees) and at least 2,500 local organizations to adopt sustainability procurement standards/guidelines, prioritizing historically underutilized businesses and organizations led by people of color.",
-    "verbatim_text": "## Strategy 3: Strengthen non-City institutional purchasing programs\nRecruit at least 50% of local large institutional purchasers (2,500+ employees) and at least 2,500 local organizations of all sizes to collaboratively adopt a set of environmental and social sustainability procurement standards and/or guidelines.",
+    "policy_statement": "Recruit at least 50% of large local institutional purchasers (2,500+ employees) and at least 2,500 local organizations to adopt environmental and social sustainability procurement standards/guidelines, prioritizing historically underutilized and BIPOC-led/employing organizations.",
+    "verbatim_text": "## Strategy 3: Strengthen non-City institutional purchasing programs\n\nRecruit at least 50% of local large institutional purchasers (2,500+ employees) and at least 2,500 local organizations of all sizes to collaboratively adopt a set of environmental and social sustainability procurement standards and/or guidelines.",
     "policy_type": "sub",
-    "parent_policy_name": "FOOD AND PRODUCT CONSUMPTION — GOAL 2",
-    "section_header": "FOOD AND PRODUCT CONSUMPTION — GOAL 2",
-    "sector": "Cross-sector",
-    "extraction_rationale": "Quantified participation targets and a concrete collaborative adoption action."
+    "parent_policy_name": "Reduce greenhouse gas emissions from institutional, commercial, and government purchasing by at least 50% by 2030.",
+    "section_header": "FOOD AND PRODUCT CONSUMPTION — Goal: 50% purchasing emissions reduction",
+    "sector": "Industry",
+    "extraction_rationale": "Quantified recruitment targets and specified procurement standards adoption action."
   },
   {
-    "policy_statement": "Expand the City’s Circular Economy Program to reduce consumption, enable internal reuse/sharing, and provide incubation supports (space/grants/loans/technical assistance) for qualifying circular organizations.",
-    "verbatim_text": "## Strategy 4: Expand the City's Circular Economy Program\nExpand the City of Austin's Circular Economy Program to:\n- Support City departments in reducing consumption...\n- Use available City-owned space and/or leverage partnerships to create rent-subsidized incubation spaces, grants, loans, and technical assistance for qualifying circular organizations.",
+    "policy_statement": "Expand the City's Circular Economy Program to reduce consumption, enable internal reuse/sharing, provide incubation spaces and assistance, and expand youth internships and related entrepreneurship programs.",
+    "verbatim_text": "## Strategy 4: Expand the City's Circular Economy Program\n\nExpand the City of Austin's Circular Economy Program to:\n\n- Support City departments in reducing consumption...\n- Use available City-owned space and/or leverage partnerships to create rent-subsidized incubation spaces, grants, loans, and technical assistance for qualifying circular organizations.",
     "policy_type": "sub",
-    "parent_policy_name": "FOOD AND PRODUCT CONSUMPTION — GOAL 2",
-    "section_header": "FOOD AND PRODUCT CONSUMPTION — GOAL 2",
+    "parent_policy_name": "Reduce greenhouse gas emissions from institutional, commercial, and government purchasing by at least 50% by 2030.",
+    "section_header": "FOOD AND PRODUCT CONSUMPTION — Goal: 50% purchasing emissions reduction",
     "sector": "Waste",
-    "extraction_rationale": "Concrete program expansion with specified tools and resource supports."
+    "extraction_rationale": "Specific program expansion with multiple concrete actions and resource supports."
   },
   {
-    "policy_statement": "Food and Product Consumption/Waste: aggressively pursue waste reduction, organics composting, and recycling to achieve the waste reduction goals in the 2023 Austin Resource Recovery Comprehensive Plan (toward 1 lb disposed per ARR-serviced household per day over time).",
-    "verbatim_text": "Aggressively pursue waste reduction, organics composting, and recycling to achieve the waste reduction goals in the 2023 Austin Resource Recovery Comprehensive Plan*.\n\n*The plan calls for maintaining a community-wide per capita disposal rate of 4 pounds ... and working to achieve 1 pound ... per day over time.",
+    "policy_statement": "Aggressively pursue waste reduction, organics composting, and recycling to achieve the waste reduction goals in the 2023 Austin Resource Recovery Comprehensive Plan.",
+    "verbatim_text": "Aggressively pursue waste reduction, organics composting, and recycling to achieve the waste reduction goals in the 2023 Austin Resource Recovery Comprehensive Plan*.",
     "policy_type": "parent",
     "parent_policy_name": null,
-    "section_header": "FOOD AND PRODUCT CONSUMPTION — GOAL 3",
+    "section_header": "FOOD AND PRODUCT CONSUMPTION",
     "sector": "Waste",
-    "extraction_rationale": "Explicit commitment tied to an adopted plan’s quantified disposal-rate goals and followed by strategies."
+    "extraction_rationale": "Explicit commitment referencing a named plan and actions; followed by multiple strategies."
   },
   {
-    "policy_statement": "Implement consumer awareness campaigns and reuse/repair programs (e.g., Fix-It clinics, reuse directory) to promote waste reduction and reuse.",
-    "verbatim_text": "## Strategy 1: Promote waste reduction and reuse\nImplement consumer awareness campaigns, such as community reuse challenges, promotion and expansion of Fix-It clinics and the Austin Reuse Directory...",
+    "policy_statement": "Implement consumer awareness and education campaigns to promote waste reduction, reuse, repair, and hierarchy-based waste management, targeting low-income communities, youth, and communities of color and delivering in many languages.",
+    "verbatim_text": "## Strategy 1: Promote waste reduction and reuse\n\nImplement consumer awareness campaigns... and educational campaigns that promote the community benefits of reuse and repair.",
     "policy_type": "sub",
-    "parent_policy_name": "FOOD AND PRODUCT CONSUMPTION — GOAL 3",
-    "section_header": "FOOD AND PRODUCT CONSUMPTION — GOAL 3",
+    "parent_policy_name": "Aggressively pursue waste reduction, organics composting, and recycling to achieve the waste reduction goals in the 2023 Austin Resource Recovery Comprehensive Plan.",
+    "section_header": "FOOD AND PRODUCT CONSUMPTION — Goal: Waste reduction/composting/recycling",
     "sector": "Waste",
-    "extraction_rationale": "Specific programmatic actions to reduce waste."
+    "extraction_rationale": "Specific campaign-based intervention with targeting guidance."
   },
   {
-    "policy_statement": "Create equitably distributed Eco-hubs for borrowing, reuse, and repair services, prioritizing guidance from low-income communities and communities of color.",
-    "verbatim_text": "## Strategy 2: Create Eco-hubs\nCreate 'Eco-hubs' that provide equitably distributed in-person neighborhood centers for borrowing, reuse, and repair services.\nHow we'll get there:\n- ... prioritizing guidance from low-income communities and communities of color.",
+    "policy_statement": "Create equitably distributed Eco-hubs as neighborhood centers for borrowing, reuse, and repair services, prioritizing guidance from low-income communities and communities of color and co-locating with community centers.",
+    "verbatim_text": "## Strategy 2: Create Eco-hubs\n\nCreate 'Eco-hubs' that provide equitably distributed in-person neighborhood centers for borrowing, reuse, and repair services.",
     "policy_type": "sub",
-    "parent_policy_name": "FOOD AND PRODUCT CONSUMPTION — GOAL 3",
-    "section_header": "FOOD AND PRODUCT CONSUMPTION — GOAL 3",
+    "parent_policy_name": "Aggressively pursue waste reduction, organics composting, and recycling to achieve the waste reduction goals in the 2023 Austin Resource Recovery Comprehensive Plan.",
+    "section_header": "FOOD AND PRODUCT CONSUMPTION — Goal: Waste reduction/composting/recycling",
     "sector": "Waste",
-    "extraction_rationale": "Concrete infrastructure/service model with explicit equity prioritization."
+    "extraction_rationale": "Concrete new facility/service model commitment with equity distribution."
   },
   {
-    "policy_statement": "Offer a circular economy workforce development program for repair/reuse skills, job placement, and entrepreneurship, prioritizing low-income communities, youth, and communities of color.",
-    "verbatim_text": "## Strategy 3: Create a workforce development program for the circular economy\nOffer a workforce development program that includes training for repair and reuse skills, job placement, and entrepreneurship... Prioritize the needs and strengths of low-income communities, youth, and communities of color.",
+    "policy_statement": "Offer a workforce development program for the circular economy (repair/reuse skills, job placement, entrepreneurship), prioritizing low-income communities, youth, and communities of color and publishing demographic participation data.",
+    "verbatim_text": "## Strategy 3: Create a workforce development program for the circular economy\n\nOffer a workforce development program that includes training for repair and reuse skills, job placement, and entrepreneurship in local circular businesses...",
     "policy_type": "sub",
-    "parent_policy_name": "FOOD AND PRODUCT CONSUMPTION — GOAL 3",
-    "section_header": "FOOD AND PRODUCT CONSUMPTION — GOAL 3",
+    "parent_policy_name": "Aggressively pursue waste reduction, organics composting, and recycling to achieve the waste reduction goals in the 2023 Austin Resource Recovery Comprehensive Plan.",
+    "section_header": "FOOD AND PRODUCT CONSUMPTION — Goal: Waste reduction/composting/recycling",
     "sector": "Waste",
-    "extraction_rationale": "Specific workforce program commitment with defined target groups."
+    "extraction_rationale": "Specific workforce program commitment tied to circular economy goals."
   },
   {
-    "policy_statement": "Offer financial incentives (e.g., point-of-sale rebates or a sales tax holiday) for lower-impact products, repair services, and rentals, developed with low-income communities and communities of color.",
-    "verbatim_text": "## Strategy 4: Offer incentives for products that have lower negative environmental and social impact\nOffer financial incentives, such as point-of-sale rebates or a sales tax holiday...",
+    "policy_statement": "Offer financial incentives (e.g., point-of-sale rebates or sales tax holiday) to encourage consumers to choose lower-impact products, repair services, and rentals, developed with low-income communities and communities of color.",
+    "verbatim_text": "## Strategy 4: Offer incentives for products that have lower negative environmental and social impact\n\nOffer financial incentives, such as point-of-sale rebates or a sales tax holiday, to encourage consumers to choose products, repair services, and rentals with lower negative environmental and social impact...",
     "policy_type": "sub",
-    "parent_policy_name": "FOOD AND PRODUCT CONSUMPTION — GOAL 3",
-    "section_header": "FOOD AND PRODUCT CONSUMPTION — GOAL 3",
+    "parent_policy_name": "Aggressively pursue waste reduction, organics composting, and recycling to achieve the waste reduction goals in the 2023 Austin Resource Recovery Comprehensive Plan.",
+    "section_header": "FOOD AND PRODUCT CONSUMPTION — Goal: Waste reduction/composting/recycling",
     "sector": "Waste",
-    "extraction_rationale": "Explicit financial incentive mechanisms are specified."
+    "extraction_rationale": "Explicit financial incentive mechanisms are stated."
   },
   {
-    "policy_statement": "Review and modify bulky item collection policies/programs to increase resale, repair, or recycling of viable items and replicate supportive reuse programs.",
-    "verbatim_text": "## Strategy 5: Retool the bulk pick-up collection program\nReview and modify policies and programs for the collection of bulky items that result in viable items being resold, repaired, or recycled.",
+    "policy_statement": "Review and modify bulk item collection policies/programs so viable items are resold, repaired, or recycled, including exploring additional reuse opportunities and considering undocumented individuals in informal recycling.",
+    "verbatim_text": "## Strategy 5: Retool the bulk pick-up collection program\n\nReview and modify policies and programs for the collection of bulky items that result in viable items being resold, repaired, or recycled.",
     "policy_type": "sub",
-    "parent_policy_name": "FOOD AND PRODUCT CONSUMPTION — GOAL 3",
-    "section_header": "FOOD AND PRODUCT CONSUMPTION — GOAL 3",
+    "parent_policy_name": "Aggressively pursue waste reduction, organics composting, and recycling to achieve the waste reduction goals in the 2023 Austin Resource Recovery Comprehensive Plan.",
+    "section_header": "FOOD AND PRODUCT CONSUMPTION — Goal: Waste reduction/composting/recycling",
     "sector": "Waste",
-    "extraction_rationale": "Concrete policy/program modification commitment."
+    "extraction_rationale": "Specific policy/program reform commitment for waste diversion."
   },
   {
-    "policy_statement": "Natural Systems: by 2030, legally protect an additional 20,000 acres of carbon pools on natural lands and manage all new and existing natural areas (about 70,000 acres total) focusing on resilience.",
+    "policy_statement": "Legally protect an additional 20,000 acres of carbon pools on natural lands and manage all new and existing natural areas (~70,000 acres total) for resilience by 2030.",
     "verbatim_text": "By 2030, legally protect an additional 20,000 acres of carbon pools on natural lands and manage all new and existing natural areas (approximately 70,000 acres total), focusing on resilience.",
     "policy_type": "parent",
     "parent_policy_name": null,
-    "section_header": "NATURAL SYSTEMS — GOAL 1",
-    "sector": "AFOLU/Natural systems",
-    "extraction_rationale": "Quantified land protection/management target with multiple strategies listed."
+    "section_header": "NATURAL SYSTEMS",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantified land protection/management target with deadline; followed by strategies."
   },
   {
-    "policy_statement": "Identify and legally protect additional natural lands (woodland/grassland/wetland), prioritizing new conservation lands in Travis County Eastern Planning Areas and benefits for low-income communities and communities of color.",
-    "verbatim_text": "## Strategy 1: Protect natural lands\nIdentify additional woodland, grassland, and wetland systems for protection... Legally protect lands through mechanisms such as fee simple acquisition and conservation easements.",
+    "policy_statement": "Identify and legally protect additional natural lands (woodland/grassland/wetland), focusing on conservation in Eastern Planning Areas and prioritizing benefits for low-income communities and communities of color.",
+    "verbatim_text": "## Strategy 1: Protect natural lands\n\nIdentify additional woodland, grassland, and wetland systems for protection, focusing on new conservation lands in the Travis County Eastern Planning Areas while prioritizing benefits for lowincome communities and communities of color.",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 1",
-    "section_header": "NATURAL SYSTEMS — GOAL 1",
-    "sector": "AFOLU/Natural systems",
-    "extraction_rationale": "Specific legal protection mechanisms and prioritization criteria are stated."
+    "parent_policy_name": "Legally protect an additional 20,000 acres of carbon pools on natural lands and manage all new and existing natural areas (~70,000 acres total) for resilience by 2030.",
+    "section_header": "NATURAL SYSTEMS — Goal: Protect 20,000 acres and manage ~70,000 acres",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific land identification and protection mechanisms are described (fee simple acquisition, easements)."
   },
   {
-    "policy_statement": "Actively manage protected natural lands for climate resilience through restoration/management guides and partnerships including traditional ecological knowledge with compensation.",
-    "verbatim_text": "## Strategy 2: Manage natural lands for resilience\nPrepare natural lands for climate change ... through active, intentional, and holistic management.\n- Create, update, and implement restoration and management guides for all protected lands...",
+    "policy_statement": "Actively manage protected natural lands for climate resilience to avoid catastrophic loss of carbon pools through restoration and holistic management practices.",
+    "verbatim_text": "## Strategy 2: Manage natural lands for resilience\n\nPrepare natural lands for climate change and avoid catastrophic loss of carbon pools through active, intentional, and holistic management.",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 1",
-    "section_header": "NATURAL SYSTEMS — GOAL 1",
-    "sector": "AFOLU/Natural systems",
-    "extraction_rationale": "Concrete land management commitments (guides, implementation) for resilience."
+    "parent_policy_name": "Legally protect an additional 20,000 acres of carbon pools on natural lands and manage all new and existing natural areas (~70,000 acres total) for resilience by 2030.",
+    "section_header": "NATURAL SYSTEMS — Goal: Protect 20,000 acres and manage ~70,000 acres",
+    "sector": "AFOLU",
+    "extraction_rationale": "Defines an active management commitment for resilience."
   },
   {
-    "policy_statement": "Increase community access and positive perceptions of natural lands through accessibility/safety measures, community ambassadors/hosts with compensation, inclusive programming/signage, and a goal to ensure all Austinites are within walking distance of a park.",
-    "verbatim_text": "## Strategy 3: Increase community access and positive perceptions of public land\n... Recruiting members of nearby communities to serve as ambassadors or hosts... Compensate these community members...\n- Ensure all Austinites are within walking distance of a park.",
+    "policy_statement": "Increase community access to and positive perceptions of natural lands, including accessibility, safety, community ambassadors/hosts, inclusive signage, and ensuring all Austinites are within walking distance of a park.",
+    "verbatim_text": "## Strategy 3: Increase community access and positive perceptions of public land\n\nEnsure that natural lands are accessible to and perceived positively by the community...\n\n- Ensure all Austinites are within walking distance of a park.",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 1",
-    "section_header": "NATURAL SYSTEMS — GOAL 1",
-    "sector": "AFOLU/Natural systems",
-    "extraction_rationale": "Specific access interventions plus a stated access outcome (walking distance to a park)."
+    "parent_policy_name": "Legally protect an additional 20,000 acres of carbon pools on natural lands and manage all new and existing natural areas (~70,000 acres total) for resilience by 2030.",
+    "section_header": "NATURAL SYSTEMS — Goal: Protect 20,000 acres and manage ~70,000 acres",
+    "sector": "AFOLU",
+    "extraction_rationale": "Concrete access and engagement measures, including a specific access objective regarding parks."
   },
   {
-    "policy_statement": "Protect quantity and quality of source water for municipal supply and environmental flows through land protection, partnerships, green infrastructure, and recharge improvements.",
-    "verbatim_text": "## Strategy 4: Protect water sources\nProtect quantity and quality of source water for municipal supply and regional environmental flows...\nHow we'll get there:\n- ... Improve groundwater recharge through expanding green infrastructure...",
+    "policy_statement": "Protect quantity and quality of source water for municipal supply and environmental flows under climate threats through land protection, partnerships, recharge improvements, and multi-benefit projects prioritizing low-income communities and communities of color.",
+    "verbatim_text": "## Strategy 4: Protect water sources\n\nProtect quantity and quality of source water for municipal supply and regional environmental flows... in the face of climate change-driven threats like heat, drought, flood, and wildfire.",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 1",
-    "section_header": "NATURAL SYSTEMS — GOAL 1",
+    "parent_policy_name": "Legally protect an additional 20,000 acres of carbon pools on natural lands and manage all new and existing natural areas (~70,000 acres total) for resilience by 2030.",
+    "section_header": "NATURAL SYSTEMS — Goal: Protect 20,000 acres and manage ~70,000 acres",
     "sector": "Water",
-    "extraction_rationale": "Specific interventions to protect water sources linked to climate impacts."
+    "extraction_rationale": "Specific protective action for water sources with listed implementation approaches."
   },
   {
-    "policy_statement": "Natural Systems/Farmland: by 2030, protect 500,000 acres of farmland from development in the five-county region through legal protections or regenerative agriculture programs.",
+    "policy_statement": "Protect 500,000 acres of farmland from development in the five-county region through legal protections or regenerative agriculture programs by 2030.",
     "verbatim_text": "By 2030, protect 500,000 acres of farmland from development in the fivecounty region* through legal protections or regenerative agriculture programs.",
     "policy_type": "parent",
     "parent_policy_name": null,
-    "section_header": "NATURAL SYSTEMS — GOAL 2",
-    "sector": "AFOLU/Agriculture",
-    "extraction_rationale": "Quantified, time-bound regional farmland protection goal with multiple strategies."
+    "section_header": "NATURAL SYSTEMS",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantified regional farmland protection target with deadline; followed by strategies."
   },
   {
-    "policy_statement": "Identify and protect prime/significant farmlands in the five-county region from development using conservation tools such as bonds, land trusts, and conservation easements.",
-    "verbatim_text": "## Strategy 1: Protect working lands\nIdentify lands with prime farmland soils... and protect them from development. This can be done through land conservation bonds, agricultural land trusts... Travis County Conservation Easements...",
+    "policy_statement": "Identify prime and significant farmlands in the five-county region and protect them from development through conservation easements, land trusts, bonds, and similar methods.",
+    "verbatim_text": "## Strategy 1: Protect working lands\n\nIdentify lands with prime farmland soils and farmlands of unique and local significance... in the 5-county region and protect them from development.",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 2",
-    "section_header": "NATURAL SYSTEMS — GOAL 2",
-    "sector": "AFOLU/Agriculture",
-    "extraction_rationale": "Concrete legal/protection mechanisms identified."
+    "parent_policy_name": "Protect 500,000 acres of farmland from development in the five-county region through legal protections or regenerative agriculture programs by 2030.",
+    "section_header": "NATURAL SYSTEMS — Goal: Protect 500,000 acres of farmland",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific land identification and protection mechanisms are stated."
   },
   {
-    "policy_statement": "Work with Travis County to reevaluate agricultural tax exemption requirements to encourage regenerative practices and convene tax appraisers regionally.",
-    "verbatim_text": "## Strategy 2: Reform agricultural tax appraisals\n... Work with Travis County to reevaluate and update the requirements for the Agricultural Tax Exemption to encourage regenerative practices...",
+    "policy_statement": "Reevaluate and update Agricultural Tax Exemption requirements to encourage regenerative practices and pursue broader appraiser coordination to address soil loss and desertification drivers.",
+    "verbatim_text": "## Strategy 2: Reform agricultural tax appraisals\n\nAddress issues with local and federal agricultural tax appraisals and exemptions that contribute to desertification and soil loss.",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 2",
-    "section_header": "NATURAL SYSTEMS — GOAL 2",
-    "sector": "AFOLU/Agriculture",
-    "extraction_rationale": "Specific policy reform action related to tax appraisal criteria."
+    "parent_policy_name": "Protect 500,000 acres of farmland from development in the five-county region through legal protections or regenerative agriculture programs by 2030.",
+    "section_header": "NATURAL SYSTEMS — Goal: Protect 500,000 acres of farmland",
+    "sector": "AFOLU",
+    "extraction_rationale": "Policy reform commitment focused on tax appraisal/exemptions to drive regenerative practices."
   },
   {
-    "policy_statement": "Provide direct financial assistance to farmers in the five-county region to implement carbon-related soil programs or regenerative agriculture, specifically for farmers of color (including micro-grants and down payment support).",
-    "verbatim_text": "## Strategy 3: Support farmers through financial assistance\nSupport farmers in the 5-county region ... by providing direct financial assistance, specifically for farmers of color.\nHow we'll get there:\n- Provide City-funded micro-grants...",
+    "policy_statement": "Provide direct financial assistance to farmers in the five-county region to implement carbon-related soil programs or regenerative agriculture, specifically for farmers of color.",
+    "verbatim_text": "## Strategy 3: Support farmers through financial assistance\n\nSupport farmers in the 5-county region who want to implement carbon-related soil programs or regenerative agricultural practices by providing direct financial assistance, specifically for farmers of color.",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 2",
-    "section_header": "NATURAL SYSTEMS — GOAL 2",
-    "sector": "AFOLU/Agriculture",
-    "extraction_rationale": "Explicit resource allocation (financial assistance) with equity targeting."
+    "parent_policy_name": "Protect 500,000 acres of farmland from development in the five-county region through legal protections or regenerative agriculture programs by 2030.",
+    "section_header": "NATURAL SYSTEMS — Goal: Protect 500,000 acres of farmland",
+    "sector": "AFOLU",
+    "extraction_rationale": "Explicit resource allocation to farmers with equity targeting."
   },
   {
-    "policy_statement": "Provide farmers (prioritizing farmers of color) access to land and resources by facilitating associations, mediating land partnerships, and making City/County lands available for agricultural incubators.",
-    "verbatim_text": "## Strategy 4: Provide farmers with resources\nSupport farmers who want to start regenerative agricultural practices by providing access to land and other necessary resources, specifically prioritizing farmers of color.",
+    "policy_statement": "Provide farmers (prioritizing farmers of color) access to land and resources to start regenerative agriculture, including facilitating associations, mediating land partnerships, and making public lands available for incubators.",
+    "verbatim_text": "## Strategy 4: Provide farmers with resources\n\nSupport farmers who want to start regenerative agricultural practices by providing access to land and other necessary resources, specifically prioritizing farmers of color.",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 2",
-    "section_header": "NATURAL SYSTEMS — GOAL 2",
-    "sector": "AFOLU/Agriculture",
-    "extraction_rationale": "Concrete support mechanisms for land/resource access with an explicit priority group."
+    "parent_policy_name": "Protect 500,000 acres of farmland from development in the five-county region through legal protections or regenerative agriculture programs by 2030.",
+    "section_header": "NATURAL SYSTEMS — Goal: Protect 500,000 acres of farmland",
+    "sector": "AFOLU",
+    "extraction_rationale": "Concrete support mechanisms for regenerative agriculture adoption with specified tools."
   },
   {
-    "policy_statement": "Expand compost use from local composting programs, including providing free compost to farmers in regenerative/carbon soil programs and requiring local compost on City project sites.",
-    "verbatim_text": "## Strategy 5: Expand composting\nExpand the use of compost generated by local composting programs.\nHow we'll get there:\n- Provide free compost to farmers participating in carbon-related soil programs...\n- ... require the use of local compost on project sites.",
+    "policy_statement": "Expand the use of compost generated by local composting programs, including providing free compost to farmers in carbon-related soil programs and requiring local compost use on City project sites.",
+    "verbatim_text": "## Strategy 5: Expand composting\n\nExpand the use of compost generated by local composting programs.\n\nHow we'll get there:\n\n- Provide free compost to farmers participating in carbon-related soil programs...\n- Work with City departments... to require the use of local compost on project sites.",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 2",
-    "section_header": "NATURAL SYSTEMS — GOAL 2",
-    "sector": "Waste",
-    "extraction_rationale": "Specific compost expansion actions including a City requirement on projects."
+    "parent_policy_name": "Protect 500,000 acres of farmland from development in the five-county region through legal protections or regenerative agriculture programs by 2030.",
+    "section_header": "NATURAL SYSTEMS — Goal: Protect 500,000 acres of farmland",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific composting expansion actions including City procurement/requirements and farmer support."
   },
   {
-    "policy_statement": "Create and support agriculture jobs creation and youth programs, especially for aspiring farmers of color, and integrate sustainable agriculture into secondary/high school programs.",
-    "verbatim_text": "## Strategy 6: Strengthen workforce development for farmers\n... create and support agriculture-specific jobs creation programs and working lands-specific youth programs - especially for aspiring farmers of color.\n... Integrate sustainable agriculture into secondary and high school programs...",
+    "policy_statement": "Create and support agriculture-specific job creation and youth programs for aspiring farmers of color to strengthen workforce development in regenerative agriculture.",
+    "verbatim_text": "## Strategy 6: Strengthen workforce development for farmers\n\nEncourage a fundamental change in the next generation of farmers by creating and supporting agriculture-specific jobs creation programs and working lands-specific youth programs - especially for aspiring farmers of color.",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 2",
-    "section_header": "NATURAL SYSTEMS — GOAL 2",
-    "sector": "AFOLU/Agriculture",
-    "extraction_rationale": "Specific workforce/youth education program commitments with equity focus."
+    "parent_policy_name": "Protect 500,000 acres of farmland from development in the five-county region through legal protections or regenerative agriculture programs by 2030.",
+    "section_header": "NATURAL SYSTEMS — Goal: Protect 500,000 acres of farmland",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific workforce/youth pipeline commitment tied to regenerative agriculture and equity."
   },
   {
-    "policy_statement": "Natural Systems/Trees: achieve at least 50% citywide tree canopy cover by 2050, focusing on equitable canopy increases.",
+    "policy_statement": "Achieve at least 50% citywide tree canopy cover by 2050, focusing on increasing canopy cover equitably.",
     "verbatim_text": "Achieve at least 50% citywide tree canopy cover by 2050, focusing on increasing canopy cover equitably.",
     "policy_type": "parent",
     "parent_policy_name": null,
-    "section_header": "NATURAL SYSTEMS — GOAL 3",
-    "sector": "AFOLU/Forestry",
-    "extraction_rationale": "Quantified, time-bound canopy target with multiple implementation strategies."
+    "section_header": "NATURAL SYSTEMS",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantified long-term canopy target with equity focus; followed by strategies."
   },
   {
-    "policy_statement": "Adopt a 'no net loss' policy for tree canopy on public lands, including canopy targets by land type and replacement/mitigation for removals.",
-    "verbatim_text": "## Strategy 1: Protect canopy cover on City lands\nAdopt a 'no net loss' policy for tree canopy on public lands.",
+    "policy_statement": "Adopt a 'no net loss' policy for tree canopy on public lands, including canopy targets by land type and replacement requirements for removals.",
+    "verbatim_text": "## Strategy 1: Protect canopy cover on City lands\n\nAdopt a 'no net loss' policy for tree canopy on public lands.",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 3",
-    "section_header": "NATURAL SYSTEMS — GOAL 3",
-    "sector": "AFOLU/Forestry",
-    "extraction_rationale": "Explicit policy adoption commitment ('no net loss')."
+    "parent_policy_name": "Achieve at least 50% citywide tree canopy cover by 2050, focusing on increasing canopy cover equitably.",
+    "section_header": "NATURAL SYSTEMS — Goal: 50% tree canopy by 2050",
+    "sector": "AFOLU",
+    "extraction_rationale": "Explicit policy adoption commitment ('no net loss') with implementation steps."
   },
   {
-    "policy_statement": "Promote no net loss of tree canopy in private development by expanding tree protections/landscape regulations (including ETJ) and strengthening enforcement and soil/tree health requirements.",
-    "verbatim_text": "## Strategy 2: Promote tree protections and landscape regulations\nPromote no net loss of tree canopy on private developments by increasing tree protections and landscape regulation...",
+    "policy_statement": "Promote no net loss of tree canopy on private developments by increasing tree protections and landscape regulations and/or creating incentives, including extending protections to extraterritorial jurisdiction.",
+    "verbatim_text": "## Strategy 2: Promote tree protections and landscape regulations\n\nPromote no net loss of tree canopy on private developments by increasing tree protections and landscape regulation or working with developers and homeowner's associations to create incentives.",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 3",
-    "section_header": "NATURAL SYSTEMS — GOAL 3",
-    "sector": "AFOLU/Forestry",
-    "extraction_rationale": "Specific regulatory approach to private development canopy outcomes."
+    "parent_policy_name": "Achieve at least 50% citywide tree canopy cover by 2050, focusing on increasing canopy cover equitably.",
+    "section_header": "NATURAL SYSTEMS — Goal: 50% tree canopy by 2050",
+    "sector": "AFOLU",
+    "extraction_rationale": "Regulatory/incentive approach to private development tree canopy protections."
   },
   {
-    "policy_statement": "Increase City funding for community tree-planting programs focused on low-income communities and communities of color, including grants and targeted planting along transit routes/stops.",
-    "verbatim_text": "## Strategy 3: Increase community tree planting\nIncrease City funding for community tree-planting programs focused on low-income communities and communities of color.",
+    "policy_statement": "Increase City funding for community tree-planting programs focused on low-income communities and communities of color.",
+    "verbatim_text": "## Strategy 3: Increase community tree planting\n\nIncrease City funding for community tree-planting programs focused on low-income communities and communities of color.",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 3",
-    "section_header": "NATURAL SYSTEMS — GOAL 3",
-    "sector": "AFOLU/Forestry",
-    "extraction_rationale": "Explicit commitment to increase City funding with equity targeting."
+    "parent_policy_name": "Achieve at least 50% citywide tree canopy cover by 2050, focusing on increasing canopy cover equitably.",
+    "section_header": "NATURAL SYSTEMS — Goal: 50% tree canopy by 2050",
+    "sector": "AFOLU",
+    "extraction_rationale": "Direct resource allocation commitment (increase City funding) targeted to equity populations."
   },
   {
-    "policy_statement": "Provide City technical and financial assistance for tree planting and care for residents and small businesses in low-income communities and communities of color (e.g., tree concierge, grants, adding tree care to Minor Home Repair Grants).",
-    "verbatim_text": "## Strategy 4: Promote tree health and resilience on private and non-City public lands\n... Provide City technical and financial assistance for tree planting and care for residents and small businesses in low-income communities and communities of color...",
+    "policy_statement": "Create a tree, water, and soil management/resilience guide for private property and provide City technical and financial assistance for tree planting/care for residents and small businesses in low-income communities and communities of color.",
+    "verbatim_text": "## Strategy 4: Promote tree health and resilience on private and non-City public lands\n\nCreate a tree, water and soil management, and resilience guide for various types of private property. Provide City technical and financial assistance for tree planting and care for residents and small businesses in low-income communities and communities of color...",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 3",
-    "section_header": "NATURAL SYSTEMS — GOAL 3",
-    "sector": "AFOLU/Forestry",
-    "extraction_rationale": "Specific assistance mechanisms and target groups are stated."
+    "parent_policy_name": "Achieve at least 50% citywide tree canopy cover by 2050, focusing on increasing canopy cover equitably.",
+    "section_header": "NATURAL SYSTEMS — Goal: 50% tree canopy by 2050",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific guidance plus assistance commitments targeting equity groups."
   },
   {
-    "policy_statement": "Natural Systems/City lands: by 2030, include all City-owned lands under a management plan resulting in neutral or negative carbon emissions and maximizing community co-benefits.",
+    "policy_statement": "Include all City-owned lands under a management plan that results in neutral or negative carbon emissions and maximizes community co-benefits by 2030.",
     "verbatim_text": "By 2030, include all City-owned lands under a management plan that results in neutral or negative carbon emissions and maximizes community co-benefits.",
     "policy_type": "parent",
     "parent_policy_name": null,
-    "section_header": "NATURAL SYSTEMS — GOAL 4",
-    "sector": "AFOLU/Natural systems",
-    "extraction_rationale": "Time-bound management plan commitment with multiple strategies listed beneath."
+    "section_header": "NATURAL SYSTEMS",
+    "sector": "AFOLU",
+    "extraction_rationale": "Time-bound City land management requirement with emissions outcome (neutral/negative); followed by strategies."
   },
   {
-    "policy_statement": "Prioritize carbon neutrality and community benefits in public land acquisition and management, including completing a land management database and using low/negative-carbon practices.",
-    "verbatim_text": "## Strategy 1: Prioritize carbon neutrality for public lands\nPrioritize carbon neutrality and community benefits in land acquisition and management practices for public lands.\nHow we'll get there:\n- Complete the City land ownership and management plan database.",
+    "policy_statement": "Prioritize carbon neutrality and community benefits in public land acquisition and management, including completing land management database and using carbon-negative/low-carbon practices.",
+    "verbatim_text": "## Strategy 1: Prioritize carbon neutrality for public lands\n\nPrioritize carbon neutrality and community benefits in land acquisition and management practices for public lands.",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 4",
-    "section_header": "NATURAL SYSTEMS — GOAL 4",
-    "sector": "AFOLU/Natural systems",
-    "extraction_rationale": "Concrete land management planning and practice commitments."
+    "parent_policy_name": "Include all City-owned lands under a management plan that results in neutral or negative carbon emissions and maximizes community co-benefits by 2030.",
+    "section_header": "NATURAL SYSTEMS — Goal: City-owned lands neutral/negative emissions management plans",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific management and acquisition prioritization commitment."
   },
   {
-    "policy_statement": "Reclaim underused public spaces to increase access and ecological function via green infrastructure, including studying conversion of City surface parking lots to green uses where feasible.",
-    "verbatim_text": "## Strategy 2: Reclaim public space and prioritize green infrastructure\nIdentify and reclaim mono-use, underused, and unconventional public spaces...\nA study should be conducted to examine the use of surface-level parking lots on City property to develop a plan to convert an ambitious percentage of these to functional green uses when feasible.",
+    "policy_statement": "Reclaim underused public spaces to increase access and ecological function through green infrastructure, and conduct a study to convert an ambitious percentage of City surface parking lots to functional green uses where feasible.",
+    "verbatim_text": "## Strategy 2: Reclaim public space and prioritize green infrastructure\n\nIdentify and reclaim mono-use, underused, and unconventional public spaces... with a focus on green infrastructure.\n\n...A study should be conducted to examine the use of surface-level parking lots on City property to develop a plan to convert an ambitious percentage of these to functional green uses when feasible.",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 4",
-    "section_header": "NATURAL SYSTEMS — GOAL 4",
-    "sector": "AFOLU/Natural systems",
-    "extraction_rationale": "Specific land conversion and study commitment to enable implementation."
+    "parent_policy_name": "Include all City-owned lands under a management plan that results in neutral or negative carbon emissions and maximizes community co-benefits by 2030.",
+    "section_header": "NATURAL SYSTEMS — Goal: City-owned lands neutral/negative emissions management plans",
+    "sector": "AFOLU",
+    "extraction_rationale": "Concrete land-use/green infrastructure actions including a specified study and conversion planning."
   },
   {
-    "policy_statement": "Establish Neighborhood Stewardship Councils/Ambassadors with paid training and compensation to support community stewardship and maintenance of public lands, and create a Parks and Recreation Grant Assistance Program (initial annual funding at least $500,000).",
-    "verbatim_text": "## Strategy 3: Promote community stewardship\n... The City should provide paid training and opportunities for community members or groups to serve as Stewardship Ambassadors...\n- Create a Parks and Recreation Department Grant Assistance Program ... Seek initial annual funding of at least $500,000.",
+    "policy_statement": "Promote community stewardship of neighborhood public lands by establishing Neighborhood Stewardship Councils/Ambassadors, providing paid training/compensation, and creating grant assistance and staff positions to support excluded communities.",
+    "verbatim_text": "## Strategy 3: Promote community stewardship\n\nPromote community stewardship and management of neighborhood public lands to ensure higher levels of care and maintenance.\n\nHow we'll get there:\n\n- Establish Neighborhood Stewardship Councils or Ambassadors...",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 4",
-    "section_header": "NATURAL SYSTEMS — GOAL 4",
-    "sector": "AFOLU/Natural systems",
-    "extraction_rationale": "Concrete program creation with explicit funding amount and paid roles."
+    "parent_policy_name": "Include all City-owned lands under a management plan that results in neutral or negative carbon emissions and maximizes community co-benefits by 2030.",
+    "section_header": "NATURAL SYSTEMS — Goal: City-owned lands neutral/negative emissions management plans",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific governance/program design including paid roles and funding support mechanisms."
   },
   {
-    "policy_statement": "Explore carbon farming practices for food forests and community gardens on public lands, with City oversight/technical assistance and support for research partnerships.",
-    "verbatim_text": "## Strategy 4: Promote carbon farming\nExplore the ability of food forests and community gardens on public lands to use low-carbon and carbon farming practices.\nHow we'll get there:\n- Support local research on carbon farming practices...",
+    "policy_statement": "Explore carbon farming via food forests and community gardens on public lands using low-carbon practices, including supporting local research in partnership with institutions and organizations serving low-income communities and communities of color.",
+    "verbatim_text": "## Strategy 4: Promote carbon farming\n\nExplore the ability of food forests and community gardens on public lands to use low-carbon and carbon farming practices.",
     "policy_type": "sub",
-    "parent_policy_name": "NATURAL SYSTEMS — GOAL 4",
-    "section_header": "NATURAL SYSTEMS — GOAL 4",
-    "sector": "AFOLU/Agriculture",
-    "extraction_rationale": "Specific exploration/research support and operational support commitments."
+    "parent_policy_name": "Include all City-owned lands under a management plan that results in neutral or negative carbon emissions and maximizes community co-benefits by 2030.",
+    "section_header": "NATURAL SYSTEMS — Goal: City-owned lands neutral/negative emissions management plans",
+    "sector": "AFOLU",
+    "extraction_rationale": "Explicit commitment to explore and support carbon farming practices on public lands."
+  },
+  {
+    "policy_statement": "Austin City Council (Feb. 15, 2024) passed a resolution updating the Austin Climate Equity Plan to add telework/remote work policy content and to update the plan’s per-capita waste disposal goal language to align with the 2023 Austin Resource Recovery Comprehensive Plan.",
+    "verbatim_text": "On February 15, 2024, the Austin City Council passed a resolution updating this plan to include telework policies and the per capita waste disposal goal passed in the 2023 Austin Resource Recovery Comprehensive Plan. The plan amendments include:\n\n- Page 59 : Transportation and Land Use, Goal 1, Strategy 4 . Under the header 'How we'll get there,' the following language was added:\n- o Ensure all City policies for reduced parking, remote work, and telecommuting align with the goals of the Imagine Austin Comprehensive Plan and establish Austin as a leader for workplace and environmental policies to reduce single-occupancy vehicle trips.\n- o The City of Austin should develop more remote work policies through a collaborative, all-employee process to develop clear goals and measured outcomes to reduce parking demand at City facilities. In developing City policies, Austin should build on the successful Travis County telework policy.\n- Page 63 : Transportation and Land Use, Goal 3 . A new strategy was added with the following language:\n- o Strategy 7: Promote remote and flexible work policies",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "On February 15, 2024, the Austin City Council passed a resolution updating this plan...",
+    "sector": "Transport",
+    "extraction_rationale": "This is an explicit legislative action (City Council resolution) that updates the plan by adding specific policy content (telework/remote work policies) and revising waste-goal language; it is a concrete, document-supported commitment rather than background or process description."
   }
 ]

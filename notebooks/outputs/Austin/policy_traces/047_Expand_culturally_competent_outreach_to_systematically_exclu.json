@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Expand culturally competent outreach to systematically excluded groups and stakeholders about EV charging incentives and installation.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "ev_charging_outreach_program → ev_adoption_enabling",
+  "mechanism_description": "Culturally competent outreach increases awareness and utilization of EV charging incentives and installation pathways, leading to more charging deployment and enabling higher EV adoption.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Information/engagement intervention → ↑ charging access + ↑ EV adoption → ↓ ICE vehicle miles / ↓ fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: The city (or partners) conducts culturally competent outreach to residents, property managers, unions, and community organizations about EV charging incentives, installation steps, and available programs, increasing participation and follow-through.  \n2) Mediating physical process: Increased charging deployment and use reduces “range/charging anxiety” and other adoption frictions, shifting vehicle purchases and use from internal combustion to electric drivetrains; this changes the energy carrier for mobility from liquid fuels to electricity.  \n3) Climate-relevant outcome: Reduced tailpipe CO₂ (and upstream fossil fuel emissions) per mile traveled, yielding lower lifecycle GHG emissions from the light-duty transport sector relative to a counterfactual with slower EV uptake.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is enabling higher EV adoption, which reduces gasoline/diesel combustion and thus lowers net transportation greenhouse gas emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Outreach → more charging deployment/use and fewer adoption barriers → higher EV adoption → less ICE fuel combustion → lower GHG emissions.  \n2) Why this primary over alternatives: Although the outreach is equity-focused, the mechanism’s direct climate-relevant lever is accelerating the transition to electric vehicles (a decarbonization/mitigation pathway), not reducing exposure to climate hazards (adaptation) or improving ecosystem function (nature-based) or primarily reducing resource use regardless of fuel (resource efficiency).  \n3) Inherent causal chain for each secondary: None—equity or access benefits may occur, but they are not one of the allowed secondary categories and are not guaranteed to produce adaptation/resource-efficiency/nature-based outcomes in every instance.  \n4) Edge cases applied: If electricity is very carbon-intensive, near-term GHG reductions could be smaller, but EVs typically still reduce emissions versus ICE over time as grids decarbonize; the mechanism intent and main expected effect remain mitigation.  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism (EV charging outreach to increase uptake) is fundamentally aimed at enabling EV adoption, whose primary climate impact is emissions reduction from transport.",
+  "mechanism_confidence": 0.84,
+  "mechanism_edge_case_notes": "Effect size depends on grid emissions intensity, rebound effects (more VMT), and whether outreach translates into actual charging installations and EV purchases; nonetheless the dominant intended pathway across instances remains transportation emissions mitigation.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "information-disclosure",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "“Expand outreach”; “culturally competent information”; “community groups, professional organizations, unions, and property managers”; “EV charging incentives and installation”",
+  "co_benefits": "Potential equity and access benefits (improved participation of systematically excluded groups), potential local air quality improvements from accelerated EV adoption; not framed as directly reducing Austin’s specific hazard exposure/sensitivity.",
+  "instance_edge_case_notes": "Classified as information-disclosure/enabling because the text specifies outreach and information rather than providing funds, mandates, or infrastructure buildout itself; mitigation effect is mediated through adoption rather than immediate emissions cuts."
+}

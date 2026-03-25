@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Homelessness: continue and enhance coordinated prevention, diversion, and regional measures to reduce the total unsheltered homeless population by 50% and achieve functional zero homelessness in 2050.",
+  "role": "parent",
+  "sector": "governance",
+  "canonical_mechanism": "no_direct_climate_mechanism → not_applicable",
+  "mechanism_description": "Coordinated homelessness prevention and diversion reduces unsheltered homelessness, but the text does not specify any direct climate effect or causal link to mitigation/adaptation outcomes.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Policy/service change → (no specified climate-relevant physical process) → not_applicable",
+  "causal_mechanism_detail": "(1) Changes the delivery/coordination of homelessness prevention, diversion, and regional support services to reduce unsheltered homelessness. (2) No physical/ecological process linking the action to emissions, energy/water/material flows, hazard exposure, or ecosystem function is specified. (3) Therefore no attributable climate-relevant outcome can be assigned from the mechanism as stated.",
+  "dominant_pathway_test": "There is no single biggest climate-relevant effect because policies in this mechanism, as defined, do not specify any direct climate impact pathway.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: none is provided or inferable within the mechanism definition (“no_direct_climate_mechanism → not_applicable”).  \n2) Why this primary over alternatives: Mitigation/Resource Efficiency/Nature-Based Solutions require an emissions/efficiency/ecosystem pathway; Adaptation requires an explicit reduction in climate hazard exposure/sensitivity or increased coping capacity—none is specified here. However, given the required single-label schema, the closest bucket for non-mitigation, non-resource, non-NBS social resilience measures is Adaptation, while preserving “not_applicable” in the pathway description.  \n3) Inherent causal chain for each secondary: none—no unavoidable co-effects are guaranteed across all instances.  \n4) Edge cases applied: homelessness policies can be adaptation-relevant if they explicitly address extreme heat/smoke shelters, climate displacement, or resilience for vulnerable populations; this instance does not.  \n5) Confirm labels apply to ALL instances: because the mechanism is defined as having no direct climate mechanism, no secondary categories can be inherently assigned; the “Adaptation” primary label here functions as a schema placeholder rather than a claimed impact.",
+  "mechanism_confidence": 0.74,
+  "mechanism_edge_case_notes": "If a homelessness policy explicitly includes heat-response shelters, cooling access, disaster evacuation support, or climate-risk reduction for unsheltered populations, it would shift to an Adaptation mechanism with a clear hazard/exposure pathway; otherwise it remains not_applicable for climate impact.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "peripheral",
+  "key_indicators": "“continue and enhance coordinated provision”; “prevention and diversion measures”; “regional stakeholders”; “reduce the total unsheltered homeless population by 50%”; “functional zero homelessness in 2050”",
+  "co_benefits": "Potential reduced heat exposure for unsheltered residents during extreme heat events; improved public health and emergency response outcomes.",
+  "instance_edge_case_notes": "Homelessness reduction can be adaptation-relevant in extreme heat contexts like Las Vegas, but the mechanism as written is a general social services/coordination target without explicit linkage to hazard exposure (heat, flooding, dust), so adding a climate hazard secondary would be speculative."
+}

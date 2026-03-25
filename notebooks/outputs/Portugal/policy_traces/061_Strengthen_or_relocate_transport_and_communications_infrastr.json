@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Strengthen or relocate transport and communications infrastructures located in coastal areas and install/reinforce appropriate signage.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "coastal_infrastructure_hardening_or_relocation → infrastructure_resilience_and_service_continuity",
+  "mechanism_description": "Strengthening or relocating coastal transport/communications assets and improving signage reduces climate-related damage and disruptions, improving resilience and continuity of service during coastal hazards.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Coastal flooding & erosion risk reduction",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (coastal flooding/erosion/overtopping) → hardening/relocation reduces exposure & vulnerability → ↓ asset damage + ↑ service continuity",
+  "causal_mechanism_detail": "(1) Change: Upgrade (“harden”) coastal transport/communications assets, relocate them away from high-risk الساحline zones (planned retreat), and add/reinforce hazard signage/wayfinding for safer operation during events.  \n(2) Mediating process: Physical protection and/or removal from inundation/erosion zones reduces probability of failure (structural damage, washouts, corrosion, undermining), while signage supports safer routing/operations during hazardous conditions.  \n(3) Climate-relevant outcome: Lower climate-related losses and faster recovery, with improved reliability of mobility and communications during and after coastal hazard events.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced disruption and damage to critical infrastructure/services during coastal flooding/erosion hazards.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: addresses climate hazards (sea-level rise, storm surge, coastal flooding/erosion) by reducing exposure/vulnerability of infrastructure, yielding resilience/service continuity.  \n2) Why this primary over alternatives: the main intended and direct climate effect is not emissions reduction or efficiency; it is preventing hazard-driven failure and maintaining function—core adaptation.  \n3) Inherent causal chain for each secondary: None—mitigation/resource-efficiency/nature-based effects are not physically unavoidable; any emissions or efficiency changes depend on project specifics (materials, traffic patterns) and are not intrinsic to the mechanism.  \n4) Edge cases applied: even when hardening uses carbon-intensive materials, that is an implementation detail rather than the mechanism’s dominant climate effect; similarly, relocation could change travel demand but is not guaranteed.  \n5) Confirm labels apply to ALL instances: any policy that hardens or relocates coastal infrastructure to withstand coastal hazards primarily functions as adaptation via reduced risk and improved continuity.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Some implementations can have notable embodied-carbon impacts (hard defenses) or co-benefits/harms for coastal ecosystems; however, these are not inherent to all instances of the mechanism, so they are not assigned as secondary categories.",
+  "additional_secondary_evidence": "Coastal flooding & erosion risk reduction: Portugal faces coastal erosion and flooding, and strengthening/relocating coastal transport and communications infrastructure directly reduces exposure/sensitivity because assets are hardened against wave action/inundation and/or moved out of erosion/inundation zones, lowering damage and service disruption.",
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“transport and communication infrastructures located in coastal areas”; “strengthening, relocation”; “Installation and reinforcement of appropriate signage”",
+  "co_benefits": "Improved road safety and wayfinding for non-climate incidents; reduced routine maintenance costs and outages; potential economic continuity benefits for coastal communities.",
+  "instance_edge_case_notes": "Signage could be interpreted as an emergency management/protocol measure (planning-strategy), but paired with “strengthening, relocation” it fits best as part of an infrastructure investment package aimed at coastal hazard resilience."
+}

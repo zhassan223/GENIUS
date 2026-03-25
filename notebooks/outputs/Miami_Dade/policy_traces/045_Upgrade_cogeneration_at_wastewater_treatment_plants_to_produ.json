@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Upgrade cogeneration at wastewater treatment plants to produce 9.6 megawatts of electricity from biogas.",
+  "role": "sub",
+  "sector": "waste",
+  "canonical_mechanism": "cogeneration_waste_to_energy → fossil_generation_displacement_and_methane_capture",
+  "mechanism_description": "Upgrade wastewater-plant cogeneration to use biogas for on-site electricity generation, capturing methane and displacing fossil electricity generation.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Wastewater biosolids/biogas energy content is recovered and converted to useful electricity/heat, reducing primary energy demand for the same service (wastewater treatment + energy supply).",
+  "primary_causal_pathway": "Waste management system change → capture/use of methane-rich biogas + on-site cogeneration → ↓ methane emissions + ↓ fossil grid generation → ↓ GHG emissions",
+  "causal_mechanism_detail": "1) Change: Install or upgrade anaerobic digestion gas capture and CHP/cogeneration equipment at wastewater treatment plants to combust biogas for electricity (often with useful heat recovery).  \n2) Mediating process: Captured methane is combusted to CO₂ (lower GWP than methane) and the generated electricity/heat substitutes for grid electricity and/or boiler fuel that would otherwise be fossil-derived.  \n3) Climate-relevant outcome: Reduced net lifecycle GHG emissions via avoided methane releases and avoided fossil CO₂ from displaced generation.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is net GHG mitigation from avoided methane emissions and displaced fossil electricity generation through biogas-fueled cogeneration at wastewater facilities.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Biogas capture and cogeneration directly lowers GHGs through methane abatement and fossil electricity displacement.  \n2) Why this primary over alternatives: While it also improves energy productivity at the facility, the core intent and largest climate impact is emissions reduction (methane has high GWP; displacement reduces fossil CO₂).  \n3) Inherent secondary(s): Resource Efficiency is inherent because the same wastewater service is provided while recovering energy from a waste stream, reducing reliance on primary energy inputs.  \n4) Edge cases applied: If a grid is already near-zero carbon, fossil displacement benefits shrink, but methane capture/combustion still provides mitigation; if biogas would otherwise already be fully captured/used, incremental benefits depend on baseline, but the mechanism remains mitigation-oriented.  \n5) Confirm labels apply to ALL instances: Any policy that installs/upgrades WWTP biogas cogeneration necessarily involves methane capture/use and energy recovery, yielding mitigation as the primary effect and resource efficiency as an inherent co-effect.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Benefits vary with baseline gas management (venting vs flaring vs existing utilization) and grid carbon intensity; classification remains Mitigation because methane capture/use is intrinsically a GHG-reducing intervention even when displacement is small.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Upgrade cogeneration\"; \"wastewater treatment plants\"; \"produce 9.6 megawatts of electricity\"; \"from biogas\"",
+  "co_benefits": "Potential energy resilience/onsite generation during grid disruptions; reduced odors/air pollutants from uncontrolled biogas release; operational cost savings.",
+  "instance_edge_case_notes": "Could support hurricane/heat resilience via onsite generation, but the text frames it as biogas electricity production (mitigation) and does not specify backup/islanding, critical-load support, or hardening against flooding/storm surge—so no direct exposure/sensitivity reduction can be inferred."
+}

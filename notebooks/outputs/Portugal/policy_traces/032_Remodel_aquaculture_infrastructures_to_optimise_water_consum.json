@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Remodel aquaculture infrastructures to optimise water consumption and reduce losses.",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "aquaculture_infrastructure_upgrade → water_use_and_loss_reduction",
+  "mechanism_description": "Remodelling aquaculture infrastructure improves water-use efficiency and reduces system losses, lowering overall water consumption and improving water resource resilience.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Resource Efficiency; Water Management",
+  "secondary_justification": "Resource Efficiency: Infrastructure upgrades reduce leakage/evaporation/inefficient flows and often enable reuse/recirculation, delivering the same aquaculture output with less freshwater input (higher water productivity).",
+  "primary_causal_pathway": "Climate stressor (drought/water scarcity) + water-dependent production system → ↓ water losses and withdrawals → ↑ water security/resilience → ↓ vulnerability to climate-driven water scarcity",
+  "causal_mechanism_detail": "1) Change in human activity/system: Aquaculture operators/authorities retrofit or remodel ponds, canals, piping, liners, valves, monitoring, and/or recirculating components to reduce leaks and improve control of water flows.  \n2) Mediating physical process: Reduced conveyance seepage/leakage, reduced uncontrolled discharge/overflow, improved recirculation and measurement/control lowers net freshwater abstraction per unit of production.  \n3) Climate-relevant outcome: Improved ability to maintain aquaculture operations and local water availability during droughts and chronic water scarcity, reducing climate risk and water-supply stress.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced exposure and sensitivity to drought and water scarcity by lowering aquaculture water withdrawals and losses.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: The mechanism directly reduces water use/losses in a water-dependent sector, most climate-relevant through resilience to drought and scarcity.  \n2) Why this primary over alternatives: While efficiency can incidentally reduce energy use, the mechanism is explicitly about water conservation and coping with scarcity; adaptation benefits are the most direct and broadly applicable outcome.  \n3) Inherent causal chain for each secondary:  \n   - Resource Efficiency: Remodelling to “optimise water consumption and reduce losses” necessarily increases water-use efficiency (less water input for the same service).  \n4) Edge cases applied: If an upgrade is energy-intensive (e.g., adds powered recirculation/aeration), mitigation may be neutral/negative; this does not change the dominant adaptation function of reducing water withdrawals/losses.  \n5) Confirm labels apply to ALL instances: Any policy under this mechanism entails infrastructure changes aimed at lowering water consumption/losses in aquaculture, inherently improving water efficiency (Resource Efficiency) and primarily reducing vulnerability to water scarcity (Adaptation).",
+  "mechanism_confidence": 0.78,
+  "mechanism_edge_case_notes": "Some upgrades (e.g., recirculating aquaculture systems) may increase electricity demand, potentially increasing GHG emissions depending on grid intensity; mitigation is therefore not inherent. Conversely, sites with energy-intensive pumping might see incidental emissions reductions, but this is context-dependent.",
+  "additional_secondary_evidence": "Water Management: Portugal faces drought and water scarcity, and remodelling aquaculture infrastructures directly reduces exposure/sensitivity because it cuts leakage/losses and lowers freshwater withdrawals needed to maintain production during scarce-water periods.",
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“Remodelling of aquaculture infrastructures”; “optimise water consumption”; “reduce losses”",
+  "co_benefits": "Potential energy savings (if pumping/treatment needs fall), improved water quality, reduced pollution from effluent/discharge, improved productivity/cost savings.",
+  "instance_edge_case_notes": "Instrument type is inferred because the text states an action (remodelling) but does not specify whether it is mandated, subsidized, or guided by a plan; classified as infrastructure-investment as the most mechanism-consistent interpretation."
+}

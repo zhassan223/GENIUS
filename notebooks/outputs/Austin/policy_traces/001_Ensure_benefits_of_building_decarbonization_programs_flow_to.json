@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Ensure benefits of building decarbonization programs flow to low-income communities and communities of color through comprehensive energy poverty mitigation and partnerships.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "equitable_program_outreach_partnerships → increased_access_to_decarbonization_benefits",
+  "mechanism_description": "Partnering with trusted community organizations and institutions improves equitable outreach and program design, increasing low-income and marginalized communities’ access to building decarbonization and energy poverty mitigation benefits.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Equitable program delivery → ↑ participation in decarbonization measures → ↓ fossil fuel combustion in buildings → ↓ GHG emissions",
+  "causal_mechanism_detail": "1) Change in human activity/system: Cities and program administrators redesign and deliver decarbonization programs (rebates, retrofits, electrification support) through trusted community partners and targeted outreach to underserved groups.  \n2) Mediating physical process: Increased access and uptake drives installation/operation of higher-efficiency equipment and fuel-switching away from on-site fossil combustion (and/or reduced energy demand), thereby reducing combustion-related emissions.  \n3) Climate-relevant outcome: Lower CO₂ (and potentially methane) emissions from building energy use due to reduced natural gas/other fossil fuel consumption.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is increased adoption of building decarbonization measures, leading to lower fossil fuel use and reduced GHG emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Outreach/partnerships increase uptake of building decarbonization actions, which directly reduces fossil energy use and GHG emissions.  \n2) Why this primary over alternatives: While “equity” and “energy poverty mitigation” are important co-benefits, the mechanism’s climate effect hinges on emissions reductions from greater adoption of decarbonization measures; it is not primarily about reducing hazard exposure (Adaptation) or improving material/energy productivity absent emissions framing (Resource Efficiency).  \n3) Inherent causal chain for each secondary: None—equity improvements, affordability, and resilience can occur, but they are not guaranteed physical consequences of outreach/partnerships alone across all implementations.  \n4) Edge cases applied: If outreach increases access to bill assistance without inducing efficiency/electrification, mitigation impact may be weak; however, the canonical mechanism explicitly links outreach to “decarbonization benefits,” so classification follows that dominant intended pathway.  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism aims to expand participation in decarbonization programs; the consistent climate-relevant outcome is increased deployment of emissions-reducing measures, fitting Mitigation.",
+  "mechanism_confidence": 0.77,
+  "mechanism_edge_case_notes": "In some implementations, equitable outreach could primarily increase access to financial assistance or weatherization with limited measurable GHG reductions, or could even increase energy consumption via rebound effects; mitigation remains the best primary label because the mechanism is defined around access to *decarbonization* benefits, but realized impacts depend on the specific measures funded and grid/fuel context.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "“Ensure benefits flow to low-income communities and communities of color”; “comprehensive energy poverty mitigation strategy”; “partnering with trusted community organizations”; “equitable outreach”; “program development”",
+  "co_benefits": "Potential heat-health/energy burden benefits for vulnerable households (Austin extreme heat) via improved affordability and access to efficient electrified buildings, but not explicitly tied to heat-risk reduction in the text.",
+  "instance_edge_case_notes": "Energy poverty mitigation in an extreme-heat city could be construed as adaptation (reduced heat vulnerability through ability to cool), but the source text frames it as equity-focused program delivery for decarbonization without explicit heat/cooling or resilience language, so no adaptation secondary is added."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Hiroshima City sets KPIs for cross-sectional measures: dispersed power introductions in city facilities (1 by FY2020; 8 by FY2030) and smart communities introduced (3 by FY2020; 10 by FY2030).",
+  "role": "individual",
+  "sector": "energy_supply",
+  "canonical_mechanism": "distributed_energy_system_deployment → fossil_generation_displacement",
+  "mechanism_description": "Deploying distributed energy resources and smart community energy systems increases local clean generation/optimized energy management, thereby reducing reliance on fossil electricity and lowering emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Disaster risk reduction & resilience",
+  "secondary_justification": null,
+  "primary_causal_pathway": "DER + smart/community energy deployment → ↑ low/zero-carbon local electricity + optimized demand → ↓ fossil grid generation → ↓ CO2e emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: A city installs/expands distributed generation and enabling “smart community” infrastructure (e.g., local PV/CHP with controls, microgrids, storage, energy management systems) in municipal facilities or neighborhoods.  \n2) Mediating physical/process mechanism: Local generation supplies part of electricity demand and energy management shifts/lowers net grid draw; the marginal electricity that would have been produced by fossil plants is avoided.  \n3) Climate-relevant outcome: Lower lifecycle and operational CO2e emissions from the power sector due to reduced fossil generation.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced GHG emissions by displacing fossil electricity generation with distributed clean generation and smarter local energy management.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Deploy DERs/smart systems → displace fossil electricity → reduce CO2e, which is a direct mitigation pathway.  \n2) Why this primary over alternatives: Although smart communities can also improve reliability and resilience, those benefits depend on design and local hazards; the mechanism as stated is fundamentally about replacing higher-carbon electricity with lower-carbon supply/management.  \n3) Inherent causal chain for each secondary: None—adaptation/resilience co-benefits (e.g., backup power during disasters) are not guaranteed in every DER deployment.  \n4) Edge cases applied: If DER is fossil-based (e.g., diesel gensets) or high-emitting CHP without low-carbon fuel, displacement may not reduce emissions; however, the canonical mechanism definition specifies fossil generation displacement via clean/optimized systems.  \n5) Confirm labels apply to ALL instances: Any policy that truly deploys distributed clean energy/smart community systems with the aim/effect of displacing fossil electricity is primarily mitigation.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "DER projects can be implemented for resilience (microgrids/backup) or may include fossil generation; those cases could shift outcomes toward Adaptation or weaken mitigation, but they are not inherent to the stated mechanism of fossil generation displacement.",
+  "additional_secondary_evidence": "Disaster risk reduction & resilience: Hiroshima faces typhoon intensification and flooding/landslides from heavy rainfall, and dispersed power in city facilities and smart communities directly reduce exposure/sensitivity because distributed/local power (often with controls/storage/microgrid capability) can maintain critical electricity services during grid disruptions caused by storms and floods.",
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Key Performance Indicator (KPI)”; “Introduction no. of dispersed power in the city facilities (cumulative total)”; “Introduction no. of smart communities (cumulative total)”; “1 by FY2020; 8 by FY2030”; “3 by FY2020; 10 by FY2030”",
+  "co_benefits": "Air quality and public health improvements from reduced fossil electricity; potential cost savings/energy security for municipal operations",
+  "instance_edge_case_notes": "“Smart communities” is not explicitly defined as microgrids/resilience infrastructure in the excerpt; the added resilience secondary assumes typical smart-community implementations (energy management, local generation/storage) that plausibly support outage resilience."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Implement communication circuits to transmit information to health authorities following forecasting and warning systems.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "early_warning_communication_system → health_risk_response_capacity",
+  "mechanism_description": "Implementing formal communication circuits for forecast and warning information enables faster, better-coordinated public health responses to climate-related hazards.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Extreme heat",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard forecast/warning → improved risk communication to health authorities → faster/more effective health response → ↓ exposure/vulnerability → ↓ health impacts",
+  "causal_mechanism_detail": "(1) Changes the public-health preparedness system by establishing formal communication circuits/protocols that route forecast and warning outputs to the right health decision-makers and responders. (2) The mediating process is reduced information latency and coordination failure (clear triggers, roles, and timely situational awareness), enabling earlier activation of surveillance, staffing, outreach, cooling/clean-air measures, and emergency care planning. (3) The climate-relevant outcome is reduced sensitivity and exposure of populations to climate-amplified health risks, lowering morbidity and mortality during extreme events.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced illness and mortality by enabling faster, better-coordinated public-health actions in response to climate hazard warnings.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: hazard information → response capacity → reduced health impacts; this is classic risk management/resilience. 2) Primary category is Adaptation (not Mitigation/Resource Efficiency/NBS) because the main outcome is reduced harm from climate hazards rather than reduced emissions or increased sinks. 3) No inherent secondary category: while some implementations might incidentally reduce emissions (e.g., fewer ambulance trips) or improve efficiency, these are not unavoidable physical consequences of establishing communication circuits. 4) Edge cases: if paired with emissions-reducing measures (e.g., electrified emergency response fleets) those would be separate mechanisms; this mechanism alone remains adaptation-focused. 5) Label applies to all instances: regardless of location or hazard type, improving early-warning communication to health authorities consistently increases response capacity and reduces vulnerability.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "In some jurisdictions, the “warning system” may include public broadcast alerts and behavior-change components; those can add co-benefits but do not change the dominant pathway unless the policy explicitly targets emissions reductions as the primary outcome.",
+  "additional_secondary_evidence": "Extreme heat: Portugal faces extreme heat events, and implementing communication circuits that transmit forecasting/warning information to health authorities directly reduces exposure/sensitivity because it shortens alert-to-action time for heat-health responses (e.g., early activation of health measures and services before peak heat).",
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Implementation of communication circuits”; “transmission of information to health authorities”; “following forecasting and warning systems”",
+  "co_benefits": "Potential co-benefits for wildfire smoke health response and flood-related public health coordination, but hazards are not specified in the text so they are not assigned as additional secondary categories.",
+  "instance_edge_case_notes": "Could also be framed as an “infrastructure-investment” if the intent were primarily ICT systems/platform build-out, but the wording emphasizes protocols/circuits for routing warning information (coordination/planning) rather than physical infrastructure."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "NAP target: target population of awareness/dissemination campaigns on climate impacts and adaptation measures to reach 5% by 2020 and 25% by 2030.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "climate_adaptation_awareness_campaigns → institutional_and_community_adaptive_capacity",
+  "mechanism_description": "Climate impact and adaptation awareness campaigns increase public understanding and preparedness, strengthening community and institutional adaptive capacity to climate hazards.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard risk information → ↑ awareness/knowledge + ↑ preparedness behaviors → ↓ vulnerability (exposure/sensitivity) → ↓ climate impacts",
+  "causal_mechanism_detail": "(1) Change in human activity/system: Governments and institutions conduct public/institutional awareness and dissemination campaigns on climate risks and adaptation measures (e.g., heat, wildfire, flood preparedness guidance; how to access alerts and services).  \n(2) Mediating process: Improved risk perception, knowledge, and social/institutional readiness leads to behavior change (preparedness actions, uptake of guidance, compliance with warnings) and improved institutional coordination and planning.  \n(3) Climate-relevant outcome: Reduced damages, disruption, and health impacts during climate extremes through better preparedness and response capacity (i.e., increased adaptive capacity).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced exposure/sensitivity to climate hazards because awareness campaigns increase preparedness and enable earlier/more effective protective actions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: information dissemination → preparedness/adaptive capacity → reduced vulnerability/impacts from climate hazards.  \n2) Why this primary over alternatives: the mechanism does not primarily change energy/material flows or carbon sinks; any mitigation co-benefits (e.g., behavior shifts that might reduce emissions) are incidental and not the main or necessary effect.  \n3) Inherent causal chain for each secondary: none—awareness campaigns do not unavoidably produce mitigation, resource efficiency, or nature-based outcomes as a physical consequence.  \n4) Edge cases applied: campaigns could include energy-saving tips (mitigation) or water-saving tips (resource efficiency), but those are content-dependent variants, not inherent to “climate impacts and adaptation measures” awareness; therefore no secondary category is assigned.  \n5) Confirm labels apply to ALL instances: any policy implementing this mechanism (regardless of place) primarily aims to improve readiness and decision-making for climate hazards, fitting Adaptation universally.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "If a campaign explicitly targets emissions-reducing behaviors (e.g., building energy conservation) or conservation of resources as primary messaging, it may shift to Mitigation or Resource Efficiency; if it is specifically about nature-based risk reduction practices, it could overlap with Nature-Based Solutions—these are not inherent to the mechanism as stated.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Target population of awareness or dissemination campaigns”; “related to climate change impacts and adaptation measures”; “5%”; “25%”",
+  "co_benefits": "Potential public health and disaster-response co-benefits (e.g., fewer injuries/illness during heatwaves/wildfires/floods) via improved preparedness, but not specified beyond general awareness targets.",
+  "instance_edge_case_notes": "Could be coded as an information-disclosure/communication instrument, but the presence of explicit numeric coverage goals (“5%”, “25%”) makes target-setting the best fit."
+}

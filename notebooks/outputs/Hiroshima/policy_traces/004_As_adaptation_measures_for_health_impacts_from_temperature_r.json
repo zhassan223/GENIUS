@@ -1,0 +1,23 @@
+{
+  "policy_statement": "As adaptation measures for health impacts from temperature rise, Hiroshima City will publicize heat disorder risks and provide information for heat disorder prevention.",
+  "role": "sub",
+  "sector": "cross_sector",
+  "canonical_mechanism": "heat_risk_public_information → heat_exposure_reduction",
+  "mechanism_description": "Publicizing heat illness risks and prevention information increases awareness and protective actions, reducing heat exposure and heat-related health harms.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Public health",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (extreme heat) → risk communication/behavior change → ↓ exposure/health vulnerability → ↓ heat-related impacts",
+  "causal_mechanism_detail": "1) Changed human activity/system: Public agencies disseminate heat-risk and prevention information (e.g., heat advisories, symptoms, recommended actions, resources).  \n2) Mediating process: Increased risk awareness prompts timely protective actions (reduced outdoor exertion, hydration, use of cooling spaces, checking on at-risk populations), improving individual and community response during heat events.  \n3) Climate-relevant outcome: Lower exposure to dangerous heat and reduced heat-related morbidity and mortality (reduced climate impact on public health).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced human exposure and health harm during extreme heat events through improved awareness and protective behaviors.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Extreme heat risk → information provision → protective behavior → reduced exposure and health impacts.  \n2) Why this primary over alternatives: The direct intended and largest effect is reducing climate hazard impacts (health harms) rather than reducing GHG emissions or improving resource efficiency.  \n3) Inherent causal chain for each secondary: None—any mitigation/resource effects (e.g., increased AC use) are not inherent or consistent across implementations.  \n4) Edge cases applied: Some implementations may pair information with cooling-center operations or building upgrades, but those are separate mechanisms; information-only can even increase energy use, so no secondary category is universally applicable.  \n5) Confirm labels apply to ALL instances: Any policy using heat-risk public information aims to reduce heat exposure/health vulnerability, which is adaptation in all locations.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "If the “information” mechanism includes formal heat early-warning triggers that activate operational measures (cooling centers, welfare checks), the broader package remains Adaptation but may involve additional mechanisms; information alone does not guarantee any mitigation or resource-efficiency outcome.",
+  "additional_secondary_evidence": "Public health: Hiroshima faces extreme heat events, and publicizing heat-disorder risks and providing prevention information directly reduces sensitivity to heat impacts because residents can take protective actions (e.g., hydration, reduced exertion, seeking cooling, monitoring symptoms), lowering heat-related illness.",
+  "instrument_type": "information-disclosure",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“adaptation measures for health impacts from temperature rise”; “publicize heat disorder risks”; “provide information for heat disorder prevention”; “Measures against the effect of climate change on health due to the temperature rises”",
+  "co_benefits": null,
+  "instance_edge_case_notes": "“Heat disorder” is interpreted as heat illness/heatstroke risk; the policy is communication-based (no explicit physical investments like cooling centers mentioned)."
+}

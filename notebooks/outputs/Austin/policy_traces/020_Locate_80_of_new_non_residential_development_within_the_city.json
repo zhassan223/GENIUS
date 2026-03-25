@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Locate 80% of new non-residential development within the city's Imagine Austin activity centers and corridors by 2030.",
+  "role": "parent",
+  "sector": "land_use",
+  "canonical_mechanism": "transit_oriented_development → transport_emissions_and_land_use_reduction",
+  "mechanism_description": "Directing new non-residential growth to activity centers and corridors supports compact, transit-served development patterns that lower car dependence and reduce transportation-related emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Compact, infill-oriented growth reduces per-capita land consumption and typically reduces infrastructure and energy/service inputs (e.g., shorter trip lengths and more efficient shared networks) for delivering the same urban functions.",
+  "primary_causal_pathway": "Land-use + mobility system planning → mode shift/shorter trips (↓ VMT, ↑ transit/walk/bike) → ↓ fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: City land-use decisions (zoning, siting targets, permitting, incentives) steer new housing/jobs/non-residential growth into activity centers and along transit corridors and improve transit performance, enabling higher-density mixed-use development near stations/stops.  \n2) Mediating physical process: Increased proximity and accessibility reduce trip distances and make non-auto modes feasible; households and firms substitute away from private car travel, lowering total VMT and gasoline/diesel combustion.  \n3) Climate-relevant outcome: Reduced tailpipe CO₂ (and associated upstream fuel-cycle emissions), with additional potential reductions from avoided sprawl (less land conversion and lower per-capita infrastructure/material demand).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions due to lower private vehicle use and VMT from concentrating development in transit-served, walkable centers/corridors.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Land-use concentration near high-performing transit reduces car use/VMT, directly reducing transportation fuel combustion and GHG emissions.  \n2) Why this primary over alternatives: While TOD can also deliver co-benefits (e.g., reduced infrastructure needs, potential heat-island or air-quality benefits), the mechanism’s defining and largest climate effect is transportation emissions reduction via mode shift and trip shortening—therefore Mitigation is primary.  \n3) Inherent causal chain for each secondary:  \n   - Resource Efficiency: Compact development inherently uses land more efficiently and tends to reduce per-capita network infrastructure and travel energy inputs for the same access to jobs/services.  \n4) Edge cases applied: If a “TOD” policy is implemented without real transit improvement or without enabling density/mixed-use (e.g., nominal station-area branding), emissions benefits may be smaller, but the mechanism as defined still targets VMT reduction as the primary climate effect.  \n5) Confirm labels apply to ALL instances: Any genuine TOD/siting-to-centers policy aims to shift travel patterns away from driving and reduce sprawl; these consistently map to Mitigation as primary, with Resource Efficiency as an inherent co-effect of compactness.",
+  "mechanism_confidence": 0.82,
+  "mechanism_edge_case_notes": "If station-area growth induces significant additional travel demand (e.g., regional in-commuting by car due to insufficient last-mile access/parking policies) or causes displacement that lengthens commutes elsewhere, realized mitigation can vary; however, these are implementation/outcome contingencies rather than a different underlying mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "“By 2030”, “80% of new non-residential development”, “located within”, “Imagine Austin activity centers and corridors”",
+  "co_benefits": "Potential co-benefits: reduced local air pollution and congestion; reduced development pressure on greenfield/WUI areas (wildfire interface) and potentially less impervious expansion (runoff), but these are not explicitly stated or directly specified as hazard-reduction criteria in the policy text.",
+  "instance_edge_case_notes": "Could be interpreted as a planning-strategy instrument if the statement were embedded in a comprehensive plan; however, as written it is a quantitative siting share by a deadline, best classified as target-setting."
+}

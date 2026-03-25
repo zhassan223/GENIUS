@@ -1,0 +1,23 @@
+{
+  "policy_statement": "OSE will propose recommendations to accelerate converting 18,000 homes from oil heat to electric heat pumps, including financing for low-income residents and public/private incentives.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "building_heating_electrification → onsite_fossil_fuel_combustion_reduction",
+  "mechanism_description": "Financing and incentives drive adoption of electric heat pumps in place of oil heating, reducing fossil fuel combustion in homes and associated greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Heat pumps typically deliver the same heating service with less final energy input (higher COP than combustion systems), reducing energy demand per unit of heat even when the primary intent is fuel switching.",
+  "primary_causal_pathway": "Building energy service provision → electrify heating (heat pumps) → ↓ on-site fossil fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change in human activity/system: Building owners/occupants replace oil/gas/propane heating equipment with electric heat pumps (often enabled by incentives/financing and contractor/program support).  \n(2) Mediating physical process: Heat is produced via vapor-compression heat transfer powered by electricity rather than by oxidizing hydrocarbons on-site, thereby avoiding direct combustion emissions (CO₂, CH₄ leakage from on-site systems is also reduced) and often lowering total energy required for the same heat output.  \n(3) Climate-relevant outcome: Net reduction in lifecycle GHG emissions for building heating (immediate elimination of direct on-site CO₂; additional benefits depend on electricity grid carbon intensity and refrigerant management).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing GHG emissions by eliminating on-site combustion of fossil fuels for building heating.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Electrification of heating reduces (or eliminates) on-site fossil fuel combustion, which directly reduces GHG emissions.  \n2) Why this primary over alternatives: Although heat pumps can improve resilience/comfort and reduce energy use, the defining and largest climate effect of this mechanism is emissions mitigation via avoided combustion.  \n3) Inherent secondary causal chain(s):  \n   - Resource Efficiency is inherent because heat pumps generally provide required heat with less delivered energy than combustion systems (higher efficiency/COP), lowering energy intensity for the same service.  \n4) Edge cases applied: If the grid is highly carbon-intensive, near-term net GHG benefits can be smaller, but the mechanism’s dominant intent and typical outcome remains emissions reduction; refrigerant leakage can erode benefits but does not change the primary pathway.  \n5) Confirm labels apply to ALL instances: Any policy that electrifies heating specifically to reduce on-site fossil combustion is mitigation-first; the efficiency co-benefit is typical and physically tied to heat pump operation (not location-specific), so Resource Efficiency can be treated as an inherent secondary.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "In very high-carbon grids or where resistance heating (not heat pumps) is used, emissions/efficiency benefits may be reduced; refrigerant (HFC) leakage can offset some mitigation if not well-managed, but these do not alter the mechanism’s primary classification.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "incentive-program",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“accelerating the transition… from heating with oil to an electric heat pump”; “financing plan to support low-income residents”; “combination of public and private incentives to spur action”; “unable to finance the switch alone”",
+  "co_benefits": "Potential indoor air quality/health improvements from eliminating in-home oil combustion; potential household energy cost savings; potential local air pollutant reductions (NOx/PM). Not framed as directly reducing Seattle’s listed hazard exposures.",
+  "instance_edge_case_notes": "Although the statement says “OSE will propose recommendations to the mayor,” the substance is clearly incentives/financing (program design) rather than a binding mandate; thus classified as an incentive-program with enabling directness. No explicit adaptation component tied to Seattle hazards is described."
+}

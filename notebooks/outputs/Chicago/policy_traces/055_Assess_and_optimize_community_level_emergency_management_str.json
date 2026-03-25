@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Assess and optimize community-level emergency management strategies related to climate preparedness by 2024.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "emergency_management_optimization → institutional_adaptive_capacity",
+  "mechanism_description": "Improving and optimizing emergency management planning and operations increases community preparedness and adaptive capacity for climate-related emergencies.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard → improved preparedness/response systems → ↓ exposure/vulnerability → ↓ climate risk/impacts",
+  "causal_mechanism_detail": "1) Change in human activity/system: Emergency management institutions optimize climate preparedness strategies (e.g., updated emergency operations plans, clearer roles, mutual aid, better warning/communication, training and exercises, resource staging, and data-driven decision support).  \n2) Mediating process: Faster detection, better coordination and decision-making, more effective evacuation/sheltering/cooling-center operations, and improved continuity of critical services during extreme events.  \n3) Climate-relevant outcome: Reduced mortality, morbidity, and economic disruption from climate-related emergencies (heat waves, floods, storms), increasing institutional adaptive capacity.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing harm from climate hazards by improving preparedness/response capacity (i.e., lowering exposure and vulnerability during climate-driven emergencies).",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: The mechanism acts on preparedness and operational readiness for climate hazards, leading to reduced vulnerability and impacts.  \n2) Why this primary over alternatives: While emergency management may incidentally affect emissions (e.g., logistics efficiency) or resource use, the intended and largest climate-relevant effect is risk reduction during climate events, which is Adaptation.  \n3) Inherent causal chain for each secondary: None—mitigation/resource-efficiency benefits are not physically unavoidable outcomes of optimizing emergency management (they depend on how responses are executed).  \n4) Edge cases applied: Even if optimization includes energy-resilient facilities or backup power choices, those are implementation-contingent; the canonical mechanism remains institutional capacity for hazard response.  \n5) Confirm labels apply to ALL instances: Any policy that optimizes emergency management for climate preparedness primarily increases adaptive capacity and reduces climate impacts, regardless of location or specific hazard profile.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Some implementations may bundle infrastructure hardening (e.g., microgrids, building retrofits) or emissions reductions from improved logistics, but these are not inherent to “emergency management optimization” and should be treated as separate mechanisms if explicitly targeted.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Assess and optimize”; “community-level emergency management strategies”; “climate preparedness”; “by 2024”",
+  "co_benefits": "Improved all-hazards readiness (non-climate emergencies), better public safety coordination, potential reductions in everyday emergency response times and service disruptions.",
+  "instance_edge_case_notes": "Although the action likely benefits heat and flood outcomes in Chicago, the text does not specify heat-specific (e.g., cooling centers) or flood-specific (e.g., evacuation routes for inundation zones) measures; therefore no hazard-specific additional secondary category is assigned."
+}

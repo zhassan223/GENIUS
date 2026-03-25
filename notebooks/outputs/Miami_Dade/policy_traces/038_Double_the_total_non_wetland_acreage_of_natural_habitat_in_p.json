@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Double the total non-wetland acreage of natural habitat in preservation.",
+  "role": "sub",
+  "sector": "land_use",
+  "canonical_mechanism": "natural_land_protection → ecosystem_and_carbon_preservation",
+  "mechanism_description": "Protecting additional natural habitat from development preserves ecosystems and stored carbon by preventing land conversion and degradation.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Extreme heat",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Land protection (avoid conversion/degradation) → preserved ecosystem carbon stocks + avoided land-use-change emissions → ↓ net GHG emissions / maintained carbon storage",
+  "causal_mechanism_detail": "(1) Change: Governments designate, acquire, or otherwise legally protect natural lands (and manage them to prevent degradation), limiting development and disruptive land uses. (2) Process: Avoided vegetation/soil disturbance reduces carbon oxidation, biomass loss, and soil carbon release; intact ecosystems continue to retain carbon and maintain ecological function. (3) Outcome: Lower net GHG emissions relative to a conversion baseline and preservation of existing carbon pools (reduced atmospheric forcing over time).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is avoiding GHG emissions by preventing land conversion/degradation and preserving existing ecosystem carbon stocks.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: preventing land-use change preserves carbon pools and avoids emissions from clearing/draining/disturbing natural areas.  \n2) Why this primary over alternatives: while “green/blue space” protection can reduce heat and flooding impacts, those adaptation benefits are not the single dominant climate effect across all instances; the mechanism as defined explicitly targets ecosystem/carbon preservation and avoidance of conversion emissions.  \n3) Inherent causal chain for each secondary: None—heat mitigation, flood buffering, biodiversity, and water quality benefits are common but not physically guaranteed for every protected parcel (they depend on ecosystem type, location, management, and hazard context).  \n4) Edge cases applied: “Manage for resilience” can include adaptation actions, but the mechanism remains land protection for carbon preservation; adaptation outcomes vary and therefore are not inherent secondaries.  \n5) Confirm labels apply to ALL instances: any policy that protects natural land to preserve ecosystems/carbon has a direct mitigation effect through avoided land-use-change emissions and maintained carbon stocks, regardless of city or ecosystem type.",
+  "mechanism_confidence": 0.78,
+  "mechanism_edge_case_notes": "Some protected “green and blue spaces” are pursued primarily for adaptation/recreation; if a policy protects highly managed/low-carbon areas (e.g., ornamental parks) or leads to substantial new irrigation/inputs, mitigation benefits may be smaller, but the canonical mechanism assumes meaningful ecosystem/carbon preservation via avoided conversion/degradation.",
+  "additional_secondary_evidence": "Extreme heat: Miami-Dade faces extreme heat, and increasing preserved natural habitat directly reduces exposure/sensitivity because protected vegetated areas increase canopy/shade and evapotranspiration, lowering local heat and urban heat island intensity.",
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Double”; “total … acreage”; “natural habitat”; “in preservation”",
+  "co_benefits": "Potential storm surge/tidal flooding buffering and wind damage reduction (via natural areas), and biodiversity/recreation benefits, but “non-wetland” makes direct flood/surge reduction less certain from the text alone.",
+  "instance_edge_case_notes": "Instrument specifics (e.g., acquisition, easements, zoning) are not stated; the text reads as a goal/target rather than an explicit regulatory or spending action. “Non-wetland” creates ambiguity about coastal flood/storm surge adaptation benefits, so only extreme-heat co-benefit is elevated to an additional secondary."
+}

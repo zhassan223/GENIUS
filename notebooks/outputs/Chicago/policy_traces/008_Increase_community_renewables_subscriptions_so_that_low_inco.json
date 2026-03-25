@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Increase community renewables subscriptions so that low-income and/or environmental justice low-income residents achieve 25% subscribed by 2030.",
+  "role": "sub",
+  "sector": "energy_supply",
+  "canonical_mechanism": "community_renewables_subscription_expansion → fossil_generation_displacement",
+  "mechanism_description": "Expanding community renewables subscriptions increases renewable electricity use, which displaces fossil-generated power and reduces greenhouse gas emissions from electricity supply.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Electricity procurement shift → ↑ renewable generation share → displacement of marginal fossil generation → ↓ power-sector GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Households and organizations enroll in community renewables/community solar or similar subscription programs, changing electricity procurement toward renewable supply.  \n2) Mediating physical process: Increased renewable generation delivered to the grid reduces the need to run fossil-fueled generators on the margin (and/or reduces fossil generation over the accounting period).  \n3) Climate-relevant outcome: Lower CO₂ (and associated CH₄/N₂O lifecycle) emissions from electricity generation due to fossil generation displacement.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced power-sector GHG emissions by substituting renewable electricity for fossil-generated electricity.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Increasing community renewables subscriptions increases renewable electricity used, which displaces fossil generation and reduces GHG emissions.  \n2) Why this primary over alternatives: While programs may have equity, affordability, or resilience co-benefits, the mechanism’s core climate effect is direct power-sector emissions reduction, which is Mitigation.  \n3) Inherent causal chain for each secondary: None—resource efficiency (reduced energy input), adaptation (reduced hazard/exposure), and nature-based carbon sinks are not unavoidable physical consequences of subscription expansion.  \n4) Edge cases applied: If additional renewables are not truly additional or the grid is already zero-carbon at the margin, realized mitigation may be smaller, but the intended and typical causal mechanism remains fossil displacement.  \n5) Confirm labels apply to ALL instances: Any policy that expands participation in community renewables uses the same principal pathway—renewable electricity substituting for fossil electricity—so Mitigation applies broadly.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Mitigation impact depends on additionality and the marginal emissions factor of the serving grid; in high-renewables grids or where subscriptions are purely contractual without changing dispatch/procurement, actual displacement can be reduced, but the mechanism classification remains Mitigation.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Increase community renewables subscriptions\"; \"achieve 25% subscribed\"; \"by low-income and/or environmental justice low-income residents\"; \"by 2030\"",
+  "co_benefits": "Potential energy-burden reduction for low-income households and potential local air-quality improvements from reduced fossil generation (not framed as direct exposure/sensitivity reduction to Chicago’s specific hazards).",
+  "instance_edge_case_notes": "“Increase subscriptions” could be implemented via incentives/program expansion, but the text itself is framed as a numeric goal by a deadline, so it is best classified as target-setting rather than an incentive program."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Strategy 1 (Pillar 4): 100% clean renewable energy.",
+  "role": "parent",
+  "sector": "energy_supply",
+  "canonical_mechanism": "renewable_energy_target → grid_decarbonization",
+  "mechanism_description": "Setting a 100% clean renewable energy target drives replacement of fossil electricity generation with renewables, reducing grid emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Policy target/procurement → ↑ renewable electricity generation/procurement → ↓ fossil generation dispatch/build → ↓ CO2e emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: The electricity supply mix is shifted via explicit renewable/clean energy targets (e.g., MW added, % clean, or procurement/aggregation requirements).  \n(2) Process: Increased renewable generation and/or contracted renewable supply reduces operation and/or investment in fossil-fueled power plants (dispatch displacement and capacity replacement), lowering combustion-related CO2 (and some co-pollutants).  \n(3) Outcome: Lower grid emissions intensity and absolute power-sector CO2e emissions, enabling downstream electrification emissions reductions as the grid cleans.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced GHG emissions from electricity generation by substituting renewable electricity for fossil-based generation.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: targets increase renewable electricity supply, displacing fossil generation and cutting CO2e—this is a direct emissions-reduction pathway.  \n2) Why this primary over alternatives: while renewables can have resilience co-benefits (e.g., local generation), the mechanism as defined (“renewable_energy_target → grid_decarbonization”) is explicitly about decarbonizing electricity supply; the dominant effect is mitigation via reduced GHGs.  \n3) Inherent secondaries: none are unavoidable across all instances—adaptation/resilience benefits depend on technology choice (e.g., storage, islanding microgrids) and system design, not on the existence of a target itself.  \n4) Edge cases applied: if a “renewable” target is met with biomass of uncertain lifecycle emissions or via unbundled certificates without physical displacement, mitigation impact may vary; however the canonical mechanism assumes real grid decarbonization/displacement.  \n5) Confirm labels apply to ALL instances: any policy using this mechanism is intended to increase renewable share and reduce grid emissions, which is mitigation; no secondary category is guaranteed in every location.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Targets can be implemented via unbundled RECs, imports, or high-emitting “renewables” (e.g., some biomass), which may weaken actual emissions displacement; resilience/adaptation benefits occur only when paired with distributed generation + storage/microgrid/islanding features, so they are not inherent.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Strategy 1 (Pillar 4)”; “100% clean renewable energy”; “100%clean renewable energy”",
+  "co_benefits": "Potential air quality improvements (reduced co-pollutants) and public health benefits; possible indirect contribution to reduced extreme-heat risk over the long term via mitigation, but not a direct local exposure/sensitivity reduction.",
+  "instance_edge_case_notes": "“Clean renewable” could imply a binding clean energy standard, procurement requirement, or investment program, but the text is too minimal to confirm; therefore classified as target-setting (not a mandate/procurement/investment)."
+}

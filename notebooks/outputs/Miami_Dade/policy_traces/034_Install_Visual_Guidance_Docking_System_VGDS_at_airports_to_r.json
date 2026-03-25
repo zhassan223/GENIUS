@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Install Visual Guidance Docking System (VGDS) at airports to reduce aircraft idling.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "airport_gate_docking_optimization → aircraft_idling_emissions_reduction",
+  "mechanism_description": "Deploying visual docking guidance at airport gates reduces aircraft ground-idling time, cutting fuel use and emissions from airport operations.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Shorter idling/taxiing/parking time reduces fuel consumption per aircraft turnaround (same service with less energy/fuel input).",
+  "primary_causal_pathway": "Airport operations optimization → ↓ aircraft ground idling/taxi time → ↓ jet fuel combustion → ↓ GHG emissions",
+  "causal_mechanism_detail": "(1) Change: The airport improves gate approach/parking precision and turnaround operations (e.g., visual docking guidance) so aircraft reach final stop position faster and avoid delays/mis-parking corrections.  \n(2) Mediating process: Reduced time with engines running on the ground lowers on-airport jet fuel combustion.  \n(3) Climate outcome: Lower CO₂ emissions (and typically lower black carbon/NOx) from reduced ground-idling fuel burn.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced jet fuel burn during ground operations, leading to lower CO₂ (and other) emissions from aircraft idling/taxiing.",
+  "mechanism_classification_reasoning": "(1) Dominant causal pathway: Operational optimization at gates reduces engine-on time → less fuel burned → lower GHG emissions.  \n(2) Why this primary over alternatives: The intent and largest climate effect is direct emissions reduction from reduced combustion; it is not primarily about managing climate hazards (adaptation) or carbon sequestration (NBS).  \n(3) Inherent secondary(s): Resource Efficiency is inherent because the mechanism achieves the same aircraft docking/turnaround service with lower fuel input.  \n(4) Edge cases applied: If docking optimization caused additional auxiliary power use (minor) or induced more flights (not inherent to the mechanism), that does not change the dominant direct effect of reduced ground fuel burn per movement.  \n(5) Label applies to ALL instances: Any VGDS/gate docking optimization that reduces idling/taxi time necessarily reduces ground fuel consumption and associated emissions, making Mitigation universally applicable.",
+  "mechanism_confidence": 0.83,
+  "mechanism_edge_case_notes": "Some implementations may shift emissions between main engines and APU/ground power depending on procedures, and net savings depend on baseline congestion and compliance; however the canonical mechanism presumes reduced engine-on idling time, which is mitigation-dominant.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Install Visual Guidance Docking System (VGDS)\"; \"at airports\"; \"to reduce aircraft idling\"",
+  "co_benefits": "Reduced local air pollutants (NOx/PM) and improved ramp safety/throughput from more precise gate parking and shorter engine-on time.",
+  "instance_edge_case_notes": "Could be framed as a procurement action; classified as infrastructure-investment because it involves installing/commissioning physical airport equipment rather than a rule or incentive. No clear adaptation linkage to Miami-Dade hazards in the text."
+}

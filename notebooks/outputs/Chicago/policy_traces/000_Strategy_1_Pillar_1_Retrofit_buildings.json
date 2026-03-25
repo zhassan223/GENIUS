@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Strategy 1 (Pillar 1): Retrofit buildings.",
+  "role": "parent",
+  "sector": "buildings",
+  "canonical_mechanism": "building_retrofit → energy_use_reduction",
+  "mechanism_description": "Implementing building retrofits upgrades building components and systems, lowering energy demand and associated emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Heat resilience",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Building upgrades → ↓ energy demand (same service) → ↓ fuel/electricity use → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Retrofit existing buildings by improving insulation/air sealing, upgrading HVAC and water heating equipment, optimizing controls, and/or installing efficient lighting and appliances.  \n2) Mediating physical process: Improved thermal envelope and higher-efficiency end-use systems reduce heat transfer losses/gains and reduce energy required per unit of heating/cooling/lighting/service delivered.  \n3) Climate-relevant outcome: Lower onsite combustion (e.g., gas/oil) and reduced electricity demand reduce CO₂ (and some CH₄/N₂O) emissions from building operations and power generation.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced building energy consumption leading to lower upstream and onsite greenhouse gas emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Retrofits reduce operational energy use, which directly reduces GHG emissions from energy supply—this is a mitigation pathway.  \n2) Why this primary over alternatives: While some retrofits can improve heat resilience or comfort, the defining and largest climate effect of the mechanism “building_retrofit → energy_use_reduction” is emissions reduction via lower energy demand.  \n3) Inherent causal chain for each secondary: None—adaptation (e.g., reduced heat stress during outages) or resource-efficiency benefits beyond energy are not universal to all retrofits.  \n4) Edge cases applied: Retrofits that focus on passive survivability or weatherization still often reduce energy use, but if a policy’s intent were primarily hazard exposure reduction, that would be a different mechanism; here the mechanism explicitly centers energy-use reduction.  \n5) Confirm labels apply to ALL instances: Any policy implementing this mechanism aims to cut building energy demand; reduced energy demand inherently drives emissions reductions, so “Mitigation” fits across contexts.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "If a “retrofit” policy is specifically for resilience (e.g., floodproofing, backup power, cool refuges) without meaningful energy reduction, it should be classified under a different mechanism; similarly, deep retrofits paired with fuel-switching/electrification could introduce additional mitigation mechanisms beyond energy reduction, but that is not inherent to this mechanism as stated.",
+  "additional_secondary_evidence": "Heat resilience: Chicago faces extreme heat events/urban heat island effect, and retrofitting buildings (e.g., improved insulation/air sealing, HVAC upgrades) directly reduces exposure/sensitivity because it lowers indoor heat gain and improves ability to maintain safe indoor temperatures during heat waves.",
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Retrofit buildings”; “Increase access to utility savings and renewable energy”; “prioritizing households”; “Action”",
+  "co_benefits": "Lower utility bills/energy burden; improved indoor air quality/comfort; potential public health benefits.",
+  "instance_edge_case_notes": "Instrument type inferred as a strategy/action item (no explicit mandate/standard/rebate described in the excerpt). If the underlying program is funding/rebates or a requirement, instrument_type could shift to incentive-program or regulatory-mandate."
+}

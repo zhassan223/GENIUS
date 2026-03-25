@@ -1,0 +1,23 @@
+{
+  "policy_statement": "NAP target: energy production/transmission/distribution companies with adaptation or contingency plans for extreme events to reach 25% by 2020 and 100% by 2030.",
+  "role": "sub",
+  "sector": "energy_supply",
+  "canonical_mechanism": "energy_utility_adaptation_planning → energy_system_resilience",
+  "mechanism_description": "Requiring energy production, transmission, and distribution companies to implement extreme-event adaptation/contingency plans increases preparedness and continuity of service during climate hazards, improving energy system resilience.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard → preparedness/response capacity ↑ → ↓ outage likelihood/duration → ↓ exposure & disruption (energy system resilience)",
+  "causal_mechanism_detail": "(1) Change in system/activity: Energy production, transmission, and distribution companies develop and implement adaptation/contingency plans (risk assessments, emergency operations, redundancy, mutual aid, critical spares, restoration priorities, staff training).  \n(2) Mediating process: Planning improves operational readiness and coordination, enabling protective actions before events and faster fault isolation/repair and service restoration during/after extreme weather.  \n(3) Climate-relevant outcome: Reduced vulnerability of energy infrastructure and customers to climate hazards—fewer/shorter outages and improved continuity of essential services.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced energy-service disruption and faster recovery during climate hazards due to improved utility preparedness and contingency planning.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Climate hazards threaten the grid; mandated adaptation/contingency planning increases preparedness and response, reducing outage impacts—an adaptation/resilience pathway.  \n2) Why this primary over alternatives: The mechanism’s intended and most direct effect is continuity of service during extreme events (risk reduction), not emissions reduction (Mitigation) or reduced resource/energy input (Resource Efficiency).  \n3) Inherent causal chain for each secondary: None—planning does not unavoidably reduce GHGs or increase carbon sinks; outcomes depend on what measures are chosen and grid mix.  \n4) Edge cases applied: Some plans may include hardening, undergrounding, or backup generation that could raise or lower emissions, but those effects are context-specific and not inherent to “adaptation planning.”  \n5) Confirm labels apply to ALL instances: Any policy requiring utilities to have adaptation/contingency plans for extreme events primarily improves resilience to hazards, fitting Adaptation universally.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "If the “adaptation plan” explicitly mandates low-carbon resilience measures (e.g., storage + renewables replacing diesel backup), a separate mitigation mechanism may apply; however, planning requirements alone remain primarily Adaptation.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“adaptation plans”, “contingency plans for extreme events”, “Energy production, transmission and distribution companies”, “25%”, “100%”",
+  "co_benefits": "Improved general disaster preparedness/business continuity; reduced economic losses from non-climate disruptions; potential public safety benefits from fewer outages affecting critical services.",
+  "instance_edge_case_notes": "Targets imply an implementation/monitoring framework but the excerpt does not specify the binding mechanism (e.g., mandate, licensing condition, reporting requirement). Classified as target-setting rather than regulatory-mandate due to lack of explicit obligation language."
+}

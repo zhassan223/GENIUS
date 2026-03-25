@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Issue and enforce a national law to stop outdoor work from 11:00 AM to 16:00 during June through August (issued 2005; cited as started by EPA in 2018 under public health sector).",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "occupational_heat_restriction → heat_exposure_reduction",
+  "mechanism_description": "Restricting outdoor work during the hottest hours reduces occupational heat exposure and associated health risks during extreme heat.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Public Health",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (extreme heat) + work scheduling rules → ↓ time spent in peak-heat conditions → ↓ heat stress/illness → ↓ climate-related health impacts",
+  "causal_mechanism_detail": "1) Change in human activity/system: Employers/workplaces (often via labor law) restrict or shift outdoor work hours or halt work above a heat/temperature threshold during the hottest parts of the day/season.  \n2) Mediating physical process: Reduced duration and intensity of workers’ heat exposure lowers physiological heat strain (core temperature rise, dehydration) and reduces incidence of heat exhaustion/heat stroke.  \n3) Climate-relevant outcome: Lower morbidity/mortality and occupational health impacts during extreme heat events, increasing population resilience to warming temperatures.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing human exposure to extreme heat, thereby lowering heat-related illness and deaths during heat events.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Extreme heat hazard → reduced exposure time/intensity via work restrictions → reduced health impacts.  \n2) Why this primary over alternatives: The intent and direct effect are protecting people from heat; any energy/emissions effects from changed work patterns are incidental and not the main climate-relevant outcome of the mechanism.  \n3) Inherent causal chain for each secondary: None—there is no unavoidable mitigation/resource-efficiency/nature-based effect that must occur in every instance of restricting outdoor work hours.  \n4) Edge cases applied: Even if some implementations slightly change transport or energy use (e.g., different shift timing), those effects are context-dependent and not guaranteed by the mechanism.  \n5) Confirm labels apply to ALL instances: Any policy that restricts/shifts outdoor work to avoid peak heat operates by reducing exposure and thus is consistently an Adaptation mechanism.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "If paired with mandatory engineering controls (cooling, electrification, shading structures) the combined package could include mitigation/resource-efficiency elements, but the occupational heat restriction mechanism alone remains primarily Adaptation.",
+  "additional_secondary_evidence": "Public Health: Kuwait faces extreme heat (50°C+ events), and a mandatory midday outdoor work ban directly reduces exposure/sensitivity because it cuts time spent working during peak heat hours, lowering heat stress and heat illness risk.",
+  "instrument_type": "regulatory-mandate",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“issued a national law”; “stop any outdoor work”; “from 11:00 AM to 16:00”; “during the months of June through August”",
+  "co_benefits": "Potential labor productivity protection and reduced workplace accidents from heat fatigue (not framed as primary mechanism beyond health exposure reduction).",
+  "instance_edge_case_notes": "Could also be construed as an occupational safety/performance standard, but the text specifies a blanket prohibition by hours/season (mandate) rather than a temperature-triggered standard."
+}

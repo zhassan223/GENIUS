@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Involve media to communicate health and climate issues through advertising and social media.",
+  "role": "sub",
+  "sector": "cross_sector",
+  "canonical_mechanism": "public_climate_health_communication_campaign → behavior_change_enabling",
+  "mechanism_description": "Use advertising and social media outreach to raise awareness of climate and health issues, enabling shifts in public behaviors and support for emissions-reducing and resilience actions.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Heat risk management",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Communication campaign → ↑ risk awareness/knowledge → ↑ protective behaviors & service uptake → ↓ exposure/vulnerability to climate-related health hazards",
+  "causal_mechanism_detail": "(1) Change: Government/health-sector uses media, advertising, and social platforms to communicate climate–health risks and recommended actions. (2) Mediating process: improved risk perception, knowledge, and social norms increases adoption of protective behaviors (e.g., hydration/cooling, checking vulnerable people, using heat alerts, seeking care appropriately) and improves compliance with health guidance during events. (3) Outcome: reduced morbidity/mortality and overall vulnerability from climate-driven health stressors, especially extreme heat and related events.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is improved public protective behavior (e.g., heat-risk awareness and response) that reduces exposure and health harms during climate-related hazards.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: information → behavior change → reduced exposure/vulnerability to climate-health hazards, which is an Adaptation pathway.  \n2) Why this primary over alternatives: while awareness can sometimes indirectly support mitigation (e.g., pro-climate norms), that effect is not the most direct or reliably dominant outcome across all instances of climate–health communication; the core purpose and physical impact is hazard preparedness and reduced health impacts.  \n3) Inherent causal chain for each secondary: none—mitigation or resource-efficiency outcomes are not guaranteed physical consequences of a communication campaign.  \n4) Edge cases applied: if a campaign specifically targets emissions-reducing behaviors (e.g., mode shift, energy conservation), it could be Mitigation; however, the canonical mechanism here is climate-health risk communication enabling protective behavior, which most consistently maps to Adaptation.  \n5) Confirm labels apply to ALL instances: any policy using climate-health communication to enable behavioral response to climate risks fits Adaptation regardless of geography, because it acts primarily on exposure/vulnerability rather than directly on emissions or sinks.",
+  "mechanism_confidence": 0.74,
+  "mechanism_edge_case_notes": "Some campaigns blend health risk messaging with mitigation co-benefits (e.g., anti-idling, active transport); classification should remain Adaptation unless the dominant and explicit intended pathway is emissions reduction rather than hazard-health protection.",
+  "additional_secondary_evidence": "Heat risk management: Kuwait faces extreme heat (50°C+ events), and media-based health/climate messaging directly reduces sensitivity by increasing adoption of heat-protective behaviors (e.g., hydration/cooling, checking vulnerable people, responding to heat alerts) communicated via “advertisement and social media.”",
+  "instrument_type": "information-disclosure",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Involve the media”; “carrying the message”; “issues of Health”; “advertisement”; “social media sites”; “receive the message more directly”",
+  "co_benefits": "Potential co-benefits: improved general public health knowledge and service uptake; possible dust-storm health precaution awareness (not explicitly specified).",
+  "instance_edge_case_notes": "Could also support dust-storm risk communication in Kuwait, but the text does not specify dust/air-quality guidance; the clearest direct hazard linkage is extreme-heat health protection."
+}

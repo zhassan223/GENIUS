@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Hiroshima City will set a short-term (FY2020) energy-use reduction target of 5% for total energy use not affected by the CO2 emission factor of electric utilities.",
+  "role": "individual",
+  "sector": "cross_sector",
+  "canonical_mechanism": "economy_wide_energy_use_target → energy_use_reduction",
+  "mechanism_description": "Setting an economy-wide energy-use reduction target drives actions that reduce overall energy demand, leading to lower energy-related greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Lowering total energy use delivers the same (or acceptable) level of services with less energy input through efficiency and/or reduced wasteful consumption, inherently improving energy productivity.",
+  "primary_causal_pathway": "Energy service demand management/efficiency → ↓ final energy consumption → ↓ fuel combustion & upstream energy supply → ↓ GHG emissions",
+  "causal_mechanism_detail": "(1) Change: The city sets an economy-wide quantitative target to reduce total energy use, prompting cross-sector actions (buildings, industry, transport, public operations) to cut energy demand. (2) Process: Reduced end-use energy consumption decreases electricity and fuel production/combustion and associated upstream extraction and generation. (3) Outcome: Lower CO₂ (and some CH₄/N₂O) emissions from energy use, reducing net atmospheric forcing.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing energy-related greenhouse gas emissions by lowering overall energy demand.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Target → actions that reduce energy use → reduced combustion of fossil fuels/electricity generation → reduced GHG emissions (mitigation).  \n2) Why this primary over alternatives: While lower energy use can reduce costs or improve resilience indirectly, the direct and largest climate effect across all instances is emissions reduction from reduced energy demand.  \n3) Inherent secondary causal chain(s): Resource Efficiency is inherent because the mechanism is explicitly about reducing energy input per economy-wide activity level (less energy throughput).  \n4) Edge cases applied: If the grid is already near-zero-carbon, the mitigation benefit may be smaller, but the mechanism still primarily aims at (and typically yields) emissions reductions on a life-cycle/marginal basis; adaptation benefits are context-dependent and not guaranteed.  \n5) Label applicability: Any policy using an economy-wide energy-use reduction target shares this same demand-reduction → emissions-reduction pathway, so Mitigation applies universally; Resource Efficiency is also universally implicated by reduced energy throughput.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If the target is defined in a way that excludes major emitting energy uses (or is paired with fuel-switching that increases non-energy emissions), realized mitigation could be muted; in very low-carbon grids the primary impact may skew toward resource efficiency/cost savings, but the canonical climate pathway remains demand reduction lowering GHGs on the margin.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Setting of short-term energy reduction target\"; \"Total amount of energy use\"; \"▲ 5%\"; \"not affected by the carbon dioxide emission factor of electric utility\"",
+  "co_benefits": "Potential air-pollution reduction and reduced heat waste/urban heat contributions from lower energy use, but not framed as measures directly reducing exposure/sensitivity to extreme heat, flooding, landslides, typhoons, or sea-level rise.",
+  "instance_edge_case_notes": "The qualifier “not affected by the CO2 emission factor of electric utilities” suggests the target is defined in energy (not emissions) terms to avoid grid-factor fluctuations; instrument classification remains target-setting for energy-use reduction."
+}

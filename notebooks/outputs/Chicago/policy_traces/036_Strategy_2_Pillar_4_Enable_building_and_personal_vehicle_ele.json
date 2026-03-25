@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Strategy 2 (Pillar 4): Enable building and personal vehicle electrification.",
+  "role": "parent",
+  "sector": "cross_sector",
+  "canonical_mechanism": "building_and_vehicle_electrification → fossil_fuel_combustion_emissions_reduction",
+  "mechanism_description": "Enable electrification of building end uses and personal vehicles to replace direct fossil fuel combustion with electricity, reducing greenhouse gas emissions (especially as the grid decarbonizes).",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Electrified end uses (e.g., heat pumps, EV drivetrains) typically deliver the same service with less final energy input per unit service (higher conversion efficiency), reducing overall energy consumption and associated upstream losses.",
+  "primary_causal_pathway": "Fossil end-use substitution → ↓ on-site fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Buildings and personal vehicles switch from direct combustion technologies (furnaces/boilers, gas stoves, ICE vehicles) to electric technologies (heat pumps, electric appliances, EVs) supported by charging and electrical upgrades.  \n(2) Mediating process: Eliminating on-site combustion directly removes combustion CO₂ (and some CH₄/N₂O), and shifts remaining emissions (if any) upstream to the power sector where emissions intensity can be reduced via grid decarbonization; additionally, electric technologies often convert energy to useful work/heat more efficiently.  \n(3) Outcome: Net reduction in lifecycle greenhouse-gas emissions (especially as the grid gets cleaner), contributing to climate change mitigation.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced greenhouse-gas emissions from avoided direct fossil-fuel combustion in buildings and vehicles (and, increasingly, from cleaner electricity supply over time).",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Substitute electricity for direct fossil combustion in buildings/vehicles → fewer combustion emissions → lower GHGs.  \n2) Why this primary over alternatives: While electrification can improve air quality or resilience, the mechanism’s main intended and largest climate-relevant effect is emissions reduction (mitigation), not hazard reduction (adaptation) or ecosystem carbon (nature-based).  \n3) Inherent secondary causal chain(s): Resource Efficiency is inherent because common electrification technologies (heat pumps, EVs) generally require less final energy to provide the same heating/mobility service, reducing energy demand and associated upstream losses.  \n4) Edge cases applied: If the grid is highly fossil-intensive, near-term emissions reductions may be smaller or delayed, but the mechanism still targets mitigation via combustion avoidance and compatibility with grid decarbonization; rebound effects are possible but not inherent.  \n5) Confirm labels apply to ALL instances: Any policy that enables building and/or personal vehicle electrification shares the core combustion-avoidance pathway (Mitigation) and typically the higher end-use efficiency pathway (Resource Efficiency).",
+  "mechanism_confidence": 0.92,
+  "mechanism_edge_case_notes": "Net GHG benefits depend on marginal grid emissions, technology choice (e.g., resistance heat vs heat pumps), and adoption patterns; however, the defining mechanism remains fossil combustion displacement. If implemented with inefficient electric end uses, the Resource Efficiency secondary could weaken, but electrification programs in practice usually center on efficient options (EVs/heat pumps).",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Enable\"; \"building … electrification\"; \"personal vehicle electrification\"",
+  "co_benefits": "Potential local air quality and health improvements from reduced combustion (NOx/PM), and potential improved indoor thermal comfort during extreme heat (if paired with efficient electric cooling), but these are not explicit and do not directly reduce hazard exposure/sensitivity in the statement.",
+  "instance_edge_case_notes": "Instrument type is ambiguous because “enable electrification” could be implemented through mandates, incentives, or infrastructure investments; with no specifics given, it is treated as an enabling planning/strategy framing rather than a concrete regulatory or spending instrument."
+}

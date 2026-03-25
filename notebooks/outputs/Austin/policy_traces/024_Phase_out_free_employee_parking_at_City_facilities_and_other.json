@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Phase out free employee parking at City facilities and other large employers within 1/2 mile of the transit priority network, replacing it with cash-out, carpool/vanpool, transit passes, telework, or other commuter benefits.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "commuter_benefits_program → modal_shift_and_vmt_reduction",
+  "mechanism_description": "Eliminating free parking and offering commuter benefits shifts commuting from single-occupancy driving to transit/carpool/telework, reducing vehicle travel and transportation emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: By reducing single-occupancy driving and VMT, the mechanism inherently reduces fuel (energy) use per commuter trip and overall energy throughput for commuting.",
+  "primary_causal_pathway": "Travel behavior incentives → modal shift/↓ VMT → ↓ fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Employers/cities provide financial and programmatic commuter benefits (e.g., transit subsidies, parking cash-out, vanpool/carpool benefits, telework supports) and/or remove free parking.  \n2) Mediating process: Changed generalized cost and convenience of travel leads to fewer single-occupancy vehicle commute trips, increased use of transit/carpool/active modes, and/or reduced trip frequency via telework, lowering VMT.  \n3) Climate-relevant outcome: Reduced gasoline/diesel consumption and tailpipe CO₂ (and some co-pollutants), yielding net reductions in transportation-sector GHG emissions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions from lowered vehicle miles traveled and shifts to lower-carbon commute modes.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Incentives/benefits change commute choices → ↓ SOV driving/↓ VMT → ↓ fuel combustion → ↓ GHG emissions.  \n2) Why this primary over alternatives: While commuter benefits can have co-benefits (cost savings, congestion/air quality), the principal climate effect across all instances is direct emissions reduction from reduced driving and increased lower-carbon modes—i.e., Mitigation.  \n3) Inherent secondary chain(s):  \n   - Resource Efficiency: reduced VMT necessarily means less transport energy consumed for the same commuting service.  \n4) Edge cases applied: If benefits include EV charging or EV purchase incentives, those would be a different mechanism (vehicle electrification) rather than this one; if benefits are purely informational with no behavior change, climate effect may be small but the intended/typical physical pathway remains VMT/mode shift.  \n5) Confirm labels apply to ALL instances: Any policy fitting this mechanism (commuter benefits designed to shift modes/reduce driving) operates through travel demand reduction/modal shift, making Mitigation primary and Resource Efficiency an inherent co-effect.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Some commuter benefit packages may include elements not strictly about mode shift (e.g., EV incentives, fleet programs); those components could shift the dominant pathway to electrification or other mitigation mechanisms if they are the main lever. Telework-heavy programs still fit if the core effect is trip reduction (↓ VMT).",
+  "additional_secondary_evidence": null,
+  "instrument_type": "incentive-program",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“Phase out the practice of providing free parking spaces to employees”; “offer a parking cash-out”; “carpool and vanpool options”; “transit passes”; “support for teleworking”; “flex schedules”; “within 1/2 mile of the … transit priority network”",
+  "co_benefits": "Improved local air quality and reduced congestion; reduced household transportation costs; potential public health benefits from reduced driving/greater active travel; potential reduction in extreme-heat exposure if fewer car trips reduce urban heat and emissions (co-benefit, not a direct hazard exposure/sensitivity reduction)",
+  "instance_edge_case_notes": "Could be framed as a regulatory mandate if adopted as a binding requirement on “other large employers”; however, as written it reads as a programmatic phase-out with replacement benefits (best fit: incentive-program/TDM program)."
+}

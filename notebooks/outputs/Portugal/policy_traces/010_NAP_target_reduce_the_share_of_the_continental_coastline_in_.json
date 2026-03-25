@@ -1,0 +1,23 @@
+{
+  "policy_statement": "NAP target: reduce the share of the continental coastline in a critical state of erosion from 16.5% (2020 target) to 10% by 2030.",
+  "role": "sub",
+  "sector": "land_use",
+  "canonical_mechanism": "coastal_erosion_management → shoreline_erosion_risk_reduction",
+  "mechanism_description": "Coastal erosion management actions (e.g., protection, restoration, and managed retreat where needed) reduce the extent of coastline experiencing critical erosion conditions and associated climate risk.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Coastal erosion",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (sea-level rise + storms) → shoreline erosion → erosion management/shoreline stabilization or retreat → ↓ exposure/asset loss → ↓ climate risk",
+  "causal_mechanism_detail": "(1) Changes to human/coastal system: coastal zone planning and interventions such as beach nourishment, dune reinforcement, living shorelines, seawalls/revetments, sediment management, setbacks, and managed retreat. (2) Mediating physical/ecological process: alters wave energy dissipation, sediment transport/budgets, and shoreline morphology to slow erosion rates or relocate assets out of erosion-prone areas. (3) Climate-relevant outcome: reduces the length/percentage of coastline in critical erosion condition and lowers expected damages/disruption from climate-intensified coastal hazards.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced exposure of people, assets, and ecosystems to sea-level-rise- and storm-driven shoreline erosion and associated damages.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: addressing a climate-driven hazard (sea-level rise/storm surge) by reducing erosion impacts and exposure.  \n2) Why this primary over alternatives: the mechanism’s intent and main effect is risk reduction (damages avoided) rather than emissions reduction or efficiency gains.  \n3) Inherent causal chain for each secondary: None—while some implementations could incidentally affect carbon storage (e.g., dune/vegetation restoration) or materials/energy use, those effects are not unavoidable across all erosion-management approaches (many are hard-engineering).  \n4) Edge cases applied: even where “living shorelines” are used, the universal mechanism-level effect remains hazard/risk reduction; any mitigation co-benefit is optional and implementation-specific.  \n5) Confirm labels apply to ALL instances: any coastal erosion management aimed at reducing critical erosion conditions is fundamentally an adaptation measure to reduce shoreline erosion risk.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Some implementations may be Nature-Based Solutions (e.g., dune/wetland restoration) with potential carbon co-benefits, but the canonical mechanism includes hard protection and managed retreat as well; therefore no secondary category is inherent across all instances.",
+  "additional_secondary_evidence": "Coastal erosion: Portugal faces coastal erosion, and reducing the share of coastline in a critical state of erosion directly reduces exposure/sensitivity because it improves shoreline stability/condition, lowering erosion-driven land loss and damages under sea-level rise and storms.",
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“reduce the share of the continental coastline in a critical state of erosion”; “from 16.5% … to 10% by 2030”; “critical state of erosion | 16,5% | 10%”",
+  "co_benefits": "Reduced coastal flooding impacts; protection of coastal ecosystems and tourism/recreation assets; reduced infrastructure maintenance/disruption",
+  "instance_edge_case_notes": "Instrument is inferred as target-setting because the excerpt provides only an indicator/percentage target without specifying the implementing policy tools (e.g., nourishment, setbacks, defenses)."
+}

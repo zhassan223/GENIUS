@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Construct desalination using Multi-Stage Flash (MSF) technology: operate 40 MSF units with total production capacity of 234 MGD (completed).",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "desalination_capacity_expansion → water_supply_resilience",
+  "mechanism_description": "Expanding desalination capacity increases reliable potable water supply, improving resilience to water scarcity and drought conditions.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Water security / water supply reliability",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (drought/heat/precipitation variability) → ↓ water availability/reliability → desalination capacity added → ↑ potable water supply reliability → ↓ exposure to water scarcity impacts",
+  "causal_mechanism_detail": "(1) Change: Governments/utilities plan, finance, and build additional desalination plants/units (e.g., MSF/RO) and associated intake, treatment, and distribution capacity. (2) Mediating process: Seawater (or brackish water) is converted to freshwater via thermal or membrane separation, creating a controlled, rainfall-independent supply source that can be ramped/operated to meet demand. (3) Climate-relevant outcome: Improved resilience to climate-driven water scarcity and drought (fewer shortages, reduced service interruption, and lower societal/economic impacts from inadequate water supply).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect of policies using this mechanism is reducing water-supply disruption during climate-exacerbated scarcity by increasing reliable freshwater production capacity.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Increasing desalinated water production increases reliability of water supply under climate stressors (drought/heat), which is an exposure/sensitivity reduction pathway (Adaptation).  \n2) Why this primary over alternatives: The mechanism’s intended and most material climate effect is maintaining service continuity and reducing vulnerability to water scarcity; any emissions effect is ambiguous and often adverse (energy-intensive), so it cannot be the primary pathway.  \n3) Inherent causal chain for each secondary: None—there is no unavoidable mitigation, resource-efficiency, or nature-based benefit that occurs in all instances of desalination expansion.  \n4) Edge cases applied: Even if powered by renewables or paired with efficiency, those are additional design choices outside the core mechanism; likewise, potential negative impacts (higher energy use, brine disposal) do not create a positive secondary category.  \n5) Confirm labels apply to ALL instances: Any desalination-capacity expansion, regardless of location, primarily increases drought/shortage robustness by adding a precipitation-independent water source.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If desalination expansion is explicitly coupled to renewable power procurement or replaces high-emissions water import/pumping, the combined policy package could have a mitigation component, but that is not inherent to the desalination-capacity-expansion → water-supply-resilience mechanism itself.",
+  "additional_secondary_evidence": "Water security / water supply reliability: Kuwait faces water scarcity, and building/operating MSF desalination units directly reduces exposure/sensitivity because it adds a rainfall-independent freshwater supply (234 MGD) that improves potable water availability during drought/precipitation variability.",
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“Constructing Desalination using Multi-Stage Flash technology”; “40 operating … desalination units (MSF)”; “total production capacity of 234 MGD”; “project was completed by the Government and the MEW”",
+  "co_benefits": "Potential public health and economic continuity benefits from reduced water rationing/shortages; potential heat-risk co-benefit via more reliable water for cooling (not explicitly stated).",
+  "instance_edge_case_notes": "Although Kuwait’s extreme heat is a major hazard, the mechanism described is specifically water-supply augmentation; heat resilience is only an indirect co-benefit unless explicitly linked to cooling/heat response in the text."
+}

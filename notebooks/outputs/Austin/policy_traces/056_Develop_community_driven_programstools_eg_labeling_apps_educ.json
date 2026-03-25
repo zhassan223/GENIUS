@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Develop community-driven programs/tools (e.g., labeling, apps, education, incentives) to equitably make pro-climate, pro-health food choices affordable and culturally relevant.",
+  "role": "sub",
+  "sector": "land_use",
+  "canonical_mechanism": "diet_shift_programs_and_incentives → food_system_emissions_reduction",
+  "mechanism_description": "Community-designed labeling, education, apps, and incentives shift diets toward lower-carbon foods, reducing emissions associated with food production and consumption.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Dietary choice support (information + incentives) → demand shifts to lower-GHG foods → ↓ agricultural/supply-chain CH4 + N2O + CO2e → ↓ net GHG emissions",
+  "causal_mechanism_detail": "1) Change in human activity/system: Programs (labels, apps, education, procurement nudges, subsidies/discounts, culturally tailored outreach) steer household and community food purchasing/consumption toward lower-emissions options (commonly plant-based or lower-ruminant products).  \n2) Mediating physical/ecological process: Reduced production of emissions-intensive foods decreases enteric fermentation methane, manure methane, fertilizer-driven nitrous oxide, and energy/land inputs across the supply chain; in some contexts it can also reduce land conversion pressure.  \n3) Climate-relevant outcome: Lower lifecycle GHG emissions from the food system (reduced CO2e), contributing to reduced atmospheric forcing.",
+  "dominant_pathway_test": "Shifting diets toward lower-carbon foods reduces lifecycle food-system GHG emissions (notably methane and nitrous oxide) by lowering demand for emissions-intensive products.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Behavior-change tools and incentives shift diets, which reduces upstream food-production emissions; the largest climate effect is reduced GHG emissions (Mitigation).  \n2) Why this primary over alternatives: While programs may improve health equity or affordability, those are co-benefits; the climate-relevant “biggest lever” is lowering food-system emissions (especially CH4 and N2O).  \n3) Inherent causal chain for each secondary: None—resource efficiency (e.g., reduced food waste) or nature-based outcomes (e.g., regenerative practices increasing soil carbon) are not guaranteed by diet-shift programs alone and depend on additional, separate mechanisms.  \n4) Edge cases applied: If a specific policy is primarily about food access/health without a clear emissions-targeted diet shift, classification could weaken; however, the stated mechanism explicitly links diet shift to emissions reduction.  \n5) Confirm labels apply to ALL instances: Any policy implementing this mechanism (diet-shift programs/incentives) has the same primary intent and physical pathway: reduced demand for high-GHG foods → reduced supply-chain emissions.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If implementation emphasizes “local” or “regenerative” without reducing high-emissions consumption (or substitutes with other high-emissions foods), realized mitigation may be smaller; also, rebound effects (spending saved money on other carbon-intensive goods) can dilute net reductions, but the dominant intended pathway remains mitigation.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "incentive-program",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Strategy 3: Incentivize”, “community-driven programs and tools”, “labeling, apps, education, incentives”, “pro-climate, prohealth food choices”, “affordable and culturally relevant”",
+  "co_benefits": "Public health/nutrition improvements; equity/affordability; potential reduced water footprint of diets (relevant to water supply stress) but not explicitly framed as drought/water-risk reduction in the text.",
+  "instance_edge_case_notes": "The text includes both information tools (labeling/apps/education) and incentives; with a single instrument type required, “incentive-program” is selected because “Incentivize” is the named strategy and incentives are explicitly listed. If multi-tagging were allowed, “information-disclosure” would also fit."
+}

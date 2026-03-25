@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Reconfigure telecommunications networks in rural/forest areas as part of rural fire prevention structural interventions.",
+  "role": "sub",
+  "sector": "cross_sector",
+  "canonical_mechanism": "telecommunications_network_hardening → wildfire_risk_and_impact_reduction",
+  "mechanism_description": "Reconfiguring rural/forest telecommunications networks improves communications and operational capability for fire prevention and response, reducing wildfire risk and associated damages.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Disaster Risk Management",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (wildfire) → improved communications/response capacity → ↓ exposure & ↓ vulnerability → ↓ damages/disruption",
+  "causal_mechanism_detail": "1) Change in system: Telecommunications infrastructure in rural/forest areas is reconfigured/hardened (e.g., more resilient routing, protected/underground lines, redundant links, backup power, hardened towers/shelters).  \n2) Mediating process: Higher network reliability and coverage enables faster detection/reporting, public alerts, and better coordination among fire services and communities, and maintains command-and-control during fire events.  \n3) Climate-relevant outcome: Reduced wildfire risk and/or reduced severity of impacts (lower service disruption, fewer losses, improved safety), increasing resilience to climate-amplified wildfire conditions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced wildfire impacts on people, property, and critical operations through more reliable communications for prevention, early warning, and response.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Addresses a climate hazard (wildfire) by improving operational capacity and continuity of communications, leading to reduced exposure/vulnerability and damages.  \n2) Why this primary over alternatives: The direct and intended outcome is risk/impact reduction during wildfire events (adaptation). Any GHG implications are indirect and variable, and not the primary, assured effect of telecom reconfiguration.  \n3) Inherent causal chain for each secondary: None—mitigation benefits (avoided fire emissions) are not guaranteed, and resource-efficiency or nature-based effects are not physically inherent to telecom network changes.  \n4) Edge cases applied: Even if implemented with lower-energy equipment or renewable backup, those are optional design choices rather than inherent to “telecommunications network hardening for wildfire risk reduction.”  \n5) Confirm labels apply to ALL instances: Any policy using this mechanism (telecom hardening for wildfire) consistently functions as resilience/response capacity improvement, fitting Adaptation across contexts.",
+  "mechanism_confidence": 0.84,
+  "mechanism_edge_case_notes": "If the policy explicitly targets preventing ignitions from telecom assets (e.g., removing overhead lines that can spark fires) it still remains Adaptation, though it more directly reduces wildfire likelihood; if paired with decarbonization/energy-efficiency mandates for telecom operations, those would be additional, non-inherent mitigation elements outside this mechanism.",
+  "additional_secondary_evidence": "Disaster Risk Management: Portugal faces wildfire risk, and reconfiguring telecommunications networks directly reduces sensitivity to wildfire impacts because resilient communications enable faster reporting/alerts and better emergency response coordination during fire events.",
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“Reconfigure telecommunications networks”; “rural/forest areas”; “rural fire prevention structural interventions”; “Reconversion and reconfiguration of telecommunications networks”",
+  "co_benefits": "Potential co-benefits: improved rural connectivity/service reliability for non-emergency uses; enhanced communications resilience for other hazards (e.g., storms/flood response) but not explicitly stated.",
+  "instance_edge_case_notes": "Instrument type could also be framed as a regulatory-mandate if the underlying policy text specified telecom obligations/standards; the provided excerpt reads primarily as an infrastructure upgrade action, so “infrastructure-investment” is used."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Achieve net-zero carbon building milestones through new building energy codes/amendments and incentives/education for existing building decarbonization, in collaboration with utilities and with equity focus.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "building_energy_code → energy_use_reduction",
+  "mechanism_description": "Update and enforce new-building energy codes (with supporting programs for existing buildings) to reduce building energy consumption and associated emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency; Heat Resilience",
+  "secondary_justification": "Resource Efficiency: Higher building efficiency delivers the same heating/cooling/lighting/services with less energy input, reducing overall energy resource consumption as an inherent consequence of the mechanism.",
+  "primary_causal_pathway": "Building design/construction standards → ↓ building energy demand → ↓ fuel/electricity use → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Governments adopt/enable stricter building energy codes or ultra-low-energy performance standards for new buildings (and sometimes major renovations), affecting envelopes, HVAC efficiency, lighting, controls, and commissioning.  \n2) Mediating physical process: Improved thermal performance and equipment efficiency reduce heat losses/gains and reduce energy required to maintain indoor comfort and deliver building services.  \n3) Climate-relevant outcome: Lower operational electricity and fuel use reduces CO₂e emissions from grid generation and direct combustion (with magnitude depending on grid carbon intensity and fuel mix).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced operational building energy consumption leading to lower GHG emissions from electricity generation and/or on-site fuel combustion.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Code/standard → reduced building energy demand → reduced energy-related emissions (mitigation).  \n2) Why this primary over alternatives: While better buildings can also improve comfort during heat/cold events, the mechanism as stated is explicitly about reducing energy use (and by extension emissions), which is the largest and most direct climate effect across contexts.  \n3) Inherent causal chain for each secondary:  \n   - Resource Efficiency: Efficiency standards inherently reduce energy input per unit service delivered.  \n4) Edge cases applied: If the grid is already near-zero carbon, GHG benefits diminish, but energy-use reduction remains; classification still follows the intended dominant pathway of emissions reduction for the mechanism category.  \n5) Confirm labels apply to ALL instances: Any policy implementing stronger building energy codes/ultra-low-energy standards will reduce operational energy use relative to baseline practice, yielding mitigation as the dominant effect and energy resource savings as inherent.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Emissions reductions depend on energy supply carbon intensity and potential rebound effects; some code provisions may also increase embodied emissions (e.g., added materials) unless addressed separately, but the mechanism’s dominant pathway remains operational energy reduction.",
+  "additional_secondary_evidence": "Heat Resilience: Austin faces extreme heat, and stricter building energy codes/high-performance building measures directly reduce exposure/sensitivity because better envelopes/efficient HVAC lower indoor overheating and help maintain safe indoor temperatures during heat events (including potential outage/peak-stress periods).",
+  "instrument_type": "regulatory-mandate",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“new building energy codes, amendments”; “net-zero carbon buildings”; “decarbonize through incentives and education”; “Collaborate with local utilities”; “equitable emission reduction strategies”",
+  "co_benefits": "Potential water-supply stress benefits (reduced power-sector cooling water demand via lower electricity use) and wildfire/air-quality exposure reduction (less fossil combustion), but not explicitly targeted and not clearly a direct local exposure/sensitivity reduction in the text.",
+  "instance_edge_case_notes": "Instrument mix is present (codes + incentives/education + utility collaboration). Classified by the primary binding lever (“building energy codes, amendments”) as regulatory-mandate; incentives/education function as enabling complements rather than the main instrument."
+}

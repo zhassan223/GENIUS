@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Install or retrofit shading/cooling equipment in urban transport infrastructure/rolling stock, public buildings (schools, hospitals, health centres) and IPSS supporting children and the elderly; and implement alert systems to warn the general population and urban transport users.",
+  "role": "sub",
+  "sector": "cross_sector",
+  "canonical_mechanism": "shading_and_cooling_infrastructure → heat_exposure_reduction",
+  "mechanism_description": "Install or retrofit shading/cooling measures and deploy heat alert systems to lower heat exposure and associated health risks for transit users and occupants of public/social service buildings.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Extreme heat",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (extreme heat) → ↓ heat exposure (shade/cooling + warnings) → ↓ health and service-disruption impacts",
+  "causal_mechanism_detail": "(1) Change: Install/retrofit physical shading and cooling measures (e.g., shade structures, reflective/shaded stops, ventilation/AC upgrades) in transit infrastructure/rolling stock and in public/social-service buildings, and deploy heat alert/warning systems for users and the public. (2) Mediating process: Reduced solar radiant load and ambient/indoor operative temperatures; increased access to cooled spaces; behavioral risk reduction via warnings (e.g., trip timing, hydration, seeking cooling). (3) Climate-relevant outcome: Lower exposure and vulnerability to heatwaves and rising temperatures, reducing heat-related illness/death and maintaining safer operation of public services and transport during extreme heat.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced human heat stress and heat-related morbidity/mortality during extreme heat events by lowering exposure in buildings, transit assets, and public spaces.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: extreme heat risk is addressed by reducing exposure through shade/cooling and warnings, yielding direct reductions in heat-health impacts. 2) Why Adaptation is primary: the mechanism’s main intent and effect is protecting people and services from a climate hazard (heatwaves/temperature rise), not primarily reducing energy use or emissions. 3) Inherent secondaries: none are unavoidable—some implementations may increase energy use (mechanical cooling) or decrease it (passive shading), and any mitigation/resource-efficiency outcomes depend on design choices rather than being guaranteed. 4) Edge cases applied: if shading/cooling is explicitly passive (trees, green roofs) or primarily reduces cooling demand, it could shift toward Nature-Based Solutions or Resource Efficiency/Mitigation, but that is not inherent to “shading_and_cooling_infrastructure → heat_exposure_reduction” as defined here. 5) Label applies to all instances: any policy using this mechanism will, by construction, aim to lower heat exposure and heat-health risk, fitting Adaptation consistently.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Mechanical cooling can increase electricity demand (potentially raising GHGs if grids are carbon-intensive), while passive shading can reduce cooling demand; these divergent, non-universal emissions effects are why no secondary category is assigned. If the intervention is specifically tree canopy/green infrastructure, classify under Nature-Based Solutions instead.",
+  "additional_secondary_evidence": "Extreme heat: Portugal faces extreme heat events, and installing/retrofitting shading/cooling equipment plus heat alert systems directly reduces exposure/sensitivity because it lowers indoor/operational temperatures and prompts protective behaviors during heatwaves.",
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“Installation or retrofit of shading/cooling equipment”; “Urban transport infrastructure and rolling stock”; “Public buildings (primarily schools, hospitals and health centres)”; “IPSS supporting children and the elderly”; “Alert systems to provide warnings”",
+  "co_benefits": "Reduced urban heat island discomfort; improved passenger comfort and service quality; potential productivity/learning benefits in schools; reduced non-climate-related heat/thermal stress incidents.",
+  "instance_edge_case_notes": "Alert systems could also be classified as an information-disclosure instrument, but the package is dominated by physical retrofit/installation, so infrastructure-investment is selected as the primary instrument type."
+}

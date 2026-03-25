@@ -1,0 +1,23 @@
+{
+  "policy_statement": "For Line of Action #6, allocate 21 million of public investment in 2020 (PDR 2020: 20 M€; SEUR OP: 1 M€).",
+  "role": "sub",
+  "sector": "cross_sector",
+  "canonical_mechanism": "public_investment_allocation_unspecified → climate_action_enabling",
+  "mechanism_description": "Allocating public funding enables implementation of an unspecified climate-related action, which could lead to emissions reductions or resilience benefits depending on how the funds are used.",
+  "primary_category": "Resource Efficiency",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Public finance allocation → ↑ implementation capacity for climate measures → downstream outcomes (context-dependent)",
+  "causal_mechanism_detail": "(1) Change in system: Government allocates public investment/budget to a climate-labelled line of action or program. (2) Mediating process: Increased financial resources reduce funding constraints, enabling procurement, staffing, infrastructure, and program delivery for climate-relevant interventions. (3) Climate-relevant outcome: Indirect and variable—could produce ↓ GHG emissions, ↓ climate risk/exposure, and/or improved ecosystem outcomes depending on what the investment funds.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect of policies using this mechanism is enabling implementation of other climate actions by providing public capital, with the actual emissions or resilience impact determined by the downstream funded interventions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: the direct, mechanism-inherent effect is financial resourcing (an enabling input), not a specific physical mitigation or adaptation process.  \n2) Why this primary over alternatives: Mitigation/Adaptation/Nature-Based require a defined physical pathway (e.g., fuel switching, exposure reduction, ecosystem restoration). Here, funding is unspecified and could support any of those; classifying as Resource Efficiency best fits a cross-cutting “same governance function with better allocation of resources” enabling mechanism.  \n3) Inherent causal chain for each secondary: None—no universal, unavoidable physical consequence (emissions reduction, resilience, or ecosystem change) follows from funding allocation alone.  \n4) Edge cases applied: If the funding is explicitly tied to a defined intervention (e.g., “€X for solar PV deployment” or “€X for flood barriers”), it should be reclassified to the intervention’s mechanism/category; this mechanism applies only when downstream use is not climate-physically specified.  \n5) Confirm labels apply to ALL instances: Any policy that only allocates public investment to enable climate action, without specifying the physical intervention, shares this enabling pathway and cannot be reliably categorized as mitigation/adaptation/NBS universally.",
+  "mechanism_confidence": 0.62,
+  "mechanism_edge_case_notes": "If the investment is for invasive species surveillance/control (as in the example parent action), impacts may be primarily Adaptation (risk management for climate-sensitive pests/diseases) and/or Nature-Based (ecosystem protection); however, that specificity belongs to the downstream intervention mechanism, not to the generic “public investment allocation unspecified” mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "“allocate 21 million of public investment”; “Goals: 2020: 21 million of public investment”; “PDR 2020: 20 M€; SEUR OP: 1 M€”",
+  "co_benefits": "Potential co-benefits (not evidenced in text): could support drought/water-scarcity management, wildfire prevention, heat adaptation, flood/coastal risk reduction, or emissions reductions depending on funded activities.",
+  "instance_edge_case_notes": "Instrument type is ambiguous because the text indicates budget allocation but not whether funds are for capital works vs grants/program delivery; classified as infrastructure-investment as the closest match among allowed types to “public investment,” but it could also function as an incentive-program/budget appropriation in practice if funds are disbursed as grants."
+}

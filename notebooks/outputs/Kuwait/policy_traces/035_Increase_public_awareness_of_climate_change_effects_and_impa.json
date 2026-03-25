@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Increase public awareness of climate change effects and impacts on general health.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "public_climate_health_awareness_campaign → adaptation_risk_awareness_increase",
+  "mechanism_description": "Conducting public education on climate-related health impacts increases risk awareness, which supports individual and community preparedness and adaptive actions.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Public Health",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Information/education intervention → ↑ risk awareness & preparedness behaviors → ↓ exposure/sensitivity to climate-related health hazards → ↓ climate impact on health",
+  "causal_mechanism_detail": "(1) Change: Government/health authorities conduct public communications and education on climate-driven health risks (e.g., heat illness, air quality/dust impacts, dehydration) and recommended protective behaviors.  \n(2) Process: Improved knowledge shifts individual/community decision-making (seeking cooling, hydration, checking vulnerable people, heeding warnings, using masks/filters, adjusting outdoor activity timing), increasing preparedness and response speed during events.  \n(3) Outcome: Reduced morbidity/mortality and overall health-system strain during climate hazards—i.e., reduced climate risk/impacts (adaptation benefit), not inherently reduced GHG emissions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced health vulnerability and harm during climate-related hazards by increasing risk awareness and prompting protective actions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: education → behavior/preparedness → reduced health impacts from climate hazards (risk reduction).  \n2) Why this primary over alternatives: the mechanism’s intended and direct effect is decreasing vulnerability/exposure (adaptation); any emissions changes are indirect and not guaranteed.  \n3) Inherent causal chain for each secondary: none—awareness campaigns do not necessarily cause mitigation, resource efficiency, or ecosystem enhancement in every instance.  \n4) Edge cases applied: campaigns could mention energy saving or low-carbon choices, but that is content-dependent and not inherent to “climate-health risk awareness”; likewise, improved efficiency in healthcare operations is not a necessary consequence.  \n5) Confirm labels apply to ALL instances: any policy implementing public climate-health awareness inherently targets preparedness/risk awareness, fitting Adaptation across contexts.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If the campaign is explicitly designed to drive mitigation behaviors (e.g., reduced car use) as the primary objective, the dominant pathway could shift; however, for climate-health impact awareness framed as preparedness, Adaptation remains correct.",
+  "additional_secondary_evidence": "Public Health: Kuwait faces extreme heat (50°C+ events) and dust storms, and increasing public awareness of climate change effects on health directly reduces exposure/sensitivity because informed individuals are more likely to adopt protective behaviors (e.g., hydration/cooling, limiting outdoor activity during heat/dust events, heeding alerts), lowering heat- and air-quality-related morbidity.",
+  "instrument_type": "information-disclosure",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Increase public awareness\"; \"climate changes effects and impacts\"; \"general health\"",
+  "co_benefits": "Potential co-benefits include reduced non-climate health burdens and improved general health literacy, but the text is not specific enough to code additional sectors beyond Public Health.",
+  "instance_edge_case_notes": "Secondary could be interpreted as “Disaster Risk Reduction” due to preparedness behaviors, but the statement is explicitly framed around health impacts; therefore coded as Public Health."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Reduce the volume/use of refrigerants, particularly high-GWP refrigerants, by expanding and prioritizing codes and incentives favoring passive design, reduction, and efficiency.",
+  "role": "sub",
+  "sector": "buildings",
+  "canonical_mechanism": "refrigerant_management → fugitive_emissions_reduction",
+  "mechanism_description": "Expand codes and incentives for passive design and efficiency to reduce reliance on high-GWP refrigerants, lowering refrigerant-related fugitive greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Adaptation",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Equipment/system management & standards → ↓ refrigerant leakage/release (high-GWP gases) → ↓ direct GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: How cooling/refrigeration equipment is specified, operated, maintained, and retired—through leak prevention/repair, required recovery, end-of-life capture, destruction programs, and enabling/mandating low/no-GWP refrigerants.  \n(2) Mediating process: Reduced physical escape of refrigerant gases during operation and servicing, and increased capture with verified destruction or replacement with lower-GWP working fluids.  \n(3) Outcome: Lower direct (Scope 1-type) fugitive greenhouse gas emissions, especially important because many refrigerants have very high GWPs relative to CO₂.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is avoiding high-GWP refrigerant emissions (fugitive releases) to the atmosphere by reducing leakage and ensuring recovery/destruction or substitution.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: refrigerant management/substitution reduces fugitive releases of high-GWP gases, producing an immediate and direct reduction in GHG emissions.  \n2) Why this primary over alternatives: while some actions (e.g., new equipment) could incidentally affect energy use, the mechanism as defined and as reflected in the policies is explicitly aimed at reducing refrigerant leakage/destruction/substitution—i.e., direct non-CO₂ mitigation.  \n3) Inherent causal chain for each secondary: None—energy efficiency, ozone-layer benefits, or safety/health effects may occur in some implementations but are not unavoidable across all instances of “refrigerant management → fugitive emissions reduction.”  \n4) Edge cases applied: even when implemented via building codes or pricing programs, the physical climate effect remains the same (less refrigerant emitted); any adaptation or resource-efficiency outcomes are contingent, not inherent.  \n5) Confirm labels apply to ALL instances: any policy that fits this mechanism necessarily aims to and (if effective) causes reduced refrigerant release to the atmosphere, which is mitigation.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Some refrigerant transitions can change system efficiency (raising or lowering indirect CO₂ from electricity), and some policies may also target ozone-depleting substances; however, those effects vary by refrigerant choice and equipment design and are not guaranteed, so they are not assigned as inherent secondary categories.",
+  "additional_secondary_evidence": "Adaptation: Austin faces extreme heat, and expanding/prioritizing codes and incentives favoring passive design and efficiency directly reduces exposure/sensitivity because buildings with passive cooling measures and higher efficiency maintain safer indoor temperatures with less mechanical cooling demand during heat events.",
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Reduce the volume of refrigerants”; “particularly those with high GWP”; “Ensure codes and incentives… are expanded and prioritized”; “favor passive design, reduction, and efficiency”",
+  "co_benefits": "Potential air quality and grid reliability benefits from reduced electricity demand for cooling; potential cost savings for occupants/building owners.",
+  "instance_edge_case_notes": "Instrument type is somewhat mixed: the text references both “codes” (regulatory) and “incentives” (incentive-program), but because it is framed as a strategy to expand/prioritize these tools rather than a specific mandate or rebate design, it is coded as a planning-strategy with enabling directness."
+}

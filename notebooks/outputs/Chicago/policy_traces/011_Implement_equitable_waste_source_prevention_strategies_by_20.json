@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Implement equitable waste source prevention strategies by 2030.",
+  "role": "sub",
+  "sector": "waste",
+  "canonical_mechanism": "waste_source_reduction_program → landfill_methane_avoidance",
+  "mechanism_description": "Preventing waste at the source reduces the volume of waste sent to landfill, avoiding landfill methane emissions and related disposal emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Source reduction inherently means providing the same consumption/service with less material throughput (less extraction/production/transport/disposal), thereby reducing resource use and associated upstream energy demand.",
+  "primary_causal_pathway": "Human activity (waste generation) → ↓ landfilled biodegradable waste → ↓ anaerobic decomposition in landfills → ↓ CH₄ emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Policies reduce waste generation at the source (e.g., prevention, reuse systems, packaging reduction), lowering the volume of waste requiring disposal.  \n2) Mediating physical process: With less waste (especially organics) entering landfills, there is less anaerobic microbial decomposition and therefore less methane generation and release (including reduced fugitive emissions from landfill gas systems).  \n3) Climate-relevant outcome: Net reduction in GHG emissions, dominated by avoided landfill CH₄ (and secondarily reduced collection/hauling and disposal energy use).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is avoiding landfill methane emissions by reducing the quantity of waste generated and disposed.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Reducing waste generated leads to less landfilled material and therefore less methane formation and release; avoided CH₄ drives the main climate benefit.  \n2) Why this primary over alternatives: While upstream manufacturing reductions can be significant, the canonical mechanism specified is explicitly “→ landfill_methane_avoidance,” and across policies using this mechanism the consistently largest direct effect is reduced landfill CH₄ from lower disposed tonnage.  \n3) Inherent causal chain for each secondary:  \n   - Resource Efficiency: Source reduction necessarily reduces material throughput (less product/packaging produced and handled), which is intrinsically a resource-efficiency outcome.  \n4) Edge cases applied: Even if a jurisdiction has minimal landfilling (e.g., high-incineration), the mechanism as defined presumes landfill diversion/avoidance; where landfilling is not the disposal route, the dominant pathway may shift, but that would be a different mechanism.  \n5) Confirm labels apply to ALL instances: Any genuine waste source reduction program that reduces landfilled waste will reduce landfill methane (mitigation) and inherently reduces material use (resource efficiency) regardless of local context.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "If the local baseline disposal is mostly incineration or if landfill gas capture is near-complete, the methane-avoidance benefit may be smaller and upstream production impacts could dominate; such cases may warrant a different canonical mechanism (e.g., waste_source_reduction → upstream_embodied_emissions_avoidance) for best fit.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Implement\"; \"waste source prevention strategies\"; \"by 2030\"; \"equitable\"",
+  "co_benefits": "Potential local air quality improvements from reduced waste hauling and landfill impacts; reduced litter/clogged drains that can marginally help stormwater management—however not explicit/direct enough to classify as a flooding adaptation mechanism.",
+  "instance_edge_case_notes": "“Implement … strategies by 2030” could be coded as a planning-strategy if the broader document frames this as a plan rather than a formal target; with only the excerpt, target-setting is the most defensible single instrument type."
+}

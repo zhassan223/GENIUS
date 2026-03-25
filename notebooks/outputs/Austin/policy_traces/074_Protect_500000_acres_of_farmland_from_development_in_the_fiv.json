@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Protect 500,000 acres of farmland from development in the five-county region through legal protections or regenerative agriculture programs by 2030.",
+  "role": "parent",
+  "sector": "land_use",
+  "canonical_mechanism": "natural_land_protection → ecosystem_and_carbon_preservation",
+  "mechanism_description": "Protecting farmland from development keeps land in lower-emissions, carbon-storing uses and avoids emissions and ecosystem loss associated with land conversion.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Flood risk management",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Land protection (avoid conversion/degradation) → preserved ecosystem carbon stocks + avoided land-use-change emissions → ↓ net GHG emissions / maintained carbon storage",
+  "causal_mechanism_detail": "(1) Change: Governments designate, acquire, or otherwise legally protect natural lands (and manage them to prevent degradation), limiting development and disruptive land uses. (2) Process: Avoided vegetation/soil disturbance reduces carbon oxidation, biomass loss, and soil carbon release; intact ecosystems continue to retain carbon and maintain ecological function. (3) Outcome: Lower net GHG emissions relative to a conversion baseline and preservation of existing carbon pools (reduced atmospheric forcing over time).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is avoiding GHG emissions by preventing land conversion/degradation and preserving existing ecosystem carbon stocks.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: preventing land-use change preserves carbon pools and avoids emissions from clearing/draining/disturbing natural areas.  \n2) Why this primary over alternatives: while “green/blue space” protection can reduce heat and flooding impacts, those adaptation benefits are not the single dominant climate effect across all instances; the mechanism as defined explicitly targets ecosystem/carbon preservation and avoidance of conversion emissions.  \n3) Inherent causal chain for each secondary: None—heat mitigation, flood buffering, biodiversity, and water quality benefits are common but not physically guaranteed for every protected parcel (they depend on ecosystem type, location, management, and hazard context).  \n4) Edge cases applied: “Manage for resilience” can include adaptation actions, but the mechanism remains land protection for carbon preservation; adaptation outcomes vary and therefore are not inherent secondaries.  \n5) Confirm labels apply to ALL instances: any policy that protects natural land to preserve ecosystems/carbon has a direct mitigation effect through avoided land-use-change emissions and maintained carbon stocks, regardless of city or ecosystem type.",
+  "mechanism_confidence": 0.78,
+  "mechanism_edge_case_notes": "Some protected “green and blue spaces” are pursued primarily for adaptation/recreation; if a policy protects highly managed/low-carbon areas (e.g., ornamental parks) or leads to substantial new irrigation/inputs, mitigation benefits may be smaller, but the canonical mechanism assumes meaningful ecosystem/carbon preservation via avoided conversion/degradation.",
+  "additional_secondary_evidence": "Flood risk management: Austin faces flash flooding, and protecting farmland from development directly reduces exposure/sensitivity because it limits new impervious surface expansion and preserves permeable land that can absorb/store runoff, helping moderate peak flows.",
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“By 2030”, “protect 500,000 acres”, “farmland from development”, “legal protections”, “regenerative agriculture programs”",
+  "co_benefits": "Heat risk reduction (open space), drought/water-supply resilience (soil moisture/groundwater recharge), wildfire risk reduction (landscape management), biodiversity/habitat protection",
+  "instance_edge_case_notes": "Instrument mix is mentioned (“legal protections or regenerative agriculture programs”), but the policy statement itself is framed as a quantified goal; classified as target-setting. Flood secondary is inferred from land-use/open-space preservation rather than explicitly stated floodplain or stormwater intent."
+}

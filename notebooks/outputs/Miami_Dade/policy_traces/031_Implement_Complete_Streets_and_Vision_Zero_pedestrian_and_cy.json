@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Implement Complete Streets and Vision Zero pedestrian and cyclist safety programs.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "complete_streets_vision_zero_programs → modal_shift_and_transport_emissions_reduction",
+  "mechanism_description": "Redesigning streets and implementing traffic-safety programs makes walking and cycling safer and more attractive, shifting trips away from cars and reducing transport emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Safer, more connected walking/cycling networks substitute human-powered (or lower-energy) mobility for car travel, delivering the same passenger-trip service with lower energy input per trip.",
+  "primary_causal_pathway": "Street redesign + safety enforcement/operations → modal shift away from private vehicles → ↓ vehicle miles traveled + ↓ fuel combustion → ↓ GHG emissions",
+  "causal_mechanism_detail": "1) Change in human activity/system: Reallocates street space and changes traffic operations (e.g., protected bike lanes, safer crossings, traffic calming, speed management, Vision Zero policies) to make active travel safer and more convenient.  \n2) Mediating physical process: Reduced crash risk and improved perceived/actual safety increase walking/cycling attractiveness; some short trips switch from cars, and driving speeds/volumes may decline.  \n3) Climate-relevant outcome: Lower gasoline/diesel combustion from fewer/shorter car trips (and potentially smoother, lower-speed traffic) reduces CO₂ (and co-pollutant) emissions from the transport sector.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced on-road fuel combustion (via reduced/shifted car trips), which lowers transportation GHG emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Built environment + safety programs → more active travel/less driving → less fuel burned → lower GHGs.  \n2) Why this primary over alternatives: While these programs can improve safety and public health, the mechanism as specified explicitly targets modal shift and transport emissions reduction; the largest climate effect is tailpipe emissions reduction (Mitigation).  \n3) Inherent causal chain for each secondary:  \n   - Resource Efficiency: Trip service delivered with less energy input when shifting from cars to walking/cycling is an unavoidable physical consequence of the modal shift.  \n4) Edge cases applied: If a “Complete Streets” project mainly improves vehicle flow or adds capacity without inducing mode shift, mitigation benefits could be smaller; however, the canonical mechanism defined here assumes the modal-shift/emissions-reduction pathway.  \n5) Confirm labels apply to ALL instances: Any policy truly implementing Complete Streets/Vision Zero to improve walk/bike safety with the intent/effect of shifting trips from cars will reduce fuel use/emissions (Mitigation) and increase energy efficiency of mobility (Resource Efficiency).",
+  "mechanism_confidence": 0.83,
+  "mechanism_edge_case_notes": "Some Complete Streets implementations may prioritize congestion management or include added lanes/parking that dilute mode-shift effects; Vision Zero can reduce emissions indirectly (smoother speeds) but primarily targets safety—classification hinges on the stated mechanism of modal shift and reduced transport emissions.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Implement Complete Streets\"; \"Vision Zero\"; \"pedestrian and cyclist safety programs\"",
+  "co_benefits": "Improved road safety and public health; potential air-quality improvements; potential (but not explicit) heat-risk reduction if shade/trees are incorporated into street design.",
+  "instance_edge_case_notes": "Could be coded as infrastructure-investment if the policy text specified capital street retrofits (e.g., protected bike lanes/sidewalk buildout). As written, it reads as implementing programs/frameworks, so planning-strategy/enabling is the best fit."
+}

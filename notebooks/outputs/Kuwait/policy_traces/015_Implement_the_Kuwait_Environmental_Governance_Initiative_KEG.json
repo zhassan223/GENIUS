@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Implement the Kuwait Environmental Governance Initiative (KEGI) to support design of the National Adaptation Plan (NAP) and relevant initiatives linked to water, city planning, and other sectors (2017–2018; budget $2,000,000).",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "adaptation_planning_framework → institutional_adaptive_capacity",
+  "mechanism_description": "Create and support a national adaptation planning process that strengthens institutional capacity to plan, coordinate, and implement climate resilience actions across sectors.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Governance/planning change → improved institutional capacity & coordination → better risk-informed decisions/implementation → ↓ climate hazard impacts (↓ exposure/vulnerability)",
+  "causal_mechanism_detail": "(1) Changes the governance system by creating, strengthening, or integrating adaptation and hazard-mitigation planning processes (e.g., linking community resilience strategies into hazard plans; developing a National Adaptation Plan; compiling cross-sector initiatives). (2) The mediating process is institutional: improved coordination across agencies/sectors, clearer priorities, mainstreaming of risk information, and more consistent funding/project selection and execution. (3) The climate-relevant outcome is increased adaptive capacity that reduces losses and disruptions from extreme heat, flooding, sea-level rise, water scarcity, and other climate hazards.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is improved preparedness and coordinated implementation that reduces exposure and sensitivity to climate hazards, lowering climate-related damages.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: institutional planning frameworks improve adaptive capacity, which primarily reduces climate risk and impacts.  \n2) Why this primary over alternatives: while some planned actions may later yield mitigation or efficiency co-benefits, the mechanism itself is planning/coordination aimed at resilience outcomes; its direct and intended climate effect is adaptation.  \n3) Inherent causal chain for each secondary: none is unavoidable—planning frameworks do not necessarily reduce GHGs, improve resource efficiency, or enhance ecosystems unless paired with specific measures.  \n4) Edge cases applied: hazard mitigation plans can include emissions-reducing measures (e.g., energy upgrades for resilience), but those are contingent implementation choices, not inherent to “planning framework → adaptive capacity.”  \n5) Confirm labels apply to ALL instances: any policy that strengthens or integrates adaptation/hazard planning increases institutional adaptive capacity and thus fits Adaptation regardless of city/context.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Plans that explicitly require mitigation (e.g., integrating emissions targets into hazard planning) would introduce a mitigation mechanism, but that is additive and not intrinsic to the adaptation-planning-to-capacity mechanism as defined.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Kuwait Environmental Governance Initiative (KEGI)”; “supports the design of the National Adaptation Plan (NAP)”; “initiatives linked to water, city planning, and other sectors”; “UNDP and EPA”; “budget of $2,000,000”",
+  "co_benefits": "Potential co-benefits include improved urban service delivery and water-sector efficiency/security (which may indirectly help with heat and water scarcity), but the text only specifies plan/initiative design rather than implementation.",
+  "instance_edge_case_notes": "Could be tempting to tag water-scarcity adaptation as a secondary due to explicit “water” linkage, but the intervention is plan design (capacity/coordination) rather than a concrete water-supply/demand measure that directly reduces sensitivity/exposure."
+}

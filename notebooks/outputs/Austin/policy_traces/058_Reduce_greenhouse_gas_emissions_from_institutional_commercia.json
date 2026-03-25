@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Reduce greenhouse gas emissions from institutional, commercial, and government purchasing by at least 50% by 2030.",
+  "role": "parent",
+  "sector": "cross_sector",
+  "canonical_mechanism": "low_carbon_procurement_policy → supply_chain_emissions_reduction",
+  "mechanism_description": "Implementing low-carbon purchasing requirements shifts demand toward lower-emissions goods and services, reducing lifecycle/supply-chain greenhouse gas emissions associated with procurement.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Procuring “low-carbon” goods typically entails lower material/energy intensity (e.g., recycled/low-embodied-carbon materials, durability, reuse) which reduces resource and energy inputs per unit of service delivered.",
+  "primary_causal_pathway": "Procurement standards → demand shift to low-embodied-carbon goods/services → ↓ supply-chain fossil energy use & process emissions → ↓ GHG emissions",
+  "causal_mechanism_detail": "(1) Change: Public/institutional buyers modify specifications and vendor selection (e.g., EPD requirements, embodied-carbon limits, low-carbon food/product criteria) to purchase lower-emissions alternatives. (2) Process: Market signal and contracting requirements drive suppliers to substitute materials, improve processes, decarbonize energy inputs, and reduce high-emission inputs across manufacturing, logistics, and end-of-life. (3) Outcome: Lower upstream (Scope 3) lifecycle GHG emissions attributable to purchased goods and services.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced lifecycle/supply-chain GHG emissions by shifting demand toward lower-carbon products and services.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: procurement rules shift purchasing toward lower-carbon options, yielding direct reductions in lifecycle/supply-chain emissions (mitigation).  \n2) Why this primary over alternatives: the mechanism’s intended and largest climate effect is GHG reduction; any adaptation benefits are incidental and not guaranteed by “low-carbon” purchasing alone.  \n3) Inherent causal chain for each secondary: Resource Efficiency arises because lower-embodied-carbon options generally require less energy/material per unit function (e.g., recycled content, lightweighting, durability/reuse), reducing resource throughput alongside emissions.  \n4) Edge cases applied: some low-carbon purchases could be achieved mainly via fuel switching or renewable energy with limited material savings; however the mechanism broadly and consistently targets lower lifecycle intensity, making resource-efficiency effects commonly inherent but secondary to mitigation.  \n5) Confirm labels apply to ALL instances: any policy using this mechanism is fundamentally about reducing supply-chain GHGs via purchasing influence (Mitigation); resource-efficiency effects are typically embedded in lifecycle reductions and thus remain secondary.",
+  "mechanism_confidence": 0.82,
+  "mechanism_edge_case_notes": "If “low-carbon procurement” is implemented purely via offsets/RECs or supplier accounting claims without changing physical production/material/energy intensity, the real-world mitigation effect can be weaker; likewise, some low-carbon substitutions may not materially improve resource efficiency (e.g., decarbonized energy with similar material use).",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "indirect",
+  "climate_relevance": "direct",
+  "key_indicators": "“By 2030”; “reduce greenhouse gas emissions”; “from … purchasing”; “by at least 50%”",
+  "co_benefits": "Potential air quality improvements and reduced upstream energy/water impacts from lower-carbon supply chains, but not explicitly tied to reducing Austin-specific exposure/sensitivity in the text.",
+  "instance_edge_case_notes": "Could be interpreted as a procurement requirement if accompanied by binding vendor/specification rules, but the provided text is purely an outcome target (50% by 2030) without specifying mandatory procurement standards."
+}

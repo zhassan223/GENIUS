@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Employ a ‘Housing First’ approach.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "housing_first_program → social_vulnerability_reduction",
+  "mechanism_description": "Providing immediate, stable housing with supportive services reduces homelessness and associated social vulnerability, improving community adaptive capacity rather than directly reducing emissions.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Extreme heat",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Social protection intervention → ↓ social vulnerability / ↓ exposure to hazards → ↓ climate-related health impacts and disruption",
+  "causal_mechanism_detail": "(1) Change in human activity/system: The policy shifts homelessness response to immediate placement into stable housing paired with supportive services (case management, healthcare, benefits navigation), reducing the unsheltered population.  \n(2) Mediating physical/social process: Stable shelter and service connection reduces direct exposure to extreme temperatures, wildfire smoke, storms, and enables safer hydration/cooling/heating, medication storage, and timely emergency communication; this increases coping capacity and reduces sensitivity.  \n(3) Climate-relevant outcome: Fewer climate-related illnesses/injuries/deaths and less disruption among a highly exposed population during climate extremes—i.e., improved community resilience/adaptive capacity.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing vulnerability and exposure of unhoused people to climate hazards (especially heat/cold/smoke), thereby improving adaptive capacity and reducing climate-related harm.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: The mechanism’s core climate linkage is vulnerability reduction—housing and services reduce exposure and sensitivity to hazards and improve adaptive capacity.  \n2) Why this primary over alternatives: While housing provision can affect energy use and emissions, the direction/magnitude is context-dependent (building type, prior shelter conditions, grid mix) and not inherent to “Housing First”; the consistent effect across implementations is reduced climate risk for unhoused populations.  \n3) Inherent causal chain for each secondary: None—no additional climate category outcome is unavoidable across all Housing First implementations.  \n4) Edge cases applied: If implemented via deep-retrofit or net-zero supportive housing, mitigation/resource-efficiency could occur, but that is an added design feature, not inherent to the mechanism “Housing First → vulnerability reduction.”  \n5) Confirm labels apply to ALL instances: Any Housing First program, regardless of city, systematically reduces unsheltered exposure and increases access to protective services, making Adaptation the universally applicable primary category.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Some implementations may increase or decrease operational emissions depending on whether residents move from congregate shelters/unsheltered situations into energy-intensive units, but these effects are not consistent enough to reclassify the mechanism from Adaptation.",
+  "additional_secondary_evidence": "Extreme heat: Las Vegas faces extreme heat, and a Housing First approach directly reduces exposure/sensitivity because it moves unsheltered people into stable indoor housing where they can reliably access cooling and avoid prolonged outdoor heat exposure.",
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "direct",
+  "climate_relevance": "indirect",
+  "key_indicators": "“Employ a ‘Housing First’ approach”",
+  "co_benefits": "Potential co-benefits include reduced healthcare/emergency service utilization, improved mental health and safety, and reduced exposure to flash flooding and dust storms, but these are not explicitly specified in the text.",
+  "instance_edge_case_notes": "Instrument type is somewhat ambiguous from the brief text (could be implemented via supportive housing funding/incentive programs), but “approach” most directly signals a strategic/service model choice rather than a specific funding or regulatory instrument."
+}

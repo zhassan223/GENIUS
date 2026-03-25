@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Strategy 3 (Pillar 5): Enable community resiliency.",
+  "role": "parent",
+  "sector": "cross_sector",
+  "canonical_mechanism": "community_resilience_enablement → institutional_adaptive_capacity",
+  "mechanism_description": "Implement broad community resilience efforts to increase overall adaptive capacity to climate impacts.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard → ↑ community/institutional capacity & preparedness → ↓ exposure/sensitivity + ↑ coping/recovery → ↓ climate impact damages",
+  "causal_mechanism_detail": "(1) Change: Strengthen community resilience systems (planning, coordination, communications, social services, mutual aid networks, training, and governance capacity).  \n(2) Mediating process: Improved risk awareness, preparedness, early action, continuity of operations, and social support increase adaptive capacity, reducing susceptibility and enabling quicker response and recovery during extreme events.  \n(3) Outcome: Lower health, safety, service-disruption, and economic losses from climate-related hazards (e.g., heat waves, flooding), i.e., reduced climate risk impacts.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced harm from climate hazards (lower exposure/sensitivity and faster recovery) due to increased community and institutional adaptive capacity.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: the mechanism increases adaptive capacity, which reduces climate hazard impacts (Adaptation pathway).  \n2) Why this primary over alternatives: any mitigation effects (e.g., incidental energy savings from related actions) are not inherent to “enable community resiliency”; the core, always-intended effect is lowering vulnerability and improving response/recovery.  \n3) Inherent causal chain for each secondary: none are guaranteed—community resiliency efforts can be implemented without necessarily improving resource efficiency, creating carbon sinks, or cutting emissions.  \n4) Edge cases applied: some implementations may include mitigation co-benefits (e.g., resilience hubs with solar+storage), but those are optional design choices rather than unavoidable consequences of this mechanism.  \n5) Confirm labels apply to ALL instances: regardless of city/context, “community resilience enablement → institutional adaptive capacity” primarily functions by improving preparedness and adaptive governance, fitting Adaptation universally.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If the “community resiliency” package explicitly includes measures like distributed renewables, building retrofits, or urban greening as core required components, those sub-mechanisms would warrant separate mitigation/resource-efficiency/NBS tagging; however, the generic mechanism as stated is adaptation-only.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Strategy 3\"; \"Pillar 5\"; \"Enable community resiliency\"",
+  "co_benefits": "Potential co-benefits: improved public safety/emergency management, stronger social cohesion, improved continuity of services (not specified enough to code as additional secondary categories).",
+  "instance_edge_case_notes": "Very general/aspirational language with no described measures, target populations, or hazards; could support heat/flood preparedness in Chicago, but the mechanism is not explicit in the provided text."
+}

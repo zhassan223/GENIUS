@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Create equitable workforce development and training opportunities for emerging building-related technologies by partnering with local unions and education/advocacy organizations serving low-income communities and communities of color.",
+  "role": "sub",
+  "sector": "cross_sector",
+  "canonical_mechanism": "workforce_development_program → decarbonization_implementation_capacity",
+  "mechanism_description": "Training and workforce partnerships expand skilled labor capacity, enabling faster and broader deployment of building-related emissions-reduction technologies.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Workforce capacity-building → ↑ deployment of low/zero-carbon technologies → ↓ fossil fuel use → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Public/private training, certification, apprenticeship, and placement programs expand and diversify the labor pool able to design, permit, install, operate, and maintain decarbonization measures (commonly in buildings/energy/transport).  \n2) Mediating physical process: Increased installation and correct commissioning of efficient electrified equipment and other low-carbon systems reduces on-site fuel combustion and/or electricity demand and enables greater integration of clean energy.  \n3) Climate-relevant outcome: Lower direct and indirect GHG emissions from the affected sector due to faster uptake and higher quality implementation of decarbonization interventions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is that expanding a skilled workforce enables faster, broader deployment of decarbonization projects, resulting in reduced GHG emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Workforce development increases implementation capacity for decarbonization actions, which primarily reduces GHG emissions via accelerated deployment of low/zero-carbon technologies.  \n2) Why this primary over alternatives: While workforce programs can yield economic and equity co-benefits, the climate-relevant mechanism described is explicitly enabling emissions-reduction technology rollout; that is a mitigation pathway, not adaptation or resource-efficiency as the primary endpoint.  \n3) Inherent causal chain for each secondary: None—workforce development does not unavoidably produce adaptation, resource-efficiency, or nature-based outcomes; any such outcomes depend on what technologies/trades are trained for and local hazard context.  \n4) Edge cases applied: If the training were explicitly for resilience (e.g., floodproofing, emergency response) it would shift toward Adaptation; if explicitly for waste/energy efficiency independent of decarbonization, it could be Resource Efficiency. This canonical mechanism, however, is tied to decarbonization implementation capacity.  \n5) Confirm labels apply to ALL instances: Any policy under this mechanism is designed to increase skilled labor capacity to implement decarbonization; the dominant impact across instances is enabling emissions reductions, so Mitigation applies consistently.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If the workforce program is technology-agnostic or primarily aimed at resilience/hazard response (rather than emissions-reducing technologies), categorization could shift (often to Adaptation). Also, near-term emissions from training activities are negligible relative to enabled reductions and do not change the dominant pathway.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "incentive-program",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "“equitable workforce development and training opportunities”; “partnering with local unions, education, and advocacy organizations”; “Prioritize investment in local emissions reduction”; “emerging technologies”",
+  "co_benefits": "Economic equity/anti-poverty outcomes; local job creation; improved installation quality/safety; potential public health/air quality gains via faster electrification and efficiency uptake.",
+  "instance_edge_case_notes": "Instrument type could also be framed as a planning-strategy if presented as a high-level strategy without dedicated funding; however the repeated “investment” and “create … opportunities” cues fit best with an incentive-program/workforce program. No direct linkage to heat/flood resilience training is stated, so adaptation secondary not assigned."
+}

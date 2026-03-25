@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Establish a Coastal Information System (CIS) to provide coastal area information to planners and decision makers as an adaptation measure; started in 2006 and ongoing.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "coastal_information_system → adaptation_planning_support",
+  "mechanism_description": "Developing a coastal information system improves access to coastal risk and environmental data, enabling better-informed planning and decisions that strengthen coastal adaptation and protection.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard information gap → improved risk knowledge + decision support → better coastal planning/management → ↓ exposure/vulnerability → ↓ climate impact losses",
+  "causal_mechanism_detail": "(1) Change in human activity/system: A government or designated agency creates and maintains a Coastal Information System that collects, curates, maps, and disseminates coastal data (hazards, elevation/bathymetry, shoreline change, ecosystems, infrastructure, land use) to planners and decision-makers.  \n(2) Mediating physical/ecological process: Improved situational awareness and risk characterization enables selection and timing of appropriate coastal interventions (setbacks/zoning, protective infrastructure, ecosystem protection/restoration, early warning and emergency planning) aligned with observed and projected coastal dynamics (erosion, inundation, storm surge pathways).  \n(3) Climate-relevant outcome: Reduced damages and disruption from sea-level rise and extreme coastal events via decreased exposure and vulnerability of people, assets, and critical infrastructure.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced coastal hazard risk (lower exposure/vulnerability) through better-informed adaptation planning and coastal management decisions enabled by the information system.",
+  "mechanism_classification_reasoning": "(1) Dominant causal pathway: The mechanism is information provision/decision support that enables actions which reduce vulnerability to coastal climate hazards—this is an adaptation pathway (risk reduction), not an emissions pathway.  \n(2) Why this primary over alternatives: While improved data could indirectly influence mitigation (e.g., siting to avoid emissions-intensive rebuilds) or resource efficiency (more efficient project targeting), those outcomes depend on downstream choices and are not the dominant or guaranteed effect of the information system itself.  \n(3) Inherent causal chain for each secondary: None—no secondary category occurs as an unavoidable physical consequence of establishing a coastal information system.  \n(4) Edge cases applied: Even if the CIS includes marine ecosystem layers (e.g., mangroves/seagrass) and informs restoration, the restoration (not the information system) would be the nature-based mechanism; likewise, any emissions reduction would be contingent on subsequent policy decisions.  \n(5) Confirm labels apply to ALL instances: Any coastal information system intended to support planners/decision-makers for coastal protection functions as adaptation planning support; the primary category remains Adaptation across contexts.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "If the policy bundles the CIS with direct implementation (e.g., mandatory coastal setbacks, engineered defenses, or ecosystem restoration), those implementation components could introduce additional mechanisms (Adaptation/Nature-Based Solutions/Mitigation). Standing alone, the CIS is best classified as Adaptation (planning support).",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Coastal Information System (CIS)\"; \"provide coastal area information to planners and decision makers\"; \"help in the protection of coastal zones and marine environments\"; \"project was started in 2006... and is still ongoing\"",
+  "co_benefits": "Improved marine/coastal environmental management and permitting efficiency; potential support for biodiversity conservation (e.g., reefs) via better data for protection decisions",
+  "instance_edge_case_notes": "Instrument could also be framed as an information-disclosure/decision-support policy; classified as infrastructure-investment because it is the establishment and ongoing operation of a public monitoring/data system rather than a one-time communication requirement."
+}

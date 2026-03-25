@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Create a regional coalition within the five-county MSA to support EV adoption with inclusive government, business, and community stakeholders.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "ev_adoption_coalition → ev_adoption_enabling",
+  "mechanism_description": "Establishing a regional coalition coordinates stakeholders and resources to remove barriers to EV uptake, enabling broader EV adoption and associated transport emissions reductions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Coalition coordination → ↓ adoption barriers (cost/info/charging/planning) → ↑ EV adoption → ↓ ICE fuel combustion → ↓ GHG emissions",
+  "causal_mechanism_detail": "(1) Change: The city convenes and leads a multi-jurisdiction, multi-stakeholder coalition (governments, businesses, community groups) to coordinate EV-supportive actions. (2) Mediating process: Coordination aligns standards, incentives, outreach, fleet commitments, and charging deployment plans, reducing market and infrastructure barriers that slow EV uptake. (3) Outcome: More rapid EV adoption substitutes electricity for gasoline/diesel in transport, cutting tailpipe CO₂ (and often lifecycle GHGs) and lowering overall transport-sector emissions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is increased EV adoption that displaces gasoline/diesel vehicle miles, thereby reducing net transportation greenhouse gas emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: enabling coordination → higher EV adoption → displacement of fossil fuel combustion in vehicles → lower GHG emissions.  \n2) Why this primary over alternatives: while coalitions can yield co-benefits (air quality, health, economic development), the direct climate-relevant intent and main physical effect is emissions reduction from transport electrification.  \n3) Inherent causal chain for each secondary: none is unavoidable—air quality and health improvements depend on local fleet mix and electricity generation; resilience/adaptation benefits are not guaranteed by coalition formation itself.  \n4) Edge cases applied: if the electricity supply is highly carbon-intensive or policies mainly reallocate emissions geographically, mitigation benefits may be smaller, but the mechanism’s dominant pathway remains decarbonizing transport via electrification.  \n5) Confirm labels apply to ALL instances: any policy that creates an EV adoption coalition is structurally an enabling measure for EV uptake; its primary climate function is mitigation through transport emissions reductions.",
+  "mechanism_confidence": 0.83,
+  "mechanism_edge_case_notes": "Mitigation magnitude depends on grid emissions intensity, additionality (whether EV adoption would have occurred anyway), and whether coalition actions prioritize mode shift vs. vehicle substitution; however, the mechanism classification remains mitigation because the intended/typical dominant effect is enabling EV-driven emissions reductions.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Create a regional coalition\"; \"The City will take the lead\"; \"support EV adoption\"; \"within the fivecounty MSA\"",
+  "co_benefits": "Potential local air-quality improvements and public health benefits; potential reduced heat from lower waste-heat/traffic emissions—these are not explicitly targeted as hazard exposure/sensitivity reductions in the text.",
+  "instance_edge_case_notes": "Coalition creation can sometimes be coded as “information-disclosure” or “incentive-program” if specific outreach or incentives are specified; here it is limited to convening/coordination, so planning-strategy/enabling is most fitting."
+}

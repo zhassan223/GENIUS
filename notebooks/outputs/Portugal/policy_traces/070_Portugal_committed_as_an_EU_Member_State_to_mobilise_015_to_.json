@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Portugal committed (as an EU Member State) to mobilise 0.15% to 0.20% of its GNI as ODA allocated to Least Developed Countries by 2030.",
+  "role": "individual",
+  "sector": "governance",
+  "canonical_mechanism": "international_development_finance → development_capacity_building",
+  "mechanism_description": "Providing development assistance to least developed countries increases financial and institutional capacity to plan and implement development and climate-related actions.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "International finance/technical support → ↑ institutional & financial capacity → ↑ preparedness/planning/implementation of resilience actions → ↓ climate hazard vulnerability (↓ exposure/sensitivity, ↑ adaptive capacity)",
+  "causal_mechanism_detail": "1) Change in human activity/system: Donor governments/institutions allocate development assistance (money, expertise, program support) to least developed countries and associated institutions.  \n2) Mediating process: Increased budgets, skills, governance capability, and programmatic capacity improve the ability to assess climate risks, integrate them into development planning, access further finance, and execute resilience projects/services.  \n3) Climate-relevant outcome: Reduced climate impacts over time via improved adaptive capacity and implementation of adaptation/resilience interventions (with mitigation effects possible but not intrinsic to the mechanism).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect of policies using this mechanism is enabling recipient countries to better plan, finance, and implement climate risk management and resilience measures, thereby reducing vulnerability to climate hazards.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: finance → capacity building → better risk-informed planning/implementation → reduced vulnerability to climate hazards.  \n2) Why this primary over alternatives: While development finance can fund mitigation or resource-efficiency projects, “development_capacity_building” is an enabling mechanism whose most common and direct climate relevance is increasing adaptive capacity (governance/finance/planning) rather than directly reducing GHGs or conserving resources.  \n3) Inherent causal chain for each secondary: None—mitigation/resource-efficiency/nature-based outcomes are contingent on the funded portfolio, not a guaranteed physical consequence of generic capacity-building/ODA commitments.  \n4) Edge cases applied: If the finance were explicitly earmarked for emissions-reducing infrastructure (e.g., renewables) the mechanism would be different (development finance → low-carbon deployment). Here it is general ODA to LDCs for capacity/resources, so adaptation-enabling is the most defensible dominant pathway.  \n5) Confirm labels apply to ALL instances: Any instance of international development finance aimed at strengthening general development/climate-relevant capacity primarily functions as an adaptation enabler; it does not inherently ensure mitigation, resource efficiency, or nature-based outcomes in every case.",
+  "mechanism_confidence": 0.66,
+  "mechanism_edge_case_notes": "General ODA commitments are purpose-ambiguous: if funds are predominantly used for low-carbon energy/transport or for ecosystem restoration, the realized dominant effect could shift to Mitigation or Nature-Based Solutions; classification here assumes the stated mechanism (“capacity building”) rather than downstream sectoral earmarks.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "“commitment to mobilise 0.15% to 0.20% of its GNI”; “as ODA allocated to Least Developed Countries (LDC)”; “by 2030”; “EU Member State”",
+  "co_benefits": "Potential diplomatic/geopolitical benefits; potential poverty reduction and development gains in LDCs; potential mitigation co-benefits if ODA supports low-carbon development (not specified).",
+  "instance_edge_case_notes": "ODA is not explicitly climate-tagged in the text; adaptation relevance is inferred via the assigned causal pathway (finance/capacity enabling resilience), so climate relevance is classified as indirect rather than direct."
+}

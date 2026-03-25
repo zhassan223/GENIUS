@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Increase Divvy bikes and shared micromobility trips 30% by 2030.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "shared_micromobility_expansion → transport_emissions_reduction",
+  "mechanism_description": "Expanding shared micromobility use shifts some trips away from higher-emitting travel modes, reducing overall transportation greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Travel behavior (mode shift) → ↓ car/ride-hail VKT + ↓ fuel combustion → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: The city increases availability/uptake of shared micromobility (e.g., more bikes/scooters, stations, service coverage, integration with transit), increasing trips taken by these modes. (2) Mediating process: Some trips substitute for car/ride-hail/taxi trips and/or shorten car trips (first/last-mile to transit), reducing gasoline/diesel combustion and associated CO₂ (and other) emissions per passenger-km. (3) Climate outcome: Net reduction in transportation-sector GHG emissions (primarily CO₂), contingent on the degree of mode shift and lifecycle impacts.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced transportation GHG emissions from mode shift away from internal-combustion vehicle travel.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: expanding shared micromobility enables mode shift that reduces combustion of fossil fuels in motorized transport, lowering GHG emissions. 2) Why Mitigation over alternatives: the primary intended and largest climate effect is emissions reduction, not hazard reduction (Adaptation), not primarily “same service with less energy input” as a cross-sector efficiency measure (Resource Efficiency), and not ecosystem-mediated effects (Nature-Based Solutions). 3) Secondary categories: none are inherent—resource/energy savings, air-quality or congestion co-benefits can occur but are not guaranteed and can be offset (e.g., substitution from walking/transit, rebalancing/charging emissions), so they are not unavoidable physical consequences. 4) Edge cases applied: e-scooters/e-bikes require charging and operations logistics; net benefits depend on utilization, vehicle lifetime, and what modes are displaced, but the mechanism’s dominant intent/effect remains transport emissions mitigation. 5) Label applicability: all policies that expand shared micromobility with the aim of shifting trips away from higher-emitting modes share this mitigation pathway.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Net GHG impact can be smaller or even negative if shared micromobility mainly displaces walking/transit or if lifecycle/operations emissions (manufacturing, short vehicle lifetimes, rebalancing by vans, charging grid intensity) are high; these affect magnitude but not the primary classification of the mechanism as mitigation.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Increase\"; \"Divvy bikes\"; \"shared micromobility trips\"; \"30%\"; \"by 2030\"",
+  "co_benefits": "Potential air-quality improvements; reduced traffic congestion; potential public health benefits (active transportation). Possible minor indirect contribution to urban heat reduction via reduced vehicle waste heat, but not a direct exposure/sensitivity reduction to extreme heat or flooding.",
+  "instance_edge_case_notes": "Instrument could also be implemented via incentives, procurement, or infrastructure investment, but the text itself is framed as a numeric goal by a deadline, so classification is target-setting."
+}

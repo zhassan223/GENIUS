@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Upgrade coastal defence structures (including raising grades and riprap) and conduct artificial feeding operations (including high magnitude operations).",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "coastal_defense_upgrade_and_beach_nourishment → coastal_flooding_and_erosion_risk_reduction",
+  "mechanism_description": "Strengthening shoreline defenses and adding sediment to beaches reduces erosion and storm/sea-level-rise-driven coastal flooding impacts.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Coastal flood risk reduction",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (sea-level rise + storm surge + wave action) → coastal overtopping/erosion → defense upgrades + beach nourishment → ↓ exposure/damage → ↓ climate risk",
+  "causal_mechanism_detail": "(1) Change: Governments/asset owners upgrade coastal defense structures (e.g., raising crest elevations, adding riprap/armoring) and replenish beaches via artificial nourishment (sediment placement).  \n(2) Process: Higher/stronger barriers attenuate waves and reduce overtopping/breaching; wider beaches/dunes dissipate wave energy, increase storm buffer capacity, and slow shoreline retreat by increasing available sediment.  \n(3) Outcome: Reduced frequency/severity of coastal flooding, inundation, and erosion damages to people, infrastructure, and ecosystems under sea-level rise and more extreme coastal storms.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced coastal flood and erosion impacts (lower exposure/vulnerability to sea-level rise and storm surge) through enhanced shoreline protection.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: reduces climate hazard impacts (flooding/erosion) by decreasing exposure and physical vulnerability via engineered protection and sediment buffering.  \n2) Why this primary over alternatives: the mechanism does not inherently reduce GHG emissions or improve energy/material efficiency; any emissions from construction are incidental and variable, while the intended and largest effect is risk reduction.  \n3) Inherent causal chain for each secondary: none—no additional category (mitigation/resource efficiency/nature-based) is guaranteed across all implementations because measures can be fully hard-engineered and may not create net ecosystem enhancement.  \n4) Edge cases applied: “soft” measures (dune restoration/living shorelines) could qualify as Nature-Based Solutions, but this canonical mechanism explicitly includes engineered defenses and artificial feeding; NBS outcomes are not inherent to all instances.  \n5) Confirm labels apply to ALL instances: any policy implementing defense upgrades and/or beach nourishment aims to reduce coastal flood/erosion risk, which is an adaptation outcome in all contexts.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "If a specific policy instance relies primarily on ecosystem restoration (e.g., dune/reef/mangrove creation) rather than engineered upgrades/nourishment, it may shift toward Nature-Based Solutions; construction-related emissions or sediment sourcing impacts are context-dependent and not inherent to the mechanism.",
+  "additional_secondary_evidence": "Coastal flood risk reduction: Portugal faces coastal erosion and flooding, and upgrading coastal defence structures (raising grades, riprap) plus artificial feeding (beach nourishment) directly reduces exposure/sensitivity because higher/armored defenses and wider beaches reduce wave run-up, overtopping, and storm-surge impacts on coastal assets.",
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“coastal defence structures”; “raising of grades”; “riprap”; “Artificial feeding operations”; “high magnitude (shots)”",
+  "co_benefits": "Potential habitat/beach amenity and tourism benefits; potential protection of coastal infrastructure and services beyond climate drivers.",
+  "instance_edge_case_notes": "“Artificial feeding operations” could also be interpreted as an operational program rather than a one-time capital project, but the mechanism is still direct physical risk reduction consistent with infrastructure investment."
+}

@@ -6,105 +6,114 @@
     "parent_policy_name": null,
     "section_header": "A WORD FROM THE EXECUTIVE COUNCIL",
     "sector": "Economy-wide",
-    "extraction_rationale": "Contains quantifiable targets with deadlines (60% by 2030; carbon neutrality by 2050) stated as an intention by the municipal government."
+    "extraction_rationale": "Contains quantified, time-bound mitigation targets (60% by 2030; carbon neutrality by 2050)."
   },
   {
-    "policy_statement": "The City of Geneva will incorporate climate change considerations into all its public policies through its Climate Strategy.",
-    "verbatim_text": "The municipal's Climate Strategy marks a new stage in its actions, by incorporating climate change into all its public policies.",
+    "policy_statement": "The City of Geneva will incorporate climate change considerations into all its public policies through its municipal Climate Strategy.",
+    "verbatim_text": "The municipal's Climate Strategy marks a new stage in its actions, by incorporating climate change into all its public policies. This innovative and ambitious set of guidelines not only aims to reduce direct and indirect carbon emissions within the territory, but is also focused on its ecological, social and economic transition.",
     "policy_type": "individual",
     "parent_policy_name": null,
     "section_header": "A WORD FROM THE EXECUTIVE COUNCIL",
     "sector": "Governance",
-    "extraction_rationale": "A stated governance commitment to mainstream climate across municipal public policies (specific intervention: incorporation into all policies)."
+    "extraction_rationale": "Explicit commitment to mainstream climate into all public policies via the Climate Strategy (specific governance intervention)."
   },
   {
-    "policy_statement": "The City of Geneva will implement strong measures to transform consumption patterns, with short supply chains and the circular economy central to its actions.",
+    "policy_statement": "The City of Geneva will implement strong measures to transform consumption patterns toward 'consume less and better', centring short supply chains and the circular economy.",
     "verbatim_text": "The City of Geneva's aim is to 'consume less and better'. The city will therefore be implementing strong measures to support and speed up the transformation of our current modes of consumption to alternative modes that must be more desirable, practical and affordable than they are today. Short supply chains and the circular economy will be central to its actions.",
     "policy_type": "individual",
     "parent_policy_name": null,
     "section_header": "Priority 1 CONSUMPTION OF GOODS AND SERVICES",
-    "sector": "Consumption and circular economy",
-    "extraction_rationale": "Uses binding forward-looking language (“will be implementing”) and names specific intervention areas (short supply chains, circular economy)."
+    "sector": "Demand-side / Consumption",
+    "extraction_rationale": "States a concrete intervention direction (implement strong measures) and specifies instruments/approaches (short supply chains, circular economy)."
   },
   {
-    "policy_statement": "The City of Geneva will strengthen cooperation with Greater Geneva stakeholders to ensure a supply of high-quality food accessible to all, supporting a healthier, more local diet with less emphasis on meat.",
-    "verbatim_text": "One of the main objectives under this heading is a healthy, local diet with less emphasis on meat. The City will strengthen its cooperation with the various key players in Greater Geneva to ensure a supply of high-quality food that is accessible to all.",
-    "policy_type": "individual",
-    "parent_policy_name": null,
-    "section_header": "Priority 1 CONSUMPTION OF GOODS AND SERVICES",
-    "sector": "Food systems",
-    "extraction_rationale": "Concrete commitment (“will strengthen its cooperation”) tied to a defined outcome (food supply that is high-quality and accessible)."
-  },
-  {
-    "policy_statement": "The City of Geneva will ensure that sustainable resource-use principles (sharing, recycling and circular economy) are applied across culture, sports and recreation.",
+    "policy_statement": "The City of Geneva will apply sustainable resource-use, sharing, recycling and circular-economy principles across culture, sports and recreation, while maintaining diverse activities.",
     "verbatim_text": "As a result, the City has chosen to act mainly on modes of consumption by supporting the sustainable use of resources, sharing, recycling and the circular economy more generally.\n\nThe City will ensure that these principles are applied across the board in culture, sports and recreation, while guaranteeing that multiple dynamic and diverse activities remain on offer.",
     "policy_type": "individual",
     "parent_policy_name": null,
     "section_header": "Priority 1 CONSUMPTION OF GOODS AND SERVICES",
-    "sector": "Consumption and circular economy",
-    "extraction_rationale": "Explicit municipal action commitment (“will ensure”) specifying intervention approach and application domains."
+    "sector": "Demand-side / Consumption",
+    "extraction_rationale": "Clear commitment ('will ensure') to implement specific consumption-related principles across municipal activity areas."
   },
   {
-    "policy_statement": "The City of Geneva aims to heat buildings using 100% renewable sources by 2050.",
+    "policy_statement": "The City of Geneva has set a goal to heat buildings using 100% renewable sources by 2050.",
     "verbatim_text": "The challenge we have set is to heat buildings using 100% renewable sources by 2050.",
     "policy_type": "individual",
     "parent_policy_name": null,
     "section_header": "CLIMATE TARGETS AT THE HEART OF OUR ENERGY POLICY",
-    "sector": "Energy and buildings",
-    "extraction_rationale": "Quantified target with deadline (100% renewable heating by 2050) stated as a defined challenge/target."
+    "sector": "Energy",
+    "extraction_rationale": "Quantified, time-bound target for building heat supply (100% renewable by 2050)."
   },
   {
-    "policy_statement": "The City of Geneva will act to reduce space reserved for cars and motorcycles in order to reduce motorised traffic and limit its negative impacts.",
+    "policy_statement": "The City of Geneva will reduce space reserved for cars and motorcycles to cut motorised traffic and limit its negative impacts.",
     "verbatim_text": "The City will act to reduce the space currently reserved for cars and motorcycles to reduce motorised traffic and limit its negative impacts.",
     "policy_type": "individual",
     "parent_policy_name": null,
-    "section_header": "Priority 3 TRANSPORT",
+    "section_header": "REAPPROPRIATING URBAN SPACE VIA SHARED AND ACTIVE MOBILITY",
     "sector": "Transport",
-    "extraction_rationale": "Specific intervention in urban transport management (“reduce the space reserved”) stated with “will act”."
+    "extraction_rationale": "Specific intervention to reallocate urban space away from private motor vehicles to reduce traffic/impacts."
   },
   {
-    "policy_statement": "The City of Geneva will make parts of the urban area more permeable and create new interconnected planted areas with trees and water.",
+    "policy_statement": "The City of Geneva will make part of the urban area more permeable and create new interconnected planted areas with trees and water.",
     "verbatim_text": "The City of Geneva will embark on a process of making part of the urban area more permeable and will create a series of new, interconnected planted areas with trees and water.",
     "policy_type": "individual",
     "parent_policy_name": null,
     "section_header": "A NETWORK OF OASES IN THE CITY",
-    "sector": "Urban planning and adaptation",
-    "extraction_rationale": "Clear planned interventions for climate resilience/adaptation (permeability; green/blue infrastructure) expressed with “will”."
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete adaptation/urban-planning commitment (permeabilisation; creation of planted/water areas)."
   },
   {
-    "policy_statement": "The City of Geneva will strengthen actions to protect its most vulnerable citizens as part of its commitment to equality.",
+    "policy_statement": "The City of Geneva will strengthen actions to protect its most vulnerable citizens (children, youth, older people and those in precarious situations) as part of its commitment to equality.",
     "verbatim_text": "The City will strengthen its actions to protect its most vulnerable citizens - children, young people, older people and those in precarious situations - as part of its commitment to equality.",
     "policy_type": "individual",
     "parent_policy_name": null,
     "section_header": "CLIMATE, HEALTH AND QUALITY OF LIFE: A COMMITMENT TO ALL",
-    "sector": "Health and social protection",
-    "extraction_rationale": "Concrete commitment (“will strengthen its actions”) specifying target groups (vulnerable populations)."
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit commitment to expand protective actions for vulnerable groups (adaptation/health resilience)."
   },
   {
-    "policy_statement": "The City of Geneva plans to restore, protect and develop its natural ecosystems and take practical actions to protect the soil.",
+    "policy_statement": "The City of Geneva plans to restore, protect and develop its natural ecosystems and will take practical actions to protect the soil.",
     "verbatim_text": "The City of Geneva plans to restore, protect and develop its natural ecosystems. In addition, it will take practical actions to protect the soil",
     "policy_type": "individual",
     "parent_policy_name": null,
     "section_header": "PROTECTING BIODIVERSITY IN THE HEART OF THE CITY",
-    "sector": "Biodiversity and ecosystems",
-    "extraction_rationale": "Stated planned actions for ecosystem restoration/protection and soil protection; despite being broad, it includes specific intervention areas."
+    "sector": "AFOLU / Biodiversity",
+    "extraction_rationale": "Stated plan and intended practical actions regarding ecosystem restoration/protection (though soil action details are truncated, the commitment is explicit)."
   },
   {
-    "policy_statement": "The City of Geneva will provide citizens with practical tools to inform them, encourage collective action, and support behavioural changes that lower personal climate impact.",
+    "policy_statement": "The City of Geneva will provide citizens with practical tools to inform them, encourage collective action and support behavioural changes that lower personal climate impact.",
     "verbatim_text": "The City of Geneva will provide its citizens with practical tools to keep them informed, encourage them to take collective action and to support behavioural changes which lower their personal climat impact.",
     "policy_type": "individual",
     "parent_policy_name": null,
     "section_header": "MOBILISATION OF THE POPULATION",
-    "sector": "Public engagement",
-    "extraction_rationale": "Explicit commitment (“will provide”) with specific intervention type (practical tools) and intended outcomes (collective action/behaviour change)."
+    "sector": "Governance",
+    "extraction_rationale": "Concrete public-engagement commitment (tools, information, behaviour change support)."
   },
   {
-    "policy_statement": "The City of Geneva will work with key financial-centre players to support sustainable finance, including improving transparency in calculating financial sector emissions, and will align its own investments and holdings with climate targets.",
+    "policy_statement": "The City of Geneva will work with key players in the financial centre to support sustainable finance, including improving transparency in calculating the financial sector's emissions, and will align its own investments and holdings with climate targets.",
     "verbatim_text": "The City of Geneva will work alongside the key players in the financial centre to support sustainable finance and encourage them to get involved, in particular to ensure greater transparency in calculating the financial sector's emissions. It will ensure its own investments and financial holdings are compatible with climate targets to lead the way.",
     "policy_type": "individual",
     "parent_policy_name": null,
     "section_header": "INVESTMENTS TO PROTECT THE CLIMATE",
     "sector": "Finance",
-    "extraction_rationale": "Multiple clear commitments using “will” and “will ensure,” including a concrete governance/finance alignment action (city investments compatible with climate targets)."
+    "extraction_rationale": "Specific interventions: collaboration with financial actors, emissions transparency, and alignment of municipal investments with climate targets."
+  },
+  {
+    "policy_statement": "The City of Geneva has a target to switch to renewable energy sources only by 2050 for municipal buildings/operations.",
+    "verbatim_text": "This is a promising result and part of a clear target to switch to renewable energy sources only by 2050.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "THE CITY OF GENEVA: A PIONEER AND MODEL",
+    "sector": "Energy",
+    "extraction_rationale": "Time-bound target for exclusive use of renewable energy sources by 2050 (stated as a 'clear target')."
+  },
+  {
+    "policy_statement": "The municipal administration is committed to accelerating existing measures and developing new actions as part of the effort to achieve carbon neutrality, using political, institutional, administrative and awareness-raising levers.",
+    "verbatim_text": "The municipal administration is committed to embracing its responsibilities and leading the way by accelerating the measures that are already implemented and developing new actions as part of the global effort to achieve carbon neutrality. It is also committed to using all available levers: political, institutional, administrative and awareness-raising.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "THE CITY OF GENEVA: A PIONEER AND MODEL",
+    "sector": "Governance",
+    "extraction_rationale": "Explicit commitment to accelerate and expand municipal measures toward carbon neutrality, specifying types of levers."
   }
 ]

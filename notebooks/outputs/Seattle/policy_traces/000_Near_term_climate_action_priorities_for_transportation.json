@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Near-term climate action priorities for transportation.",
+  "role": "parent",
+  "sector": "transport",
+  "canonical_mechanism": "unspecified_transport_actions → transport_emissions_reduction",
+  "mechanism_description": "The city prioritizes near-term transportation-related climate actions intended to reduce transportation greenhouse gas emissions, but the specific mechanism is not described in the provided text.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Transport system/action changes → ↓ fossil fuel combustion and/or ↓ vehicle-km traveled → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: The city undertakes transportation-focused climate actions (unspecified in the text), which could affect travel demand, mode choice, vehicle technology, fuels, operations, or network performance. (2) Mediating process: These actions reduce gasoline/diesel combustion and associated CO₂ (and other transport GHGs) either by lowering vehicle activity, improving efficiency, or shifting to lower/zero-carbon energy sources. (3) Outcome: Lower transportation-sector GHG emissions, contributing to reduced net citywide emissions.",
+  "dominant_pathway_test": "Policies using this mechanism primarily reduce transportation-related GHG emissions by changing transport activity/technology so less fossil fuel is burned per unit of mobility.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: transportation actions → reduced transport fuel combustion/activity → reduced GHG emissions.  \n2) Why this primary over alternatives: the stated purpose/outcome in the mechanism is “transport emissions reduction,” which is directly a mitigation outcome; adaptation, resource efficiency, or nature-based outcomes are not inherent from the mechanism as written.  \n3) Inherent causal chain for each secondary: none—co-benefits like air quality, congestion relief, safety, or resilience may occur but are not unavoidable across all “unspecified transport actions.”  \n4) Edge cases applied: some transport actions could be framed as adaptation (e.g., elevating roads, heat-resistant pavements) or resource efficiency (e.g., eco-driving), but those would require a different specified mechanism; here the mechanism is explicitly emissions reduction.  \n5) Confirm labels apply to ALL instances: any policy that fits “transport actions → transport emissions reduction” has mitigation as the primary, mechanism-defining effect.",
+  "mechanism_confidence": 0.7,
+  "mechanism_edge_case_notes": "Because the actions are unspecified, individual instances could include adaptation or efficiency measures; however, under this canonical mechanism the defining, dominant endpoint is transport GHG reduction, so secondary categories cannot be assigned universally.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Guided by the 2013 Climate Action Plan”; “identified a suite of near-term priority actions”; “remain on track to meet our climate protection goals”; “review of recent emissions trends and climate actions”",
+  "co_benefits": "Potential air quality and public health benefits (if actions reduce vehicle emissions), but not stated and no specific mechanism described.",
+  "instance_edge_case_notes": "Actions are referenced but unspecified; cannot infer specific instruments (e.g., pricing, mandates, infrastructure) or claim adaptation co-benefits for wildfire smoke, flooding, landslides, sea-level rise, or drought without explicit linkage."
+}

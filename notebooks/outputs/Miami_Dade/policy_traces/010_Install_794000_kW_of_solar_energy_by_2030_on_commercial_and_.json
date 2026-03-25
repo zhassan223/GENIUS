@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Install 794,000 kW of solar energy by 2030 on commercial and residential buildings (equivalent to 104,014 homes' electricity use for one year).",
+  "role": "sub",
+  "sector": "energy_supply",
+  "canonical_mechanism": "solar_pv_deployment → fossil_generation_displacement",
+  "mechanism_description": "Installing solar PV on buildings increases renewable electricity generation, which displaces fossil-fueled grid electricity and lowers greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Electricity supply change (add solar PV) → ↓ fossil generation/↓ grid emissions intensity → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: Cities/counties install or procure solar PV capacity (community solar, on-site municipal PV, or other PV projects), increasing renewable electricity supplied to local loads and/or the grid.  \n2) Mediating physical process: PV converts solar radiation to electricity, increasing zero-direct-emissions generation; grid operators or balancing mechanisms reduce output from marginal fossil generators (or the PV offsets electricity that would otherwise be supplied by fossil-heavy grid mix).  \n3) Climate-relevant outcome: Lower CO₂e emissions from the power sector (and potentially upstream fuel-cycle emissions) due to reduced fossil fuel combustion for electricity.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced greenhouse gas emissions from electricity generation because solar PV output displaces fossil-fueled generation on the grid.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Adding solar PV increases clean electricity generation, which directly displaces fossil generation and reduces GHG emissions—this is a mitigation pathway.  \n2) Why this primary over alternatives: While PV can improve energy security or support adaptation when paired with storage/microgrids, those effects are not guaranteed by PV deployment alone; the consistently intended and physically direct outcome across all instances is emissions reduction from electricity supply.  \n3) Inherent causal chain for each secondary: None—resource efficiency (same service with less energy input) is not inherent because PV changes the energy source rather than reducing energy demand; adaptation benefits (backup power during outages, heat resilience) require additional design features (storage/islanding) and hazard context; nature-based effects do not apply.  \n4) Edge cases applied: If PV is added in a grid with high renewable curtailment or very low marginal emissions, displacement and emissions benefits can be smaller, but the mechanism remains primarily mitigation.  \n5) Confirm labels apply to ALL instances: Community solar, PV on city property, and PV on county assets all share the same core mechanism of fossil generation displacement leading to reduced GHG emissions.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Emissions impact depends on marginal grid mix, curtailment levels, and whether PV is truly additional; resilience/adaptation co-benefits may occur only when PV is paired with storage, microgrids, or critical-load islanding, which are not inherent to this mechanism.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Install 794,000 kW of solar energy by 2030\"; \"on commercial and residential buildings\"; \"equivalent to 104,014 homes' electricity use for one year\"",
+  "co_benefits": "Potential grid resilience/continuity of service during hurricanes/heat (if coupled with storage/islanding), local air-quality improvements, reduced peak demand—however these are not explicit in the text and do not meet the threshold for an adaptation secondary category.",
+  "instance_edge_case_notes": "Instrument could be classified as infrastructure-investment if the policy text described funding/implementation (e.g., rebates, PPAs, procurement, permitting reforms). Here it is expressed as a capacity target, so classified as target-setting. Distributed solar may support resilience, but without storage/microgrid provisions it is not a direct hazard-exposure/sensitivity reducer."
+}

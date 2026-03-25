@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Implement consumer awareness and education campaigns to promote waste reduction, reuse, repair, and hierarchy-based waste management, targeting low-income communities, youth, and communities of color and delivering in many languages.",
+  "role": "sub",
+  "sector": "waste",
+  "canonical_mechanism": "consumer_awareness_campaign → waste_generation_reduction",
+  "mechanism_description": "Consumer education campaigns encourage waste prevention, reuse, and repair, reducing waste disposed and associated emissions from waste management (especially landfilling).",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Waste prevention/reuse/repair inherently reduces material throughput (same service from fewer virgin materials and less disposal), increasing circular use of products and lowering input demand.",
+  "primary_causal_pathway": "Behavior change (consume/repair/reuse) → ↓ waste generation + ↓ virgin production demand → ↓ waste-management emissions (incl. landfill methane) + ↓ supply-chain CO₂ → ↓ GHG emissions",
+  "causal_mechanism_detail": "(1) Change: Consumers and households shift purchasing and disposal behaviors toward prevention, reuse, and repair due to awareness/education campaigns. (2) Mediating process: Reduced material throughput leads to fewer goods manufactured and transported, and less waste collected/processed/landfilled, lowering methane formation from landfilled organics and reducing combustion/fuel/electricity use in the waste system and supply chains. (3) Outcome: Net reduction in GHG emissions (CO₂e) across the product lifecycle, including avoided landfill methane and avoided upstream production emissions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced lifecycle GHG emissions because less material is produced, transported, and ultimately managed as waste (including avoided landfill methane and waste-system fuel use).",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Education → behavior change → less waste and less production → lower lifecycle GHG emissions (mitigation).  \n2) Why this primary over alternatives: While it improves material efficiency, the primary climate objective/effect is emissions reduction rather than hazard reduction (adaptation) or ecosystem carbon/heat effects (nature-based).  \n3) Inherent secondary chain(s): Resource Efficiency is inherent because reducing waste via reuse/repair necessarily delivers the same services with fewer material inputs and less disposal.  \n4) Edge cases applied: If a campaign only shifts waste from landfill to recycling/composting (without reducing generation), the mechanism would differ; here the stated mechanism is explicitly waste generation reduction via prevention/reuse/repair.  \n5) Confirm applies to ALL instances: Any consumer awareness campaign that actually reduces waste generation will, by physics/accounting of material flows, reduce upstream production and downstream waste-treatment burdens, yielding mitigation and resource-efficiency benefits regardless of location.",
+  "mechanism_confidence": 0.82,
+  "mechanism_edge_case_notes": "Campaigns may have variable real-world effectiveness; some may primarily increase recycling/composting participation rather than reduce total generation. Rebound effects (money saved spent on other consumption) could erode net GHG benefits, but the dominant intended pathway remains emissions reduction via reduced material throughput.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "information-disclosure",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Implement consumer awareness campaigns\", \"educational campaigns\", \"promote waste reduction, reuse, repair\", \"community benefits of reuse and repair\", \"delivering in many languages\", \"targeting low-income communities, youth, and communities of color\"",
+  "co_benefits": "Potential equity and public health co-benefits (targeting priority communities; reduced local pollution from waste handling), potential water/energy savings from reduced production and consumption (not a direct exposure/sensitivity reduction to Austin’s specified hazards).",
+  "instance_edge_case_notes": "Campaigns could marginally support drought/water-stress resilience via reduced embedded water in goods, but the mechanism is indirect and not framed as reducing local hazard exposure/sensitivity; therefore no additional secondary category is assigned."
+}

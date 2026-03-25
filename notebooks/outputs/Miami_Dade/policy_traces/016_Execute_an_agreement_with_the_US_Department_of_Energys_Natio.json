@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Execute an agreement with the U.S. Department of Energy's National Renewable Energy Laboratory (NREL) to pursue mutually beneficial projects to reduce greenhouse gas emissions.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "interagency_research_partnership → emissions_reduction_enabling",
+  "mechanism_description": "Establishing a collaboration agreement with a federal research lab enables technical support and joint projects that facilitate future greenhouse gas emissions reductions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Interagency collaboration/technical assistance → improved planning/technology/pilots → implemented low-carbon projects → ↓ GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in human activity/system: A local government formalizes a partnership (MOA/MOU/contract) with a research institution or federal lab to access specialized modeling, engineering support, technology validation, and co-development of projects.  \n2) Mediating process: Technical analysis, feasibility studies, measurement/verification methods, pilot demonstrations, and capacity-building reduce information and execution barriers, improving project performance and uptake (e.g., renewables integration, electrification planning).  \n3) Climate-relevant outcome: Accelerated and/or higher-quality deployment of emissions-reducing measures, yielding lower community or municipal GHG emissions over time.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect of policies using this mechanism is enabling future greenhouse gas emissions reductions by improving technical capability, project design, and implementation readiness.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: The partnership chiefly functions as an enabling mechanism for subsequent emissions-reducing investments and operational changes, so the dominant endpoint is ↓ GHG emissions.  \n2) Why this primary over alternatives: While partnerships can incidentally improve resilience planning or general efficiency, those outcomes are not inherent—this mechanism is explicitly structured around technical support to deliver emissions reductions.  \n3) Inherent causal chain for each secondary: None—no adaptation, nature-based, or resource-efficiency outcome is guaranteed purely by forming a research partnership.  \n4) Edge cases applied: If the partnership’s scope were primarily resilience/hazard planning, it would shift toward Adaptation; if it were explicitly about energy efficiency improvements, it could align with Resource Efficiency. The canonical mechanism here specifies “emissions_reduction_enabling,” keeping Mitigation as primary.  \n5) Confirm labels apply to ALL instances: Any policy matching this mechanism (interagency research partnership with the purpose of enabling emissions reductions) shares the same dominant mitigation-enabling pathway even though the specific downstream projects may vary.",
+  "mechanism_confidence": 0.84,
+  "mechanism_edge_case_notes": "If a partnership is framed as “climate research” without a clear emissions-reduction implementation link, classification could become ambiguous (governance/process-only). If the agreement targets adaptation analytics (e.g., flood modeling) rather than mitigation projects, primary category would change to Adaptation.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Execute an agreement\"; \"National Renewable Energy Laboratory (NREL)\"; \"pursue mutually beneficial projects\"; \"reduce greenhouse gas emissions\"",
+  "co_benefits": "Potential co-benefits include improved energy resilience and reliability during hurricanes/heat (if projects include microgrids, efficiency, or distributed renewables), but these are not specified in the text.",
+  "instance_edge_case_notes": "Instrument type could also be interpreted as a procurement-requirement or regulatory-mandate in contexts where executing agreements is a formal directive; however, the substantive mechanism is collaboration/technical assistance (best captured as a planning/strategy enabling instrument) with mitigation as the explicit objective."
+}

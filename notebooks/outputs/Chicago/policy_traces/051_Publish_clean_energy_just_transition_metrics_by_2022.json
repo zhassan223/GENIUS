@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Publish clean energy just transition metrics by 2022.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "just_transition_metrics_reporting → accountability_and_equity_in_clean_energy_transition",
+  "mechanism_description": "Publishing just transition metrics increases transparency and accountability, helping guide equitable implementation of clean energy policies and investments.",
+  "primary_category": "Mitigation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Governance transparency (metrics + reporting) → ↑ accountability/targeting of clean-energy actions → ↑ adoption/implementation of decarbonization measures → ↓ GHG emissions",
+  "causal_mechanism_detail": "1) Change in human activity/system: The city establishes, tracks, and publicly reports just-transition indicators (e.g., distribution of clean-energy investments, workforce outcomes, affordability/energy burden, participation, demographic equity metrics).  \n2) Mediating process: Transparency reduces information gaps, enables oversight, and strengthens accountability, which can reallocate funding/program design toward equitable outcomes, build legitimacy, and reduce political/implementation friction that can otherwise slow or reverse clean-energy programs.  \n3) Climate-relevant outcome: More effective and sustained deployment of clean-energy policies and investments, leading (indirectly) to lower community-wide GHG emissions relative to a counterfactual with weaker accountability.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is enabling faster and more durable GHG emissions reductions by improving transparency and accountability in the clean-energy transition.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Reporting metrics is a governance lever whose primary climate-relevant purpose is to improve execution and durability of clean-energy transition efforts, which ultimately affects emissions.  \n2) Why this primary over alternatives: The mechanism does not directly reduce energy input (Resource Efficiency), increase carbon sinks (Nature-Based Solutions), or reduce hazard exposure (Adaptation). Any climate benefit comes through improved delivery of mitigation actions.  \n3) Inherent causal chain for each secondary: None are inherent—metrics can be designed around equity without guaranteeing emissions reductions, and likewise do not physically change exposure or ecosystems in every instance.  \n4) Edge cases applied: While “just transition” centers equity and social outcomes, those are not one of the allowed categories; the closest climate category is Mitigation because the reporting is explicitly tied to the clean-energy transition.  \n5) Confirm labels apply to ALL instances: Any policy with this mechanism (just-transition metrics/reporting) operates via accountability in decarbonization governance; thus Mitigation is the most consistent primary category across contexts.",
+  "mechanism_confidence": 0.74,
+  "mechanism_edge_case_notes": "If a jurisdiction uses “just transition metrics” solely for social tracking without linkage to clean-energy deployment/targets, the mitigation link weakens; however, under the stated mechanism (“in clean energy transition”), the dominant pathway remains mitigation-enabling governance.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "information-disclosure",
+  "instrument_directness": "enabling",
+  "climate_relevance": "indirect",
+  "key_indicators": "\"Publish\"; \"metrics\"; \"just transition\"; \"by 2022\"",
+  "co_benefits": "Improved equity outcomes (distributional justice, affordability/energy burden visibility, workforce outcomes accountability); better program governance and public trust.",
+  "instance_edge_case_notes": "Could be interpreted as a target-setting deadline (“by 2022”), but the core action is disclosure/reporting rather than setting an emissions or deployment target; no explicit linkage to heat/flood resilience metrics is stated."
+}

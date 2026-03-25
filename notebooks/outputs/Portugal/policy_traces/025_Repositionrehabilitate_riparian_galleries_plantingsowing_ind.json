@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Reposition/rehabilitate riparian galleries (planting/sowing indigenous species) and consolidate/recover slopes and riverbanks using natural engineering techniques for erosion control.",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "riparian_restoration_and_bioengineering → erosion_control_and_flood_resilience",
+  "mechanism_description": "Restoring riparian corridors and stabilizing riverbanks with nature-based techniques reduces erosion and bank failure, improving watershed stability and flood resilience.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Nature-Based Solutions; Water Management",
+  "secondary_justification": "Nature-Based Solutions: Re-vegetating riparian corridors and using living/natural engineering (e.g., plantings, bio-stabilization) enhances ecosystem structure and function, which physically stabilizes banks and attenuates flows while providing co-benefits like habitat and potential carbon storage.",
+  "primary_causal_pathway": "Climate hazard (extreme rainfall/high flows) → ecosystem/soil stabilization interventions → ↓ bank erosion + ↓ flood peak impacts → ↓ exposure/vulnerability",
+  "causal_mechanism_detail": "(1) Change: Governments/land managers restore riparian vegetation (indigenous planting/sowing) and apply natural/bioengineering techniques on slopes and riverbanks.  \n(2) Mediating process: Root networks reinforce soil, increased roughness slows near-bank velocities, vegetation and soils improve infiltration and reduce overland flow energy, and bank stabilization reduces undercutting and failure during high flows.  \n(3) Climate-relevant outcome: Lower erosion and sediment mobilization, reduced bank collapse and channel instability, and improved resilience to more frequent/intense flood events—reducing damages to infrastructure, land, and communities.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect of policies using this mechanism is reducing flood- and erosion-related damages by stabilizing riverbanks and moderating high-flow runoff.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Addresses intensified hydrologic hazards by reducing exposure/sensitivity to floods and erosion through bank and watershed stabilization.  \n2) Why this primary over alternatives: While vegetation can sequester some carbon, the principal intended and largest effect is risk reduction (erosion control/flood resilience), which is adaptation.  \n3) Inherent causal chain for each secondary:  \n   - Nature-Based Solutions: The mechanism is implemented via ecological restoration/living materials; ecosystem function is the means of achieving the outcome.  \n4) Edge cases applied: If implemented solely as structural hardening (e.g., concrete revetments) it would not be NBS—but this canonical mechanism explicitly uses riparian restoration/bioengineering, so NBS is inherent here.  \n5) Confirm labels apply to ALL instances: Any policy that restores riparian corridors and uses natural engineering for bank/slope stabilization will, by construction, aim at and deliver erosion and flood-risk reduction (adaptation) and does so via nature-based measures (NBS).",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Carbon sequestration/mitigation co-benefits may occur but are typically secondary and not guaranteed in magnitude; also, if “bioengineering” is interpreted as largely grey infrastructure in a specific instance, the NBS secondary could weaken, but the stated mechanism centers on riparian restoration with natural techniques.",
+  "additional_secondary_evidence": "Water Management: Portugal faces water scarcity/drought, and rehabilitating riparian galleries with indigenous vegetation and natural engineering directly reduces sensitivity because it improves infiltration, bank soil structure, and local moisture retention, supporting baseflows/riparian water regulation during dry periods.",
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“Reposition/rehabilitation of the riparian gallery (planting and/or sowing of indigenous species)”; “Consolidation and recovery of slopes and riverbanks”; “natural engineering techniques”; “erosion control”",
+  "co_benefits": "Biodiversity/habitat enhancement; water quality improvement via reduced sediment loads; recreational/amenity benefits.",
+  "instance_edge_case_notes": "If implemented mainly as a rule requiring riparian buffers (rather than as works), the instrument_type could shift toward regulatory-mandate; the provided text reads primarily as implementation of physical restoration/stabilization works."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "NAP target: irrigated infrastructure area with precision technologies promoting efficient water use to reach 10% by 2020 and 50% by 2030.",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "precision_irrigation_deployment → agricultural_water_use_reduction",
+  "mechanism_description": "Deploying precision irrigation technologies improves irrigation efficiency, reducing agricultural water withdrawals and overall water demand.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Resource Efficiency; Water Security",
+  "secondary_justification": "Resource Efficiency: Higher irrigation efficiency delivers the same (or higher) crop water service with less freshwater withdrawn/consumed, reducing total water inputs per unit of agricultural output.",
+  "primary_causal_pathway": "Climate stressor (drought/water scarcity) → improved irrigation efficiency → ↓ agricultural water withdrawals → ↑ water security/↓ vulnerability",
+  "causal_mechanism_detail": "(1) Change: Farmers/agricultural systems adopt precision irrigation (e.g., drip/micro-irrigation, soil-moisture sensors, variable-rate application, scheduling). (2) Process: More targeted delivery reduces evaporation, runoff, and deep percolation losses and better matches application to crop needs. (3) Outcome: Lower water withdrawals/consumption reduces pressure on scarce water supplies and increases resilience of agriculture and water systems under drought and hotter conditions.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced exposure to drought/water scarcity by lowering agricultural water demand through more efficient irrigation.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: water-scarcity risk is addressed by reducing irrigation demand via efficiency gains, which directly reduces vulnerability to drought.  \n2) Why this primary over alternatives: while energy/GHG co-benefits can occur (less pumping), they are context-dependent and typically smaller than the water-security/resilience benefit that is inherent to the mechanism.  \n3) Inherent secondary chain(s): Resource Efficiency applies because the mechanism universally reduces freshwater input per unit of irrigation service through efficiency improvements.  \n4) Edge cases applied: if saved water is fully reallocated to expand irrigation area (rebound), water-security adaptation benefits can be reduced, but the mechanism still targets efficiency and lower withdrawals per irrigated hectare.  \n5) Labels apply to ALL instances: any policy promoting precision irrigation is intrinsically an adaptation measure to water scarcity and inherently improves water-use efficiency.",
+  "mechanism_confidence": 0.83,
+  "mechanism_edge_case_notes": "Water “rebound”/expansion effects and basin-level outcomes depend on governance (water rights, caps) and whether return flows are reduced; mitigation co-benefits (reduced pumping energy) are variable and not inherent.",
+  "additional_secondary_evidence": "Water Security: Portugal faces drought and water scarcity, and expanding precision irrigation directly reduces exposure/sensitivity because it lowers agricultural water withdrawals and improves reliability of water supply during dry periods.",
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Irrigated infrastructure area”; “precision technologies”; “promote efficient water use”; “10%”; “50%”",
+  "co_benefits": "Potential co-benefits include reduced energy use for pumping (mitigation) and improved farm productivity, but these are not explicit and do not directly target a distinct local hazard beyond water scarcity.",
+  "instance_edge_case_notes": "“Target” implies an intention/goal rather than an implemented incentive or regulatory requirement; instrument could shift if the underlying NAP specifies subsidies, standards, or modernization investments, but that is not present in the verbatim text."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Establish a climate-and-health research and monitoring network focused on analyzing expected climate change impacts on health.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "climate_health_monitoring_network → adaptation_planning_support",
+  "mechanism_description": "Establishing a climate-and-health research and monitoring network improves climate-health data and analysis, which supports more effective adaptation planning and public health preparedness.",
+  "primary_category": "Adaptation",
+  "secondary_categories": null,
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard information gap → ↑ monitoring/surveillance + analysis → ↑ early warning/targeted preparedness → ↓ exposure/sensitivity of populations → ↓ climate-related health impacts",
+  "causal_mechanism_detail": "(1) Change in human activity/system: establish and operate an institutional network that collects, integrates, and analyzes climate and health data (surveillance, research, indicators, reporting).  \n(2) Mediating physical/ecological process: improved attribution and prediction of climate-health linkages (e.g., heat stress thresholds, dust/ozone episodes, vector ecology shifts) and identification of vulnerable groups/times/places.  \n(3) Climate-relevant outcome: better-informed adaptation planning and operational preparedness (alerts, staffing, protocols, targeted interventions) that reduces morbidity/mortality and service disruption during climate-related events.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is improved detection/forecasting of climate-sensitive health threats that enables better public health preparedness and response, reducing harm from climate hazards.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: information/monitoring → improved preparedness/planning → reduced health impacts from climate hazards (adaptation).  \n2) Why this primary over alternatives: the mechanism does not inherently change emissions or resource/energy inputs; its core function is risk reduction via better decisions and response capacity.  \n3) Inherent causal chain for each secondary: none—any mitigation/resource-efficiency co-benefits (e.g., optimized operations) are contingent and not physically unavoidable from monitoring itself.  \n4) Edge cases applied: even if the network supports mitigation policy analysis, that is optional and context-dependent; the mechanism as defined is climate-health impact monitoring to support adaptation planning.  \n5) Confirm labels apply to ALL instances: any policy establishing climate-health monitoring/research networks has the same primary effect of strengthening health adaptation planning and preparedness.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "If the monitoring network is explicitly used to drive emissions-control policy (e.g., air pollution GHG co-control) or to optimize healthcare energy use, those would be separate mechanisms; as stated, the dominant pathway remains health risk preparedness/adaptation support.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "\"Establish a research and monitoring network\"; \"climate and health\"; \"analyzing the expected climate change impact on health\"",
+  "co_benefits": "Improved routine public health surveillance and evidence base for non-climate health priorities; strengthened interagency coordination and data systems.",
+  "instance_edge_case_notes": "Instrument type could also be framed as a planning-strategy (institutional setup/coordination), but the operative action is creating operational monitoring/research capability (network), which aligns best with infrastructure-investment."
+}

@@ -1,0 +1,23 @@
+{
+  "policy_statement": "For Line of Action #8, make an additional €47 million of public investment in 2020 (POSEUR: €47 million) and make €560 million of public investment in coastal protection by 2030.",
+  "role": "sub",
+  "sector": "water",
+  "canonical_mechanism": "coastal_protection_investment → coastal_flood_risk_reduction",
+  "mechanism_description": "Public investment in coastal protection measures reduces vulnerability and damages from sea-level rise and coastal flooding.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Coastal flooding & erosion",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (sea-level rise/storm surge) → coastal defense/managed retreat → ↓ exposure & vulnerability → ↓ flood/erosion damages",
+  "causal_mechanism_detail": "(1) Change: Public investment increases deployment of coastal protection and risk management actions (e.g., dunes and beach nourishment, sediment management, seawalls/levees, breakwaters, flood barriers, elevating/protecting assets, or planned retreat/zoning in high-risk areas). (2) Mediating process: These measures dissipate wave energy, reduce storm surge inundation pathways, stabilize shorelines, or relocate assets out of hazard zones, thereby lowering probability and depth/extent of flooding and erosion impacts. (3) Climate-relevant outcome: Reduced expected losses (people, infrastructure, services) from climate-amplified coastal flooding and erosion under sea-level rise and extreme events.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing exposure and damages from sea-level-rise–driven coastal flooding, erosion, and overtopping through protective/coastal management measures.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: addresses a climate hazard (sea-level rise, storm surge, coastal flooding) by reducing exposure/vulnerability via protective measures and/or retreat.  \n2) Why this primary over alternatives: the core outcome is risk reduction and resilience, not emissions reduction or efficiency; any mitigation effects (e.g., avoided rebuilding emissions) are indirect and not the main physical pathway.  \n3) Inherent causal chain for each secondary: None—coastal protection can be hard-engineered (no inherent ecosystem enhancement) and does not necessarily change energy/material intensity system-wide.  \n4) Edge cases applied: Some coastal projects may be explicitly nature-based (e.g., mangroves, wetlands) which could add Nature-Based Solutions as a secondary; however, this canonical mechanism includes mixed interventions and does not inherently require ecosystem restoration.  \n5) Confirm labels apply to ALL instances: Any policy under this mechanism fundamentally invests in coastal protection/management to reduce coastal flood/erosion risk, which is adaptation in all contexts.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "If the intervention is specifically ecosystem-based coastal protection (e.g., mangrove/wetland restoration as the primary measure), a separate mechanism or an added Nature-Based Solutions classification may be more appropriate; similarly, nourishment/sediment management can have ecological impacts but not inherently carbon-sink or efficiency outcomes.",
+  "additional_secondary_evidence": "Coastal flooding & erosion: Portugal faces coastal erosion and flooding, and public investment in “coastal protection” directly reduces exposure/sensitivity because it funds physical shoreline/storm-impact protection measures that lower inundation and erosion damages.",
+  "instrument_type": "infrastructure-investment",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“public investment”; “€47 million”; “€560 million”; “public investment in coastal protection”; “2020”; “2030”",
+  "co_benefits": "Potential co-benefits: protection of coastal ecosystems/tourism assets; avoided damage to transport/utilities; local employment from construction/maintenance (not explicitly stated).",
+  "instance_edge_case_notes": "“Coastal protection” is broad and could include hard defenses or nature-based measures; the text does not specify the modality, but the investment commitment still clearly functions as direct adaptation finance for coastal risk reduction."
+}

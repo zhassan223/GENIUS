@@ -1,0 +1,23 @@
+{
+  "policy_statement": "NAP target: transport infrastructure managing entities with adaptation or contingency plans for extreme events to reach 10% by 2020 and 50% by 2030.",
+  "role": "sub",
+  "sector": "transport",
+  "canonical_mechanism": "transport_adaptation_contingency_planning → infrastructure_resilience_to_extreme_events",
+  "mechanism_description": "Requiring transport infrastructure managers to create adaptation and contingency plans improves preparedness and reduces disruption and damage from extreme weather events.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Disaster Risk Management",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Climate hazard (extreme events) → preparedness/continuity actions → ↓ infrastructure damage + ↓ service disruption → ↓ exposure/vulnerability",
+  "causal_mechanism_detail": "(1) Change: Transport infrastructure owners/operators adopt formal adaptation and contingency plans (e.g., risk assessments, emergency protocols, redundancy, maintenance triggers, response coordination).  \n(2) Mediating process: Planning improves anticipatory actions and response capacity—earlier warnings, faster recovery, reduced failure cascades, and better protection of critical assets during floods, heatwaves, storms, wildfire impacts, etc.  \n(3) Climate-relevant outcome: Increased resilience (lower disruption, damage, and recovery time) under climate-amplified extreme events, reducing societal and economic impacts tied to transport system failure.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reduced exposure and vulnerability of transport infrastructure and services to extreme weather through improved preparedness, response, and continuity planning.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: extreme-event risk → planning/preparedness → reduced damages/disruption (risk reduction), which is adaptation.  \n2) Why this primary over alternatives: the mechanism’s direct intent and physical effect is resilience/continuity under hazards, not emissions reduction or efficiency; any mitigation effects (e.g., avoided congestion emissions during disruptions) are incidental and not guaranteed.  \n3) Inherent causal chain for each secondary: None—no secondary category is unavoidable across all implementations (plans may or may not include efficiency upgrades, mode shift, or nature-based measures).  \n4) Edge cases applied: If a plan mandates energy-saving retrofits or electrification, those are additional mechanisms; the planning mechanism alone remains adaptation-focused.  \n5) Confirm labels apply to ALL instances: Any policy that increases adoption of contingency/adaptation plans for transport infrastructure managers is fundamentally about reducing vulnerability to extreme events, so “Adaptation” applies universally.",
+  "mechanism_confidence": 0.9,
+  "mechanism_edge_case_notes": "Plans can sometimes include mitigation or resource-efficiency actions, but those are optional design choices rather than inherent outcomes of contingency planning; classify those under separate mechanisms if explicitly required.",
+  "additional_secondary_evidence": "Disaster Risk Management: Portugal faces flooding, wildfire risk, and extreme heat events, and requiring/expanding contingency and adaptation plans for extreme events directly reduces exposure/sensitivity because it strengthens preparedness, emergency response protocols, and service continuity measures for transport infrastructure during and after hazard events.",
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“adaptation plans”, “contingency plans”, “extreme events”, “10%”, “50%”, “Transport infrastructure managing entities”",
+  "co_benefits": "Potential co-benefits include improved day-to-day asset management, reliability, and safety of transport operations (including non-climate disruptions), but these are not explicitly specified beyond extreme-event preparedness.",
+  "instance_edge_case_notes": "Could also be interpreted as a performance indicator/reporting framework linked to future compliance measures, but the verbatim text only states percentage targets (no explicit mandate, funding, or enforcement), so it is best classified as target-setting with enabling directness."
+}

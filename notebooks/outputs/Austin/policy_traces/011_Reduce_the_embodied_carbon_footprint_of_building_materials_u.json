@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Reduce the embodied carbon footprint of building materials used in local construction by 40% from a 2020 baseline by 2030 (with project embodied carbon not exceeding 500 kg CO2e/m2).",
+  "role": "parent",
+  "sector": "buildings",
+  "canonical_mechanism": "embodied_carbon_reduction → construction_emissions_reduction",
+  "mechanism_description": "Require lower-embodied-carbon construction materials, thereby reducing lifecycle greenhouse gas emissions associated with building construction.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Resource Efficiency",
+  "secondary_justification": "Resource Efficiency: Lower-embodied-carbon construction commonly relies on material efficiency (less material for the same service), circular practices (deconstruction, reuse, higher recycled content), and substitution away from high-carbon virgin materials, which inherently reduces raw material throughput and waste generation alongside emissions.",
+  "primary_causal_pathway": "Construction procurement/design → ↓ carbon-intensive material production + ↑ low-carbon alternatives/circularity → ↓ embodied GHG emissions → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "(1) Change: Building project design, specifications, and procurement shift toward lower-carbon materials and methods (e.g., low-clinker cement, recycled steel, mass timber where appropriate, optimized structural design, material reuse via deconstruction).  \n(2) Process: Reduced demand for emissions-intensive industrial processes and virgin material extraction/processing; increased reuse/recycling lowers energy and process emissions per unit of construction delivered.  \n(3) Outcome: Lower upfront/lifecycle construction-phase CO2e emissions (often the dominant near-term emissions component for new buildings), contributing to overall GHG mitigation.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is reducing upfront (embodied) greenhouse gas emissions from producing, transporting, and installing construction materials.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Policies change material choice/design/construction practice to reduce embodied (upfront) GHG emissions—this is a direct emissions reduction pathway.  \n2) Why this primary over alternatives: While such policies can reduce waste and material use, their explicit and dominant climate purpose/effect is mitigation via lower CO2e from industrial material production and construction.  \n3) Inherent secondary chain(s):  \n   - Resource Efficiency: Achieving lower embodied carbon typically entails material efficiency and circular material flows (reuse/recycling/deconstruction), inherently reducing resource throughput and waste.  \n4) Edge cases applied: Some low-carbon substitutions may not reduce material use (e.g., direct product swaps), but embodied-carbon reduction programs generally require measurement and optimization that systematically pushes efficiency/circularity; adaptation benefits are not inherent.  \n5) Label applies to ALL instances: Any policy under this mechanism (assessment, targets, incentives, agreements) is fundamentally aimed at reducing embodied emissions from construction, so Mitigation always applies; Resource Efficiency is an inherent co-effect of the common required strategies (optimization/reuse/recycling) embedded in the mechanism’s implementation.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "In some implementations, embodied-carbon reduction could be achieved mainly through fuel-switching/clean manufacturing (less directly tied to local resource efficiency) or through carbon offsets; in those cases Resource Efficiency may be weaker, but Mitigation remains the primary category.",
+  "additional_secondary_evidence": null,
+  "instrument_type": "performance-standard",
+  "instrument_directness": "direct",
+  "climate_relevance": "direct",
+  "key_indicators": "“By 2030, reduce the embodied carbon footprint… by 40% from a 2020 baseline”; “must not exceed 500 kg CO2e/m2 per project”",
+  "co_benefits": "Potential co-benefits (not explicit/required by the mechanism): improved air quality from lower industrial emissions; reduced raw-material extraction impacts; potential construction waste reduction via reuse/recycling.",
+  "instance_edge_case_notes": "Although lower-carbon materials can sometimes improve resilience (e.g., mass timber vs. heat conduction, material sourcing), the policy text specifies only embodied-carbon outcomes and does not directly reduce exposure/sensitivity to Austin’s listed hazards."
+}

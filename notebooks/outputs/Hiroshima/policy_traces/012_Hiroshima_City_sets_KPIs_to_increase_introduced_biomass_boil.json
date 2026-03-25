@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Hiroshima City sets KPIs to increase introduced biomass boilers in city facilities to 3 by FY2020 and 9 by FY2030, and to increase area of park and green spaces to 1,000 ha by FY2020.",
+  "role": "individual",
+  "sector": "buildings",
+  "canonical_mechanism": "biomass_boiler_deployment → fossil_fuel_heating_displacement",
+  "mechanism_description": "Install biomass boilers in municipal facilities to replace fossil-fuel heating, reducing combustion-related greenhouse gas emissions.",
+  "primary_category": "Mitigation",
+  "secondary_categories": "Adaptation (Extreme heat / urban heat island reduction)",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Fossil heat demand → fuel switching to biomass → ↓ net CO2e from building heat → ↓ atmospheric forcing",
+  "causal_mechanism_detail": "1) Change in system/activity: Municipal (or other) facilities replace oil/gas-fired boilers with biomass boilers for space and/or water heating.  \n2) Mediating process: Energy service (heat) is delivered via combustion of biogenic fuels rather than fossil fuels, reducing lifecycle fossil carbon emissions (and potentially methane leakage associated with gas supply).  \n3) Climate-relevant outcome: Lower net CO2e emissions from the buildings’ heating load compared with the fossil-fuel baseline (extent depends on feedstock sustainability, supply-chain emissions, and combustion efficiency).",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is displacing fossil-fuel combustion for building heat, thereby reducing net greenhouse gas emissions.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: Fuel switching in heating systems reduces net GHG emissions relative to fossil heat.  \n2) Why this primary over alternatives: The mechanism’s main lever is emissions reduction (mitigation), not reducing climate hazard exposure (adaptation), not primarily reducing energy input for the same service (resource efficiency), and not relying on ecosystem processes (nature-based solutions).  \n3) Inherent causal chain for each secondary: None—any resource-efficiency gains (e.g., higher boiler efficiency) or resilience benefits (e.g., fuel supply diversification) are not unavoidable outcomes of biomass boiler deployment.  \n4) Edge cases applied: Biomass can be non-beneficial if sourced unsustainably or if high lifecycle emissions occur; these affect effectiveness but not the mechanism’s intended dominant pathway.  \n5) Confirm labels apply to ALL instances: Any policy deploying biomass boilers to displace fossil heating is fundamentally an emissions-reduction (mitigation) strategy, regardless of city/context.",
+  "mechanism_confidence": 0.86,
+  "mechanism_edge_case_notes": "Lifecycle accounting can flip the sign of benefits (e.g., unsustainable feedstock, long transport distances, poor combustion controls, short time-horizon carbon debt), and biomass may increase local air pollutants; these are effectiveness/impact-variance issues rather than changing the primary category.",
+  "additional_secondary_evidence": "Adaptation (Extreme heat / urban heat island reduction): Hiroshima faces extreme heat events, and increasing the “area of park and green spaces” directly reduces exposure/sensitivity because added vegetation provides shade and evaporative cooling, lowering ambient temperatures and heat stress.",
+  "instrument_type": "target-setting",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“Key Performance Indicator (KPI)”; “No. of introduced biomass boilers in the city facilities (cumulative total) … 3 … 9”; “Area of park and green spaces … 1,000ha”; “by FY2020 … by FY2030”",
+  "co_benefits": "Air-quality improvement from reduced fossil boiler combustion; stormwater management/flood mitigation and slope stabilization benefits from expanded green space; biodiversity/recreation benefits.",
+  "instance_edge_case_notes": "Green space expansion could also support flooding/landslide risk reduction, but the text frames it only as area targets without specifying hazard-focused siting/design; the strongest direct linkage given local vulnerabilities is extreme-heat sensitivity reduction. The biomass boiler KPI assumes sustainable biomass supply; lifecycle emissions could vary but does not change instrument classification."
+}

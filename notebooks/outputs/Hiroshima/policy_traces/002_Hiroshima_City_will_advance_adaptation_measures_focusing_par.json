@@ -1,0 +1,23 @@
+{
+  "policy_statement": "Hiroshima City will advance adaptation measures focusing particularly on natural disaster/coast area, health, and people's life/city life, incorporating an additional 'adaptation' viewpoint into existing disaster prevention and healthcare measures, and steadily promoting selected effective measures from its FY2015 comprehensive strategy.",
+  "role": "sub",
+  "sector": "governance",
+  "canonical_mechanism": "adaptation_planning_framework → institutional_adaptive_capacity",
+  "mechanism_description": "Integrating climate adaptation into existing disaster risk reduction and public health measures strengthens institutional capacity and implementation to reduce climate-related impacts on coastal hazards, health, and daily life.",
+  "primary_category": "Adaptation",
+  "secondary_categories": "Health",
+  "secondary_justification": null,
+  "primary_causal_pathway": "Governance/planning change → improved institutional capacity & coordination → better risk-informed decisions/implementation → ↓ climate hazard impacts (↓ exposure/vulnerability)",
+  "causal_mechanism_detail": "(1) Changes the governance system by creating, strengthening, or integrating adaptation and hazard-mitigation planning processes (e.g., linking community resilience strategies into hazard plans; developing a National Adaptation Plan; compiling cross-sector initiatives). (2) The mediating process is institutional: improved coordination across agencies/sectors, clearer priorities, mainstreaming of risk information, and more consistent funding/project selection and execution. (3) The climate-relevant outcome is increased adaptive capacity that reduces losses and disruptions from extreme heat, flooding, sea-level rise, water scarcity, and other climate hazards.",
+  "dominant_pathway_test": "The single biggest climate-relevant effect is improved preparedness and coordinated implementation that reduces exposure and sensitivity to climate hazards, lowering climate-related damages.",
+  "mechanism_classification_reasoning": "1) Dominant causal pathway: institutional planning frameworks improve adaptive capacity, which primarily reduces climate risk and impacts.  \n2) Why this primary over alternatives: while some planned actions may later yield mitigation or efficiency co-benefits, the mechanism itself is planning/coordination aimed at resilience outcomes; its direct and intended climate effect is adaptation.  \n3) Inherent causal chain for each secondary: none is unavoidable—planning frameworks do not necessarily reduce GHGs, improve resource efficiency, or enhance ecosystems unless paired with specific measures.  \n4) Edge cases applied: hazard mitigation plans can include emissions-reducing measures (e.g., energy upgrades for resilience), but those are contingent implementation choices, not inherent to “planning framework → adaptive capacity.”  \n5) Confirm labels apply to ALL instances: any policy that strengthens or integrates adaptation/hazard planning increases institutional adaptive capacity and thus fits Adaptation regardless of city/context.",
+  "mechanism_confidence": 0.93,
+  "mechanism_edge_case_notes": "Plans that explicitly require mitigation (e.g., integrating emissions targets into hazard planning) would introduce a mitigation mechanism, but that is additive and not intrinsic to the adaptation-planning-to-capacity mechanism as defined.",
+  "additional_secondary_evidence": "Health: Hiroshima faces extreme heat events, and adding an “adaptation” viewpoint into existing healthcare measures directly reduces sensitivity to heat-related illness by strengthening health system preparedness and response.",
+  "instrument_type": "planning-strategy",
+  "instrument_directness": "enabling",
+  "climate_relevance": "direct",
+  "key_indicators": "“advance adaptation measures”; “focus on … ‘natural disaster/coast area’, ‘health’ and ‘people’s life/city life’”; “damage by climate change has become obvious”; “additional ‘adaptation’ viewpoint into existing disaster prevention and healthcare measures”; “steady promotion” (of measures) “from its … comprehensive strategy”",
+  "co_benefits": "Potential co-benefits include improved general disaster readiness and public health service quality (non-climate-specific), but the excerpt does not detail specific non-climate outcomes beyond adaptation framing.",
+  "instance_edge_case_notes": "The text mentions “natural disaster/coast area” and “people’s life/city life,” which could align with flooding/landslides and sea-level rise, but it does not specify particular actions (e.g., coastal defenses, land-use controls, slope stabilization). Therefore, only “Health” is added as a secondary because the mechanism (healthcare adaptation) is explicitly stated."
+}

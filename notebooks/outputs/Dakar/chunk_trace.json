@@ -1,0 +1,59 @@
+{
+  "doc_id": "Dakar_Senegal_4c664fd5e5",
+  "total_chunks": 1,
+  "total_policies_before_resolve": 30,
+  "total_policies_after_resolve": 30,
+  "resolver_stats": {
+    "input_count": 30,
+    "dedup_removed": 0,
+    "statement_dedup_removed": 0,
+    "deterministic_links": 13,
+    "llm_arbitrated": 0,
+    "orphan_count": 0,
+    "output_count": 30
+  },
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "word_count": 27464,
+      "has_overlap": false,
+      "ancestor_headings": [],
+      "policies_extracted": 30,
+      "elapsed_seconds": 71.74,
+      "carry_forward_length": 0,
+      "error": null
+    }
+  ],
+  "chunk_provenance": {
+    "The City of Dakar will implement its Territorial Climate Energy Plan (PCET) to set targets to reduce GHG emissions and reduce its vulnerability to climate change.": 0,
+    "Dakar will undertake a participatory and inclusive approach by mobilizing all stakeholders to achieve its climate plan objectives.": 0,
+    "The City of Dakar will strengthen its climate governance by diagnosing its GHG emissions and vulnerability and integrating renewables, energy savings in municipal buildings and public lighting, soft transport modes, circular economy, and green spaces into municipal policy.": 0,
+    "By 2050, Dakar aims to achieve a 54% reduction in GHG emissions, a 75% reduction in the energy bill of the City’s built heritage, and at least a 65% share of renewable energy in the energy mix.": 0,
+    "Dakar will pursue adaptation objectives including strengthening climate/coastal/urban pollution data networks; reducing vulnerable populations through awareness; reducing heatwave vulnerability; increasing protection initiatives; reducing air pollutants by 2030; increasing urban green spaces by 150 ha by 2030; expanding ecological urban agriculture by 2030; and increasing climate-resilient infrastructure.": 0,
+    "Dakar will implement energy efficiency actions in municipal buildings and public lighting, avoiding 441.39 tCO2eq (81% below BAU) in audited buildings and achieving 57% GHG reduction potential in public lighting, with an estimated overall 62% reduction (about 2,823 tCO2eq/year avoided) if implemented across the city’s heritage.": 0,
+    "The City of Dakar will establish an energy and ecological transition programme that prioritizes energy efficiency, including measures such as improved pricing/power factor, LED lighting and controls, efficient air conditioning, equipment changes, pump performance improvements, and integration of renewables (mini solar plants and solar water heaters), achieving up to 51% savings on subscribed electricity and 81% on energy consumption.": 0,
+    "Energy and energy efficiency actions under the Climate Plan (priority actions list).": 0,
+    "Adopt energy efficiency standards (building code) to improve the energy performance of new buildings.": 0,
+    "Realise energy savings in buildings in the City of Dakar.": 0,
+    "Promote widespread use of solar LED lamps in public lighting.": 0,
+    "Strengthen electricity generation capacity with renewable energy to boost the energy transition.": 0,
+    "Transport actions under the Climate Plan (priority actions list).": 0,
+    "Develop rapid bus transport (BRT).": 0,
+    "Establish a vehicle fleet that meets fuel efficiency standards by fuel type.": 0,
+    "Develop around transit stations and promote transit-oriented development (TOD).": 0,
+    "Construct pedestrian and cycling lanes and paths in municipalities.": 0,
+    "Solid waste and wastewater actions under the Climate Plan (priority actions list).": 0,
+    "Develop organic waste recovery channels.": 0,
+    "Ensure proper management of sludge produced by self-contained sanitation in unserved areas to reduce pollution load.": 0,
+    "Funding climate action / access to climate finance actions under the Climate Plan (priority actions list).": 0,
+    "Establish an institutional framework for governance of the energy and ecological transition.": 0,
+    "Strengthen human capital to formulate climate change adaptation and mitigation projects.": 0,
+    "Establish autonomous financing mechanisms for risks and vulnerabilities in the City of Dakar.": 0,
+    "Dakar will put in place a strategy for mobilizing resources as a roadmap to meet the funding needs of its Climate Action Plan, emphasizing strategic axes and priority actions.": 0,
+    "To coordinate and monitor the Climate Action Plan, Dakar will have an operational body and will establish a steering committee that meets annually.": 0,
+    "Dakar will establish a climate governance executing body supported by a technical committee subdivided into a climate data management unit, a unit for practical implementation of climate actions, and a green financing/calls-to-projects unit.": 0,
+    "The City of Dakar will apply principles of consistency, transparency and precision to monitor and communicate climate data through an MRV system for the PCET.": 0,
+    "Dakar will establish a software platform for monitoring and evaluating PCET actions, centralizing documents, managing climate data, tracking PCET achievements, interacting with stakeholders, and hosting online trainings with an ODK Collecte data tool.": 0,
+    "Communication around the action plan will include creating and running 'Climate Clubs' in schools and in Sporting and Cultural Associations, coordinated by the City of Dakar with school governments.": 0
+  }
+}
