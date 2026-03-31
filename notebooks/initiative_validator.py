@@ -84,6 +84,7 @@ def build_initiative_context(cluster: dict) -> dict:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 YesNo = Literal["Yes", "No"]
+ParentRowType = Literal["structural header", "standalone parent policy"]
 
 
 class SubActionAssessment(BaseModel):
@@ -190,6 +191,17 @@ class InitiativeMetrics(BaseModel):
             "'Yes' if the PARENT text establishes a geographic or institutional "
             "scope (citywide, specific neighborhoods, City-owned assets) that "
             "sub-actions inherit."
+        )
+    )
+    parent_row_type: ParentRowType = Field(
+        description=(
+            "Classify the parent row itself. Use 'structural header' when the parent "
+            "is mainly organizational scaffolding such as a sector label, pillar, or "
+            "section heading that groups the subs but is not itself a standalone "
+            "policy commitment. Use 'standalone parent policy' when the parent row "
+            "states a substantive policy commitment that could stand on its own. "
+            "This field is metadata only and must not change whether final_verdict is "
+            "True or False."
         )
     )
 
@@ -492,6 +504,7 @@ def run_initiative_validation(
                 # Inherited context
                 "inherited_binding_mechanism": metrics.inherited_binding_mechanism,
                 "inherited_spatial_scope":     metrics.inherited_spatial_scope,
+                "parent_row_type":            metrics.parent_row_type,
 
                 # Signals
                 "weak_signals":   metrics.weak_signals,

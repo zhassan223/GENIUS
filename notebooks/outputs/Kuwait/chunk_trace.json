@@ -442,7 +442,7 @@
         "5.3.3 Adaptation Plans to enhance the resilience of the Coastal Zone"
       ],
       "policies_extracted": 42,
-      "elapsed_seconds": 98.88,
+      "elapsed_seconds": 0.03,
       "carry_forward_length": 0,
       "error": null
     },
@@ -479,7 +479,7 @@
         "Appendix B"
       ],
       "policies_extracted": 11,
-      "elapsed_seconds": 28.07,
+      "elapsed_seconds": 0.02,
       "carry_forward_length": 5847,
       "error": null
     }

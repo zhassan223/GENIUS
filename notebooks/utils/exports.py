@@ -19,6 +19,7 @@ _COMBINED_COLS = [
     "section_header",
     "policy_statement",
     "parent_statement",   # populated for subs; None for others
+    "parent_row_type",    # populated for parent/sub rows when initiative validation exists
     "verbatim_text",
     "extraction_rationale",
 ]
@@ -27,6 +28,7 @@ _FINAL_COMBINED_COLS = [
     "policy_id",
     "role",
     "parent_statement",
+    "parent_row_type",
     "policy_statement",
     "primary_category",
     "trace_path",
@@ -73,6 +75,28 @@ def _safe_filename(s: str, maxlen: int = 60) -> str:
     s = re.sub(r"[^\w\s-]", "", str(s)).strip()
     s = re.sub(r"[\s-]+", "_", s)
     return s[:maxlen]
+
+
+def _initiative_parent_row_type_map(df_initiatives: Optional[pd.DataFrame]) -> dict[str, str]:
+    if (
+        df_initiatives is None
+        or df_initiatives.empty
+        or "parent_statement" not in df_initiatives.columns
+        or "parent_row_type" not in df_initiatives.columns
+    ):
+        return {}
+
+    initiative_parent_types = (
+        df_initiatives.loc[:, ["parent_statement", "parent_row_type"]]
+        .dropna(subset=["parent_statement", "parent_row_type"])
+        .drop_duplicates(subset=["parent_statement"], keep="first")
+    )
+    return dict(
+        zip(
+            initiative_parent_types["parent_statement"],
+            initiative_parent_types["parent_row_type"],
+        )
+    )
 
 
 def _build_trace_records(df_classified: pd.DataFrame) -> pd.DataFrame:
@@ -190,7 +214,7 @@ def build_combined_policies_table(
     """
     Build a minimal combined table from policy_clusters + df_final_individual.
 
-    Every row (individual / parent / sub) gets the same 9 columns.
+    Every row (individual / parent / sub) gets the same minimal columns.
     All validation detail lives in the separate trace files.
 
     Fixes applied:
@@ -204,6 +228,7 @@ def build_combined_policies_table(
     rows: List[dict] = []
     # Track statements added from clusters so we can backfill the rest
     clustered_stmts: set = set()
+    parent_row_type_by_statement = _initiative_parent_row_type_map(df_initiatives)
 
     for cluster in policy_clusters:
         ctype = cluster.get("cluster_type", "")
@@ -230,6 +255,7 @@ def build_combined_policies_table(
                 "section_header":       d.get("section_header"),
                 "policy_statement":     stmt,
                 "parent_statement":     None,
+                "parent_row_type":      None,
                 "verbatim_text":        d.get("verbatim_text"),
                 "extraction_rationale": d.get("extraction_rationale"),
             })
@@ -240,6 +266,8 @@ def build_combined_policies_table(
             if parent is None:
                 continue
             pd_ = parent.model_dump() if hasattr(parent, "model_dump") else dict(parent)
+            parent_stmt = pd_.get("policy_statement")
+            parent_row_type = parent_row_type_by_statement.get(parent_stmt)
 
             rows.append({
                 "cluster_id":           cid,
@@ -247,8 +275,9 @@ def build_combined_policies_table(
                 "role":                 "parent",
                 "sector":               pd_.get("sector"),
                 "section_header":       pd_.get("section_header"),
-                "policy_statement":     pd_.get("policy_statement"),
+                "policy_statement":     parent_stmt,
                 "parent_statement":     None,
+                "parent_row_type":      parent_row_type,
                 "verbatim_text":        pd_.get("verbatim_text"),
                 "extraction_rationale": pd_.get("extraction_rationale"),
             })
@@ -262,7 +291,8 @@ def build_combined_policies_table(
                     "sector":               sd.get("sector") or pd_.get("sector"),
                     "section_header":       sd.get("section_header") or pd_.get("section_header"),
                     "policy_statement":     sd.get("policy_statement"),
-                    "parent_statement":     pd_.get("policy_statement"),
+                    "parent_statement":     parent_stmt,
+                    "parent_row_type":      parent_row_type,
                     "verbatim_text":        sd.get("verbatim_text"),
                     "extraction_rationale": sd.get("extraction_rationale"),
                 })
@@ -286,6 +316,7 @@ def build_combined_policies_table(
                 "section_header":       row.get("section_header"),
                 "policy_statement":     stmt,
                 "parent_statement":     None,
+                "parent_row_type":      None,
                 "verbatim_text":        row.get("verbatim_text"),
                 "extraction_rationale": row.get("extraction_rationale"),
             })

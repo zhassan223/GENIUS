@@ -277,7 +277,7 @@
         "39 As of the end of September 2018."
       ],
       "policies_extracted": 35,
-      "elapsed_seconds": 100.16,
+      "elapsed_seconds": 0.03,
       "carry_forward_length": 0,
       "error": null
     },
@@ -333,7 +333,7 @@
         "Concepts sources:"
       ],
       "policies_extracted": 57,
-      "elapsed_seconds": 132.68,
+      "elapsed_seconds": 0.03,
       "carry_forward_length": 6797,
       "error": null
     }

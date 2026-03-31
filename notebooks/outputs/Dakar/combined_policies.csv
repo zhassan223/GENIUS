@@ -1,3 +1,14 @@
-policy_id,role,parent_statement,policy_statement,primary_category,trace_path
-000,individual,,"By 2050, Dakar aims to achieve a 54% reduction in GHG emissions, a 75% reduction in the energy bill of the City’s built heritage, and at least a 65% share of renewable energy in the energy mix.",Mitigation,policy_traces/000_By_2050_Dakar_aims_to_achieve_a_54_reduction_in_GHG_emission.json
-001,individual,,Dakar will pursue adaptation objectives including strengthening climate/coastal/urban pollution data networks; reducing vulnerable populations through awareness; reducing heatwave vulnerability; increasing protection initiatives; reducing air pollutants by 2030; increasing urban green spaces by 150 ha by 2030; expanding ecological urban agriculture by 2030; and increasing climate-resilient infrastructure.,Adaptation,policy_traces/001_Dakar_will_pursue_adaptation_objectives_including_strengthen.json
+cluster_id,cluster_type,role,sector,section_header,policy_statement,parent_statement,parent_row_type,verbatim_text,extraction_rationale
+7,individual,individual,Cross-sectoral,8.1 Dakar's vision for 2050,"By 2050, Dakar aims to achieve a 54% reduction in GHG emissions, a 75% reduction in the energy bill of the City’s built heritage, and at least a 65% share of renewable energy in the energy mix.",,,"Overall, the goals that the city could achieve are:
+-    a  54%  reduction  in  GHG  emissions  by 2050;
+-  a 75% reduction in the energy bill in the built heritage of the City of Dakar by 2050;
+-    an  increase  in  the  share  of  renewable energy in the energy mix of at least 65% by 2050.",Quantified long-term targets with a clear timeframe (2050).
+8,individual,individual,Adaptation,9.3.3 Living environment and public hygiene,Dakar will pursue adaptation objectives including strengthening climate/coastal/urban pollution data networks; reducing vulnerable populations through awareness; reducing heatwave vulnerability; increasing protection initiatives; reducing air pollutants by 2030; increasing urban green spaces by 150 ha by 2030; expanding ecological urban agriculture by 2030; and increasing climate-resilient infrastructure.,,,"Adaptation measures aim to strengthen the resilience of natural and human systems to climate risks and impacts. The objectives set are as follows:
+- Strengthen networks for observing, measuring and collecting climate, coastal and urban pollution data.
+- Reduce the number of people vulnerable to  the  effects  of  climate  change  through awareness-raising and communication.
+-  Reduce the vulnerability of populations to heatwaves.
+- Increase initiatives to protect populations against risks and disasters linked to extreme events and climate change.
+- Reduce air pollutants by 2030 to improve air quality and lower the rate of respiratory disease.
+- Increase urban green spaces by 150 ha in Dakar by 2030
+- Increase areas of ecological urban agriculture  and  access  to  better  quality agricultural  products  by  2030  to  strengthen citizens' food security
+- Increase the proportion of infrastructure adapted and resilient to climate risks.","List of explicit objectives, including quantified targets and deadlines (2030)."

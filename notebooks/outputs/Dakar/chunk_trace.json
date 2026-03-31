@@ -19,7 +19,7 @@
       "has_overlap": false,
       "ancestor_headings": [],
       "policies_extracted": 30,
-      "elapsed_seconds": 71.74,
+      "elapsed_seconds": 0.03,
       "carry_forward_length": 0,
       "error": null
     }

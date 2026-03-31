@@ -408,7 +408,7 @@
         "Food and Product Consumption (FPC)"
       ],
       "policies_extracted": 97,
-      "elapsed_seconds": 222.24,
+      "elapsed_seconds": 0.03,
       "carry_forward_length": 0,
       "error": null
     },
@@ -523,7 +523,7 @@
         "How we'll get there:"
       ],
       "policies_extracted": 1,
-      "elapsed_seconds": 14.55,
+      "elapsed_seconds": 0.04,
       "carry_forward_length": 10319,
       "error": null
     }
