@@ -31,6 +31,8 @@ _FINAL_COMBINED_COLS = [
     "parent_row_type",
     "policy_statement",
     "primary_category",
+    "secondary_categories",
+    "typology_code",
     "trace_path",
 ]
 
@@ -42,20 +44,23 @@ _TRACE_POLICY_COLS = [
     "mechanism_description",
     "primary_category",
     "secondary_categories",
-    "secondary_justification",
+    "typology_code",
+    "typology_confidence",
+    "typology_evidence_quote",
     "primary_causal_pathway",
     "causal_mechanism_detail",
     "dominant_pathway_test",
     "mechanism_classification_reasoning",
     "mechanism_confidence",
     "mechanism_edge_case_notes",
-    "additional_secondary_evidence",
     "instrument_type",
     "instrument_directness",
     "climate_relevance",
     "key_indicators",
     "co_benefits",
     "instance_edge_case_notes",
+    "classification_schema_version",
+    "secondary_profile",
 ]
 
 _TRACE_LOOKUP_COLS = [
@@ -64,6 +69,7 @@ _TRACE_LOOKUP_COLS = [
     "parent_statement",
     "policy_statement",
     "primary_category",
+    "typology_code",
     "trace_path",
     "validation_trace_csv",
     "validation_lookup_column",
@@ -108,7 +114,7 @@ def _build_trace_records(df_classified: pd.DataFrame) -> pd.DataFrame:
     written `policy_traces/` directory.
     """
     if df_classified.empty:
-        return pd.DataFrame(columns=["policy_id", "policy_statement", "role", "primary_category", "trace_path"])
+        return pd.DataFrame(columns=["policy_id", "policy_statement", "role", "primary_category", "secondary_categories", "typology_code", "trace_path"])
 
     df_traces = df_classified.copy().reset_index(drop=True)
     df_traces["policy_id"] = df_traces.index.map(lambda idx: f"{idx:03d}")
@@ -121,7 +127,7 @@ def _build_trace_records(df_classified: pd.DataFrame) -> pd.DataFrame:
         axis=1,
     )
 
-    keep_cols = [c for c in ["policy_id", "policy_statement", "role", "primary_category", "trace_path"] if c in df_traces.columns]
+    keep_cols = [c for c in ["policy_id", "policy_statement", "role", "primary_category", "secondary_categories", "typology_code", "trace_path"] if c in df_traces.columns]
     return df_traces[keep_cols].drop_duplicates(subset=["policy_statement", "role"]).reset_index(drop=True)
 
 
@@ -146,6 +152,8 @@ def export_final_combined_with_traces(
     trace_manifest = _build_trace_records(df_classified)
     traces_dir = output_dir / "policy_traces"
     traces_dir.mkdir(parents=True, exist_ok=True)
+    for old_trace in traces_dir.glob("*.json"):
+        old_trace.unlink()
 
     trace_cols = [c for c in _TRACE_POLICY_COLS if c in df_classified.columns]
     for idx, row in df_classified.reset_index(drop=True).iterrows():
@@ -169,6 +177,10 @@ def export_final_combined_with_traces(
             final_df["policy_id"] = final_df["policy_id_trace"]
         if "primary_category" not in final_df.columns and "primary_category_trace" in final_df.columns:
             final_df["primary_category"] = final_df["primary_category_trace"]
+        if "secondary_categories" not in final_df.columns and "secondary_categories_trace" in final_df.columns:
+            final_df["secondary_categories"] = final_df["secondary_categories_trace"]
+        if "typology_code" not in final_df.columns and "typology_code_trace" in final_df.columns:
+            final_df["typology_code"] = final_df["typology_code_trace"]
         if "trace_path" not in final_df.columns and "trace_path_trace" in final_df.columns:
             final_df["trace_path"] = final_df["trace_path_trace"]
         final_df = final_df.reindex(columns=_FINAL_COMBINED_COLS)

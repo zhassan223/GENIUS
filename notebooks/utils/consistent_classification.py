@@ -21,7 +21,9 @@ import json
 import re
 from collections import defaultdict
 from difflib import SequenceMatcher
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Literal
+
+from pydantic import BaseModel, Field
 
 
 # =============================================================================
@@ -269,6 +271,164 @@ Sanitation / wastewater treatment upgrades:
 """
 
 
+CLASSIFICATION_SCHEMA_VERSION = "guide_secondary_typology_v1"
+SECONDARY_PROFILE = "policy_text_evidence_gated"
+
+SECONDARY_CODE_TO_CATEGORY = {
+    "M-1": "Resource Efficiency",
+    "M-2": "Adaptation",
+    "M-3": "Nature-Based Solutions",
+    "RE-1": "Mitigation",
+    "RE-2": "Adaptation",
+    "RE-3": "Nature-Based Solutions",
+    "NBS-1": "Adaptation",
+    "NBS-2": "Mitigation",
+    "NBS-3": "Resource Efficiency",
+    "A-1": "Nature-Based Solutions",
+    "A-2": "Resource Efficiency",
+    "A-3": "Mitigation",
+}
+
+PRIMARY_TO_ALLOWED_TYPOLOGY_CODES = {
+    "Mitigation": ("M-1", "M-2", "M-3"),
+    "Resource Efficiency": ("RE-1", "RE-2", "RE-3"),
+    "Nature-Based Solutions": ("NBS-1", "NBS-2", "NBS-3"),
+    "Adaptation": ("A-1", "A-2", "A-3"),
+}
+
+RARE_TYPOLOGY_CODES = {"M-3", "RE-3", "NBS-3", "A-3"}
+
+SecondaryTypologyCode = Literal[
+    "M-1", "M-2", "M-3",
+    "RE-1", "RE-2", "RE-3",
+    "NBS-1", "NBS-2", "NBS-3",
+    "A-1", "A-2", "A-3",
+    "None",
+]
+
+
+class SecondaryTypologyResult(BaseModel):
+    """Structured, schema-constrained secondary typology output."""
+
+    typology_code: SecondaryTypologyCode = Field(
+        description=(
+            "Return exactly one allowed subtype code for the fixed primary "
+            "category, or 'None' if the text does not explicitly justify a "
+            "secondary type."
+        )
+    )
+    typology_confidence: float = Field(
+        description="Confidence in the subtype assignment from 0.0 to 1.0."
+    )
+    typology_evidence_quote: str = Field(
+        description=(
+            "A short exact quote from the policy statement or verbatim text "
+            "that justifies the subtype. Return 'None' when typology_code is "
+            "'None'."
+        )
+    )
+
+SECONDARY_TYPOLOGY_GUIDE = """
+SECONDARY CATEGORY TYPOLOGY:
+
+You are assigning a secondary-category subtype code for ONE policy instance.
+The primary category is already fixed and must NOT be changed.
+
+Allowed subtype families:
+- Mitigation primary: M-1, M-2, M-3
+- Resource Efficiency primary: RE-1, RE-2, RE-3
+- Nature-Based Solutions primary: NBS-1, NBS-2, NBS-3
+- Adaptation primary: A-1, A-2, A-3
+
+EVIDENCE STANDARD:
+- Assign a subtype only when the policy statement or verbatim source text
+  explicitly supports it.
+- Use location context and mechanism context only to interpret the text, not
+  as stand-alone evidence.
+- If the evidence is only plausible, implied, or inferable, return 'None'.
+- For rare types (M-3, RE-3, NBS-3, A-3), be conservative. If there is any
+  doubt, return 'None'.
+
+Subtype rules:
+
+Mitigation primary:
+- M-1 Efficiency-enabled Mitigation → secondary Resource Efficiency.
+  Requires both an emissions-reduction commitment and a named efficiency action
+  in the same policy instance.
+- M-2 Resilience-integrated Mitigation → secondary Adaptation.
+  Requires both an emissions-reduction commitment and a named climate
+  resilience, emergency preparedness, or hazard-response measure in the same
+  policy instance.
+- M-3 Sequestration-based Mitigation → secondary Nature-Based Solutions.
+  Requires an explicit sequestration, carbon storage, or offset goal delivered
+  through a named ecological mechanism such as canopy, afforestation, wetlands,
+  or urban forests.
+
+Resource Efficiency primary:
+- RE-1 Emissions-quantified Efficiency → secondary Mitigation.
+  Requires an explicit GHG, carbon, net-zero, or emissions target in the same
+  policy instance. Implied emissions co-benefits are NOT enough.
+- RE-2 Climate-resilient Efficiency → secondary Adaptation.
+  Requires a named climate hazard or scarcity condition motivating the
+  efficiency action, such as drought, heat-driven peak demand, or water stress.
+- RE-3 Ecosystem-supported Efficiency → secondary Nature-Based Solutions.
+  Requires a named ecological intervention as the mechanism achieving the
+  resource saving, such as trees reducing cooling load or bioswales reducing
+  treated water demand.
+
+Nature-Based Solutions primary:
+- NBS-1 Hazard-responsive NBS → secondary Adaptation.
+  Requires a named hazard such as heat, flooding, drought, storm surge,
+  desertification, or dust reduction, with ecology as the means of response.
+- NBS-2 Sequestration-delivering NBS → secondary Mitigation.
+  Requires explicit carbon sequestration, carbon storage, emissions offset, or
+  link to an emissions-reduction goal in the policy text.
+- NBS-3 Resource-saving NBS → secondary Resource Efficiency.
+  Requires an explicit energy, water, or treatment-capacity saving goal
+  delivered through the ecological intervention.
+
+Adaptation primary:
+- A-1 Ecosystem-mediated Adaptation → secondary Nature-Based Solutions.
+  Requires a named ecological mechanism such as wetland restoration,
+  afforestation, bioswales, tree planting, or green belts used to reduce a
+  hazard or vulnerability.
+- A-2 Efficiency-supported Adaptation → secondary Resource Efficiency.
+  Requires an explicit efficiency action or efficiency target embedded in the
+  adaptation plan.
+- A-3 Emissions-coupled Adaptation → secondary Mitigation.
+  Requires an explicit decarbonization, emissions-reduction, low-carbon, or
+  GHG-mitigation component in the same policy instance. Do NOT confuse
+  disaster-risk mitigation with GHG mitigation.
+
+Common errors to avoid:
+- Do NOT add Mitigation to Resource Efficiency just because efficiency usually
+  reduces emissions. RE-1 requires an explicit emissions target.
+- Do NOT add Adaptation to every NBS policy. NBS-1 requires a named hazard in
+  the policy text or source quote.
+- Do NOT add NBS to Mitigation unless biological sequestration is explicitly
+  named as the emissions mechanism.
+- Do NOT assign a rare subtype because it seems plausible from background
+  knowledge. The text must say it.
+"""
+
+
+def secondary_category_for_typology(code: Optional[str]) -> str:
+    """Map a subtype code to the exported secondary category."""
+    if not code:
+        return "None"
+    normalized = str(code).strip().upper()
+    return SECONDARY_CODE_TO_CATEGORY.get(normalized, "None")
+
+
+def normalize_typology_code(primary_category: Optional[str], code: Optional[str]) -> str:
+    """Return a valid subtype code for the given primary, or 'None'."""
+    if not code:
+        return "None"
+    normalized = str(code).strip().upper()
+    allowed = PRIMARY_TO_ALLOWED_TYPOLOGY_CODES.get(primary_category or "", ())
+    return normalized if normalized in allowed else "None"
+
+
 # =============================================================================
 # STAGE 1: MECHANISM EXTRACTION
 # =============================================================================
@@ -504,24 +664,14 @@ class MechanismClassificationSignature(dspy.Signature):
         d) If the mechanism fundamentally depends on living ecosystems
            → primary is Nature-Based Solutions.
 
-    Rule 2 — Secondary categories require INHERENT causal justification
+    Rule 2 — Secondary categories are NOT decided here
 
-        For each secondary category, the mechanism must have a plausible causal
-        chain to that outcome that is INHERENT to the mechanism itself — meaning
-        it applies to EVERY instance regardless of location or implementation.
+        This stage exists to lock the primary category consistently across all
+        policies sharing the same mechanism. The expert secondary typology is
+        assigned later at the policy-text level using explicit textual evidence.
 
-        A secondary is inherent when:
-        - The mechanism unavoidably produces the secondary effect as a physical
-          consequence (e.g., any landfill diversion unavoidably avoids methane)
-        - The mechanism's function inherently provides multiple services
-          (e.g., tree canopy inherently sequesters carbon AND reduces heat)
-
-        A secondary is NOT inherent when:
-        - It only applies in certain geographic contexts (handled in Stage 3)
-        - It depends on implementation choices
-        - It's a plausible but speculative co-benefit
-
-        For each secondary assigned, explain the inherent causal chain.
+        Do NOT try to infer or bake in secondary categories at the mechanism
+        level. Focus on the dominant causal pathway and the correct primary.
 
     Rule 3 — Climate system vs climate impacts
         - Acts on emissions/carbon cycle → Mitigation
@@ -568,22 +718,6 @@ class MechanismClassificationSignature(dspy.Signature):
         )
     )
 
-    secondary_categories: str = dspy.OutputField(
-        desc=(
-            "Secondary categories INHERENT to this mechanism (apply to every "
-            "instance regardless of location), comma-separated, or 'None'. "
-            "Only assign if the mechanism unavoidably produces the secondary "
-            "effect as a physical consequence."
-        )
-    )
-
-    secondary_justification: str = dspy.OutputField(
-        desc=(
-            "For EACH secondary category, the inherent causal chain. Format: "
-            "'<Category>: <explanation>'. Set to 'None' if no secondaries."
-        )
-    )
-
     primary_causal_pathway: str = dspy.OutputField(
         desc=(
             "The mechanism's primary causal pathway using arrow notation. "
@@ -614,9 +748,10 @@ class MechanismClassificationSignature(dspy.Signature):
     classification_reasoning: str = dspy.OutputField(
         desc=(
             "Step-by-step reasoning: (1) Dominant causal pathway, "
-            "(2) Why this primary over alternatives, (3) Inherent causal "
-            "chain for each secondary, (4) Edge cases applied, "
-            "(5) Confirm labels apply to ALL instances."
+            "(2) Why this primary over alternatives, (3) Edge cases applied, "
+            "(4) Confirm the primary applies to ALL instances sharing this "
+            "mechanism, and (5) explicitly note that secondary subtype "
+            "assignment is deferred to policy-level evidence."
         )
     )
 
@@ -633,20 +768,58 @@ class MechanismClassificationSignature(dspy.Signature):
 # STAGE 3: POLICY-LEVEL ENRICHMENT
 # =============================================================================
 
+class SecondaryTypologySignature(dspy.Signature):
+    f"""Assign the expert secondary-category subtype code for ONE policy.
+
+    The primary category is already fixed. Your job is to decide whether this
+    specific policy instance qualifies for one expert secondary subtype code
+    based on EXPLICIT textual evidence in the policy statement or verbatim text.
+
+    {SECONDARY_TYPOLOGY_GUIDE}
+    """
+
+    primary_category: str = dspy.InputField(
+        desc="Already-assigned primary category. Must not be changed."
+    )
+    policy_statement: str = dspy.InputField(
+        desc="The specific policy statement."
+    )
+    verbatim_text: str = dspy.InputField(
+        desc="Original source text used as the main evidence source."
+    )
+    canonical_mechanism: str = dspy.InputField(
+        desc="Canonical mechanism for context only, not stand-alone evidence."
+    )
+    mechanism_description: str = dspy.InputField(
+        desc="Plain-English causal mechanism description for context only."
+    )
+    location_vulnerability_context: str = dspy.InputField(
+        desc=(
+            "Location vulnerability context for disambiguation only. "
+            "Do NOT use this as stand-alone evidence for assigning a subtype."
+        ),
+        default="No vulnerability context provided"
+    )
+
+    secondary_typology: SecondaryTypologyResult = dspy.OutputField(
+        desc=(
+            "Structured secondary typology result. typology_code must be "
+            "returned verbatim as one of the allowed subtype literals or 'None'."
+        )
+    )
+
+
 class PolicyEnrichmentSignature(dspy.Signature):
     f"""Enrich an individual policy with instance-specific metadata.
 
-    The primary and secondary categories have ALREADY been determined at the
-    mechanism level (Stage 2). Do NOT override them. Your job is to add:
+    The primary category has ALREADY been determined at the mechanism level.
+    The expert secondary subtype is determined separately from policy text.
+    Do NOT override either one. Your job here is to add:
 
-    1. Location-specific secondary categories (using vulnerability context)
-    2. Instrument type and directness for THIS specific policy
-    3. Climate relevance for THIS specific policy
-    4. Key textual indicators from the source text
-    5. Co-benefits specific to this instance
-
-    You may ADD a secondary category based on location vulnerability context,
-    but you may NOT remove or change the mechanism-level classifications.
+    1. Instrument type and directness for THIS specific policy
+    2. Climate relevance for THIS specific policy
+    3. Key textual indicators from the source text
+    4. Co-benefits specific to this instance
 
     {CATEGORY_DEFINITIONS}
 
@@ -654,27 +827,11 @@ class PolicyEnrichmentSignature(dspy.Signature):
     RULES FOR THIS STAGE:
     ==================================================================================
 
-    Rule A — Location vulnerability context can ADD secondary types
+    Rule A — Location vulnerability context informs interpretation only
 
-        When location_vulnerability_context is provided, assess whether the
-        policy mechanism intersects with a known local climate hazard in a way
-        that justifies an additional Adaptation tag.
-
-        The test: "Does this mechanism DIRECTLY reduce exposure or sensitivity
-        to a climate hazard that this location faces?"
-
-        Justified when:
-        - Water reduction + location faces drought or water supply threats
-        - Urban greening + location faces extreme heat
-        - Building retrofit + location faces extreme temperature events
-        - Coastal infrastructure + location faces sea-level rise
-
-        NOT justified when:
-        - The mechanism has no physical connection to the local hazard
-        - The link is speculative or requires multiple intermediate steps
-
-        When adding a secondary via vulnerability context, explain the
-        causal connection in additional_secondary_evidence.
+        You may use location vulnerability context to assess climate relevance
+        and to recognize co-benefits, but it does NOT create an expert
+        secondary subtype by itself.
 
     Rule B — Instrument type classification
 
@@ -740,9 +897,6 @@ class PolicyEnrichmentSignature(dspy.Signature):
     assigned_primary: str = dspy.InputField(
         desc="Primary category from mechanism level — do NOT change"
     )
-    assigned_secondaries: str = dspy.InputField(
-        desc="Secondary categories from mechanism level — do NOT remove"
-    )
     assigned_causal_pathway: str = dspy.InputField(
         desc="Causal pathway from Stage 2 — for reference"
     )
@@ -763,23 +917,6 @@ class PolicyEnrichmentSignature(dspy.Signature):
     )
 
     # ---- Outputs ----
-    additional_secondary: str = dspy.OutputField(
-        desc=(
-            "Additional secondary category justified by location vulnerability "
-            "context, or 'None'. Only assign if the mechanism DIRECTLY reduces "
-            "exposure/sensitivity to a local hazard."
-        )
-    )
-
-    additional_secondary_evidence: str = dspy.OutputField(
-        desc=(
-            "Justification for additional secondary. Format: "
-            "'<Category>: <location> faces <hazard>, and <mechanism> directly "
-            "reduces exposure/sensitivity because <explanation>.' "
-            "Set to 'None' if additional_secondary is 'None'."
-        )
-    )
-
     instrument_type: str = dspy.OutputField(
         desc=(
             "Policy instrument type per Rule B. One of: "
@@ -823,21 +960,24 @@ class ConsistentPolicyClassifier(dspy.Module):
     Three-stage pipeline:
 
     Stage 1: Extract canonical mechanisms from all policies
-    Stage 2: Classify each unique mechanism ONCE (with full category
-             definitions, causal pathways, edge cases, and rules)
+    Stage 2: Classify each unique mechanism ONCE for PRIMARY category
+             consistency across all matching policies
     Stage 3: Enrich each policy with instance-specific metadata
+             and assign the expert secondary subtype from policy text
              (instrument type, directness, climate relevance,
-             location-based secondary types, co-benefits)
+             co-benefits, guide-native secondary typing)
 
-    Consistency guarantee: Every policy sharing the same mechanism gets
-    identical primary/secondary labels. Location-specific additions in
-    Stage 3 cannot break mechanism-level consistency.
+    Consistency guarantee: Every policy sharing the same mechanism gets the
+    same PRIMARY category. Secondary categories are assigned per policy using
+    explicit textual evidence so they do not get over-propagated from the
+    mechanism registry.
     """
 
     def __init__(self):
         super().__init__()
         self.extract_mechanism = dspy.ChainOfThought(MechanismExtractionSignature)
         self.classify_mechanism = dspy.ChainOfThought(MechanismClassificationSignature)
+        self.classify_secondary_typology = dspy.ChainOfThought(SecondaryTypologySignature)
         self.enrich_policy = dspy.ChainOfThought(PolicyEnrichmentSignature)
 
         # The registry: mechanism_key → classification dict
@@ -954,8 +1094,7 @@ class ConsistentPolicyClassifier(dspy.Module):
 
             registry[mechanism_key] = {
                 "primary_category":          classification.primary_category,
-                "secondary_categories":      classification.secondary_categories,
-                "secondary_justification":   classification.secondary_justification,
+                "secondary_categories":      "None",
                 "primary_causal_pathway":    classification.primary_causal_pathway,
                 "causal_mechanism_detail":   classification.causal_mechanism_detail,
                 "typical_policy_instruments": classification.typical_policy_instruments,
@@ -969,6 +1108,62 @@ class ConsistentPolicyClassifier(dspy.Module):
 
         self.mechanism_registry = registry
         return registry
+
+    def classify_policy_secondary(
+        self,
+        *,
+        primary_category: str,
+        policy_statement: str,
+        verbatim_text: str,
+        canonical_mechanism: str,
+        mechanism_description: str,
+        location_vulnerability_context: str = "No vulnerability context provided",
+    ) -> dict:
+        """Assign and normalize the expert secondary subtype for one policy."""
+        prediction = self.classify_secondary_typology(
+            primary_category=primary_category,
+            policy_statement=policy_statement,
+            verbatim_text=verbatim_text,
+            canonical_mechanism=canonical_mechanism,
+            mechanism_description=mechanism_description,
+            location_vulnerability_context=location_vulnerability_context,
+        )
+
+        structured = getattr(prediction, "secondary_typology", None)
+        raw_code = getattr(structured, "typology_code", getattr(prediction, "typology_code", "None"))
+        code = normalize_typology_code(primary_category, raw_code)
+        try:
+            confidence = float(
+                getattr(structured, "typology_confidence", getattr(prediction, "typology_confidence", 0.0))
+            )
+        except (TypeError, ValueError):
+            confidence = 0.0
+        evidence_quote = (
+            getattr(structured, "typology_evidence_quote", getattr(prediction, "typology_evidence_quote", "None"))
+            or "None"
+        )
+
+        if str(evidence_quote).strip().lower() in ("", "none", "null"):
+            code = "None"
+            evidence_quote = "None"
+
+        if code in RARE_TYPOLOGY_CODES and confidence < 0.85:
+            code = "None"
+            evidence_quote = "None"
+            confidence = min(confidence, 0.84)
+
+        if code == "None":
+            evidence_quote = "None"
+            confidence = 0.0
+
+        return {
+            "typology_code": code,
+            "typology_confidence": confidence,
+            "typology_evidence_quote": evidence_quote,
+            "secondary_categories": secondary_category_for_typology(code),
+            "classification_schema_version": CLASSIFICATION_SCHEMA_VERSION,
+            "secondary_profile": SECONDARY_PROFILE,
+        }
 
 
 # =============================================================================
