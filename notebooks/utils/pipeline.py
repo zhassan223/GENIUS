@@ -14,6 +14,7 @@ Fixes applied:
 from __future__ import annotations
 
 import json
+import random
 import time
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -70,6 +71,14 @@ class PipelineResult:
     total_chunks: int = 0
     doc_id: Optional[str] = None
 
+    @property
+    def failed_chunks(self) -> List[ChunkResult]:
+        return [cr for cr in self.chunk_results if cr.error]
+
+    @property
+    def successful_chunks(self) -> List[ChunkResult]:
+        return [cr for cr in self.chunk_results if not cr.error]
+
 
 # =============================================================================
 # ExtractionPipeline
@@ -94,11 +103,31 @@ class ExtractionPipeline:
         chunker: DocumentChunker,
         resolver: PolicyResolver,
         max_chunk_retries: int = 1,
+        initial_retry_delay_seconds: float = 1.0,
+        max_retry_delay_seconds: float = 30.0,
     ):
         self.extractor = extractor
         self.chunker = chunker
         self.resolver = resolver
         self.max_chunk_retries = max_chunk_retries
+        self.initial_retry_delay_seconds = initial_retry_delay_seconds
+        self.max_retry_delay_seconds = max_retry_delay_seconds
+
+    @staticmethod
+    def _is_quota_error(error: Exception) -> bool:
+        """Detect non-retryable quota exhaustion errors."""
+        message = str(error).lower()
+        return (
+            "insufficient_quota" in message
+            or "exceeded your current quota" in message
+            or "check your plan and billing details" in message
+        )
+
+    def _retry_delay_seconds(self, attempt: int) -> float:
+        """Exponential backoff with a small jitter."""
+        base_delay = self.initial_retry_delay_seconds * (2 ** max(attempt - 1, 0))
+        jitter = random.uniform(0, 0.5)
+        return min(base_delay + jitter, self.max_retry_delay_seconds)
 
     # ------------------------------------------------------------------ #
     # Fix #1: Hierarchical carry-forward summary
@@ -207,7 +236,8 @@ class ExtractionPipeline:
             last_error = None
             t0 = time.time()
 
-            for attempt in range(1 + self.max_chunk_retries):
+            total_attempts = 1 + self.max_chunk_retries
+            for attempt in range(total_attempts):
                 try:
                     new_policies = self.extractor(
                         document_text=chunk.text,
@@ -217,10 +247,13 @@ class ExtractionPipeline:
                     break  # success
                 except Exception as e:
                     last_error = e
+                    if self._is_quota_error(e):
+                        print(f"    [{doc_id}] chunk {chunk.index} hit non-retryable quota error: {e}")
+                        break
                     if attempt < self.max_chunk_retries:
-                        wait = 2 ** attempt  # 1s, 2s, ...
+                        wait = self._retry_delay_seconds(attempt + 1)
                         print(f"    [{doc_id}] chunk {chunk.index} attempt "
-                              f"{attempt + 1} failed: {e}, retrying in {wait}s")
+                              f"{attempt + 1} failed: {e}, retrying in {wait:.1f}s")
                         time.sleep(wait)
 
             elapsed = time.time() - t0
@@ -259,7 +292,7 @@ class ExtractionPipeline:
                     carry_forward_length=len(summary),
                 ))
                 print(f"    [{doc_id}] chunk {chunk.index} failed after "
-                      f"{1 + self.max_chunk_retries} attempts: {last_error}")
+                      f"{total_attempts} attempts: {last_error}")
                 continue  # partial result preserved
 
         # -- Fix #5: Always resolve (even single-chunk documents) --

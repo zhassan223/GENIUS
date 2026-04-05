@@ -144,19 +144,32 @@ def export_final_combined_with_traces(
       - combined_policies.csv      <- minimal final table
       - policy_trace_lookup.csv    <- how to locate each row's validator trace
       - policy_traces/*.json       <- one classification trace per policy row
+      - excluded_policies_trace.csv <- rows removed by deterministic climate screen
     """
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
     written: dict = {}
-    trace_manifest = _build_trace_records(df_classified)
+    if "climate_screen" in df_classified.columns:
+        keep_mask = df_classified["climate_screen"].fillna("exclude") != "exclude"
+        df_kept = df_classified.loc[keep_mask].copy()
+        df_excluded = df_classified.loc[~keep_mask].copy()
+    else:
+        df_kept = df_classified.copy()
+        df_excluded = pd.DataFrame(columns=df_classified.columns)
+
+    excluded_trace_path = output_dir / "excluded_policies_trace.csv"
+    df_excluded.to_csv(excluded_trace_path, index=False)
+    written["excluded_policies_trace"] = str(excluded_trace_path)
+
+    trace_manifest = _build_trace_records(df_kept)
     traces_dir = output_dir / "policy_traces"
     traces_dir.mkdir(parents=True, exist_ok=True)
     for old_trace in traces_dir.glob("*.json"):
         old_trace.unlink()
 
-    trace_cols = [c for c in _TRACE_POLICY_COLS if c in df_classified.columns]
-    for idx, row in df_classified.reset_index(drop=True).iterrows():
+    trace_cols = [c for c in _TRACE_POLICY_COLS if c in df_kept.columns]
+    for idx, row in df_kept.reset_index(drop=True).iterrows():
         trace = {c: (None if pd.isna(row[c]) else row[c]) for c in trace_cols}
         stmt_slug = _safe_filename(row.get("policy_statement", f"policy_{idx}"))
         fname = f"{idx:03d}_{stmt_slug}.json"
@@ -165,14 +178,14 @@ def export_final_combined_with_traces(
 
     written["policy_traces_dir"] = str(traces_dir)
 
-    if combined.empty:
+    if combined.empty or trace_manifest.empty:
         final_df = pd.DataFrame(columns=_FINAL_COMBINED_COLS)
     else:
         merge_cols = [c for c in ["policy_statement", "role"] if c in combined.columns and c in trace_manifest.columns]
         if not merge_cols:
             raise ValueError("combined and classified outputs must share policy_statement and role columns.")
 
-        final_df = combined.merge(trace_manifest, on=merge_cols, how="left", suffixes=("", "_trace"))
+        final_df = combined.merge(trace_manifest, on=merge_cols, how="inner", suffixes=("", "_trace"))
         if "policy_id_trace" in final_df.columns:
             final_df["policy_id"] = final_df["policy_id_trace"]
         if "primary_category" not in final_df.columns and "primary_category_trace" in final_df.columns:

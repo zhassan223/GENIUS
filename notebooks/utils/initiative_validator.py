@@ -16,6 +16,10 @@ if _notebooks_dir not in sys.path:
     sys.path.insert(0, _notebooks_dir)
 
 _mod = importlib.import_module("initiative_validator")
+# Important: callers often reload *this* wrapper module inside notebooks.
+# Without reloading the underlying implementation module too, a running
+# kernel can keep using a stale InitiativeMetrics schema.
+_mod = importlib.reload(_mod)
 
 # Re-export all public names
 from initiative_validator import *  # noqa: F403

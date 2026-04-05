@@ -204,6 +204,13 @@ class InitiativeMetrics(BaseModel):
             "True or False."
         )
     )
+    parent_row_type_reasoning: str = Field(
+        default="",
+        description=(
+            "1–3 sentences explaining why parent_row_type was chosen, citing what in the "
+            "parent verbatim text indicates structural scaffolding vs a standalone policy."
+        ),
+    )
 
     # ── C. Per-sub-action assessments ────────────────────────────────────
 
@@ -439,6 +446,22 @@ class InitiativeValidator(dspy.Module):
         return result
 
 
+def compute_initiative_final_verdict(
+    initiative_result: str,
+    confidence_score: float,
+) -> bool:
+    """
+    Apply the notebook's lenient keep/drop rule for initiative clusters.
+
+    Keep initiatives that are at least partially sound and have moderate
+    confidence. This mirrors the threshold described in the signature docs.
+    """
+    return (
+        initiative_result in ("SOUND", "PARTIAL")
+        and confidence_score >= 0.55
+    )
+
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # 5.  PIPELINE INTEGRATION  —  run_initiative_validation()
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -505,6 +528,7 @@ def run_initiative_validation(
                 "inherited_binding_mechanism": metrics.inherited_binding_mechanism,
                 "inherited_spatial_scope":     metrics.inherited_spatial_scope,
                 "parent_row_type":            metrics.parent_row_type,
+                "parent_row_type_reasoning":  metrics.parent_row_type_reasoning,
 
                 # Signals
                 "weak_signals":   metrics.weak_signals,

@@ -328,6 +328,104 @@ class SecondaryTypologyResult(BaseModel):
         )
     )
 
+
+ClimateScreenCode = Literal["explicit_self", "explicit_parent", "exclude"]
+FinancialInstrumentFlag = Literal["yes", "no"]
+
+
+class ClimateScreenResult(BaseModel):
+    """Structured, schema-constrained climate screen output."""
+
+    climate_screen: ClimateScreenCode = Field(
+        description=(
+            "Return 'explicit_self' when the row text itself explicitly states a "
+            "climate objective or mechanism; 'explicit_parent' only when a sub-row "
+            "clearly inherits explicit climate relevance from a climate-explicit "
+            "parent; otherwise return 'exclude'."
+        )
+    )
+    is_financial_instrument: FinancialInstrumentFlag = Field(
+        description=(
+            "Return 'yes' when the policy is a broad financial instrument such as "
+            "a fee, carbon pricing tool, rebate, grant, subsidy, tax credit, "
+            "loan, trust fund, budget appropriation, or public investment line."
+        )
+    )
+
+
+CLIMATE_SCREEN_GUIDE = """
+CLIMATE SCREENING GUIDE:
+
+You are deciding whether ONE policy row should remain in a climate-policy dataset.
+Your answer must follow the user's earlier guidance, not generic climate-policy
+intuition.
+
+Allowed outputs:
+- explicit_self
+- explicit_parent
+- exclude
+
+Decision rules:
+1. explicit_self:
+   Use when the row text itself explicitly states a climate objective,
+   climate hazard, OR a recognized climate mechanism/intervention. Explicit
+   examples include GHG reduction, emissions, carbon, net-zero,
+   decarbonization, adaptation, resilience, heat-risk reduction,
+   flood-risk reduction, smoke-risk reduction, drought response, coastal
+   protection, or clearly named climate actions such as building retrofit,
+   energy efficiency, renewable energy, electrification, EV charging, waste
+   diversion, composting, transit expansion, modal shift, tree planting,
+   green infrastructure, water conservation, regenerative agriculture, or
+   ecosystem restoration. A row does NOT need to literally say "GHG" or
+   "emissions" if it already names a well-established climate intervention.
+
+2. explicit_parent:
+   Use ONLY for sub-rows where:
+   - the parent statement or parent action context is climate-relevant, AND
+   - the child row is clearly a budget, funding, fee, financing, grant,
+     support, or implementation line for that parent action.
+   Do NOT use explicit_parent for generic child rows that are not obviously
+   funding/support instruments.
+   For budget-only sub-items under already-classified adaptation, mitigation,
+   resource-efficiency, or nature-based parent actions, explicit_parent is the
+   correct label even if the child row itself does not repeat climate wording.
+
+3. exclude:
+   Use when climate relevance is only indirect, inferred, speculative, or
+   socially/economically generic AND the row does not name a concrete climate
+   mechanism. Generic social, housing, anti-poverty, homelessness,
+   economic-development, and capacity-building rows should be excluded unless
+   they explicitly mention climate hazard/outcome language or a concrete
+   climate intervention in the row itself.
+
+4. Social policy exception:
+   A social policy may still be climate-relevant if the row explicitly says it
+   reduces heat exposure, flood risk, smoke exposure, resilience risk, or
+   similar climate harms.
+
+5. Financial instruments:
+   Broad financial instruments include fees, carbon pricing, rebates, grants,
+   subsidies, tax credits, loans, trust funds, budget appropriations, and
+   public investment lines. But being a financial instrument alone does NOT
+   justify inclusion.
+
+Examples from prior guidance:
+- Housing Trust Fund funding/capacity row with no explicit climate text
+  -> exclude, yes
+- Homelessness prevention / poverty reduction / Courtyard and MORE team rows
+  with no explicit climate text -> exclude
+- Retrofit 20% of total 5+ unit residential buildings by 2030
+  -> explicit_self, no
+- Divert 90% of commercial, industrial, and institutional waste by 2030
+  -> explicit_self, no
+- Budget-only public investment sub-item under explicit adaptation/NbS parent
+  -> explicit_parent, yes
+- Additional EUR 129 million / €1.4 million public-investment sub-items for a
+  Line of Action in a climate plan -> explicit_parent, yes
+- Direct financial assistance for carbon-related soil programs or regenerative
+  agriculture -> explicit_self, yes
+"""
+
 SECONDARY_TYPOLOGY_GUIDE = """
 SECONDARY CATEGORY TYPOLOGY:
 
@@ -427,6 +525,236 @@ def normalize_typology_code(primary_category: Optional[str], code: Optional[str]
     normalized = str(code).strip().upper()
     allowed = PRIMARY_TO_ALLOWED_TYPOLOGY_CODES.get(primary_category or "", ())
     return normalized if normalized in allowed else "None"
+
+
+# =============================================================================
+# CLIMATE SCREEN CUE HELPERS
+# =============================================================================
+
+FINANCIAL_INSTRUMENT_KEYWORDS = (
+    "fee",
+    "fees",
+    "pricing",
+    "carbon pricing",
+    "tax",
+    "taxes",
+    "levy",
+    "levies",
+    "rebate",
+    "rebates",
+    "grant",
+    "grants",
+    "subsidy",
+    "subsidies",
+    "tax credit",
+    "tax credits",
+    "loan",
+    "loans",
+    "financing",
+    "financial",
+    "fund",
+    "funding",
+    "trust fund",
+    "budget",
+    "budgetary",
+    "appropriation",
+    "appropriations",
+    "public investment",
+    "investment",
+    "investments",
+    "bond",
+    "bonds",
+    "cost share",
+)
+
+FINANCIAL_INSTRUMENT_TYPES = {
+    "pricing-mechanism",
+    "incentive-program",
+}
+
+SUPPORT_LINE_KEYWORDS = (
+    "capacity building",
+    "technical assistance",
+    "program support",
+    "implementation support",
+    "administrative support",
+    "public investment",
+    "funding",
+    "budget",
+    "allocate",
+    "allocation",
+)
+
+GENERIC_NON_CLIMATE_MECHANISMS = (
+    "no_direct_climate_mechanism",
+    "unspecified_climate_effect",
+    "non_climate_economic_development",
+    "poverty_reduction_goal",
+    "housing_first",
+    "affordable_housing_funding",
+    "inclusive_community_engagement",
+    "program_intervention_support",
+    "displacement_prevention",
+)
+
+EXPLICIT_CLIMATE_KEYWORDS = (
+    "climate",
+    "greenhouse gas",
+    "greenhouse gases",
+    "ghg",
+    "emission",
+    "emissions",
+    "carbon",
+    "net zero",
+    "decarbonization",
+    "decarbonisation",
+    "decarbonize",
+    "decarbonise",
+    "mitigation",
+    "adaptation",
+    "adaptive",
+    "resilience",
+    "resilient",
+    "extreme heat",
+    "heatwave",
+    "heat wave",
+    "heat island",
+    "flood",
+    "flooding",
+    "drought",
+    "sea level",
+    "storm surge",
+    "coastal erosion",
+    "wildfire smoke",
+    "dust storm",
+    "dust storms",
+    "desertification",
+)
+
+PRIMARY_MECHANISM_KEYWORDS = {
+    "Mitigation": (
+        "renewable",
+        "renewables",
+        "solar",
+        "wind",
+        "electrify",
+        "electrification",
+        "ev charging",
+        "methane",
+        "landfill",
+        "mode shift",
+        "vehicle miles traveled",
+        "vmt",
+    ),
+    "Adaptation": (
+        "cooling center",
+        "cooling centers",
+        "warning system",
+        "warning systems",
+        "preparedness",
+        "risk reduction",
+        "heat alert",
+        "heat alerts",
+        "smoke",
+        "shoreline",
+        "retreat",
+    ),
+    "Resource Efficiency": (
+        "energy efficiency",
+        "energy efficient",
+        "water efficiency",
+        "water efficient",
+        "water conservation",
+        "reduce energy use",
+        "reduce water use",
+        "reduce electricity use",
+        "reduce resource use",
+        "reduce energy consumption",
+        "reduce water consumption",
+        "recycling",
+        "reuse",
+        "waste diversion",
+        "retrofit",
+        "retrofits",
+        "benchmarking",
+        "retro commissioning",
+        "retro-commissioning",
+    ),
+    "Nature-Based Solutions": (
+        "tree",
+        "trees",
+        "tree canopy",
+        "tree planting",
+        "green roof",
+        "green roofs",
+        "wetland",
+        "wetlands",
+        "riparian",
+        "regenerative agriculture",
+        "soil conservation",
+        "reforestation",
+        "afforestation",
+        "bioswale",
+        "bioswales",
+        "green infrastructure",
+        "ecological corridor",
+        "ecological corridors",
+        "infiltration garden",
+        "infiltration gardens",
+        "aquifer recharge",
+    ),
+}
+
+
+def _screen_text(*parts: Optional[str]) -> str:
+    """Normalize text inputs for keyword-based screen cues."""
+    text = " ".join(str(part or "") for part in parts).lower()
+    text = re.sub(r"[^a-z0-9€$%]+", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def _keyword_hits(text: str, keywords: tuple[str, ...]) -> tuple[str, ...]:
+    padded = f" {text} "
+    hits = []
+    for keyword in keywords:
+        normalized = _screen_text(keyword)
+        if normalized and f" {normalized} " in padded:
+            hits.append(keyword)
+    return tuple(dict.fromkeys(hits))
+
+
+def _climate_keyword_hits(
+    text: str,
+    *,
+    primary_category: Optional[str] = None,
+) -> tuple[str, ...]:
+    if not text:
+        return ()
+    hits = list(_keyword_hits(text, EXPLICIT_CLIMATE_KEYWORDS))
+    for mechanism_keywords in PRIMARY_MECHANISM_KEYWORDS.values():
+        hits.extend(_keyword_hits(text, mechanism_keywords))
+    return tuple(dict.fromkeys(hits))
+
+
+def _cue_summary(hits: tuple[str, ...]) -> str:
+    return ", ".join(hits) if hits else "none"
+
+
+def _is_broad_financial_instrument(text: str, instrument_type: Optional[str]) -> bool:
+    if (instrument_type or "").strip() in FINANCIAL_INSTRUMENT_TYPES:
+        return True
+    if (instrument_type or "").strip() == "infrastructure-investment":
+        return bool(_keyword_hits(text, FINANCIAL_INSTRUMENT_KEYWORDS))
+    return bool(_keyword_hits(text, FINANCIAL_INSTRUMENT_KEYWORDS))
+
+
+def _is_support_line(text: str) -> bool:
+    return bool(_keyword_hits(text, SUPPORT_LINE_KEYWORDS))
+
+
+def _mechanism_forces_exclusion(canonical_mechanism: Optional[str]) -> bool:
+    normalized = (canonical_mechanism or "").strip().lower()
+    return any(flag in normalized for flag in GENERIC_NON_CLIMATE_MECHANISMS)
 
 
 # =============================================================================
@@ -809,6 +1137,67 @@ class SecondaryTypologySignature(dspy.Signature):
     )
 
 
+class ClimateScreenSignature(dspy.Signature):
+    f"""Assign the compact climate screen for ONE policy row.
+
+    The purpose is to decide whether the policy should remain in the climate
+    dataset based on explicit evidence, while following the user's earlier
+    screening guidance for social, financial, and budget-only rows.
+
+    {CLIMATE_SCREEN_GUIDE}
+    """
+
+    policy_statement: str = dspy.InputField(
+        desc="The specific row text that must carry explicit climate evidence for explicit_self."
+    )
+    verbatim_text: str = dspy.InputField(
+        desc="Original source text for the same row."
+    )
+    parent_statement: str = dspy.InputField(
+        desc="Parent statement for sub-rows. Use only to decide explicit_parent inheritance."
+    )
+    role: str = dspy.InputField(
+        desc="Row role, typically individual, parent, or sub."
+    )
+    primary_category: str = dspy.InputField(
+        desc="Existing primary category for context only."
+    )
+    canonical_mechanism: str = dspy.InputField(
+        desc="Canonical mechanism for context only."
+    )
+    mechanism_description: str = dspy.InputField(
+        desc="Mechanism description for context only. Do not use it as a substitute for missing row evidence."
+    )
+    instrument_type: str = dspy.InputField(
+        desc="Existing instrument type hint from enrichment."
+    )
+    climate_relevance_hint: str = dspy.InputField(
+        desc="Existing Stage 3 climate relevance hint."
+    )
+    climate_keyword_cues: str = dspy.InputField(
+        desc="Compact keyword hits that may indicate explicit climate language in the row."
+    )
+    parent_climate_keyword_cues: str = dspy.InputField(
+        desc="Compact keyword hits that may indicate explicit climate language in the parent."
+    )
+    finance_keyword_cues: str = dspy.InputField(
+        desc="Compact keyword hits that may indicate a broad financial instrument."
+    )
+    support_keyword_cues: str = dspy.InputField(
+        desc="Compact keyword hits that may indicate a support or budget line."
+    )
+    deterministic_finance_hint: str = dspy.InputField(
+        desc="Deterministic yes/no hint for broad financial instrument status."
+    )
+    mechanism_exclusion_hint: str = dspy.InputField(
+        desc="Deterministic yes/no hint when the canonical mechanism is explicitly non-climate."
+    )
+
+    climate_screen_result: ClimateScreenResult = dspy.OutputField(
+        desc="Structured climate screen result with climate_screen and is_financial_instrument."
+    )
+
+
 class PolicyEnrichmentSignature(dspy.Signature):
     f"""Enrich an individual policy with instance-specific metadata.
 
@@ -978,6 +1367,7 @@ class ConsistentPolicyClassifier(dspy.Module):
         self.extract_mechanism = dspy.ChainOfThought(MechanismExtractionSignature)
         self.classify_mechanism = dspy.ChainOfThought(MechanismClassificationSignature)
         self.classify_secondary_typology = dspy.ChainOfThought(SecondaryTypologySignature)
+        self.screen_climate_policy = dspy.ChainOfThought(ClimateScreenSignature)
         self.enrich_policy = dspy.ChainOfThought(PolicyEnrichmentSignature)
 
         # The registry: mechanism_key → classification dict
@@ -1163,6 +1553,145 @@ class ConsistentPolicyClassifier(dspy.Module):
             "secondary_categories": secondary_category_for_typology(code),
             "classification_schema_version": CLASSIFICATION_SCHEMA_VERSION,
             "secondary_profile": SECONDARY_PROFILE,
+        }
+
+    @staticmethod
+    def default_climate_screen(
+        *,
+        row_text: str,
+        role: Optional[str],
+        parent_explicit: bool,
+        instrument_type: Optional[str],
+        canonical_mechanism: Optional[str],
+    ) -> dict:
+        """Conservative fallback used if the LM screen fails."""
+        is_financial = _is_broad_financial_instrument(row_text, instrument_type)
+        mechanism_is_climate = bool(
+            canonical_mechanism
+            and canonical_mechanism.strip().lower() not in ("", "unknown")
+            and not _mechanism_forces_exclusion(canonical_mechanism)
+        )
+        if (
+            (role or "").strip() == "sub"
+            and parent_explicit
+            and (is_financial or _is_support_line(row_text) or mechanism_is_climate)
+        ):
+            climate_screen = "explicit_parent"
+        elif mechanism_is_climate:
+            climate_screen = "explicit_self"
+        else:
+            climate_screen = "exclude"
+        return {
+            "climate_screen": climate_screen,
+            "is_financial_instrument": "yes" if is_financial else "no",
+        }
+
+    def conservative_climate_screen(
+        self,
+        *,
+        policy_statement: str,
+        verbatim_text: str,
+        parent_statement: Optional[str] = None,
+        role: Optional[str] = None,
+        canonical_mechanism: Optional[str] = None,
+        primary_category: Optional[str] = None,
+        instrument_type: Optional[str] = None,
+    ) -> dict:
+        """Return the conservative non-LM fallback climate screen."""
+        row_text = _screen_text(policy_statement, verbatim_text)
+        parent_text = _screen_text(parent_statement)
+        parent_explicit = bool(_climate_keyword_hits(parent_text, primary_category=primary_category))
+        return self.default_climate_screen(
+            row_text=row_text,
+            role=role,
+            parent_explicit=parent_explicit,
+            instrument_type=instrument_type,
+            canonical_mechanism=canonical_mechanism,
+        )
+
+    def classify_climate_screen(
+        self,
+        *,
+        policy_statement: str,
+        verbatim_text: str,
+        parent_statement: Optional[str] = None,
+        role: Optional[str] = None,
+        canonical_mechanism: Optional[str] = None,
+        mechanism_description: Optional[str] = None,
+        primary_category: Optional[str] = None,
+        instrument_type: Optional[str] = None,
+        climate_relevance_hint: Optional[str] = None,
+    ) -> dict:
+        """Classify the compact climate screen using keyword cues + a narrow LM."""
+        row_text = _screen_text(policy_statement, verbatim_text)
+        parent_text = _screen_text(parent_statement)
+        climate_hits = _climate_keyword_hits(row_text, primary_category=primary_category)
+        parent_climate_hits = _climate_keyword_hits(parent_text, primary_category=primary_category)
+        finance_hits = _keyword_hits(row_text, FINANCIAL_INSTRUMENT_KEYWORDS)
+        support_hits = _keyword_hits(row_text, SUPPORT_LINE_KEYWORDS)
+        default = self.default_climate_screen(
+            row_text=row_text,
+            role=role,
+            parent_explicit=bool(parent_climate_hits),
+            instrument_type=instrument_type,
+            canonical_mechanism=canonical_mechanism,
+        )
+
+        try:
+            prediction = self.screen_climate_policy(
+                policy_statement=policy_statement,
+                verbatim_text=verbatim_text,
+                parent_statement=parent_statement or "None",
+                role=role or "individual",
+                primary_category=primary_category or "Unknown",
+                canonical_mechanism=canonical_mechanism or "Unknown",
+                mechanism_description=mechanism_description or "Unknown",
+                instrument_type=instrument_type or "Unknown",
+                climate_relevance_hint=climate_relevance_hint or "Unknown",
+                climate_keyword_cues=_cue_summary(climate_hits),
+                parent_climate_keyword_cues=_cue_summary(parent_climate_hits),
+                finance_keyword_cues=_cue_summary(finance_hits),
+                support_keyword_cues=_cue_summary(support_hits),
+                deterministic_finance_hint=default["is_financial_instrument"],
+                mechanism_exclusion_hint="yes" if _mechanism_forces_exclusion(canonical_mechanism) else "no",
+            )
+            structured = getattr(prediction, "climate_screen_result", None)
+            climate_screen = getattr(structured, "climate_screen", getattr(prediction, "climate_screen", "exclude"))
+            is_financial = getattr(
+                structured,
+                "is_financial_instrument",
+                getattr(prediction, "is_financial_instrument", default["is_financial_instrument"]),
+            )
+        except Exception:
+            return default
+
+        if climate_screen not in ("explicit_self", "explicit_parent", "exclude"):
+            climate_screen = "exclude"
+        if is_financial not in ("yes", "no"):
+            is_financial = default["is_financial_instrument"]
+
+        budget_parent_hint = (
+            "budget_line_for_parent_action" in (canonical_mechanism or "").lower()
+            or "parent climate action" in (mechanism_description or "").lower()
+        )
+        if (
+            climate_screen == "exclude"
+            and (role or "").strip() == "sub"
+            and is_financial == "yes"
+            and budget_parent_hint
+        ):
+            climate_screen = "explicit_parent"
+        if (
+            climate_screen == "exclude"
+            and canonical_mechanism
+            and canonical_mechanism.strip().lower() not in ("", "unknown")
+            and not _mechanism_forces_exclusion(canonical_mechanism)
+        ):
+            climate_screen = "explicit_self"
+
+        return {
+            "climate_screen": climate_screen,
+            "is_financial_instrument": is_financial,
         }
 
 
