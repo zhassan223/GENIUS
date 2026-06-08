@@ -1,0 +1,920 @@
+[
+  {
+    "cluster_id": 0,
+    "cluster_type": "parent_with_subs",
+    "section_header": "strategies to meet singapore's 2030 pledge",
+    "parent": {
+      "policy_statement": "Strategy package: Improve energy and carbon efficiency across industry, buildings, households, transport, water and waste sectors.",
+      "verbatim_text": "## STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE\n\n## IMPROVE ENERGY AND CARBON EFFICIENCY",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Named strategy heading followed by multiple specific sector measures; serves as an umbrella for sub-policies."
+    },
+    "subs": [
+      {
+        "policy_statement": "Increase industrial energy efficiency.",
+        "verbatim_text": "## Industry\n\n- Increase industrial energy efficiency",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Improve energy and carbon efficiency across industry, buildings, households, transport, water and waste sectors.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Industry",
+        "extraction_rationale": "Explicit listed measure under the strategy umbrella."
+      },
+      {
+        "policy_statement": "Reduce non-CO2 GHGs from industrial processes.",
+        "verbatim_text": "## Industry\n\n- Reduce non-CO 2 GHGs from industrial processes",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Improve energy and carbon efficiency across industry, buildings, households, transport, water and waste sectors.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Industry",
+        "extraction_rationale": "Explicit listed measure under the strategy umbrella."
+      },
+      {
+        "policy_statement": "Adopt cleaner fuels in industry.",
+        "verbatim_text": "## Industry\n\n- Adopt cleaner fuels",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Improve energy and carbon efficiency across industry, buildings, households, transport, water and waste sectors.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Industry",
+        "extraction_rationale": "Explicit listed measure under the strategy umbrella."
+      },
+      {
+        "policy_statement": "Achieve BCA Green Mark standards for 80% of buildings by 2030.",
+        "verbatim_text": "## Buildings\n\n- Achieve BCA Green Mark standards for 80 per cent of buildings by 2030",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Improve energy and carbon efficiency across industry, buildings, households, transport, water and waste sectors.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Buildings",
+        "extraction_rationale": "Quantified target with deadline (80% by 2030)."
+      },
+      {
+        "policy_statement": "Improve energy efficiency of building tenants.",
+        "verbatim_text": "## Buildings\n\n- Improve energy efficiency of building tenants",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Improve energy and carbon efficiency across industry, buildings, households, transport, water and waste sectors.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Buildings",
+        "extraction_rationale": "Explicit listed measure under the strategy umbrella."
+      },
+      {
+        "policy_statement": "Improve energy efficiency of data centres.",
+        "verbatim_text": "## Buildings\n\n- Improve energy efficiency of data centres",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Improve energy and carbon efficiency across industry, buildings, households, transport, water and waste sectors.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Buildings",
+        "extraction_rationale": "Explicit listed measure under the strategy umbrella."
+      },
+      {
+        "policy_statement": "Raise Minimum Energy Performance Standards (MEPS) for household appliances and introduce MEPS for more appliances.",
+        "verbatim_text": "## Household\n\n- Raise Minimum Energy Performance Standards (MEPS) for household appliances and introduce MEPS for more appliances",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Improve energy and carbon efficiency across industry, buildings, households, transport, water and waste sectors.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete regulatory intervention listed under household measures."
+      },
+      {
+        "policy_statement": "Encourage adoption of efficient appliance models.",
+        "verbatim_text": "## Household\n\n- Encourage adoption of efficient appliance models",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Improve energy and carbon efficiency across industry, buildings, households, transport, water and waste sectors.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Buildings",
+        "extraction_rationale": "Explicit listed measure under the strategy umbrella."
+      },
+      {
+        "policy_statement": "Introduce smart home technology.",
+        "verbatim_text": "## Household\n\n- Introduce smart home technology",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Improve energy and carbon efficiency across industry, buildings, households, transport, water and waste sectors.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific intervention listed under the strategy umbrella."
+      },
+      {
+        "policy_statement": "Achieve 75% use of public transport by 2030.",
+        "verbatim_text": "## Transport\n\n- Achieve 75 per cent use of public transport by 2030",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Improve energy and carbon efficiency across industry, buildings, households, transport, water and waste sectors.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Transport",
+        "extraction_rationale": "Quantified target with deadline (2030)."
+      },
+      {
+        "policy_statement": "Encourage cycling and walking.",
+        "verbatim_text": "## Transport\n\n- Encourage cycling and walking",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Improve energy and carbon efficiency across industry, buildings, households, transport, water and waste sectors.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit listed measure under the strategy umbrella."
+      },
+      {
+        "policy_statement": "Improve vehicle fuel efficiency.",
+        "verbatim_text": "## Transport\n\n- Improve vehicle fuel efficiency",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Improve energy and carbon efficiency across industry, buildings, households, transport, water and waste sectors.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit listed measure under the strategy umbrella."
+      },
+      {
+        "policy_statement": "Reduce plastics incineration.",
+        "verbatim_text": "## Water and Waste\n\n- Reduce plastics incineration",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Improve energy and carbon efficiency across industry, buildings, households, transport, water and waste sectors.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Waste",
+        "extraction_rationale": "Specific waste-sector mitigation measure under the strategy umbrella."
+      },
+      {
+        "policy_statement": "Improve energy efficiency in desalination and used water treatment.",
+        "verbatim_text": "## Water and Waste\n\n- Improve energy efficiency in desalination and used water treatment",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Improve energy and carbon efficiency across industry, buildings, households, transport, water and waste sectors.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Water",
+        "extraction_rationale": "Specific intervention in the water sector under the strategy umbrella."
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "cluster_type": "parent_with_subs",
+    "section_header": "strategies to meet singapore's 2030 pledge",
+    "parent": {
+      "policy_statement": "Strategy package: Reduce carbon emissions in power generation.",
+      "verbatim_text": "## REDUCE CARBON EMISSIONS IN POWER GENERATION",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+      "sector": "Energy",
+      "extraction_rationale": "Named strategy heading followed by multiple listed measures; umbrella for sub-policies."
+    },
+    "subs": [
+      {
+        "policy_statement": "Adopt more efficient power generation technologies.",
+        "verbatim_text": "- Adopt more efficient power generation technologies",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Reduce carbon emissions in power generation.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Energy",
+        "extraction_rationale": "Explicit listed measure under the power generation strategy."
+      },
+      {
+        "policy_statement": "Increase deployment of solar photovoltaic systems.",
+        "verbatim_text": "- Increase deployment of solar photovoltaic systems",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Reduce carbon emissions in power generation.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Energy",
+        "extraction_rationale": "Explicit listed measure under the power generation strategy."
+      },
+      {
+        "policy_statement": "Increase efficiency of waste-to-energy plants.",
+        "verbatim_text": "- Increase efficiency of waste-to-energy plants",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Reduce carbon emissions in power generation.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Waste",
+        "extraction_rationale": "Explicit listed measure under the power generation strategy."
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "cluster_type": "parent_with_subs",
+    "section_header": "strategies to meet singapore's 2030 pledge",
+    "parent": {
+      "policy_statement": "Strategy package: Develop and deploy low carbon technology.",
+      "verbatim_text": "## DEVELOP AND DEPLOY LOW CARBON TECHNOLOGY",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Named strategy heading with specific listed actions; umbrella for sub-policies."
+    },
+    "subs": [
+      {
+        "policy_statement": "Develop Singapore's research and development capabilities for low-carbon technology.",
+        "verbatim_text": "- Develop Singapore's research and development capabilities",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Develop and deploy low carbon technology.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Cross-sectoral",
+        "extraction_rationale": "Explicit listed measure under the low-carbon technology strategy."
+      },
+      {
+        "policy_statement": "Scale and deploy technology in Singapore's test-beds and 'Living Labs'.",
+        "verbatim_text": "- Scale and deploy technology in Singapore's test-beds and 'Living Labs'",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Develop and deploy low carbon technology.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Cross-sectoral",
+        "extraction_rationale": "Specific intervention (deployment via test-beds/living labs) under the strategy."
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "cluster_type": "parent_with_subs",
+    "section_header": "strategies to meet singapore's 2030 pledge",
+    "parent": {
+      "policy_statement": "Strategy package: Encourage collective climate action through knowledge/awareness, promoting action, and supporting international cooperation.",
+      "verbatim_text": "## ENCOURAGE COLLECTIVE CLIMATE ACTION\n\n- Build knowledge and awareness\n- Promote action on climate change\n- Support international cooperation",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Named strategy with multiple listed sub-items; umbrella structure."
+    },
+    "subs": [
+      {
+        "policy_statement": "Build knowledge and awareness on climate change.",
+        "verbatim_text": "- Build knowledge and awareness",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Encourage collective climate action through knowledge/awareness, promoting action, and supporting international cooperation.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Cross-sectoral",
+        "extraction_rationale": "Explicit listed measure under the collective action strategy."
+      },
+      {
+        "policy_statement": "Promote action on climate change.",
+        "verbatim_text": "- Promote action on climate change",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Encourage collective climate action through knowledge/awareness, promoting action, and supporting international cooperation.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Cross-sectoral",
+        "extraction_rationale": "Explicit listed measure under the collective action strategy."
+      },
+      {
+        "policy_statement": "Support international cooperation on climate change.",
+        "verbatim_text": "- Support international cooperation",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy package: Encourage collective climate action through knowledge/awareness, promoting action, and supporting international cooperation.",
+        "section_header": "STRATEGIES TO MEET SINGAPORE'S 2030 PLEDGE",
+        "sector": "Cross-sectoral",
+        "extraction_rationale": "Explicit listed measure under the collective action strategy."
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "cluster_type": "individual",
+    "section_header": "singapore's commitments to address climate change",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Singapore pledged to reduce emissions intensity by 36% from 2005 levels by 2030 and stabilise emissions with the aim of peaking around 2030.",
+      "verbatim_text": "In 2015, building on our earlier commitment, Singapore pledged to reduce our Emissions Intensity (EI) by 36 per cent from 2005 levels by 2030, and stabilise emissions with the aim of peaking around 2030.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "SINGAPORE'S COMMITMENTS TO ADDRESS CLIMATE CHANGE",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Formal pledge with numeric EI target and timeframe; reiterated national commitment."
+    }
+  },
+  {
+    "cluster_id": 5,
+    "cluster_type": "individual",
+    "section_header": "singapore's commitments to address climate change",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Singapore pledged to reduce emissions by 16% from business-as-usual levels by 2020.",
+      "verbatim_text": "In 2009, Singapore pledged to reduce emissions by 16 per cent from business-as-usual (BAU) levels by 2020.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "SINGAPORE'S COMMITMENTS TO ADDRESS CLIMATE CHANGE",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Quantified target with a deadline (2020)."
+    }
+  },
+  {
+    "cluster_id": 6,
+    "cluster_type": "individual",
+    "section_header": "increasing energy efficiency",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "NEA and EDB will work with manufacturing industries to achieve industrial energy efficiency improvement rates similar to 1–2% per year, and the Energy Conservation Act will be reviewed regularly.",
+      "verbatim_text": "The National Environment Agency (NEA) and Economic Development Board (EDB) will work with the manufacturing sector industries to achieve energy efficiency improvement rates similar to the 1 to 2 per cent per annum being achieved in leading developed countries like Belgium and the Netherlands. The Energy Conservation Act (ECA), which covers energy-intensive industrial firms, will be reviewed regularly so that it remains effective in supporting energy efficiency improvements.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Increasing Energy Efficiency",
+      "sector": "Industry",
+      "extraction_rationale": "Contains an explicit ongoing government action (work with industry) and a specified improvement rate benchmark; also includes a commitment to regular regulatory review."
+    }
+  },
+  {
+    "cluster_id": 7,
+    "cluster_type": "individual",
+    "section_header": "energy conservation act (eca)",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Energy-intensive industrial users covered by the Energy Conservation Act must appoint an energy manager, monitor and report energy use and GHG-related information annually, and submit and annually review an energy efficiency improvement plan.",
+      "verbatim_text": "Energy-intensive users in the industrial sector are required to appoint an energy manager, monitor and report energy use and GHG emissions-related information annually. They also have to submit an energy efficiency improvement plan and review this plan annually.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Energy Conservation Act (ECA)",
+      "sector": "Industry",
+      "extraction_rationale": "Binding regulatory requirements stated explicitly (appoint, report annually, submit plans)."
+    }
+  },
+  {
+    "cluster_id": 8,
+    "cluster_type": "individual",
+    "section_header": "resource-efficient design",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "NEA co-funds up to 50% of design workshop costs for resource-efficient design, capped at S$600,000 per project.",
+      "verbatim_text": "NEA co-funds up to 50 per cent of the cost of design workshops to integrate energy and resource efficiency in the design of new facilities, capped at $600,000 per project.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Resource-Efficient Design",
+      "sector": "Industry",
+      "extraction_rationale": "Specific fiscal support with clear funding share and cap."
+    }
+  },
+  {
+    "cluster_id": 9,
+    "cluster_type": "individual",
+    "section_header": "energy audits",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "NEA co-funds 50% of energy audit costs for existing facilities, capped at S$200,000 per project.",
+      "verbatim_text": "NEA co-funds 50 per cent of the costs of an energy audit, which assesses energy consumption and helps to develop energy efficiency improvement plans for existing facilities, capped at $200,000 per project.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Energy Audits",
+      "sector": "Industry",
+      "extraction_rationale": "Specific fiscal support with clear funding share and cap."
+    }
+  },
+  {
+    "cluster_id": 10,
+    "cluster_type": "individual",
+    "section_header": "retrofit projects",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "EDB and NEA co-fund up to 20% of investment cost for energy-efficient retrofit equipment or technologies.",
+      "verbatim_text": "EDB and NEA co-fund up to 20 per cent of the investment cost of energy efficient equipment or technologies.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Retrofit Projects",
+      "sector": "Industry",
+      "extraction_rationale": "Specific incentive mechanism with stated co-funding rate."
+    }
+  },
+  {
+    "cluster_id": 11,
+    "cluster_type": "individual",
+    "section_header": "singapore certified energy manager (scem)",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "The SCEM training grant covers about 70% of training costs for the Singapore Certified Energy Manager programme.",
+      "verbatim_text": "This is a training and certification programme in energy management. The SCEM training grant covers about 70 per cent of training costs.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Singapore Certified Energy Manager (SCEM)",
+      "sector": "Industry",
+      "extraction_rationale": "Named programme with committed financial support level."
+    }
+  },
+  {
+    "cluster_id": 12,
+    "cluster_type": "individual",
+    "section_header": "ee financing pilot programme",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Under the EE Financing Pilot Programme, companies can receive financing for up to 100% of upfront capital investment for energy efficiency projects, with cost savings shared between financier and company.",
+      "verbatim_text": "Under this programme, companies receive financing for up to 100 per cent of the upfront capital investment of energy efficiency projects. Cost savings are shared between the financier and the company.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "EE Financing Pilot Programme",
+      "sector": "Industry",
+      "extraction_rationale": "Concrete financing mechanism with explicit financing share."
+    }
+  },
+  {
+    "cluster_id": 13,
+    "cluster_type": "individual",
+    "section_header": "besides grants, tax incentive schemes are also available",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "The Accelerated Depreciation Allowance Scheme allows write-off/depreciation within one year of capital expenditure on energy-efficient or energy-saving equipment replacing existing ones.",
+      "verbatim_text": "The Accelerated Depreciation Allowance Scheme (ADAS) allows the writeoff or depreciation, within one year, of capital expenditure on more energy efficient or energysaving equipment to replace existing ones.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Besides grants, tax incentive schemes are also available.",
+      "sector": "Industry",
+      "extraction_rationale": "Specific tax incentive mechanism stated clearly."
+    }
+  },
+  {
+    "cluster_id": 14,
+    "cluster_type": "individual",
+    "section_header": "besides grants, tax incentive schemes are also available",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "The Investment Allowance – Energy Efficiency Scheme allows an additional 30% investment allowance for energy efficiency investments against taxable income, on top of normal capital allowances.",
+      "verbatim_text": "The Investment Allowance - Energy Efficiency Scheme (IA) allows an additional 30 per cent investment allowance for energy efficiency investments against taxable income, on top of normal capital allowances.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Besides grants, tax incentive schemes are also available.",
+      "sector": "Industry",
+      "extraction_rationale": "Specific tax incentive with quantified allowance (30%)."
+    }
+  },
+  {
+    "cluster_id": 15,
+    "cluster_type": "individual",
+    "section_header": "reducing non-co2 ghgs",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "EDB and NEA will study policy options to support measures and technologies to reduce non-CO2 GHG emissions from the semiconductor sub-sector.",
+      "verbatim_text": "EDB and NEA will study policy options to support the implementation of appropriate measures and technologies to reduce non-CO 2 GHG emissions from the sub-sector.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Reducing Non-CO2 GHGs",
+      "sector": "Industry",
+      "extraction_rationale": "Government commitment to develop policy options for a defined mitigation action area (non-CO2 in semiconductors)."
+    }
+  },
+  {
+    "cluster_id": 16,
+    "cluster_type": "individual",
+    "section_header": "adopting cleaner fuels in industry",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "EDB and NEA will study further policy options to facilitate switching industrial heating fuels to cleaner fuels such as natural gas.",
+      "verbatim_text": "EDB and NEA will study further policy options to facilitate this switch.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Adopting Cleaner Fuels in Industry",
+      "sector": "Industry",
+      "extraction_rationale": "Explicit commitment to policy development to enable cleaner fuel switching."
+    }
+  },
+  {
+    "cluster_id": 17,
+    "cluster_type": "individual",
+    "section_header": "raising minimum energy performance standards",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "MEPS for air-conditioners will be raised again in September 2016, and minimum standards for appliances will be progressively raised.",
+      "verbatim_text": "MEPS for air-conditioners were raised in 2013, and will be raised again in September 2016. The minimum standards for appliances will be progressively raised to increase the efficiency of the appliances on the market , while ensuring that product availability and consumer choice are not adversely affected.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Raising Minimum Energy Performance Standards",
+      "sector": "Buildings",
+      "extraction_rationale": "Regulatory performance standards with a specified effective date (Sept 2016) and an explicit commitment to progressive tightening."
+    }
+  },
+  {
+    "cluster_id": 18,
+    "cluster_type": "individual",
+    "section_header": "promoting and increasing awareness about energy efficient appliances",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "NEA will consider including other appliances under the Mandatory Energy Labelling Scheme (MELS) in the future.",
+      "verbatim_text": "MELS currently covers household refrigerators, air-conditioners, clothes dryers, televisions, and lamps. NEA will consider including other appliances in the future.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Promoting and Increasing Awareness about Energy Efficient Appliances",
+      "sector": "Buildings",
+      "extraction_rationale": "Forward-looking government action to potentially expand a mandatory labelling scheme."
+    }
+  },
+  {
+    "cluster_id": 19,
+    "cluster_type": "individual",
+    "section_header": "smart home technologies",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "HEMS smart home technologies are being piloted in selected households in Yuhua estate to assess feasibility of larger-scale implementation.",
+      "verbatim_text": "HEMS are currently being piloted in selected households in the Yuhua estate to assess the feasibility of larger scale implementation.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Smart Home Technologies",
+      "sector": "Buildings",
+      "extraction_rationale": "Concrete intervention (pilot programme) aimed at potential scale-up."
+    }
+  },
+  {
+    "cluster_id": 20,
+    "cluster_type": "individual",
+    "section_header": "increasing efficiency of water treatment",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "PUB is pilot testing technologies such as electrochemical desalting with the aim of halving the energy used in seawater desalination.",
+      "verbatim_text": "PUB is pilot testing new technologies such as electrochemical desalting, with the aim of halving the energy used in the seawater desalination process.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Increasing Efficiency of Water Treatment",
+      "sector": "Water",
+      "extraction_rationale": "Specific intervention (pilot testing) with quantified goal (halve energy use)."
+    }
+  },
+  {
+    "cluster_id": 21,
+    "cluster_type": "individual",
+    "section_header": "increasing efficiency of water treatment",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "NEA is conducting a pilot programme to evaluate district-level food waste collection and processing for anaerobic co-digestion with used water sludge at Ulu Pandan WRP.",
+      "verbatim_text": "NEA is also conducting a pilot programme to evaluate the economic viability and feasibility of the district-level collection and processing of food waste for anaerobic co-digestion with used water sludge at the Ulu Pandan Water Reclamation Plant.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Increasing Efficiency of Water Treatment",
+      "sector": "Waste",
+      "extraction_rationale": "Concrete government-led pilot programme with defined scope and site."
+    }
+  },
+  {
+    "cluster_id": 22,
+    "cluster_type": "individual",
+    "section_header": "increasing energy and carbon efficiency in the waste management process",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "NEA aims to increase Singapore’s overall recycling rate from 61% (2015) to 70% in 2030.",
+      "verbatim_text": "NEA aims to increase the overall recycling rate from 61 per cent in 2015 to 70 per cent in 2030, by increasing awareness and implementing other policy initiatives (see feature story).",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Increasing Energy and Carbon Efficiency in the Waste Management Process",
+      "sector": "Waste",
+      "extraction_rationale": "Quantified national target with baseline and deadline."
+    }
+  },
+  {
+    "cluster_id": 23,
+    "cluster_type": "individual",
+    "section_header": "initiatives to reduce waste and increase efficiency in the waste sector",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "All new HDB developments launched from 2014 will be fitted with Centralised Chutes for Recyclables.",
+      "verbatim_text": "All new HDB developments launched from 2014 will be fitted with Centralised Chutes for Recyclables.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "INITIATIVES TO REDUCE WASTE AND INCREASE EFFICIENCY IN THE WASTE SECTOR",
+      "sector": "Waste",
+      "extraction_rationale": "Clear implementation requirement tied to new developments (mandated feature from 2014)."
+    }
+  },
+  {
+    "cluster_id": 24,
+    "cluster_type": "individual",
+    "section_header": "initiatives to reduce waste and increase efficiency in the waste sector",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Large hotels and shopping malls are required to submit waste data and waste reduction plans.",
+      "verbatim_text": "NEA has also made it mandatory for large hotels and shopping malls to submit waste data and waste reduction plans.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "INITIATIVES TO REDUCE WASTE AND INCREASE EFFICIENCY IN THE WASTE SECTOR",
+      "sector": "Waste",
+      "extraction_rationale": "Binding requirement ('mandatory') for specified entities."
+    }
+  },
+  {
+    "cluster_id": 25,
+    "cluster_type": "individual",
+    "section_header": "more efficient power generation technologies",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "EMA will work with power generation companies to encourage adoption of more efficient power generation technologies.",
+      "verbatim_text": "The Energy Market Authority (EMA) will work with power generation companies to encourage them to adopt more efficient technologies.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "MORE EFFICIENT POWER GENERATION TECHNOLOGIES",
+      "sector": "Energy",
+      "extraction_rationale": "Explicit government action to drive technology adoption in power generation."
+    }
+  },
+  {
+    "cluster_id": 26,
+    "cluster_type": "individual",
+    "section_header": "increasing renewable energy: solar photovoltaic (pv) systems",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Singapore plans to raise solar power adoption to 350 MWp by 2020 (about 5% of peak electricity demand).",
+      "verbatim_text": "Singapore plans to raise the adoption of solar power in our system to 350MWp by 2020, representing about 5 per cent of peak electricity demand.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "INCREASING RENEWABLE ENERGY: SOLAR PHOTOVOLTAIC (PV) SYSTEMS",
+      "sector": "Energy",
+      "extraction_rationale": "Quantified renewable energy deployment target with a deadline (2020)."
+    }
+  },
+  {
+    "cluster_id": 27,
+    "cluster_type": "individual",
+    "section_header": "increasing renewable energy: solar photovoltaic (pv) systems",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Singapore will invest in research in solar forecasting, energy storage, and smart grids to support an increasing share of intermittent solar generation.",
+      "verbatim_text": "To support an increasing share of intermittent electricity generation, Singapore will invest in research efforts in solar forecasting, energy storage, and smart grids.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "INCREASING RENEWABLE ENERGY: SOLAR PHOTOVOLTAIC (PV) SYSTEMS",
+      "sector": "Energy",
+      "extraction_rationale": "Explicit commitment to invest in specified supporting technologies."
+    }
+  },
+  {
+    "cluster_id": 28,
+    "cluster_type": "individual",
+    "section_header": "solarnova",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "SolarNova will aggregate solar demand across government agencies; HDB will call solar leasing tenders of around 30–50 MW approximately every 9–12 months on behalf of agencies.",
+      "verbatim_text": "The SolarNova programme led by EDB and HDB promotes and aggregates solar demand across government agencies.\n\nHDB will structure and call for solar leasing tenders of around 30 to 50MW approximately every nine to 12 months on behalf of various government agencies.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "SOLARNOVA",
+      "sector": "Energy",
+      "extraction_rationale": "Named programme with a concrete procurement approach and cadence/size for tenders."
+    }
+  },
+  {
+    "cluster_id": 29,
+    "cluster_type": "individual",
+    "section_header": "floating solar pv",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "PUB and EDB are test-bedding a floating solar PV system on Tengeh Reservoir costing S$11 million to generate up to 3.3 GWh/year.",
+      "verbatim_text": "PUB and EDB are test-bedding a floating solar PV system on Tengeh Reservoir which can generate up to 3.3GWh of electricity per annum, equivalent to the average annual energy consumption of 750 HDB households. At a cost of $11 million, the project will also assess the impact of solar PV deployment on reservoir evaporation, biodiversity and water quality.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "FLOATING SOLAR PV",
+      "sector": "Energy",
+      "extraction_rationale": "Specific government-supported project with committed budget and quantified generation."
+    }
+  },
+  {
+    "cluster_id": 30,
+    "cluster_type": "individual",
+    "section_header": "increasing renewable energy: solar photovoltaic (pv) systems",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "PUB plans to install more solar PV at Changi WRP, Bedok Waterworks and WaterHub by 2017 and has commenced a feasibility study on solar PV potential at reservoirs and facilities.",
+      "verbatim_text": "PUB has installed them at Choa Chu Kang Waterworks, and plans to install more at Changi Water Reclamation Plant, and Bedok Waterworks and WaterHub by 2017. PUB has also commenced a feasibility study to determine the solar PV deployment potential at its reservoirs and facilities.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "INCREASING RENEWABLE ENERGY: SOLAR PHOTOVOLTAIC (PV) SYSTEMS",
+      "sector": "Energy",
+      "extraction_rationale": "Time-bound deployment plan (by 2017) plus a committed feasibility study to guide future deployment."
+    }
+  },
+  {
+    "cluster_id": 31,
+    "cluster_type": "individual",
+    "section_header": "increasing efficiency of waste-to-energy plants",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "NEA will work with developers of new waste-to-energy plants to harness new technologies that optimise resource and energy recovery.",
+      "verbatim_text": "NEA will work with companies developing new WTE plants to help them harness new technologies that optimise resource and energy recovery.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "INCREASING EFFICIENCY OF WASTE-TO-ENERGY PLANTS",
+      "sector": "Waste",
+      "extraction_rationale": "Explicit government action to drive adoption of higher-efficiency WTE technologies."
+    }
+  },
+  {
+    "cluster_id": 32,
+    "cluster_type": "individual",
+    "section_header": "increasing efficiency of waste-to-energy plants",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Singapore will build an Integrated Waste Management Facility (IWMF) to be completed in 2024, co-located with Tuas Water Reclamation Plant to optimise efficiency and energy/resource recovery.",
+      "verbatim_text": "NEA will also maximise resource and energy recovery in its new Integrated Waste Management Facility (IWMF), which will be completed in 2024. It will be co-located with PUB's Tuas Water Reclamation Plant to further optimise efficiency.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "INCREASING EFFICIENCY OF WASTE-TO-ENERGY PLANTS",
+      "sector": "Waste",
+      "extraction_rationale": "Concrete infrastructure project with a completion year and stated integration/efficiency purpose."
+    }
+  },
+  {
+    "cluster_id": 33,
+    "cluster_type": "individual",
+    "section_header": "investing in research, development and demonstration (rd&d)",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Under the RIE2020 Plan, S$0.9 billion will be invested in Urban Solutions and Sustainability from 2016–2020.",
+      "verbatim_text": "Under the National Research Foundation's (NRF) Research, Innovation, and Enterprise (RIE) 2020 Plan, $0.9 billion will be invested in the Urban Solutions and Sustainability domain from 2016 to 2020 to tackle Singapore's energy, water, land, and liveability challenges.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "INVESTING IN RESEARCH, DEVELOPMENT AND DEMONSTRATION (RD&D)",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Explicit public investment commitment with amount and timeframe."
+    }
+  },
+  {
+    "cluster_id": 34,
+    "cluster_type": "individual",
+    "section_header": "research, innovation, and enterprise 2020",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "The Energy National Innovation Challenge set aside S$300 million (2011–2015) to develop and deploy cost-competitive energy solutions.",
+      "verbatim_text": "The Energy National Innovation Challenge (ENIC) was established in 2011 to develop and deploy cost-competitive energy solutions within 20 years that would improve Singapore's energy efficiency, reduce carbon emissions, and broaden our energy options. Funding of $300 million was set aside between 201 1 and 2015 for such solutions, covering areas such as green buildings, green data centres, energy storage, and waste-to-energy.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "RESEARCH, INNOVATION, AND ENTERPRISE 2020",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Named programme with specified funding amount and period."
+    }
+  },
+  {
+    "cluster_id": 35,
+    "cluster_type": "individual",
+    "section_header": "encouraging public transport use",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Land Transport Master Plan: Singapore will expand rail network to 360 km by 2030 and add more than 120 trains, increasing total fleet size by more than 40%.",
+      "verbatim_text": "By 2030, the rail network will be 360km, and will be comparable in rail density with developed cities like London, New York and Tokyo. More than 120 trains will also be added to existing train lines, increasing the total fleet size by more than 40 per cent.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Encouraging Public Transport Use",
+      "sector": "Transport",
+      "extraction_rationale": "Quantified infrastructure expansion commitments with timeframe (2030) and fleet increase."
+    }
+  },
+  {
+    "cluster_id": 36,
+    "cluster_type": "individual",
+    "section_header": "encouraging public transport use",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Bus Service Enhancement Programme aims to grow the public bus fleet by 1,000 buses (about 25%) by 2017.",
+      "verbatim_text": "The Bus Service Enhancement Programme, launched in 2012, aims to grow the public bus fleet by 1,000 buses or about 25 per cent by 2017 .",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Encouraging Public Transport Use",
+      "sector": "Transport",
+      "extraction_rationale": "Quantified target with a deadline (by 2017)."
+    }
+  },
+  {
+    "cluster_id": 37,
+    "cluster_type": "individual",
+    "section_header": "encouraging public transport use",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Singapore will quadruple sheltered walkways from 56 km to 200 km by 2018; expand cycling paths to more than 700 km by 2030; and require private developers (from July 2016) to consider pedestrians’ and cyclists’ needs in development plans.",
+      "verbatim_text": "To facilitate walking and cycling, our sheltered walkway network will be quadrupled from the existing 56km to 200km by 2018. Cycling paths will double from 355km in 2015 to more than 700km by 2030.\n\nFrom July 2016, LTA and the Urban Redevelopment Authority (URA) will require private developers to consider the safety, convenience, and accessibility needs of pedestrians and cyclists in their development plans.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Encouraging Public Transport Use",
+      "sector": "Transport",
+      "extraction_rationale": "Multiple quantified infrastructure targets plus a dated regulatory requirement (from July 2016)."
+    }
+  },
+  {
+    "cluster_id": 38,
+    "cluster_type": "individual",
+    "section_header": "encouraging public transport use",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Seven new integrated transport hubs will be built by 2023.",
+      "verbatim_text": "Seven new integrated transport hubs will be built by 2023 to make it convenient for people to access different transport modes and to enjoy shopping and lifestyle services at the same location.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Encouraging Public Transport Use",
+      "sector": "Transport",
+      "extraction_rationale": "Concrete infrastructure commitment with deadline (2023)."
+    }
+  },
+  {
+    "cluster_id": 39,
+    "cluster_type": "individual",
+    "section_header": "encouraging public transport use",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "These measures aim to increase public transport mode share during morning peak hours to 75% by 2030 and 85% by 2050.",
+      "verbatim_text": "These measures collectively aim to increase the use of public transport as a share of overall transport during morning peak hours from 66 per cent in 2015 to 75 per cent by 2030. By 2050, the aim is to further increase this share to 85 per cent.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Encouraging Public Transport Use",
+      "sector": "Transport",
+      "extraction_rationale": "Quantified mode share targets with time horizons (2030, 2050)."
+    }
+  },
+  {
+    "cluster_id": 40,
+    "cluster_type": "individual",
+    "section_header": "encouraging public transport use",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "By 2030, every HDB town will have a dedicated cycling network.",
+      "verbatim_text": "By 2030, every HDB town will have a dedicated cycling network.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Encouraging Public Transport Use",
+      "sector": "Transport",
+      "extraction_rationale": "Time-bound infrastructure commitment."
+    }
+  },
+  {
+    "cluster_id": 41,
+    "cluster_type": "individual",
+    "section_header": "electric vehicle (ev) pilot programme (phase 2)",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Electric Vehicle Pilot Programme (Phase 2) will trial EVs for fleet operations and introduce up to 1,000 EVs and up to 2,000 charging kiosks island-wide.",
+      "verbatim_text": "In the second phase, the use of EVs will be trialled for fleet-based operations. An EV car-sharing pilot programme for this phase will introduce as many as 1,000 EVs and an island-wide charging infrastructure comprising up to 2,000 charging kiosks to support the eventual proliferation of EVs.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Electric Vehicle (EV) Pilot Programme (Phase 2)",
+      "sector": "Transport",
+      "extraction_rationale": "Specific programme with quantified deployment of vehicles and charging infrastructure."
+    }
+  },
+  {
+    "cluster_id": 42,
+    "cluster_type": "individual",
+    "section_header": "encouraging the shift to more efficient vehicles",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Carbon Emissions-based Vehicle Scheme (CEVS) provides rebates for low-emission cars/taxis and surcharges for high-emission vehicles, and will be reviewed in 2017.",
+      "verbatim_text": "Under the CEVS, these vehicles are divided into categories based on their CO 2 /km performance. Low-emission cars are given incentives, while high-emission cars incur a penalty in the form of a registration surcharge.\n\nThe CEVS will be reviewed in 2017.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "ENCOURAGING THE SHIFT TO MORE EFFICIENT VEHICLES",
+      "sector": "Transport",
+      "extraction_rationale": "Describes an implemented policy instrument (rebate/surcharge) with a specified review year."
+    }
+  },
+  {
+    "cluster_id": 43,
+    "cluster_type": "individual",
+    "section_header": "public sector leading by example",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Public sector sustainability: every ministry must appoint a sustainability manager and set sustainability targets for 2020, with progress published every three years.",
+      "verbatim_text": "Every ministry is required to appoint a sustainability manager and set sustainability targets for 2020 in areas ranging from resource management to green procurement. Progress will be published in a Public Sector Sustainability Report every three years.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PUBLIC SECTOR LEADING BY EXAMPLE",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Binding requirement across government ministries plus reporting cadence."
+    }
+  },
+  {
+    "cluster_id": 44,
+    "cluster_type": "individual",
+    "section_header": "supporting international cooperation",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Under the Singapore Cooperation Programme, Singapore has trained over 10,700 officials from developing countries on clean energy, emissions reductions, and sustainability/environmental issues.",
+      "verbatim_text": "Under the Singapore Cooperation Programme, we have trained over 10,700 officials from developing countries on clean energy, emissions reductions, and broader sustainability and environmental issues.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "SUPPORTING INTERNATIONAL COOPERATION",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Concrete international cooperation action with quantified output (officials trained)."
+    }
+  }
+]

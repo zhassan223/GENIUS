@@ -1,0 +1,785 @@
+[
+  {
+    "policy_statement": "Pillar 1: Increase access to utility savings and renewable energy, prioritizing households.",
+    "verbatim_text": "The initiatives in this plan are organized into three levels: pillars, strategies, and actions. The five pillars support the high-level goals of the plan:\n\n1 Increase access to utility savings and renewable energy, prioritizing households",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "CLIMATE ACTION STRATEGIES | HOW TO READ THE 2022 CAP",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Named pillar that serves as an umbrella for multiple strategies and actions listed in the plan."
+  },
+  {
+    "policy_statement": "Strategy 1.1 Retrofit buildings to reduce building energy use and emissions (Pillar 1).",
+    "verbatim_text": "1 Increase access to utility savings and renewable energy, prioritizing households | 1. Retrofit buildings | Action A. Retrofit residential buildings with 4 or fewer units:20% by 2030 and 50%by2040, prioritizing low- or moder- ate-income households B. Retrofit 20%of total 5+ unit residential buildings by 2030 C. Retrofit 20%of total industrial buildings by 2030 D. Retrofit90%oftotalCity-ownedandsisteragen - cy-owned buildings by 2035 E. Retrofit 20%of total commercial buildings by 2035",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 1: Increase access to utility savings and renewable energy, prioritizing households.",
+    "section_header": "CLIMATE ACTION STRATEGIES (Pillar 1 table)",
+    "sector": "Buildings",
+    "extraction_rationale": "A named strategy under Pillar 1 with multiple lettered actions beneath it."
+  },
+  {
+    "policy_statement": "Retrofit residential buildings with 4 or fewer units: 20% by 2030 and 50% by 2040, prioritizing low- or moderate-income households.",
+    "verbatim_text": "A\n\nRetrofit residential buildings with 4 or fewer units: 20% by 2030 and 50% by 2040, prioritizing low- or moderate-income households",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 1: Increase access to utility savings and renewable energy, prioritizing households.",
+    "section_header": "S T R A T E G Y 1 | RETROFIT BUILDINGS | ACTIONS",
+    "sector": "Buildings",
+    "extraction_rationale": "Quantified retrofit target with deadlines, presented as an action item."
+  },
+  {
+    "policy_statement": "Retrofit 20% of total 5+ unit residential buildings by 2030.",
+    "verbatim_text": "Retrofit 20% of total 5+ unit residential buildings by 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 1: Increase access to utility savings and renewable energy, prioritizing households.",
+    "section_header": "S T R A T E G Y 1 | RETROFIT BUILDINGS | ACTIONS",
+    "sector": "Buildings",
+    "extraction_rationale": "Quantified retrofit target with deadline."
+  },
+  {
+    "policy_statement": "Retrofit 20% of total industrial buildings by 2030.",
+    "verbatim_text": "Retrofit 20% of total industrial buildings by 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 1: Increase access to utility savings and renewable energy, prioritizing households.",
+    "section_header": "S T R A T E G Y 1 | RETROFIT BUILDINGS | ACTIONS",
+    "sector": "Buildings",
+    "extraction_rationale": "Quantified retrofit target with deadline."
+  },
+  {
+    "policy_statement": "Retrofit 90% of total city-owned and sister agency-owned buildings by 2035.",
+    "verbatim_text": "Retrofit 90% of total city-owned and sister agency-owned buildings by 2035",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 1: Increase access to utility savings and renewable energy, prioritizing households.",
+    "section_header": "S T R A T E G Y 1 | RETROFIT BUILDINGS | ACTIONS",
+    "sector": "Buildings",
+    "extraction_rationale": "Quantified retrofit target with deadline for public buildings."
+  },
+  {
+    "policy_statement": "Strategy 1.2 Connect communities to renewable energy (Pillar 1).",
+    "verbatim_text": "1 Increase access to utility savings and renewable energy, prioritizing households | 2. Connect communities to renewable energy | A. Install 5 megawatts of co-owned community solar proj- ects by 2025 B. Increase Chicago-based community renewables to 20 megawatts by 2025 C. Increase community renewables subscriptions to achieve 25%subscribed by low-income and/or environ- mental justice low-income residents by 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 1: Increase access to utility savings and renewable energy, prioritizing households.",
+    "section_header": "CLIMATE ACTION STRATEGIES (Pillar 1 table)",
+    "sector": "Energy",
+    "extraction_rationale": "Named strategy under Pillar 1 with multiple lettered actions."
+  },
+  {
+    "policy_statement": "Install 5 megawatts of co-owned community solar projects by 2025.",
+    "verbatim_text": "Install 5 megawatts of co-owned community solar projects by 2025\n\nBy 2025, 5 megawatts of co-owned community solar projects will be installed within city limits, prioritizing households with the highest energy burden.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 1: Increase access to utility savings and renewable energy, prioritizing households.",
+    "section_header": "S T R A T E G Y 2 | CONNECT COMMUNITIES TO RENEWABLE ENERGY | ACTIONS",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified capacity target with deadline and prioritization criteria."
+  },
+  {
+    "policy_statement": "Increase Chicago-based community renewables to 20 megawatts by 2025.",
+    "verbatim_text": "Increase Chicago-based community renewables to 20 megawatts by 2025\n\nBy 2025, the City will increase Chicago-based community renewables to 20 megawatts.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 1: Increase access to utility savings and renewable energy, prioritizing households.",
+    "section_header": "S T R A T E G Y 2 | CONNECT COMMUNITIES TO RENEWABLE ENERGY | ACTIONS",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified capacity target with deadline."
+  },
+  {
+    "policy_statement": "Increase community renewables subscriptions so that low-income and/or environmental-justice low-income residents account for 25% subscribed by 2030.",
+    "verbatim_text": "Increase community renewables subscriptions to achieve 25% subscribed by low-income and/ or environmental justice low-income residents by 2030\n\nBy 2030, the City will increase community renewable subscriptions to achieve a 25% subscription rate by low-income and/or environmental justice low-income residents.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 1: Increase access to utility savings and renewable energy, prioritizing households.",
+    "section_header": "S T R A T E G Y 2 | CONNECT COMMUNITIES TO RENEWABLE ENERGY | ACTIONS",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified subscription target with deadline and defined beneficiary group."
+  },
+  {
+    "policy_statement": "Pillar 2: Build circular economies to create jobs and reduce waste.",
+    "verbatim_text": "The five pillars support the high-level goals of the plan:\n\n2 Build circular economies to create jobs and reduce waste",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "CLIMATE ACTION STRATEGIES | HOW TO READ THE 2022 CAP",
+    "sector": "Waste",
+    "extraction_rationale": "Named pillar serving as umbrella for circular economy/waste actions."
+  },
+  {
+    "policy_statement": "Strategy 2.1 Reduce waste and landfilling (Pillar 2).",
+    "verbatim_text": "2 Build circular economies to create jobs and reduce waste | 1. Reduce waste and landfilling | A. Introduce community-wide organic waste collection and decomposition by 2025 B. Implement equitable waste source prevention strategies by 2030 C. Divert 90%ofcommercial, industrial, and institutional waste by 2030 D. Divert 75%of construction and demolition waste by 2030 E. Enable building design for disassembly and reuse by 2035 F. Divert 90%ofresidential waste by 2040",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 2: Build circular economies to create jobs and reduce waste.",
+    "section_header": "CLIMATE ACTION STRATEGIES (Pillar 2 table)",
+    "sector": "Waste",
+    "extraction_rationale": "Named strategy under Pillar 2 with multiple lettered actions and targets."
+  },
+  {
+    "policy_statement": "Introduce community-wide organic waste collection and decomposition by 2025.",
+    "verbatim_text": "Introduce community-wide organic waste collection and decomposition by 2025",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 2: Build circular economies to create jobs and reduce waste.",
+    "section_header": "S T R A T E G Y 1 | REDUCE WASTE AND LANDFILLING | ACTIONS",
+    "sector": "Waste",
+    "extraction_rationale": "Time-bound commitment to introduce citywide organics collection/decomposition."
+  },
+  {
+    "policy_statement": "Implement equitable waste source prevention strategies by 2030.",
+    "verbatim_text": "Implement equitable waste source prevention strategies by 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 2: Build circular economies to create jobs and reduce waste.",
+    "section_header": "S T R A T E G Y 1 | REDUCE WASTE AND LANDFILLING | ACTIONS",
+    "sector": "Waste",
+    "extraction_rationale": "Time-bound action to implement prevention strategies."
+  },
+  {
+    "policy_statement": "Divert 90% of commercial, industrial, and institutional waste by 2030.",
+    "verbatim_text": "Divert 90% of commercial, industrial, and institutional waste by 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 2: Build circular economies to create jobs and reduce waste.",
+    "section_header": "S T R A T E G Y 1 | REDUCE WASTE AND LANDFILLING | ACTIONS",
+    "sector": "Waste",
+    "extraction_rationale": "Quantified diversion target with deadline."
+  },
+  {
+    "policy_statement": "Divert 75% of construction and demolition waste by 2030.",
+    "verbatim_text": "Divert 75% of construction and demolition waste by 2030\n\nBy 2030, the city will divert 75% of construction and demolition waste from landfills and incineration.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 2: Build circular economies to create jobs and reduce waste.",
+    "section_header": "S T R A T E G Y 1 | REDUCE WASTE AND LANDFILLING | ACTIONS (cont.)",
+    "sector": "Waste",
+    "extraction_rationale": "Quantified diversion target with deadline and specified waste stream."
+  },
+  {
+    "policy_statement": "Enable building design for disassembly and reuse by 2035.",
+    "verbatim_text": "Enable building design for disassembly and reuse by 2035",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 2: Build circular economies to create jobs and reduce waste.",
+    "section_header": "S T R A T E G Y 1 | REDUCE WASTE AND LANDFILLING | ACTIONS (cont.)",
+    "sector": "Waste",
+    "extraction_rationale": "Time-bound enabling action focused on design for disassembly/reuse."
+  },
+  {
+    "policy_statement": "Divert 90% of residential waste by 2040.",
+    "verbatim_text": "Divert 90% of residential waste by 2040",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 2: Build circular economies to create jobs and reduce waste.",
+    "section_header": "S T R A T E G Y 1 | REDUCE WASTE AND LANDFILLING | ACTIONS (cont.)",
+    "sector": "Waste",
+    "extraction_rationale": "Quantified diversion target with deadline."
+  },
+  {
+    "policy_statement": "Pillar 3: Deliver a robust zero-emission mobility network that connects communities and improves air quality.",
+    "verbatim_text": "The five pillars support the high-level goals of the plan:\n\n3 Deliver a robust zero-emission mobility network that connects communities and improves air quality",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "CLIMATE ACTION STRATEGIES | HOW TO READ THE 2022 CAP",
+    "sector": "Transport",
+    "extraction_rationale": "Named pillar that groups multiple transportation strategies and actions."
+  },
+  {
+    "policy_statement": "Strategy 3.1 Make walking, biking, or transit viable options for all trips (Pillar 3).",
+    "verbatim_text": "1. Makewalking, biking, or transit viable options for all trips | A. Expand high-quality and low-stress on-street bikeways and off-street trails B. Increase Divvy bikes and shared micromobility trips30% by 2030 C. Enable Chicagoans to walk, bike, take transit, or use shared micromobility for 45%ofall trips by 2040",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 3: Deliver a robust zero-emission mobility network that connects communities and improves air quality.",
+    "section_header": "CLIMATE ACTION STRATEGIES (Pillar 3 table)",
+    "sector": "Transport",
+    "extraction_rationale": "Named strategy with multiple actions and quantitative targets."
+  },
+  {
+    "policy_statement": "Expand high-quality and low-stress on-street bikeways and off-street trails, including adding by end of 2024: 25 miles protected bike lanes, 25 miles neighborhood greenways, and eliminating 15 miles of gaps in the bikeways network.",
+    "verbatim_text": "To continue improving community mobility and support citywide transportation emissions reductions, by the end of 2024 the City aims to add 25 more miles of protected bike lanes, 25 more miles of neighborhood greenways, and meet the CDOT Strategic Plan goal of eliminating 15 miles of gaps in the citywide bikeways network.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 3: Deliver a robust zero-emission mobility network that connects communities and improves air quality.",
+    "section_header": "S T R A T E G Y 1 | MAKE WALKING, BIKING, OR TRANSIT VIABLE OPTIONS FOR ALL TRIPS | ACTIONS",
+    "sector": "Transport",
+    "extraction_rationale": "Specific infrastructure expansion commitment with quantified mileage and deadline."
+  },
+  {
+    "policy_statement": "Increase Divvy bikes and shared micromobility trips 30% by 2030.",
+    "verbatim_text": "Increase Divvy bikes and shared micromobility trips 30% by 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 3: Deliver a robust zero-emission mobility network that connects communities and improves air quality.",
+    "section_header": "S T R A T E G Y 1 | MAKE WALKING, BIKING, OR TRANSIT VIABLE OPTIONS FOR ALL TRIPS | ACTIONS",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified ridership target with deadline."
+  },
+  {
+    "policy_statement": "Enable Chicagoans to walk, bike, take transit, or use shared micromobility for 45% of all trips by 2040.",
+    "verbatim_text": "The City will invest in the lowest carbon and highest efficiency modes of transportation to increase walking, biking, transit, and shared micro-mobility use to 45% of all trips by 2040",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 3: Deliver a robust zero-emission mobility network that connects communities and improves air quality.",
+    "section_header": "S T R A T E G Y 1 | MAKE WALKING, BIKING, OR TRANSIT VIABLE OPTIONS FOR ALL TRIPS | ACTIONS",
+    "sector": "Transport",
+    "extraction_rationale": "Mode-share target with a deadline; framed as a City investment commitment."
+  },
+  {
+    "policy_statement": "Strategy 3.2 Increase transit performance and encourage equitable transit-oriented development (Pillar 3).",
+    "verbatim_text": "2. Increase transit performance and encourage equitable transit-oriented development | A. Update land use policies to encourage sustainable devel- opment, accessibility, and street safety by 2023 B. Expand use of commuter benefits by 2024 C. Require transportation demandmanagementplans for newdevelopment by 2025 D. Update citywide car and bike parking requirements by 2025",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 3: Deliver a robust zero-emission mobility network that connects communities and improves air quality.",
+    "section_header": "CLIMATE ACTION STRATEGIES (Pillar 3 table)",
+    "sector": "Transport",
+    "extraction_rationale": "Named strategy with multiple policy actions and deadlines."
+  },
+  {
+    "policy_statement": "Update land use policies to encourage sustainable development, accessibility, and street safety by 2023.",
+    "verbatim_text": "Update land use policies to encourage sustainable development, accessibility, and street safety by 2023",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 3: Deliver a robust zero-emission mobility network that connects communities and improves air quality.",
+    "section_header": "S T R A T E G Y 2 | ACTIONS",
+    "sector": "Transport",
+    "extraction_rationale": "Time-bound land use policy update action."
+  },
+  {
+    "policy_statement": "Expand use of commuter benefits by 2024.",
+    "verbatim_text": "Expand use of commuter benefits by 2024",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 3: Deliver a robust zero-emission mobility network that connects communities and improves air quality.",
+    "section_header": "S T R A T E G Y 2 | ACTIONS",
+    "sector": "Transport",
+    "extraction_rationale": "Time-bound action to expand commuter benefits."
+  },
+  {
+    "policy_statement": "Require transportation demand management plans for new development by 2025.",
+    "verbatim_text": "Require transportation demand management plans for new development by 2025",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 3: Deliver a robust zero-emission mobility network that connects communities and improves air quality.",
+    "section_header": "S T R A T E G Y 2 | ACTIONS",
+    "sector": "Transport",
+    "extraction_rationale": "Regulatory requirement commitment with deadline."
+  },
+  {
+    "policy_statement": "Update citywide car and bike parking requirements by 2025.",
+    "verbatim_text": "Update citywide car and bike parking requirements by 2025\n\nChicago will use this opportunity to modernize parking standards to establish a better balance between all transportation modes (including biking and micromobility options) and make the city safer for pedestrians.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 3: Deliver a robust zero-emission mobility network that connects communities and improves air quality.",
+    "section_header": "S T R A T E G Y 2 | ACTIONS (cont.)",
+    "sector": "Transport",
+    "extraction_rationale": "Time-bound commitment to modernize parking requirements through code updates."
+  },
+  {
+    "policy_statement": "Increase CTA ridership 20% by 2030 (relative to 2019 pre-pandemic baseline).",
+    "verbatim_text": "Increase CTA ridership 20% by 2030\n\nThe 20% increase that this action targets is based on pre-pandemic ridership (2019) though.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 3: Deliver a robust zero-emission mobility network that connects communities and improves air quality.",
+    "section_header": "S T R A T E G Y 2 | ACTIONS (cont.)",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified ridership target with deadline and baseline clarification."
+  },
+  {
+    "policy_statement": "Strategy 3.3 Enable zero-emission transit and fleets (Pillar 3).",
+    "verbatim_text": "3. Enable zero- emission transit and fleets | B. Support equitable electrification of ride-hail and taxi fleets by 2030 C. Enable 100% electrification of delivery fleets by 2035 D. Electrify 100%oftheCity's fleetby2035 E. Achieve zero-emission transit fleets across Chicagoland by 2040",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 3: Deliver a robust zero-emission mobility network that connects communities and improves air quality.",
+    "section_header": "CLIMATE ACTION STRATEGIES (Pillar 3 table)",
+    "sector": "Transport",
+    "extraction_rationale": "Named strategy with multiple fleet/transit electrification actions and deadlines."
+  },
+  {
+    "policy_statement": "Enable electric freight loading docks at commercial and industrial buildings, addressing new buildings by 2025 and existing buildings by 2030.",
+    "verbatim_text": "Enable electric freight loading docks at commercial and industrial buildings, addressing new buildings by 2025 and existing buildings by 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 3: Deliver a robust zero-emission mobility network that connects communities and improves air quality.",
+    "section_header": "S T R A T E G Y 3 | ENABLE ZERO-EMISSION TRANSIT AND FLEETS | ACTIONS",
+    "sector": "Transport",
+    "extraction_rationale": "Specific infrastructure enablement action with two deadlines (new vs existing buildings)."
+  },
+  {
+    "policy_statement": "Support equitable electrification of ride-hail and taxi fleets by 2030.",
+    "verbatim_text": "Support equitable electrification of ride-hail and taxi fleets by 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 3: Deliver a robust zero-emission mobility network that connects communities and improves air quality.",
+    "section_header": "S T R A T E G Y 3 | ENABLE ZERO-EMISSION TRANSIT AND FLEETS | ACTIONS",
+    "sector": "Transport",
+    "extraction_rationale": "Time-bound fleet electrification commitment."
+  },
+  {
+    "policy_statement": "Enable 100% electrification of delivery fleets by 2035.",
+    "verbatim_text": "Enable 100% electrification of delivery fleets by 2035\n\nThe City will enable fleet elec -trification to ensure these providers and others to meet their fleet electrification targets.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 3: Deliver a robust zero-emission mobility network that connects communities and improves air quality.",
+    "section_header": "S T R A T E G Y 3 | ENABLE ZERO-EMISSION TRANSIT AND FLEETS | ACTIONS",
+    "sector": "Transport",
+    "extraction_rationale": "Time-bound commitment focused on delivery fleet electrification."
+  },
+  {
+    "policy_statement": "Electrify 100% of the City's fleet by 2035.",
+    "verbatim_text": "Electrify 100% of the City's fleet by 2035",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 3: Deliver a robust zero-emission mobility network that connects communities and improves air quality.",
+    "section_header": "S T R A T E G Y 3 | ENABLE ZERO-EMISSION TRANSIT AND FLEETS | ACTIONS",
+    "sector": "Transport",
+    "extraction_rationale": "Clear quantified target and deadline for municipal fleet electrification."
+  },
+  {
+    "policy_statement": "Achieve zero-emission transit fleets across Chicagoland by 2040.",
+    "verbatim_text": "Achieve zero-emission transit fleets across Chicagoland by 2040",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 3: Deliver a robust zero-emission mobility network that connects communities and improves air quality.",
+    "section_header": "S T R A T E G Y 3 | ENABLE ZERO-EMISSION TRANSIT AND FLEETS | ACTIONS",
+    "sector": "Transport",
+    "extraction_rationale": "Time-bound regional transit fleet decarbonization commitment."
+  },
+  {
+    "policy_statement": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "verbatim_text": "The five pillars support the high-level goals of the plan:\n\n4 Drive equitable development of Chicago's clean-energy future",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "CLIMATE ACTION STRATEGIES | HOW TO READ THE 2022 CAP",
+    "sector": "Energy",
+    "extraction_rationale": "Named pillar grouping multiple clean energy/electrification/code actions."
+  },
+  {
+    "policy_statement": "Strategy 4.1 Achieve 100% clean renewable energy (Pillar 4).",
+    "verbatim_text": "1. 100%clean renewable energy | A. Aggregate 5,000 megawatts of clean renewable energy within a 250-mile radius of Chicago by 2030 B. Install 30 megawatts of clean renewable energy projects on City property by 2030 C. Achieve 100%clean renewable energy community-wide by 2035",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "section_header": "CLIMATE ACTION STRATEGIES (Pillar 4 table)",
+    "sector": "Energy",
+    "extraction_rationale": "Named strategy with multiple quantified actions and deadlines."
+  },
+  {
+    "policy_statement": "Aggregate 5,000 megawatts of clean renewable energy within a 250-mile radius of Chicago by 2030.",
+    "verbatim_text": "Aggregate 5,000 megawatts of clean renewable energy within a 250-mile radius of Chicago by 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "section_header": "S T R A T E G Y 1 | 100% CLEAN RENEWABLE ENERGY | ACTIONS",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified renewable energy procurement/development target with geographic scope and deadline."
+  },
+  {
+    "policy_statement": "Install 30 megawatts of clean renewable energy projects on City property by 2030.",
+    "verbatim_text": "Install 30 megawatts of clean renewable energy projects on City property by 2030\n\nAs a first step, the City will work with technical consultants and utility partners to assess the feasibility of installing solar arrays on City-owned properties, prioritizing installations in environmental justice and low-income communities.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "section_header": "S T R A T E G Y 1 | 100% CLEAN RENEWABLE ENERGY | ACTIONS",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified target and deadline for renewables on City property with prioritization language."
+  },
+  {
+    "policy_statement": "Achieve 100% clean renewable energy community-wide by 2035.",
+    "verbatim_text": "Achieve 100% clean renewable energy communitywide by 2035\n\nBy 2035, the City will work with utilities to provide 100% clean renewable energy community-wide.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "section_header": "S T R A T E G Y 1 | 100% CLEAN RENEWABLE ENERGY | ACTIONS",
+    "sector": "Energy",
+    "extraction_rationale": "Citywide clean energy target with deadline and delivery mechanism (work with utilities)."
+  },
+  {
+    "policy_statement": "Strategy 4.2 Enable building and personal vehicle electrification (Pillar 4).",
+    "verbatim_text": "2. Enable buildingand personal vehicle electrification | A. Enact policies that support electrified renovations and newconstruction by 2023 B. Electrify 30%oftotal existing residential buildings by 2035 C. Electrify 20%oftotal existing industrial buildings by 2035 D. Electrify 10%of total existing commercial buildings by 2035 E. Electrify 90%oftotal existing City-owned buildings by 2035",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "section_header": "CLIMATE ACTION STRATEGIES (Pillar 4 table)",
+    "sector": "Buildings",
+    "extraction_rationale": "Named strategy with multiple electrification actions and quantified targets."
+  },
+  {
+    "policy_statement": "Enact policies that support electrified renovations and new construction by 2023.",
+    "verbatim_text": "Enact policies that support electrified renovations and new construction by 2023\n\nBy 2023, the City will enable electrified renovations for all existing building types (residen -tial, commercial, and industrial) and new construction.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "section_header": "S T R A T E G Y 2 | ENABLE BUILDING AND PERSONAL VEHICLE ELECTRIFICATION | ACTIONS",
+    "sector": "Buildings",
+    "extraction_rationale": "Time-bound policy action; explicitly states City will enable electrified renovations/new construction."
+  },
+  {
+    "policy_statement": "Electrify 30% of total existing residential buildings by 2035.",
+    "verbatim_text": "Electrify 30% of total existing residential buildings by 2035",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "section_header": "S T R A T E G Y 2 | ENABLE BUILDING AND PERSONAL VEHICLE ELECTRIFICATION | ACTIONS",
+    "sector": "Buildings",
+    "extraction_rationale": "Quantified electrification target with deadline."
+  },
+  {
+    "policy_statement": "Electrify 90% of total existing City-owned buildings by 2035.",
+    "verbatim_text": "Electrify 90% of total existing City-owned buildings by 2035",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "section_header": "S T R A T E G Y 2 | ENABLE BUILDING AND PERSONAL VEHICLE ELECTRIFICATION | ACTIONS (cont.)",
+    "sector": "Buildings",
+    "extraction_rationale": "Quantified electrification target with deadline for City-owned buildings."
+  },
+  {
+    "policy_statement": "Enable 2,500 new public passenger electric vehicle charging stations by 2035, prioritizing low- and middle-income communities.",
+    "verbatim_text": "In coordination with private and public electric vehicle charger operators and building owners, the City will enable the installation of 2,500 new commercial-grade, Level 2 public passenger electric vehicle charging stations by 2035, with priority given to low- and middle-income communities.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "section_header": "S T R A T E G Y 2 | ENABLE BUILDING AND PERSONAL VEHICLE ELECTRIFICATION | ACTIONS (cont.)",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified infrastructure target with deadline and equity prioritization."
+  },
+  {
+    "policy_statement": "Strategy 4.3 Align building codes and standards with climate best practices (Pillar 4).",
+    "verbatim_text": "3. Align building codes and standards with climate best practices | A. Strengthen policies that support installation of green roofs and walls, tree planting, and other vegetative cover by 2023 B. Enable net-zero-carbon construction by 2040",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "section_header": "CLIMATE ACTION STRATEGIES (Pillar 4 table)",
+    "sector": "Buildings",
+    "extraction_rationale": "Named strategy with two time-bound code/standards actions."
+  },
+  {
+    "policy_statement": "Strengthen policies that support installation of green roofs and walls, tree planting, and other vegetative cover by 2023.",
+    "verbatim_text": "Strengthen policies that support installation of green roofs and walls, tree planting, and other vegetative cover by 2023\n\nBy 2023, the City will enable green-roof and green-wall installations, tree planting, and other vegetative cover on both existing buildings and new construction.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "section_header": "S T R A T E G Y 3 | ALIGN BUILDING CODES AND STANDARDS WITH CLIMATE BEST PRACTICES | ACTIONS",
+    "sector": "AFOLU",
+    "extraction_rationale": "Time-bound policy strengthening/enabling action for vegetative cover and green roofs/walls."
+  },
+  {
+    "policy_statement": "Enable net-zero-carbon construction by 2040.",
+    "verbatim_text": "Enable net-zero-carbon construction by 2040\n\nIn alignment with Building Decarbonization Working Group report by the Intergovernmental Panel on Climate Change, the City will enable net-zero-carbon construction by 2040.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "section_header": "S T R A T E G Y 3 | ALIGN BUILDING CODES AND STANDARDS WITH CLIMATE BEST PRACTICES | ACTIONS",
+    "sector": "Buildings",
+    "extraction_rationale": "Clear commitment with deadline to enable net-zero-carbon construction."
+  },
+  {
+    "policy_statement": "Strategy 4.4 Decommission fossil power (Pillar 4).",
+    "verbatim_text": "4. Decommission fossil power | A. Develop a fossil-fuel plants transition strategy by 2024",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "section_header": "CLIMATE ACTION STRATEGIES (Pillar 4 table)",
+    "sector": "Energy",
+    "extraction_rationale": "Named strategy with a specific time-bound action."
+  },
+  {
+    "policy_statement": "Develop a fossil-fuel plants transition strategy (peaker plant transition strategy) by 2024.",
+    "verbatim_text": "Develop a fossil-fuel plants transition strategy by 2024\n\nBy 2024, the City will develop a peaker plant (power plant used only when there is a high demand for electricity) transition strategy with guidance for an equitable, safe, and inclusive process.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "section_header": "S T R A T E G Y 4 | DECOMMISSION FOSSIL POWER | ACTIONS",
+    "sector": "Energy",
+    "extraction_rationale": "Time-bound planning/policy commitment to transition away from peaker plants."
+  },
+  {
+    "policy_statement": "Strategy 4.5 Enable interconnection and storage (Pillar 4).",
+    "verbatim_text": "5. Enable interconnection | A. Ensure 150 megawatts of energy storage by 2025 B. Encourage 1,000 megawattsofnewenergydemand reduction by 2030, and 3,000 megawatts by 2040",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "section_header": "CLIMATE ACTION STRATEGIES (Pillar 4 table)",
+    "sector": "Energy",
+    "extraction_rationale": "Named strategy with quantified storage and demand reduction actions."
+  },
+  {
+    "policy_statement": "Ensure 150 megawatts of energy storage by 2025.",
+    "verbatim_text": "Ensure 150 megawatts of energy storage by 2025\n\nInvesting in energy storage capacity is necessary to enable a full transition to renewable energy.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "section_header": "S T R A T E G Y 5 | ENABLE INTERCONNECTION AND STORAGE | ACTIONS",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified storage capacity target with deadline."
+  },
+  {
+    "policy_statement": "Encourage 1,000 megawatts of new energy demand reduction by 2030, and 3,000 megawatts by 2040.",
+    "verbatim_text": "By achieving 1,000 megawatts of new energy demand reduction capacity by 2030, and increasing to 3,000 megawatts by 2040, Chicagoans will be better protected during extreme weather events",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 4: Drive equitable development of Chicago's clean-energy future.",
+    "section_header": "S T R A T E G Y 5 | ENABLE INTERCONNECTION AND STORAGE | ACTIONS",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified demand reduction targets with deadlines."
+  },
+  {
+    "policy_statement": "Pillar 5: Strengthen communities and protect health.",
+    "verbatim_text": "The five pillars support the high-level goals of the plan:\n\n5 Strengthen communities and protect health",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "CLIMATE ACTION STRATEGIES | HOW TO READ THE 2022 CAP",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Named pillar grouping multiple data, planning, and resiliency actions."
+  },
+  {
+    "policy_statement": "Strategy 5.1 Collect relevant data (Pillar 5).",
+    "verbatim_text": "5 | 1. Collect relevant data | A. Report energy burden by community area by 2023 B. Develop a water and soil quality measurement and miti- gation strategy by 2023 C. Establish a robust outdoor air quality monitoring network by 2025",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 5: Strengthen communities and protect health.",
+    "section_header": "CLIMATE ACTION STRATEGIES (Pillar 5 table)",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Named strategy with multiple time-bound data/monitoring actions."
+  },
+  {
+    "policy_statement": "Report energy burden by community area by 2023.",
+    "verbatim_text": "Report energy burden by community area by 2023\n\nThe City will analyze energy reports and other data sources to identify where building retrofits or energy subsidies are most needed.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 5: Strengthen communities and protect health.",
+    "section_header": "S T R A T E G Y 1 | COLLECT RELEVANT DATA | ACTIONS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Time-bound reporting commitment tied to equity targeting."
+  },
+  {
+    "policy_statement": "Develop a water and soil quality measurement and mitigation strategy by 2023.",
+    "verbatim_text": "Develop a water and soil quality measurement and mitigation strategy by 2023\n\nIn partnership with City-operated facilities, sister agencies, and community-based organizations, proactive measurement, public reporting, and application of water and soil quality data can inform where infrastructure improvements are needed",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 5: Strengthen communities and protect health.",
+    "section_header": "S T R A T E G Y 1 | COLLECT RELEVANT DATA | ACTIONS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Time-bound strategy development commitment including mitigation component."
+  },
+  {
+    "policy_statement": "Establish a robust outdoor air quality monitoring network by 2025.",
+    "verbatim_text": "Establish a robust outdoor air quality monitoring network by 2025\n\nMeasuring and reporting air quality at various sites such as CTA bus and 'L' stations, schools, or city facilities will demonstrate the impact of the City's climate investments",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 5: Strengthen communities and protect health.",
+    "section_header": "S T R A T E G Y 1 | COLLECT RELEVANT DATA | ACTIONS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Time-bound commitment to establish a monitoring network."
+  },
+  {
+    "policy_statement": "Strategy 5.2 Enable data-driven decision-making (Pillar 5).",
+    "verbatim_text": "2. Enable data-driven decision-making | A. Publish clean energy just transition metrics by 2022 B. Integrate community resilience and climate justice criteria into department-level strategic planning and annual budget setting by 2023 C. Develop a Heat Vulnerability Index and integrate into planning and development, community safety, and public health planning processes beginning in 2023 D. Publish citywide and community-level quality-of-life metrics on equity and sustainability by 2023 E. Assess and optimize community-level emergency management strategies related to climate preparedness by 2024",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 5: Strengthen communities and protect health.",
+    "section_header": "CLIMATE ACTION STRATEGIES (Pillar 5 table)",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Named strategy with multiple time-bound governance/metrics actions."
+  },
+  {
+    "policy_statement": "Publish clean energy just transition metrics by 2022.",
+    "verbatim_text": "Publish clean energy just transition metrics by 2022",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 5: Strengthen communities and protect health.",
+    "section_header": "S T R A T E G Y 2 | ENABLE DATA-DRIVEN DECISION-MAKING | ACTIONS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Time-bound commitment to publish metrics."
+  },
+  {
+    "policy_statement": "Integrate community resilience and climate justice criteria into department-level strategic planning and annual budget setting by 2023.",
+    "verbatim_text": "Integrate community resilience and climate justice criteria into department-level strategic planning and annual budget setting by 2023\n\ndepartments will begin to intentionally consider how standard practices can be used to support or impair community resilience and climate justice.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 5: Strengthen communities and protect health.",
+    "section_header": "S T R A T E G Y 2 | ENABLE DATA-DRIVEN DECISION-MAKING | ACTIONS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Time-bound institutionalization of equity criteria in planning and budgets."
+  },
+  {
+    "policy_statement": "Develop a Heat Vulnerability Index and integrate it into planning and development, community safety, and public health planning processes beginning in 2023.",
+    "verbatim_text": "Develop a Heat Vulnerability Index and integrate into planning and development, community safety, and public health planning processes beginning in 2023",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 5: Strengthen communities and protect health.",
+    "section_header": "S T R A T E G Y 2 | ENABLE DATA-DRIVEN DECISION-MAKING | ACTIONS",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific deliverable (index) with start date and integration into planning processes."
+  },
+  {
+    "policy_statement": "Publish citywide and community-level quality-of-life metrics on equity and sustainability by 2023, publicly reported every year.",
+    "verbatim_text": "Publish citywide and community-level qualityof-life metrics on equity and sustainability by 2023\n\nThese metrics will be measured and publicly reported every year.",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 5: Strengthen communities and protect health.",
+    "section_header": "S T R A T E G Y 2 | ENABLE DATA-DRIVEN DECISION-MAKING | ACTIONS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Time-bound commitment plus ongoing annual reporting requirement."
+  },
+  {
+    "policy_statement": "Assess and optimize community-level emergency management strategies related to climate preparedness by 2024.",
+    "verbatim_text": "Assess and optimize community-level emergency management strategies related to climate preparedness by 2024",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 5: Strengthen communities and protect health.",
+    "section_header": "S T R A T E G Y 2 | ENABLE DATA-DRIVEN DECISION-MAKING | ACTIONS",
+    "sector": "Adaptation",
+    "extraction_rationale": "Time-bound commitment related to climate preparedness."
+  },
+  {
+    "policy_statement": "Strategy 5.3 Enable community resiliency (Pillar 5).",
+    "verbatim_text": "3. Enable community resiliency | A. Resource community-led climate infrastructure projects by 2022 B. Integrate community resiliency strategies with the City's hazard mitigation planning by 2023",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 5: Strengthen communities and protect health.",
+    "section_header": "CLIMATE ACTION STRATEGIES (Pillar 5 table)",
+    "sector": "Adaptation",
+    "extraction_rationale": "Named strategy with multiple time-bound resiliency actions."
+  },
+  {
+    "policy_statement": "Resource community-led climate infrastructure projects by 2022.",
+    "verbatim_text": "Resource community-led climate infrastructure projects by 2022\n\nPairing citywide infrastructure investments with community-designed resiliency projects creates more effective and relevant projects",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 5: Strengthen communities and protect health.",
+    "section_header": "S T R A T E G Y 3 | ENABLE COMMUNITY RESILIENCY | ACTIONS",
+    "sector": "Adaptation",
+    "extraction_rationale": "Time-bound resourcing commitment for community-led infrastructure projects."
+  },
+  {
+    "policy_statement": "Integrate community resiliency strategies with the City's hazard mitigation planning by 2023.",
+    "verbatim_text": "Integrate community resiliency strategies with the City's hazard mitigation planning by 2023\n\nAs a part of the next planning cycle, the Office of Emergency Management and Communications (OEMC) will continue to explicitly develop resiliency goals and metrics",
+    "policy_type": "sub",
+    "parent_policy_name": "Pillar 5: Strengthen communities and protect health.",
+    "section_header": "S T R A T E G Y 3 | ENABLE COMMUNITY RESILIENCY | ACTIONS",
+    "sector": "Adaptation",
+    "extraction_rationale": "Time-bound integration commitment into formal hazard mitigation planning."
+  },
+  {
+    "policy_statement": "City of Chicago aims to reduce citywide GHG emissions by a minimum of 62% by 2040 (from 2017 inventory baseline).",
+    "verbatim_text": "Guided by the strategies and actions of this plan, the City of Chicago aims to reduce the city's level of GHG emissions by 62% by 2040, based on 2017 GHG inventory levels.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "ACCOUNTABILITY AND IMPLEMENTATION",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Explicit quantified citywide emissions reduction target with deadline and baseline."
+  },
+  {
+    "policy_statement": "Chicago will not count offset credits toward achieving its 62% GHG reduction goal.",
+    "verbatim_text": "Chicago will not count offset credits toward its 62% GHG reduction goal achievement. Furthermore, the City will reduce its own emissions before taking action beyond its borders.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "CHICAGO GHG EMISSIONS REDUCTION TARGET PATHWAY | The Role of Offsets",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Clear policy constraint on accounting for offsets toward the stated goal."
+  },
+  {
+    "policy_statement": "The City will establish community-led climate advisory boards and forums for regular community participation in implementing, reporting, and achieving 2022 CAP actions.",
+    "verbatim_text": "The City will also establish community-led climate advisory boards and forums for regular community participation in implementing, reporting, and achieving the actions related to the 2022 CAP.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Accountability | Governance and Reporting",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Specific governance action commitment (establish advisory boards/forums)."
+  },
+  {
+    "policy_statement": "The City is investing $188 million in equity-focused climate interventions, including building retrofits, air quality monitoring expansion, and planting over 75,000 trees.",
+    "verbatim_text": "To kickstart the implementation of my administration's climate strategy, we are investing $188 million in equity-focused interventions, spanning building retrofits, the expansion of the air quality monitoring network, to the planting of over 75,000 trees.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Letter from the MAYOR",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Explicit resource allocation with a quantified funding amount and specified intervention areas."
+  },
+  {
+    "policy_statement": "As part of the 2022 budget, the City has committed significant funding to strengthen existing, introduce new, and anticipate future climate initiatives.",
+    "verbatim_text": "As a part of the 2022 budget, the City has committed significant funding to strengthen existing, introduce new, and anticipate future initiatives.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Investing in Climate Equity",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Budget commitment to fund initiatives; while not specifying an amount here, it states a committed funding action."
+  },
+  {
+    "policy_statement": "Chicago has the goal of planting 75,000 trees by 2026.",
+    "verbatim_text": "Together with city departments and community partners, Chicago has the goal of planting 75,000 trees by 2026.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TREE EQUITY",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantified nature-based target with a deadline."
+  },
+  {
+    "policy_statement": "Chicago City Council approved $188 million for climate resiliency and mitigation as part of the Chicago Recovery Plan (October 2021).",
+    "verbatim_text": "In October 2021, Chicago's City Council approved $188 million for climate resiliency and mitigation, as part of Mayor Lori Lightfoot's $2.5 billion Chicago Recovery Plan.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "CLIMATE FINANCING AND DELIVERY CAPACITY",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Specific approved funding allocation with amount and purpose."
+  },
+  {
+    "policy_statement": "Expand canopy coverage by planting 75,000 trees over 5 years (Chicago Recovery Plan investment).",
+    "verbatim_text": "Expand Canopy Coverage | $46 million | Plant 75,000 trees over 5 years in underserved community areas.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chicago Recovery Plan funding overlap with Chicago's 2022 Climate Action Plan",
+    "sector": "AFOLU",
+    "extraction_rationale": "Funded program with budget amount, quantified deliverable, timeframe, and target communities."
+  },
+  {
+    "policy_statement": "Retrofit and decarbonize 200 multifamily affordable housing units in underserved communities (Chicago Recovery Plan investment).",
+    "verbatim_text": "Decarbonize Affordable Multifamily Buildings | $6 million | Retrofit and decarbonize 200 multifamily affordable housing units in underserved communities.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chicago Recovery Plan funding overlap with Chicago's 2022 Climate Action Plan",
+    "sector": "Buildings",
+    "extraction_rationale": "Funded retrofit/decarbonization commitment with quantified units and budget."
+  },
+  {
+    "policy_statement": "Retrofit and decarbonize 250 low- or moderate-income homes in underserved communities (Chicago Recovery Plan investment).",
+    "verbatim_text": "Low- or Moderate-Income (LMI) Housing Retrofits | $15 million | Retrofitanddecarbonize250LMIhomesinunderservedcommunities.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chicago Recovery Plan funding overlap with Chicago's 2022 Climate Action Plan",
+    "sector": "Buildings",
+    "extraction_rationale": "Funded commitment with quantified homes and budget."
+  },
+  {
+    "policy_statement": "Neighborhood Power Project Expansion: complete deep retrofits in at least 10 community anchor buildings and develop a network of resiliency hubs (Chicago Recovery Plan investment).",
+    "verbatim_text": "Neighborhood Power Project Expansion | $10 million | Completedeepretrofits in at least 10 communityanchorbuildings ... Thisprogramaimstodevelopanetworkofresiliencyhubsthroughout Chicago",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chicago Recovery Plan funding overlap with Chicago's 2022 Climate Action Plan",
+    "sector": "Buildings",
+    "extraction_rationale": "Funded program with minimum deliverable (at least 10 buildings) and resiliency hub network aim."
+  },
+  {
+    "policy_statement": "Library Power Project: enable retrofits and install solar panels at up to 10 Chicago Public Libraries (Chicago Recovery Plan investment).",
+    "verbatim_text": "Library Power Project | $5 million | Enable retrofits and install solar panels at up to 10 Chicago Public Libraries",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chicago Recovery Plan funding overlap with Chicago's 2022 Climate Action Plan",
+    "sector": "Buildings",
+    "extraction_rationale": "Funded commitment with quantified number of libraries and budget."
+  },
+  {
+    "policy_statement": "Community solar on industrial roofs: generate solar energy to power at least hundreds of households via community solar in an industrial community, prioritizing subscriptions in EJ/frontline/underserved communities (Chicago Recovery Plan investment).",
+    "verbatim_text": "CommunitySolar on Industrial Roofs | $5 million | Generate solar energy to power at least hundreds of households via a community solarinanindustrialcommunity. Communitysolarsubscriptionstobeprioritizedin environmental justice, frontline, and/or underserved communities",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chicago Recovery Plan funding overlap with Chicago's 2022 Climate Action Plan",
+    "sector": "Energy",
+    "extraction_rationale": "Funded renewable energy program with minimum service scale and equity prioritization."
+  },
+  {
+    "policy_statement": "Install green alleys and develop targeted green infrastructure flood mitigation projects in flood-burdened communities (Chicago Recovery Plan investment).",
+    "verbatim_text": "CommunityGreenInfrastructure Investments | $5 million | Install green alleys anddeveloptargeted green infrastructure flood mitigation projects in flood-burdened communities.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chicago Recovery Plan funding overlap with Chicago's 2022 Climate Action Plan",
+    "sector": "Adaptation",
+    "extraction_rationale": "Funded green infrastructure commitment with budget and specified purpose/target areas."
+  },
+  {
+    "policy_statement": "Install new community compost collection hubs in neighborhoods underserved by organics collection services (Chicago Recovery Plan investment).",
+    "verbatim_text": "CommunityComposting Pilot | $45 thousand | Install new community compost collection hubs in neighborhoods underserved by organics collection services.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chicago Recovery Plan funding overlap with Chicago's 2022 Climate Action Plan",
+    "sector": "Waste",
+    "extraction_rationale": "Funded pilot with clear intervention and target communities."
+  },
+  {
+    "policy_statement": "Invest in municipal fleet electrification combined with EV charging, prioritizing fleet electrification in pollution-burdened neighborhoods (Chicago Recovery Plan investment).",
+    "verbatim_text": "City Fleet and Building Decarbonization | $8.3 million | Invest in municipal fleet electrification combinedwithelectric vehicle charging. This program will prioritize fleet electrification in pollution-burdened neighborhoods.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chicago Recovery Plan funding overlap with Chicago's 2022 Climate Action Plan",
+    "sector": "Transport",
+    "extraction_rationale": "Funded electrification program with budget and explicit prioritization."
+  },
+  {
+    "policy_statement": "Low-Carbon Mobility Projects: expand bike/micromobility infrastructure and walkability investments and provide 5,000 bikes, helmets, and locks to underserved Chicagoans (Chicago Recovery Plan investment).",
+    "verbatim_text": "Low-Carbon Mobility Projects | $10 million | Expansion of bike and micromobility infrastructure and walkability investments in priority communities. This project will provide 5,000 bikes, helmets, and locks to underserved Chicagoans.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chicago Recovery Plan funding overlap with Chicago's 2022 Climate Action Plan",
+    "sector": "Transport",
+    "extraction_rationale": "Funded mobility program with quantified deliverables and target population."
+  },
+  {
+    "policy_statement": "Invest in a citywide air monitoring network and partial remediation of the former Schroud Superfund site (Chicago Recovery Plan investment).",
+    "verbatim_text": "Air Quality Monitoring and Land Remediation Project | $24 million | Investment in a Citywide air monitoring network and partial remediation of the former Schroud Superfund site.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chicago Recovery Plan funding overlap with Chicago's 2022 Climate Action Plan",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Funded environmental monitoring/remediation commitment with budget."
+  },
+  {
+    "policy_statement": "Chicago will support a 3-year review and revision cycle of the 2022 CAP targets.",
+    "verbatim_text": "Our strategy will include:\n\n- Supporting a 3-year review and revision cycle of the 2022 CAP targets",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "ACCOUNTABILITY AND IMPLEMENTATION",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Governance commitment specifying a review/revision cycle frequency."
+  },
+  {
+    "policy_statement": "Chicago Public Schools 'CPS Goes Solar!' aims to achieve 100% renewable energy electricity consumption by 2025.",
+    "verbatim_text": "In January 2021, CPS established the CPS Goes Solar! project, which aims to achieve 100% renewable energy electricity consumption by 2025.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "S T R A T E G Y 1 | 100% CLEAN RENEWABLE ENERGY (case study)",
+    "sector": "Energy",
+    "extraction_rationale": "Specific named project with quantified target and deadline."
+  }
+]

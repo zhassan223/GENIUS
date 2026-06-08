@@ -1,0 +1,61 @@
+{
+  "doc_id": "Liberia_58a86d7e1b",
+  "total_chunks": 1,
+  "total_policies_before_resolve": 32,
+  "total_policies_after_resolve": 32,
+  "resolver_stats": {
+    "input_count": 32,
+    "dedup_removed": 0,
+    "statement_dedup_removed": 0,
+    "deterministic_links": 11,
+    "llm_arbitrated": 0,
+    "orphan_count": 0,
+    "output_count": 32
+  },
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "word_count": 30088,
+      "has_overlap": false,
+      "ancestor_headings": [],
+      "policies_extracted": 32,
+      "elapsed_seconds": 0.02,
+      "carry_forward_length": 0,
+      "error": null
+    }
+  ],
+  "chunk_provenance": {
+    "The National Adaptation Plan (NAP) Process will serve as a 10-year blueprint (2020–2030) guiding adaptation planning and implementation, with a review around 2029 and a new framework developed for 2031–2040.": 0,
+    "Liberia’s NAP Process (2020–2030) will reduce vulnerability and build adaptive capacity/resilience, and facilitate integration of climate change adaptation into fiscal, regulatory, and development policies, programs, and activities.": 0,
+    "The GCF-funded NAP project will focus on four outputs: strengthening institutional frameworks/coordination for NAP implementation, expanding the knowledge base for scaling up adaptation, building capacity to mainstream adaptation into planning and budgeting, and formulating financing mechanisms for scaling up adaptation.": 0,
+    "NAP Process Objective 1 will implement actions to improve climate projections and adaptation technology planning, including developing downscaled projections and an adaptation technology roadmap.": 0,
+    "Liberia will prepare and deploy an online climate data integration system for monitoring, dissemination, and awareness-raising on climate change impacts, using platforms such as the CCKS/EKMS managed by the EPA.": 0,
+    "Liberia will formulate a capacity-building strategy for adaptation including awareness/public mobilization, training professionals and vulnerable groups, and strengthening institutions and research for adaptation knowledge dissemination.": 0,
+    "Liberia will deploy a NAP monitoring and evaluation (M&E) system integrating adaptation into monitoring systems and including adaptation actions of government and sectors.": 0,
+    "Liberia will draft and initiate adaptation strategies by forming an inter-governmental working group and supporting formulation and preparation of an adaptation strategy with methodologies, inputs, and training.": 0,
+    "Liberia will develop and deploy sectoral climate risk and vulnerability assessments, including sector-specific monitoring methodologies and improved modeling/estimation methods for climate change risk.": 0,
+    "Liberia will establish a climate intelligence center at the EPA, including support systems for spatial/integrated analysis and an agriculture communication and early-warning component.": 0,
+    "Liberia will implement proposed adaptation strategies through sectoral strategies under the NAP Process for priority sectors (agriculture, coastal zones, forestry, energy, waste management, fisheries) and cross-cutting sectors (water resources, biodiversity).": 0,
+    "Agriculture adaptation strategy: strengthen Ministry of Agriculture capacity; improve integrated pest/disease/weed management and resistant varieties; assess crop vulnerability/suitability by agro-ecological zones; and enhance climate-proof agro-infrastructure to raise farmer productivity.": 0,
+    "Agriculture adaptation strategy: support communities via indigenous knowledge dissemination, insurance schemes, early warning/early action systems, vaccination campaigns and disease control to cope with climate variability.": 0,
+    "Agriculture adaptation strategy: develop and introduce integrated soil fertility management, water harvesting, and conservation techniques to improve soil fertility and cope with aridity, waterlogging and floods.": 0,
+    "Agriculture adaptation strategy: strengthen CARI capacity for climate-smart agriculture, including establishing seed banks and improving soil management, crop diversification, and livestock breeds; and develop climate-resilient crops including drought-resistant and flood-tolerant varieties and gene banks.": 0,
+    "Coastal adaptation strategy: develop and implement coastal zone policy/design/management plan; develop an integrated coastal management plan and early warning system with training; promote disaster risk management and preparedness; rehabilitate and protect wetlands and mangroves; and climate-proof new coastal infrastructure investments.": 0,
+    "Coastal adaptation strategy: design and implement a strategic communication action plan to inform and educate the public on climate change-related coastal changes, challenges, and adaptation options.": 0,
+    "Energy adaptation strategy: establish and promote a national solar energy program and other energy-efficient lighting technologies, including provision of energy-efficient technologies for schools, public institutions, and households.": 0,
+    "Energy adaptation strategy: promote energy plantations to reduce pressure on natural forests, regulate sustainable biomass energy use, support community-based off-grid/mini-grids, conserve/protect water catchments for hydropower and municipal supply, and prevent sedimentation affecting hydropower generation.": 0,
+    "Fisheries adaptation strategy: strengthen capacity of fisheries authorities for research/monitoring/enforcement; support artisanal fishing communities with training, gear and alternative livelihoods; establish monitoring/reporting/verification and adaptive management; support research on climate pressures; identify/map/protect valuable fisheries areas including marine protected areas; reduce external stressors via regulatory measures; integrate fisheries into national adaptation and food security policies; establish early warning and information/communication networks; and regulate fishing to prevent overexploitation.": 0,
+    "Forestry adaptation strategy: strengthen FDA capacity and logistics; implement sustainable/alternative livelihoods for forest-dependent communities; promote community forest activities beyond timber extraction; establish comprehensive forest (including NTFPs) monitoring; implement reforestation/afforestation in degraded areas; map and manage forest water catchments; consolidate protected area networks with landscape connectivity; strengthen coordination with other agencies; enforce anti-poaching regulations and a wildlife code of ethics; and implement communication strategies to raise awareness on climate impacts and adaptation.": 0,
+    "Waste management adaptation/mitigation strategy: strengthen community and institutional capacity for integrated waste management; develop an integrated waste management strategy prioritizing waste prevention and low-GHG technologies compatible with methane capture for electricity; promote PPP financing for waste infrastructure; implement composting to convert urban waste into inputs for agriculture; and develop landfills for major cities including methane recovery and power generation using CDM and NAMAs.": 0,
+    "Water resources cross-cutting adaptation action will fast-track mainstreaming climate change into water resources management and establish a surveillance team on water resource vulnerability.": 0,
+    "Biodiversity cross-cutting adaptation action will establish a working group to scope and prioritize ecosystem-based adaptation (EbA) measures, assess climate change impacts on biodiversity/ecosystems, and fast-track integration of EbA approaches into Liberia’s overall adaptation response.": 0,
+    "Institutional arrangements for NAP implementation will include a National Climate Change Steering Committee (NCCSC), EPA as lead agency, and the National Climate Change Secretariat (NCCS) with defined roles for validation, coordination, reporting, and recordkeeping.": 0,
+    "GoL, through the EPA, will form Local Adaptation Plan Committees to support implementation of the NAP Process and develop local-level adaptive capacity-building to facilitate communities.": 0,
+    "The EPA and Ministry of Internal Affairs will coordinate with subnational levels for NAP implementation, with EPA providing experts to work with districts and villages/communities, and adaptation strategy projects implemented at subnational level.": 0,
+    "GoL through the EPA will establish mechanisms to increase access to climate finance (including the Green Climate Fund) and will develop a pipeline of investment-grade adaptation projects/programmes to attract partner and private sector finance.": 0,
+    "EPA, with MFDP, will establish a Climate Public Expenditure and Institutional Review (CPEIR) and a climate finance tracking system to identify existing climate expenditures and on-budget entry points for incorporating climate change into the national budget.": 0,
+    "Each ministry/agency will conduct internal monitoring of NAP implementation and submit quarterly and annual monitoring reports to the EPA; the EPA will provide technical support and compile national quarterly and annual summary reports for submission to national planning and higher bodies.": 0,
+    "EPA will lead annual assessments of sector implementation of adaptation strategies and report findings to the National Climate Change Steering Committee (NCCSC), alongside ongoing sector evaluations (quarterly and annual).": 0,
+    "The reporting, monitoring, and review system will support reporting on NAP progress to the UNFCCC Conference of Parties (CoP), and the NAP will be disseminated internationally through the UNFCCC secretariat with regular progress reports via national communications and other channels.": 0
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "doc_id": "Budapest_Hungary_8fb4d3d7fa",
+  "total_chunks": 1,
+  "total_policies_before_resolve": 6,
+  "total_policies_after_resolve": 6,
+  "resolver_stats": {
+    "input_count": 6,
+    "dedup_removed": 0,
+    "statement_dedup_removed": 0,
+    "deterministic_links": 0,
+    "llm_arbitrated": 0,
+    "orphan_count": 0,
+    "output_count": 6
+  },
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "word_count": 18349,
+      "has_overlap": false,
+      "ancestor_headings": [],
+      "policies_extracted": 6,
+      "elapsed_seconds": 15.42,
+      "carry_forward_length": 0,
+      "error": null
+    }
+  ],
+  "chunk_provenance": {
+    "The Government should provide a mechanism defining when and on what basis a decision will be made on the back-end of the nuclear fuel cycle.": 0,
+    "HAEA should consider completing development of safety regulations for management and disposal of very low activity level radioactive waste.": 0,
+    "The Government should consider approving an updated national program without undue delay, taking into account the Paks II project and other relevant technical circumstances.": 0,
+    "PURAM should consider demonstrating compatibility of the KBS-3V disposal concept with the envisaged host rock by developing a preliminary safety case early in deep geological disposal facility development.": 0,
+    "HAEA should consider assessing and developing its resources and competences to fulfil responsibilities for radioactive waste and spent fuel safety, particularly for deep geological and very low activity level waste disposal facilities.": 0,
+    "PURAM should consider strengthening its management system to support decommissioning of Paks NPP, ensuring facility knowledge is collected, preserved, and available for further use.": 0
+  }
+}

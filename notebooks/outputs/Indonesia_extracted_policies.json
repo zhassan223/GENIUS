@@ -1,0 +1,596 @@
+[
+  {
+    "policy_statement": "Indonesia submits the Long-Term Strategy for Low Carbon and Climate Resilience 2050 (LTS-LCCR 2050) to provide long-term national policy direction on climate change mitigation and adaptation pathways.",
+    "verbatim_text": "Responding to this mandate, Indonesia submits Long-Term Strategy for Low Carbon and Climate Resilience 2050, which aims to contribute to global goal and to achieve national development objectives, taking into consideration the balance between emission reduction, economic growth, justice and climate resilience development. The LTS-LCCR 2050 provides long-term national policy direction on climate change, with the pathway scenario based on the best available science.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "FOREWORD / I. LONG-TERM VISION",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Named national strategy document submitted as the country’s long-term climate policy direction, describing intended implementation focus and pathways."
+  },
+  {
+    "policy_statement": "Indonesia commits to an updated First NDC target of 29% (unconditional) and up to 41% (conditional) GHG reduction versus BAU by 2030.",
+    "verbatim_text": "In the First NDC, Indonesia has unconditional target of 29% and conditional target up to 41% compared to business as usual in 2030.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "PREFACE",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Quantified national mitigation targets with a 2030 timeline."
+  },
+  {
+    "policy_statement": "Under the LTS-LCCR, Indonesia aims to peak national GHG emissions in 2030 with a net-sink in the forest and land-use sector, reach 540 MtCO2e by 2050, and explore progressing toward net-zero emissions by 2060 or sooner.",
+    "verbatim_text": "Through LTS-LCCR 2050, Indonesia will increase ambition on GHG reduction by achieving the peaking of national GHG emissions in 2030 with net-sink of forest and land-use sector, reaching 540 Mton CO2e by 2050, and with further exploring opportunity to rapidly progress towards net-zero emission in 2060 or sooner.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "PREFACE / 1.1. Mitigation",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Contains quantified targets and timelines (2030 peak, 2050 level, 2060 net-zero exploration)."
+  },
+  {
+    "policy_statement": "Indonesia sets an adaptation pathways goal to reduce climate change impacts on national GDP loss by 3.45% in 2050 by increasing resilience in food, water, energy, and environmental health across economic, social/livelihood, and ecosystem/landscape resilience areas.",
+    "verbatim_text": "The LTS-LCCR 2050 sets the goal of adaptation pathways to reduce the impact of climate change on national GDP loss by 3.45% in 2050, through increasing resilience in four basic necessities (food, water, energy, and environmental health), with three target areas of resilience (economy, social and livelihood, ecosystem and landscape).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "PREFACE / 1.2. Adaptation",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit quantified adaptation objective with timeframe and defined resilience domains."
+  },
+  {
+    "policy_statement": "Indonesia ratified the Paris Agreement through Law No. 16/2016 as a national legal basis for climate action.",
+    "verbatim_text": "Indonesia's commitment to the Paris Agreement has been translated into : (i) ratification of the Paris Agreement with the highest regulatory instrument (Law No. 16/2016).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "I. LONG-TERM VISION",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Binding legal instrument explicitly named as ratifying the Paris Agreement."
+  },
+  {
+    "policy_statement": "Law No. 32/2009 on Environmental Protection and Management provides a legal basis for developing the LTS-LCCR and aims to protect environmental functions, enforce wise use of natural resources, achieve sustainable development, and anticipate global environmental issues.",
+    "verbatim_text": "Law No. 32/2009 regarding Environmental Protection and Management with its objectives to protect environmental function sustainability, enforce the wise use of natural resources, achieve sustainable development and anticipate global environmental issues, has provided a strong legal basis for the development of LTS-LCCR.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "I. LONG-TERM VISION",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Explicit law with stated objectives and described role as legal basis."
+  },
+  {
+    "policy_statement": "AFOLU-related policies and measures supporting REDD+ and forest governance include a peatland license moratorium, mandatory sustainable forest management certification, strategic environmental assessments (SEAs) via landscape approach, environmental economic instruments, and establishment of the Environmental Fund Management Agency (BPDLH).",
+    "verbatim_text": "This successful endeavour has been supported by a number of PaMs including: (i) Presidential Instruction No. 5/2019 on termination of new license issuance on peatland, (ii) implementation of mandatory certification for sustainable forest management, (iii) Government Regulation No. 46/2016 on strategic environmental assessments (SEAs) through landscape approach aiming at securing food, water, and energy security based on sound ecosystem management, (iv) Government Regulation No. 46/2017 on Environmental Economic Instrument, and (v) Presidential Regulation No. 77/2018 on the establishment of Environmental Fund Management Agency (BPDLH).",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "1.1.1. AFOLU",
+    "sector": "AFOLU",
+    "extraction_rationale": "Introduces a list of specific named policies/measures; functions as an umbrella set of PaMs."
+  },
+  {
+    "policy_statement": "Terminate issuance of new licenses on peatland under Presidential Instruction No. 5/2019.",
+    "verbatim_text": "This successful endeavour has been supported by a number of PaMs including: (i) Presidential Instruction No. 5/2019 on termination of new license issuance on peatland.",
+    "policy_type": "sub",
+    "parent_policy_name": "AFOLU-related policies and measures supporting REDD+ and forest governance include a peatland license moratorium, mandatory sustainable forest management certification, strategic environmental assessments (SEAs) via landscape approach, environmental economic instruments, and establishment of the Environmental Fund Management Agency (BPDLH).",
+    "section_header": "1.1.1. AFOLU",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific binding government instruction described as a policy measure."
+  },
+  {
+    "policy_statement": "Implement mandatory certification for sustainable forest management.",
+    "verbatim_text": "This successful endeavour has been supported by a number of PaMs including: (ii) implementation of mandatory certification for sustainable forest management.",
+    "policy_type": "sub",
+    "parent_policy_name": "AFOLU-related policies and measures supporting REDD+ and forest governance include a peatland license moratorium, mandatory sustainable forest management certification, strategic environmental assessments (SEAs) via landscape approach, environmental economic instruments, and establishment of the Environmental Fund Management Agency (BPDLH).",
+    "section_header": "1.1.1. AFOLU",
+    "sector": "AFOLU",
+    "extraction_rationale": "Explicit regulatory/standards intervention."
+  },
+  {
+    "policy_statement": "Apply Government Regulation No. 46/2016 on Strategic Environmental Assessments (SEAs) using a landscape approach to secure food, water, and energy security based on sound ecosystem management.",
+    "verbatim_text": "This successful endeavour has been supported by a number of PaMs including: (iii) Government Regulation No. 46/2016 on strategic environmental assessments (SEAs) through landscape approach aiming at securing food, water, and energy security based on sound ecosystem management.",
+    "policy_type": "sub",
+    "parent_policy_name": "AFOLU-related policies and measures supporting REDD+ and forest governance include a peatland license moratorium, mandatory sustainable forest management certification, strategic environmental assessments (SEAs) via landscape approach, environmental economic instruments, and establishment of the Environmental Fund Management Agency (BPDLH).",
+    "section_header": "1.1.1. AFOLU",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Named regulation with defined purpose and mechanism (SEA/landscape approach)."
+  },
+  {
+    "policy_statement": "Implement Government Regulation No. 46/2017 on Environmental Economic Instruments.",
+    "verbatim_text": "This successful endeavour has been supported by a number of PaMs including: (iv) Government Regulation No. 46/2017 on Environmental Economic Instrument.",
+    "policy_type": "sub",
+    "parent_policy_name": "AFOLU-related policies and measures supporting REDD+ and forest governance include a peatland license moratorium, mandatory sustainable forest management certification, strategic environmental assessments (SEAs) via landscape approach, environmental economic instruments, and establishment of the Environmental Fund Management Agency (BPDLH).",
+    "section_header": "1.1.1. AFOLU",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Named regulation establishing economic instruments for environmental management."
+  },
+  {
+    "policy_statement": "Establish the Environmental Fund Management Agency (BPDLH) via Presidential Regulation No. 77/2018.",
+    "verbatim_text": "This successful endeavour has been supported by a number of PaMs including: (v) Presidential Regulation No. 77/2018 on the establishment of Environmental Fund Management Agency (BPDLH).",
+    "policy_type": "sub",
+    "parent_policy_name": "AFOLU-related policies and measures supporting REDD+ and forest governance include a peatland license moratorium, mandatory sustainable forest management certification, strategic environmental assessments (SEAs) via landscape approach, environmental economic instruments, and establishment of the Environmental Fund Management Agency (BPDLH).",
+    "section_header": "1.1.1. AFOLU",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Creates an institution to manage environmental/climate-related funds."
+  },
+  {
+    "policy_statement": "Indonesia sets four guiding pillars for the long-term low carbon strategy in the energy sector: energy efficiency; decarbonized electricity in transport and buildings; fuel shift from coal to gas and renewables in industry; and enhanced renewable energy in power, transport and industry.",
+    "verbatim_text": "Four following guiding pillars were used to develop long-term low carbon strategy in energy sector: (i) implementation of energy efficiency measures; (ii) use of decarbonized electricity in transport and buildings; (iii) fuel shift from coal to gas and renewables in industry; and (iv) enhancement of renewable energy in power, transport and industry.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "1.1.2. Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Defines an action framework with enumerated measures suitable for parent/sub extraction."
+  },
+  {
+    "policy_statement": "Implement energy efficiency measures as part of the long-term low carbon energy strategy.",
+    "verbatim_text": "Four following guiding pillars were used to develop long-term low carbon strategy in energy sector: (i) implementation of energy efficiency measures.",
+    "policy_type": "sub",
+    "parent_policy_name": "Indonesia sets four guiding pillars for the long-term low carbon strategy in the energy sector: energy efficiency; decarbonized electricity in transport and buildings; fuel shift from coal to gas and renewables in industry; and enhanced renewable energy in power, transport and industry.",
+    "section_header": "1.1.2. Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Specific intervention pillar."
+  },
+  {
+    "policy_statement": "Use decarbonized electricity in transport and buildings as part of the long-term low carbon energy strategy.",
+    "verbatim_text": "Four following guiding pillars were used to develop long-term low carbon strategy in energy sector: (ii) use of decarbonized electricity in transport and buildings.",
+    "policy_type": "sub",
+    "parent_policy_name": "Indonesia sets four guiding pillars for the long-term low carbon strategy in the energy sector: energy efficiency; decarbonized electricity in transport and buildings; fuel shift from coal to gas and renewables in industry; and enhanced renewable energy in power, transport and industry.",
+    "section_header": "1.1.2. Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Specific intervention pillar."
+  },
+  {
+    "policy_statement": "Shift industrial fuel use from coal to gas and renewables as part of the long-term low carbon energy strategy.",
+    "verbatim_text": "Four following guiding pillars were used to develop long-term low carbon strategy in energy sector: (iii) fuel shift from coal to gas and renewables in industry.",
+    "policy_type": "sub",
+    "parent_policy_name": "Indonesia sets four guiding pillars for the long-term low carbon strategy in the energy sector: energy efficiency; decarbonized electricity in transport and buildings; fuel shift from coal to gas and renewables in industry; and enhanced renewable energy in power, transport and industry.",
+    "section_header": "1.1.2. Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Specific intervention pillar."
+  },
+  {
+    "policy_statement": "Enhance renewable energy in power, transport, and industry as part of the long-term low carbon energy strategy.",
+    "verbatim_text": "Four following guiding pillars were used to develop long-term low carbon strategy in energy sector: (iv) enhancement of renewable energy in power, transport and industry.",
+    "policy_type": "sub",
+    "parent_policy_name": "Indonesia sets four guiding pillars for the long-term low carbon strategy in the energy sector: energy efficiency; decarbonized electricity in transport and buildings; fuel shift from coal to gas and renewables in industry; and enhanced renewable energy in power, transport and industry.",
+    "section_header": "1.1.2. Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Specific intervention pillar."
+  },
+  {
+    "policy_statement": "In forestry and other land uses, Indonesia identifies actions required to reduce emissions and achieve net sink (2050 under CPOS; 2030 under LCCP), including reducing deforestation/peat emissions, increasing sequestration via reduced degradation and enhanced regeneration, peatland restoration, forest restoration/sink enhancement, sustainable forest management, and maximizing use of unproductive lands.",
+    "verbatim_text": "Efforts to significantly reduce the emission of this sector and turn it into net sink by 2050 under CPOS and by 2030 under LCCP depends primarily on the success of the following actions: (i) reducing emission from deforestation and peatland (peat decomposition and peat fire); (ii) increasing the capacity of natural forest in sequestering carbon (by reducing degradation and enhancing the regeneration); (iii) restoring peatland, (iv) implementing forest restoration (enrichment planting/sink enhancement), (v) adopting sustainable forest management practices; and (vi) maximizing the use of unproductive lands (idle lands) for the establishment of forest and agriculture plantations.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.1. Forestry and Other Land Uses",
+    "sector": "AFOLU",
+    "extraction_rationale": "Clear umbrella list of required actions with CPOS/LCCP timelines."
+  },
+  {
+    "policy_statement": "Reduce emissions from deforestation and peatland (peat decomposition and peat fire).",
+    "verbatim_text": "Efforts to significantly reduce the emission of this sector and turn it into net sink by 2050 under CPOS and by 2030 under LCCP depends primarily on the success of the following actions: (i) reducing emission from deforestation and peatland (peat decomposition and peat fire).",
+    "policy_type": "sub",
+    "parent_policy_name": "In forestry and other land uses, Indonesia identifies actions required to reduce emissions and achieve net sink (2050 under CPOS; 2030 under LCCP), including reducing deforestation/peat emissions, increasing sequestration via reduced degradation and enhanced regeneration, peatland restoration, forest restoration/sink enhancement, sustainable forest management, and maximizing use of unproductive lands.",
+    "section_header": "4.2.1.1. Forestry and Other Land Uses",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific mitigation action item."
+  },
+  {
+    "policy_statement": "Increase natural forest carbon sequestration capacity by reducing degradation and enhancing regeneration.",
+    "verbatim_text": "Efforts to significantly reduce the emission of this sector and turn it into net sink by 2050 under CPOS and by 2030 under LCCP depends primarily on the success of the following actions: (ii) increasing the capacity of natural forest in sequestering carbon (by reducing degradation and enhancing the regeneration).",
+    "policy_type": "sub",
+    "parent_policy_name": "In forestry and other land uses, Indonesia identifies actions required to reduce emissions and achieve net sink (2050 under CPOS; 2030 under LCCP), including reducing deforestation/peat emissions, increasing sequestration via reduced degradation and enhanced regeneration, peatland restoration, forest restoration/sink enhancement, sustainable forest management, and maximizing use of unproductive lands.",
+    "section_header": "4.2.1.1. Forestry and Other Land Uses",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific mitigation action item."
+  },
+  {
+    "policy_statement": "Restore peatland.",
+    "verbatim_text": "Efforts to significantly reduce the emission of this sector and turn it into net sink by 2050 under CPOS and by 2030 under LCCP depends primarily on the success of the following actions: (iii) restoring peatland.",
+    "policy_type": "sub",
+    "parent_policy_name": "In forestry and other land uses, Indonesia identifies actions required to reduce emissions and achieve net sink (2050 under CPOS; 2030 under LCCP), including reducing deforestation/peat emissions, increasing sequestration via reduced degradation and enhanced regeneration, peatland restoration, forest restoration/sink enhancement, sustainable forest management, and maximizing use of unproductive lands.",
+    "section_header": "4.2.1.1. Forestry and Other Land Uses",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific mitigation action item."
+  },
+  {
+    "policy_statement": "Implement forest restoration (enrichment planting/sink enhancement).",
+    "verbatim_text": "Efforts to significantly reduce the emission of this sector and turn it into net sink by 2050 under CPOS and by 2030 under LCCP depends primarily on the success of the following actions: (iv) implementing forest restoration (enrichment planting/sink enhancement).",
+    "policy_type": "sub",
+    "parent_policy_name": "In forestry and other land uses, Indonesia identifies actions required to reduce emissions and achieve net sink (2050 under CPOS; 2030 under LCCP), including reducing deforestation/peat emissions, increasing sequestration via reduced degradation and enhanced regeneration, peatland restoration, forest restoration/sink enhancement, sustainable forest management, and maximizing use of unproductive lands.",
+    "section_header": "4.2.1.1. Forestry and Other Land Uses",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific mitigation action item."
+  },
+  {
+    "policy_statement": "Adopt sustainable forest management practices.",
+    "verbatim_text": "Efforts to significantly reduce the emission of this sector and turn it into net sink by 2050 under CPOS and by 2030 under LCCP depends primarily on the success of the following actions: (v) adopting sustainable forest management practices.",
+    "policy_type": "sub",
+    "parent_policy_name": "In forestry and other land uses, Indonesia identifies actions required to reduce emissions and achieve net sink (2050 under CPOS; 2030 under LCCP), including reducing deforestation/peat emissions, increasing sequestration via reduced degradation and enhanced regeneration, peatland restoration, forest restoration/sink enhancement, sustainable forest management, and maximizing use of unproductive lands.",
+    "section_header": "4.2.1.1. Forestry and Other Land Uses",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific mitigation action item."
+  },
+  {
+    "policy_statement": "Maximize the use of unproductive (idle) lands for establishing forest and agriculture plantations.",
+    "verbatim_text": "Efforts to significantly reduce the emission of this sector and turn it into net sink by 2050 under CPOS and by 2030 under LCCP depends primarily on the success of the following actions: (vi) maximizing the use of unproductive lands (idle lands) for the establishment of forest and agriculture plantations.",
+    "policy_type": "sub",
+    "parent_policy_name": "In forestry and other land uses, Indonesia identifies actions required to reduce emissions and achieve net sink (2050 under CPOS; 2030 under LCCP), including reducing deforestation/peat emissions, increasing sequestration via reduced degradation and enhanced regeneration, peatland restoration, forest restoration/sink enhancement, sustainable forest management, and maximizing use of unproductive lands.",
+    "section_header": "4.2.1.1. Forestry and Other Land Uses",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific mitigation action item."
+  },
+  {
+    "policy_statement": "To avoid further conversion of forest, Indonesia establishes key regulations including Government Regulation No. 104/2015, Presidential Instruction No. 5/2019, and Government Regulation No. 46/2016 on SEAs.",
+    "verbatim_text": "To avoid further conversion of forest, Indonesia has issued a number of regulations. Some of key regulations are:\n\n1. Government Regulation No.104/2015 on the changes of forest land use and function...\n2. Presidential Instruction No. 5/2019 on Termination of New Permit and Improvement of Primary Natural Forest and Peatland Governance; and\n3. Government Regulation No. 46/2016 on strategic environmental assessments (SEAs)...",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.1. Forestry and Other Land Uses – a. Avoiding Deforestation",
+    "sector": "AFOLU",
+    "extraction_rationale": "Umbrella list of ‘key regulations’ explicitly issued to avoid forest conversion."
+  },
+  {
+    "policy_statement": "Ban conversion of forested land (productive production forest) in forest areas for APL, except where non-forested lands in production forest are not available, under Government Regulation No. 104/2015.",
+    "verbatim_text": "Government Regulation No.104/2015 on the changes of forest land use and function, which ban the conversion of forested land (productive production forest) in forest area for APL, except in the province where the non-forested lands in the production forest are not available;",
+    "policy_type": "sub",
+    "parent_policy_name": "To avoid further conversion of forest, Indonesia establishes key regulations including Government Regulation No. 104/2015, Presidential Instruction No. 5/2019, and Government Regulation No. 46/2016 on SEAs.",
+    "section_header": "4.2.1.1. Forestry and Other Land Uses – a. Avoiding Deforestation",
+    "sector": "AFOLU",
+    "extraction_rationale": "Explicit regulatory ban with conditional exception."
+  },
+  {
+    "policy_statement": "Terminate new permits and improve primary natural forest and peatland governance under Presidential Instruction No. 5/2019.",
+    "verbatim_text": "Presidential Instruction No. 5/2019 on Termination of New Permit and Improvement of Primary Natural Forest and Peatland Governance; and",
+    "policy_type": "sub",
+    "parent_policy_name": "To avoid further conversion of forest, Indonesia establishes key regulations including Government Regulation No. 104/2015, Presidential Instruction No. 5/2019, and Government Regulation No. 46/2016 on SEAs.",
+    "section_header": "4.2.1.1. Forestry and Other Land Uses – a. Avoiding Deforestation",
+    "sector": "AFOLU",
+    "extraction_rationale": "Named presidential instruction with clear governance/permit objective."
+  },
+  {
+    "policy_statement": "Use Government Regulation No. 46/2016 on SEAs to guide integrated, comprehensive, spatially explicit land-use planning aimed at food, water, and energy security based on ecosystem management.",
+    "verbatim_text": "Government Regulation No. 46/2016 on strategic environmental assessments (SEAs), which provide guidance on the integrated, comprehensive, spatially explicit land use planning at national and subnational level aiming at food, water, and energy security based on sound ecosystem management.",
+    "policy_type": "sub",
+    "parent_policy_name": "To avoid further conversion of forest, Indonesia establishes key regulations including Government Regulation No. 104/2015, Presidential Instruction No. 5/2019, and Government Regulation No. 46/2016 on SEAs.",
+    "section_header": "4.2.1.1. Forestry and Other Land Uses – a. Avoiding Deforestation",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Explicit planning guidance and purpose."
+  },
+  {
+    "policy_statement": "In RPJMN 2020–2024, Indonesia expands forest areas that need to be protected based on ecosystem services from 51.8 Mha to 65.3 Mha (inside and outside forest areas).",
+    "verbatim_text": "In the National Medium-Term Development Plan (RPJMN) 2020-2024, forest area that need to be protected based on the value of ecosystem services of the forest, are expanded from 51.8 Mha to 65.3 Mha, which are located inside and outside forest area.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.1. Forestry and Other Land Uses – a. Avoiding Deforestation",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantified protection-area expansion target embedded in a national plan."
+  },
+  {
+    "policy_statement": "Under REDD+, local governments and concessions conserving forest beyond existing regulations are eligible for Result-based Payments under Ministerial Regulation (MoEF) No. 70/2017.",
+    "verbatim_text": "Under the implementation of REDD+, the local governments and concessions who can conserved the forest beyond the existing regulation, are eligible for receiving Result-based Payment (RBP) under the Ministerial Regulation (Minister for Environment and Forestry) No. 70/2017.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.1. Forestry and Other Land Uses – a. Avoiding Deforestation",
+    "sector": "AFOLU",
+    "extraction_rationale": "Defines an incentive mechanism with a specific regulation."
+  },
+  {
+    "policy_statement": "Indonesia implements mandatory certification for sustainable management practices in production forests through Ministerial Regulation No. 30/2016 (MoEF).",
+    "verbatim_text": "Indonesia has issued mandatory certification systems (Ministerial Regulation No. 30/ 2016 by the Minister of Environment and Forestry) that push the adoption of sustainable management practices in the production forests.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.1. Forestry and Other Land Uses – b. Conservation and Sustainable Forest Management",
+    "sector": "AFOLU",
+    "extraction_rationale": "Named regulation requiring certification to drive sustainable forest management."
+  },
+  {
+    "policy_statement": "Under LCCP, Indonesia targets restoration of production forests via Enhanced Natural Regeneration (ENR) to reach about 1.70 Mha after 2030 and 8.8 Mha by 2050.",
+    "verbatim_text": "It is expected that under LCCP, area of production forest that being restored through the ENR programme after 2030 should reach about 1.70 Mha... and by 2050 it will reach 8.8 Mha",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.1. Forestry and Other Land Uses – b. Conservation and Sustainable Forest Management",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantified restoration targets under the LCCP scenario."
+  },
+  {
+    "policy_statement": "Under Presidential Instruction No. 5/2019, Indonesia will not issue any new permits for the use of peatland.",
+    "verbatim_text": "Under Presidential Instruction No. 5/2019, there will not be any new permit for the use of peatland.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.1. Forestry and Other Land Uses – c. Protection and Restoration of Peatland",
+    "sector": "AFOLU",
+    "extraction_rationale": "Explicit ban on new peatland use permits tied to a presidential instruction."
+  },
+  {
+    "policy_statement": "Ministerial Regulation No. 15/2017 (MoEF) mandates the private sector and local governments to improve peatland use and water management.",
+    "verbatim_text": "the Ministerial Regulation No. 15/2017 (Minister for Environment and Forestry) mandates private sector and local governments to improve the use of peatland and water management.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.1. Forestry and Other Land Uses – c. Protection and Restoration of Peatland",
+    "sector": "AFOLU",
+    "extraction_rationale": "Binding mandate directed at specific actors (private sector/local government)."
+  },
+  {
+    "policy_statement": "Indonesia sets peatland restoration targets: CPOS 1.03 Mha by 2030 and 1.7 Mha by 2050; LCCP 2.7 Mha by 2030 and 4.2 Mha by 2050.",
+    "verbatim_text": "For peatland restoration, CPOS figures the area of degraded peatland being restored should reach 1.03 Mha by 2030 and 1.7 Mha by 2050. While under LCCP, the target will be increased to 2.7 Mha by 2030 and 4.2 Mha by 2050.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.1. Forestry and Other Land Uses – c. Protection and Restoration of Peatland",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantified restoration targets with timelines under two scenarios."
+  },
+  {
+    "policy_statement": "Indonesia will accelerate afforestation and reforestation of degraded land (including urban revegetation) to increase carbon sinks, and sets rehabilitation targets for unproductive lands under CPOS and LCCP.",
+    "verbatim_text": "Indonesia will accelerate afforestation and reforestation of degraded land inside and outside forest area as well as urban revegetation for increasing sink. Under CPOS, Indonesia aims to rehabilitate the unproductive lands... about 4.32 Mha by 2030 and 8.6 Mha by 2050. Under the LCCP, this target is increased to 5.3 Mha by 2030 and 10.6 Mha by 2050.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.1. Forestry and Other Land Uses – d. Sink Enhancement",
+    "sector": "AFOLU",
+    "extraction_rationale": "Explicit intervention plus quantified land rehabilitation targets and timelines."
+  },
+  {
+    "policy_statement": "Indonesia sets rice-field mitigation targets for adoption of low-emission rice varieties: CPOS 0.93 Mha (2030) and 1.96 Mha (2050); LCCP 0.97 Mha (2030) and 2.07 Mha (2050).",
+    "verbatim_text": "Under CPOS, the adoption of low emission variety is expected to be 0.93 Mha by 2030 and 1.96 Mha by 2050. Under LCCP, an ambitious target is set to 0.97 Mha by 2030 and 2.07 Mha by 2050.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.2. Agriculture – a. Rice Field",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantified adoption targets for a specific mitigation technology in agriculture."
+  },
+  {
+    "policy_statement": "Scale up the SPR/STT water-saving paddy cultivation technology to 1.18 Mha (CPOS) and 1.31 Mha (LCCP) by 2050.",
+    "verbatim_text": "By 2050, the technology programme is expected to be scaled up to 1.18 M ha and 1.31 M ha under CPOS and LCCP, respectively.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.2. Agriculture – a. Rice Field",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantified scale-up targets for a specified mitigation technology."
+  },
+  {
+    "policy_statement": "Implement livestock-waste biogas with targets of 41,000 head by 2030 and 94,000 head by 2050 (CPOS and LCCP).",
+    "verbatim_text": "The CPOS and LCCP are setting a similar target for biogas implementation, accounted for 41,000 head in 2030 and 94,000 head in 2050.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.2. Agriculture – b. Livestock",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantified targets for a specific mitigation action (biogas from livestock waste)."
+  },
+  {
+    "policy_statement": "Reduce synthetic fertilizer (urea) use by encouraging organic fertilizer substitution, with quantified reductions in total urea use under CPOS and LCCP for 2030 and 2050.",
+    "verbatim_text": "Cropland farmers are encouraged to use organic fertilizer to substitute the urea application... Under CPOS, the adoption of this mitigation action in 2030 and 2050 are expected to reduce the use of urea amounted to 3,089 ton and 58,513 ton, respectively. Under LCCP, the reduction of total urea used in 2030 and 2050 is expected to be 5,374 ton and 65,697 ton, respectively.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.2. Agriculture – c. The Use of Fertilizer",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific intervention with quantified expected reductions."
+  },
+  {
+    "policy_statement": "Develop integrated oil palm–livestock farming with targets: CPOS 11.70% (1.68 Mha) by 2030 and 22.72% (3.25 Mha) by 2050; LCCP 21.11% (3.02 Mha) by 2030 and 34.33% (4.91 Mha) by 2050.",
+    "verbatim_text": "Under CPOS, integrated farming of oil palm-livestock is targeted to reach 11.70% (1.68 Mha) in 2030 and 22.72% (3.25 Mha) in 2050. Under LCCP, the target is increased to 21.11% (3.02 Mha) in 2030 and to 34.33% (  4.91 Mha) in 2050.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.3. Achieving the Goals – b. Integrated Farming System",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantified adoption targets for a specific integrated farming mitigation approach."
+  },
+  {
+    "policy_statement": "Restrict conversion of sustainable agricultural land as mandated by Law No. 41/2009 on sustainable agriculture land.",
+    "verbatim_text": "Restriction of conversion of agriculture lands as mandated by the Law No. 41/2009 on sustainable agriculture land is enforced.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.3. Achieving the Goals – c. Optimizing Use of Unproductive Land",
+    "sector": "AFOLU",
+    "extraction_rationale": "Explicit legal mandate being enforced."
+  },
+  {
+    "policy_statement": "Reduce food loss from 71 kg/capita (2010) to 40 kg/capita (2050) under CPOS and to 34 kg/capita (2050) under LCCP through improved harvest/post-harvest tools, cold storage, and packaging technology.",
+    "verbatim_text": "Improvements in harvest and post-harvest technology are expected to reduce food loss from 71 Kg per capita in 2010 to 40 Kg per capita in 2050 under CPOS and to 34 Kg per capita under LCCP.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.3. Achieving the Goals – d. Reducing Food Loss and Food Waste",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantified target linked to specified interventions."
+  },
+  {
+    "policy_statement": "Reduce avoidable food waste through household campaigns and by applying green certification for large-scale consumers such as restaurants and hotels.",
+    "verbatim_text": "The fraction of avoidable food waste could be reduced through campaign (private household) and applying green certification for large scale consumers (e.g. restaurants and hotels).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.1.3. Achieving the Goals – d. Reducing Food Loss and Food Waste",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific policy instruments (campaigns and green certification) stated as actions to reduce food waste."
+  },
+  {
+    "policy_statement": "Indonesia defines energy-sector mitigation options as: energy efficiency in all subsectors; substituting fossil fuels with renewables in power generation and transport; and electrifying end-uses in buildings and transportation with decarbonized electricity.",
+    "verbatim_text": "The mitigation options in energy sector includes: (i) energy efficiency measures in all subsectors; (ii) substitution of fossil fuel by renewable in power generation and transport; and (iii) electrification of end use in building and in transportation (must be accompanied by decarbonisation of electricity).",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.2.2. Energy Sector",
+    "sector": "Energy",
+    "extraction_rationale": "Enumerated set of mitigation options appropriate for parent/sub structure."
+  },
+  {
+    "policy_statement": "Implement energy efficiency measures in all energy subsectors.",
+    "verbatim_text": "The mitigation options in energy sector includes: (i) energy efficiency measures in all subsectors;",
+    "policy_type": "sub",
+    "parent_policy_name": "Indonesia defines energy-sector mitigation options as: energy efficiency in all subsectors; substituting fossil fuels with renewables in power generation and transport; and electrifying end-uses in buildings and transportation with decarbonized electricity.",
+    "section_header": "4.2.2. Energy Sector",
+    "sector": "Energy",
+    "extraction_rationale": "Specific mitigation option item."
+  },
+  {
+    "policy_statement": "Substitute fossil fuels with renewables in power generation and transport.",
+    "verbatim_text": "The mitigation options in energy sector includes: (ii) substitution of fossil fuel by renewable in power generation and transport;",
+    "policy_type": "sub",
+    "parent_policy_name": "Indonesia defines energy-sector mitigation options as: energy efficiency in all subsectors; substituting fossil fuels with renewables in power generation and transport; and electrifying end-uses in buildings and transportation with decarbonized electricity.",
+    "section_header": "4.2.2. Energy Sector",
+    "sector": "Energy",
+    "extraction_rationale": "Specific mitigation option item."
+  },
+  {
+    "policy_statement": "Electrify end-use in buildings and transportation, accompanied by decarbonisation of electricity.",
+    "verbatim_text": "The mitigation options in energy sector includes: (iii) electrification of end use in building and in transportation (must be accompanied by decarbonisation of electricity).",
+    "policy_type": "sub",
+    "parent_policy_name": "Indonesia defines energy-sector mitigation options as: energy efficiency in all subsectors; substituting fossil fuels with renewables in power generation and transport; and electrifying end-uses in buildings and transportation with decarbonized electricity.",
+    "section_header": "4.2.2. Energy Sector",
+    "sector": "Energy",
+    "extraction_rationale": "Specific mitigation option item including condition."
+  },
+  {
+    "policy_statement": "Indonesia targets universal electricity access including through grid/non-grid and rooftop solar PV: future target is that all households will have electricity access via grid and non-grid as well as roof-top solar PV.",
+    "verbatim_text": "In 2020, Indonesia household electrification reached 98% (MEMR 2020)... It is targeted that in the future all household will have electricity access through grid and non-grid as well as roof-top solar PV.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.2.2. Projection of Energy Sector Development – a.1. Power",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit access target and specified delivery modes including rooftop solar PV."
+  },
+  {
+    "policy_statement": "Under LCCP for 2050, Indonesia envisages a near-decarbonised power sector via massive renewables, coal power plants equipped with CCS/CCUS, and BECCS (biomass-coal cofiring connected to CCS).",
+    "verbatim_text": "It is expected that in 2050 the power sector will nearly decarbonised, through: (i) utilization of renewables... in massive scale; (ii) most coal powerplants are equipped with CCS/CCUS; and (iii) biomass-coal cofiring power plants are connected to CCS (Biomass Energy with Carbon Capture and Storage or BECCS).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.2.2. Projection of Energy Sector Development – a.1. Power",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete technology deployment approach for decarbonising power by 2050 under the scenario."
+  },
+  {
+    "policy_statement": "Under LCCP in 2050, Indonesia envisages power generation mix targets and capacity targets including renewables 43%, coal 38%, natural gas 10%, BECCS 8%, and specified installed capacities (e.g., solar PV 113 GW, hydro 68 GW, geothermal 23 GW, wind 17 GW, biomass 13 GW, biofuel 14 GW, BECCS 23 GW) and carbon intensity 104 gCO2/kWh.",
+    "verbatim_text": "It is envisaged that the power situation in 2050 under LCCP will be as follows:\n\n- Power generation mix are: renewables (43%), coal (38%), natural gas (10%) and BECCS (8%).\n...\n- Installed capacity of renewable power generation mix are: solar PV 113 GW, hydro 68 GW, geothermal 23 GW, wind power 17 GW, biomass 13 GW, biofuel 14 GW and BECCS 23 GW...\n...\n- The carbon intensity of power generation: 104 gram CO2/kWh.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.2.2. Projection of Energy Sector Development – a.1. Power",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified 2050 mix/capacity/intensity targets stated for LCCP."
+  },
+  {
+    "policy_statement": "Continue and expand the CPO-based biofuel blending program, including higher biodiesel proportions (B30, B40, B50) produced from sustainable sources, as part of the 2050 transport energy mix under LCCP.",
+    "verbatim_text": "Since the past 10 years the government has introduce biofuels made from CPO, which is blended with petroleum diesel and called B20... The biofuel (CPO-based) programme is considered successful and will be continued to 2050 by supplying biofuel with higher biodiesel proportions (B30, B40, B50), which will be produced from sustainable sources.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.2.2. Projection of Energy Sector Development – a.2. Transport",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit continuation and scale-up of a named policy programme (biofuel blending) with specified blend levels."
+  },
+  {
+    "policy_statement": "Build 3,200 km of train tracks to serve transport in Sumatra, Java, Kalimantan, and Sulawesi (existing plan referenced in LCCP transport vision).",
+    "verbatim_text": "Existing plan shows that 3,200 km of train tracks will be built to serve transport in Sumatra, Java, Kalimantan, and Sulawesi.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.2.2. Projection of Energy Sector Development – a.2. Transport",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified infrastructure build plan stated as an ‘existing plan’ to be built."
+  },
+  {
+    "policy_statement": "Implement waste-sector low-carbon strategy pillars through reduction, avoidance, destruction and utilization of methane emissions using specific measures across MSW, domestic wastewater, and industrial waste (e.g., 3R/waste banks/ITF/composting, LFG recovery for flaring/power/cooking, RDF/PLTSa, aerobic septic systems and centralized WWT, and industrial anaerobic digestion with methane recovery).",
+    "verbatim_text": "Four following pillars of guidance are used to develop a long-term low-carbon strategy toward zero emissions in the waste sector... In the MSW treatments... i.e. recycling (3R), waste banks, ITF..., and composting... and ... burning the landfill gas (LFG) for flaring, power generation... producing the RDF... and burning the waste in PLTSa... In the domestic wastewater treatments... treating domestic wastewater using centralised aerobic system... In the industrial waste treatments... introducing biodigester process equipped with a methane recovery system (biogas)...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.3. Waste Sector",
+    "sector": "Waste",
+    "extraction_rationale": "Specific interventions and technologies are enumerated as the strategy; although called 'pillars', it details concrete actions."
+  },
+  {
+    "policy_statement": "Law No. 18/2008 obliges local governments to manage municipal solid waste (MSW).",
+    "verbatim_text": "Law No. 18/2008 regarding MSW management obliges local governments to manage MSW.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.3.1. Waste Sector Development and Projection – a. Municipal Solid Waste (MSW) Management",
+    "sector": "Waste",
+    "extraction_rationale": "Binding obligation specified in a named law."
+  },
+  {
+    "policy_statement": "Presidential Regulation No. 35/2018 supports municipal solid waste utilization for electricity generation (PLTSa) or refuse-derived fuels (RDF).",
+    "verbatim_text": "there are National Policy and Strategy (Jakstranas) and Provincial Policy and Strategy (Jakstrada) in waste management as well as Presidential Regulation No. 35/2018 concerning MSW utilization for electricity generation in PLTSa or RDF (refuse-derived fuels) that support GHG emission reduction.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.3.1. Waste Sector Development and Projection – a. Municipal Solid Waste (MSW) Management",
+    "sector": "Waste",
+    "extraction_rationale": "Named presidential regulation with a specific waste-to-energy policy focus."
+  },
+  {
+    "policy_statement": "For domestic wastewater, the government long-term plan targets that all people have access to toilets (individual or communal).",
+    "verbatim_text": "The government long-term plan has target that all people have access to toilet whether it is individual or communal toilets.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.3.1. Waste Sector Development and Projection – b. Domestic Wastewater Treatment (WWT)",
+    "sector": "Waste",
+    "extraction_rationale": "Explicit national access target stated as a long-term plan."
+  },
+  {
+    "policy_statement": "Under IPPU CPOS/TRNS/LCCP, Indonesia defines specific mitigation actions including blended cement targets (clinker ratio), ammonia plant efficiency improvements, N2O destruction in nitric acid plants, improved aluminium processing to reduce PFCs, and scrap use in iron and steel (10% TRNS; 20% LCCP).",
+    "verbatim_text": "Under CPOS, it is assumed that mitigation actions include (a) 50% of national cement productions implement blended cement with a clinker/cement ratio of 0.75 in 2050... Under TRNS... include... (c) the use of secondary catalyst for N2O digestion/destruction in nitric acid production industry, (d) the use of improved... technology for Aluminium production, and (e) the utilization of scrap up to 10%... Under LCCP... (a)... clinker/cement ratio of 0.70 in 2050... (b)... 35 GJ per ton NH3... (c) increasing the use of secondary catalyst... and (e) the use of scrap up to 20%",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.4.2. GHGs Emission Projections",
+    "sector": "IPPU",
+    "extraction_rationale": "Lists concrete industrial mitigation actions with quantified parameters under scenarios."
+  },
+  {
+    "policy_statement": "Ministerial Regulation (MoEF) No. 33/2016 guides national and local governments to plan climate change adaptation actions and integrate them into regional and/or sectoral development plans.",
+    "verbatim_text": "Ministerial Regulation (Minister for Environment and Forestry) No.33/2016 provides guidance for national governments and local governments in planning climate change adaptation actions and integrating them into development plans of specific regions and/or sectors.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.4. Framework on Climate Change Actions in Indonesia",
+    "sector": "Adaptation",
+    "extraction_rationale": "Named regulation with a clear governance/planning requirement."
+  },
+  {
+    "policy_statement": "Ministerial Regulation (MoEF) No. 7/2018 provides guidance on methods, indicators and verification criteria for climate change vulnerability, risk, and impact assessments.",
+    "verbatim_text": "Ministerial Regulation (Minister for Environment and Forestry) No. 7/2018 provides guidance for national and local government (and general society) on: a) determining the scope of the analysis... for formulating vulnerability, risk and impact assessments of climate change; and b) determining the criteria for verification of vulnerability, risk, and climate change impact assessment results.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.4. Framework on Climate Change Actions in Indonesia",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific regulatory guidance for assessment and verification processes."
+  },
+  {
+    "policy_statement": "Transform PROKLIM (Climate Village Programme) into a national movement on joint adaptation and mitigation through Minister Regulation (MoEF) No. 84/2016 to encourage local-level adaptation and mitigation actions.",
+    "verbatim_text": "Climate Village Programme (PROKLIM) has been continuously improved, including by transforming the PROKLIM become national movement on joint adaptation and mitigation... through Minister Regulation (Minister of Environment and Forestry) No. 84/2016.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.4. Framework on Climate Change Actions in Indonesia",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Named programme transformation and implementing regulation explicitly stated."
+  },
+  {
+    "policy_statement": "Indonesia includes ocean in the adaptation component of its NDC and RPJMN 2020–2024 includes coastal and fishery adaptation via coastal protection programmes.",
+    "verbatim_text": "Indonesia has included ocean in adaptation component of the NDC. The National Medium-Term Plan (RPJMN) 20202024 has put adaptation in coastal and fishery through coastal protection programmes, which is in-line with NDC.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.3. Role of Ocean and Integrated Terrestrial and Marine Ecosystem Management and Conservation",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit statement that ocean adaptation is included in NDC and operationalized via coastal protection programmes in RPJMN."
+  },
+  {
+    "policy_statement": "Establish regulatory basis for ocean-based adaptation and mitigation through laws on coastal zone management and fishery, and Government Regulation No. 32/2019 on ocean spatial planning that states the role of ocean ecosystems in climate change adaptation and mitigation.",
+    "verbatim_text": "Some regulatory frameworks... have been in place, for example Law No. 27/2007 on Coastal Zone Management, Law No.31/2004 on Fishery... and more recently Government Regulation No 32/2019 on Ocean Spatial Planning, which clearly states the role of ocean and its associated ecosystems in climate change adaptation and mitigation.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.3. Role of Ocean and Integrated Terrestrial and Marine Ecosystem Management and Conservation",
+    "sector": "Adaptation",
+    "extraction_rationale": "Named regulatory frameworks explicitly positioned as basis for climate adaptation/mitigation in ocean contexts."
+  },
+  {
+    "policy_statement": "Implement COVID-19 recovery coastal/marine actions including 15,000 hectares of mangrove planting and 50 hectares of coral reef restoration in Bali in 2020.",
+    "verbatim_text": "Coastal and marine based activities have also been part of COVID-19 recovery programme, including 15 thousands hectare mangrove planting and 50 hectare coral reef restoration in marine tourism area in Bali in 2020.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.3. Role of Ocean and Integrated Terrestrial and Marine Ecosystem Management and Conservation",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific implemented actions with quantified areas and date, framed as part of a government recovery programme."
+  },
+  {
+    "policy_statement": "Finalize a Presidential Regulation on Carbon Economic Value/Carbon Pricing (PERPRES NEK) covering NDC achievement, carbon economic instruments, transparency framework, and low-carbon development, and regulating roles of parties and non-party stakeholders in NDC implementation.",
+    "verbatim_text": "Presidential Regulation on Carbon Pricing (draft of PERPRES NEK) sets norms for four following main areas: (1) NDC target achievement, (2) carbon economic instrument, (3) transparency framework, and (4) low carbon development. The draft of PERPRES-NEK also regulates the roles of Parties and Non-Party Stakeholders in the NDC implementation.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "VIII. IMPLEMENTATION APPROACH",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Describes a specific draft presidential regulation with defined normative scope and governance provisions."
+  },
+  {
+    "policy_statement": "During 2021–2030, implementation of LTS-LCCR will follow the Updated NDC implementation guided by nine NDC Implementation Strategy Programmes, and NDC Road Maps provide detailed guidance and periodic monitoring and evaluation to achieve the 2030 NDC target.",
+    "verbatim_text": "During the period of 2021-2030, implementation of LTS-LCCR will follow the implementation of first NDC (Updated NDC), which is guided by nine NDC Implementation Strategy Programmes as described in Updated NDC document. Furthermore, NDC Road Maps... provide detail guidance on policy, programme, and actions to achieve 2030 target of the NDC, as well as periodic monitoring and evaluation of the progress",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "VIII. IMPLEMENTATION APPROACH",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Defines an implementation approach with timeframe and governance instruments (programmes, roadmaps, M&E)."
+  }
+]

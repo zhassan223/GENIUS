@@ -1,0 +1,326 @@
+[
+  {
+    "policy_statement": "Reduce California greenhouse gas emissions to 1990 levels by 2020 as required by AB 32.",
+    "verbatim_text": "By requiring in law a reduction of greenhouse gas (GHG) emissions to 1990 levels by 2020, California set the stage for its transition to a sustainable, clean energy future.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "EXECUTIVE SUMMARY",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Legally binding statewide emissions target with a clear deadline (2020) anchored in AB 32."
+  },
+  {
+    "policy_statement": "Develop and implement the AB 32 Scoping Plan measures through rulemaking so they are in place by 2012.",
+    "verbatim_text": "It will be presented to the Board for approval at its meeting in December 2008. The measures in the Scoping Plan approved by the Board will be developed over the next two years and be in place by 2012.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "EXECUTIVE SUMMARY",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Time-bound implementation commitment describing adoption/development schedule for measures."
+  },
+  {
+    "policy_statement": "Implement a California cap-and-trade program linked with Western Climate Initiative partner programs, with regulations developed by January 1, 2011 and the program beginning in 2012.",
+    "verbatim_text": "Implement a broad-based California cap-and-trade program to provide a firm limit on emissions. Link the California cap-and-trade program with other Western Climate Initiative Partner programs to create a regional market system... Based on the requirements of AB 32, regulations to implement the cap-and-trade program need to be developed by January 1, 2011, with the program beginning in 2012.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.  California Cap-and-Trade Program Linked to Western Climate Initiative Partner Jurisdictions",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Specific market-based regulatory program with linkage and explicit rulemaking and start dates."
+  },
+  {
+    "policy_statement": "Phase the cap-and-trade program to cover electricity generation and large industrial facilities in 2012, and add broader fuel combustion and transportation fuels in 2015.",
+    "verbatim_text": "The proposed cap-and-trade measure phases in the following sectors:\n\nStarting in the first compliance period (2012):\n- Electricity generation, including imports not covered by a WCI Partner jurisdiction\n- Large industrial facilities that emit over 25,000 metric tons CO2E per year.\n\nStarting in the second compliance period (2015):\n- Upstream treatment of industrial fuel combustion... and all commercial and residential fuel combustion regulated where the fuel enters into commerce\n- Transportation fuel combustion regulated where the fuel enters into commerce.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.  California Cap-and-Trade Program Linked to Western Climate Initiative Partner Jurisdictions",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Defines covered sectors and compliance period start years—core design commitments."
+  },
+  {
+    "policy_statement": "Limit the use of offsets and allowances from other systems to no more than 49% of the required emissions reductions under the cap-and-trade program, and apply an offsets limit in each compliance period.",
+    "verbatim_text": "Consequently, the use of offsets and allowances from other systems are limited to no more than 49 percent of the required reduction of emissions... ARB will apply the limit on offsets that is within its jurisdiction, such that the allowable offsets in each compliance period is less than half of the emissions reductions expected from capped sectors in that compliance period.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Offsets",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Concrete quantitative limit on compliance instruments within the cap-and-trade system."
+  },
+  {
+    "policy_statement": "Set a California State government operations target to reduce GHG emissions by at least 30% below estimated business-as-usual emissions by 2020 (about 15% below current levels).",
+    "verbatim_text": "Therefore, California State government has established a target of reducing its greenhouse gas emissions by a minimum of 30 percent below its estimated business-as-usual emissions by 2020 - approximately a 15 percent reduction from current levels.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "A. The Role of State Government:  Setting an Example",
+    "sector": "Public sector / Government operations",
+    "extraction_rationale": "Quantified target with a deadline for state government operations."
+  },
+  {
+    "policy_statement": "Encourage local governments to adopt a reduction goal for municipal operations emissions and move toward community emissions goals that parallel the state's ~15% reduction from current levels by 2020, using ARB protocols and tools.",
+    "verbatim_text": "ARB encourages local governments to use this protocol to track their progress in achieving reductions from municipal operations... In addition to tracking emissions using these protocols, ARB encourages local governments to adopt a reduction goal for municipal operations emissions and move toward establishing similar goals for community emissions that parallel the State commitment to reduce greenhouse gas emissions by approximately 15 percent from current levels by 2020.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "B. The Role of Local Government: Essential Partners",
+    "sector": "Subnational governance / Local government",
+    "extraction_rationale": "Explicit encouragement to adopt quantified 2020-aligned goals supported by specific ARB protocols/tools."
+  },
+  {
+    "policy_statement": "Implement adopted Pavley light-duty vehicle GHG standards and develop a second, more stringent phase (Pavley II).",
+    "verbatim_text": "Implement adopted Pavley standards and planned second phase of the program... To obtain additional reductions from the light duty fleet, ARB plans to adopt a second, more stringent, phase of the Pavley regulations.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.  California Light-Duty Vehicle Greenhouse Gas Standards",
+    "sector": "Transport",
+    "extraction_rationale": "Commitment to implement an adopted regulation and adopt a second phase."
+  },
+  {
+    "policy_statement": "Develop regional passenger-vehicle greenhouse gas emissions reduction targets for 2020 and 2035 under SB 375 by September 30, 2010, in consultation with MPOs.",
+    "verbatim_text": "SB 375 requires ARB to develop, in consultation with metropolitan planning organizations (MPOs), passenger vehicle greenhouse gas emissions reduction targets for 2020 and 2035 by September 30, 2010.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "6.  Regional Transportation-Related Greenhouse Gas Targets",
+    "sector": "Transport",
+    "extraction_rationale": "Statutory requirement with specific deadline and deliverable (targets)."
+  },
+  {
+    "policy_statement": "Develop and adopt a Low Carbon Fuel Standard to reduce the carbon intensity of California transportation fuels by at least 10% by 2020, with regulation for Board consideration in March 2009.",
+    "verbatim_text": "ARB is developing a Low Carbon Fuel Standard (LCFS), which would reduce the carbon intensity of California's transportation fuels by at least ten percent by 2020... ARB identified the LCFS as a Discrete Early Action item, and is developing a regulation for Board consideration in March 2009.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.  Low Carbon Fuel Standard",
+    "sector": "Transport",
+    "extraction_rationale": "Specific performance standard target (10% by 2020) and near-term regulatory milestone."
+  },
+  {
+    "policy_statement": "Set new statewide energy efficiency targets of 32,000 GWh electricity demand reductions and 800 million therms natural gas reductions from business-as-usual.",
+    "verbatim_text": "This measure would set new targets for statewide annual energy demand reductions of 32,000 gigawatt hours and 800 million therms from business as usual",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.  Energy Efficiency",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified statewide energy-efficiency targets (specific intervention with numeric quantities)."
+  },
+  {
+    "policy_statement": "Implement the Solar Hot Water and Efficiency Act incentive program with a goal of installing 200,000 solar water heating systems by 2017.",
+    "verbatim_text": "The Solar Hot Water and Efficiency Act of 2007 (SHWEA) authorized a ten year, $250-million incentive program for solar water heaters with a goal of promoting the installation of 200,000 systems in California by 2017.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.  Energy Efficiency",
+    "sector": "Energy",
+    "extraction_rationale": "Funded incentive program with quantified deployment goal and date."
+  },
+  {
+    "policy_statement": "Set a target of an additional 4,000 MW of installed combined heat and power (CHP) capacity by 2020 (displacing about 30,000 GWh).",
+    "verbatim_text": "This measure sets a target of an additional 4,000 MW of installed CHP capacity by 2020, enough to displace approximately 30,000 GWh of demand from other power generation sources.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.  Energy Efficiency",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified capacity target with a 2020 deadline for CHP deployment."
+  },
+  {
+    "policy_statement": "Achieve a statewide Renewables Portfolio Standard of 33% renewable electricity by 2020.",
+    "verbatim_text": "Based on Governor Schwarzenegger's call for a statewide 33 percent RPS, the Plan anticipates that California will have 33 percent of its electricity provided by renewable resources by 2020",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.  Renewables Portfolio Standard",
+    "sector": "Energy",
+    "extraction_rationale": "Clear quantified renewables share target with date."
+  },
+  {
+    "policy_statement": "Implement the Million Solar Roofs Program goal to install 3,000 MW of new solar capacity by 2017 under existing solar programs.",
+    "verbatim_text": "California has set a goal to install 3,000 megawatts (MW) of new solar capacity by 2017... Created under Senate Bill 1 (Murray, Chapter 132, Statutes of 2006), the Million Solar Roofs Program includes CPUC's California Solar Initiative and CEC's New Solar Homes Partnership",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "9.  Million Solar Roofs Program",
+    "sector": "Energy",
+    "extraction_rationale": "Specific capacity goal with year and named program."
+  },
+  {
+    "policy_statement": "Adopt and implement goods movement measures including ship electrification at ports and additional efficiency measures for goods movement activities.",
+    "verbatim_text": "Implement adopted regulations for the use of shore power for ships at berth. Improve efficiency in goods movement activities... ARB has already adopted a regulation to require ship electrification at ports... ARB is proposing to develop and implement additional measures to reduce greenhouse gas emissions due to goods movement from trucks, ports and other related facilities.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "8.  Goods Movement",
+    "sector": "Transport",
+    "extraction_rationale": "Concrete regulatory/implementation actions (shore power regulation + additional measures)."
+  },
+  {
+    "policy_statement": "Adopt medium- and heavy-duty vehicle efficiency measures including aerodynamic efficiency retrofits and hybridization.",
+    "verbatim_text": "Adopt medium and heavy-duty vehicle efficiency measures... Requiring retrofits to improve the fuel efficiency of heavy-duty trucks could include a requirement for devices that reduce aerodynamic drag and rolling resistance. In addition, hybridization of medium- and heavy-duty vehicles would also reduce greenhouse gas emissions",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "10.  Medium/Heavy-Duty Vehicles",
+    "sector": "Transport",
+    "extraction_rationale": "Specific interventions (retrofits; hybridization) presented as recommended measures."
+  },
+  {
+    "policy_statement": "Require major industrial facilities to conduct energy efficiency and co-benefits audits via regulation to identify cost-effective GHG and co-pollutant reduction opportunities.",
+    "verbatim_text": "ARB would implement this measure through a regulation, requiring each facility to conduct an energy efficiency audit of individual combustion and other direct sources of greenhouse gases within the facility to determine the potential reduction opportunities, including criteria air pollutants and toxic air contaminants.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "11.  Industrial Emissions",
+    "sector": "Industry",
+    "extraction_rationale": "Regulatory requirement for audits is a specific intervention, even though reduction amount is TBD."
+  },
+  {
+    "policy_statement": "Develop and implement measures to reduce methane emissions from oil and gas production and gas transmission through leak detection, process modifications, equipment retrofits, new equipment, and best management practices.",
+    "verbatim_text": "Two measures would be developed to reduce methane emissions in the oil and gas production and gas transmission processes from leaks and incomplete combustion of methane (used as fuel). These measures would include improved leak detection, process modifications, equipment retrofits, installation of new equipment, and best management practices.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "11.  Industrial Emissions",
+    "sector": "Industry",
+    "extraction_rationale": "Explicit commitment to develop measures with named intervention types targeting fugitive methane."
+  },
+  {
+    "policy_statement": "Adopt refinery measures to limit GHG emissions from refinery flares (while preserving safety flaring) and remove the fugitive methane exemption in most refinery VOC regulations.",
+    "verbatim_text": "Two measures would be developed for oil refineries. The first would limit the greenhouse gas emissions from refinery flares while preserving flaring as needed for safety reasons. The second would remove the current fugitive methane exemption in most refinery Volatile Organic Compounds (VOC) regulations.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "11.  Industrial Emissions",
+    "sector": "Industry",
+    "extraction_rationale": "Specific planned refinery regulatory changes."
+  },
+  {
+    "policy_statement": "Support implementation of a statewide high speed rail system, with Phase 1 first year of service projected for 2020 contingent on voter approval (Proposition 1A).",
+    "verbatim_text": "Support implementation of a high speed rail system... For Phase 1 of the HSR, between San Francisco and Anaheim, 2020 is projected to be the first year of service... HSR implementation is dependent on voter approval, and the 'Safe, Reliable High-Speed Passenger Train Bond Act for the 21st Century' will appear on the November 2008 ballot as Proposition 1A.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "12.  High Speed Rail",
+    "sector": "Transport",
+    "extraction_rationale": "Government support commitment for a major transport project with a stated service timeline (conditional but explicit)."
+  },
+  {
+    "policy_statement": "Expand use of green building practices and implement statewide green building standards, including anticipated adoption of a mandatory commercial green building code in 2011.",
+    "verbatim_text": "In July 2008, the California Building Standards Commission (CBSC) adopted the Green Building Standards Code (GBSC) for all new construction in the state. While the current version of the commercial green building code is voluntary, CBSC anticipates adopting a mandatory code in 2011 which will institute minimum environmental performance standards for all occupancies.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "13.  Green Building Strategy",
+    "sector": "Buildings",
+    "extraction_rationale": "Concrete code adoption and planned shift to mandatory code with a date."
+  },
+  {
+    "policy_statement": "Require new State buildings to meet LEED-NC Gold and retrofit existing State buildings to LEED-EB Silver equivalent; require new schools to meet CHPS 2009 and modernized schools seeking funds to meet CHPS 2009.",
+    "verbatim_text": "The State of California will set an example by requiring all new State buildings to exceed existing Green Building Initiative energy goals and achieve nationally-recognized building sustainability standards such as Leadership in Energy and Environmental Design - New Construction (LEED-NC) 'Gold' certification. Existing State buildings would also be retrofitted to achieve higher standards equivalent to LEED-EB for existing buildings (EB) 'Silver.' All new schools should be required to meet the Collaborative for High Performance Schools (CHPS) 2009 criteria. Existing schools applying for modernization funds should also be required to meet CHPS 2009 criteria.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "13.  Green Building Strategy",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific procurement/building performance requirements for government buildings and schools."
+  },
+  {
+    "policy_statement": "Adopt measures to reduce high global warming potential gases, including establishing an upstream mitigation fee on the use of high-GWP gases to reflect their climate impact and encourage alternatives and reduced losses.",
+    "verbatim_text": "ARB is also proposing to establish an upstream mitigation fee on the use of high GWP gases... An upstream fee would ensure that the climate impact of these substances is reflected in the total cost of the product, encouraging reduced use and end-of-life losses, as well as the development of alternatives.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "14.  High Global Warming Potential Gases",
+    "sector": "F-Gases",
+    "extraction_rationale": "Clear proposed economic instrument (fee) tied to specific pollutant class with intended behavioral effect."
+  },
+  {
+    "policy_statement": "Implement recycling and waste measures to reduce landfill methane and increase waste diversion, composting, commercial recycling, and move toward zero-waste, including a discrete early action on landfill methane control.",
+    "verbatim_text": "Reduce methane emissions at landfills. Increase waste diversion, composting, and commercial recycling. Move toward zero-waste... ARB is working closely with the California Integrated Waste Management Board (CIWMB) to develop a Discrete Early Action measure for landfill methane control",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "15.  Recycling and Waste",
+    "sector": "Waste",
+    "extraction_rationale": "Specific sectoral measures including a named discrete early action to control landfill methane."
+  },
+  {
+    "policy_statement": "Maintain at least 5 MMTCO2E of forest-sector sequestration through sustainable management practices, including reducing catastrophic wildfire risk and avoiding/mitigating land-use changes that reduce carbon storage.",
+    "verbatim_text": "The 2020 Proposed Scoping Plan target for California's forest sector is to maintain the current 5 MMTCO2E of sequestration through sustainable management practices, including reducing the risk of catastrophic wildfire, and the avoidance or mitigation of land-use changes that reduce carbon storage.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "16.  Sustainable Forests",
+    "sector": "Forestry and land use",
+    "extraction_rationale": "Quantified sequestration maintenance target tied to specific strategies."
+  },
+  {
+    "policy_statement": "Implement water-sector measures to improve water use efficiency, recycling, and system energy efficiency, and recommend a public goods charge on water to fund actions that improve water and energy efficiency and reduce GHG emissions.",
+    "verbatim_text": "Six greenhouse gas emission reduction measures are proposed for the Water sector... ARB recommends a public goods charge for funding investments in water management actions that improve water and energy efficiency and reduce GHG emissions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "17.  Water",
+    "sector": "Water",
+    "extraction_rationale": "Explicit recommendation of a funding mechanism (public goods charge) and proposed measures in the water sector."
+  },
+  {
+    "policy_statement": "Encourage near-term voluntary investment in manure digesters to capture methane at dairies, and at the five-year Scoping Plan update decide whether to make the program mandatory for large dairies by 2020.",
+    "verbatim_text": "In the near-term, encourage investment in manure digesters and at the five-year Scoping Plan update determine if the program should be made mandatory by 2020.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "18.  Agriculture",
+    "sector": "Agriculture",
+    "extraction_rationale": "Specific action pathway with a decision point and potential future mandate by 2020."
+  },
+  {
+    "policy_statement": "Provide credit for voluntary early GHG reductions, including by setting aside allowances in the first cap-and-trade compliance period to reward reductions occurring before 2012 and ensuring allocation does not disadvantage facilities that reduced emissions between 2007 and 2012.",
+    "verbatim_text": "ARB will provide appropriate credit for voluntary early reductions that can be adequately quantified and verified through three primary means. First, within the cap-and-trade program, ARB would set aside a certain number of allowances from the first compliance period to use to reward voluntary reductions that occur before 2012. In addition, ARB will assure that the allocation process in the first compliance period does not disadvantage facilities that have made reductions after AB 32 went into effect at the start of 2007 and before 2012.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "D. Voluntary Early Actions and Reductions",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Concrete mechanisms (allowance set-aside and allocation protection) to credit early action."
+  },
+  {
+    "policy_statement": "ARB recommends a de minimis threshold of 0.1 MMTCO2E annual emissions per source category; source categories below this level are not proposed for emission reduction requirements in the Proposed Scoping Plan (absent compelling necessity).",
+    "verbatim_text": "After this review and considering the level of emissions needed to meet the 1990 target established by AB 32, ARB recommends a de minimis level 0.1 MMTCO2E annual emissions per source category. 73 Source categories whose total aggregated emissions are below this level are not proposed for emission reduction requirements in the Proposed Scoping Plan but may contribute toward the target via other means.\n\nARB and other agencies implementing measures included in the Scoping Plan should carefully consider this de minimis level in developing regulations, and only regulate smaller source categories if there is a compelling necessity.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## I. De Minimis Emission Threshold",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "This is an explicit recommended regulatory applicability threshold with a specific quantitative level (0.1 MMTCO2E) guiding whether emissions reduction requirements apply."
+  },
+  {
+    "policy_statement": "ARB will update the Scoping Plan at least once every five years as required by HSC §38561(h).",
+    "verbatim_text": "ARB will update the plan at least once every five years (HSC §38561(h)).  These updates will allow ARB to evaluate the progress made toward the State's greenhouse gas emission reduction goals and correct the Plan's course where necessary.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## D. Tracking and Measuring Progress",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "This is a clear commitment with a defined frequency (every five years) tied to statutory requirements."
+  },
+  {
+    "policy_statement": "SB 85 requires every State agency to prepare an annual greenhouse-gas-reduction 'Report Card' submitted to CalEPA for compilation and publication; agencies must also obtain an outside audit of GHG-related actions every three years as funds are available.",
+    "verbatim_text": "SB 85 (Budget Committee, Chapter 178, Statutes of 2007) requires every State agency to prepare an annual 'Report Card,' detailing measures the agency has adopted and taken to reduce greenhouse gas emissions, including the actual emissions reduced as a result of those actions.  The information must be submitted to CalEPA...\n\nAgencies are also required, as funds are available, to have an outside audit of greenhouse gas-related actions completed every three years to verify actual and projected reductions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## 1.  Report Card",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "This is a binding requirement (statutory mandate) specifying an annual reporting mechanism and a triennial audit cadence."
+  },
+  {
+    "policy_statement": "ARB’s mandatory GHG reporting regulation requires annual reporting from large facilities (including sources over 25,000 tons CO2/year from on-site stationary combustion), with emissions tracking starting in 2008, reporting beginning in 2009 with a phase-in, and more rigorous reports subject to third-party verification beginning in 2010.",
+    "verbatim_text": "ARB's mandatory reporting rule, adopted in December 2007, will help the State obtain facility-level data from the largest sources of greenhouse gas emissions in California.\n\nAffected facilities will begin tracking their greenhouse gas emissions in 2008, to be reported beginning in 2009 with a phase-in process to allow facilities to develop reporting systems and train personnel in data collection... Beginning in 2010, emissions reports will be more rigorous and will be subject to third-party verification.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## 4.  Mandatory Reporting Regulation",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "This is an adopted regulation with explicit compliance actions and timelines (tracking/reporting/verification)."
+  },
+  {
+    "policy_statement": "ARB’s mandatory reporting regulation applies to major facility categories and to industrial sources emitting over 25,000 tons of CO2 per year from on-site stationary source combustion; covered facilities include electricity generating facilities, electricity retail providers/power marketers, oil refineries, hydrogen plants, cement plants, and cogeneration facilities, among others.",
+    "verbatim_text": "The regulation requires annual reporting from the largest facilities in the state... There are approximately 800 separate sources that fall under the new reporting rules, which include electricity generating facilities, electricity retail providers and power marketers, oil refineries, hydrogen plants, cement plants, cogeneration facilities, and industrial sources that emit over 25,000 tons of carbon dioxide each year from on-site stationary source combustions such as large furnaces.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## 4.  Mandatory Reporting Regulation",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "This specifies regulatory coverage criteria (25,000 tons CO2/year) and covered source types, which is an enforceable program design element."
+  },
+  {
+    "policy_statement": "By 2010, California will develop climate change education components for the State’s new K–12 model school curriculum as part of the Education and the Environment Initiative (AB 1548).",
+    "verbatim_text": "By 2010, California will develop climate change education components to the State's new K-12 model school curriculum as part of the Education and the Environment Initiative (AB 1548, Pavley, Chapter 665, Statutes of 2003).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## 2.  Education and Workforce Development",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "This is a time-bound commitment (by 2010) to create specific curriculum components via a named initiative."
+  },
+  {
+    "policy_statement": "ARB will initiate a rulemaking for an AB 32 fee program to fund administration, aiming to adopt the regulation in early 2009 and begin collecting fees in the 2009–2010 fiscal year; ongoing implementation funding needs are estimated at approximately $55 million per year.",
+    "verbatim_text": "AB 32 authorizes ARB to collect fees to fund implementation of the statute.  This fall ARB will initiate a rulemaking for a fee program to fund administration of the program.\n\nApproximately $55 million per year will be needed on an ongoing basis to fund implementation... ARB is moving on an expedited schedule to develop a fee regulation and expects to take a regulation to the Board in early 2009, with the aim of beginning to collect fees in the 2009-2010 fiscal year.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## H. Program Funding",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "This is a concrete administrative/finance commitment with a specific mechanism (fees via rulemaking), timeline, and stated funding level."
+  }
+]

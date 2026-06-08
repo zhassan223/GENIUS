@@ -1,0 +1,30 @@
+{
+  "doc_id": "Los_Angeles/San_Diego_California_United_States_053493d8b4",
+  "total_chunks": 1,
+  "total_policies_before_resolve": 1,
+  "total_policies_after_resolve": 1,
+  "resolver_stats": {
+    "input_count": 1,
+    "dedup_removed": 0,
+    "statement_dedup_removed": 0,
+    "deterministic_links": 0,
+    "llm_arbitrated": 0,
+    "orphan_count": 0,
+    "output_count": 1
+  },
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "word_count": 660,
+      "has_overlap": false,
+      "ancestor_headings": [],
+      "policies_extracted": 1,
+      "elapsed_seconds": 0.03,
+      "carry_forward_length": 0,
+      "error": null
+    }
+  ],
+  "chunk_provenance": {
+    "SoCalGas proposes increasing gas rates starting in 2009 to recover the program costs associated with its proposed Climate Action Initiative (Application A.07-08-031), subject to CPUC approval.": 0
+  }
+}

@@ -1,0 +1,461 @@
+[
+  {
+    "policy_statement": "Budapest has set a target to reduce its greenhouse gas emissions by at least 40% by 2030 compared to the 2015 base year.",
+    "verbatim_text": "Accordingly, the Municipality of Budapest has set the target to reduce its emissions by 40% by 2030 compared to the base year of 2015.\n\nChart 2: The decarbonisation target of Budapest\n\n2015: 6.11 million t CO2; 2030: -40%",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.1.   REDUCTION OF THE EMISSION OF GREENHOUSE GASES (MITIGATION)",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Quantified mitigation target with deadline and stated baseline year."
+  },
+  {
+    "policy_statement": "By joining the Under 2 Coalition, Budapest committed to reduce greenhouse gas emissions by at least 80% by 2050 compared to 1990 levels and/or reduce annual per-capita emissions below 2 metric tons.",
+    "verbatim_text": "By joining the Coalition, the parties undertake to reduce their emission of greenhouse gases by 80% as a minimum by 2050 compared to the values in 1990 and/or reduce their annual per capita emission below 2 metric tons.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.1.   REDUCTION OF THE EMISSION OF GREENHOUSE GASES (MITIGATION)",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Long-term quantified commitment (percentage reduction and/or per-capita threshold) with a deadline year."
+  },
+  {
+    "policy_statement": "Má-1 objective: Improve energy efficiency of buildings, industrial production and tertiary-sector facilities and increase the share of renewable energy.",
+    "verbatim_text": "Objective Má -1         Improving the energy efficiency of buildings, industrial production and facilities of the tertiary sector and increasing the ratio of renewables",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.1.   REDUCTION OF THE EMISSION OF GREENHOUSE GASES (MITIGATION)",
+    "sector": "Buildings",
+    "extraction_rationale": "Named umbrella objective that is followed by multiple numbered measures (M1–M7) in the Emission Reduction Action Plan."
+  },
+  {
+    "policy_statement": "M1: Refurbish and operate energy-consciously municipal buildings and facilities and those of public service providers, including planned refurbishments of multiple institutions by 2023 and continued fundraising for further modernization.",
+    "verbatim_text": "## Refurbishment and energy conscious operation of the buildings and facilities of the Municipality M1\n\nThe Municipality of Budapest maintains numerous institutions and companies... and may directly influence their energy consumption and energy efficient renovation and operation.\n\nProvisions have been made for the refurbishment of several, mainly cultural and social institutions maintained by the Municipality by 2023...",
+    "policy_type": "sub",
+    "parent_policy_name": "Má-1 objective: Improve energy efficiency of buildings, industrial production and tertiary-sector facilities and increase the share of renewable energy.",
+    "section_header": "5.   EMISSION REDUCTION ACTION PLAN",
+    "sector": "Buildings",
+    "extraction_rationale": "Concrete action measure (M1) specifying refurbishment/energy-conscious operation with timeframe and implementation scope."
+  },
+  {
+    "policy_statement": "M2: Upgrade Budapest’s public lighting by replacing worn-out/outdated luminaires with LED technology, aiming for electricity savings of 18,242 MWh/year and CO2 mitigation of 4,200 tCO2/year by 2027 (implementation timeframe noted as 2026/2027).",
+    "verbatim_text": "## Reconstruction and energy upgrading of the public lighting system\n\nM2\n\n...about 110 thousand are worn-out... and will need to be replaced in the next 5 years... replaced by LED luminaries... the target value of the savings on electricity can be 18,242 MWh/annum.\n\nTarget year: 2027 ... Target year value: 18,242 MWh/annum 4,200 tCO2/annum",
+    "policy_type": "sub",
+    "parent_policy_name": "Má-1 objective: Improve energy efficiency of buildings, industrial production and tertiary-sector facilities and increase the share of renewable energy.",
+    "section_header": "5.   EMISSION REDUCTION ACTION PLAN",
+    "sector": "Energy",
+    "extraction_rationale": "Specific intervention with quantified energy/CO2 savings and target year."
+  },
+  {
+    "policy_statement": "M3: Implement a residential building refurbishment program (insulation, heating modernization, renewables) targeting renovation of one third of Budapest’s residential buildings by 2030, with estimated savings potential of 4,809,105 MWh/year and 981,977 tCO2/year.",
+    "verbatim_text": "## Refurbishment of residential buildings\n\nM3\n\n...The measure comprises the following elements: thermal insulation of external walls; modernisation of the heating system; installation of renewable energy technologies...\n\nThe renovation of one third of the residential buildings in Budapest has a saving potential of 4,809,105 MWh energy and 981,977 t CO2 per annum.\n\nTimeframe: 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "Má-1 objective: Improve energy efficiency of buildings, industrial production and tertiary-sector facilities and increase the share of renewable energy.",
+    "section_header": "5.   EMISSION REDUCTION ACTION PLAN",
+    "sector": "Buildings",
+    "extraction_rationale": "Defined program measure with concrete intervention types, quantified savings, and timeframe."
+  },
+  {
+    "policy_statement": "M4: Promote photovoltaic deployment in Budapest to reach a potential total installed solar capacity of about 1,500 MW by 2030, with an estimated CO2 savings potential of about 467,224 tCO2/year (as per the measure’s indicator).",
+    "verbatim_text": "## Facilitation of solar panel development projects\n\nM4\n\n...the portion of the buildings and roofs in Budapest... are sufficient for the installation of solar panels of a total installed capacity of 1500 MW (1750 MWp)...\n\nTarget year: 2030 ... Target year value: 2,031,409 MWh/annum 467,224 t CO2 /annum",
+    "policy_type": "sub",
+    "parent_policy_name": "Má-1 objective: Improve energy efficiency of buildings, industrial production and tertiary-sector facilities and increase the share of renewable energy.",
+    "section_header": "5.   EMISSION REDUCTION ACTION PLAN",
+    "sector": "Energy",
+    "extraction_rationale": "Specific renewable energy deployment measure with quantified capacity and target-year indicators."
+  },
+  {
+    "policy_statement": "M5: Implement a district heating development program to refurbish and expand district heating assets and increase renewable/waste heat/cogeneration shares to qualify as 'efficient district heating and cooling', with multiple quantified component projects through 2030.",
+    "verbatim_text": "## Development of the district heating system (reconstruction, increasing efficiency and the ratio of renewables, etc) M5\n\nThe purpose of the district heating development program is to refurbish and develop the district heating system... and to increase the ratio of renewable energy resources... and to realize 'efficient district heating and cooling'... using at least 50% renewable energy, 50% waste heat, 75% cogenerated heat or 50% of a combination of such energy and heat.\n\nTimeframe: 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "Má-1 objective: Improve energy efficiency of buildings, industrial production and tertiary-sector facilities and increase the share of renewable energy.",
+    "section_header": "5.   EMISSION REDUCTION ACTION PLAN",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete program with defined standard/threshold for efficient district heating and explicit implementation timeframe."
+  },
+  {
+    "policy_statement": "M6: Conduct surveys and research (including detailed building modelling and databases, renewable potential assessment, and life-cycle analyses) to support planning for emissions reduction and renewable deployment, by 2022.",
+    "verbatim_text": "## Conducting basic surveys and researches...\n\nM6\n\n...it is important to survey and model the existing buildings in detail, to create a database... as well as to explore administrative requirements and restrictions.\n\nLife-cycle analyses... are also missing...\n\nTimeframe: 2022",
+    "policy_type": "sub",
+    "parent_policy_name": "Má-1 objective: Improve energy efficiency of buildings, industrial production and tertiary-sector facilities and increase the share of renewable energy.",
+    "section_header": "5.   EMISSION REDUCTION ACTION PLAN",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Time-bound, specified intervention (research/survey work program) with defined outputs (models, database, LCA)."
+  },
+  {
+    "policy_statement": "M7: Support industrial and tertiary-sector decarbonisation by providing information on best available technologies and assistance in finding financing, through 2030.",
+    "verbatim_text": "## Enhancing mitigation and decarbonisation activities of industrial production and facilities of the tertiary sector\n\nM7\n\nThe municipality plays a role... primarily in providing information to businesses, making them acquainted with state-of-the-art technologies and providing assistance in finding the necessary financing...\n\nTimeframe: 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "Má-1 objective: Improve energy efficiency of buildings, industrial production and tertiary-sector facilities and increase the share of renewable energy.",
+    "section_header": "5.   EMISSION REDUCTION ACTION PLAN",
+    "sector": "Industry",
+    "extraction_rationale": "Defined municipal support action for decarbonisation with timeframe (though outputs are partly qualitative)."
+  },
+  {
+    "policy_statement": "Má-2 objective: Improve energy efficiency of transport infrastructure and support and develop environmentally friendly transport modes.",
+    "verbatim_text": "Objective Má -2         Improving the energy efficiency of transport infrastructures, supporting and developing environmentally friendly forms of transport",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.1.   REDUCTION OF THE EMISSION OF GREENHOUSE GASES (MITIGATION)",
+    "sector": "Transport",
+    "extraction_rationale": "Named umbrella objective followed by multiple numbered transport measures (M8–M12)."
+  },
+  {
+    "policy_statement": "M8: Develop and modernize public transport and related systems to increase public transport modal share to 50% by 2030 (distance-based), including continued fleet modernization and service/infrastructure improvements.",
+    "verbatim_text": "## Development of public transport with more attractive vehicles and services and better infrastructure\n\nM8\n\nAccording to the Budapest Mobility Plan (BMP), the share of public transport shall be increased to 50% by 2030 with consideration to the distances covered...\n\nThe modernisation of the vehicle fleet needs to be continued.",
+    "policy_type": "sub",
+    "parent_policy_name": "Má-2 objective: Improve energy efficiency of transport infrastructure and support and develop environmentally friendly transport modes.",
+    "section_header": "5.   EMISSION REDUCTION ACTION PLAN",
+    "sector": "Transport",
+    "extraction_rationale": "Specific measure with quantified modal split target and explicit action scope (fleet, services, infrastructure)."
+  },
+  {
+    "policy_statement": "M9: Expand and improve cycling and pedestrian infrastructure to increase cycling share to 5% and walking share to 15% by 2030 (distance-based), including core network development and supporting facilities (bike stands, B+R, MOL Bubi expansion).",
+    "verbatim_text": "## Development of the cycling and pedestrian infrastructure\n\nM9\n\nBy means of the preferred development of cycling traffic, the share of cycling should be increased to 5% by 2030 based on the distances covered.\n\n...giving priority to pedestrian traffic... Target year value: walking 15%, cycling 5%",
+    "policy_type": "sub",
+    "parent_policy_name": "Má-2 objective: Improve energy efficiency of transport infrastructure and support and develop environmentally friendly transport modes.",
+    "section_header": "5.   EMISSION REDUCTION ACTION PLAN",
+    "sector": "Transport",
+    "extraction_rationale": "Concrete transport infrastructure measure with quantified modal split targets and timeframe."
+  },
+  {
+    "policy_statement": "M10: Facilitate uptake of electric/low-emission vehicles by supporting incentives (e.g., free parking initially) and establishing/supporting public charging infrastructure, targeting 30% (225,000) vehicles of environmental class 5 by 2030.",
+    "verbatim_text": "## Facilitation of the use of electric driven or low emission motor vehicles\n\nM10\n\n...The Municipality of Budapest can provide support... by offering free parking... and by establishing charging stations...\n\nTarget year: 2030 ... Target year value: 30% (225,000 pcs)",
+    "policy_type": "sub",
+    "parent_policy_name": "Má-2 objective: Improve energy efficiency of transport infrastructure and support and develop environmentally friendly transport modes.",
+    "section_header": "5.   EMISSION REDUCTION ACTION PLAN",
+    "sector": "Transport",
+    "extraction_rationale": "Specific e-mobility support measure with quantified target share and actions (parking incentives, charging stations)."
+  },
+  {
+    "policy_statement": "M11: Promote car-sharing and car-pooling, including establishing rules for an integrated community car rental/sharing system and encouraging providers to replace conventional vehicles with electric vehicles; also create car-pooling meeting points.",
+    "verbatim_text": "## Promotion of the use of car-sharing and car-pooling systems\n\nM11\n\n...establish the rules of a uniform... integrated community system of car rental or car sharing...\n\nService providers need to be encouraged to gradually replace the vehicles using traditional fuels by electric vehicles.\n\n...promote the use of car-pooling systems... by... establishing car-pooling meeting points...",
+    "policy_type": "sub",
+    "parent_policy_name": "Má-2 objective: Improve energy efficiency of transport infrastructure and support and develop environmentally friendly transport modes.",
+    "section_header": "5.   EMISSION REDUCTION ACTION PLAN",
+    "sector": "Transport",
+    "extraction_rationale": "Specific intervention package describing concrete institutional/regulatory and infrastructure actions."
+  },
+  {
+    "policy_statement": "M12: Implement traffic control measures including low-emission/climate protection zones and introduce a congestion charge for passenger traffic in 2021–2025 per the Budapest Mobility Plan, alongside P+R expansion (target 22,000 P+R spaces by 2030) and related parking reforms.",
+    "verbatim_text": "## Traffic control to reduce emission, designation of low-emission zones and construction of the related infrastructure\n\nM12\n\n...The designation of climate protection zones...\n\nAs prognosticated in the BMP, the congestion charge would be introduced for passenger traffic in the period of 2021-2025.\n\n...Target year: 2030 ... Target year value: 22,000 pcs",
+    "policy_type": "sub",
+    "parent_policy_name": "Má-2 objective: Improve energy efficiency of transport infrastructure and support and develop environmentally friendly transport modes.",
+    "section_header": "5.   EMISSION REDUCTION ACTION PLAN",
+    "sector": "Transport",
+    "extraction_rationale": "Regulatory/economic instruments (zones, congestion charging) with stated introduction period and quantified P+R target."
+  },
+  {
+    "policy_statement": "Aá0 measure: Conduct local climate modelling, city-level rainwater runoff and sewer system modelling, and a detailed vulnerability assessment for Budapest to parameterize adaptation measures, by 2022.",
+    "verbatim_text": "## Climate modelling and vulnerability assessment\n\nAá0\n\nAs part of this measure, forecasts need to be generated on a local level... Following climate forecasts, it is also necessary to create a city-level rainwater runoff and sewage system model...\n\nIt is also necessary to conduct a detailed vulnerability examination for the territory of Budapest...\n\nTimeframe: 2022",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "Adaptation",
+    "extraction_rationale": "Standalone, named adaptation measure with concrete modelling/assessment outputs and a deadline."
+  },
+  {
+    "policy_statement": "Aá-1 objective: Develop Budapest’s green-blue infrastructure to support adaptation (and co-benefits for mitigation).",
+    "verbatim_text": "Objective Aá -1         Development of the green - blue infrastructure",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.2. ADAPTATION AND PREPARATION OBJECTIVES",
+    "sector": "Adaptation",
+    "extraction_rationale": "Named umbrella objective followed by multiple letter/numbered measures (A1–A7) in the Adaptation Action Plan."
+  },
+  {
+    "policy_statement": "A1: Increase and improve green areas and water surfaces, including creating/expanding support instruments (e.g., Environmental Protection Fund) for green community areas, green roofs, roof gardens, and green walls, with a target green area intensity value increase (52.5% to 57%) by 2030.",
+    "verbatim_text": "## Increasing the ratio of green areas and water surfaces\n\nA1\n\n...ratio of green areas needs to be increased... alternative green area elements, e.g. green roofs and green façades can be established...\n\n...recommend to widen the scope and enhance the volume of tender funds which support the establishing of green community areas, green roofs, roof gardens, green walls (e.g. Environmental Protection Fund).\n\nBase year value: 52.5% ... Target year value: 57%",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-1 objective: Develop Budapest’s green-blue infrastructure to support adaptation (and co-benefits for mitigation).",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific green-blue infrastructure measure with concrete instruments and quantified indicator/target."
+  },
+  {
+    "policy_statement": "A2: Create new public-purpose green areas (parks, gardens, promenades) and improve quality; increase per-capita green area supply to 7 m²/person by 2030 and 9 m²/person by 2050.",
+    "verbatim_text": "## Improving the ratio of green area and forest area\n\nA2\n\n...new green areas of public purposes... need to be created...\n\nBase year value: 6m2/person\n\nTarget year: 2030 ... 7m2/person\n\nTarget year: 2050 ... Target year value: 9m2/person",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-1 objective: Develop Budapest’s green-blue infrastructure to support adaptation (and co-benefits for mitigation).",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantified per-capita green space targets with explicit milestone years."
+  },
+  {
+    "policy_statement": "A3: Implement small watercourse revitalization programs (blue infrastructure), with a pilot on Rákos creek including an ecotourism corridor project to be implemented until 2024 and a target of 10 km revitalized sections by 2026.",
+    "verbatim_text": "## Blue infrastructure development (revitalization of small watercourses)\n\nA3\n\n...Rákos creek can be a suitable pilot project...\n\n...the Rákos creek ecotourism corridor project will be implemented until 2024...\n\nTarget year value: 10km",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-1 objective: Develop Budapest’s green-blue infrastructure to support adaptation (and co-benefits for mitigation).",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific adaptation infrastructure program with named pilot, timeframe, and a quantified target."
+  },
+  {
+    "policy_statement": "A4: Elaborate a 10-year rolling plan for planting trees in public spaces with annual timetables, technical preparation, and a communication protocol for tree felling/replacement; target managed public-space trees increasing from 107,000 (2020) to 130,000 by 2030.",
+    "verbatim_text": "## Elaboration of a plan for planting trees in public spaces\n\nA4\n\nIt is necessary to elaborate a 10 years' plan for planting trees in public spaces, then to continue rolling planning...\n\n...a communication protocol needs to be elaborated for the felling of trees...\n\nBase year value: 107,000 pcs; ... Target year value: 130,000 pcs;",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-1 objective: Develop Budapest’s green-blue infrastructure to support adaptation (and co-benefits for mitigation).",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "AFOLU",
+    "extraction_rationale": "Concrete planning and implementation measure with quantified tree target by 2030."
+  },
+  {
+    "policy_statement": "A5: Initiate amendments to higher-level and municipal legal rules to strengthen tree protection, including expert involvement in felling decisions and options for compensation payments to the Environmental Fund; update Budapest’s Regulation No. 10/2005 and require relevant standards in public procurement.",
+    "verbatim_text": "## Amendment of legal rules to protect trees\n\nA5\n\nIt is necessary to initiate the amendment of higher-level legal rules to ensure the more effective protection of trees...\n\n...it is also allowed to make payment into the Environmental Fund instead of replacing a tree...\n\nThe relevant regulation of the Municipality of Budapest (Regulation No. 10/2005. (III. 8.)...) requires some update...\n\nIn public procurement projects, the application of the standard 'MSZ 12172'... and 'MSZ 12042'... shall be required.\n\nTimeframe: 2022",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-1 objective: Develop Budapest’s green-blue infrastructure to support adaptation (and co-benefits for mitigation).",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "AFOLU",
+    "extraction_rationale": "Explicit legal/regulatory change initiative with a timeframe and named instruments/standards."
+  },
+  {
+    "policy_statement": "A6: Establish and operate a uniform, up-to-date green space cadastre for Budapest by 2024, expanding the FATÁR system to include district-managed green areas and ensuring methodology, data obligations, access, publicity, and integration.",
+    "verbatim_text": "## Establishing and operation of a uniform, up-to-date green space cadastre\n\nA6\n\nIt is necessary to create an up-to-date green space cadastre encompassing the entire public administrative area of Budapest... It is advisable to further develop the FATÁR application...\n\nTimeframe: 2024",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-1 objective: Develop Budapest’s green-blue infrastructure to support adaptation (and co-benefits for mitigation).",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific institutional/data-system measure with deadline year and clear deliverable."
+  },
+  {
+    "policy_statement": "A7: Promote revitalization of brownfield areas by updating and publishing a brownfield cadastre and modifying urban planning instruments to prioritize green-area use and redirect development to brownfields rather than designating new buildable greenfield areas; support temporary greening on municipally managed properties.",
+    "verbatim_text": "## Promotion of the revitalisation of brown-field areas\n\nA7\n\nBy the regular updating and publishing of the cadastre of brown-field areas...\n\n...urban planning instruments should be modified... giving priority to the use of land as green areas...\n\n...developments should be diverted to brown-field areas instead of making greenfield investments... it is advisable not to designate any new areas to be built up in the Settlement Structure Plan...",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-1 objective: Develop Budapest’s green-blue infrastructure to support adaptation (and co-benefits for mitigation).",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Concrete planning/instrument commitments (cadastre updates; planning instrument modifications) aimed at brownfield-first development and greening."
+  },
+  {
+    "policy_statement": "Aá-2 objective: Mitigate the urban heat island effect in the built environment.",
+    "verbatim_text": "Objective Aá -2         Mitigation of the heat island effect in the built environment",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.2. ADAPTATION AND PREPARATION OBJECTIVES",
+    "sector": "Adaptation",
+    "extraction_rationale": "Umbrella adaptation objective with sub-measures A8 and A9 described in the Adaptation Action Plan."
+  },
+  {
+    "policy_statement": "A8: Protect ventilation corridors through Budapest’s Settlement Structure Plan and Rules of Urban Planning by not supporting new buildable area designation or increased building heights in these corridors; compile a manual of good district examples to support climate-protection-related planning instrument review (continuous 2021–2030).",
+    "verbatim_text": "## Protection of ventilation corridors, ensuring sufficient airspace ratio in streets\n\nA8\n\n...provide for the ventilation corridors... In these areas, the designation of new areas to be built up or the raising of the permitted building height may not be supported...\n\nThe goal is to compile a manual...\n\nTimeframe: continuous (2021-2030)",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-2 objective: Mitigate the urban heat island effect in the built environment.",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit regulatory/planning commitment plus a concrete deliverable (manual) with stated continuous timeframe."
+  },
+  {
+    "policy_statement": "A9: Prioritize climate protection in municipal public procurement and support schemes by promoting climate-friendly construction materials and technologies (e.g., permeable/high-albedo pavements, green roofs/façades) and consider adopting an environmental building rating scheme for municipal investments.",
+    "verbatim_text": "## Promotion of climate friendly construction materials and technologies\n\nA9\n\nClimate protection has to be a priority criterion in the public procurement processes and the tender-based support schemes of the Municipality of Budapest...\n\nInstead of traditional asphalt, 'cooler' and, if possible, permeable surfaces of higher albedo should be applied.\n\n...it is advisable to introduce one of the environmentally friendly building rating schemes or an own scheme.",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-2 objective: Mitigate the urban heat island effect in the built environment.",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "Buildings",
+    "extraction_rationale": "Concrete procurement/support policy direction specifying technologies and instruments (procurement criteria, rating schemes)."
+  },
+  {
+    "policy_statement": "Aá-3 objective: Develop the flood control system.",
+    "verbatim_text": "Objective Aá -3         Development of the flood control system",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.2. ADAPTATION AND PREPARATION OBJECTIVES",
+    "sector": "Adaptation",
+    "extraction_rationale": "Umbrella objective with sub-measure A10 in the Adaptation Action Plan."
+  },
+  {
+    "policy_statement": "A10: Develop and further construct flood control structures to increase the length of flood protection line meeting DFE + 1.3m safety level from 33.73 km (2019) to 69 km by 2030.",
+    "verbatim_text": "## Construction and development of flood control structures\n\nA10\n\n...the flood protection line needs to be developed urgently...\n\nIndicator... Base year value: 33.73 km\n\nTarget year: 2030 ... Target year value: 69 km",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-3 objective: Develop the flood control system.",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific infrastructure development measure with quantified indicator and 2030 target."
+  },
+  {
+    "policy_statement": "Aá-4 objective: Implement adaptive rainwater management.",
+    "verbatim_text": "Objective Aá -4         Adaptive rainwater management",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.2. ADAPTATION AND PREPARATION OBJECTIVES",
+    "sector": "Adaptation",
+    "extraction_rationale": "Umbrella objective with sub-measures A11 and A12 in the Adaptation Action Plan."
+  },
+  {
+    "policy_statement": "A11: Develop a hybrid rainwater drainage management system for Budapest via review of sewage plans, inventory and modelling of drainage structures, identification of critical points, and creation of a mid- and long-term rainwater drainage concept; establish smart digital monitoring and control elements (continuous).",
+    "verbatim_text": "## Surface runoff regulation and the system required for its safety\n\nA11\n\nIn the case of Budapest, we could aim at the creation of a hybrid system...\n\n...necessary to review general sewage plans... lay the foundations for modelling the universal rainwater drainage...\n\nThe complete midand long-term rainwater drainage concept for Budapest is to be created...\n\nA smart, digital system needs to be established...",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-4 objective: Implement adaptive rainwater management.",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete system-planning and infrastructure/ICT measure describing specific actions (review, modelling, concept, smart system)."
+  },
+  {
+    "policy_statement": "A12: Support on-site rainwater retention and utilization (and greywater use) through integrating such systems into public investments and creating regulatory instruments and support schemes for private investments; require/encourage delayed runoff, retention or reuse for major emitters (e.g., industry, malls, office blocks) (continuous).",
+    "verbatim_text": "## Supporting the utilization and retention of rainwater\n\nA12\n\n...for private investments, the appropriate regulatory instruments... and the related support system should be elaborated...\n\nIn the case of major emitters (industry, shopping malls, office blocks), users should be made interested in applying or compelled to apply the delayed runoff, retention or secondary use of rainwater.",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-4 objective: Implement adaptive rainwater management.",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "Adaptation",
+    "extraction_rationale": "Policy includes regulatory/support mechanisms and explicitly notes compulsion/requirements for major emitters."
+  },
+  {
+    "policy_statement": "Aá-5 objective: Prepare for extreme weather conditions and health impacts of climate change.",
+    "verbatim_text": "Objective Aá -5         Preparation for extreme weather conditions and the health impacts of climate change",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.2. ADAPTATION AND PREPARATION OBJECTIVES",
+    "sector": "Adaptation",
+    "extraction_rationale": "Umbrella objective with measures A13–A16."
+  },
+  {
+    "policy_statement": "A13: Adapt the transport system to extreme weather by incorporating climate considerations into design standards, materials and procurement; consider permeable pavements, tree planting/grassing of tracks, and develop emergency scenarios for service disruptions (continuous).",
+    "verbatim_text": "## Preparation of the transport system for extreme weather phenomena\n\nA13\n\nTransport systems and public utility networks should be designed with consideration to the prognostications...\n\nThe aspects described above need to be enforced in the planning process, in public procurement process...\n\nIt is recommended to elaborate an emergency scenario for the resolution of operating disruptions caused by extreme weather conditions...",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-5 objective: Prepare for extreme weather conditions and health impacts of climate change.",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "Transport",
+    "extraction_rationale": "Specific adaptation actions affecting infrastructure design/procurement and emergency preparedness."
+  },
+  {
+    "policy_statement": "A14: Ensure hazard control and emergency planning accounts for climate-change-related extreme events (drought, flood, flash flood, critical infrastructure damage) and review citizen information publications accordingly (continuous).",
+    "verbatim_text": "## Managing hazards caused by extreme weather phenomena\n\nA14\n\nIt is necessary to examine and ensure that emergency plans manage extreme events which may occur due to climate change (drought, flood, flash flood, damage to critical infrastructure, etc.), and to review the publication prepared to inform the citizens.\n\nTimeframe: continuous",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-5 objective: Prepare for extreme weather conditions and health impacts of climate change.",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit commitment to update emergency plans and public guidance for climate-related hazards."
+  },
+  {
+    "policy_statement": "A15: Examine climate vulnerability of drinking water bases and supply and implement climate-adaptive development/operation, including capacity enhancements and reconstruction of water production wells; Budapest Waterworks has started development of 60 water production wells (timeframe 2022).",
+    "verbatim_text": "## Examination of the climate vulnerability of water bases and drinking water supply and their climate-adaptive development and operation\n\nA15\n\n...there is a justified demand for elaborating operational changes for periods hit by extreme drought...\n\nBudapest Waterworks has started the development of 60 water production wells as part of a project.\n\nTimeframe: 2022",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-5 objective: Prepare for extreme weather conditions and health impacts of climate change.",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "Water",
+    "extraction_rationale": "Concrete adaptation measure for water supply with specified actions and timeline."
+  },
+  {
+    "policy_statement": "A16: Incorporate preparation for windstorms and flood/flash flood/inundation risks into preservation and renovation of municipal buildings, including attention to sizing of structures, basements, windows, sun shades, and waterproofing (by 2030).",
+    "verbatim_text": "## Preparation for extreme weather conditions during the preservation and renovation of buildings\n\nA16\n\n...the Municipality has to pay priority attention concerning its own building stock to the proper sizing of support structures, basements, windows, sun shades and waterproofing sheets.\n\nTimeframe: 2030",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-5 objective: Prepare for extreme weather conditions and health impacts of climate change.",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "Buildings",
+    "extraction_rationale": "Defined adaptation action for municipal building asset management with a target year."
+  },
+  {
+    "policy_statement": "Aá-6 objective: Mitigate vulnerability of natural and landscape values.",
+    "verbatim_text": "Objective Aá -6         Mitigation of the vulnerability of natural and landscape values",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.2. ADAPTATION AND PREPARATION OBJECTIVES",
+    "sector": "AFOLU",
+    "extraction_rationale": "Umbrella objective with measures A17–A19."
+  },
+  {
+    "policy_statement": "A17: Prepare a detailed climate change risk and vulnerability assessment for natural values by 2023, to support nature conservation and invasive species control.",
+    "verbatim_text": "## Preparation of the detailed climate change risk and vulnerability assessment for natural values\n\nA17\n\n...requires... the assessment and monitoring of risks and vulnerabilities.\n\nTimeframe: 2023",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-6 objective: Mitigate vulnerability of natural and landscape values.",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific assessment deliverable with timeline, supporting adaptation/nature management."
+  },
+  {
+    "policy_statement": "A18: Expand protected natural sites of local importance, examining extensions continuously, targeting growth from 861 ha (2019) to 1,200 ha by 2026 (and referencing further planned additions).",
+    "verbatim_text": "## Continuing the expansion and extension of protected natural sites of local importance\n\nA18\n\n...new areas are declared to be protected sites on an estimated area of 800 ha...\n\nBase year value: 861 ha\n\nTarget year: 2026 ... Target year value: 1200 ha",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-6 objective: Mitigate vulnerability of natural and landscape values.",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "AFOLU",
+    "extraction_rationale": "Land protection expansion measure with quantified baseline and target area."
+  },
+  {
+    "policy_statement": "A19: Implement environmental/nature conservation management including confinement of invasive plant and animal species in protected natural sites, supported by continuous monitoring and data collection; target is to reduce the highest coverage ratio of invasive plant species by 2030.",
+    "verbatim_text": "## Environmental protection management, confinement of invasive plant and animal species\n\nA19\n\nOne of the most important tasks of this management is to confine invasive species...\n\nIndicator... Base year value: 18%\n\nTarget year: 2030 ... Target year value: it should be reduced",
+    "policy_type": "sub",
+    "parent_policy_name": "Aá-6 objective: Mitigate vulnerability of natural and landscape values.",
+    "section_header": "6.   ADAPTATION ACTION PLAN",
+    "sector": "AFOLU",
+    "extraction_rationale": "Ongoing management measure with an explicit performance indicator direction and target year."
+  },
+  {
+    "policy_statement": "SZ-1 objective: Implement climate-conscious city management, with cooperative leadership by the Municipality taking the lead in climate protection.",
+    "verbatim_text": "Objective SZ-1          Climate conscious city management: cooperative city management taking the lead in climate protection",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.3. AWARENESS-RAISING AND CLIMATE-CONSCIOUSNESS OBJECTIVES",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Named umbrella awareness/city management objective with measures SZ1–SZ4 described subsequently."
+  },
+  {
+    "policy_statement": "SZ1: Promote climate-conscious operation within the Mayor’s Office and its companies through supported initiatives and training, targeting 1,500 persons participating in training by 2030.",
+    "verbatim_text": "## Climate conscious workplace, climate conscious colleagues\n\nSZ1\n\nThe goal of the measure is to support and encourage initiatives promoting the climateconscious operation of the Mayor's Office and its companies and to introduce climate protection measures.\n\nTarget year value: 1,500 persons",
+    "policy_type": "sub",
+    "parent_policy_name": "SZ-1 objective: Implement climate-conscious city management, with cooperative leadership by the Municipality taking the lead in climate protection.",
+    "section_header": "7.  AWARENESS-RAISING  AND  CLIMATE-CONSCIOUSNESS ACTION PLAN",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Specific organizational measure with quantified participation target and timeframe."
+  },
+  {
+    "policy_statement": "SZ2: Integrate horizontal climate protection principles into urban development and sectoral strategies, climate due diligence for major investments, and into decrees and tender criteria; ongoing continuous implementation.",
+    "verbatim_text": "## Enforcement of horizontal climate protection principles...\n\nSZ2\n\nThis measure is intended to integrate climate protection measures and/or horizontal climate protection principles during the preparation and review of urban development and thematic sectoral strategies...\n\nIt is also necessary to enforce climate protection principles... when the criteria for the tenders announced by the capital city are determined.\n\nTimeframe: continuous",
+    "policy_type": "sub",
+    "parent_policy_name": "SZ-1 objective: Implement climate-conscious city management, with cooperative leadership by the Municipality taking the lead in climate protection.",
+    "section_header": "7.  AWARENESS-RAISING  AND  CLIMATE-CONSCIOUSNESS ACTION PLAN",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Cross-cutting governance commitment describing specific integration points (strategies, investments, decrees, tenders)."
+  },
+  {
+    "policy_statement": "SZ3: Operate the Budapest Climate Change Platform and an online platform to share best practices and build partnerships, targeting 20 sessions and 30,000 visitors by 2030.",
+    "verbatim_text": "## Operation of the Budapest Climate Change Program and a dedicated online platform...\n\nSZ3\n\n...The platform facilitates... sharing of best practices... comprehensive follow-up... and the creation of a database...\n\nTarget year: 2030 ... Target year value: 20 sessions, 30,000 visitors",
+    "policy_type": "sub",
+    "parent_policy_name": "SZ-1 objective: Implement climate-conscious city management, with cooperative leadership by the Municipality taking the lead in climate protection.",
+    "section_header": "7.  AWARENESS-RAISING  AND  CLIMATE-CONSCIOUSNESS ACTION PLAN",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Specific institutional platform measure with quantified output indicators and target year."
+  },
+  {
+    "policy_statement": "SZ4: Establish cooperation with the corporate sector to support Budapest’s climate objectives, including involving companies in financing/implementing mitigation, adaptation and awareness measures and organizing climate-friendly alliances, voluntary commitments, awards and competitions (continuous to 2030).",
+    "verbatim_text": "## Establishing cooperation with the corporate sector...\n\nSZ4\n\nThe purpose of the measure is to establish cooperation between the Municipality of Budapest and companies and to involve companies in the implementation and financing of the mitigation, adaptation and awareness-raising measure of Budapest...\n\nThe Municipality of Budapest also wishes to promote climate-conscious city management by organising and coordinating climate-friendly alliances with companies, voluntary commitments, awards and competitions.",
+    "policy_type": "sub",
+    "parent_policy_name": "SZ-1 objective: Implement climate-conscious city management, with cooperative leadership by the Municipality taking the lead in climate protection.",
+    "section_header": "7.  AWARENESS-RAISING  AND  CLIMATE-CONSCIOUSNESS ACTION PLAN",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Defined cooperation/engagement measure with clear mechanisms (alliances, commitments, awards) and implementation intent."
+  },
+  {
+    "policy_statement": "Carry out thematic awareness-raising campaigns and informational activities via the Mayor’s Office and Budapest business organisations, focusing on reducing household energy consumption, with annual financing of HUF 100 million and 2030 energy/CO2 targets.",
+    "verbatim_text": "Thematic  awareness-raising  campaigns  and  informational  activities  through  the Mayor's  Office  and  the business  organisations  of  Budapest,  with  special  regard  to reducing the volume of household energy consumption\n\n| Necessary financing | HUF 100 million per annum |\n| ... |\n| Target year: 2030 | Target year value: 432,496 MWh; 85,744 tCO 2 /annum |",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "SZ-2 Climate conscious citizens: strengthening the environmental awareness and responsibility among the population and economic actors",
+    "sector": "Cross-cutting / Awareness raising",
+    "extraction_rationale": "This is a defined municipal measure (SZ5) with specified activities plus committed annual financing and quantified 2030 mitigation targets (MWh saved and tCO2/yr)."
+  },
+  {
+    "policy_statement": "Develop the adaptation knowledge and ability of the population (heat waves, rainwater management, property protection, green infrastructure) through ongoing information/awareness actions, targeting 100,000 people reached by 2030.",
+    "verbatim_text": "## Developing  the  adaptation  knowledge  and  ability  of  the  population,  particularly  in respect of heat waves, rainwater management, property protection and green infrastructure\n\n| Indicator | Number of persons reached actively and passively |\n| Base year: 2020 | Base year value: n.a. |\n| Target year: 2030 | Target year value: 100 000 |",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Developing the adaptation knowledge and ability of the population, particularly in respect of heat waves, rainwater management, property protection and green infrastructure",
+    "sector": "Adaptation / Public health & awareness",
+    "extraction_rationale": "Concrete adaptation measure (SZ6) with an explicit quantified target (people reached by 2030) and described intervention focus areas."
+  },
+  {
+    "policy_statement": "Create a sustainable, green and innovative procurement strategy to enforce climate protection aspects in the public procurement practice of the Mayor’s Office and municipal-owned companies, targeted for 2022.",
+    "verbatim_text": "## Promoting  climate  protection  aspects  in  the  ordering  of  public  services  and  public procurement processes\n\nThe purpose of the objective is to enforce climate protection aspects in the public procurement practice of the Mayor's Office and the companies owned by the capital city.\n\nFor  this  reason,  the Municipality of Budapest wishes to create its sustainable, green and innovative procurement strategy as soon as possible.\n\n| Timeframe | 2022 |",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Promoting climate protection aspects in the ordering of public services and public procurement processes",
+    "sector": "Cross-cutting / Public procurement",
+    "extraction_rationale": "A specific municipal commitment to develop a named strategy (procurement strategy) with a stated purpose and timeframe (2022)."
+  },
+  {
+    "policy_statement": "Review the SECAP every two years and require responsible Mayor’s Office departments to report on progress every six months to the Chief Clerk (who reports directly to the Mayor).",
+    "verbatim_text": "It is to be reviewed every 2 years to what extent the measures and objectives of the SECAP have been realized. It is  recommended  for  the  responsible  department s  of  the  Mayor's  Office  to  report  on  the  progress  achieved regarding the measures every six months to the Chief Clerk, who will then report to the Mayor directly.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "8. MONITORING AND REVIEW",
+    "sector": "Cross-cutting / MRV",
+    "extraction_rationale": "Sets an explicit governance process with defined periodicity (biennial review and semiannual reporting), constituting an MRV/implementation policy."
+  }
+]

@@ -1,0 +1,1821 @@
+[
+  {
+    "cluster_id": 0,
+    "cluster_type": "parent_with_subs",
+    "section_header": "4.1.1 using sustainable means of transport",
+    "parent": {
+      "policy_statement": "Using sustainable means of transport (key actions related to modes of transport).",
+      "verbatim_text": "## 4.1.1 Using sustainable means of transport\n\n## Key actions related to modes of transport (29 kt CO₂e).",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "4.1.1 Using sustainable means of transport",
+      "sector": "Transport",
+      "extraction_rationale": "Introduces a named action entity with a numbered list of specific actions under it."
+    },
+    "subs": [
+      {
+        "policy_statement": "Improve services in traffic nodes and smoothness of traffic connections, including implementing HSL Solmu and park-and-ride action plans and improving real-time wayfinding via signposts and apps.",
+        "verbatim_text": "1. The services offered in traffic nodes and the smoothness of the traffic connections will be improved.\n- The action plan devised in connection with HSL's Solmu project will be implemented.\n- The regional action plan for park-and-ride services (HSL's publication 8/2017) in Helsinki will be implemented.\n- The number of signposts and mobile applications will be increased to make the travel chain easy and quick to perceive in real time.",
+        "policy_type": "sub",
+        "parent_policy_name": "Using sustainable means of transport (key actions related to modes of transport).",
+        "section_header": "4.1.1 Using sustainable means of transport",
+        "sector": "Transport",
+        "extraction_rationale": "Specific interventions with implementation commitments (implement named action plans; increase signposts/apps)."
+      },
+      {
+        "policy_statement": "Complete the target network for bicycle traffic in the inner city by 2025.",
+        "verbatim_text": "2. The target network for bicycle traffic in the inner city will be completed by 2025.",
+        "policy_type": "sub",
+        "parent_policy_name": "Using sustainable means of transport (key actions related to modes of transport).",
+        "section_header": "4.1.1 Using sustainable means of transport",
+        "sector": "Transport",
+        "extraction_rationale": "Time-bound infrastructure completion commitment."
+      },
+      {
+        "policy_statement": "Complete the Baana network for bicycle traffic by 2030.",
+        "verbatim_text": "3. The Baana network for bicycle traffic will be completed by 2030.",
+        "policy_type": "sub",
+        "parent_policy_name": "Using sustainable means of transport (key actions related to modes of transport).",
+        "section_header": "4.1.1 Using sustainable means of transport",
+        "sector": "Transport",
+        "extraction_rationale": "Time-bound infrastructure completion commitment."
+      },
+      {
+        "policy_statement": "Expand the cycling lane network with high-level winter maintenance.",
+        "verbatim_text": "4. The cycling lane network with high-level winter maintenance will be expanded.",
+        "policy_type": "sub",
+        "parent_policy_name": "Using sustainable means of transport (key actions related to modes of transport).",
+        "section_header": "4.1.1 Using sustainable means of transport",
+        "sector": "Transport",
+        "extraction_rationale": "Specific action to expand maintained cycling infrastructure."
+      },
+      {
+        "policy_statement": "Promote a pleasant and safe pedestrian environment, including by implementing the traffic safety development programme.",
+        "verbatim_text": "5. A pleasant and safe environment for pedestrians will be promoted, for example by implementing the development programme for traffic safety.",
+        "policy_type": "sub",
+        "parent_policy_name": "Using sustainable means of transport (key actions related to modes of transport).",
+        "section_header": "4.1.1 Using sustainable means of transport",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete intervention referencing implementation of a development programme."
+      },
+      {
+        "policy_statement": "Develop cycling services (city bikes, hubs, parking) and related communications, and improve the ability/capacity to carry bicycles on heavy rail traffic.",
+        "verbatim_text": "6. Services for bicycling (city bikes, bike hubs, bike parking, etc.) and the related communications will be developed. The ability to carry bicycles in heavy train traffic will be developed and the capacity for this will be increased.",
+        "policy_type": "sub",
+        "parent_policy_name": "Using sustainable means of transport (key actions related to modes of transport).",
+        "section_header": "4.1.1 Using sustainable means of transport",
+        "sector": "Transport",
+        "extraction_rationale": "Specific service and capacity improvements committed."
+      },
+      {
+        "policy_statement": "Implement the development programme for tram traffic in Helsinki and achieve objectives for tram speed, flow, reliability and disturbance levels.",
+        "verbatim_text": "7. The development programme for tram traffic in Helsinki will be implemented. The objectives for the speed, flow, reliability and disturbance level of tram traffic will be achieved.",
+        "policy_type": "sub",
+        "parent_policy_name": "Using sustainable means of transport (key actions related to modes of transport).",
+        "section_header": "4.1.1 Using sustainable means of transport",
+        "sector": "Transport",
+        "extraction_rationale": "Implementation of a named programme with defined performance objectives."
+      },
+      {
+        "policy_statement": "Improve public transport service level and rail network coverage by ensuring passenger demand via coordinated land use/transport investment planning and strengthening the trunk network.",
+        "verbatim_text": "8. The service level of public transport and the coverage of the rail network will be improved.\n- By ensuring sufficient passenger demand through simultaneous planning of land use and traffic investments (such as complementary construction).\n- By strengthening the efficient trunk network of public transport.",
+        "policy_type": "sub",
+        "parent_policy_name": "Using sustainable means of transport (key actions related to modes of transport).",
+        "section_header": "4.1.1 Using sustainable means of transport",
+        "sector": "Transport",
+        "extraction_rationale": "Specific improvement actions stated as commitments."
+      },
+      {
+        "policy_statement": "Implement the cycling promotion programme and the bicycle parking development programme.",
+        "verbatim_text": "9. The promotion programme for cycling and the development programme for bicycle parking will be implemented.",
+        "policy_type": "sub",
+        "parent_policy_name": "Using sustainable means of transport (key actions related to modes of transport).",
+        "section_header": "4.1.1 Using sustainable means of transport",
+        "sector": "Transport",
+        "extraction_rationale": "Implementation commitment for named programmes."
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "cluster_type": "parent_with_subs",
+    "section_header": "4.1.2 pricing of transport",
+    "parent": {
+      "policy_statement": "Pricing of transport (parking, public transport and vehicle traffic pricing system) (key actions related to pricing of transport).",
+      "verbatim_text": "## 4.1.2 Pricing of transport\n\nKey actions related to the pricing of transport (35 kt CO₂e).",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "4.1.2 Pricing of transport",
+      "sector": "Transport",
+      "extraction_rationale": "Introduces a named action entity with numbered key actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "Prepare for a trial of a vehicle traffic pricing system (road toll/congestion tax) through additional surveys with the State/region, including examining allocation of toll revenues to transport system development.",
+        "verbatim_text": "10. A pricing system for vehicle traffic (a road toll or congestion tax):\n\n- Necessary additional surveys conducted primarily together with the State and the municipalities in the region, helping the City prepare for the start of the trial. We will examine the allocation of road tolls for the development of the region's transport system as a part of the shared investment package of the State and the municipalities, which covers multiple terms of government. The requirement for the pricing is that the income from road tolls be allocated for the development of the region's transport system.",
+        "policy_type": "sub",
+        "parent_policy_name": "Pricing of transport (parking, public transport and vehicle traffic pricing system) (key actions related to pricing of transport).",
+        "section_header": "4.1.2 Pricing of transport",
+        "sector": "Transport",
+        "extraction_rationale": "Specific commitment to conduct surveys and prepare for a trial; sets condition on revenue allocation."
+      },
+      {
+        "policy_statement": "Continue current parking policy until 2021 and raise parking fees thereafter to reduce CO2 emissions, with business impact studied before the decision.",
+        "verbatim_text": "11. The current parking policy will continue until 2021 and, afterwards, the parking fees will be raised further to reduce CO2 emissions. The impact on business will be studied before making the decision.",
+        "policy_type": "sub",
+        "parent_policy_name": "Pricing of transport (parking, public transport and vehicle traffic pricing system) (key actions related to pricing of transport).",
+        "section_header": "4.1.2 Pricing of transport",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete policy continuation and fee increase commitment with timing (until 2021) and conditional study."
+      },
+      {
+        "policy_statement": "Scale parking fees more heavily based on emissions and to promote joint use of vehicles.",
+        "verbatim_text": "12. Parking fees will be scaled more heavily from the perspective of emissions and the promotion of the joint use of vehicles.",
+        "policy_type": "sub",
+        "parent_policy_name": "Pricing of transport (parking, public transport and vehicle traffic pricing system) (key actions related to pricing of transport).",
+        "section_header": "4.1.2 Pricing of transport",
+        "sector": "Transport",
+        "extraction_rationale": "Specific pricing reform commitment."
+      },
+      {
+        "policy_statement": "Expand parking fee zones.",
+        "verbatim_text": "13. The parking fee zones will be expanded.",
+        "policy_type": "sub",
+        "parent_policy_name": "Pricing of transport (parking, public transport and vehicle traffic pricing system) (key actions related to pricing of transport).",
+        "section_header": "4.1.2 Pricing of transport",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete parking management action."
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "cluster_type": "parent_with_subs",
+    "section_header": "4.1.3 the growing city structure",
+    "parent": {
+      "policy_statement": "The growing city structure (key actions related to the growing city structure).",
+      "verbatim_text": "## 4.1.3 The growing city structure\n\nKey actions related to the growing city structure (7 kt CO 2 e).",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "4.1.3 The growing city structure",
+      "sector": "Transport",
+      "extraction_rationale": "Named action entity with numbered key actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "Promote public transport and other sustainable travel by complementing the city's community structure (as part of MAL planning).",
+        "verbatim_text": "14. The use of public transport and other sustainable means of travel will be promoted by complementing the community structure of the City.",
+        "policy_type": "sub",
+        "parent_policy_name": "The growing city structure (key actions related to the growing city structure).",
+        "section_header": "4.1.3 The growing city structure",
+        "sector": "Transport",
+        "extraction_rationale": "Specific land-use/urban form intervention to shift mode share."
+      },
+      {
+        "policy_statement": "Update parking norms to better support sustainable transport in new areas and complementary construction of existing areas.",
+        "verbatim_text": "15. The parking norms will be updated to better support sustainable transport both in the design of new areas and in the complementary construction of existing areas.",
+        "policy_type": "sub",
+        "parent_policy_name": "The growing city structure (key actions related to the growing city structure).",
+        "section_header": "4.1.3 The growing city structure",
+        "sector": "Transport",
+        "extraction_rationale": "Regulatory/standards update with clear purpose."
+      },
+      {
+        "policy_statement": "Encourage creation of blocks and areas focusing on bicycle and pedestrian traffic through land use planning.",
+        "verbatim_text": "16. The creation of blocks and areas that focus on bicycle and pedestrian traffic will be encouraged through land use planning.",
+        "policy_type": "sub",
+        "parent_policy_name": "The growing city structure (key actions related to the growing city structure).",
+        "section_header": "4.1.3 The growing city structure",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete planning action to prioritize active travel."
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "cluster_type": "parent_with_subs",
+    "section_header": "4.1.4 changes in vehicle technology",
+    "parent": {
+      "policy_statement": "Changes in vehicle technology (key actions related to the changes in vehicle technology).",
+      "verbatim_text": "## 4.1.4 Changes in vehicle technology\n\nKey actions related to the changes in vehicle technology (126 kt CO₂e).",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "4.1.4 Changes in vehicle technology",
+      "sector": "Transport",
+      "extraction_rationale": "Named action entity with numbered sub-actions under it."
+    },
+    "subs": [
+      {
+        "policy_statement": "Develop an environmental zone by assessing expansion and inclusion of CO2 criteria (2017–2021) and preparing a CO2-based environmental zone ready for introduction (2021–2025).",
+        "verbatim_text": "17. The environmental zone will be developed:\n\n- Assessments will be carried out for expanding the current environmental zone, including CO2 emissions in the criteria and applying the requirements to different types of vehicles (council term 20172021).\n- A CO2 emissions based environmental zone will be ready for introduction based on the assessment. (council term 2021-2025).",
+        "policy_type": "sub",
+        "parent_policy_name": "Changes in vehicle technology (key actions related to the changes in vehicle technology).",
+        "section_header": "4.1.4 Changes in vehicle technology",
+        "sector": "Transport",
+        "extraction_rationale": "Time-bound regulatory preparation and readiness commitment."
+      },
+      {
+        "policy_statement": "Enable market-based construction of public charging infrastructure for electric cars, implementing recommendations of the electric traffic working group (by 2035).",
+        "verbatim_text": "18. Market-based construction of public charging infrastructure for electric cars will be made possible. Implemented as per the recommendations of the electric traffic working group.\n\nTime span: until 2035.",
+        "policy_type": "sub",
+        "parent_policy_name": "Changes in vehicle technology (key actions related to the changes in vehicle technology).",
+        "section_header": "4.1.4 Changes in vehicle technology",
+        "sector": "Transport",
+        "extraction_rationale": "Specific enabling action for charging infrastructure with stated implementation basis and timeframe."
+      },
+      {
+        "policy_statement": "Tighten environmental criteria in competitive bidding for delivery/heavy delivery/utilities and machinery services (and related contract work), monitor compliance after procurement, and research introducing an environmental bonus system.",
+        "verbatim_text": "19. The City of Helsinki will develop and tighten the environmental criteria (incl. alternative fuel sources, emission classes) in all competitive bidding processes for delivery services, heavy delivery services and utility vehicle and machinery services, as well as in competitive bidding processes for contract work including any of the above-mentioned services. Once the procurement process is completed, the client will monitor the environmental criteria. An environmental bonus system will be introduced into the competitive bidding processes ... will be researched (cf. HSL).",
+        "policy_type": "sub",
+        "parent_policy_name": "Changes in vehicle technology (key actions related to the changes in vehicle technology).",
+        "section_header": "4.1.4 Changes in vehicle technology",
+        "sector": "Transport",
+        "extraction_rationale": "Procurement policy change with monitoring and bonus-system research."
+      },
+      {
+        "policy_statement": "Apply environmental criteria to procurement/leasing of City vehicles; Stara and HKL fleets will only use vehicles running on biofuels or renewable electricity by 2020.",
+        "verbatim_text": "20. The environmental criteria will be applied to procurement of the City's own vehicles and leasing vehicles. The fleets of Stara and HKL will only use vehicles that run on biofuels or renewable electricity by 2020.",
+        "policy_type": "sub",
+        "parent_policy_name": "Changes in vehicle technology (key actions related to the changes in vehicle technology).",
+        "section_header": "4.1.4 Changes in vehicle technology",
+        "sector": "Transport",
+        "extraction_rationale": "Clear requirement plus quantified deadline (by 2020) for city fleets."
+      },
+      {
+        "policy_statement": "Take an active role in developing city logistics and incentives for low-emissions delivery traffic by researching a delivery parking ID system with emissions-based pricing and expanding loading/unloading points.",
+        "verbatim_text": "21. The City of Helsinki will have an active role in developing city logistics and incentives to encourage low-emissions delivery traffic\n\n- The introduction of a parking ID system for delivery traffic, implementing environmental criteria-based price categories for the parking ID system and expanding the network of loading and unloading points for delivery traffic will be researched.",
+        "policy_type": "sub",
+        "parent_policy_name": "Changes in vehicle technology (key actions related to the changes in vehicle technology).",
+        "section_header": "4.1.4 Changes in vehicle technology",
+        "sector": "Transport",
+        "extraction_rationale": "Specific measures (research and system design) to steer freight/deliveries."
+      },
+      {
+        "policy_statement": "HSL targets: 10% of ordered bus traffic operated with electric buses by 2022, 30% by 2025, and 90% of ordered traffic run on biofuels by 2020.",
+        "verbatim_text": "22. HSL will continue to pursue its objectives; for example, 10 % of the bus traffic ordered by HSL will be operated using electric buses by 2022, with an increase to 30 % by 2025; and 90 % of the traffic ordered by HSL will be run on biofuels (renewable next-generation biodiesel and biogas) by 2020.",
+        "policy_type": "sub",
+        "parent_policy_name": "Changes in vehicle technology (key actions related to the changes in vehicle technology).",
+        "section_header": "4.1.4 Changes in vehicle technology",
+        "sector": "Transport",
+        "extraction_rationale": "Multiple quantified targets with deadlines for bus fleet decarbonization."
+      },
+      {
+        "policy_statement": "Expand charging infrastructure for buses as part of the bus traffic competitive bidding programme.",
+        "verbatim_text": "23. The charging infrastructure for buses will be expanded as part of the bus traffic competitive bidding programme.",
+        "policy_type": "sub",
+        "parent_policy_name": "Changes in vehicle technology (key actions related to the changes in vehicle technology).",
+        "section_header": "4.1.4 Changes in vehicle technology",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete infrastructure expansion tied to procurement programme."
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "cluster_type": "parent_with_subs",
+    "section_header": "4.1.5 reducing the emissions from the harbours",
+    "parent": {
+      "policy_statement": "Reducing the emissions from the harbours (key actions related to reducing the emissions from the Port operations).",
+      "verbatim_text": "## 4.1.5 Reducing the emissions from the harbours\n\nKey actions related to reducing the emissions from the Port operations (27 kt CO₂e).",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "4.1.5 Reducing the emissions from the harbours",
+      "sector": "Transport",
+      "extraction_rationale": "Named action entity with numbered key actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "Port of Helsinki will create a 'Carbon-neutral Port by 2035' Action Plan including periodic energy reviews, advancing shore power, environmental criteria for machinery/vehicles, enabling low-emission fuel bunkering, and potential discounts/support for shipping companies; and enabling more energy-efficient ships in Vuosaari Harbour.",
+        "verbatim_text": "24. The Port of Helsinki will create the Carbon-neutral Port by 2035 Action Plan which will include the following types of actions:\n\n- Energy reviews performed every four years in accordance with the legislation on energy efficiency.\n- Advancing the use of shore power ... and increasing the number of shore power connections, if necessary.\n- Using environmental criteria in the upgrading of the machinery and vehicle fleet of the Port. Enabling the bunkering of low-emission fuels (such as biogas and LNG) ...\n- Potential support for shipping companies taking environmental action, such as discounted port taxes. Enabling the visits and docking of more energyefficient and low-emission ships per freight unit in Vuosaari Harbour.",
+        "policy_type": "sub",
+        "parent_policy_name": "Reducing the emissions from the harbours (key actions related to reducing the emissions from the Port operations).",
+        "section_header": "4.1.5 Reducing the emissions from the harbours",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit commitment to create a named 2035 port action plan with specific measures and periodicity."
+      },
+      {
+        "policy_statement": "Make West Harbour traffic smoother between the Harbour and Länsiväylä.",
+        "verbatim_text": "25. The traffic of the West Harbour will be made smoother between the Harbour and the Länsiväylä.",
+        "policy_type": "sub",
+        "parent_policy_name": "Reducing the emissions from the harbours (key actions related to reducing the emissions from the Port operations).",
+        "section_header": "4.1.5 Reducing the emissions from the harbours",
+        "sector": "Transport",
+        "extraction_rationale": "Specific operational/infrastructure improvement action."
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "cluster_type": "parent_with_subs",
+    "section_header": "4.1.6 new mobility services and steering of mobility",
+    "parent": {
+      "policy_statement": "New mobility services and steering of mobility (key actions related to new mobility services and the steering of mobility).",
+      "verbatim_text": "## 4.1.6 New mobility services and steering of mobility\n\nKey actions related to new mobility services and the steering of mobility (11 kt CO₂e).",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "4.1.6 New mobility services and steering of mobility",
+      "sector": "Transport",
+      "extraction_rationale": "Named action entity with numbered key actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "Act as a testing platform for smart mobility services and adopt more functional solutions.",
+        "verbatim_text": "26. The City will act as a testing platform for smart mobility services and adopt more functional solutions.",
+        "policy_type": "sub",
+        "parent_policy_name": "New mobility services and steering of mobility (key actions related to new mobility services and the steering of mobility).",
+        "section_header": "4.1.6 New mobility services and steering of mobility",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete commitment to pilots/adoption role for MaaS and related services."
+      },
+      {
+        "policy_statement": "Support introduction of different mobility services by opening data, examining ride-sharing allocation to low-service areas, examining additional measures to mainstream services, and examining City-paid rides as part of ride-sharing.",
+        "verbatim_text": "27. The City will support the introduction of different mobility services:\n\n- Continuing to make data more open and developing the marketing of open data.\n- Examining the allocation of ride-sharing services for areas with a low public transport service level.\n- Examining the additional measures with which the City could help make new mobility services more common and prepare for their impact.\n- Examining the development of rides paid for by the City as a part of ride-sharing services.",
+        "policy_type": "sub",
+        "parent_policy_name": "New mobility services and steering of mobility (key actions related to new mobility services and the steering of mobility).",
+        "section_header": "4.1.6 New mobility services and steering of mobility",
+        "sector": "Transport",
+        "extraction_rationale": "Specific enabling measures and studies to scale mobility services."
+      },
+      {
+        "policy_statement": "Prepare the Smart Transport in Helsinki Action Plan (update to the 2013 action plan).",
+        "verbatim_text": "28. The Smart Transport in Helsinki Action Plan will be prepared (update to the Action Plan decided on in 2013).",
+        "policy_type": "sub",
+        "parent_policy_name": "New mobility services and steering of mobility (key actions related to new mobility services and the steering of mobility).",
+        "section_header": "4.1.6 New mobility services and steering of mobility",
+        "sector": "Transport",
+        "extraction_rationale": "Commitment to prepare/update a named action plan."
+      },
+      {
+        "policy_statement": "Campaign and communicate to promote sustainable means of transport.",
+        "verbatim_text": "29. The City will campaign and communicate to promote sustainable means of transport.",
+        "policy_type": "sub",
+        "parent_policy_name": "New mobility services and steering of mobility (key actions related to new mobility services and the steering of mobility).",
+        "section_header": "4.1.6 New mobility services and steering of mobility",
+        "sector": "Transport",
+        "extraction_rationale": "Specific communications intervention."
+      },
+      {
+        "policy_statement": "Implement mobility plans and other smart transport plans for the City organisation and related entities, and with HSL/entrepreneurs survey company needs and opportunities to reduce and improve traffic efficiency.",
+        "verbatim_text": "30. Mobility plans and other smart transport plans will be implemented for the City organisation, subsidiary communities and companies. The City and HSL, together with entrepreneurs, will survey the needs of companies and the opportunities for reducing traffic and making it more efficient.",
+        "policy_type": "sub",
+        "parent_policy_name": "New mobility services and steering of mobility (key actions related to new mobility services and the steering of mobility).",
+        "section_header": "4.1.6 New mobility services and steering of mobility",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete implementation commitment plus a survey activity."
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "cluster_type": "parent_with_subs",
+    "section_header": "4.2.1 residential and service buildings and outdoor lighting owned by the city",
+    "parent": {
+      "policy_statement": "Residential and service buildings and outdoor lighting owned by the City (key actions related to the service buildings of the City).",
+      "verbatim_text": "## 4.2.1 Residential and service buildings and outdoor lighting owned by the City\n\n## Key actions related to the service buildings of the City",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "4.2.1 Residential and service buildings and outdoor lighting owned by the City",
+      "sector": "Buildings",
+      "extraction_rationale": "Named action entity with numbered key actions 31–43."
+    },
+    "subs": [
+      {
+        "policy_statement": "Examine implementation status of recent energy survey actions and project unimplemented feasible actions; improve documentation of survey implementation.",
+        "verbatim_text": "31. The status of the actions identified in the energy surveys of the last years will be examined and both the unimplemented and feasible actions will be projected. The documentation of the survey implementation will also be developed.",
+        "policy_type": "sub",
+        "parent_policy_name": "Residential and service buildings and outdoor lighting owned by the City (key actions related to the service buildings of the City).",
+        "section_header": "4.2.1 Residential and service buildings and outdoor lighting owned by the City",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific management action to turn audits into implemented measures."
+      },
+      {
+        "policy_statement": "Identify major sources of heat loss and heat recovery opportunities in City service buildings (especially sports halls and apartment buildings) and implement viable projects.",
+        "verbatim_text": "32. The most significant sources of heat loss in the City's service building stock (in particular, sports halls and apartment buildings) and the opportunities for heat recovery will be identified. The viable projects will be implemented.",
+        "policy_type": "sub",
+        "parent_policy_name": "Residential and service buildings and outdoor lighting owned by the City (key actions related to the service buildings of the City).",
+        "section_header": "4.2.1 Residential and service buildings and outdoor lighting owned by the City",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete identification + implementation commitment."
+      },
+      {
+        "policy_statement": "Better allocate energy cost and savings impacts to actors influencing facility energy consumption and develop an encouraging method for all actors to conserve energy.",
+        "verbatim_text": "33. The cost effects of energy consumption and energy savings will be better allocated for the actors affecting the energy consumption of facilities.\n\n- ... We will attempt to develop a method that encourages all actors to conserve energy.",
+        "policy_type": "sub",
+        "parent_policy_name": "Residential and service buildings and outdoor lighting owned by the City (key actions related to the service buildings of the City).",
+        "section_header": "4.2.1 Residential and service buildings and outdoor lighting owned by the City",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific governance/behavioral mechanism to drive energy savings."
+      },
+      {
+        "policy_statement": "Develop office-building energy monitoring toward energy-efficiency monitoring by integrating building condition and usage data; connect all City-owned/service properties to the monitoring system.",
+        "verbatim_text": "34. The consumption monitoring of office buildings will be developed towards the monitoring of energy- efficiency by adding the condition and usage data of the buildings into the energy consumption data.\n\n- All properties owned by the City or that offer City services will be connected to the new monitoring system...",
+        "policy_type": "sub",
+        "parent_policy_name": "Residential and service buildings and outdoor lighting owned by the City (key actions related to the service buildings of the City).",
+        "section_header": "4.2.1 Residential and service buildings and outdoor lighting owned by the City",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific system development and coverage expansion commitment."
+      },
+      {
+        "policy_statement": "Pilot electricity and heating demand response in City premises and develop a plan for adoption scale and schedule based on pilots.",
+        "verbatim_text": "35. Demand response of electricity and heating will be piloted in the City's premises in different types of service building. Based on the pilots, the potential of demand response ... will be estimated, and a plan will be made for the extent and schedule of the adoption of these changes.",
+        "policy_type": "sub",
+        "parent_policy_name": "Residential and service buildings and outdoor lighting owned by the City (key actions related to the service buildings of the City).",
+        "section_header": "4.2.1 Residential and service buildings and outdoor lighting owned by the City",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete pilot-to-scale pathway with planning output."
+      },
+      {
+        "policy_statement": "Examine property-specific/regional energy storage opportunities and cost effects, set objectives for storage use (demand response and reserve power), and prepare an operating plan.",
+        "verbatim_text": "36. Property-specific or regional opportunities for storing energy (electricity and heat) will be examined, as will the cost effects ... Based on the results, objectives will be set ... and an operating plan will be prepared.",
+        "policy_type": "sub",
+        "parent_policy_name": "Residential and service buildings and outdoor lighting owned by the City (key actions related to the service buildings of the City).",
+        "section_header": "4.2.1 Residential and service buildings and outdoor lighting owned by the City",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific study leading to objectives and an operating plan."
+      },
+      {
+        "policy_statement": "Prepare a target programme for using renewable energy in City construction projects and existing buildings and monitor progress.",
+        "verbatim_text": "37. A target programme for using renewable energy in the City's construction projects and existing buildings will be prepared, and the progress of the programme will be monitored.",
+        "policy_type": "sub",
+        "parent_policy_name": "Residential and service buildings and outdoor lighting owned by the City (key actions related to the service buildings of the City).",
+        "section_header": "4.2.1 Residential and service buildings and outdoor lighting owned by the City",
+        "sector": "Buildings",
+        "extraction_rationale": "Plan creation plus monitoring commitment."
+      },
+      {
+        "policy_statement": "Continuously develop procurement criteria and methods in construction and maintenance to reflect ambitious goals on energy efficiency, lifecycle CO2 emissions and environmental impacts.",
+        "verbatim_text": "38. The City will constantly develop its criteria and methods for procurements in construction and maintenance so that they will take City's ambitious goals into account in terms of things such as energy efficiency, lifecycle CO2 emissions and environmental impacts.",
+        "policy_type": "sub",
+        "parent_policy_name": "Residential and service buildings and outdoor lighting owned by the City (key actions related to the service buildings of the City).",
+        "section_header": "4.2.1 Residential and service buildings and outdoor lighting owned by the City",
+        "sector": "Buildings",
+        "extraction_rationale": "Ongoing procurement policy improvement with specified criteria areas."
+      },
+      {
+        "policy_statement": "Strengthen commitment and competence of actors responsible for construction/maintenance regarding low emissions, energy efficiency, lifecycle impacts and procurement environmental criteria (2018–2019).",
+        "verbatim_text": "39. The commitment and competence of the actors responsible for construction and maintenance will be strengthened in terms of the low emission levels, energy efficiency and lifecycle impacts ...\n\nTime span:\n\n2018-2019",
+        "policy_type": "sub",
+        "parent_policy_name": "Residential and service buildings and outdoor lighting owned by the City (key actions related to the service buildings of the City).",
+        "section_header": "4.2.1 Residential and service buildings and outdoor lighting owned by the City",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete capacity-building action with timeframe."
+      },
+      {
+        "policy_statement": "Set policies, objectives and procedures for facility projects to address conflicting interests related to energy efficiency and renewable energy (costs, profitability, protection values, architecture, cityscape).",
+        "verbatim_text": "40. Policies, objectives and procedures will be set for facility projects with conflicting interests related to energy efficiency and the utilisation of renewable energy, i.e. costs, profitability, protection values, architectonic solutions and the cityscape.",
+        "policy_type": "sub",
+        "parent_policy_name": "Residential and service buildings and outdoor lighting owned by the City (key actions related to the service buildings of the City).",
+        "section_header": "4.2.1 Residential and service buildings and outdoor lighting owned by the City",
+        "sector": "Buildings",
+        "extraction_rationale": "Governance/procedural policy to resolve trade-offs."
+      },
+      {
+        "policy_statement": "Develop project planning and cost calculations to ensure maximum prices in project decisions do not impede cost-efficient energy-efficiency and emissions-reduction solutions (2018).",
+        "verbatim_text": "41. The project planning and cost calculations for facility projects will be developed from the perspective of energy efficiency and emissions reductions to ensure that the maximum prices set in project decisions will not impede the implementation of cost-efficient solutions.\n\nTime span: 2018",
+        "policy_type": "sub",
+        "parent_policy_name": "Residential and service buildings and outdoor lighting owned by the City (key actions related to the service buildings of the City).",
+        "section_header": "4.2.1 Residential and service buildings and outdoor lighting owned by the City",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific internal process reform with year stated."
+      },
+      {
+        "policy_statement": "Minimise lifecycle emissions from City construction and infrastructure projects by developing tools/methods/databases, reporting current state and opportunities, setting emissions objectives and procurement criteria by project type, and piloting lifecycle calculation tools across planning and construction.",
+        "verbatim_text": "42. The lifecycle emissions from the City's construction and infrastructure projects will be minimised.\n\n- The City will contribute to and participate in the preparation of tools, calculation methods and national databases...\n- A report will be drawn up on the current state of lifecycle emissions...\n\n- An emissions reduction objective and procurement criteria will be set for the lifecycle emissions...\n- The tools for calculating lifecycle emissions will be piloted in the construction projects in all stages...",
+        "policy_type": "sub",
+        "parent_policy_name": "Residential and service buildings and outdoor lighting owned by the City (key actions related to the service buildings of the City).",
+        "section_header": "4.2.1 Residential and service buildings and outdoor lighting owned by the City",
+        "sector": "Buildings",
+        "extraction_rationale": "Multiple concrete actions (tool development, reporting, target-setting, piloting) explicitly committed."
+      },
+      {
+        "policy_statement": "Pilot energy-plus construction, assess costs/challenges, and prepare a plan to gradually move toward energy-plus construction.",
+        "verbatim_text": "43. The City will pilot energy-plus construction, examine the cost effects and challenges of such construction, and, based on the former, prepare a plan for moving gradually towards energy-plus construction...",
+        "policy_type": "sub",
+        "parent_policy_name": "Residential and service buildings and outdoor lighting owned by the City (key actions related to the service buildings of the City).",
+        "section_header": "4.2.1 Residential and service buildings and outdoor lighting owned by the City",
+        "sector": "Buildings",
+        "extraction_rationale": "Clear pilot and planning commitment to advance energy-plus buildings."
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "cluster_type": "parent_with_subs",
+    "section_header": "circular economy in construction projects",
+    "parent": {
+      "policy_statement": "Circular economy in construction projects (key actions related to circular economy in construction projects).",
+      "verbatim_text": "## Key actions related to circular economy in construction projects",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Circular economy in construction projects",
+      "sector": "Buildings",
+      "extraction_rationale": "Introduces a discrete set of numbered actions (44–46) under a clear thematic header."
+    },
+    "subs": [
+      {
+        "policy_statement": "Prepare actions and instructions to increase use of recycled materials in housing construction, infrastructure construction and maintenance by identifying obstacles and opportunities.",
+        "verbatim_text": "44. The obstacles and opportunities related to increasing the proportion of recycled materials in housing construction, infrastructural construction and maintenance. Actions and instructions for this will be prepared.",
+        "policy_type": "sub",
+        "parent_policy_name": "Circular economy in construction projects (key actions related to circular economy in construction projects).",
+        "section_header": "Circular economy in construction projects",
+        "sector": "Buildings",
+        "extraction_rationale": "Commitment to develop guidance and actions to increase recycled materials."
+      },
+      {
+        "policy_statement": "Implement principles and a 2018–2021 action plan for using excavated earth, rock and demolition material in groundwork, and participate in developing/adopting the regional landmass GIS tool (SeutuMaisa).",
+        "verbatim_text": "45. The principles of using excavated earth, rock material and demolition material in groundwork and the related action plan (2018-2021) will be put into practice... The City will participate in the development and adoption of the regional landmass tool using geographical information (SeutuMaisa).",
+        "policy_type": "sub",
+        "parent_policy_name": "Circular economy in construction projects (key actions related to circular economy in construction projects).",
+        "section_header": "Circular economy in construction projects",
+        "sector": "Buildings",
+        "extraction_rationale": "Time-bound implementation of an action plan and participation in a specific tool rollout."
+      },
+      {
+        "policy_statement": "Pilot emission-free construction sites in City projects and adopt a model and criteria for all sites based on pilot experiences; include criteria in project environmental documentation and steer other builders to use them.",
+        "verbatim_text": "46. Emission-free construction sites will be piloted in the City's own construction projects, and a model and criteria for all sites will be adopted based on the experiences from the pilot. The model and the criteria will be included in the environmental document... The actors having construction projects within the City will be steered to use the model and the criteria.",
+        "policy_type": "sub",
+        "parent_policy_name": "Circular economy in construction projects (key actions related to circular economy in construction projects).",
+        "section_header": "Circular economy in construction projects",
+        "sector": "Buildings",
+        "extraction_rationale": "Pilot-to-mandate approach with integration into documentation and broader steering."
+      }
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "cluster_type": "parent_with_subs",
+    "section_header": "city-owned residential buildings",
+    "parent": {
+      "policy_statement": "Key actions related to City-owned residential buildings.",
+      "verbatim_text": "## Key actions related to City-owned residential buildings",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "City-owned residential buildings",
+      "sector": "Buildings",
+      "extraction_rationale": "Named set of numbered actions (47–53) under a clear header."
+    },
+    "subs": [
+      {
+        "policy_statement": "Implement heat recovery from exhaust air and sewage in renovated locations (heat recovery ventilation or EAHP) and implement EAHP projects without renovations where economically viable (payback under 15 years).",
+        "verbatim_text": "47. Solutions for the recovery of the heat from exhaust air and sewage will be implemented: locations being renovated will use either mechanical input and removal with heat recovery or an EAHP. EAHP projects will be implemented without renovations in buildings where it is economically viable (repayment period of under 15 years).",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to City-owned residential buildings.",
+        "section_header": "City-owned residential buildings",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific technology measures with an economic viability criterion (payback <15 years)."
+      },
+      {
+        "policy_statement": "Pursue high energy efficiency in renovations of City-owned housing and implement measures where viable on a lifecycle cost basis.",
+        "verbatim_text": "48. Great energy efficiency will be sought in the renovations of the City's own housing production, and actions for making the buildings more energy efficient will be implemented where they are viable in terms of lifecycle costs.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to City-owned residential buildings.",
+        "section_header": "City-owned residential buildings",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete renovation policy using lifecycle-cost test."
+      },
+      {
+        "policy_statement": "Plan and implement renovations and energy-efficiency measures according to long-term maintenance plans, including annual measures; complete the plan by end of 2018 with annual monitoring.",
+        "verbatim_text": "49. The renovations and separate measures for improving energy efficiency will be planned and implemented according to the long-term maintenance plans... Time span: ... plan finished by the end of 2018. Annual monitoring through binding objectives in the budget",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to City-owned residential buildings.",
+        "section_header": "City-owned residential buildings",
+        "sector": "Buildings",
+        "extraction_rationale": "Time-bound planning requirement plus ongoing monitoring mechanism."
+      },
+      {
+        "policy_statement": "Upgrade Heka's old property automation systems to improve energy efficiency and enable remote reading/measuring of water consumption with HSY.",
+        "verbatim_text": "50. Heka's old property automation systems will be upgraded to improve energy efficiency. Remote reading and measuring of water consumption will be made possible in collaboration with HSY.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to City-owned residential buildings.",
+        "section_header": "City-owned residential buildings",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific retrofit and metering modernization commitment."
+      },
+      {
+        "policy_statement": "Investigate renewable energy use in City and subsidiary building stock to find cost-efficient targets (10–15 year payback) for local heat/electricity production and prepare a scheduled implementation plan.",
+        "verbatim_text": "51. The City will investigate the utilisation of renewable energy in its own building stock and that of its subsidiaries. The objective is to find cost-efficient (repayment period of 10-15 years) targets ... Based on the investigation, a scheduled implementation plan will be prepared.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to City-owned residential buildings.",
+        "section_header": "City-owned residential buildings",
+        "sector": "Buildings",
+        "extraction_rationale": "Investigation plus implementation planning with explicit payback criterion."
+      },
+      {
+        "policy_statement": "Pilot geothermal/marine heating in Heka buildings and expand its use based on experiences.",
+        "verbatim_text": "52. Heka will pilot the use of geothermal/marine heating and expand the use thereof based on the experiences.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to City-owned residential buildings.",
+        "section_header": "City-owned residential buildings",
+        "sector": "Buildings",
+        "extraction_rationale": "Pilot plus scale-up commitment for renewable heating."
+      },
+      {
+        "policy_statement": "Prepare general/common renovation guidelines and technical concept solutions including energy targets, renewable energy adoption, heat recovery measures, and consider demolition for unprotected locations where renovation costs approach new build costs.",
+        "verbatim_text": "53. General and common guidelines to support renovations will be prepared. Descriptions of technical concept solutions will be prepared... The concept solution will include... Target level for energy conservation or the E value... Adoption of renewable energy... heat recovery... Demolition will be examined for unprotected locations where the price of the renovation would be close to the price of a new building.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to City-owned residential buildings.",
+        "section_header": "City-owned residential buildings",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete guidance/product development affecting renovation practice and decisions."
+      }
+    ]
+  },
+  {
+    "cluster_id": 9,
+    "cluster_type": "parent_with_subs",
+    "section_header": "outdoor lighting",
+    "parent": {
+      "policy_statement": "Key actions related to outdoor lighting.",
+      "verbatim_text": "## Key actions related to outdoor lighting",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Outdoor lighting",
+      "sector": "Buildings",
+      "extraction_rationale": "Header introduces a numbered key action (54) for outdoor lighting upgrades."
+    },
+    "subs": [
+      {
+        "policy_statement": "Upgrade street lighting to LED light sources according to plan and use smart lighting control.",
+        "verbatim_text": "54. The City will upgrade street lighting to use LED light sources, according to plan, and also use smart lighting control.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to outdoor lighting.",
+        "section_header": "Outdoor lighting",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific technology upgrade commitment."
+      }
+    ]
+  },
+  {
+    "cluster_id": 10,
+    "cluster_type": "parent_with_subs",
+    "section_header": "4.2.2 energy-efficient land use and city structure – detailed planning",
+    "parent": {
+      "policy_statement": "Key actions related to detailed planning.",
+      "verbatim_text": "## Key actions related to detailed planning",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "4.2.2 Energy-efficient land use and city structure – Detailed planning",
+      "sector": "Buildings",
+      "extraction_rationale": "Introduces numbered actions (55–58) under detailed planning."
+    },
+    "subs": [
+      {
+        "policy_statement": "Use detailed planning to promote renewable energy and renewable energy production (property/regional/centralised), apply wind power location principles, and pilot regional/plot-specific development projects with impact monitoring and replication of best ideas.",
+        "verbatim_text": "55. Detailed planning will be used to promote the use of renewable energy and property-specific, regional and centralised production of renewable energy ... Detailed planning will take the location principles for wind power into account. Detailed planning will be used to pilot regional or plot-specific development projects, the impacts of which will be assessed and monitored. The best ideas will be used in future locations.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to detailed planning.",
+        "section_header": "4.2.2 Energy-efficient land use and city structure – Detailed planning",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete planning interventions plus pilot/monitor/scale commitments."
+      },
+      {
+        "policy_statement": "Use detailed planning to enable construction energy efficiency to exceed national level (with regional characteristics) and prepare regional planning principles, including analysing additional construction on plots to support energy-efficient renovations.",
+        "verbatim_text": "56. Detailed planning will be used to facilitate further planning to make the energy efficiency of construction projects exceed the national level... Regional planning principles will be prepared ... The principles will be used to analyse additional construction on plots, which can support the energy efficient renovations in the existing buildings.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to detailed planning.",
+        "section_header": "4.2.2 Energy-efficient land use and city structure – Detailed planning",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific planning tool and principle-setting commitments."
+      },
+      {
+        "policy_statement": "Use detailed planning to steer construction to influence people's energy consumption habits (e.g., shared spaces, lighting conditions).",
+        "verbatim_text": "57. Detailed planning will be used to steer construction where it can be used to influence the energy consumption habits of people. Such matters include shared spaces, lighting conditions, etc.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to detailed planning.",
+        "section_header": "4.2.2 Energy-efficient land use and city structure – Detailed planning",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete steering commitment via planning regulations/design."
+      },
+      {
+        "policy_statement": "Develop land use planning regulations to expand carbon-neutrality-supporting methods, including durable rules on renewable energy and energy efficiency to enable flexibility in plot conveyance and subsequent planning/implementation, trials and new technologies.",
+        "verbatim_text": "58. By developing the regulations on land use planning, the selection of methods that support carbon-neutrality can be expanded. The regulation collection for land use planning will include regulations which are related to the use and production of renewable energy and energy efficiency...",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to detailed planning.",
+        "section_header": "4.2.2 Energy-efficient land use and city structure – Detailed planning",
+        "sector": "Buildings",
+        "extraction_rationale": "Regulatory development commitment to support decarbonization and innovation."
+      }
+    ]
+  },
+  {
+    "cluster_id": 11,
+    "cluster_type": "parent_with_subs",
+    "section_header": "plot conveyance",
+    "parent": {
+      "policy_statement": "Key actions related to plot conveyance.",
+      "verbatim_text": "## Key actions related to plot conveyance",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Plot conveyance",
+      "sector": "Buildings",
+      "extraction_rationale": "Introduces numbered plot-conveyance actions (59, 61, 62) under a distinct header."
+    },
+    "subs": [
+      {
+        "policy_statement": "Include energy-efficiency requirements stricter than national level in City plot conveyance conditions, actively assess and update requirements as national requirements advance, and use requirements to promote energy conservation and renewable energy production in buildings.",
+        "verbatim_text": "59. The City's conditions for plot conveyance will include energy efficiency requirements that are stricter than the requirements at national level... The requirements for energy efficiency will promote energy conservation and the production of renewable energy for buildings.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to plot conveyance.",
+        "section_header": "Plot conveyance",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific policy instrument (plot conveyance conditions) with explicit stricter-than-national requirement."
+      },
+      {
+        "policy_statement": "Include carbon footprint and eco-efficiency criteria in quality-based plot conveyance competitions.",
+        "verbatim_text": "61. In plot conveyance competitions based on quality, the criteria will include the carbon footprint and eco-efficiency of the construction project.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to plot conveyance.",
+        "section_header": "Plot conveyance",
+        "sector": "Buildings",
+        "extraction_rationale": "Procurement/selection criteria change explicitly stated."
+      },
+      {
+        "policy_statement": "Implement plot conveyance competitions that specifically aim at carbon-neutrality, analyse experiences, and use lessons to develop plot conveyance terms and conditions (pilots during 2017–2021; experiences included by 2035).",
+        "verbatim_text": "62. The City will implement plot conveyance competitions that aim particularly at carbon-neutrality, the experiences from which will be analysed. The experiences gathered will be used when developing the terms and conditions for plot conveyance.\n\nTime span: Pilots during the current council term (2017-2021); experiences to be included by 2035.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to plot conveyance.",
+        "section_header": "Plot conveyance",
+        "sector": "Buildings",
+        "extraction_rationale": "Time-bound pilot competitions with evaluation and integration into policy conditions."
+      }
+    ]
+  },
+  {
+    "cluster_id": 12,
+    "cluster_type": "parent_with_subs",
+    "section_header": "building control services",
+    "parent": {
+      "policy_statement": "Key actions related to building control.",
+      "verbatim_text": "## Key actions related to building control",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Building Control Services",
+      "sector": "Buildings",
+      "extraction_rationale": "Introduces numbered actions (63–66) for building control."
+    },
+    "subs": [
+      {
+        "policy_statement": "Develop pre-emptive guidance for housing companies to promote energy-efficient renovations and renewable energy, including adopting TOP11 geothermal instructions and exploring fee exemptions for geothermal projects.",
+        "verbatim_text": "63. Pre-emptive guidance for housing companies ... will be developed to promote energy-efficient renovations and the use of renewable energy sources.\n\n- ... the implementation instructions for the geothermal heating project ... will be taken into use... Additionally, the opportunity to exempt geothermal heating projects from building control licence fees will be explored.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to building control.",
+        "section_header": "Building Control Services",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete guidance development and specific administrative change exploration."
+      },
+      {
+        "policy_statement": "Prepare operating models and examples for energy-efficient solutions in renovation of protected buildings.",
+        "verbatim_text": "64. Operation models and good examples for energy-efficient solutions in the renovation of protected buildings will be prepared.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to building control.",
+        "section_header": "Building Control Services",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific deliverable (models/examples) to enable action in a constrained building category."
+      },
+      {
+        "policy_statement": "Examine how climate objectives can be taken into account when updating the building code.",
+        "verbatim_text": "65. The City will examine how climate objectives can be taken into account when updating the building code.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to building control.",
+        "section_header": "Building Control Services",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete policy review commitment linked to building code update."
+      },
+      {
+        "policy_statement": "Prepare a roadmap/service path for developing building control across all project stages to enable energy-efficient construction (pilots 2017–2021; experiences included by 2035).",
+        "verbatim_text": "66. A road map or service path will be prepared for the development of building control in all stages of a construction project to enable energyefficient construction.\n\nTime span: Pilots during the current council term (2017-2021).\n\nExperiences to be included by 2035.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to building control.",
+        "section_header": "Building Control Services",
+        "sector": "Buildings",
+        "extraction_rationale": "Time-bound development commitment with specified output (roadmap/service path)."
+      }
+    ]
+  },
+  {
+    "cluster_id": 13,
+    "cluster_type": "parent_with_subs",
+    "section_header": "4.2.3 energy renaissance",
+    "parent": {
+      "policy_statement": "Key actions related to the energy renaissance.",
+      "verbatim_text": "## Key actions related to the energy renaissance",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "4.2.3 Energy renaissance",
+      "sector": "Buildings",
+      "extraction_rationale": "Introduces numbered actions (67–70) under a distinct programme concept."
+    },
+    "subs": [
+      {
+        "policy_statement": "Prepare an energy renaissance programme to support energy-efficient renovation of neighbourhoods and existing private building stock (planning 2017–2021; implementation 2022–2035).",
+        "verbatim_text": "67. An energy renaissance programme will be prepared to support the renovation of neighbourhoods and the existing private building stock energyefficiently.\n\nTime span: Council terms of 2017-2021 (planning), 2022-2035 (implementation).",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to the energy renaissance.",
+        "section_header": "4.2.3 Energy renaissance",
+        "sector": "Buildings",
+        "extraction_rationale": "Named programme with clear planning and implementation periods."
+      },
+      {
+        "policy_statement": "Investigate ending oil heating by 2035 and improving renewable energy use and energy efficiency in electrically heated buildings, including selecting a pilot area and examining options with residents.",
+        "verbatim_text": "68. The City will investigate ending oil heating by 2035 and increasing the use of renewable energy and the energy efficiency in electrically heated buildings.\n\n- A pilot area will be selected. There, best options will be examined together with the residents.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to the energy renaissance.",
+        "section_header": "4.2.3 Energy renaissance",
+        "sector": "Buildings",
+        "extraction_rationale": "Clear long-term objective (end oil heating by 2035) plus pilot-based approach."
+      },
+      {
+        "policy_statement": "Develop the Energy and Climate Atlas (3D model) for resident energy-efficiency guidance and develop tools for assessing costs and improvement potential in building energy consumption.",
+        "verbatim_text": "69. The 3D model (the Energy and Climate Atlas) will be developed in the energy efficiency guidance for residents. Energy tools for the assessment of the costs and potential improvements in buildings' energy consumption will be developed.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to the energy renaissance.",
+        "section_header": "4.2.3 Energy renaissance",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific tool development commitment for guidance."
+      },
+      {
+        "policy_statement": "Improve energy-related competence of housing cooperative decision-makers through training and case presentations on energy efficiency and renewable energy.",
+        "verbatim_text": "70. The energy-related competences of the decision-makers in housing cooperatives will be improved.\n\n- Decision-makers of housing cooperatives will receive training ...\n- Case presentations ... will be prepared.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to the energy renaissance.",
+        "section_header": "4.2.3 Energy renaissance",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete capacity-building actions specified."
+      }
+    ]
+  },
+  {
+    "cluster_id": 14,
+    "cluster_type": "parent_with_subs",
+    "section_header": "4.2.4 new energy solutions",
+    "parent": {
+      "policy_statement": "Key actions related to new energy solutions.",
+      "verbatim_text": "## 4.2.4 New energy solutions",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "4.2.4 New energy solutions",
+      "sector": "Energy",
+      "extraction_rationale": "Introduces a numbered list of actions (71–82) under a named section."
+    },
+    "subs": [
+      {
+        "policy_statement": "Helen will implement customer-end emissions reduction actions including improving district heating connection measurements and tariff adjustments, examining hourly district heating tariffs, and developing energy monitoring interfaces for customers.",
+        "verbatim_text": "71. Helen Ltd will implement emissions reduction actions based on its own development programme and decisions. The actions include:\n\n- Continuing the inspection of the measurements of the properties' district heating connections and changing the tariffs for properties to match the more accurate measurements.\n- The cost and incentive effects of a hourly tariff for district heating will be examined...\n- Opportunities for monitoring energy consumption ... will be developed by offering the client an open interface...",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to new energy solutions.",
+        "section_header": "4.2.4 New energy solutions",
+        "sector": "Energy",
+        "extraction_rationale": "Concrete actions and studies by a named utility actor."
+      },
+      {
+        "policy_statement": "Identify and schedule renewable district heating procurement for the City organisation and create a plan to reach 100% renewable district heating.",
+        "verbatim_text": "72. The opportunities to acquire renewable district heating will be identified in the City organisation, as will the cost effects thereof. The acquisition will be scheduled. A plan will be created for the acquisition of renewable district heating and on the date when its proportion will reach 100 per cent of all district heating.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to new energy solutions.",
+        "section_header": "4.2.4 New energy solutions",
+        "sector": "Energy",
+        "extraction_rationale": "Clear procurement commitment with 100% endpoint planning."
+      },
+      {
+        "policy_statement": "The City will purchase renewable/emission-free electricity and each purchasing unit will prepare a scheduled plan for switching to renewable electricity.",
+        "verbatim_text": "73. The City will acquire renewable/emission-free electricity. Purchasing units will prepare a scheduled plan for the switch to renewable electricity.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to new energy solutions.",
+        "section_header": "4.2.4 New energy solutions",
+        "sector": "Energy",
+        "extraction_rationale": "Concrete procurement commitment plus required implementation planning."
+      },
+      {
+        "policy_statement": "Automate and make water consumption measurement hour-based and remotely readable; HSY recommends consumption-based invoicing.",
+        "verbatim_text": "74. The primary measurement of water consumption will be automated and made hour-based and remotely readable. HSY recommends consumption-based invoicing.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to new energy solutions.",
+        "section_header": "4.2.4 New energy solutions",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific metering modernization action; relevant to energy/water use."
+      },
+      {
+        "policy_statement": "Encourage all properties to improve energy efficiency by creating a privacy-preserving 'energy wellness' data model comparing properties to reference groups (budget €200,000).",
+        "verbatim_text": "75. The City will encourage all properties in the City area to take action to improve energy efficiency and energy consumption. A data model will be created... The model will not violate privacy...\n\nCost estimate:\n\n€200,000.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to new energy solutions.",
+        "section_header": "4.2.4 New energy solutions",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific intervention with allocated budget amount."
+      },
+      {
+        "policy_statement": "Investigate, pilot and adopt two-way district heating in City properties.",
+        "verbatim_text": "76. Two-way district heating in the City properties will be investigated, piloted and adopted.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to new energy solutions.",
+        "section_header": "4.2.4 New energy solutions",
+        "sector": "Energy",
+        "extraction_rationale": "Clear technology deployment pathway (investigate → pilot → adopt)."
+      },
+      {
+        "policy_statement": "Study technical, economic and emissions impacts of hybrid heating systems (heat pump + district heating), verify existing systems, and produce recommendations for efficient connections and implementation (budget €150,000).",
+        "verbatim_text": "77. The technical, economical and emission-related impacts of a hybrid heating system... will be studied... Based on the results of the study, recommendations will be created...\n\nCost estimate:\n\n€150,000.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to new energy solutions.",
+        "section_header": "4.2.4 New energy solutions",
+        "sector": "Energy",
+        "extraction_rationale": "Specific study plus guidance deliverable with budget."
+      },
+      {
+        "policy_statement": "Account for land-use needs of centralised and regional renewable energy production.",
+        "verbatim_text": "78. The land-use needs of centralised and regional production of renewable energy will be taken into account.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to new energy solutions.",
+        "section_header": "4.2.4 New energy solutions",
+        "sector": "Energy",
+        "extraction_rationale": "Explicit planning commitment to enable renewable infrastructure."
+      },
+      {
+        "policy_statement": "Identify major waste-heat locations and plan actions to utilise waste heat, including analysing impacts of property sewage heating on the wastewater treatment plant.",
+        "verbatim_text": "79. The most significant potential heat waste locations will be identified, and actions to utilise this heat waste will be planned. The impact the utilisation of sewage heating in properties will have on the water treatment plant will be analysed.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to new energy solutions.",
+        "section_header": "4.2.4 New energy solutions",
+        "sector": "Energy",
+        "extraction_rationale": "Concrete identification, planning, and impact analysis commitments."
+      },
+      {
+        "policy_statement": "Assess geothermal well space allocation needs in the Underground Master Plan and mediate between builders and Helen on regional energy/hybrid solutions to promote adoption.",
+        "verbatim_text": "80. The space allocation requirements of the geothermal wells will be assessed as a part of the preparation of the Underground Master Plan. The City will be an active mediator between constructors and Helen as regional energy options and hybrid solutions are examined...",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to new energy solutions.",
+        "section_header": "4.2.4 New energy solutions",
+        "sector": "Energy",
+        "extraction_rationale": "Specific planning integration and facilitation role to unlock geothermal/hybrid systems."
+      },
+      {
+        "policy_statement": "Survey areas suitable for geo-energy (geothermal heating potential survey).",
+        "verbatim_text": "81. The areas suitable for geo-energy will be surveyed (survey for geothermal heating potential).",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to new energy solutions.",
+        "section_header": "4.2.4 New energy solutions",
+        "sector": "Energy",
+        "extraction_rationale": "Concrete survey commitment to support geothermal deployment."
+      },
+      {
+        "policy_statement": "Examine opportunities to recover and utilise landfill gases from closed landfills in the Helsinki area, building on past surveys and reports.",
+        "verbatim_text": "82. Opportunities to recover and utilise the landfill gases of closed landfills in the Helsinki area will be examined further, with the help of surveys and reports made in the past.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to new energy solutions.",
+        "section_header": "4.2.4 New energy solutions",
+        "sector": "Waste",
+        "extraction_rationale": "Specific further examination commitment related to methane capture/utilisation."
+      }
+    ]
+  },
+  {
+    "cluster_id": 15,
+    "cluster_type": "parent_with_subs",
+    "section_header": "4.2.5 funding and incentives",
+    "parent": {
+      "policy_statement": "Key actions related to funding and incentives.",
+      "verbatim_text": "## Key actions related to funding and incentives",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "4.2.5 Funding and incentives",
+      "sector": "Buildings",
+      "extraction_rationale": "Introduces numbered actions (83–87) under a distinct header."
+    },
+    "subs": [
+      {
+        "policy_statement": "In meetings with financial institutions, the City will highlight the opportunity to disseminate information on energy renovation loans via the energy-efficiency information page.",
+        "verbatim_text": "83. When meeting with financial institutions, the City will tell them about the opportunity to spread information, e.g. about energy renovation loans, via the information page on energy efficiency.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to funding and incentives.",
+        "section_header": "4.2.5 Funding and incentives",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific outreach/information intervention to improve financing uptake."
+      },
+      {
+        "policy_statement": "Survey financial obstacles to energy-efficiency projects, including ARA funding restrictions.",
+        "verbatim_text": "84. The City will survey the financial obstacles of energy efficiency projects (such as the restrictions of the ARA funding).",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to funding and incentives.",
+        "section_header": "4.2.5 Funding and incentives",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete assessment action to address barriers."
+      },
+      {
+        "policy_statement": "Monitor adoption of new funding and procurement models, benchmark other cities, and adopt suitable practices.",
+        "verbatim_text": "85. The means of adopting new funding and procurement models will be monitored, the procedures of other cities will be benchmarked, and suitable procedures will be taken into use.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to funding and incentives.",
+        "section_header": "4.2.5 Funding and incentives",
+        "sector": "Cross-cutting",
+        "extraction_rationale": "Commitment to monitor, benchmark, and adopt models (a defined policy development activity)."
+      },
+      {
+        "policy_statement": "Pilot the use of an ESCO project within the Helsinki Group in a selected subsidiary community.",
+        "verbatim_text": "86. The usability of the ESCO project in the Helsinki Group will be piloted in a chosen subsidiary community.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to funding and incentives.",
+        "section_header": "4.2.5 Funding and incentives",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific pilot intervention for energy efficiency financing/implementation."
+      },
+      {
+        "policy_statement": "Negotiate with the State for support for housing-cooperative energy renovations and increasing renewable energy (including oil tank replacement), identify potential City support measures, and prepare a joint presentation with Finland's six largest cities.",
+        "verbatim_text": "87. The City will negotiate with the State to receive support for the energy renovations of housing cooperatives and for increasing the proportion of renewable energy, including the replacement of oil vessels. The potential support measures to be offered by the City will be identified. A presentation will be prepared in collaboration with six large cities.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to funding and incentives.",
+        "section_header": "4.2.5 Funding and incentives",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete intergovernmental action with defined outputs (identified measures; joint presentation)."
+      }
+    ]
+  },
+  {
+    "cluster_id": 16,
+    "cluster_type": "parent_with_subs",
+    "section_header": "4.2.7 reducing the carbon footprint of buildings",
+    "parent": {
+      "policy_statement": "Key actions related to wooden construction.",
+      "verbatim_text": "## Key actions related to wooden construction",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "4.2.7 Reducing the carbon footprint of buildings",
+      "sector": "Buildings",
+      "extraction_rationale": "Header introduces two numbered actions (88–89) on wooden construction."
+    },
+    "subs": [
+      {
+        "policy_statement": "Promote wooden construction through detailed planning.",
+        "verbatim_text": "88. The City will promote wooden construction through detailed planning.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to wooden construction.",
+        "section_header": "4.2.7 Reducing the carbon footprint of buildings",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific planning commitment to encourage low-carbon materials."
+      },
+      {
+        "policy_statement": "Promote wooden construction in City-owned projects.",
+        "verbatim_text": "89. The City will promote wooden construction in its own projects.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to wooden construction.",
+        "section_header": "4.2.7 Reducing the carbon footprint of buildings",
+        "sector": "Buildings",
+        "extraction_rationale": "Direct implementation commitment for municipal construction."
+      }
+    ]
+  },
+  {
+    "cluster_id": 17,
+    "cluster_type": "parent_with_subs",
+    "section_header": "4.3.1 education",
+    "parent": {
+      "policy_statement": "Key actions related to education.",
+      "verbatim_text": "## Key actions related to education",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "4.3.1 Education",
+      "sector": "Cross-cutting",
+      "extraction_rationale": "Introduces numbered actions (90–94) under education."
+    },
+    "subs": [
+      {
+        "policy_statement": "Strengthen climate change mitigation and circular economy skills in school curricula and schoolwork and expand teachers' knowledge (2017–2021).",
+        "verbatim_text": "90. The skills related to the mitigation of climate change and to circular economy will be strengthened in school curricula and in schoolwork, in general. Teachers' knowledge will be expanded.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to education.",
+        "section_header": "4.3.1 Education",
+        "sector": "Cross-cutting",
+        "extraction_rationale": "Concrete curriculum and capacity-building commitment."
+      },
+      {
+        "policy_statement": "Offer educational institutions internships in Smart & Clean, join joint development projects, and support institutions/campuses in adopting low-carbon solutions.",
+        "verbatim_text": "91. The City will offer educational institutions internships in Smart & Clean, participate in joint development projects and support the institutions and their campuses in the adoption of low-carbon solutions.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to education.",
+        "section_header": "4.3.1 Education",
+        "sector": "Cross-cutting",
+        "extraction_rationale": "Specific support and collaboration actions to drive adoption of low-carbon solutions."
+      },
+      {
+        "policy_statement": "Increase environmental education in early childhood education and schools.",
+        "verbatim_text": "92. The amount of environmental education in early childhood education and schools will be increased.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to education.",
+        "section_header": "4.3.1 Education",
+        "sector": "Cross-cutting",
+        "extraction_rationale": "Clear educational intervention commitment."
+      },
+      {
+        "policy_statement": "Organise courses and education on climate change mitigation and adaptation, circular economy and sharing economy for City employees, representatives and residents.",
+        "verbatim_text": "93. The City will organise courses and education on the mitigation of and adaptation to climate change, as well as circular economy and sharing economy for its employees, representatives and residents.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to education.",
+        "section_header": "4.3.1 Education",
+        "sector": "Cross-cutting",
+        "extraction_rationale": "Specific training programme commitment with defined topics and audiences."
+      },
+      {
+        "policy_statement": "Promote urban agriculture by crowdsourcing a survey of suitable spaces and defining criteria and rules for their use.",
+        "verbatim_text": "94. Urban agriculture will be promoted by using crowdsourcing to survey spaces suitable to be used by the residents. The criteria for spaces suitable for urban agriculture and the rules for the use of these spaces will be defined.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to education.",
+        "section_header": "4.3.1 Education",
+        "sector": "AFOLU",
+        "extraction_rationale": "Concrete intervention: space survey and rule/criteria setting to enable urban agriculture."
+      }
+    ]
+  },
+  {
+    "cluster_id": 18,
+    "cluster_type": "parent_with_subs",
+    "section_header": "4.3.2 consumption and waste",
+    "parent": {
+      "policy_statement": "Key actions related to consumption and waste management.",
+      "verbatim_text": "Key actions related to consumption and waste management",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "4.3.2 Consumption and waste",
+      "sector": "Waste",
+      "extraction_rationale": "Introduces numbered actions (95–100) under consumption and waste."
+    },
+    "subs": [
+      {
+        "policy_statement": "Develop recipes to reduce emissions from City food services and protect the Baltic Sea.",
+        "verbatim_text": "95. Recipes will be developed to reduce the emissions from the City's food services and protect the Baltic Sea.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to consumption and waste management.",
+        "section_header": "4.3.2 Consumption and waste",
+        "sector": "Waste",
+        "extraction_rationale": "Specific intervention in public food services to reduce emissions."
+      },
+      {
+        "policy_statement": "Increase the proportion of vegetarian meals in schools and day care centres.",
+        "verbatim_text": "96. The proportion of vegetarian meals will be increased in schools and day care centres.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to consumption and waste management.",
+        "section_header": "4.3.2 Consumption and waste",
+        "sector": "Waste",
+        "extraction_rationale": "Concrete demand-side food policy change in public institutions."
+      },
+      {
+        "policy_statement": "Reduce food waste in Service Centre, Palmia and other stakeholder operations through monitoring consumption, campaigns, process efficiency and rationalising product selection/pack sizes.",
+        "verbatim_text": "97. Food waste will be reduced in the operations of the Service Centre, Palmia and other interest groups.\n\n· For example: by monitoring consumption ... by using campaigns, by making the processes more efficient and by rationalising the product selection and the package sizes.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to consumption and waste management.",
+        "section_header": "4.3.2 Consumption and waste",
+        "sector": "Waste",
+        "extraction_rationale": "Specific operational measures to cut food waste."
+      },
+      {
+        "policy_statement": "Examine opportunities for low-emission food transport (e.g., climate-friendly long-life packaging; more efficient deliveries).",
+        "verbatim_text": "98. The opportunities to transport food optimally in terms of emissions will be examined.\n\n• For example: climate-friendly and long-life packag- ing; making deliveries more efficient.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to consumption and waste management.",
+        "section_header": "4.3.2 Consumption and waste",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit commitment to examine/logistics improvements to reduce emissions."
+      },
+      {
+        "policy_statement": "Increase collaboration with grocery shops to reduce food waste, including transferring excess food to community initiatives and institutions (e.g., Shared Table).",
+        "verbatim_text": "99. Collaboration with grocery shops will be increased to reduce food waste.\n\n- For example: by transferring excess food from grocery shops to ... or the Shared Table initiative.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to consumption and waste management.",
+        "section_header": "4.3.2 Consumption and waste",
+        "sector": "Waste",
+        "extraction_rationale": "Concrete collaboration action to divert surplus food and reduce waste."
+      },
+      {
+        "policy_statement": "Update environmental criteria for events, encourage use of the EcoCompass environmental management system, and develop tools to measure CO2 emissions of events.",
+        "verbatim_text": "100. The environmental criteria for events will be updated and materials to help with the planning of environmental matters will be produced. Both the City's own events and commercial events will be encouraged to use the EcoCompass environmental management system. Tools for measuring the CO2 emissions of events will be developed.",
+        "policy_type": "sub",
+        "parent_policy_name": "Key actions related to consumption and waste management.",
+        "section_header": "4.3.2 Consumption and waste",
+        "sector": "Cross-cutting",
+        "extraction_rationale": "Specific standards update plus tool development and system adoption encouragement."
+      }
+    ]
+  },
+  {
+    "cluster_id": 19,
+    "cluster_type": "individual",
+    "section_header": "summary",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Helsinki aims to become carbon-neutral by 2035 by reducing greenhouse gas emissions 80% from 1990 levels and compensating the remaining 20% through emissions reductions outside the city.",
+      "verbatim_text": "The objective of the Helsinki City Strategy 2017-2021 is to make Helsinki  carbon-neutral  by  2035. This  goal will be achieved by reducing the greenhouse gas emissions in Helsinki by 80 per cent. The remaining  20  per  cent  will  be  compensated for by Helsinki taking care of implementing  emissions  reductions  outside  the  city.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Summary",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Explicit quantified target (carbon-neutral by 2035; -80% reduction; 20% compensation) stated as a city strategy objective."
+    }
+  },
+  {
+    "cluster_id": 20,
+    "cluster_type": "individual",
+    "section_header": "calculation of the required emissions reductions",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Helsinki City Strategy sets an intermediate goal to reduce greenhouse gas emissions by 60% from 1990 to 2030.",
+      "verbatim_text": "In addition to the objective of becoming carbon-neutral, the City  Strategy  2017-2021 also includes an intermediate goal: the greenhouse  gas  emissions  will  be  reduced by  60  per  cent  during  1990-2030.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Calculation of the required emissions reductions",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Quantified emissions reduction target with timeframe (1990–2030)."
+    }
+  },
+  {
+    "cluster_id": 21,
+    "cluster_type": "individual",
+    "section_header": "1.2 helsinki's climate objectives and the role of the city",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "City Council decided that the Hanasaari B power plant will be closed down by the end of 2024.",
+      "verbatim_text": "To  achieve  the  objectives,  the  City Council  decided  on  2  December  2015  that the Hanasaari B power  plant would be closed down by the end of 2024.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "1.2 Helsinki's climate objectives and the role of the City",
+      "sector": "Energy",
+      "extraction_rationale": "Binding decision with a clear deadline (end of 2024) affecting energy emissions."
+    }
+  },
+  {
+    "cluster_id": 22,
+    "cluster_type": "individual",
+    "section_header": "emission reductions of traffic",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Helsinki sets a traffic-sector goal to reduce greenhouse gas emissions from traffic by 69% from 2005 levels by 2035.",
+      "verbatim_text": "To  reach  the  goal  of  becoming carbon-neutral, the traffic emissions were set a separate goal: the objective is  to  reduce  greenhouse  gas  emissions  by 69 per cent from the level of 2005 by 2035",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Emission reductions of traffic",
+      "sector": "Transport",
+      "extraction_rationale": "Quantified sectoral target with baseline year and deadline."
+    }
+  },
+  {
+    "cluster_id": 23,
+    "cluster_type": "individual",
+    "section_header": "emission reductions of construction and use of buildings",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Helsinki sets a buildings energy-use goal to reduce emissions by 82% over 1990–2035.",
+      "verbatim_text": "The emissions reduction goal for the energy use of buildings is 82 per cent during 19902035.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Emission reductions of construction and use of buildings",
+      "sector": "Buildings",
+      "extraction_rationale": "Quantified sector target with timeframe explicitly stated."
+    }
+  },
+  {
+    "cluster_id": 24,
+    "cluster_type": "individual",
+    "section_header": "carbon sinks and compensation",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Helsinki will focus on examining emission compensation in more detail and will examine and continuously monitor carbon storage and carbon sinks in Helsinki (including across the Helsinki Group).",
+      "verbatim_text": "In  the  next  few years, the City needs to examine  the  potential  presented  by  emission compensation  in  more  detail.\n\nThis requires us to examine the carbon sink potential of the entire Helsinki Group and to constantly  monitor  the  carbon  storage  and carbon sinks in Helsinki.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Carbon sinks and compensation",
+      "sector": "AFOLU",
+      "extraction_rationale": "Concrete commitment to examine compensation potential and to monitor sinks/storage continuously."
+    }
+  },
+  {
+    "cluster_id": 25,
+    "cluster_type": "individual",
+    "section_header": "monitoring, reporting and interaction",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Helsinki will draw up a communication and interaction plan for the Action Plan jointly with interest groups and will develop an openly available monitoring tool for tracking actions and assessing impacts.",
+      "verbatim_text": "A  communication and interaction plan will be drawn up for the Action Plan jointly with interest groups.\n\nAn openly  available  monitoring  tool  will  be  developed for the monitoring of the actions and the assessment of larger-scale impacts.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Monitoring, reporting and interaction",
+      "sector": "Cross-cutting",
+      "extraction_rationale": "Specific intervention: creation of communication/interaction plan and development of a public monitoring tool."
+    }
+  },
+  {
+    "cluster_id": 26,
+    "cluster_type": "individual",
+    "section_header": "monitoring, reporting and interaction",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "The City Council will be provided with an annual overview of Action Plan progress as part of the environmental reporting system.",
+      "verbatim_text": "The most important channel for monitoring the Action  Plan  is  the  current  environmental  reporting system. The City Council will be provided with an annual overview of the progress of the Action Plan in connection with the environmental reporting: how the emissions in Helsinki are developing and how well the actions have been implemented.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Monitoring, reporting and interaction",
+      "sector": "Cross-cutting",
+      "extraction_rationale": "Clear monitoring/reporting commitment with annual cadence and recipient (City Council)."
+    }
+  },
+  {
+    "cluster_id": 27,
+    "cluster_type": "individual",
+    "section_header": "monitoring, reporting and interaction",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "A group will be established to manage and be in charge of implementing environmental and climate-related matters and to report to the City executive group on emissions-reduction work.",
+      "verbatim_text": "The  City  requires  a  group  for  managing  and being  in  charge  of  the  implementation  of  environmental  and  climate-related  matters.  The group will also need to report to the executive group of the City on the realisation of the work on  emissions  reductions.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Monitoring, reporting and interaction",
+      "sector": "Cross-cutting",
+      "extraction_rationale": "Institutional commitment to create/maintain a governance group with reporting duties."
+    }
+  },
+  {
+    "cluster_id": 28,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to procurements",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Develop existing procurement criteria and introduce new criteria for City of Helsinki procurements focusing on life cycle, circular economy, and climate, with environmental criteria used as minimum requirements or heavily weighted comparison criteria.",
+      "verbatim_text": "107. Existing procurement criteria will be developed and new criteria introduced to the procurements of the City of Helsinki, with regard to life cycle, circular economy and the climate.\n\n· The environmental criteria must be the minimum requirements or the significantly weighed comparison criteria when making procurements.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to procurements",
+      "sector": "Public procurement",
+      "extraction_rationale": "Concrete commitment to change procurement rules/criteria, specifying how environmental criteria will be applied in tendering decisions."
+    }
+  },
+  {
+    "cluster_id": 29,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to procurements",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Identify procurements with significant greenhouse gas and circular-economy impacts and develop emission calculations, life-cycle models, and climate impact assessment for them, including environmental impact assessment of procurements.",
+      "verbatim_text": "108. Procurements that are significant in terms of greenhouse gas emissions and circular economy will be identified, and emission calculations, life cycle models and climate impact assessment will be developed for these procurements. The impact of procurements will be assessed in terms of the environment.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to procurements",
+      "sector": "Public procurement",
+      "extraction_rationale": "Specific intervention to develop accounting/assessment tools and apply them to identified high-impact procurements."
+    }
+  },
+  {
+    "cluster_id": 30,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to procurements",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Increase collaboration with companies through trials and cooperation pilots and seek funding for implementing innovative procurements to reduce emissions.",
+      "verbatim_text": "109. Collaboration with companies will be increased through various trials and cooperation pilots, and funding will be sought for the implementation of innovative procurements to reduce emissions.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to procurements",
+      "sector": "Public procurement",
+      "extraction_rationale": "Commits to pilots and funding-seeking to enable innovative, emissions-reducing procurement."
+    }
+  },
+  {
+    "cluster_id": 31,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to procurements",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Create strategic goals and a roadmap for sustainable and innovative procurements in the Helsinki Group and update the City’s procurement strategy.",
+      "verbatim_text": "110. Strategic goals are to be created for sustainable and innovative procurements in the Helsinki Group. A road map for innovative and sustainable procurements will be created, and the City's procurement strategy will be updated.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to procurements",
+      "sector": "Public procurement",
+      "extraction_rationale": "Explicit commitment to create goals/roadmap and update a formal strategy document."
+    }
+  },
+  {
+    "cluster_id": 32,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to procurements",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Increase regional collaboration among municipalities and other public entities on sustainable procurements, including joint training, reports, market surveys, and defining minimum climate-criteria requirements for tendering.",
+      "verbatim_text": "111. Collaboration with the municipalities, joint municipal authorities and other public entities in the region will be increased on sustainable procurements. For example: joint training events, reports, market surveys and the definition of minimum requirements for climate criteria used in tendering.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to procurements",
+      "sector": "Public procurement",
+      "extraction_rationale": "Specific collaborative actions are listed (training, reports, surveys, minimum requirements) indicating a concrete policy measure."
+    }
+  },
+  {
+    "cluster_id": 33,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to procurements",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Develop procurement planning and reporting by adopting procurement calendars and uniform City-level reporting procedures; increase guidance on life-cycle costs, combining procurements, and shared use; and monitor as part of environmental programmes and reporting.",
+      "verbatim_text": "112. The planning and reporting of procurements will be developed, for example by adopting procurement calendars and uniform City-level reporting procedures. Instructions for considering the overall economy of procurements (such as life cycle costs), combining procurements and increasing shared use of procurements will be increased. Monitoring will be conducted as a part of the environmental programmes and reporting.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to procurements",
+      "sector": "Public procurement",
+      "extraction_rationale": "Commits to concrete administrative instruments (calendars, uniform reporting, instructions) plus monitoring integration."
+    }
+  },
+  {
+    "cluster_id": 34,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to procurements",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Develop and tighten environmental and climate-impact-reducing criteria (including circular economy) for City procurements related to foodstuffs and food service.",
+      "verbatim_text": "113. The criteria that reduce the environmental and climate-related impact and take circular economy into account will be developed and tightened in the City's procurements related to foodstuffs and food service.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to procurements",
+      "sector": "Public procurement",
+      "extraction_rationale": "Clear commitment to tighten procurement criteria in a defined procurement category (food and food service)."
+    }
+  },
+  {
+    "cluster_id": 35,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to sharing economy and circular economy",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Ensure the City’s property strategy takes sharing economy and circular economy into account, including allowing use of rarely used/poor-condition facilities by users who commit to maintaining them.",
+      "verbatim_text": "120. The City will see to that its property strategy will take sharing economy and circular economy into account (for example, by allowing the use of rarely used and poor-condition facilities by users that commit to maintaining the facilities).",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to sharing economy and circular economy",
+      "sector": "Cross-cutting / Circular economy",
+      "extraction_rationale": "Policy commitment to incorporate sharing/circular economy considerations into an official strategy, with an explicit implementation example."
+    }
+  },
+  {
+    "cluster_id": 36,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to sharing economy and circular economy",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Advance cooperation among the City, companies, residents and others on circular economy, sharing economy and environmental responsibility through projects and pilots.",
+      "verbatim_text": "121. Cooperation with various parties (the City, companies, residents, etc.) will be advanced in terms of circular economy, sharing economy and environmental responsibility, for example through projects and pilots.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to sharing economy and circular economy",
+      "sector": "Cross-cutting / Circular economy",
+      "extraction_rationale": "Specific intervention: organizing/advancing cooperation via projects and pilots."
+    }
+  },
+  {
+    "cluster_id": 37,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to sharing economy and circular economy",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Ensure that participatory (engaging) budgeting is conducted from the perspective of sharing economy and circular economy.",
+      "verbatim_text": "122. The City will ensure that engaging budgeting will be conducted from the perspective of sharing economy and circular economy",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to sharing economy and circular economy",
+      "sector": "Cross-cutting / Circular economy",
+      "extraction_rationale": "Concrete governance commitment: applying a sharing/circular economy lens to participatory budgeting."
+    }
+  },
+  {
+    "cluster_id": 38,
+    "cluster_type": "individual",
+    "section_header": "key actions related to smart & clean growth",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Devise an action plan for Smart & Clean growth, with a first phase in 2018 defining baseline and monitoring, method selection and resourcing, and synchronisation with international pioneer-city indicators.",
+      "verbatim_text": "123. An action plan for Smart & Clean growth will be devised, the first phase of which will define the following:\n\n- The starting point (jobs in S&C, companies, investments) and monitoring\n- The method selection, actions, time span, resources and steering of the plan\n- Synchronisation with the indicators of international pioneer cities to facilitate sufficient comparisons Helsinki's strengths and focuses (in cooperation with businesses)\n\nTime span:\n\nFirst phase in 2018.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Key actions related to Smart & Clean growth",
+      "sector": "Cross-cutting / Green economy",
+      "extraction_rationale": "Explicit commitment to produce a new action plan with defined contents and a specified first-phase timeline."
+    }
+  },
+  {
+    "cluster_id": 39,
+    "cluster_type": "individual",
+    "section_header": "key actions related to smart & clean growth",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Use procurements and other steering measures to support creation of markets for new products and services that help residents, companies, and communities reduce their own emissions.",
+      "verbatim_text": "124. With procurements and available steering measures and other means, the City will support the creation of a market for new products and services that residents, companies and communities can use to reduce their own emissions.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Key actions related to Smart & Clean growth",
+      "sector": "Cross-cutting / Green economy",
+      "extraction_rationale": "Specific intervention using procurement and steering to shape markets for emissions-reducing solutions."
+    }
+  },
+  {
+    "cluster_id": 40,
+    "cluster_type": "individual",
+    "section_header": "key actions related to smart & clean growth",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Provide residents with opportunities to influence and participate in development of new Smart & Clean solutions in an economically sustainable manner.",
+      "verbatim_text": "125. The residents are given opportunities to influence and participate in the development of new Smart & Clean solutions in an economically sustainable manner.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Key actions related to Smart & Clean growth",
+      "sector": "Cross-cutting / Green economy",
+      "extraction_rationale": "Commitment to a participation mechanism (opportunities for residents) tied to solution development."
+    }
+  },
+  {
+    "cluster_id": 41,
+    "cluster_type": "individual",
+    "section_header": "key actions related to smart & clean growth",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Create operational models and criteria that enable the City to achieve economic policy objectives simultaneously with emissions reduction actions.",
+      "verbatim_text": "126. The City organisation will create operation models and criteria that enable the City to achieve its economic policy objectives simultaneously with the emissions reduction actions.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Key actions related to Smart & Clean growth",
+      "sector": "Cross-cutting / Governance",
+      "extraction_rationale": "Concrete commitment to develop models and criteria integrating economic and climate objectives."
+    }
+  },
+  {
+    "cluster_id": 42,
+    "cluster_type": "individual",
+    "section_header": "key actions related to smart & clean growth",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Provide companies domestic market references and opportunities to develop solutions in Helsinki, and promote the Helsinki region’s international pioneer reputation to support company international growth and regional appeal.",
+      "verbatim_text": "127. Companies will receive domestic market references, which will help with export. Domestic and international companies will be given opportunities to develop new solutions and operation models in Helsinki. The reputation of the Helsinki region as an international pioneer will be promoted, which will support the international growth of companies, as well as the appeal of the region.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Key actions related to Smart & Clean growth",
+      "sector": "Cross-cutting / Green economy",
+      "extraction_rationale": "Specific economic-development measures linked to climate/circular economy solutions and export references."
+    }
+  },
+  {
+    "cluster_id": 43,
+    "cluster_type": "individual",
+    "section_header": "key actions related to smart & clean growth",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Systematically develop Smart & Clean joint development platforms and increase their effectiveness, considering urban development, company reference opportunities, international business potential, investments, and the City’s brand.",
+      "verbatim_text": "128. The City will systematically develop its Smart & Clean joint development platforms and increase their effectiveness in the development of climate and circular economy solutions. The functionality of the platforms will take into account urban development, the companies' reference opportunities, the international business potential of the platforms, investments and the City's brand.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Key actions related to Smart & Clean growth",
+      "sector": "Cross-cutting / Green economy",
+      "extraction_rationale": "Concrete commitment to develop platforms as an enabling instrument for climate and circular economy solutions."
+    }
+  },
+  {
+    "cluster_id": 44,
+    "cluster_type": "individual",
+    "section_header": "key actions related to smart & clean growth",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Require Helsinki Group subsidiary communities and joint municipal authorities to integrate emissions reduction policies into their control systems, with a minimum objective of carbon-neutrality by 2035.",
+      "verbatim_text": "129. The organisations, subsidiary communities and joint municipal authorities of the Helsinki Group will be required to integrate the emissions reduction policies into their respective control systems. The minimum objective is to reach carbon-neutrality by 2035.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Key actions related to Smart & Clean growth",
+      "sector": "Cross-cutting / Governance",
+      "extraction_rationale": "Binding requirement directed at Helsinki Group entities, including a minimum quantified objective (carbon-neutrality by 2035)."
+    }
+  },
+  {
+    "cluster_id": 45,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to carbon sinks",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Take impacts on carbon storage into account in designing urban forests and green zones and add procedures to compensate for carbon storage lost during construction.",
+      "verbatim_text": "130. The impact on carbon storage will be taken into account when designing urban forests and nature and public green zones. Planning and green zone design will be complemented with procedures to compensate for the carbon storage lost during construction.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to carbon sinks",
+      "sector": "AFOLU (Land use & forestry)",
+      "extraction_rationale": "Specific land-use planning commitment including introducing compensation procedures for construction-related carbon storage loss."
+    }
+  },
+  {
+    "cluster_id": 46,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to carbon sinks",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Implement the forest network in the Helsinki city plan by reforesting open spots and adding tree stands that do not reduce solar power potential.",
+      "verbatim_text": "131. The forest network in the Helsinki city plan (including conservation areas and forests in the green network) will be implemented by reforesting open spots and complementing the city structure with tree stands that do not cast shadow on the solar power potential.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to carbon sinks",
+      "sector": "AFOLU (Land use & forestry)",
+      "extraction_rationale": "Concrete implementation actions (reforesting, complementing with tree stands) tied to an existing city plan network."
+    }
+  },
+  {
+    "cluster_id": 47,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to carbon sinks",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Maintain City-owned forests and wooded areas (including outside city borders) as vegetative, covered, and diverse through sustainable forestry and multiple tree species.",
+      "verbatim_text": "132. Forests and wooded areas owned by the City (including City-owned areas outside the City borders) will be kept vegetative, covered and diverse with various tree species and sustainable forestry.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to carbon sinks",
+      "sector": "AFOLU (Land use & forestry)",
+      "extraction_rationale": "Specific forest management commitment describing desired ecological conditions and management approach."
+    }
+  },
+  {
+    "cluster_id": 48,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to carbon sinks",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Increase the number of fruit trees, decorative trees, useful plants and shrubs that provide climate-friendly local food on plots through awareness-raising and other communication.",
+      "verbatim_text": "133. The number of fruit trees, decorative trees, useful plants and shrubs that offer climatefriendly local food will be increased on plots through raising of awareness and other forms of communication.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to carbon sinks",
+      "sector": "AFOLU (Land use & forestry)",
+      "extraction_rationale": "Actionable commitment (increase plantings) with an implementation mechanism (communication/awareness)."
+    }
+  },
+  {
+    "cluster_id": 49,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to carbon sinks",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Use Helsinki’s green factor method in planning and implementing new plots to ensure sufficient green structures on each plot.",
+      "verbatim_text": "134. The planning and implementation of new plots will use Helsinki's green factor method to ensure sufficient green structures on each plot.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to carbon sinks",
+      "sector": "AFOLU (Land use & forestry)",
+      "extraction_rationale": "Specific procedural requirement to apply an existing method (green factor) in plot planning/implementation."
+    }
+  },
+  {
+    "cluster_id": 50,
+    "cluster_type": "individual",
+    "section_header": "## 6.2 compensation",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Update the estimate of Helsinki’s carbon storage and carbon sinks each council term, examine the full carbon sink potential of the Helsinki Group, and develop calculation and reporting methods for shared metropolitan-area carbon storage and sinks.",
+      "verbatim_text": "135. An estimate of Helsinki's carbon storage and carbon sinks will be updated each council term, and the full carbon sink potential of the Helsinki Group will be examined. The calculation methods for and reporting on the shared carbon storage and carbon sinks of the metropolitan area will be developed.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## 6.2 Compensation",
+      "sector": "AFOLU (Land use & forestry)",
+      "extraction_rationale": "Concrete monitoring/reporting commitment with a clear recurrence (each council term) and specified scope (Helsinki Group and metro area)."
+    }
+  },
+  {
+    "cluster_id": 51,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to the adaptation to climate change",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Finish adaptation policies and bring them into decision-making simultaneously with the Carbon-neutral Helsinki 2035 Action Plan during the current council term (2017–2021).",
+      "verbatim_text": "137. The adaptation policies will be finished and brought into the decision-making process simultaneously with the Carbon-neutral Helsinki 2035 Action Plan.\n\nTime span:\n\nCurrent council term (2017-2021).",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to the adaptation to climate change",
+      "sector": "Adaptation",
+      "extraction_rationale": "Specific deliverable (finish adaptation policies) with timing (2017–2021) and a defined decision-making linkage."
+    }
+  },
+  {
+    "cluster_id": 52,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to the coordination of climate work",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Set sector-specific emissions reduction objectives in the City’s operational and economic planning.",
+      "verbatim_text": "142. In its operational and economic planning, the City will set sector-specific objectives in terms of emissions reductions.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to the coordination of climate work",
+      "sector": "Cross-cutting / Governance",
+      "extraction_rationale": "Concrete planning requirement to establish sector-specific emissions objectives."
+    }
+  },
+  {
+    "cluster_id": 53,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to the coordination of climate work",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Establish a group or forum to facilitate cooperation between the City, businesses and other interest groups and to support monitoring/sparring related to the Action Plan, and develop new ways to discuss climate matters.",
+      "verbatim_text": "143. A group or forum will be established to facilitate the cooperation between the City, businesses and other interest groups, as well as the monitoring and sparring related to the Action Plan. In addition to this, new ways to discuss climate matters will be developed.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to the coordination of climate work",
+      "sector": "Cross-cutting / Governance",
+      "extraction_rationale": "Specific institutional commitment (establish a forum) with defined purposes (cooperation, monitoring, sparring)."
+    }
+  },
+  {
+    "cluster_id": 54,
+    "cluster_type": "individual",
+    "section_header": "## key actions",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Adopt open policy practice tools and principles for monitoring the Action Plan and create an operational monitoring model to ensure current information is available for implementing and updating the Action Plan.",
+      "verbatim_text": "144. Open policy practice and the related tools and principles are adopted in monitoring of the Action Plan. An operation model for the monitoring of the Action Plan will be created to ensure that the best and current information is always available. The operation model will be used when implementing and updating the Action Plan.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions",
+      "sector": "Cross-cutting / Governance",
+      "extraction_rationale": "Concrete governance/process commitment: adoption of open policy practice and creation of a monitoring operational model."
+    }
+  },
+  {
+    "cluster_id": 55,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to reporting and impact assessment",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Adopt and use new assessment tools for monitoring progress, costs, benefits and emissions development of actions, and for tracking impacts such as green jobs, air quality and health.",
+      "verbatim_text": "145. New assessment tools will be adopted and used for the monitoring of the progress, costs, benefits and emission development of the actions, as well as the development of green jobs, air quality, health impacts and other impacts.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to reporting and impact assessment",
+      "sector": "Cross-cutting / Governance",
+      "extraction_rationale": "Specific commitment to adopt tools covering defined monitoring dimensions and co-benefits."
+    }
+  },
+  {
+    "cluster_id": 56,
+    "cluster_type": "individual",
+    "section_header": "## key actions related to reporting and impact assessment",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Develop an operational model for annual reporting of Helsinki Group operations and finances in terms of emissions reduction, for example as part of environmental reporting.",
+      "verbatim_text": "146. An operation model will be developed for the annual reporting of the operations and finances of the Helsinki Group in terms of emissions reduction; for example, as a part of environmental reporting.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Key actions related to reporting and impact assessment",
+      "sector": "Cross-cutting / Governance",
+      "extraction_rationale": "Concrete administrative action to create an annual reporting model with a defined subject (emissions reduction in operations/finances)."
+    }
+  },
+  {
+    "cluster_id": 57,
+    "cluster_type": "individual",
+    "section_header": "## 9.3 extensive assessment of effectiveness",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Carry out an assessment of the Action Plan during each council term.",
+      "verbatim_text": "## 147. Assessment of the Action Plan during each council term.\n\nParties responsible: Services and Permits / Environ- mental Services.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## 9.3 Extensive assessment of effectiveness",
+      "sector": "Cross-cutting / Governance",
+      "extraction_rationale": "Clear recurring commitment (each council term) to perform an effectiveness assessment of the Action Plan."
+    }
+  }
+]

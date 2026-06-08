@@ -1,0 +1,210 @@
+[
+  {
+    "cluster_id": 0,
+    "cluster_type": "individual",
+    "section_header": "what has london committed to?",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "London is committed to being a zero carbon city by 2050, with the Mayor setting out actions within his powers to achieve this as soon as possible.",
+      "verbatim_text": "The Mayor's London Environment Strategy (May 2018) was one of the first plans of any world city to be compatible with the highest ambition of the Paris Agreement. It commits London to being a zero carbon city by 2050. It sets out the actions the Mayor will take, within his powers, to get there as soon as possible.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "What has London committed to?",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Explicit commitment to an economy-wide outcome (zero carbon) with a deadline (2050) and reference to actions the Mayor will take."
+    }
+  },
+  {
+    "cluster_id": 1,
+    "cluster_type": "individual",
+    "section_header": "how will we get there?",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "London will follow an emissions pathway aligned with IPCC recommendations to reduce emissions by 60% on 1990 levels by 2030 and by nearly 80% by 2040.",
+      "verbatim_text": "Understanding these different pathways has enabled us to set an ambitious emissions pathway in line with the IPCC recommendations. It will see London reduce its emissions by 60 per cent on 1990 levels by 2030 and by nearly 80 per cent by 2040.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "How will we get there?",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Quantified targets with clear baselines and deadlines constitute an extractable mitigation commitment."
+    }
+  },
+  {
+    "cluster_id": 2,
+    "cluster_type": "individual",
+    "section_header": "key messages",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "At least 70% of London's buildings need to reach energy performance level EPC C by 2030.",
+      "verbatim_text": "Only 35 per cent of homes currently achieve adequate energy efficiency performance (EPC C or above) and many will still be in use by 2050. At least 70 per cent of London's buildings need to reach EPC C by 2030.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Key messages",
+      "sector": "Buildings",
+      "extraction_rationale": "Quantified building-efficiency target (share of buildings to EPC C) with deadline (2030)."
+    }
+  },
+  {
+    "cluster_id": 3,
+    "cluster_type": "individual",
+    "section_header": "key messages",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Minimum Energy Efficiency Standards should be set to EPC C across all building types, with effective enforcement, to bring buildings up to an EPC C rating.",
+      "verbatim_text": "Regulation with effective enforcement to bring buildings up to an EPC C rating will be the best way to achieve the building energy efficiency levels needed. This includes setting Minimum Energy Efficiency Standards to EPC C across all building types.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Key messages",
+      "sector": "Buildings",
+      "extraction_rationale": "Specifies a regulatory mechanism (MEES) and performance standard (EPC C) across building types."
+    }
+  },
+  {
+    "cluster_id": 4,
+    "cluster_type": "individual",
+    "section_header": "8. decarbonising transport and increasing use of active and public transport remains a key objective for london",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "By 2041, around 80% of all trips in London should be made by sustainable modes (cycling, walking and public transport).",
+      "verbatim_text": "By 2041, around 80 per cent of all trips in London should be made by sustainable modes of transport including cycling, walking and public transport.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "8. Decarbonising transport and increasing use of active and public transport remains a key objective for London.",
+      "sector": "Transport",
+      "extraction_rationale": "Quantified modal-share target with a deadline (2041)."
+    }
+  },
+  {
+    "cluster_id": 5,
+    "cluster_type": "individual",
+    "section_header": "8. decarbonising transport and increasing use of active and public transport remains a key objective for london",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "By 2050, all of London's motorised road transport will need to be battery electric or fuel cell electric vehicles.",
+      "verbatim_text": "By 2050, all of London's motorised road transport will need to be battery electric or fuel cell electric vehicles.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "8. Decarbonising transport and increasing use of active and public transport remains a key objective for London.",
+      "sector": "Transport",
+      "extraction_rationale": "Clear technology/transition target for the road transport fleet with a deadline (2050)."
+    }
+  },
+  {
+    "cluster_id": 6,
+    "cluster_type": "individual",
+    "section_header": "what will the mayor and the gla group do?",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "The Mayor and GLA group will work with boroughs and stakeholders to deliver a zero carbon transport system by 2050, including implementing the T-Charge and Ultra Low Emission Zone, developing rapid EV charging networks, ending new diesel taxi licensing and ensuring all new taxis are zero-emissions capable, and rolling out electric buses.",
+      "verbatim_text": "Work with boroughs and other stakeholders to deliver a zero carbon transport system by 2050. This includes the new T-Charge and Ultra Low Emission Zone, development of a public network of rapid EV chargers, no longer licensing new diesel taxis and making sure all new taxis are zero emissions capable, and rolling out electric buses.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "What will the Mayor and the GLA group do?",
+      "sector": "Transport",
+      "extraction_rationale": "Specific interventions and programmes (T-Charge, ULEZ, EV chargers, taxi licensing changes, electric buses) tied to an overarching 2050 objective."
+    }
+  },
+  {
+    "cluster_id": 7,
+    "cluster_type": "individual",
+    "section_header": "what will the mayor and the gla group do?",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "The Mayor will ensure new buildings are zero carbon by setting strong policy through the London Plan.",
+      "verbatim_text": "Ensure new buildings are zero carbon through setting strong policy through the London Plan.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "What will the Mayor and the GLA group do?",
+      "sector": "Buildings",
+      "extraction_rationale": "Explicit commitment to a policy instrument (London Plan) to require zero-carbon new buildings."
+    }
+  },
+  {
+    "cluster_id": 8,
+    "cluster_type": "individual",
+    "section_header": "what will the mayor and the gla group do?",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "The Mayor will support boroughs, Londoners and businesses via technical/support frameworks for energy efficiency and heat networks, and through grant programmes.",
+      "verbatim_text": "Support boroughs, Londoners and businesses to do their part through technical and support frameworks for energy efficiency and heat networks, and grant programmes.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "What will the Mayor and the GLA group do?",
+      "sector": "Buildings",
+      "extraction_rationale": "Concrete support interventions (frameworks and grants) targeted at energy efficiency and heat networks."
+    }
+  },
+  {
+    "cluster_id": 9,
+    "cluster_type": "individual",
+    "section_header": "what will the mayor and the gla group do?",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "The Mayor will improve energy efficiency in all GLA buildings, transition GLA vehicle fleets to zero emissions, increase renewables on GLA estates, and use collective energy procurement to encourage new renewable projects inside and outside London.",
+      "verbatim_text": "Lead by example to make all GLA buildings more energy efficient and transition vehicle fleets to zero emissions. We will also increase renewables on our estates, and use collective energy procurement to encourage new renewable projects inside and outside London.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "What will the Mayor and the GLA group do?",
+      "sector": "Public sector",
+      "extraction_rationale": "Multiple explicit operational commitments by the public authority (buildings efficiency, fleet electrification, renewables, procurement)."
+    }
+  },
+  {
+    "cluster_id": 10,
+    "cluster_type": "individual",
+    "section_header": "what will the mayor and the gla group do?",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "The Mayor will work with pension funds and other investors to divest from fossil fuels and increase investment in energy efficiency, low carbon transport, and low carbon heat solutions.",
+      "verbatim_text": "Work with pension funds and other investors to divest from fossil fuels and boost investment in energy efficiency, low carbon transport and low carbon heat solutions.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "What will the Mayor and the GLA group do?",
+      "sector": "Finance",
+      "extraction_rationale": "Explicit commitment to an investment/divestment action affecting climate-related finance flows."
+    }
+  },
+  {
+    "cluster_id": 11,
+    "cluster_type": "individual",
+    "section_header": "what can london boroughs do?",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Boroughs will accelerate building stock improvements using support from the Mayor's Energy for Londoners programmes RE:FIT and RE:NEW.",
+      "verbatim_text": "Accelerate building stock improvements, including building fabric using support from the Mayor's Energy for Londoners programmes RE:FIT and RE:NEW.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "What can London boroughs do?",
+      "sector": "Buildings",
+      "extraction_rationale": "Named programmes (RE:FIT, RE:NEW) and a concrete action (accelerate building improvements)."
+    }
+  },
+  {
+    "cluster_id": 12,
+    "cluster_type": "individual",
+    "section_header": "what can london boroughs do?",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Boroughs will use low-cost funding from the £500m Mayor's Energy Efficiency Fund (MEEF) for energy efficiency and renewable projects.",
+      "verbatim_text": "Use low cost funding available from the Mayor for energy efficiency and renewable projects from the £500m Mayor's Energy Efficiency Fund (MEEF).",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "What can London boroughs do?",
+      "sector": "Finance",
+      "extraction_rationale": "Resource allocation/funding instrument with a quantified amount (£500m) and intended uses."
+    }
+  }
+]

@@ -1,0 +1,479 @@
+[
+  {
+    "policy_statement": "Environment Public Authority (EPA/KEPA) developed the Kuwait National Adaptation Plan (NAP) including medium- and long-term strategies to increase resilience and national capacity to adapt to climate change.",
+    "verbatim_text": "As a result of the State of Kuwait's commitment to preserve the local and regional environment, the Environment Public Authority (EPA) has developed The National Adaptation Plan. Which include medium and long-term strategies to increase strength and resilience in the face of climate challenges and to increase national capacity to adapt to climate change.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "FOREWORD",
+    "sector": "Adaptation (cross-sectoral)",
+    "extraction_rationale": "States a concrete governmental action: development of the NAP with defined strategic scope (medium/long term) to build resilience/adaptive capacity."
+  },
+  {
+    "policy_statement": "Government of Kuwait (via EPA/KEPA) committed to ensure implementation of the National Adaptation Plan (NAP) with partners and identified a national coordination mechanism to implement initiatives protecting vital sectors from climate change impacts.",
+    "verbatim_text": "The Government of Kuwait, represented by the Environment Public Authority (EPA), has committed itself to ensure the implementation of its National Adaptation Plan (NAP), in partnership with other governmental and non-governmental institutions, furthermore A national coordination mechanism has been identified to implement a range of national initiatives to protect the various vital sectors from the Negative impacts of climate change.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "FOREWORD",
+    "sector": "Adaptation (cross-sectoral)",
+    "extraction_rationale": "Explicit commitment to implementation plus establishment/identification of a coordination mechanism—an institutional implementation measure."
+  },
+  {
+    "policy_statement": "Kuwait will establish a comprehensive ongoing monitoring program, using environmental data and information, to monitor climate change and assess its impacts on an ongoing basis in partnership with stakeholders.",
+    "verbatim_text": "One of the expected results is a comprehensive ongoing monitoring program through the necessary environmental data and information to monitor climate change and assess its impact on the State of Kuwait on an ongoing basis, In partnership with all stakeholders such as the academia, private sector and nongovernmental actors in the areas of adaptation to climate change.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "FOREWORD",
+    "sector": "MRV / Monitoring & data",
+    "extraction_rationale": "A clearly described programmatic action (ongoing monitoring) with purpose and partnership arrangement."
+  },
+  {
+    "policy_statement": "Legislative and regulatory limits on vehicle exhaust emissions were put in place in Kuwait following studies showing elevated emissions.",
+    "verbatim_text": "The results of the study showed that the rate of HC, CO and NOx emissions in Kuwait is higher than the emission in the US. Owing to this study and others following, legislative and regulation on the limit of exhaust a car can emit were put in place, and thus vehicles were adjusted during maintenance (E. Al Bassam and A. Khan, 2004).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.4.4 Environment",
+    "sector": "Transport",
+    "extraction_rationale": "Describes a binding mechanism (legislative/regulation) limiting vehicle exhaust—regulatory policy action."
+  },
+  {
+    "policy_statement": "Kuwait encouraged the consumption of unleaded fuel by decreasing its price compared to leaded fuel and limiting availability of leaded fuel at stations.",
+    "verbatim_text": "Kuwait also encouraged the consumption of unleaded fuel by decreasing its price compared to the leaded fuel; also, the number of gas stations offering the leaded option is very few.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.4.4 Environment",
+    "sector": "Transport",
+    "extraction_rationale": "Concrete policy instrument: price incentive and limiting provision of leaded option to shift fuel consumption."
+  },
+  {
+    "policy_statement": "Kuwait's adaptation actions include implementing green belts and increasing protected areas to adapt to dust storms; green belt projects started in 2015 for a 5-year duration and consist of planted areas with trees and shrubs.",
+    "verbatim_text": "In response, Kuwait has undertaken some adaptation projects such as implementing green belts project and increasing the protected areas to adapt to a dust storm. The green belt projects consist of planted areas with trees and shrubs of 50-180 Km in length and 5-20 Km in width. These projects have started in 2015 for 5-year duration time.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.1 Introduction",
+    "sector": "Health",
+    "extraction_rationale": "Specific intervention with dimensions and timeframe to address dust storms (a climate-related health hazard)."
+  },
+  {
+    "policy_statement": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "verbatim_text": "The following points provide a comprehensive summary of ongoing and past climate change adaptation projects and initiatives.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Adaptation (cross-sectoral)",
+    "extraction_rationale": "Introduces a numbered list of multiple initiatives; serves as an umbrella for sub-policies."
+  },
+  {
+    "policy_statement": "Implement green belts and increase protected areas to adapt to dust storms, including the 'Kuwait Green Wall Project' to plant 315,000 trees for a 420 km wall along the borderline; started in 2015 and ongoing.",
+    "verbatim_text": "Kuwait has undertaken some adaptation projects such as implementing green belts project and increasing the protected areas to adapt to a dust storm... Kuwait has implemented a project called 'Kuwait Green Wall Project. This project aims to increase the protected areas by planting 315,000 trees for 420 Km wall along the borderline to hold back the moving sand... This project started in 2015 and still ongoing.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Health",
+    "extraction_rationale": "Concrete project with quantified targets (315,000 trees; 420 km) and start date/ongoing status."
+  },
+  {
+    "policy_statement": "Undertake agricultural projects to develop crops adapted to high temperatures and resistant to salinity and drought, including introducing more than 50 tree types under an Agriculture Master Plan and implementing varieties such as Conocarpus, Ficus, Prosopis, and date palm trees.",
+    "verbatim_text": "Many agricultural projects have been undertaken by Kuwait Institute for Scientific Research (KISR) in order to develop crops that can adapt to high temperatures and different spans of seasons and crops resistant to salinity and drought... More than 50 types of trees for greenery and landscape that can reduce climate change effect, were introduced under the Agriculture Master Plan... Development of new varieties of crops... such as Conocarpus, Ficus, Prosopis, and date palm trees, were implemented in Kuwait.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Agriculture",
+    "extraction_rationale": "Specific intervention (crop/tree development and introduction) with responsible institutions named."
+  },
+  {
+    "policy_statement": "Establish a 'Food security' project with FAO in cooperation with Kuwait to undertake twelve projects across fisheries, water resources, natural resources, animal production, animal health, and technical capacity development, with a budget of $850,000 and 1–5 year timeframe.",
+    "verbatim_text": "In 2016, the project ' Food security ' was established. FAO in cooperation with the State of Kuwait planned to undertake twelve projects in the following fields: - Fisheries management; - Water resource management; - Natural resource management; - Animal production; - Animal health; - Technical capacity development. These projects have a time frame between 1-5 years... with a budget of $850,000.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Food security",
+    "extraction_rationale": "Named project with scope, number of projects, timeframe, and budget—clear resource allocation and intervention."
+  },
+  {
+    "policy_statement": "Establish a regional database and information center to support fisheries management and aquaculture development (FAO/PAAFR), with budget of $250,000/year (joint project initiated December 2016).",
+    "verbatim_text": "Establishment of a regional database and information center to support the fisheries management and aquaculture development , a joint project between PAAFR in Kuwait and FAO in December 2016... with a budget of $250,000/year.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Fisheries",
+    "extraction_rationale": "Specific institutional/data initiative with date and annual budget."
+  },
+  {
+    "policy_statement": "Establish fisheries farms as an adaptation step under food security, including Nile tilapia culture in farms using brackish water (5–8 ppt) in Al-Wafra, Abdali and Al-Sulybia areas; budget $250,000/year.",
+    "verbatim_text": "The establishment of fisheries farms is an important step to adapt to climate change under the food security sector. Nile tilapia (Oreochromis niloticus) culture is implemented... These farms are in the Al-Wafra, Abdali and Al-Sulybia areas. Brackish water with a salinity of 5-8 ppt pumped from underground wells is used in these farms. The budget for this project is also $250,000/year.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Fisheries",
+    "extraction_rationale": "Concrete adaptation project with technology/practice, locations, and budget."
+  },
+  {
+    "policy_statement": "Assess historic climate records for the past 70 years and develop future projection climatic scenarios until 2100 (project started 2012 by Kuwait University and UN Environment).",
+    "verbatim_text": "Assessment of historic climate records and future projection. The project aimed at assessing the historic climate records for the past 70 years and make future projection climatic scenarios until the year 2100. The project started in 2012 by the Kuwait University and UN Environment.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "MRV / Monitoring & data",
+    "extraction_rationale": "Clearly defined project objective and timeframe with responsible institutions."
+  },
+  {
+    "policy_statement": "Establish the electronic environmental Monitoring Information System of Kuwait (eMISK) to build and maintain a comprehensive geo-environmental database and GIS system for updating and analyzing environmental data (started 2015, ongoing).",
+    "verbatim_text": "Environmental Monitoring Information System of Kuwait (eMISK). eMISK is an electronic system established by the Environment Public Authority (EPA) of Kuwait and aims at building and maintaining a comprehensive geo-environmental database of Kuwait and a GIS system to facilitate updating and analyzing environmental data. The project starts in 2015 by EPA and is still ongoing.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "MRV / Monitoring & data",
+    "extraction_rationale": "Specific system established with clear purpose and start date/ongoing status."
+  },
+  {
+    "policy_statement": "Establish eMISK Industry as a national program to collect an environmental inventory of industrial facilities in Kuwait.",
+    "verbatim_text": "eMISK Industry ; this project aims at establishing a national program for collecting an environmental inventory of industrial facilities in Kuwait.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Industry",
+    "extraction_rationale": "Explicit national program objective; inventory collection is a concrete institutional intervention."
+  },
+  {
+    "policy_statement": "Implement eMISK Waste to manage the fleet of industrial liquid waste vehicles and organize the logistics process.",
+    "verbatim_text": "eMISK Waste ; this project aims at finding and implementing a solution to be able to manage the fleet of industrial liquid waste vehicles and organizing the logistics process.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Waste",
+    "extraction_rationale": "Specific operational/logistics intervention described as a project aim."
+  },
+  {
+    "policy_statement": "Implement eMISK Marine to promote and facilitate an information management system supporting policies and programs for integrated coastal and ocean management in Kuwait.",
+    "verbatim_text": "eMISK Marine ; The project aims at promoting and facilitating information management system in support of policies and programs that enhance integrated coastal and ocean management in Kuwait.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Coastal",
+    "extraction_rationale": "Concrete information management system initiative linked to integrated coastal/ocean management."
+  },
+  {
+    "policy_statement": "Build additional desalination capacity: Kuwait produced around 3.85 MCM/d of desalinated water in 2016; eight additional plants were being commissioned and additional IWPP/plant projects are planned, including Al-Zour North (250 MGD), Al-Zour South (145 MGD), Al Khiran (125 MGD), and Doha (60 MGD), with further projects planned to be tendered as of 2019 (~285 MGD additional).",
+    "verbatim_text": "Building desalination plants... In 2016, Kuwait produced around 3.85 MCM/d of desalinated water. Eight additional plants were being commissioned by the government. Al-Zour North IWPP (capacity: 250 Million of Gallons per Day (MGD)...), Al-Zour South Plant (capacity: 145 MGD), Al Khiran IWPP (capacity: 125 MGD), and Doha desalination plant (60 MGD)... While, 4 more projects (Al-Nwaiseeb, New Shuaiba, New Doha, Doha RO phase 2) with an additional capacity of around 285 MGD are planned to be tendered as of 2019.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Water",
+    "extraction_rationale": "Concrete infrastructure expansion with quantified capacities and planning/commissioning status."
+  },
+  {
+    "policy_statement": "Invest USD 5.5 million jointly with MIT to research updates to current desalination plants and next-generation desalination plants (since 2016, ongoing).",
+    "verbatim_text": "Kuwait is investing USD 5.5 million jointly with MIT to conduct researches on updating the current desalination plants and next-generation desalination plants. ... the Government is responsible for the implementation of this project since 2016 and it is still ongoing.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Water",
+    "extraction_rationale": "Explicit funding commitment for R&D (resource allocation) with partners and timeframe."
+  },
+  {
+    "policy_statement": "Provide education on 'in-house water desalination techniques' for rural households, implemented jointly with the United Nations (started 2016).",
+    "verbatim_text": "Education on household desalination. Kuwait jointly with United Nations taught the Kuwaiti people in rural areas the 'in-house water desalination techniques', where households can have freshwater at low cost and short time... The UNDP started this project up in 2016.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Water",
+    "extraction_rationale": "Specific capacity-building/education intervention with start date."
+  },
+  {
+    "policy_statement": "Implement Kuwait Integrated Environmental Information Network Phase-IV (KIEIN-IV), a GIS-based system compiling environmental indicator data and serving as a spatial decision support tool (run 2012–2014; budget $1,200,000).",
+    "verbatim_text": "Kuwait Integrated Environmental Information Network Phase-IV . The KIEIN-IV is an integrated GIS-based system... This project was running from 2012-2014 by the UNDP and EPA with a budget of $1,200,000.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "MRV / Monitoring & data",
+    "extraction_rationale": "Named system with clear functions, implementers, timeframe, and budget."
+  },
+  {
+    "policy_statement": "Implement the Kuwait Environmental Governance Initiative (KEGI) to support design of the National Adaptation Plan (NAP) and relevant initiatives linked to water, city planning, and other sectors (2017–2018; budget $2,000,000).",
+    "verbatim_text": "Kuwait Environmental Governance Initiative (KEGI) . The Project supports the design of the National Adaptation Plan (NAP) of Kuwait and the relevant initiatives linked to water, city planning, and other sectors. This project was running from 2017-2018 by the UNDP and EPA with a budget of $2,000,000.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Adaptation (cross-sectoral)",
+    "extraction_rationale": "Explicit project with purpose, implementing agencies, timeframe, and budget."
+  },
+  {
+    "policy_statement": "Establish land and marine nature reserves to safeguard marine and land ecosystems, including reserves in Sabah Al-Ahmed natural reserve area and Jahra pool natural reserve area (2011–2016).",
+    "verbatim_text": "Establishment of land and marine nature reserves. The project aims to establish a series of land and marine nature reserves in the State of Kuwait... These natural reserves are in Sabah Al-Ahmed natural reserve area and Jahra pool natural reserve area... This project was running from 2011-2016 by the EPA.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Biodiversity",
+    "extraction_rationale": "Concrete conservation intervention with locations and timeframe."
+  },
+  {
+    "policy_statement": "Apply water conservation technologies as an adaptation option to reduce water consumption by 20% (project started in 2012 and ongoing).",
+    "verbatim_text": "Water Conservation (Partially implemented) Kuwait's Initial National Communications ; the application of water conservation technologies was also one of the adaptation options to reduce water consumption by 20 %. The Water Resources Sector was responsible, and the project started in 2012 and is still ongoing.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Water",
+    "extraction_rationale": "Quantified target (20% reduction) and ongoing implementation make it an extractable policy action."
+  },
+  {
+    "policy_statement": "Establish a Coastal Information System (CIS) to provide coastal area information to planners and decision makers as an adaptation measure; started in 2006 and ongoing.",
+    "verbatim_text": "Establishing a Coastal information system (CIS) ; Coastal Information System (CIS) was established to help in the protection of coastal zones and marine environments in Kuwait... The project was started in 2006 by KISR/CIS and is still ongoingg.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Coastal",
+    "extraction_rationale": "Named, established system with purpose and start date/ongoing status."
+  },
+  {
+    "policy_statement": "Construct tidal barriers in new developments (Sabah Al Ahmad Sea City) including a tidal gate system and offshore breakwater to cope with rising sea levels and protect from erosion; completed in 2016.",
+    "verbatim_text": "Constructing tidal barriers in new developments ; Sabah Al Ahmad Sea City... constructed a tidal gate system and offshore breakwater... to cope with the rising sea levels as the adverse impact of climate change. The project was completed in 2016",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Coastal",
+    "extraction_rationale": "Specific engineered adaptation intervention with completion date."
+  },
+  {
+    "policy_statement": "Conduct awareness campaigns and symposiums regarding sea level rise, including the 2017 'Our Seas: Theories, Data, and Policies' symposium to increase awareness among stakeholders and the public.",
+    "verbatim_text": "Conducting awareness campaigns and symposiums regarding Sea level rise ; the 'Our Seas: Theories, Data, and Policies' Symposium... aimed at increasing the awareness of the concerned stakeholders and the public about the adaptation to sea level rise... The project was completed in 2017",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Coastal",
+    "extraction_rationale": "Concrete completed awareness intervention tied to adaptation (SLR)."
+  },
+  {
+    "policy_statement": "Implement the Coastal Management Program (CMP) to produce Integrated Coastal Zone Management (ICZM) for Kuwait (Phase 1 completed; Phase 2 ongoing; started 1979).",
+    "verbatim_text": "Coastal Management Program ; ... The CMP was responsible to produce Integrated Coastal Zone Management (ICZM) for Kuwait. The ICZM consists of two phases, Phase 1 has already completed. While phase 2 is still ongoing. The project started in 1979",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Coastal",
+    "extraction_rationale": "Named program with defined deliverable (ICZM) and implementation status."
+  },
+  {
+    "policy_statement": "Initiate a Water Resources Development and Management Program (WRDM) to develop integrated water policies, management options, and action plans to solve water scarcity and increase water security and resilience (ongoing).",
+    "verbatim_text": "Establishment of the Water Resources Program ; A water resources development and management program (WRDM) was initiated by the Kuwait Institute for Science and Research (KISR)... WRDM program was designed to develop integrated water policies, management options, and action plans to solve water scarcity problems and increase Kuwait's water security and resilience. The project is still ongoing",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Water",
+    "extraction_rationale": "Program initiation with explicit policy-development outputs (integrated policies/action plans)."
+  },
+  {
+    "policy_statement": "Construct desalination using Multi-Stage Flash (MSF) technology: operate 40 MSF units with total production capacity of 234 MGD (completed).",
+    "verbatim_text": "Constructing Desalination using Multi-Stage Flash technology ; Kuwait has a total of 40 operating Multi-Stage Flash desalination units (MSF), with a total production capacity of 234 MGD. The project was completed by the Government and the MEW",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Water",
+    "extraction_rationale": "Concrete infrastructure/technology deployment with quantified capacity and completion statement."
+  },
+  {
+    "policy_statement": "Implement a Wastewater Treatment and Reclamation Technologies Program to research reclaiming and reusing wastewater for irrigation; MPW reported about 65% of treated wastewater is reused in irrigation (ongoing).",
+    "verbatim_text": "Wastewater Treatment and Reclamation Technologies Program ; this program has been initiated by KISR and it aims at conducting research on reclaiming and reusing Kuwait's wastewater to utilize it in irrigation purposes... MPW stated that about 65% of its treated wastewater is reused in irrigation already. The project is still ongoing",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Water",
+    "extraction_rationale": "Ongoing program with explicit aim and application (reuse for irrigation)."
+  },
+  {
+    "policy_statement": "Conduct an awareness campaign on KEPA Articles 76 (ambient air and air quality zone compliance actions) and 79 (emission sources and evaluation), completed in 2010.",
+    "verbatim_text": "Awareness Campaign of KEPA Articles 76 and 79; an awareness campaign has been conducted to increase the awareness about Article No. 76 regarding the ambient air and Air Quality Zone Compliance actions and Article No. 79 regarding the emission sources and evaluation... The project was completed in 2010.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Air quality",
+    "extraction_rationale": "Specific, completed policy-communication action tied to air quality compliance and emissions evaluation."
+  },
+  {
+    "policy_statement": "Implement the Beatona initiative (EPA website) to increase public awareness by sharing real-time environmental news and information and providing GIS map layers (started 2012, ongoing).",
+    "verbatim_text": "Beatona Initiative ; Beatona Initiative is a website established by EPA and aims to increase the public awareness... through sharing real-time environmental news and information with the public... The project started in 2012 by the EPA and is still ongoing.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Public awareness",
+    "extraction_rationale": "Specific ongoing awareness and information-sharing initiative with stated purpose and start date."
+  },
+  {
+    "policy_statement": "Implement the Tarsheed campaign to reduce per-capita consumption of electricity and water (completed 2007).",
+    "verbatim_text": "Tarsheed Campaign ; Tarsheed campaign was an Initiative made to reduce the percapita consumption of electricity and water... The project was completed in 2007",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Energy demand",
+    "extraction_rationale": "Explicit initiative with a defined behavioral/resource outcome and completion date."
+  },
+  {
+    "policy_statement": "Implement Tarsheed Campaign II to encourage 'Reduce, Reuse and Recycle' waste management (completed 2013).",
+    "verbatim_text": "Tarsheed Campaign II ; Tarsheed campaign II was an Initiative to encourage the implementation of the 'Reduce, Reuse and Recycle' waste management... complete this project in 2013",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Waste",
+    "extraction_rationale": "Concrete waste management behavior-change initiative with completion date."
+  },
+  {
+    "policy_statement": "Utilize treated sewage effluent (TSE) from Umm Al-Hayman WWTP for irrigation of green and agricultural areas (project implemented 2012–2018 by MPW).",
+    "verbatim_text": "Utilizing TSE water generated from Umm Al-Hayman WWTP in Irrigation purposes ; TSE is utilized to irrigate the green areas and agricultural areas... The Ministry of Public Works (MPW) held this project from 2012-2018",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Water",
+    "extraction_rationale": "Specific reuse action with implementing agency and timeframe."
+  },
+  {
+    "policy_statement": "Issue and enforce a national law to stop outdoor work from 11:00 AM to 16:00 during June through August (issued 2005; cited as started by EPA in 2018 under public health sector).",
+    "verbatim_text": "the Ministry of Social Affairs and Labor of Kuwait issued a national law in 2005 to stop any outdoor work from 11:00 AM to 16:00 PM during the months of June through August.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Health",
+    "extraction_rationale": "Binding mechanism (national law) with specific hours and months to reduce heat exposure risk."
+  },
+  {
+    "policy_statement": "Support Kuwait to prepare and submit its Second National Communication (SNC) and first Biennial Update Report (BUR) to UNFCCC via a GEF-funded project (started 2014; budget $1,517,000).",
+    "verbatim_text": "Enabling Kuwait to Prepare it's Second National Communication (SNC) and Biennial Update Report (BUR) to the UNFCCC... The Global Environmental Facility (GEF) started this project in 2014 with a budget of $1,517,000.",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "MRV / Reporting",
+    "extraction_rationale": "Explicit funded project to meet international reporting obligations; includes start date and budget."
+  },
+  {
+    "policy_statement": "Operate the Environmental Pollution and Climate (EPC) Program to assess pollution and climate change challenges in atmospheric, aquatic, and terrestrial environments (ongoing).",
+    "verbatim_text": "The Environmental Pollution and Climate (EPC) Program ; this program aims at assessing the pollution and climate change challenges concerning the atmospheric, aquatic, and terrestrial environment of Kuwait. This project is still ongoing",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Adaptation (cross-sectoral)",
+    "extraction_rationale": "Named ongoing program with explicit assessment objective relevant to climate change."
+  },
+  {
+    "policy_statement": "Implement Omniya plastic bottle recycling initiative to collect and recycle empty plastic bottles instead of sending them to landfills (started 2015; ongoing).",
+    "verbatim_text": "Omniya Plastic bottles recycle ; an initiative to collect the empty plastic bottles and recycling it instead of sending to landfills... The project started in 2015 by an NGO and is still ongoing",
+    "policy_type": "sub",
+    "parent_policy_name": "Projects and National Initiatives: Kuwait lists ongoing and past climate change adaptation projects and initiatives across sectors (water, agriculture, fisheries, coastal, health, waste, awareness).",
+    "section_header": "4.2 Projects and National Initiatives",
+    "sector": "Waste",
+    "extraction_rationale": "Concrete waste-reduction/recycling initiative with start date and ongoing status."
+  },
+  {
+    "policy_statement": "Environment Protection Law No. 42/2014 includes provisions for adapting to adverse climate change impacts, protecting land/soil, reducing desertification, managing natural reserves and water resources, and creating disaster management plans.",
+    "verbatim_text": "Environment Protection Law No. 42/2014 - Adapting to the adverse impacts of climate change. The protection of land and soil, reducing desertification, management of natural reserves and water resources and creating plans for disaster management.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.3 Policies and Strategies on Climate Change Adaptation",
+    "sector": "Adaptation (cross-sectoral)",
+    "extraction_rationale": "Explicit national law with climate adaptation-related mandates and measures."
+  },
+  {
+    "policy_statement": "Law No. 16/1996 established the Kuwait Environmental Public Authority and granted it power to regulate activities that may pollute the environment.",
+    "verbatim_text": "Law No. 16/1996 Established the Kuwait Environmental Public Authority and gave it the power to regulate any activity that may pollute the environment",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.3 Policies and Strategies on Climate Change Adaptation",
+    "sector": "Governance",
+    "extraction_rationale": "Legal institutional framework establishing regulator with explicit regulatory authority."
+  },
+  {
+    "policy_statement": "Enhance and build the capacity of Kuwait’s health sector to be prepared for increased health risks due to climate change through identified short-, medium-, and long-term adaptation actions (budgeted at USD 4.1 million).",
+    "verbatim_text": "Enhancing the building capacity of the health sector to be prepared for increased risks due to climate change must be set as an objective of climate change adaptation for this sector. Immediate adaptation actions should be taken to ensure the achievement of this objective.\n\n| Enhance and building the capacity of the health sector to be prepared for increased health risks due to climate change |\n...\n| Budget | 4.1 million USD. |",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "5.3.4 Adaptation Plans to enhance the resilience of the Human Health Sector",
+    "sector": "Health",
+    "extraction_rationale": "This is an adaptation plan/initiative with an explicit objective for the health sector, accompanied by a defined set of actions (short/medium/long-term) and an allocated budget, making it a concrete policy package suitable for parent-child extraction."
+  },
+  {
+    "policy_statement": "Increase public awareness of climate change effects and impacts on general health.",
+    "verbatim_text": "Short term actions\n▪ Increase public awareness of climate changes effects and impacts on general health.",
+    "policy_type": "sub",
+    "parent_policy_name": "Enhance and build the capacity of Kuwait’s health sector to be prepared for increased health risks due to climate change through identified short-, medium-, and long-term adaptation actions (budgeted at USD 4.1 million).",
+    "section_header": "5.3.4 Adaptation Plans to enhance the resilience of the Human Health Sector",
+    "sector": "Health",
+    "extraction_rationale": "Listed as a short-term action under the health sector adaptation plan, representing a specific intervention (awareness-raising)."
+  },
+  {
+    "policy_statement": "Conduct climate change risk and vulnerability assessments for the general public.",
+    "verbatim_text": "Short term actions\n▪ Conduct risk assessments and vulnerability to Climate Change on the general public.",
+    "policy_type": "sub",
+    "parent_policy_name": "Enhance and build the capacity of Kuwait’s health sector to be prepared for increased health risks due to climate change through identified short-, medium-, and long-term adaptation actions (budgeted at USD 4.1 million).",
+    "section_header": "5.3.4 Adaptation Plans to enhance the resilience of the Human Health Sector",
+    "sector": "Health",
+    "extraction_rationale": "A specific, actionable commitment (risk and vulnerability assessments) presented as part of the short-term action list."
+  },
+  {
+    "policy_statement": "Involve media to communicate health and climate issues through advertising and social media.",
+    "verbatim_text": "Short term actions\n▪ Involve the media in carrying the message of issues of Health, as people get more influenced and receive the message more directly and subconsciously through advertisement and social media sites.",
+    "policy_type": "sub",
+    "parent_policy_name": "Enhance and build the capacity of Kuwait’s health sector to be prepared for increased health risks due to climate change through identified short-, medium-, and long-term adaptation actions (budgeted at USD 4.1 million).",
+    "section_header": "5.3.4 Adaptation Plans to enhance the resilience of the Human Health Sector",
+    "sector": "Health",
+    "extraction_rationale": "Concrete communication intervention specified as a short-term action under the plan."
+  },
+  {
+    "policy_statement": "Adjust official working hours to avoid working during maximum daytime temperatures by studying and issuing a new threshold.",
+    "verbatim_text": "▪ Adjust the official working hours to avoid working during maximum temperatures in the day (study and issue a new threshold).",
+    "policy_type": "sub",
+    "parent_policy_name": "Enhance and build the capacity of Kuwait’s health sector to be prepared for increased health risks due to climate change through identified short-, medium-, and long-term adaptation actions (budgeted at USD 4.1 million).",
+    "section_header": "5.3.4 Adaptation Plans to enhance the resilience of the Human Health Sector",
+    "sector": "Health",
+    "extraction_rationale": "Specific intervention affecting work schedules, with an explicit next step (study and issue a new threshold), listed as a short-term action."
+  },
+  {
+    "policy_statement": "Raise awareness on how to respond to dust and heat wave events.",
+    "verbatim_text": "▪ Raising awareness of how to respond to dust and heat waves events.",
+    "policy_type": "sub",
+    "parent_policy_name": "Enhance and build the capacity of Kuwait’s health sector to be prepared for increased health risks due to climate change through identified short-, medium-, and long-term adaptation actions (budgeted at USD 4.1 million).",
+    "section_header": "5.3.4 Adaptation Plans to enhance the resilience of the Human Health Sector",
+    "sector": "Health",
+    "extraction_rationale": "A defined awareness/preparedness action targeted at specific climate-related hazards, included in the plan’s action list."
+  },
+  {
+    "policy_statement": "Establish national health alerts for dust storms and heat waves.",
+    "verbatim_text": "▪ Establishing national health alerts for dust storms and heat waves.",
+    "policy_type": "sub",
+    "parent_policy_name": "Enhance and build the capacity of Kuwait’s health sector to be prepared for increased health risks due to climate change through identified short-, medium-, and long-term adaptation actions (budgeted at USD 4.1 million).",
+    "section_header": "5.3.4 Adaptation Plans to enhance the resilience of the Human Health Sector",
+    "sector": "Health",
+    "extraction_rationale": "A specific institutional measure (national alert system) identified as a short-term action."
+  },
+  {
+    "policy_statement": "Develop warning systems for extreme weather conditions combined with a communication strategy for alerts.",
+    "verbatim_text": "Medium-term actions\n▪ Develop warning systems for extreme weather conditions combined with a communication strategy for alerts.",
+    "policy_type": "sub",
+    "parent_policy_name": "Enhance and build the capacity of Kuwait’s health sector to be prepared for increased health risks due to climate change through identified short-, medium-, and long-term adaptation actions (budgeted at USD 4.1 million).",
+    "section_header": "5.3.4 Adaptation Plans to enhance the resilience of the Human Health Sector",
+    "sector": "Health",
+    "extraction_rationale": "Medium-term commitment specifying both systems development and an accompanying communication strategy."
+  },
+  {
+    "policy_statement": "Increase drought-proof vegetation to reduce dust fallout from dust storms.",
+    "verbatim_text": "Medium-term actions\n▪ Increase drought-proof vegetation to reduce dust fallout from dust storms.",
+    "policy_type": "sub",
+    "parent_policy_name": "Enhance and build the capacity of Kuwait’s health sector to be prepared for increased health risks due to climate change through identified short-, medium-, and long-term adaptation actions (budgeted at USD 4.1 million).",
+    "section_header": "5.3.4 Adaptation Plans to enhance the resilience of the Human Health Sector",
+    "sector": "Health",
+    "extraction_rationale": "A concrete medium-term action linking an environmental intervention (vegetation) to a health-relevant hazard (dust)."
+  },
+  {
+    "policy_statement": "Include information and instructions about climate change effects on health in the early education curriculum.",
+    "verbatim_text": "Long-term actions\n▪ Include information and instructions about Climate Change Effects on Health in the early education curriculum.",
+    "policy_type": "sub",
+    "parent_policy_name": "Enhance and build the capacity of Kuwait’s health sector to be prepared for increased health risks due to climate change through identified short-, medium-, and long-term adaptation actions (budgeted at USD 4.1 million).",
+    "section_header": "5.3.4 Adaptation Plans to enhance the resilience of the Human Health Sector",
+    "sector": "Health",
+    "extraction_rationale": "Long-term policy action specifying curricular integration, a concrete intervention beyond aspiration."
+  },
+  {
+    "policy_statement": "Establish a climate-and-health research and monitoring network focused on analyzing expected climate change impacts on health.",
+    "verbatim_text": "Long-term actions\n▪ Establish a research and monitoring network on climate and health, with a focus on analyzing the expected climate change impact on health.",
+    "policy_type": "sub",
+    "parent_policy_name": "Enhance and build the capacity of Kuwait’s health sector to be prepared for increased health risks due to climate change through identified short-, medium-, and long-term adaptation actions (budgeted at USD 4.1 million).",
+    "section_header": "5.3.4 Adaptation Plans to enhance the resilience of the Human Health Sector",
+    "sector": "Health",
+    "extraction_rationale": "Long-term commitment to create a specific institutional capability (research and monitoring network) with a defined analytical focus."
+  }
+]

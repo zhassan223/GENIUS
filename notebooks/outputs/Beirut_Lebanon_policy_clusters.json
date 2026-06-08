@@ -1,0 +1,274 @@
+[
+  {
+    "cluster_id": 0,
+    "cluster_type": "individual",
+    "section_header": "4. mitigation contribution",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Lebanon will increase its unconditional economy-wide GHG emissions reduction target to 20% below BAU in 2030 and its conditional target to 31% below BAU in 2030.",
+      "verbatim_text": "This NDC represents a progression beyond Lebanon's 2015 NDC by unconditionally increasing its Greenhouse Gas (GHG) emission target relative to the Business-As-Usual (BAU) scenario from 15% to 20%, and  conditionally  increasing  its  GHG  emission  target  relative  to  the  BAU  scenario  from  30%  to  31%.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "4. Mitigation Contribution",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Quantified national mitigation targets with a clear target year (2030) and unconditional/conditional structure."
+    }
+  },
+  {
+    "cluster_id": 1,
+    "cluster_type": "individual",
+    "section_header": "4. mitigation contribution",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Lebanon commits to unconditionally generate 18% of electricity (power demand) and 11% of building-sector heat demand from renewable energy sources by 2030.",
+      "verbatim_text": "Moreover,  Lebanon  commits  to  unconditionally  generate  18%  of  the  power  demand  (i.e.  electricity demand) and 11% of its heat demand (in the building sector) from renewable energy sources in 2030, compared to a combined 15% in 2015.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "4. Mitigation Contribution",
+      "sector": "Energy",
+      "extraction_rationale": "Quantified renewable energy shares with a deadline (2030)."
+    }
+  },
+  {
+    "cluster_id": 2,
+    "cluster_type": "individual",
+    "section_header": "4. mitigation contribution",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Conditionally on international support, Lebanon commits to generate 30% of electricity (power demand) and 16.5% of building-sector heat demand from renewable energy sources by 2030.",
+      "verbatim_text": "Conditionally, Lebanon commits to generate 30% of the power demand (i.e. electricity demand)  and 16.5% of its heat demand (in the building sector) from renewable energy sources in 2030, compared to a combined 20% in 2015 (guided by the IRENA Renewable Energy Outlook:  Lebanon).",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "4. Mitigation Contribution",
+      "sector": "Energy",
+      "extraction_rationale": "Quantified conditional renewable energy target for 2030."
+    }
+  },
+  {
+    "cluster_id": 3,
+    "cluster_type": "individual",
+    "section_header": "4. mitigation contribution",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Lebanon commits to reduce power demand through energy-efficiency measures by 3% under BAU in 2030 unconditionally, and by 10% under BAU in 2030 conditionally.",
+      "verbatim_text": "3. A 3% reduction in power demand through energy-efficiency measures in 2030 compared to the demand under the BAU scenario.\n...\n3. A 10% reduction in power demand through energy-efficiency in 2030 compared to the demand under the BAU scenario.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "4. Mitigation Contribution",
+      "sector": "Energy",
+      "extraction_rationale": "Explicit quantified energy-efficiency targets tied to BAU and a target year (2030)."
+    }
+  },
+  {
+    "cluster_id": 4,
+    "cluster_type": "individual",
+    "section_header": "cae6: enhanced monitoring and transparency",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Lebanon will establish a transparency framework to improve institutional arrangements, data availability and periodicity, and monitoring and evaluation of mitigation and adaptation projects.",
+      "verbatim_text": "In  order  to  enhance  the  impacts  of policymaking, and to successfully participate in tracking the global progress of the climate fight, a transparency framework will be established to improve institutional arrangements, data availability and periodicity, as well as monitoring and  evaluation  of  mitigation  and  adaptation projects.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "CAE6: Enhanced Monitoring and Transparency",
+      "sector": "Cross-cutting",
+      "extraction_rationale": "Concrete institutional commitment (“will be established”) specifying the mechanism and its functions."
+    }
+  },
+  {
+    "cluster_id": 5,
+    "cluster_type": "individual",
+    "section_header": "cae5: comprehensive integration",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Lebanon plans to revise its policymaking process to include gender institutions, youth groups, and vulnerable communities.",
+      "verbatim_text": "Integrated solutions to the climate crisis, as well as  economic  recovery,  cannot  be  performed without the effective inclusion of gender institutions, youth groups and vulnerable communities. Lebanon plans to revise its policymaking  process  to  include  these  groups  which are key to the success of the NDC and are the most impacted by climate impacts.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "CAE5: Comprehensive Integration",
+      "sector": "Cross-cutting",
+      "extraction_rationale": "Specific governance/process reform commitment (revise policymaking to include defined groups)."
+    }
+  },
+  {
+    "cluster_id": 6,
+    "cluster_type": "individual",
+    "section_header": "6. support needed for ndc implementation and achievement",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Lebanon is working towards establishing the Lebanon Green Investment Facility (LGIF) to provide climate and green finance instruments for public and private sectors and technical assistance to create bankable projects, contributing to NDC implementation by increasing investments in climate-friendly projects.",
+      "verbatim_text": "Therefore, Lebanon  is  working  towards    the establishment of the Lebanon Green Investment  Facility  (LGIF) as  stipulated  in  the Government's Financial Recovery Plan, to provide climate and green finance through accessible  and  affordable  finance  instruments for both the public and private sectors, as well as to provide needed technical assistance to various entities to create bankable projects. The LGIF  is  foreseen  to  substantially  contribute  to the  implementation  of  the  NDC  by  increasing investments to climate-friendly projects, through strong donor and investor coordination mechanism and capitalization strategy.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "6. Support Needed for NDC Implementation and Achievement",
+      "sector": "Finance",
+      "extraction_rationale": "Specific planned facility with defined purpose (finance instruments, technical assistance) to support NDC implementation."
+    }
+  },
+  {
+    "cluster_id": 7,
+    "cluster_type": "individual",
+    "section_header": "6. support needed for ndc implementation and achievement",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Lebanon is developing a climate-proofing methodology to assess and reduce impacts of climate-negative projects and guide investment evaluation through a climate lens, and intends to explore greening foreign investments including ODA while including environmental and social standards (ESS) and gender-responsiveness in project evaluation and implementation.",
+      "verbatim_text": "Moreover, Lebanon  is  currently  developing  a climate-proofing  methodology which  aims  to assess and reduce the impacts of climatenegative projects, as well as potentially guide the evaluation  of  investments,  through  a  climatelens. Ultimately, Lebanon intends to explore the possibility of greening foreign investments including Official Development Assistance (ODA) to  accelerate the achievement of the NDC and avoid locking in  carbon  emissions  on  the  longterm. Finally, the consideration of Environmental  and  Social  Standards  (ESS),  as well as gender-responsiveness should be included in projects' evaluation and implementation.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "6. Support Needed for NDC Implementation and Achievement",
+      "sector": "Cross-cutting",
+      "extraction_rationale": "Concrete planned methodology/tool and explicit intention to apply climate/ESS/gender lenses to investment/project evaluation."
+    }
+  },
+  {
+    "cluster_id": 8,
+    "cluster_type": "individual",
+    "section_header": "adaptation priorities",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Lebanon commits to render climate adaptation action gender responsive.",
+      "verbatim_text": "Moreover, Lebanon acknowledges that vulnerable groups, especially women, are disproportionately impacted by climatic events, and will therefore commit to render climate adaptation action gender responsive.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Adaptation Priorities",
+      "sector": "Adaptation",
+      "extraction_rationale": "Explicit commitment to a defined approach (gender-responsive adaptation)."
+    }
+  },
+  {
+    "cluster_id": 9,
+    "cluster_type": "individual",
+    "section_header": "adaptation priorities",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Lebanon will strengthen the agricultural sector's resilience through restoring farmers’ livelihoods and productive capacity, increasing agricultural production and productivity, enhancing agri-food value chains (including fisheries), encouraging private investment and access to climate finance/insurance, strengthening institutions, and increasing household resilience for food and nutrition security.",
+      "verbatim_text": "Adaptation priority 1    | Strengthen the agricultural sector's resilience to enhance Lebanon's agricultural output in a climate-smart manner\nKey activities           | • Restore the livelihoods and productive capacity of farmers and producers; • Increase agricultural production and productivity; • Enhance efficiency and competitiveness of agri-food value chains including fisheries; • Encourage private investment along the agri-food value chain including innovative technical solutions and improved access to climate finance and insurance; • Strengthen the enabling institutional environment; • Increase resilience of households with reference to food and nutrition security.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Adaptation priorities",
+      "sector": "Agriculture",
+      "extraction_rationale": "Sectoral adaptation priority accompanied by a concrete list of implementing activities."
+    }
+  },
+  {
+    "cluster_id": 10,
+    "cluster_type": "individual",
+    "section_header": "adaptation priorities",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Lebanon will promote sustainable forest management by restoring degraded landscapes, increasing forest cover, adapting forest systems (halting land degradation, controlling erosion, improving water quality/soil productivity), establishing improved production sites linked to forest products industries and employment, and promoting sustainable rangeland management.",
+      "verbatim_text": "Adaptation priority 2    | Promote the sustainable use of natural resources, restore degraded landscapes, and increase Lebanon's forest cover while meeting the ecological, social and economic needs of sustainable forest management\nKey activities           | • Achieve the goals listed in the Brummana Declaration for the Role of Mediterranean Forests to Fulfil the NDCs; • Adapt forest systems to climate change by halting land degradation, controlling erosion of topsoil, improving water quality and soil productivity; • Establish sites with improved production capacity linking with the development of wood and non- wood forest product processing industry and with the people's needs in terms of goods and services and improved employment opportunities; • Promote sustainable rangeland management;",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Adaptation priorities",
+      "sector": "Forestry",
+      "extraction_rationale": "Concrete adaptation priority with specific actions; includes commitment to increase forest cover and related measures."
+    }
+  },
+  {
+    "cluster_id": 11,
+    "cluster_type": "individual",
+    "section_header": "adaptation priorities",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Lebanon will develop sustainable water services (including irrigation) by implementing the Beirut Water Declaration, improving irrigation efficiency and surface water supply, supporting renewable energy use in irrigation and drinking water supply, building legal/institutional frameworks for water management, developing financing tools and mechanisms for service sustainability, and improving monitoring and transparency through actor coordination.",
+      "verbatim_text": "Adaptation priority 3    | Structure and develop sustainable water services, including irrigation, in order to improve people's living conditions\nKey activities           | • Implement the Beirut Water Declaration; • Enhance the efficient use of irrigation water and expand the supply of surface water sources for irrigation; • Encourage and support the use of renewable energy in agricultural irrigation and in drinking water supply; • Build an operational and sustainable legal and institutional framework to ensure a proper management of the water sector allowing the development of sustainable and efficient services; • Develop financing tools for the sector to set-up financial mechanisms allowing the sustainability and the financial balance of the services; • Involve all actors in the service chain and establish sustainable mechanisms for collaboration and coordination to improve the sector monitoring and transparency.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Adaptation priorities",
+      "sector": "Water",
+      "extraction_rationale": "Adaptation priority with a defined set of implementable actions including legal/institutional frameworks and financing tools."
+    }
+  },
+  {
+    "cluster_id": 12,
+    "cluster_type": "individual",
+    "section_header": "adaptation priority 4",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Lebanon will manage biodiversity by identifying the status of 75% of known flora and fauna species, implementing conservation actions for 50% of threatened species, protecting at least 20% of terrestrial and marine ecosystems, increasing nature reserves coverage to at least 5% of Lebanon’s area, sustainably managing 50% of natural ecosystems in spatial planning, controlling non-indigenous biodiversity, and rehabilitating at least 20% of degraded sites.",
+      "verbatim_text": "Key activities           | • Identify the status of 75% of known flora and fauna species and implement conservation actions on 50% of threatened species; • Protect at least 20% of natural terrestrial and marine ecosystems and represent all types of ecosystems in the protected areas network; • Increase the total percent coverage of nature reserves to reach at least 5% of Lebanon's area; • Sustainably manage 50% of all natural ecosystems and properly consider them in spatial planning implementation; ... • Establish effective measures to control the introduction and diffusion of non- indigenous biodiversity into the environment; • Identify vulnerable ecosystems to climate change and develop and implement appropriate adaptation plans; • Implement rehabilitation plans in at least 20% of degraded sites so that they can safeguard the sustained delivery of ecosystem services.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Adaptation priority 4",
+      "sector": "Biodiversity",
+      "extraction_rationale": "Contains multiple quantified targets and specific measures for biodiversity protection and restoration."
+    }
+  },
+  {
+    "cluster_id": 13,
+    "cluster_type": "individual",
+    "section_header": "adaptation priority 5",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Lebanon will reduce vulnerability to climate change impacts on coastal zones by assessing seawater intrusion in major coastal aquifers, enhancing artificial recharge of selected aquifers, refreshing aquifer water budgeting, modeling aquifer types, increasing coastal protection capacity against storm surges and sea-level rise, and promoting sustainable use of resources such as fisheries.",
+      "verbatim_text": "Adaptation priority 5   | Reduce the vulnerability of climate change impacts on coastal zones, especially in cities\nKey activities          | • Assess the sea-water intrusion in the major coastal aquifers; • Enhance the Artificial Recharge of some selected aquifers; • Refresh the water budgeting of all aquifers progressively; • Perform the modelling of the karstic, saline and porous aquifer; • Increase the protective capacity of coasts against storm surges and sea-level rise; • Promote sustainable use of natural resources, such as fisheries.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Adaptation priority 5",
+      "sector": "Coastal",
+      "extraction_rationale": "Concrete set of coastal adaptation actions, including assessments, engineering/nature measures, and resource management."
+    }
+  },
+  {
+    "cluster_id": 14,
+    "cluster_type": "individual",
+    "section_header": "adaptation priority 6",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Lebanon will strengthen climate-resilient health systems by assessing health-sector vulnerability and establishing early warning systems, building capacity of health professionals, upgrading epidemiological surveillance, incorporating climate data into the national health information system, and developing and integrating health response strategies into national health strategies.",
+      "verbatim_text": "Key activities          | • Assess the vulnerability of public health sector to climate change, identifying the current and future health effects and establishing early warning systems • Build the capacity of health sector professionals ... • Upgrade epidemiological surveillance to incorporate new health outcomes in the Epidemiological Surveillance Unit; • Develop a mechanism to incorporate climate data in the national health information system; • Develop health system response strategies, plans and projects and integrate them into national health strategies.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Adaptation priority 6",
+      "sector": "Health",
+      "extraction_rationale": "Specific adaptation measures and system reforms for health sector resilience."
+    }
+  },
+  {
+    "cluster_id": 15,
+    "cluster_type": "individual",
+    "section_header": "adaptation priority 7",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Lebanon will reduce disaster risk by conducting a multi-hazard risk assessment, updating flood/fire/drought risk maps, upgrading and developing an early warning platform for multi-hazards, and coordinating updates to the National Forest fire management strategy.",
+      "verbatim_text": "Adaptation priority 7   | Reduce disaster risk and minimize damages by mitigating and adapting to climate- related natural hazards and extreme weather\nKey activities          | • Conduct a multi-hazard risk assessment; • Update/revisit flood, fire and drought risk maps; • Upgrade and develop an early warning platform for multi-hazards; • Coordinate the updating of the National Forest fire management strategy.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Adaptation priority 7",
+      "sector": "Disaster risk reduction",
+      "extraction_rationale": "Concrete DRR actions with defined deliverables (assessments, maps, platform, strategy update)."
+    }
+  },
+  {
+    "cluster_id": 16,
+    "cluster_type": "individual",
+    "section_header": "4. mitigation contribution",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Lebanon will track progress toward its unconditional and conditional mitigation targets in its first Biennial Transparency Report (BTR) and subsequent BTRs, contingent on adequate support.",
+      "verbatim_text": "Lebanon will track progress and achievement of the unconditional and conditional targets listed above in its first Biennial Transparency Report (BTR) and onwards, contingent on adequate support.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "4. Mitigation Contribution",
+      "sector": "Cross-cutting",
+      "extraction_rationale": "Explicit commitment to an MRV/transparency action (tracking in BTRs), with a stated condition."
+    }
+  }
+]

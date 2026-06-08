@@ -1,0 +1,42 @@
+{
+  "doc_id": "Geneva_Switzerland_3502134a7a",
+  "total_chunks": 1,
+  "total_policies_before_resolve": 13,
+  "total_policies_after_resolve": 13,
+  "resolver_stats": {
+    "input_count": 13,
+    "dedup_removed": 0,
+    "statement_dedup_removed": 0,
+    "deterministic_links": 0,
+    "llm_arbitrated": 0,
+    "orphan_count": 0,
+    "output_count": 13
+  },
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "word_count": 3036,
+      "has_overlap": false,
+      "ancestor_headings": [],
+      "policies_extracted": 13,
+      "elapsed_seconds": 0.03,
+      "carry_forward_length": 0,
+      "error": null
+    }
+  ],
+  "chunk_provenance": {
+    "The City of Geneva intends to reduce greenhouse gas emissions by 60% by 2030 and achieve carbon neutrality by 2050.": 0,
+    "The City of Geneva will incorporate climate change considerations into all its public policies through its municipal Climate Strategy.": 0,
+    "The City of Geneva will implement strong measures to transform consumption patterns toward 'consume less and better', centring short supply chains and the circular economy.": 0,
+    "The City of Geneva will apply sustainable resource-use, sharing, recycling and circular-economy principles across culture, sports and recreation, while maintaining diverse activities.": 0,
+    "The City of Geneva has set a goal to heat buildings using 100% renewable sources by 2050.": 0,
+    "The City of Geneva will reduce space reserved for cars and motorcycles to cut motorised traffic and limit its negative impacts.": 0,
+    "The City of Geneva will make part of the urban area more permeable and create new interconnected planted areas with trees and water.": 0,
+    "The City of Geneva will strengthen actions to protect its most vulnerable citizens (children, youth, older people and those in precarious situations) as part of its commitment to equality.": 0,
+    "The City of Geneva plans to restore, protect and develop its natural ecosystems and will take practical actions to protect the soil.": 0,
+    "The City of Geneva will provide citizens with practical tools to inform them, encourage collective action and support behavioural changes that lower personal climate impact.": 0,
+    "The City of Geneva will work with key players in the financial centre to support sustainable finance, including improving transparency in calculating the financial sector's emissions, and will align its own investments and holdings with climate targets.": 0,
+    "The City of Geneva has a target to switch to renewable energy sources only by 2050 for municipal buildings/operations.": 0,
+    "The municipal administration is committed to accelerating existing measures and developing new actions as part of the effort to achieve carbon neutrality, using political, institutional, administrative and awareness-raising levers.": 0
+  }
+}

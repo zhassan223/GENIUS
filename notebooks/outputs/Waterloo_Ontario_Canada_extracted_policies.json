@@ -1,0 +1,362 @@
+[
+  {
+    "policy_statement": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "verbatim_text": "This document constitutes a Corporate Climate Change Adaptation Plan (CCCAP) for the City of Waterloo. It outlines how the municipality as a corporation will adapt its assets, operations, and services to the impacts of climate change.\n\nThe CCCAP includes 37 actions that the City will undertake to adapt to climate change.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Executive Summary",
+    "sector": "Adaptation",
+    "extraction_rationale": "Named plan with a defined scope and a quantified set of actions ('37 actions') that the City will undertake; serves as the umbrella parent for the listed action items."
+  },
+  {
+    "policy_statement": "Map areas vulnerable to heat extremes and use mapping to inform planning and programming initiatives.",
+    "verbatim_text": "Actions:\n- 1.1 Map areas vulnerable to heat extremes and use mapping to inform planning and programming initiatives.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 1: Create conditions to minimize health and safety risks to outdoor workers and community members",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific adaptation action listed as item 1.1 under the plan's actions."
+  },
+  {
+    "policy_statement": "Continue to carry out outreach activities that target vulnerable populations during extreme heat and cold events.",
+    "verbatim_text": "Actions:\n- 1.2 Continue to carry out outreach activities that target vulnerable populations during extreme heat and cold events.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 1: Create conditions to minimize health and safety risks to outdoor workers and community members",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific action commitment (continuation of outreach) listed in the numbered action set."
+  },
+  {
+    "policy_statement": "Update the Emergency Circumstances/Extreme Weather Policy and the Heat Stress/Cold Stress Policy to account for climate change impacts.",
+    "verbatim_text": "Actions:\n- 1.3 Update the Emergency Circumstances/Extreme Weather Policy and the Heat Stress/Cold Stress Policy to account for climate change impacts.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 1: Create conditions to minimize health and safety risks to outdoor workers and community members",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit policy update commitment addressing climate impacts; clearly actionable."
+  },
+  {
+    "policy_statement": "Review winter control practices to ensure climate change impacts are considered and identify opportunities for improvement.",
+    "verbatim_text": "Actions:\n- 1.4 Review winter control practices to ensure climate change impacts are considered and to identify opportunities for improvement.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 1: Create conditions to minimize health and safety risks to outdoor workers and community members",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete operational review action tied to climate change considerations."
+  },
+  {
+    "policy_statement": "Carry out education and engagement activities to increase awareness of the importance of 72 hour emergency preparedness and emergency response plans for individuals and families, community organizations, and businesses.",
+    "verbatim_text": "Actions:\n- 1.5 Carry out education and engagement activities to increase awareness of the importance of 72 hour emergency preparedness and emergency response plans for individuals and families, community organizations, and businesses.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 1: Create conditions to minimize health and safety risks to outdoor workers and community members",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific intervention (education/engagement on 72-hour preparedness) listed as a plan action."
+  },
+  {
+    "policy_statement": "Investigate the feasibility of implementing warming and cooling centres outside of normal business hours.",
+    "verbatim_text": "Actions:\n- 1.6 Investigate the feasibility of implementing warming and cooling centres outside of normal business hours.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 1: Create conditions to minimize health and safety risks to outdoor workers and community members",
+    "sector": "Adaptation",
+    "extraction_rationale": "Feasibility investigation is a defined planned action related to extreme temperature risk management."
+  },
+  {
+    "policy_statement": "Undertake a gap analysis of existing communication processes related to climate change and extreme weather.",
+    "verbatim_text": "Actions:\n- 2.1 Undertake a gap analysis of existing communication processes related to climate change and extreme weather.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 2: Generate awareness of changing climate conditions with staff and the public",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific action to assess and improve communications for climate/extreme weather."
+  },
+  {
+    "policy_statement": "Implement an opt-in email/text alert system to notify community members about extreme weather events and emergencies.",
+    "verbatim_text": "Actions:\n- 2.2 Implement an opt-in email/text alert system to notify community members about extreme weather events and emergencies.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 2: Generate awareness of changing climate conditions with staff and the public",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete intervention establishing an alert/notification system."
+  },
+  {
+    "policy_statement": "Investigate the feasibility of incorporating extreme weather event and emergency information into the Pingstreet app.",
+    "verbatim_text": "Actions:\n- 2.3 Investigate the feasibility of incorporating extreme weather event and emergency information into the Pingstreet app.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 2: Generate awareness of changing climate conditions with staff and the public",
+    "sector": "Adaptation",
+    "extraction_rationale": "Defined feasibility action to expand emergency information access via an app."
+  },
+  {
+    "policy_statement": "Enable website updates outside of normal business hours to address extreme weather events and emergency situations.",
+    "verbatim_text": "Actions:\n- 3.1 Enable website updates outside of normal business hours to address extreme weather events and emergency situations.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 3: Ensure a coordinated response to and recovery from extreme weather events",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific operational change to improve emergency communications and response."
+  },
+  {
+    "policy_statement": "Assess training needs for staff to ensure informed response to extreme weather events.",
+    "verbatim_text": "Actions:\n- 3.2 Assess training needs for staff to ensure informed response to extreme weather events.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 3: Ensure a coordinated response to and recovery from extreme weather events",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete capacity-building action for extreme weather response."
+  },
+  {
+    "policy_statement": "Ensure climate change considerations are incorporated into the City's Hazard Identification and Risk Assessment tool as part of the annual review process and training.",
+    "verbatim_text": "Actions:\n- 3.3 Ensure climate change considerations are incorporated into the City's Hazard Identification and Risk Assessment tool as part of the annual review process and training.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 3: Ensure a coordinated response to and recovery from extreme weather events",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit commitment to integrate climate change into an existing risk assessment tool and review cycle."
+  },
+  {
+    "policy_statement": "Upsize storm sewers to current standards as part of renewal (where possible).",
+    "verbatim_text": "Actions:\n- 4.1 Upsize storm sewers to current standards as part of renewal (where possible).",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 4: Consider climate change impacts in the design, construction and maintenance of built infrastructure",
+    "sector": "Infrastructure",
+    "extraction_rationale": "Specific infrastructure intervention identified as an adaptation action."
+  },
+  {
+    "policy_statement": "Establish a process for reviewing localized climate projections at regular time intervals.",
+    "verbatim_text": "Actions:\n- 4.2 Establish a process for reviewing localized climate projections at regular time intervals.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 4: Consider climate change impacts in the design, construction and maintenance of built infrastructure",
+    "sector": "Adaptation",
+    "extraction_rationale": "Defined governance/process action to keep decisions based on updated climate projections."
+  },
+  {
+    "policy_statement": "Provide training to staff to ensure climate change impacts and risks are considered as part of the Project Management Manual's risk management framework.",
+    "verbatim_text": "Actions:\n- 4.3 Provide training to staff to ensure climate change impacts and risks are considered as part of the Project Management Manual's risk management framework.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 4: Consider climate change impacts in the design, construction and maintenance of built infrastructure",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete training action integrating climate risk into project management processes."
+  },
+  {
+    "policy_statement": "Incorporate climate change considerations into the City's approach to asset management and provide training to staff as required (e.g. lifecycle costing, asset level of service, accelerated deterioration rates).",
+    "verbatim_text": "Actions:\n- 4.4 Incorporate climate change considerations into the City's approach to asset management and provide training to staff as required (e.g. lifecycle costing, asset level of service, accelerated deterioration rates).",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 4: Consider climate change impacts in the design, construction and maintenance of built infrastructure",
+    "sector": "Infrastructure",
+    "extraction_rationale": "Specific commitment to integrate climate considerations into asset management planning."
+  },
+  {
+    "policy_statement": "Develop an Urban Forest Strategy, including a canopy target.",
+    "verbatim_text": "Actions:\n- 5.1 Develop an Urban Forest Strategy, including a canopy target.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 5: Foster resiliency within the urban forest and natural landscape",
+    "sector": "AFOLU",
+    "extraction_rationale": "Named strategy development with a specific deliverable (canopy target) listed as an action."
+  },
+  {
+    "policy_statement": "Review the canopy cover mapping protocol and identify tree deficit areas.",
+    "verbatim_text": "Actions:\n- 5.2 Review the canopy cover mapping protocol and identify tree deficit areas.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 5: Foster resiliency within the urban forest and natural landscape",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific mapping/protocol review action to support urban forestry resilience."
+  },
+  {
+    "policy_statement": "Update the Emergency Forestry Plan.",
+    "verbatim_text": "Actions:\n- 5.3 Update the Emergency Forestry Plan.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 5: Foster resiliency within the urban forest and natural landscape",
+    "sector": "AFOLU",
+    "extraction_rationale": "Explicit plan update action under the urban forest resilience goal."
+  },
+  {
+    "policy_statement": "Continue to incorporate City-owned green infrastructure into the Asset Management Plan.",
+    "verbatim_text": "Actions:\n- 5.4 Continue to incorporate City- owned green infrastructure into the Asset Management Plan.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 5: Foster resiliency within the urban forest and natural landscape",
+    "sector": "Infrastructure",
+    "extraction_rationale": "Specific commitment to include green infrastructure assets in asset management planning."
+  },
+  {
+    "policy_statement": "Review existing regulatory floodplain mapping and prioritize opportunities for updates.",
+    "verbatim_text": "Actions:\n- 6.1 Review existing regulatory floodplain mapping and prioritize opportunities for updates.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 6: Reduce risks associated with heavy rainfall and flooding",
+    "sector": "Adaptation",
+    "extraction_rationale": "Defined planning/mapping action to manage riverine flood risk."
+  },
+  {
+    "policy_statement": "Map areas prone to urban flooding and model scenarios.",
+    "verbatim_text": "Actions:\n- 6.2 Map areas prone to urban flooding and model scenarios.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 6: Reduce risks associated with heavy rainfall and flooding",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific technical action (mapping and scenario modeling) to address urban flooding."
+  },
+  {
+    "policy_statement": "Review protocols for inspecting creeks and stormwater infrastructure to minimize flood risks.",
+    "verbatim_text": "Actions:\n- 6.3 Review the protocols for inspecting creeks and stormwater infrastructure to minimize flood risks.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 6: Reduce risks associated with heavy rainfall and flooding",
+    "sector": "Infrastructure",
+    "extraction_rationale": "Concrete operational review action tied to projected precipitation changes."
+  },
+  {
+    "policy_statement": "Increase public education on clearing catch basins.",
+    "verbatim_text": "Actions:\n- 6.4 Increase public education on clearing catch basins.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 6: Reduce risks associated with heavy rainfall and flooding",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific public education action to reduce flood risk from blocked catch basins."
+  },
+  {
+    "policy_statement": "Investigate the feasibility of a sump pump disconnection program.",
+    "verbatim_text": "Actions:\n- 6.5 Investigate the feasibility of a sump pump disconnection program.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 6: Reduce risks associated with heavy rainfall and flooding",
+    "sector": "Infrastructure",
+    "extraction_rationale": "Defined feasibility study action addressing sewer overload and backups."
+  },
+  {
+    "policy_statement": "Investigate the feasibility of a backwater valve program.",
+    "verbatim_text": "Actions:\n- 6.6 Investigate the feasibility of a backwater valve program.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 6: Reduce risks associated with heavy rainfall and flooding",
+    "sector": "Infrastructure",
+    "extraction_rationale": "Specific program feasibility action to prevent sewer backup impacts."
+  },
+  {
+    "policy_statement": "Complete and implement the Stormwater Management Master Plan.",
+    "verbatim_text": "Actions:\n- 6.7 Complete and implement the Stormwater Management Master Plan.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 6: Reduce risks associated with heavy rainfall and flooding",
+    "sector": "Infrastructure",
+    "extraction_rationale": "Explicit commitment to finalize and implement a named master plan guiding stormwater strategy and works."
+  },
+  {
+    "policy_statement": "Review and upgrade flood proofing measures in City-owned buildings in the regulatory floodplain where possible.",
+    "verbatim_text": "Actions:\n- 6.8 Review and upgrade flood proofing measures in City-owned buildings in the regulatory floodplain where possible.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 6: Reduce risks associated with heavy rainfall and flooding",
+    "sector": "Infrastructure",
+    "extraction_rationale": "Concrete action to assess and improve floodproofing of City buildings."
+  },
+  {
+    "policy_statement": "Undertake business continuity planning and training to identify and plan for the City's essential and secondary services.",
+    "verbatim_text": "Actions:\n- 7.1 Undertake business continuity planning and training to identify and plan for the City's essential and secondary services.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 7: Minimize disruption to City services",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific preparedness/continuity action to reduce service disruption from hazards."
+  },
+  {
+    "policy_statement": "Review practices around back-up power generation and ensure critical facilities are covered.",
+    "verbatim_text": "Actions:\n- 7.2 Review practices around back-up power generation and ensure critical facilities are covered.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 7: Minimize disruption to City services",
+    "sector": "Energy",
+    "extraction_rationale": "Specific action to ensure reliable backup power for critical services in response to climate threats."
+  },
+  {
+    "policy_statement": "Develop a fuel supply protocol to manage supplies during extreme events and emergencies.",
+    "verbatim_text": "Actions:\n- 7.3 Develop a fuel supply protocol to manage supplies during extreme events and emergencies.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 7: Minimize disruption to City services",
+    "sector": "Adaptation",
+    "extraction_rationale": "Defined protocol development action addressing fuel supply chain disruption risk."
+  },
+  {
+    "policy_statement": "Consider alternative work arrangements that reduce commuting during extreme weather events and hazardous road conditions.",
+    "verbatim_text": "Actions:\n- 7.4 Consider alternative work arrangements that reduce commuting during extreme weather events and hazardous road conditions.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 7: Minimize disruption to City services",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific operational/workplace adaptation action (flexible work/telecommuting considerations)."
+  },
+  {
+    "policy_statement": "Review the existing 211 service agreement to identify potential advancements of the 211 network.",
+    "verbatim_text": "Actions:\n- 7.5 Review the existing 211 service agreement to identify potential advancements of the 211 network.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 7: Minimize disruption to City services",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete review action of an agreement to enhance emergency information/referrals."
+  },
+  {
+    "policy_statement": "Identify financial implications and incorporate adaptation-related costs into short and long-term financial budgets and projections.",
+    "verbatim_text": "Actions:\n- 8.1 Identify financial implications and incorporate adaptation-related costs into short and long-term financial budgets and projections.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 8: Integrate climate change adaptation into the City's strategies, plans, policies, procedures and operations",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit commitment to integrate adaptation costs into budgeting and projections (resource allocation mechanism)."
+  },
+  {
+    "policy_statement": "Continue annual reviews of the General Operating Contingency Reserve Policy and the Winter Control Reserve Policy to ensure they appropriately account for extreme weather events.",
+    "verbatim_text": "Actions:\n- 8.2 Continue annual reviews of the General Operating Contingency Reserve Policy and the Winter Control Reserve Policy to ensure they appropriately account for extreme weather events.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 8: Integrate climate change adaptation into the City's strategies, plans, policies, procedures and operations",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific recurring governance/financial policy review action tied to extreme weather."
+  },
+  {
+    "policy_statement": "Review plans, policies, and procedures for alignment with adaptation goals and update where appropriate (e.g. Official Plan, Emergency Response Plan, master plans, maintenance protocols).",
+    "verbatim_text": "Actions:\n- 8.3 Review plans, policies, and procedures for alignment with adaptation goals and update where appropriate (e.g. Official Plan, Emergency Response Plan, master plans, maintenance protocols).",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 8: Integrate climate change adaptation into the City's strategies, plans, policies, procedures and operations",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit commitment to mainstream adaptation into governing documents and procedures."
+  },
+  {
+    "policy_statement": "Identify corporate champion(s) to help lead implementation of adaptation actions.",
+    "verbatim_text": "Actions:\n- 8.4 Identify corporate champion(s) to help lead implementation of adaptation actions.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement the City of Waterloo Corporate Climate Change Adaptation Plan (CCCAP), outlining 37 actions to adapt City assets, operations, and services to climate change impacts.",
+    "section_header": "Goal 8: Integrate climate change adaptation into the City's strategies, plans, policies, procedures and operations",
+    "sector": "Adaptation",
+    "extraction_rationale": "Organizational implementation mechanism (named champions) explicitly listed as an action."
+  },
+  {
+    "policy_statement": "Update the City's green building policy to require that all new or renovated City facilities of a certain size must be LEED silver certified.",
+    "verbatim_text": "Other City-specific mitigation activities include:\n\n- Updating the green building policy, which states that all new or renovated City facilities of a certain size must be LEED silver certified.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "City of Waterloo's Commitment to Climate Change",
+    "sector": "Buildings",
+    "extraction_rationale": "Clear policy requirement with a defined standard (LEED Silver) for City facilities; not part of the CCCAP action list structure."
+  },
+  {
+    "policy_statement": "Commit (through ClimateActionWR) to an 80% greenhouse gas reduction target by 2050 for Waterloo Region partners.",
+    "verbatim_text": "It is through ClimateActionWR that the City, along with the Region and the Cities of Kitchener and Cambridge, committed to an 80% greenhouse gas reduction target by 2050 viii .",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "City of Waterloo's Commitment to Climate Change",
+    "sector": "Mitigation",
+    "extraction_rationale": "Quantified mitigation target with a deadline (80% by 2050) explicitly stated as a commitment involving the City."
+  }
+]

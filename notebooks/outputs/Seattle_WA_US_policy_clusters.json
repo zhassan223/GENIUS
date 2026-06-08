@@ -1,0 +1,1241 @@
+[
+  {
+    "cluster_id": 0,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation + land use — actions",
+    "parent": {
+      "policy_statement": "Transportation Choices (umbrella): implement actions across funding, infrastructure & service, demand management, and vehicle fuels & technologies to expand transit, walking, bicycling and related services for a low-carbon transportation system.",
+      "verbatim_text": "The Transportation & Land Use actions are organized as follows:\n## TRANSPORTATION CHOICES:\nFunding\nTransportation Infrastructure & Service\nTransportation Demand Management\nVehicle Fuels & Technologies",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Transportation + Land Use — ACTIONS",
+      "sector": "Transport",
+      "extraction_rationale": "Introduces a named action grouping with multiple sub-categories and associated numbered actions below."
+    },
+    "subs": []
+  },
+  {
+    "cluster_id": 1,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation + land use — funding",
+    "parent": {
+      "policy_statement": "Funding (Transportation Choices): secure adequate funding to implement the Transit, Bicycle, Pedestrian and Freight Master Plans and meet maintenance needs.",
+      "verbatim_text": "## Funding\n## 2030 Vision\n- Seattle has adequate funding to fully implement the Transit, Bicycle, Pedestrian and Freight Master Plans, and meet maintenance needs.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Transportation + Land Use — Funding",
+      "sector": "Transport",
+      "extraction_rationale": "A defined action category with numbered actions listed beneath it (2015 actions)."
+    },
+    "subs": [
+      {
+        "policy_statement": "Renew and extend the time frame of the Bridging the Gap levy and prioritize investments in transit, pedestrian, and bicycling improvements and system maintenance.",
+        "verbatim_text": "## Actions to Implement by 2015\n1. Renew and extend the time frame of the Bridging the Gap levy and prioritize investments in transit, pedestrian, and bicycling improvements and system maintenance.",
+        "policy_type": "sub",
+        "parent_policy_name": "Funding (Transportation Choices): secure adequate funding to implement the Transit, Bicycle, Pedestrian and Freight Master Plans and meet maintenance needs.",
+        "section_header": "Transportation + Land Use — Funding",
+        "sector": "Transport",
+        "extraction_rationale": "Specific near-term funding action item with a named levy and investment priorities."
+      },
+      {
+        "policy_statement": "Secure local or transit agency authority to levy a motor vehicle excise tax (MVET) at the City or County level.",
+        "verbatim_text": "## Actions to Implement by 2015\n2. Secure local or transit agency authority to levy a motor vehicle excise tax (MVET) at the City or County level.",
+        "policy_type": "sub",
+        "parent_policy_name": "Funding (Transportation Choices): secure adequate funding to implement the Transit, Bicycle, Pedestrian and Freight Master Plans and meet maintenance needs.",
+        "section_header": "Transportation + Land Use — Funding",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete policy mechanism (tax authority) explicitly stated."
+      },
+      {
+        "policy_statement": "Work with regional and state partners to adopt a transportation funding strategy, including mechanisms such as a city development authority, a tax on unpaid off-street parking in commercial areas, and comprehensive congestion pricing on limited access highways (and potentially arterials).",
+        "verbatim_text": "## Actions to Implement by 2015\n3. Work with regional and state partners to adopt a funding strategy to meet current and future transportation needs including mechanisms such as:\n- a) A city development authority* ... forming public private partnerships in order to use district-based funding mechanisms...\n- b) A tax on unpaid off-street parking* in commercial areas...\n- c) A comprehensive system of congestion pricing on all limited access highways in Central Puget Sound and potentially non-highway arterials.\n\n*State legislative action required.",
+        "policy_type": "sub",
+        "parent_policy_name": "Funding (Transportation Choices): secure adequate funding to implement the Transit, Bicycle, Pedestrian and Freight Master Plans and meet maintenance needs.",
+        "section_header": "Transportation + Land Use — Funding",
+        "sector": "Transport",
+        "extraction_rationale": "Specified set of funding mechanisms and partnerships; includes pricing and institutional mechanisms."
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation + land use — transportation infrastructure & service",
+    "parent": {
+      "policy_statement": "Transportation Infrastructure & Service (Transportation Choices): implement actions to expand and improve transit, pedestrian, bicycle, and freight infrastructure and services.",
+      "verbatim_text": "## TRANSPORTATION CHOICES\n## Transportation Infrastructure & Service\n... Key actions from these plans are highlighted here.\n\n## Actions to Implement by 2015\n1. Begin construction of 23rd Avenue priority bus corridor.\n2. Complete the preliminary engineering and environmental analysis for the Center City Transit Connector.\n3. Develop a Freight Master Plan...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Transportation + Land Use — Transportation Infrastructure & Service",
+      "sector": "Transport",
+      "extraction_rationale": "Named category with multiple numbered actions listed for 2015 and 2030."
+    },
+    "subs": [
+      {
+        "policy_statement": "Begin construction of 23rd Avenue priority bus corridor.",
+        "verbatim_text": "## Actions to Implement by 2015\n1. Begin construction of 23rd Avenue priority bus corridor.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Infrastructure & Service (Transportation Choices): implement actions to expand and improve transit, pedestrian, bicycle, and freight infrastructure and services.",
+        "section_header": "Transportation + Land Use — Transportation Infrastructure & Service",
+        "sector": "Transport",
+        "extraction_rationale": "Specific infrastructure construction commitment."
+      },
+      {
+        "policy_statement": "Complete the preliminary engineering and environmental analysis for the Center City Transit Connector.",
+        "verbatim_text": "## Actions to Implement by 2015\n2. Complete the preliminary engineering and environmental analysis for the Center City Transit Connector.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Infrastructure & Service (Transportation Choices): implement actions to expand and improve transit, pedestrian, bicycle, and freight infrastructure and services.",
+        "section_header": "Transportation + Land Use — Transportation Infrastructure & Service",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete planning/analysis action for a specific transit project."
+      },
+      {
+        "policy_statement": "Develop a Freight Master Plan with goals to make freight movement more efficient and reduce its impact on greenhouse gas emissions.",
+        "verbatim_text": "## Actions to Implement by 2015\n3. Develop a Freight Master Plan that includes goals to make freight movement more efficient and reduce its impact on greenhouse gas emissions.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Infrastructure & Service (Transportation Choices): implement actions to expand and improve transit, pedestrian, bicycle, and freight infrastructure and services.",
+        "section_header": "Transportation + Land Use — Transportation Infrastructure & Service",
+        "sector": "Transport",
+        "extraction_rationale": "Named plan to be developed with explicit GHG-related goals."
+      },
+      {
+        "policy_statement": "Build bicycle lanes that are physically separated from traffic in the Center City.",
+        "verbatim_text": "## Actions to Implement by 2015\n4. Build bicycle lanes that are physically separated from traffic in the Center City.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Infrastructure & Service (Transportation Choices): implement actions to expand and improve transit, pedestrian, bicycle, and freight infrastructure and services.",
+        "section_header": "Transportation + Land Use — Transportation Infrastructure & Service",
+        "sector": "Transport",
+        "extraction_rationale": "Specific active-transport infrastructure action."
+      },
+      {
+        "policy_statement": "Expand on-street bicycle racks and facilitate provision of off-street bicycle parking and bike sharing.",
+        "verbatim_text": "## Actions to Implement by 2015\n5. Expand on-street bicycle racks and facilitate provision of off-street bicycle parking and bike sharing.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Infrastructure & Service (Transportation Choices): implement actions to expand and improve transit, pedestrian, bicycle, and freight infrastructure and services.",
+        "section_header": "Transportation + Land Use — Transportation Infrastructure & Service",
+        "sector": "Transport",
+        "extraction_rationale": "Specific actions to expand bicycling support infrastructure/services."
+      },
+      {
+        "policy_statement": "Implement bicycle intersection safety improvements on heavily traveled bicycle corridors.",
+        "verbatim_text": "## Actions to Implement by 2015\n6. Implement bicycle intersection safety improvements on heavily traveled bicycle corridors.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Infrastructure & Service (Transportation Choices): implement actions to expand and improve transit, pedestrian, bicycle, and freight infrastructure and services.",
+        "section_header": "Transportation + Land Use — Transportation Infrastructure & Service",
+        "sector": "Transport",
+        "extraction_rationale": "Specific safety intervention on bicycle network."
+      },
+      {
+        "policy_statement": "Improve sidewalks and crossings on arterial streets to connect Urban Centers and Villages.",
+        "verbatim_text": "## Actions to Implement by 2015\n7. Improve sidewalks and crossings on arterial streets to connect Urban Centers and Villages.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Infrastructure & Service (Transportation Choices): implement actions to expand and improve transit, pedestrian, bicycle, and freight infrastructure and services.",
+        "section_header": "Transportation + Land Use — Transportation Infrastructure & Service",
+        "sector": "Transport",
+        "extraction_rationale": "Specific pedestrian infrastructure commitment."
+      },
+      {
+        "policy_statement": "Develop a comprehensive, connected network of safe and comfortable bicycle facilities to, from and within the Center City and Urban Villages by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n1. Develop a comprehensive, connected network of safe and comfortable bicycle facilities to, from and within the Center City and Urban Villages.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Infrastructure & Service (Transportation Choices): implement actions to expand and improve transit, pedestrian, bicycle, and freight infrastructure and services.",
+        "section_header": "Transportation + Land Use — Transportation Infrastructure & Service",
+        "sector": "Transport",
+        "extraction_rationale": "Long-term infrastructure network commitment with a clear deadline category (by 2030)."
+      },
+      {
+        "policy_statement": "Develop a citywide network of neighborhood greenways that prioritize walking and bicycling on residential streets by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n2. Develop a citywide network of neighborhood greenways that prioritize walking and bicycling on residential streets.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Infrastructure & Service (Transportation Choices): implement actions to expand and improve transit, pedestrian, bicycle, and freight infrastructure and services.",
+        "section_header": "Transportation + Land Use — Transportation Infrastructure & Service",
+        "sector": "Transport",
+        "extraction_rationale": "Specific network development action tied to 2030 implementation horizon."
+      },
+      {
+        "policy_statement": "Implement four high capacity transit corridors identified in the Seattle Transit Master Plan: Center City Connector, Ballard to Downtown, Madison to Downtown, and University District to Downtown by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n3. Implement four high capacity transit corridors as identified in the Seattle Transit Master Plan: Center City Connector, Ballard to Downtown, Madison to Downtown, and University District to Downtown.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Infrastructure & Service (Transportation Choices): implement actions to expand and improve transit, pedestrian, bicycle, and freight infrastructure and services.",
+        "section_header": "Transportation + Land Use — Transportation Infrastructure & Service",
+        "sector": "Transport",
+        "extraction_rationale": "Specified set of transit corridors to implement; clearly defined projects."
+      },
+      {
+        "policy_statement": "Add transit service to high demand routes to complete the Frequent Service Network by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n4. Add transit service to high demand routes to complete the Frequent Service Network.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Infrastructure & Service (Transportation Choices): implement actions to expand and improve transit, pedestrian, bicycle, and freight infrastructure and services.",
+        "section_header": "Transportation + Land Use — Transportation Infrastructure & Service",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete service expansion action under a defined time horizon."
+      },
+      {
+        "policy_statement": "Enhance sidewalks, crossings, and public places in Urban Centers and Urban Villages by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n5. Enhance sidewalks, crossings, and public places in Urban Centers and Urban Villages.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Infrastructure & Service (Transportation Choices): implement actions to expand and improve transit, pedestrian, bicycle, and freight infrastructure and services.",
+        "section_header": "Transportation + Land Use — Transportation Infrastructure & Service",
+        "sector": "Transport",
+        "extraction_rationale": "Specific public realm/pedestrian enhancement action tied to 2030."
+      },
+      {
+        "policy_statement": "Collaborate with King County Metro to expand the electric trolley bus system to more routes and more frequent service by funding service, building infrastructure, and coordinating planning.",
+        "verbatim_text": "## Actions to Implement by 2030\n6. Collaborate with King County Metro to expand the electric trolley bus system to include more routes and more frequent service in areas identified in the Transit Master Plan by funding service, building infrastructure, and coordinating planning.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Infrastructure & Service (Transportation Choices): implement actions to expand and improve transit, pedestrian, bicycle, and freight infrastructure and services.",
+        "section_header": "Transportation + Land Use — Transportation Infrastructure & Service",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit collaboration and implementation steps (funding, infrastructure, planning)."
+      },
+      {
+        "policy_statement": "Use green stormwater infrastructure and low carbon materials when designing and building transportation infrastructure by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n7. Use green stormwater infrastructure and low carbon materials, when designing and building infrastructure.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Infrastructure & Service (Transportation Choices): implement actions to expand and improve transit, pedestrian, bicycle, and freight infrastructure and services.",
+        "section_header": "Transportation + Land Use — Transportation Infrastructure & Service",
+        "sector": "Transport",
+        "extraction_rationale": "Specific design/materials requirement for infrastructure projects."
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation + land use — transportation demand management",
+    "parent": {
+      "policy_statement": "Transportation Demand Management (Transportation Choices): implement measures that facilitate access to travel options such as bicycling, walking, transit, carpooling, and car sharing.",
+      "verbatim_text": "## TRANSPORTATION CHOICES\n## Transportation Demand Management\nTransportation demand management strategies affect how, when, and where people travel by facilitating access to travel options.\n\n## Actions to Implement by 2015\n1. Improve wayfinding and bus passenger facilities...\n2. Implement Safe Routes projects...\n3. Participate in multi-agency efforts...\n4. Work with Transportation Management Associations...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Transportation + Land Use — Transportation Demand Management",
+      "sector": "Transport",
+      "extraction_rationale": "Named category with multiple numbered commitments for 2015 and 2030."
+    },
+    "subs": [
+      {
+        "policy_statement": "Improve wayfinding and bus passenger facilities by adding electronic real-time bus schedule information and off-board payment options.",
+        "verbatim_text": "## Actions to Implement by 2015\n1. Improve wayfinding and bus passenger facilities by adding electronic realtime bus schedule information and off-board payment options.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Demand Management (Transportation Choices): implement measures that facilitate access to travel options such as bicycling, walking, transit, carpooling, and car sharing.",
+        "section_header": "Transportation + Land Use — Transportation Demand Management",
+        "sector": "Transport",
+        "extraction_rationale": "Specific intervention to improve transit user information and payment."
+      },
+      {
+        "policy_statement": "Implement Safe Routes projects to improve pedestrian connections to schools, transit, and neighborhood business districts.",
+        "verbatim_text": "## Actions to Implement by 2015\n2. Implement Safe Routes projects to improve pedestrian connections to schools, transit, and neighborhood business districts.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Demand Management (Transportation Choices): implement measures that facilitate access to travel options such as bicycling, walking, transit, carpooling, and car sharing.",
+        "section_header": "Transportation + Land Use — Transportation Demand Management",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete project type with defined purpose and destinations."
+      },
+      {
+        "policy_statement": "Participate in multi-agency efforts to support bike sharing, vehicle sharing, and ride sharing.",
+        "verbatim_text": "## Actions to Implement by 2015\n3. Participate in multi-agency efforts working to support bike sharing, vehicle sharing, and ride sharing.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Demand Management (Transportation Choices): implement measures that facilitate access to travel options such as bicycling, walking, transit, carpooling, and car sharing.",
+        "section_header": "Transportation + Land Use — Transportation Demand Management",
+        "sector": "Transport",
+        "extraction_rationale": "Defined collaborative action to support shared mobility."
+      },
+      {
+        "policy_statement": "Work with Transportation Management Associations and other stakeholders to develop and market transit passes, car sharing, and other programs that support travel options.",
+        "verbatim_text": "## Actions to Implement by 2015\n4. Work with Transportation Management Associations, property managers, employers, homeowners associations, and community groups to develop and market transit passes, car sharing, and other programs that support travel options.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Demand Management (Transportation Choices): implement measures that facilitate access to travel options such as bicycling, walking, transit, carpooling, and car sharing.",
+        "section_header": "Transportation + Land Use — Transportation Demand Management",
+        "sector": "Transport",
+        "extraction_rationale": "Specific stakeholder partnership and program development commitment."
+      },
+      {
+        "policy_statement": "Provide incentives, marketing, and innovative enhancements to make transit, walking, and bicycling more fun and appealing by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n1. Provide incentives, marketing, and innovative enhancements to make transit, walking, and bicycling more fun and appealing.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Demand Management (Transportation Choices): implement measures that facilitate access to travel options such as bicycling, walking, transit, carpooling, and car sharing.",
+        "section_header": "Transportation + Land Use — Transportation Demand Management",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit action to deploy incentives/marketing under 2030 horizon."
+      },
+      {
+        "policy_statement": "Expand the Commute Trip Reduction (CTR) program beyond large employers to include outreach and services for smaller employers in select locations by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n2. Expand the existing Commute Trip Reduction (CTR) program beyond large employers to include outreach and services for smaller employers in select locations.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transportation Demand Management (Transportation Choices): implement measures that facilitate access to travel options such as bicycling, walking, transit, carpooling, and car sharing.",
+        "section_header": "Transportation + Land Use — Transportation Demand Management",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete program expansion commitment."
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation + land use — vehicle fuels & technologies",
+    "parent": {
+      "policy_statement": "Vehicle Fuels & Technologies (Transportation Choices): reduce climate impacts of remaining vehicles by supporting cleaner vehicles and fuels, including electric vehicles and alternative fuels.",
+      "verbatim_text": "## TRANSPORTATION CHOICES\n## Vehicle Fuels & Technologies\n... it is important that we reduce the climate impacts of the remaining cars, buses, and truck through cleaner vehicles and fuels.\n\n## Actions to Implement by 2015\n1. Support private adoption of electric vehicles (EVs)...\n2. Develop a Green Fleets Plan...\n3. Expand the City's municipal electric vehicle (EV) fleet.\n4. Support the transition of taxi...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Transportation + Land Use — Vehicle Fuels & Technologies",
+      "sector": "Transport",
+      "extraction_rationale": "Named category with multiple numbered actions for 2015 and 2030."
+    },
+    "subs": [
+      {
+        "policy_statement": "Support private adoption of electric vehicles by easing permitting and planning for charging access and impacts on energy demand.",
+        "verbatim_text": "## Actions to Implement by 2015\n1. Support private adoption of electric vehicles (EVs) by making it easier to get permits and by planning for access to charging stations and impacts on energy demand.",
+        "policy_type": "sub",
+        "parent_policy_name": "Vehicle Fuels & Technologies (Transportation Choices): reduce climate impacts of remaining vehicles by supporting cleaner vehicles and fuels, including electric vehicles and alternative fuels.",
+        "section_header": "Transportation + Land Use — Vehicle Fuels & Technologies",
+        "sector": "Transport",
+        "extraction_rationale": "Specific interventions (permitting, charging access planning) to support EV adoption."
+      },
+      {
+        "policy_statement": "Develop a Green Fleets Plan for the City of Seattle fleet to encourage market adoption of next generation vehicles and fuels.",
+        "verbatim_text": "## Actions to Implement by 2015\n2. Develop a Green Fleets Plan for the City of Seattle fleet that encourages market adoption of next generation vehicles and fuels.",
+        "policy_type": "sub",
+        "parent_policy_name": "Vehicle Fuels & Technologies (Transportation Choices): reduce climate impacts of remaining vehicles by supporting cleaner vehicles and fuels, including electric vehicles and alternative fuels.",
+        "section_header": "Transportation + Land Use — Vehicle Fuels & Technologies",
+        "sector": "Transport",
+        "extraction_rationale": "Named plan with defined purpose for fleet transition."
+      },
+      {
+        "policy_statement": "Expand the City's municipal electric vehicle fleet.",
+        "verbatim_text": "## Actions to Implement by 2015\n3. Expand the City's municipal electric vehicle (EV) fleet.",
+        "policy_type": "sub",
+        "parent_policy_name": "Vehicle Fuels & Technologies (Transportation Choices): reduce climate impacts of remaining vehicles by supporting cleaner vehicles and fuels, including electric vehicles and alternative fuels.",
+        "section_header": "Transportation + Land Use — Vehicle Fuels & Technologies",
+        "sector": "Transport",
+        "extraction_rationale": "Direct fleet expansion action."
+      },
+      {
+        "policy_statement": "Support the transition of taxi, for-hire, and limousine vehicles to low-carbon fuels and technologies.",
+        "verbatim_text": "## Actions to Implement by 2015\n4. Support the transition of taxi, for-hire, and limousine vehicles to low-carbon fuels & technologies.",
+        "policy_type": "sub",
+        "parent_policy_name": "Vehicle Fuels & Technologies (Transportation Choices): reduce climate impacts of remaining vehicles by supporting cleaner vehicles and fuels, including electric vehicles and alternative fuels.",
+        "section_header": "Transportation + Land Use — Vehicle Fuels & Technologies",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit action targeting specific vehicle services for low-carbon transition."
+      },
+      {
+        "policy_statement": "Reduce barriers to electric vehicle use by evaluating options for charging access for households without off-street parking by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n1. Reduce barriers to electric vehicle use, including evaluating options to provide access to charging infrastructure for households without off-street parking.",
+        "policy_type": "sub",
+        "parent_policy_name": "Vehicle Fuels & Technologies (Transportation Choices): reduce climate impacts of remaining vehicles by supporting cleaner vehicles and fuels, including electric vehicles and alternative fuels.",
+        "section_header": "Transportation + Land Use — Vehicle Fuels & Technologies",
+        "sector": "Transport",
+        "extraction_rationale": "Specific barrier-reduction action for equitable EV charging access."
+      },
+      {
+        "policy_statement": "Pursue grant funding and partners to develop a fast-charging network enabling under-30-minute charging to increase vehicle range and charging opportunities by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n2. Pursue grant funding and partners to develop a network of fast charging stations that will allow vehicles to charge in under 30-minutes increasing vehicle range, expanding opportunities for charging, and providing commercial opportunities to business owners.",
+        "policy_type": "sub",
+        "parent_policy_name": "Vehicle Fuels & Technologies (Transportation Choices): reduce climate impacts of remaining vehicles by supporting cleaner vehicles and fuels, including electric vehicles and alternative fuels.",
+        "section_header": "Transportation + Land Use — Vehicle Fuels & Technologies",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete infrastructure network commitment with defined performance (under 30 minutes)."
+      },
+      {
+        "policy_statement": "Support programs to help heavy-duty truck owners and operators transition to more efficient vehicles and cleaner fuels by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n3. Support programs which help heavy duty truck owners and operators transition to more efficient vehicles and cleaner fuels.",
+        "policy_type": "sub",
+        "parent_policy_name": "Vehicle Fuels & Technologies (Transportation Choices): reduce climate impacts of remaining vehicles by supporting cleaner vehicles and fuels, including electric vehicles and alternative fuels.",
+        "section_header": "Transportation + Land Use — Vehicle Fuels & Technologies",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit program support commitment for freight/heavy-duty vehicles."
+      },
+      {
+        "policy_statement": "Explore producing alternative fuels from Seattle waste, such as liquid natural gas from anaerobic digesters, by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n4. Explore ways to use Seattle waste to produce alternative fuels, such as liquid natural gas from anaerobic digesters.",
+        "policy_type": "sub",
+        "parent_policy_name": "Vehicle Fuels & Technologies (Transportation Choices): reduce climate impacts of remaining vehicles by supporting cleaner vehicles and fuels, including electric vehicles and alternative fuels.",
+        "section_header": "Transportation + Land Use — Vehicle Fuels & Technologies",
+        "sector": "Transport",
+        "extraction_rationale": "Specific exploration of waste-to-fuel pathway named in plan."
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation + land use — actions",
+    "parent": {
+      "policy_statement": "Complete Communities (umbrella): coordinate transportation and land use to create transit-oriented, walkable neighborhoods and reduce vehicle miles traveled.",
+      "verbatim_text": "## COMPLETE COMMUNITIES:\nPolicy & Planning",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Transportation + Land Use — ACTIONS",
+      "sector": "Transport",
+      "extraction_rationale": "Named action grouping with subcategory and numbered actions below (Policy & Planning)."
+    },
+    "subs": []
+  },
+  {
+    "cluster_id": 6,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation + land use — policy & planning",
+    "parent": {
+      "policy_statement": "Policy & Planning (Complete Communities): integrate climate goals into transportation and land use policy and planning that prioritizes transit, walking, and bicycling while accommodating freight movement.",
+      "verbatim_text": "## Policy & Planning\nIntegrating climate goals into transportation and land use policy and planning that prioritizes transit, walking, and bicycling over auto travel while accommodating freight movement is critical...\n\n## Actions to Implement by 2015\n1. Develop a citywide transit communities strategy...\n2. Develop equitable development policies...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Transportation + Land Use — Policy & Planning",
+      "sector": "Transport",
+      "extraction_rationale": "Named category with multiple numbered actions under 2015 and 2030."
+    },
+    "subs": [
+      {
+        "policy_statement": "Develop a citywide transit communities strategy that integrates neighborhoods with high capacity transit.",
+        "verbatim_text": "## Actions to Implement by 2015\n1. Develop a citywide transit communities strategy that integrates neighborhoods with high capacity transit.",
+        "policy_type": "sub",
+        "parent_policy_name": "Policy & Planning (Complete Communities): integrate climate goals into transportation and land use policy and planning that prioritizes transit, walking, and bicycling while accommodating freight movement.",
+        "section_header": "Transportation + Land Use — Policy & Planning",
+        "sector": "Transport",
+        "extraction_rationale": "Specific strategy development commitment."
+      },
+      {
+        "policy_statement": "Develop equitable development policies to support growth near existing and planned high capacity transit without displacement as part of the 2015 Comprehensive Plan major review.",
+        "verbatim_text": "## Actions to Implement by 2015\n2. Develop equitable development policies to support growth and development near existing and planned high capacity transit without displacement as part of the 2015 Comprehensive Plan major review.",
+        "policy_type": "sub",
+        "parent_policy_name": "Policy & Planning (Complete Communities): integrate climate goals into transportation and land use policy and planning that prioritizes transit, walking, and bicycling while accommodating freight movement.",
+        "section_header": "Transportation + Land Use — Policy & Planning",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete policy development action linked to a specific planning process (2015 Comprehensive Plan review)."
+      },
+      {
+        "policy_statement": "Continue implementing local area plans and urban design frameworks in specified neighborhoods (e.g., Capitol Hill, Rainier Beach, Northgate, University District).",
+        "verbatim_text": "## Actions to Implement by 2015\n3. Continue to implement local area plans and urban design frameworks in Capitol Hill, Broadview/Bitter Lake/Haller Lake, Rainier Beach, Othello, Mount Baker, Beacon Hill, Northgate, and the University District.",
+        "policy_type": "sub",
+        "parent_policy_name": "Policy & Planning (Complete Communities): integrate climate goals into transportation and land use policy and planning that prioritizes transit, walking, and bicycling while accommodating freight movement.",
+        "section_header": "Transportation + Land Use — Policy & Planning",
+        "sector": "Transport",
+        "extraction_rationale": "Specific planning implementation action with defined geographic scope."
+      },
+      {
+        "policy_statement": "Implement Challenge Grant strategies in the Rainier Valley to prevent displacement and retain affordable housing near transit.",
+        "verbatim_text": "## Actions to Implement by 2015\n4. Implement the Challenge Grant strategies in the Rainier Valley to prevent displacement and retain affordable housing near transit.",
+        "policy_type": "sub",
+        "parent_policy_name": "Policy & Planning (Complete Communities): integrate climate goals into transportation and land use policy and planning that prioritizes transit, walking, and bicycling while accommodating freight movement.",
+        "section_header": "Transportation + Land Use — Policy & Planning",
+        "sector": "Transport",
+        "extraction_rationale": "Specific program implementation action with equity/housing focus."
+      },
+      {
+        "policy_statement": "Develop a tool to ensure consistent consideration of GHG emissions impacts and reduction opportunities when updating and implementing transportation and land use plans.",
+        "verbatim_text": "## Actions to Implement by 2015\n5. Develop a tool to foster consistent consideration of greenhouse gas emissions impacts and opportunities to reduce them when updating and implementing transportation and land use plans.",
+        "policy_type": "sub",
+        "parent_policy_name": "Policy & Planning (Complete Communities): integrate climate goals into transportation and land use policy and planning that prioritizes transit, walking, and bicycling while accommodating freight movement.",
+        "section_header": "Transportation + Land Use — Policy & Planning",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete tool development to embed GHG considerations in planning."
+      },
+      {
+        "policy_statement": "Develop a placemaking strategy and implement a project reallocating part of the public right-of-way to a public/pedestrian space such as a plaza or parklet.",
+        "verbatim_text": "## Actions to Implement by 2015\n6. Develop a placemaking strategy to use our public spaces to make streets and neighborhoods more vibrant and promote economic activity. Implement a project reallocating a portion of the public right-of-way to a public/pedestrian space such as a plaza or parklet.",
+        "policy_type": "sub",
+        "parent_policy_name": "Policy & Planning (Complete Communities): integrate climate goals into transportation and land use policy and planning that prioritizes transit, walking, and bicycling while accommodating freight movement.",
+        "section_header": "Transportation + Land Use — Policy & Planning",
+        "sector": "Transport",
+        "extraction_rationale": "Specific strategy plus implementation action (right-of-way reallocation project)."
+      },
+      {
+        "policy_statement": "Develop and begin implementing a coordinated land use and transportation plan in a high-priority transit and bicycle corridor to shift trips to lower/no-GHG modes.",
+        "verbatim_text": "## Actions to Implement by 2015\n7. Develop and begin implementation of a coordinated land use and transportation plan in a high-priority transit and bicycle corridor with a goal of shifting more trips to travel modes that generate fewer or no greenhouse gas emissions.",
+        "policy_type": "sub",
+        "parent_policy_name": "Policy & Planning (Complete Communities): integrate climate goals into transportation and land use policy and planning that prioritizes transit, walking, and bicycling while accommodating freight movement.",
+        "section_header": "Transportation + Land Use — Policy & Planning",
+        "sector": "Transport",
+        "extraction_rationale": "Specific corridor planning action with explicit emissions-reduction intent."
+      },
+      {
+        "policy_statement": "Include health, safety, and equity outcomes in transportation and land use planning building on the Healthy Living Assessment project.",
+        "verbatim_text": "## Actions to Implement by 2015\n8. Include health, safety, and equity outcomes in transportation and land use planning building on the Healthy Living Assessment project.",
+        "policy_type": "sub",
+        "parent_policy_name": "Policy & Planning (Complete Communities): integrate climate goals into transportation and land use policy and planning that prioritizes transit, walking, and bicycling while accommodating freight movement.",
+        "section_header": "Transportation + Land Use — Policy & Planning",
+        "sector": "Transport",
+        "extraction_rationale": "Defined planning requirement to include specified outcomes."
+      },
+      {
+        "policy_statement": "Implement strategies to provide residents' daily needs within a convenient walk and create nodes well served by transit and non-motorized options.",
+        "verbatim_text": "## Actions to Implement by 2015\n9. Implement strategies to provide residents' daily needs within a convenient walk and create nodes well served by transit and non-motorized transportation options.",
+        "policy_type": "sub",
+        "parent_policy_name": "Policy & Planning (Complete Communities): integrate climate goals into transportation and land use policy and planning that prioritizes transit, walking, and bicycling while accommodating freight movement.",
+        "section_header": "Transportation + Land Use — Policy & Planning",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete land use/access strategy action."
+      },
+      {
+        "policy_statement": "Consider a transportation modal hierarchy in the 2015 Comprehensive Plan update to address GHG reductions, safety, mobility, and funding priorities.",
+        "verbatim_text": "## Actions to Implement by 2015\n10. Consider a transportation modal hierarchy as part of the 2015 Comprehensive Plan update in order to address greenhouse gas reductions, safety, mobility and funding priorities.",
+        "policy_type": "sub",
+        "parent_policy_name": "Policy & Planning (Complete Communities): integrate climate goals into transportation and land use policy and planning that prioritizes transit, walking, and bicycling while accommodating freight movement.",
+        "section_header": "Transportation + Land Use — Policy & Planning",
+        "sector": "Transport",
+        "extraction_rationale": "Specific planning action linked to comprehensive plan update."
+      },
+      {
+        "policy_statement": "Allow a greater diversity of housing types (e.g., duplex, triplex, cottages) in selected single- and multi-family areas by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n1. Allow a greater diversity of housing types (e.g. duplex, triplex, cottages etc) in selected single and multi-family areas.",
+        "policy_type": "sub",
+        "parent_policy_name": "Policy & Planning (Complete Communities): integrate climate goals into transportation and land use policy and planning that prioritizes transit, walking, and bicycling while accommodating freight movement.",
+        "section_header": "Transportation + Land Use — Policy & Planning",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit land use policy change action under 2030 horizon."
+      },
+      {
+        "policy_statement": "Provide for retention and creation of affordable commercial space and family-sized housing in transit communities using tools such as bonuses, tax exemptions, joint development, or inclusionary zoning (where authorized) by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n2. Provide for the retention and creation of affordable commercial space and family-sized housing in transit communities (e.g. expanded density and height bonuses, tax exemptions, joint development projects*, or inclusionary zoning*).\n\n*State legislative action required.",
+        "policy_type": "sub",
+        "parent_policy_name": "Policy & Planning (Complete Communities): integrate climate goals into transportation and land use policy and planning that prioritizes transit, walking, and bicycling while accommodating freight movement.",
+        "section_header": "Transportation + Land Use — Policy & Planning",
+        "sector": "Transport",
+        "extraction_rationale": "Specific affordability and development tools listed; actionable policy direction."
+      },
+      {
+        "policy_statement": "Continue efforts to preserve Seattle's industrial lands with efficient freight access by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n3. Continue efforts to preserve Seattle's industrial lands which provide local jobs and have efficient access to a deep water port, rail lines and highways.",
+        "policy_type": "sub",
+        "parent_policy_name": "Policy & Planning (Complete Communities): integrate climate goals into transportation and land use policy and planning that prioritizes transit, walking, and bicycling while accommodating freight movement.",
+        "section_header": "Transportation + Land Use — Policy & Planning",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit commitment to preserve industrial lands tied to freight/logistics and jobs."
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation + land use — actions",
+    "parent": {
+      "policy_statement": "Economic Signals (umbrella): implement road pricing and parking management strategies to reduce GHG emissions and congestion and generate revenue for transportation choices.",
+      "verbatim_text": "## ECONOMIC SIGNALS:\nRoad Pricing\nParking Management",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Transportation + Land Use — ACTIONS",
+      "sector": "Transport",
+      "extraction_rationale": "Named action grouping with two subcomponents and numbered actions below."
+    },
+    "subs": []
+  },
+  {
+    "cluster_id": 8,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation + land use — road pricing",
+    "parent": {
+      "policy_statement": "Road Pricing (Economic Signals): research and pursue authorization and pilots for comprehensive road pricing to reduce emissions and fund multimodal transportation.",
+      "verbatim_text": "## Road Pricing\n... generate substantial revenue to fund the transportation system.\n\n## Actions to Implement by 2015\n1. Research the benefits of pricing policies...\n\n## Actions to Implement by 2030\n1. Secure authorization to implement a comprehensive system of road pricing*...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Transportation + Land Use — Road Pricing",
+      "sector": "Transport",
+      "extraction_rationale": "Named category with distinct 2015 and 2030 numbered actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "Research pricing policies' benefits and equity impacts by examining experiences of other communities.",
+        "verbatim_text": "## Actions to Implement by 2015\n1. Research the benefits of pricing policies on climate protection, transportation and community goals (e.g. reduced congestion, improved air quality, revenue generation) and their potential social equity impacts and solutions by examining the experience of other communities.",
+        "policy_type": "sub",
+        "parent_policy_name": "Road Pricing (Economic Signals): research and pursue authorization and pilots for comprehensive road pricing to reduce emissions and fund multimodal transportation.",
+        "section_header": "Transportation + Land Use — Road Pricing",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete research commitment tied to pricing policy design and equity."
+      },
+      {
+        "policy_statement": "Secure authorization for comprehensive road pricing on limited access highways in Central Puget Sound, ensure authority to set objectives and rates, and dedicate revenues to multimodal projects by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n1. Secure authorization to implement a comprehensive system of road pricing* on all limited access highways in Central Puget Sound. Work to ensure the region has the authority* to set transportation planning objectives and rates to meet the objectives. Ensure the region* can dedicate road pricing revenues to multimodal transportation projects.\n\n*State legislative action required.",
+        "policy_type": "sub",
+        "parent_policy_name": "Road Pricing (Economic Signals): research and pursue authorization and pilots for comprehensive road pricing to reduce emissions and fund multimodal transportation.",
+        "section_header": "Transportation + Land Use — Road Pricing",
+        "sector": "Transport",
+        "extraction_rationale": "Specific authorization and revenue dedication commitments with clear scope."
+      },
+      {
+        "policy_statement": "Evaluate road pricing on non-highway arterials and develop a pilot to test congestion and emissions reduction and funding potential by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n2. Evaluate road pricing opportunities on non-highway arterials and develop a pilot project to test whether road pricing can help reduce congestion while also reducing emissions and providing funding for transportation choices.",
+        "policy_type": "sub",
+        "parent_policy_name": "Road Pricing (Economic Signals): research and pursue authorization and pilots for comprehensive road pricing to reduce emissions and fund multimodal transportation.",
+        "section_header": "Transportation + Land Use — Road Pricing",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit evaluation plus pilot development commitment."
+      }
+    ]
+  },
+  {
+    "cluster_id": 9,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation + land use — parking management",
+    "parent": {
+      "policy_statement": "Parking Management (Economic Signals): implement parking policies and programs to reduce VMT, encourage transit/walking/biking, and support transportation improvements.",
+      "verbatim_text": "## Parking Management\nBy right-sizing and appropriately pricing parking, housing costs can be reduced, transit, walking, and biking encouraged, smart growth facilitated, and vehicle miles traveled reduced.\n\n## Actions to Implement by 2015\n1. Create a grant program...\n2. Work with neighborhood districts...\n3. Expand the E-Park program...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Transportation + Land Use — Parking Management",
+      "sector": "Transport",
+      "extraction_rationale": "Named category with multiple numbered actions and a 2030 action."
+    },
+    "subs": [
+      {
+        "policy_statement": "Create a grant program supporting walking, biking, and transit projects in business districts with paid parking.",
+        "verbatim_text": "## Actions to Implement by 2015\n1. Create a grant program that supports walking, biking, and transit projects in business districts with paid parking.",
+        "policy_type": "sub",
+        "parent_policy_name": "Parking Management (Economic Signals): implement parking policies and programs to reduce VMT, encourage transit/walking/biking, and support transportation improvements.",
+        "section_header": "Transportation + Land Use — Parking Management",
+        "sector": "Transport",
+        "extraction_rationale": "Specific funding program action."
+      },
+      {
+        "policy_statement": "Work with neighborhood districts to develop on-street parking management and other access strategies.",
+        "verbatim_text": "## Actions to Implement by 2015\n2. Work with neighborhood districts to develop on-street parking management and other access strategies.",
+        "policy_type": "sub",
+        "parent_policy_name": "Parking Management (Economic Signals): implement parking policies and programs to reduce VMT, encourage transit/walking/biking, and support transportation improvements.",
+        "section_header": "Transportation + Land Use — Parking Management",
+        "sector": "Transport",
+        "extraction_rationale": "Specific collaborative action on parking management."
+      },
+      {
+        "policy_statement": "Expand the E-Park program in the Center City to reduce driving around to find parking.",
+        "verbatim_text": "## Actions to Implement by 2015\n3. Expand the E-Park program in the Center City to reduce the need to drive around to find parking.",
+        "policy_type": "sub",
+        "parent_policy_name": "Parking Management (Economic Signals): implement parking policies and programs to reduce VMT, encourage transit/walking/biking, and support transportation improvements.",
+        "section_header": "Transportation + Land Use — Parking Management",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete program expansion action with stated purpose."
+      },
+      {
+        "policy_statement": "Expand parking policies to incorporate goals beyond customer access, including using new revenue to support transit, bicycle, and pedestrian infrastructure and services by 2030 (state legislative action required).",
+        "verbatim_text": "## Actions to Implement by 2030\n1. Expand parking policies to incorporate goals beyond customer access such as allowing spending of new revenue to support improvements in transit, bicycle, and pedestrian infrastructure and services.*\n\n*State legislative action required.",
+        "policy_type": "sub",
+        "parent_policy_name": "Parking Management (Economic Signals): implement parking policies and programs to reduce VMT, encourage transit/walking/biking, and support transportation improvements.",
+        "section_header": "Transportation + Land Use — Parking Management",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit policy expansion and revenue-use commitment under 2030 horizon."
+      }
+    ]
+  },
+  {
+    "cluster_id": 10,
+    "cluster_type": "parent_with_subs",
+    "section_header": "building energy — actions",
+    "parent": {
+      "policy_statement": "Building Energy (umbrella): implement actions across information, incentives & assistance, performance requirements, and energy supply to reduce building energy emissions and expand clean energy options.",
+      "verbatim_text": "The Building Energy section is organized into the following categories:\nINFORMATION\nINCENTIVES & ASSISTANCE\nPERFORMANCE REQUIREMENTS\nENERGY SUPPLY",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Building Energy — ACTIONS",
+      "sector": "Buildings",
+      "extraction_rationale": "Introduces a structured set of categories with multiple numbered actions under each."
+    },
+    "subs": []
+  },
+  {
+    "cluster_id": 11,
+    "cluster_type": "parent_with_subs",
+    "section_header": "building energy — information",
+    "parent": {
+      "policy_statement": "Information (Building Energy): improve access to building energy performance information through smart meters, ratings/benchmarking, management plans, and audit requirements.",
+      "verbatim_text": "## INFORMATION\n... Smart meters and energy assessments can provide information...\n\n## Actions to Implement by 2015\n1. Begin implementing a plan to deploy smart meters...\n2. Develop and test a program for rating home energy performance...\n3. Make the energy benchmarking scores...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Building Energy — INFORMATION",
+      "sector": "Buildings",
+      "extraction_rationale": "Named category with multiple numbered actions for 2015 and 2030."
+    },
+    "subs": [
+      {
+        "policy_statement": "Deploy smart meters that provide real-time energy use information to all Seattle City Light customers (begin implementation by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n1. Begin implementing a plan to deploy smart meters that provide real-time energy use information to all Seattle City Light customers.",
+        "policy_type": "sub",
+        "parent_policy_name": "Information (Building Energy): improve access to building energy performance information through smart meters, ratings/benchmarking, management plans, and audit requirements.",
+        "section_header": "Building Energy — INFORMATION",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific implementation action with defined technology and customer scope."
+      },
+      {
+        "policy_statement": "Develop and test a home energy performance rating program at point of listing for sale (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n2. Develop and test a program for rating home energy performance when a house is listed for sale.",
+        "policy_type": "sub",
+        "parent_policy_name": "Information (Building Energy): improve access to building energy performance information through smart meters, ratings/benchmarking, management plans, and audit requirements.",
+        "section_header": "Building Energy — INFORMATION",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete program development/testing commitment tied to a market decision point."
+      },
+      {
+        "policy_statement": "Make energy benchmarking scores of City municipal buildings publicly available (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n3. Make the energy benchmarking scores of the City's municipal buildings publicly available.",
+        "policy_type": "sub",
+        "parent_policy_name": "Information (Building Energy): improve access to building energy performance information through smart meters, ratings/benchmarking, management plans, and audit requirements.",
+        "section_header": "Building Energy — INFORMATION",
+        "sector": "Buildings",
+        "extraction_rationale": "Explicit transparency/ disclosure action."
+      },
+      {
+        "policy_statement": "Develop a Resource Conservation Management Plan for City facilities including a strategy for routine energy system 'tune ups' (retro-commissioning) (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n4. Develop a Resource Conservation Management Plan to guide efficiency investments in City facilities, including developing a strategy for routinely conducting 'tune ups' of City facility energy systems (known as retrocommissioning).",
+        "policy_type": "sub",
+        "parent_policy_name": "Information (Building Energy): improve access to building energy performance information through smart meters, ratings/benchmarking, management plans, and audit requirements.",
+        "section_header": "Building Energy — INFORMATION",
+        "sector": "Buildings",
+        "extraction_rationale": "Named plan with specific operational strategy (retro-commissioning)."
+      },
+      {
+        "policy_statement": "Require building energy audits for the largest and least efficient commercial and multifamily buildings (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n5. Require building energy audits for the largest and least efficient commercial and multifamily buildings to help identify cost effective improvements.",
+        "policy_type": "sub",
+        "parent_policy_name": "Information (Building Energy): improve access to building energy performance information through smart meters, ratings/benchmarking, management plans, and audit requirements.",
+        "section_header": "Building Energy — INFORMATION",
+        "sector": "Buildings",
+        "extraction_rationale": "Regulatory/performance requirement explicitly stated (audits required)."
+      },
+      {
+        "policy_statement": "Make information from Energy Benchmarking reports publicly accessible by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n1. Make information from the Energy Benchmarking reports publicly accessible.",
+        "policy_type": "sub",
+        "parent_policy_name": "Information (Building Energy): improve access to building energy performance information through smart meters, ratings/benchmarking, management plans, and audit requirements.",
+        "section_header": "Building Energy — INFORMATION",
+        "sector": "Buildings",
+        "extraction_rationale": "Explicit transparency commitment under 2030 horizon."
+      },
+      {
+        "policy_statement": "Establish a requirement for disclosing home energy use or a home energy rating at the point of sale for single-family homes by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n2. Establish a requirement for disclosing home energy use or a home energy rating at the point of sale for single-family homes.",
+        "policy_type": "sub",
+        "parent_policy_name": "Information (Building Energy): improve access to building energy performance information through smart meters, ratings/benchmarking, management plans, and audit requirements.",
+        "section_header": "Building Energy — INFORMATION",
+        "sector": "Buildings",
+        "extraction_rationale": "Clear regulatory disclosure requirement with defined trigger point (sale)."
+      }
+    ]
+  },
+  {
+    "cluster_id": 12,
+    "cluster_type": "parent_with_subs",
+    "section_header": "building energy — incentives & assistance",
+    "parent": {
+      "policy_statement": "Incentives & Assistance (Building Energy): deploy and expand incentive, financing, and assistance programs for energy efficiency upgrades across residential, multifamily, and commercial buildings.",
+      "verbatim_text": "## INCENTIVES & ASSISTANCE\n... The right package of incentives, financing, and support services can provide attractive payback periods...\n\n## Actions to Implement by 2015\n1. Transition the Community Power Works - Home pilot program...\n2. Pilot a retro-commissioning incentive program...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Building Energy — INCENTIVES & ASSISTANCE",
+      "sector": "Buildings",
+      "extraction_rationale": "Named category with multiple specific incentive/assistance actions under 2015 and 2030."
+    },
+    "subs": [
+      {
+        "policy_statement": "Transition Community Power Works - Home from a pilot to an established program assisting homeowners with energy efficiency upgrades (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n1. Transition the Community Power Works - Home pilot program to an established program that assists homeowners with energy efficiency upgrades.",
+        "policy_type": "sub",
+        "parent_policy_name": "Incentives & Assistance (Building Energy): deploy and expand incentive, financing, and assistance programs for energy efficiency upgrades across residential, multifamily, and commercial buildings.",
+        "section_header": "Building Energy — INCENTIVES & ASSISTANCE",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific program transition/scale-up commitment."
+      },
+      {
+        "policy_statement": "Pilot a retro-commissioning incentive program providing financial and technical assistance to tune up energy systems in existing commercial buildings (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n2. Pilot a retro-commissioning incentive program to provide financial and technical assistance to tune up energy systems in existing commercial buildings.",
+        "policy_type": "sub",
+        "parent_policy_name": "Incentives & Assistance (Building Energy): deploy and expand incentive, financing, and assistance programs for energy efficiency upgrades across residential, multifamily, and commercial buildings.",
+        "section_header": "Building Energy — INCENTIVES & ASSISTANCE",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific financial/technical assistance pilot."
+      },
+      {
+        "policy_statement": "Maintain the City's commitment to low-income weatherization services through the HomeWise program (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n3. Maintain the City's commitment to low-income weatherization services through the HomeWise program.",
+        "policy_type": "sub",
+        "parent_policy_name": "Incentives & Assistance (Building Energy): deploy and expand incentive, financing, and assistance programs for energy efficiency upgrades across residential, multifamily, and commercial buildings.",
+        "section_header": "Building Energy — INCENTIVES & ASSISTANCE",
+        "sector": "Buildings",
+        "extraction_rationale": "Explicit continuation commitment for a named low-income program."
+      },
+      {
+        "policy_statement": "Pass state legislation authorizing a property tax exemption for rental housing owners undertaking significant energy efficiency upgrades (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n4. Pass state legislation to authorize a property tax exemption for rental housing owners who undertake significant upgrades to increase energy efficiency. (State legislative action required.)",
+        "policy_type": "sub",
+        "parent_policy_name": "Incentives & Assistance (Building Energy): deploy and expand incentive, financing, and assistance programs for energy efficiency upgrades across residential, multifamily, and commercial buildings.",
+        "section_header": "Building Energy — INCENTIVES & ASSISTANCE",
+        "sector": "Buildings",
+        "extraction_rationale": "Clear legislative action requested with defined incentive mechanism."
+      },
+      {
+        "policy_statement": "Partner with property owners/managers to identify compelling financing tools for commercial energy efficiency upgrades and outline a plan to bring them to market (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n5. Partner with property owners and managers to identify the most compelling financing tools for energy efficiency upgrades in commercial buildings and outline a plan to help bring the tools to market.",
+        "policy_type": "sub",
+        "parent_policy_name": "Incentives & Assistance (Building Energy): deploy and expand incentive, financing, and assistance programs for energy efficiency upgrades across residential, multifamily, and commercial buildings.",
+        "section_header": "Building Energy — INCENTIVES & ASSISTANCE",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific partnership and financing-market action."
+      },
+      {
+        "policy_statement": "Pilot a utility incentive program that pays for actual energy savings over time rather than up-front payments for projected savings (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n6. Pilot a utility incentive program that would pay for actual energy savings over time instead of providing an up-front payment for projected savings.",
+        "policy_type": "sub",
+        "parent_policy_name": "Incentives & Assistance (Building Energy): deploy and expand incentive, financing, and assistance programs for energy efficiency upgrades across residential, multifamily, and commercial buildings.",
+        "section_header": "Building Energy — INCENTIVES & ASSISTANCE",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific incentive design pilot with measurable basis (actual savings)."
+      },
+      {
+        "policy_statement": "Continue improving permitting processes to promote the most sustainable buildings, such as the Living Building and Deep Green Pilot Program (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n7. Continue improving permitting processes to promote the most sustainable buildings, such as the Living Building and Deep Green Pilot Program.",
+        "policy_type": "sub",
+        "parent_policy_name": "Incentives & Assistance (Building Energy): deploy and expand incentive, financing, and assistance programs for energy efficiency upgrades across residential, multifamily, and commercial buildings.",
+        "section_header": "Building Energy — INCENTIVES & ASSISTANCE",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete administrative/process improvement action tied to named pilot program."
+      },
+      {
+        "policy_statement": "Partner with Seattle Public Schools to identify opportunities to build Living Building Challenge or Deep Green schools (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n8. Partner with Seattle Public Schools to identify opportunities to build Living Building Challenge or Deep Green schools.",
+        "policy_type": "sub",
+        "parent_policy_name": "Incentives & Assistance (Building Energy): deploy and expand incentive, financing, and assistance programs for energy efficiency upgrades across residential, multifamily, and commercial buildings.",
+        "section_header": "Building Energy — INCENTIVES & ASSISTANCE",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific partnership action with clear building standard objectives."
+      },
+      {
+        "policy_statement": "Provide technical assistance to retrofit historic buildings for energy conservation, recognizing emissions-reduction benefits of retaining existing buildings (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n9. Provide technical assistance to help owners retrofit historic buildings for energy conservation, recognizing the emission-reduction benefits of retaining existing buildings instead of building new ones.",
+        "policy_type": "sub",
+        "parent_policy_name": "Incentives & Assistance (Building Energy): deploy and expand incentive, financing, and assistance programs for energy efficiency upgrades across residential, multifamily, and commercial buildings.",
+        "section_header": "Building Energy — INCENTIVES & ASSISTANCE",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific technical assistance commitment with defined purpose."
+      }
+    ]
+  },
+  {
+    "cluster_id": 13,
+    "cluster_type": "parent_with_subs",
+    "section_header": "building energy — performance requirements",
+    "parent": {
+      "policy_statement": "Performance Requirements (Building Energy): progressively increase building energy performance requirements via energy code updates and standards for existing buildings and major renovations.",
+      "verbatim_text": "## PERFORMANCE REQUIREMENTS\n... The actions below represent a gradual increase in efficiency standards for existing buildings over time...\n\n## Actions to Implement by 2015\n1. Continue increasing energy efficiency standards in the Seattle Energy Code over time.\n2. Evaluate opportunities for the energy code to focus on total energy performance...\n3. Require the energy performance of buildings undergoing major renovation...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Building Energy — PERFORMANCE REQUIREMENTS",
+      "sector": "Buildings",
+      "extraction_rationale": "Named category with multiple numbered regulatory/performance actions for 2015 and 2030."
+    },
+    "subs": [
+      {
+        "policy_statement": "Continue increasing energy efficiency standards in the Seattle Energy Code over time (by 2015 action).",
+        "verbatim_text": "## Actions to Implement by 2015\n1. Continue increasing energy efficiency standards in the Seattle Energy Code over time.",
+        "policy_type": "sub",
+        "parent_policy_name": "Performance Requirements (Building Energy): progressively increase building energy performance requirements via energy code updates and standards for existing buildings and major renovations.",
+        "section_header": "Building Energy — PERFORMANCE REQUIREMENTS",
+        "sector": "Buildings",
+        "extraction_rationale": "Explicit commitment to strengthen code standards."
+      },
+      {
+        "policy_statement": "Evaluate opportunities for the energy code to focus on total energy performance instead of prescriptive requirements (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n2. Evaluate opportunities for the energy code to focus on total energy performance instead of prescriptive requirements.",
+        "policy_type": "sub",
+        "parent_policy_name": "Performance Requirements (Building Energy): progressively increase building energy performance requirements via energy code updates and standards for existing buildings and major renovations.",
+        "section_header": "Building Energy — PERFORMANCE REQUIREMENTS",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific evaluation action that could change regulatory approach."
+      },
+      {
+        "policy_statement": "Require buildings undergoing major renovation or change of use to achieve energy performance close to new-building requirements (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n3. Require the energy performance of buildings undergoing major renovation or change of use (known as 'substantial alteration' in code) to come close to the energy performance requirements for new buildings.",
+        "policy_type": "sub",
+        "parent_policy_name": "Performance Requirements (Building Energy): progressively increase building energy performance requirements via energy code updates and standards for existing buildings and major renovations.",
+        "section_header": "Building Energy — PERFORMANCE REQUIREMENTS",
+        "sector": "Buildings",
+        "extraction_rationale": "Clear regulatory requirement affecting major renovations/change of use."
+      },
+      {
+        "policy_statement": "Move toward an energy code focused on total energy performance, combining prescriptive elements, performance requirements, and outcome-tracking by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n1. Move toward an energy code focused on total energy performance. Ultimately, the energy code should include a combination of prescriptive elements, performance requirements, and outcome-tracking.",
+        "policy_type": "sub",
+        "parent_policy_name": "Performance Requirements (Building Energy): progressively increase building energy performance requirements via energy code updates and standards for existing buildings and major renovations.",
+        "section_header": "Building Energy — PERFORMANCE REQUIREMENTS",
+        "sector": "Buildings",
+        "extraction_rationale": "Explicit long-term code reform commitment."
+      },
+      {
+        "policy_statement": "Create a minimum energy performance standard for the building stock that ramps up over time after tools and incentives are available (by 2030).",
+        "verbatim_text": "## Actions to Implement by 2030\n3. Create a minimum energy performance standard to ensure widespread improvement of our entire building stock. A standard should focus on the most cost-effective energy improvements, and can ramp up over time after tools and incentives are available to assist building owners.",
+        "policy_type": "sub",
+        "parent_policy_name": "Performance Requirements (Building Energy): progressively increase building energy performance requirements via energy code updates and standards for existing buildings and major renovations.",
+        "section_header": "Building Energy — PERFORMANCE REQUIREMENTS",
+        "sector": "Buildings",
+        "extraction_rationale": "Explicit commitment to create a citywide minimum performance standard."
+      },
+      {
+        "policy_statement": "Require periodic retro-commissioning (building tune-ups) for the largest and least efficient commercial and multifamily buildings by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n4. Require periodic retro-commissioning (building 'tune-ups') for the largest and least efficient commercial and multifamily buildings.",
+        "policy_type": "sub",
+        "parent_policy_name": "Performance Requirements (Building Energy): progressively increase building energy performance requirements via energy code updates and standards for existing buildings and major renovations.",
+        "section_header": "Building Energy — PERFORMANCE REQUIREMENTS",
+        "sector": "Buildings",
+        "extraction_rationale": "Clear requirement (periodic tune-ups) targeting specific building segment."
+      },
+      {
+        "policy_statement": "Require waste heat recovery in new buildings, where appropriate, by 2030.",
+        "verbatim_text": "## Actions to Implement by 2030\n5. Require waste heat recovery in new buildings, where appropriate.",
+        "policy_type": "sub",
+        "parent_policy_name": "Performance Requirements (Building Energy): progressively increase building energy performance requirements via energy code updates and standards for existing buildings and major renovations.",
+        "section_header": "Building Energy — PERFORMANCE REQUIREMENTS",
+        "sector": "Buildings",
+        "extraction_rationale": "Explicit requirement for a specific technology/approach."
+      }
+    ]
+  },
+  {
+    "cluster_id": 14,
+    "cluster_type": "parent_with_subs",
+    "section_header": "building energy — energy supply",
+    "parent": {
+      "policy_statement": "Energy Supply (Building Energy): expand district and on-site renewable/low-carbon energy systems while maintaining Seattle City Light carbon-neutral electricity and support for solar net metering.",
+      "verbatim_text": "## ENERGY SUPPLY\n... On-site renewable energy systems and district energy systems are important strategies...\n\n## Actions to Implement by 2015\n1. Expand district energy systems...\n2. Develop an alternative energy master plan...\n3. Maintain Seattle City Light's commitment...\n4. Continue Seattle City Light support for solar energy through net metering...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Building Energy — ENERGY SUPPLY",
+      "sector": "Energy",
+      "extraction_rationale": "Named category with multiple numbered clean energy supply actions for 2015 and 2030."
+    },
+    "subs": [
+      {
+        "policy_statement": "Expand district energy systems on First Hill and into South Lake Union and Denny Triangle neighborhoods (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n1. Expand district energy systems on First Hill and into the South Lake Union and Denny Triangle neighborhoods.",
+        "policy_type": "sub",
+        "parent_policy_name": "Energy Supply (Building Energy): expand district and on-site renewable/low-carbon energy systems while maintaining Seattle City Light carbon-neutral electricity and support for solar net metering.",
+        "section_header": "Building Energy — ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Specific district energy expansion with geographic scope."
+      },
+      {
+        "policy_statement": "Develop an alternative energy master plan focused on low-carbon solutions such as district energy, solar, and geothermal energy in the public right-of-way (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n2. Develop an alternative energy master plan that focuses on low-carbon energy solutions, such as district energy, solar energy, and geothermal energy in the public right-of-way.",
+        "policy_type": "sub",
+        "parent_policy_name": "Energy Supply (Building Energy): expand district and on-site renewable/low-carbon energy systems while maintaining Seattle City Light carbon-neutral electricity and support for solar net metering.",
+        "section_header": "Building Energy — ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Named master plan with defined solution set and location (public right-of-way)."
+      },
+      {
+        "policy_statement": "Maintain Seattle City Light's commitment to conservation and renewables and to providing carbon neutral electricity (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n3. Maintain Seattle City Light's commitment to conservation and renewables, as well as to providing carbon neutral electricity.",
+        "policy_type": "sub",
+        "parent_policy_name": "Energy Supply (Building Energy): expand district and on-site renewable/low-carbon energy systems while maintaining Seattle City Light carbon-neutral electricity and support for solar net metering.",
+        "section_header": "Building Energy — ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Explicit continuation commitment for carbon-neutral electricity and conservation/renewables."
+      },
+      {
+        "policy_statement": "Continue Seattle City Light support for solar energy through net metering (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n4. Continue Seattle City Light support for solar energy through net metering, which reduces the quantity of electricity billed to the customer by the amount of solar energy produced.",
+        "policy_type": "sub",
+        "parent_policy_name": "Energy Supply (Building Energy): expand district and on-site renewable/low-carbon energy systems while maintaining Seattle City Light carbon-neutral electricity and support for solar net metering.",
+        "section_header": "Building Energy — ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Specific policy instrument (net metering) explicitly supported."
+      }
+    ]
+  },
+  {
+    "cluster_id": 15,
+    "cluster_type": "parent_with_subs",
+    "section_header": "waste — waste reduction & product stewardship",
+    "parent": {
+      "policy_statement": "Waste Reduction & Product Stewardship (Waste): implement actions to reduce waste generation and expand product stewardship programs.",
+      "verbatim_text": "## WASTE REDUCTION & PRODUCT STEWARDSHIP\n\n## Actions to Implement by 2015\n1. Support and collaborate on ongoing state, regional, and national programs...\n2. Pursue local product stewardship programs...\n3. Launch programs to support edible food donation...\n4. Continue to support opt-out programs for junk mail.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Waste — WASTE REDUCTION & PRODUCT STEWARDSHIP",
+      "sector": "Waste",
+      "extraction_rationale": "Named waste action category with multiple numbered commitments."
+    },
+    "subs": [
+      {
+        "policy_statement": "Support and collaborate on state, regional, and national programs and policies to encourage product stewardship of electronics and other materials (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n1. Support and collaborate on ongoing state, regional, and national programs and policies to encourage product stewardship of electronics and other materials.",
+        "policy_type": "sub",
+        "parent_policy_name": "Waste Reduction & Product Stewardship (Waste): implement actions to reduce waste generation and expand product stewardship programs.",
+        "section_header": "Waste — WASTE REDUCTION & PRODUCT STEWARDSHIP",
+        "sector": "Waste",
+        "extraction_rationale": "Concrete commitment to support and collaborate on specific policy approach (product stewardship)."
+      },
+      {
+        "policy_statement": "Pursue local product stewardship programs including take-back requirements for select products and reducing product packaging (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n2. Pursue local product stewardship programs, such as take-back requirements for select products that are not included in state or regional programs and reducing product packaging.",
+        "policy_type": "sub",
+        "parent_policy_name": "Waste Reduction & Product Stewardship (Waste): implement actions to reduce waste generation and expand product stewardship programs.",
+        "section_header": "Waste — WASTE REDUCTION & PRODUCT STEWARDSHIP",
+        "sector": "Waste",
+        "extraction_rationale": "Specific local policy tools (take-back requirements, packaging reduction)."
+      },
+      {
+        "policy_statement": "Launch programs to support edible food donation, reduce waste in commercial kitchens, and reduce household/business food waste via better planning and preparation (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n3. Launch programs to support edible food donation, help commercial kitchens find efficiencies and reduce waste, and help households and businesses reduce food waste through better planning, purchasing, storage and preparation.",
+        "policy_type": "sub",
+        "parent_policy_name": "Waste Reduction & Product Stewardship (Waste): implement actions to reduce waste generation and expand product stewardship programs.",
+        "section_header": "Waste — WASTE REDUCTION & PRODUCT STEWARDSHIP",
+        "sector": "Waste",
+        "extraction_rationale": "Specific program launch commitment with defined components."
+      },
+      {
+        "policy_statement": "Continue to support opt-out programs for junk mail (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n4. Continue to support opt-out programs for junk mail.",
+        "policy_type": "sub",
+        "parent_policy_name": "Waste Reduction & Product Stewardship (Waste): implement actions to reduce waste generation and expand product stewardship programs.",
+        "section_header": "Waste — WASTE REDUCTION & PRODUCT STEWARDSHIP",
+        "sector": "Waste",
+        "extraction_rationale": "Explicit continuation of a specific waste reduction program type."
+      }
+    ]
+  },
+  {
+    "cluster_id": 16,
+    "cluster_type": "parent_with_subs",
+    "section_header": "waste — recycling & composting",
+    "parent": {
+      "policy_statement": "Recycling & Composting (Waste): implement programs, enforcement, and material bans to increase diversion to recycling/composting.",
+      "verbatim_text": "## RECYCLING & COMPOSTING\n... The City will continue to develop and implement innovative strategies...\n\n## Actions to Implement by 2015\n1. Implement new recycling and composting programs...\n2. Increase enforcement...\n3. Ban the following materials...\n4. Phase-in bans...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Waste — RECYCLING & COMPOSTING",
+      "sector": "Waste",
+      "extraction_rationale": "Named category with multiple numbered actions including regulatory bans and enforcement."
+    },
+    "subs": [
+      {
+        "policy_statement": "Implement new recycling and composting programs for residential and business waste, including programs targeting waste hauled by residents to transfer stations (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n1. Implement new recycling and composting programs for residential and business waste, including programs that target waste hauled by residents to transfer stations.",
+        "policy_type": "sub",
+        "parent_policy_name": "Recycling & Composting (Waste): implement programs, enforcement, and material bans to increase diversion to recycling/composting.",
+        "section_header": "Waste — RECYCLING & COMPOSTING",
+        "sector": "Waste",
+        "extraction_rationale": "Specific program implementation commitment with defined target waste stream."
+      },
+      {
+        "policy_statement": "Increase enforcement of residential and business recycling and composting requirements (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n2. Increase enforcement of residential and business recycling and composting requirements.",
+        "policy_type": "sub",
+        "parent_policy_name": "Recycling & Composting (Waste): implement programs, enforcement, and material bans to increase diversion to recycling/composting.",
+        "section_header": "Waste — RECYCLING & COMPOSTING",
+        "sector": "Waste",
+        "extraction_rationale": "Explicit enforcement action supporting existing requirements."
+      },
+      {
+        "policy_statement": "Ban specified materials from residential and business garbage to increase recycling (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n3. Ban the following materials from residential and business garbage to increase recycling: asphalt paving, concrete, bricks, asphalt shingles, plastic film, clean wood, residential food, and compostable paper.",
+        "policy_type": "sub",
+        "parent_policy_name": "Recycling & Composting (Waste): implement programs, enforcement, and material bans to increase diversion to recycling/composting.",
+        "section_header": "Waste — RECYCLING & COMPOSTING",
+        "sector": "Waste",
+        "extraction_rationale": "Clear regulatory ban listing specific materials."
+      },
+      {
+        "policy_statement": "Phase in bans on specified construction and demolition waste from job sites and private transfer stations (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n4. Phase-in bans on the following construction and demolition waste from job sites and private transfer stations: recyclable metal, cardboard, plastic film, carpet, clean gypsum, clean wood, and asphalt shingles.",
+        "policy_type": "sub",
+        "parent_policy_name": "Recycling & Composting (Waste): implement programs, enforcement, and material bans to increase diversion to recycling/composting.",
+        "section_header": "Waste — RECYCLING & COMPOSTING",
+        "sector": "Waste",
+        "extraction_rationale": "Explicit phased regulatory bans targeting C&D waste streams."
+      }
+    ]
+  },
+  {
+    "cluster_id": 17,
+    "cluster_type": "parent_with_subs",
+    "section_header": "waste — collection, processing, & disposal",
+    "parent": {
+      "policy_statement": "Collection, Processing, & Disposal (Waste): implement operational changes and programs to reduce emissions from waste management and maintain carbon neutrality of SPU operations.",
+      "verbatim_text": "## Actions to Implement by 2015\n1. Pilot and consider changing to every-other-week garbage collection from single-family homes.\n2. Focus grants on schools to establish system-wide collection for food and yard waste.\n3. Seattle Public Utilities achieves carbon neutrality through operational emissions reductions, local emissions reduction projects, and GHG offsets.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Waste — COLLECTION, PROCESSING, & DISPOSAL",
+      "sector": "Waste",
+      "extraction_rationale": "A distinct waste management category with multiple numbered operational actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "Pilot and consider changing to every-other-week garbage collection for single-family homes (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n1. Pilot and consider changing to every-other-week garbage collection from single-family homes.",
+        "policy_type": "sub",
+        "parent_policy_name": "Collection, Processing, & Disposal (Waste): implement operational changes and programs to reduce emissions from waste management and maintain carbon neutrality of SPU operations.",
+        "section_header": "Waste — COLLECTION, PROCESSING, & DISPOSAL",
+        "sector": "Waste",
+        "extraction_rationale": "Specific operational pilot that could reduce collection impacts."
+      },
+      {
+        "policy_statement": "Focus grants on schools to establish system-wide collection for food and yard waste (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n2. Focus grants on schools to establish system-wide collection for food and yard waste.",
+        "policy_type": "sub",
+        "parent_policy_name": "Collection, Processing, & Disposal (Waste): implement operational changes and programs to reduce emissions from waste management and maintain carbon neutrality of SPU operations.",
+        "section_header": "Waste — COLLECTION, PROCESSING, & DISPOSAL",
+        "sector": "Waste",
+        "extraction_rationale": "Specific resource allocation approach (grants) with defined program goal."
+      },
+      {
+        "policy_statement": "Seattle Public Utilities will achieve carbon neutrality through operational emission reductions, local emission reduction projects, and GHG offsets (by 2015 action).",
+        "verbatim_text": "## Actions to Implement by 2015\n3. Seattle Public Utilities achieves carbon neutrality through operational emissions reductions, local emissions reduction projects, and GHG offsets.",
+        "policy_type": "sub",
+        "parent_policy_name": "Collection, Processing, & Disposal (Waste): implement operational changes and programs to reduce emissions from waste management and maintain carbon neutrality of SPU operations.",
+        "section_header": "Waste — COLLECTION, PROCESSING, & DISPOSAL",
+        "sector": "Waste",
+        "extraction_rationale": "Explicit commitment regarding carbon neutrality mechanism for utility operations."
+      }
+    ]
+  },
+  {
+    "cluster_id": 18,
+    "cluster_type": "parent_with_subs",
+    "section_header": "preparing for climate change — actions",
+    "parent": {
+      "policy_statement": "Preparing for Climate Change (umbrella): implement citywide actions by 2015 across assessment & planning, natural systems, utility systems, land use & built environment, and community preparedness to enhance climate resilience.",
+      "verbatim_text": "Actions for preparing for a changing climate are organized into the following categories:\n## ASSESSMENT & PLANNING\nNATURAL SYSTEMS\n## UTILITY SYSTEMS:\nElectricity System\nWater Supply System\nDrainage System\n## LAND USE & THE BUILT ENVIRONMENT:\nLand Use\nTransportation\nBuildings\n## COMMUNITY PREPAREDNESS:\nPublic Health\nEmergency Planning\nFood Systems\n\nAll of the following actions are intended to be implemented by 2015.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Preparing for Climate Change — ACTIONS",
+      "sector": "Adaptation",
+      "extraction_rationale": "Introduces a structured umbrella program with multiple action categories and explicit implementation timeframe (by 2015)."
+    },
+    "subs": []
+  },
+  {
+    "cluster_id": 19,
+    "cluster_type": "parent_with_subs",
+    "section_header": "preparing for climate change — assessment & planning",
+    "parent": {
+      "policy_statement": "Assessment & Planning (Adaptation): conduct citywide climate impact assessment and develop a comprehensive adaptation strategy, and apply sea level rise planning guidance to impacted capital projects (by 2015).",
+      "verbatim_text": "## ASSESSMENT & PLANNING\n## Actions to Implement by 2015\n1. Conduct a citywide assessment...\n2. Develop a comprehensive adaptation strategy...\n3. Apply the planning methodology detailed in the City of Seattle Sea Level Rise Planning Guidance for Capital Projects...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Preparing for Climate Change — ASSESSMENT & PLANNING",
+      "sector": "Adaptation",
+      "extraction_rationale": "Named adaptation category with multiple numbered actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "Conduct a citywide assessment of impacts of temperature, precipitation, and sea level rise on City infrastructure/operations/facilities/services, including human health, with attention to vulnerable communities (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n1. Conduct a citywide assessment of the impacts of temperature, precipitation, and sea level rise on City infrastructure, operations, facilities, and services, including human health with special attention to vulnerable communities.",
+        "policy_type": "sub",
+        "parent_policy_name": "Assessment & Planning (Adaptation): conduct citywide climate impact assessment and develop a comprehensive adaptation strategy, and apply sea level rise planning guidance to impacted capital projects (by 2015).",
+        "section_header": "Preparing for Climate Change — ASSESSMENT & PLANNING",
+        "sector": "Adaptation",
+        "extraction_rationale": "Specific assessment action with defined climate variables and scope."
+      },
+      {
+        "policy_statement": "Develop a comprehensive adaptation strategy integrating City planning across departments, considering costs of action/inaction, and engaging residents (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n2. Develop a comprehensive adaptation strategy that integrates the City's planning efforts across all relevant departments and considers both the cost of implementing actions to improve our ability to adapt and the potential cost of inaction. Engage residents in developing the strategy.",
+        "policy_type": "sub",
+        "parent_policy_name": "Assessment & Planning (Adaptation): conduct citywide climate impact assessment and develop a comprehensive adaptation strategy, and apply sea level rise planning guidance to impacted capital projects (by 2015).",
+        "section_header": "Preparing for Climate Change — ASSESSMENT & PLANNING",
+        "sector": "Adaptation",
+        "extraction_rationale": "Concrete strategy development commitment with public engagement and cost considerations."
+      },
+      {
+        "policy_statement": "Apply the Sea Level Rise Planning Guidance for Capital Projects methodology to projects projected to be impacted by sea level rise (by 2015).",
+        "verbatim_text": "## Actions to Implement by 2015\n3. Apply the planning methodology detailed in the City of Seattle Sea Level Rise Planning Guidance for Capital Projects to projects projected to be impacted by sea level rise.",
+        "policy_type": "sub",
+        "parent_policy_name": "Assessment & Planning (Adaptation): conduct citywide climate impact assessment and develop a comprehensive adaptation strategy, and apply sea level rise planning guidance to impacted capital projects (by 2015).",
+        "section_header": "Preparing for Climate Change — ASSESSMENT & PLANNING",
+        "sector": "Adaptation",
+        "extraction_rationale": "Specific methodological requirement for capital project planning."
+      }
+    ]
+  },
+  {
+    "cluster_id": 20,
+    "cluster_type": "individual",
+    "section_header": "the 2013 climate action plan",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Adopt a citywide climate protection vision to reach zero net greenhouse gas emissions by 2050 and prepare for likely climate change impacts (Resolution 31312).",
+      "verbatim_text": "In 2011, recognizing that the Kyoto Protocol goal is just the first step forward in reducing climate pollution, the Mayor and City Council adopted a bold climate protection vision for our community (through Resolution 31312):\n- Reach Zero Net Greenhouse Gas (GHG) Emissions by 2050\n- Prepare for the likely impacts of climate change",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "The 2013 Climate Action Plan",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Formal, adopted City vision (via resolution) with a quantified long-term target (zero net GHG by 2050) and a defined adaptation objective."
+    }
+  },
+  {
+    "cluster_id": 21,
+    "cluster_type": "individual",
+    "section_header": "climate action plan monitoring",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Monitor and report progress on the 2013 Climate Action Plan by annually reporting implementation of 2015/2030 actions, reporting outcome indicators every other year, and producing a community GHG inventory every three years (including 2012 and 2015 inventories).",
+      "verbatim_text": "The Office of Sustainability & Environment will be responsible for monitoring and reporting on the progress of the 2013 CAP's targets and actions on the following schedule:\n- Implementation of 2015 Actions & 2030 Actions: Annually.\n- Climate Action Outcome Indicators: Every other year, or as data is available.\n- Local Community GHG Emissions: Every three years, including inventories for 2012 & 2015.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Climate Action Plan Monitoring",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Explicit commitment assigning responsibility and a defined monitoring/reporting schedule."
+    }
+  },
+  {
+    "cluster_id": 22,
+    "cluster_type": "individual",
+    "section_header": "climate action plan monitoring",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Update the Climate Action Plan over time by adding new short-term actions and revisiting the suite of 2030 actions in 2016.",
+      "verbatim_text": "This 2013 Climate Action Plan is intended to evolve over time... the City will update the Climate Action Plan with new short-term actions and will revisit the suite of 2030 actions in 2016.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Climate Action Plan Monitoring",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Concrete planning commitment with a specified future review year (2016)."
+    }
+  },
+  {
+    "cluster_id": 23,
+    "cluster_type": "individual",
+    "section_header": "transportation + land use — how much will these actions reduce ghg emissions?",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Set 2030 transportation outcome targets including: 82% reduction in passenger vehicle emissions, 20% reduction in vehicle miles traveled, and 75% reduction in GHG emissions intensity per mile, from a 2008 baseline.",
+      "verbatim_text": "The City's 2030 goals are to reduce emissions from passenger vehicle transportation by 82%, vehicle miles traveled by 20%, and emissions per mile traveled by 75% from a 2008 baseline.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Transportation + Land Use — How much will these actions reduce GHG emissions?",
+      "sector": "Transport",
+      "extraction_rationale": "Explicit quantified targets with baseline year, meeting the quantifiable target criterion."
+    }
+  },
+  {
+    "cluster_id": 24,
+    "cluster_type": "individual",
+    "section_header": "building energy",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Set 2030 building energy outcome targets to reduce commercial building energy use by 10%, residential energy use by 20%, reduce GHG intensity of all fuels by 25%, and reduce total building energy GHG emissions by 39%.",
+      "verbatim_text": "The City's 2030 goals are to reduce energy use in commercial buildings by 10% and residential buildings by 20%, and reduce the GHG intensity of all fuels by 25%... meet our overall 2030 target to reduce total building energy GHG emissions by 39%.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Building Energy",
+      "sector": "Buildings",
+      "extraction_rationale": "Explicit quantified sector targets with a deadline (2030)."
+    }
+  },
+  {
+    "cluster_id": 25,
+    "cluster_type": "individual",
+    "section_header": "waste — climate action outcome indicators",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Set waste outcome targets including achieving a 70% diversion rate by 2022 and reducing methane emissions from landfill by 50% by 2020.",
+      "verbatim_text": "| Recycling & Composting             | Waste diverted from landfill to recycling and composting | 70% diversion rate by 2022                 |\n| Collection, Processing, & Disposal | Methane emissions from landfill                          | 50% reduction in methane emissions by 2020 |",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Waste — Climate Action Outcome Indicators",
+      "sector": "Waste",
+      "extraction_rationale": "Quantified targets with years for diversion and methane reductions."
+    }
+  }
+]

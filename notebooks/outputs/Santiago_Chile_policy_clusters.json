@@ -1,0 +1,287 @@
+[
+  {
+    "cluster_id": 0,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transition strategies towards low carbon emission and climate resilient economies (helsinki principle 1)",
+    "parent": {
+      "policy_statement": "Implement the Santiago Action Plan 2020 workstream on developing transition strategies toward low-carbon and climate-resilient economies (Helsinki Principle 1), including comparative reviews and analysis to inform policy actions.",
+      "verbatim_text": "## Transition Strategies Towards Low Carbon Emission and Climate Resilient Economies (Helsinki Principle 1)\n\nKey actions and deliverables under Helsinki Principle 1 include:\n\n- Reviewing the existing body of long-term transition strategies in select countries, providing comparative analysis of related challenges and opportunities, and delivering country case studies.\n- Examining transition implications more broadly to cover the economic impacts and opportunities on citizens, businesses, and economies in order to help inform policy actions.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Transition Strategies Towards Low Carbon Emission and Climate Resilient Economies (Helsinki Principle 1)",
+      "sector": "Economy-wide",
+      "extraction_rationale": "This is a named workstream in the Santiago Action Plan with specific 2020 deliverables listed beneath it (bulleted actions), fitting a parent policy/program."
+    },
+    "subs": [
+      {
+        "policy_statement": "Review long-term transition strategies in select countries, produce comparative analysis of challenges and opportunities, and deliver country case studies.",
+        "verbatim_text": "- Reviewing the existing body of long-term transition strategies in select countries, providing comparative analysis of related challenges and opportunities, and delivering country case studies.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream on developing transition strategies toward low-carbon and climate-resilient economies (Helsinki Principle 1), including comparative reviews and analysis to inform policy actions.",
+        "section_header": "Transition Strategies Towards Low Carbon Emission and Climate Resilient Economies (Helsinki Principle 1)",
+        "sector": "Economy-wide",
+        "extraction_rationale": "A specific listed deliverable/action under the Principle 1 workstream."
+      },
+      {
+        "policy_statement": "Examine broader transition implications, including economic impacts and opportunities for citizens, businesses, and economies, to inform policy actions (drawing on partners’ mapping of decarbonization/adaptation instruments relevant to finance ministries).",
+        "verbatim_text": "- Examining transition implications more broadly to cover the economic impacts and opportunities on citizens, businesses, and economies in order to help inform policy actions. The effort will benefit from ongoing work of Institutional Partners in mapping out the various policy instruments for decarbonization and adaptation that are relevant to Finance Ministries.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream on developing transition strategies toward low-carbon and climate-resilient economies (Helsinki Principle 1), including comparative reviews and analysis to inform policy actions.",
+        "section_header": "Transition Strategies Towards Low Carbon Emission and Climate Resilient Economies (Helsinki Principle 1)",
+        "sector": "Economy-wide",
+        "extraction_rationale": "Concrete analytical action and deliverable described as part of Principle 1."
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "cluster_type": "parent_with_subs",
+    "section_header": "finance ministries' roles and capacities in climate policy (helsinki principle 2)",
+    "parent": {
+      "policy_statement": "Implement the Santiago Action Plan 2020 workstream to strengthen finance ministries’ roles and capacities in climate policy (Helsinki Principle 2), including sharing practices, reviewing governance/competency models, and collaborating with partners.",
+      "verbatim_text": "## Finance Ministries' Roles and Capacities in Climate Policy (Helsinki Principle 2)\n\nMembers will be invited to prepare written descriptions about the design, organization and exercise of climate policy (mitigation and adaptation/resilience), and the role of Finance Ministries in these arrangements. Key actions and deliverables under Helsinki Principle 2 include:\n\n- Sharing national approaches and good practices to help Members develop their capacities and roles in policy-making, including in the Nationally Determined Contributions (NDC) processes.\n- Reviewing practices, resources, and competencies representing different governance and organizational models.\n- Working in collaboration with partners to leverage expertise and bridge the gap between Finance Ministries and those leading on climate action.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Finance Ministries' Roles and Capacities in Climate Policy (Helsinki Principle 2)",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Named Principle 2 workstream with multiple specified actions/deliverables listed."
+    },
+    "subs": [
+      {
+        "policy_statement": "Invite members to prepare written descriptions on the design, organization, and exercise of climate policy and the role of finance ministries in those arrangements.",
+        "verbatim_text": "Members will be invited to prepare written descriptions about the design, organization and exercise of climate policy (mitigation and adaptation/resilience), and the role of Finance Ministries in these arrangements.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream to strengthen finance ministries’ roles and capacities in climate policy (Helsinki Principle 2), including sharing practices, reviewing governance/competency models, and collaborating with partners.",
+        "section_header": "Finance Ministries' Roles and Capacities in Climate Policy (Helsinki Principle 2)",
+        "sector": "Economy-wide",
+        "extraction_rationale": "A specific action the plan states will be undertaken (member invitations for written descriptions)."
+      },
+      {
+        "policy_statement": "Share national approaches and good practices to help members develop capacities and roles in policy-making, including in NDC processes.",
+        "verbatim_text": "- Sharing national approaches and good practices to help Members develop their capacities and roles in policy-making, including in the Nationally Determined Contributions (NDC) processes.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream to strengthen finance ministries’ roles and capacities in climate policy (Helsinki Principle 2), including sharing practices, reviewing governance/competency models, and collaborating with partners.",
+        "section_header": "Finance Ministries' Roles and Capacities in Climate Policy (Helsinki Principle 2)",
+        "sector": "Economy-wide",
+        "extraction_rationale": "Explicit bullet-point deliverable under Principle 2."
+      },
+      {
+        "policy_statement": "Review practices, resources, and competencies across different governance and organizational models for climate policy in finance ministries.",
+        "verbatim_text": "- Reviewing practices, resources, and competencies representing different governance and organizational models.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream to strengthen finance ministries’ roles and capacities in climate policy (Helsinki Principle 2), including sharing practices, reviewing governance/competency models, and collaborating with partners.",
+        "section_header": "Finance Ministries' Roles and Capacities in Climate Policy (Helsinki Principle 2)",
+        "sector": "Economy-wide",
+        "extraction_rationale": "Explicit bullet-point deliverable under Principle 2."
+      },
+      {
+        "policy_statement": "Collaborate with partners to leverage expertise and bridge the gap between finance ministries and climate-action lead institutions.",
+        "verbatim_text": "- Working in collaboration with partners to leverage expertise and bridge the gap between Finance Ministries and those leading on climate action.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream to strengthen finance ministries’ roles and capacities in climate policy (Helsinki Principle 2), including sharing practices, reviewing governance/competency models, and collaborating with partners.",
+        "section_header": "Finance Ministries' Roles and Capacities in Climate Policy (Helsinki Principle 2)",
+        "sector": "Economy-wide",
+        "extraction_rationale": "Explicit bullet-point deliverable under Principle 2."
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "cluster_type": "parent_with_subs",
+    "section_header": "carbon pricing (helsinki principle 3)",
+    "parent": {
+      "policy_statement": "Implement the Santiago Action Plan 2020 workstream on carbon pricing (Helsinki Principle 3), including reviews of experience, technical knowledge development, and toolkits for carbon pricing reforms.",
+      "verbatim_text": "## Carbon Pricing (Helsinki Principle 3)\n\nKey actions and deliverables under Helsinki Principle 3 include:\n\n- Reviewing the current experience and state of play in carbon pricing, identifying key bottlenecks to achieving the necessary levels of carbon pricing, and developing policies that can be widely accepted and implemented.\n- Increasing knowledge on the technical requirements for carbon pricing, including measurement, targeted compensation for vulnerable groups, carbon border adjustments, national and sub-national carbon taxation or charges, and mechanisms for coordinating carbon prices across countries.\n- Developing toolkits that allow Finance Ministries to design and assess, adapted to their country context, the effects of carbon pricing reforms.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Carbon Pricing (Helsinki Principle 3)",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "This is a named workstream with multiple concrete actions and deliverables (review, knowledge development, toolkits)."
+    },
+    "subs": [
+      {
+        "policy_statement": "Review carbon pricing experience/state of play, identify bottlenecks to necessary carbon pricing levels, and develop widely acceptable and implementable policies.",
+        "verbatim_text": "- Reviewing the current experience and state of play in carbon pricing, identifying key bottlenecks to achieving the necessary levels of carbon pricing, and developing policies that can be widely accepted and implemented.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream on carbon pricing (Helsinki Principle 3), including reviews of experience, technical knowledge development, and toolkits for carbon pricing reforms.",
+        "section_header": "Carbon Pricing (Helsinki Principle 3)",
+        "sector": "Cross-sectoral",
+        "extraction_rationale": "Specific listed deliverable/action under the Principle 3 workstream."
+      },
+      {
+        "policy_statement": "Increase knowledge on technical requirements for carbon pricing, including measurement, targeted compensation for vulnerable groups, carbon border adjustments, carbon taxes/charges, and coordination mechanisms across countries.",
+        "verbatim_text": "- Increasing knowledge on the technical requirements for carbon pricing, including measurement, targeted compensation for vulnerable groups, carbon border adjustments, national and sub-national carbon taxation or charges, and mechanisms for coordinating carbon prices across countries.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream on carbon pricing (Helsinki Principle 3), including reviews of experience, technical knowledge development, and toolkits for carbon pricing reforms.",
+        "section_header": "Carbon Pricing (Helsinki Principle 3)",
+        "sector": "Cross-sectoral",
+        "extraction_rationale": "Explicit bullet describing a concrete knowledge-building deliverable."
+      },
+      {
+        "policy_statement": "Develop toolkits for finance ministries to design and assess the effects of carbon pricing reforms adapted to national contexts, considering transition challenges and distributional/competitiveness concerns.",
+        "verbatim_text": "- Developing toolkits that allow Finance Ministries to design and assess, adapted to their country context, the effects of carbon pricing reforms. Considering transition challenges and economic impacts so as to enable a better understanding of the benefits of carbon pricing, and ensuring that policies address political economy, distributional, and competitiveness concerns.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream on carbon pricing (Helsinki Principle 3), including reviews of experience, technical knowledge development, and toolkits for carbon pricing reforms.",
+        "section_header": "Carbon Pricing (Helsinki Principle 3)",
+        "sector": "Cross-sectoral",
+        "extraction_rationale": "Explicit commitment to create toolkits and specifies what they should cover."
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "cluster_type": "parent_with_subs",
+    "section_header": "climate change in macroeconomic management and public finance (helsinki principle 4)",
+    "parent": {
+      "policy_statement": "Implement the Santiago Action Plan 2020 workstream to mainstream climate change in macroeconomic management and public finance (Helsinki Principle 4), including tool development, guides for green budgeting/procurement/investment management, and assessments of policies including NDCs.",
+      "verbatim_text": "## Climate Change in Macroeconomic Management and Public Finance (Helsinki Principle 4)\n\nKey actions and deliverables under Helsinki Principle 4 include:\n\n- Developing tools to address knowledge and expertise gaps in macroeconomic forecasting and fiscal planning for climate change impacts, as well as disaster risk management, among others.\n- Preparing toolkits and guides on whole of government approaches that integrate climate in the policy and budget process, such as green budgeting where appropriate, green procurement and climate-informed public investment management.\n- Supporting macroeconomic and fiscal assessements of adaptation, resilience and mitigation policies, including NDCs.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Climate Change in Macroeconomic Management and Public Finance (Helsinki Principle 4)",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Named Principle 4 workstream with multiple specific deliverables listed."
+    },
+    "subs": [
+      {
+        "policy_statement": "Develop tools to address gaps in macroeconomic forecasting and fiscal planning for climate change impacts, including disaster risk management.",
+        "verbatim_text": "- Developing tools to address knowledge and expertise gaps in macroeconomic forecasting and fiscal planning for climate change impacts, as well as disaster risk management, among others.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream to mainstream climate change in macroeconomic management and public finance (Helsinki Principle 4), including tool development, guides for green budgeting/procurement/investment management, and assessments of policies including NDCs.",
+        "section_header": "Climate Change in Macroeconomic Management and Public Finance (Helsinki Principle 4)",
+        "sector": "Economy-wide",
+        "extraction_rationale": "Explicit bullet-point deliverable under Principle 4."
+      },
+      {
+        "policy_statement": "Prepare toolkits and guides on whole-of-government approaches to integrate climate into policy and budget processes, including green budgeting (where appropriate), green procurement, and climate-informed public investment management.",
+        "verbatim_text": "- Preparing toolkits and guides on whole of government approaches that integrate climate in the policy and budget process, such as green budgeting where appropriate, green procurement and climate-informed public investment management.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream to mainstream climate change in macroeconomic management and public finance (Helsinki Principle 4), including tool development, guides for green budgeting/procurement/investment management, and assessments of policies including NDCs.",
+        "section_header": "Climate Change in Macroeconomic Management and Public Finance (Helsinki Principle 4)",
+        "sector": "Economy-wide",
+        "extraction_rationale": "Concrete planned guidance/toolkit outputs under Principle 4."
+      },
+      {
+        "policy_statement": "Support macroeconomic and fiscal assessments of adaptation, resilience, and mitigation policies, including NDCs.",
+        "verbatim_text": "- Supporting macroeconomic and fiscal assessements of adaptation, resilience and mitigation policies, including NDCs.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream to mainstream climate change in macroeconomic management and public finance (Helsinki Principle 4), including tool development, guides for green budgeting/procurement/investment management, and assessments of policies including NDCs.",
+        "section_header": "Climate Change in Macroeconomic Management and Public Finance (Helsinki Principle 4)",
+        "sector": "Economy-wide",
+        "extraction_rationale": "Explicit action/deliverable under Principle 4."
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "cluster_type": "parent_with_subs",
+    "section_header": "financial sector development that underpins mitigation and adaptation (helsinki principle 5)",
+    "parent": {
+      "policy_statement": "Implement the Santiago Action Plan 2020 workstream on financial sector development supporting mitigation and adaptation (Helsinki Principle 5), including national greening-finance roadmaps, alignment with NDCs, green bonds, risk incorporation, and measures to lower cost of capital.",
+      "verbatim_text": "## Financial Sector Development that Underpins Mitigation and Adaptation (Helsinki Principle 5)\n\nMindful of the different stages of financial market development and positions of Members, key actions and deliverables under Helsinki Principle 5 include:\n\n- Supporting the preparation of national financial strategies / roadmaps for greening finance.\n- Exploring approaches to encourage financial institutions to align their practices with the NDCs and the goals of the Paris agreement.\n- Sharing experience on the issuance of green bonds and use of other financial instruments.\n- Identifying strategies to incorporate climate risks and opportunities into investment decisions, such as supporting global efforts for transparency and disclosure of climate-related financial risks and impacts, identifying risks to financial stability posed by climate change, and considering ways to manage these risks.\n- Identifying measures to address the issue of high cost of capital for adaptation and mitigation investments in developing countries.\n- Supporting the efforts of multilateral development banks in mobilizing climate finance, and accelerating the dissemination of international best practices.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Financial Sector Development that Underpins Mitigation and Adaptation (Helsinki Principle 5)",
+      "sector": "Finance",
+      "extraction_rationale": "Named Principle 5 workstream with multiple specific actions/deliverables, forming a parent policy."
+    },
+    "subs": [
+      {
+        "policy_statement": "Support preparation of national financial strategies/roadmaps for greening finance.",
+        "verbatim_text": "- Supporting the preparation of national financial strategies / roadmaps for greening finance.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream on financial sector development supporting mitigation and adaptation (Helsinki Principle 5), including national greening-finance roadmaps, alignment with NDCs, green bonds, risk incorporation, and measures to lower cost of capital.",
+        "section_header": "Financial Sector Development that Underpins Mitigation and Adaptation (Helsinki Principle 5)",
+        "sector": "Finance",
+        "extraction_rationale": "Explicit deliverable under Principle 5."
+      },
+      {
+        "policy_statement": "Explore approaches to encourage financial institutions to align practices with NDCs and the goals of the Paris Agreement.",
+        "verbatim_text": "- Exploring approaches to encourage financial institutions to align their practices with the NDCs and the goals of the Paris agreement.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream on financial sector development supporting mitigation and adaptation (Helsinki Principle 5), including national greening-finance roadmaps, alignment with NDCs, green bonds, risk incorporation, and measures to lower cost of capital.",
+        "section_header": "Financial Sector Development that Underpins Mitigation and Adaptation (Helsinki Principle 5)",
+        "sector": "Finance",
+        "extraction_rationale": "Explicit bullet-point action under Principle 5."
+      },
+      {
+        "policy_statement": "Share experience on issuance of green bonds and use of other financial instruments.",
+        "verbatim_text": "- Sharing experience on the issuance of green bonds and use of other financial instruments.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream on financial sector development supporting mitigation and adaptation (Helsinki Principle 5), including national greening-finance roadmaps, alignment with NDCs, green bonds, risk incorporation, and measures to lower cost of capital.",
+        "section_header": "Financial Sector Development that Underpins Mitigation and Adaptation (Helsinki Principle 5)",
+        "sector": "Finance",
+        "extraction_rationale": "Explicit bullet-point deliverable under Principle 5."
+      },
+      {
+        "policy_statement": "Identify strategies to incorporate climate risks and opportunities into investment decisions, including transparency/disclosure of climate-related financial risks and impacts, assessing financial stability risks, and ways to manage these risks.",
+        "verbatim_text": "- Identifying strategies to incorporate climate risks and opportunities into investment decisions, such as supporting global efforts for transparency and disclosure of climate-related financial risks and impacts, identifying risks to financial stability posed by climate change, and considering ways to manage these risks.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream on financial sector development supporting mitigation and adaptation (Helsinki Principle 5), including national greening-finance roadmaps, alignment with NDCs, green bonds, risk incorporation, and measures to lower cost of capital.",
+        "section_header": "Financial Sector Development that Underpins Mitigation and Adaptation (Helsinki Principle 5)",
+        "sector": "Finance",
+        "extraction_rationale": "Explicit action under Principle 5 describing intended risk-management and disclosure strategy work."
+      },
+      {
+        "policy_statement": "Identify measures to address high cost of capital for adaptation and mitigation investments in developing countries.",
+        "verbatim_text": "- Identifying measures to address the issue of high cost of capital for adaptation and mitigation investments in developing countries.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream on financial sector development supporting mitigation and adaptation (Helsinki Principle 5), including national greening-finance roadmaps, alignment with NDCs, green bonds, risk incorporation, and measures to lower cost of capital.",
+        "section_header": "Financial Sector Development that Underpins Mitigation and Adaptation (Helsinki Principle 5)",
+        "sector": "Finance",
+        "extraction_rationale": "Explicit bullet-point commitment under Principle 5."
+      },
+      {
+        "policy_statement": "Support multilateral development banks’ efforts to mobilize climate finance and accelerate dissemination of international best practices.",
+        "verbatim_text": "- Supporting the efforts of multilateral development banks in mobilizing climate finance, and accelerating the dissemination of international best practices.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream on financial sector development supporting mitigation and adaptation (Helsinki Principle 5), including national greening-finance roadmaps, alignment with NDCs, green bonds, risk incorporation, and measures to lower cost of capital.",
+        "section_header": "Financial Sector Development that Underpins Mitigation and Adaptation (Helsinki Principle 5)",
+        "sector": "Finance",
+        "extraction_rationale": "Explicit deliverable under Principle 5."
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "cluster_type": "parent_with_subs",
+    "section_header": "preparation and implementation of the ndcs (helsinki principle 6)",
+    "parent": {
+      "policy_statement": "Implement the Santiago Action Plan 2020 workstream on preparation and implementation of NDCs (Helsinki Principle 6) to improve members’ ability to evaluate macro-fiscal impacts and guide NDC development processes.",
+      "verbatim_text": "## Preparation and Implementation of the NDCs (Helsinki Principle 6)\n\nThe efforts under Helsinki Principle 6 build on the work programs of all other Helsinki Principles, and aim to help Members improve their ability to evaluate the macro-fiscal impacts of NDCs and long-term climate strategies, and provide effective guidance to the NDC development process. Key actions under Helsinki Principle 6 include:\n\n- Identifying a list of economic-fiscal guidelines and requirements that Finance Ministries could issue to sector ministries and agencies for the NDC development process in future, as well as increasing the awareness of tools, resources, and support available to assess the macro-fiscal impacts of NDC and Long Term Strategy implementation.\n- Providing opportunities for peer exchange informed by related institutions on good practices and instruments that Members can use to support other Ministries in the NDC implementation and validation process.\n- Facilitating access to networks for information, resource sharing, and visibility of success stories.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Preparation and Implementation of the NDCs (Helsinki Principle 6)",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Named Principle 6 workstream with multiple listed actions, forming an umbrella/parent policy."
+    },
+    "subs": [
+      {
+        "policy_statement": "Identify economic-fiscal guidelines and requirements that finance ministries could issue to sector ministries/agencies for future NDC development, and increase awareness of tools/resources to assess macro-fiscal impacts of NDC and long-term strategy implementation.",
+        "verbatim_text": "- Identifying a list of economic-fiscal guidelines and requirements that Finance Ministries could issue to sector ministries and agencies for the NDC development process in future, as well as increasing the awareness of tools, resources, and support available to assess the macro-fiscal impacts of NDC and Long Term Strategy implementation.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream on preparation and implementation of NDCs (Helsinki Principle 6) to improve members’ ability to evaluate macro-fiscal impacts and guide NDC development processes.",
+        "section_header": "Preparation and Implementation of the NDCs (Helsinki Principle 6)",
+        "sector": "Economy-wide",
+        "extraction_rationale": "Explicit action item under Principle 6 describing a concrete output (guidelines list) and an awareness-raising activity."
+      },
+      {
+        "policy_statement": "Provide opportunities for peer exchange on good practices and instruments to support other ministries in NDC implementation and validation.",
+        "verbatim_text": "- Providing opportunities for peer exchange informed by related institutions on good practices and instruments that Members can use to support other Ministries in the NDC implementation and validation process.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream on preparation and implementation of NDCs (Helsinki Principle 6) to improve members’ ability to evaluate macro-fiscal impacts and guide NDC development processes.",
+        "section_header": "Preparation and Implementation of the NDCs (Helsinki Principle 6)",
+        "sector": "Economy-wide",
+        "extraction_rationale": "Explicit listed action under Principle 6."
+      },
+      {
+        "policy_statement": "Facilitate access to networks for information and resource sharing and visibility of success stories related to NDCs.",
+        "verbatim_text": "- Facilitating access to networks for information, resource sharing, and visibility of success stories.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement the Santiago Action Plan 2020 workstream on preparation and implementation of NDCs (Helsinki Principle 6) to improve members’ ability to evaluate macro-fiscal impacts and guide NDC development processes.",
+        "section_header": "Preparation and Implementation of the NDCs (Helsinki Principle 6)",
+        "sector": "Economy-wide",
+        "extraction_rationale": "Explicit listed action under Principle 6."
+      }
+    ]
+  }
+]

@@ -1,0 +1,389 @@
+[
+  {
+    "policy_statement": "Saudi Arabia aims to reduce, avoid, and remove greenhouse gas emissions by 278 million tons of CO2e annually by 2030, using 2019 as the base year.",
+    "verbatim_text": "The Kingdom will implement actions, projects, and plans outlined in this submission that aim at reducing, avoiding, and removing GHG emissions by 278 million tons of CO2eq annually by 2030, with the year 2019 designated as the base year for this NDC.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "EXECUTIVE SUMMARY",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Contains a quantified mitigation target (278 MtCO2e annually) with a deadline (2030) and a specified base year (2019)."
+  },
+  {
+    "policy_statement": "Saudi Energy Efficiency Program will target industry, buildings, and land transportation (about 90% of national energy demand) and includes progressively stringent efficiency standards across these sectors.",
+    "verbatim_text": "The Saudi Energy Efficiency Center runs an Energy Efficiency Program targeting three main sectors that account for 90% of the national energy demand: industry, building and land transportation. Its initiatives include progressively stringent efficiency standards in all three sectors.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.1 ENERGY EFFICIENCY",
+    "sector": "Energy efficiency",
+    "extraction_rationale": "Named program with defined scope (three sectors) and an explicit policy mechanism (progressively stringent efficiency standards), and it introduces multiple initiatives listed immediately after."
+  },
+  {
+    "policy_statement": "Implement initiatives to improve energy efficiency of home appliances and air conditioning units.",
+    "verbatim_text": "Numerous initiatives will be implemented to improve and raise the efficiency of energy consumption in the targeted sectors including improving the efficiency of home appliances and air conditioning units...",
+    "policy_type": "sub",
+    "parent_policy_name": "Saudi Energy Efficiency Program will target industry, buildings, and land transportation (about 90% of national energy demand) and includes progressively stringent efficiency standards across these sectors.",
+    "section_header": "4.1 ENERGY EFFICIENCY",
+    "sector": "Energy efficiency",
+    "extraction_rationale": "Specific intervention listed as part of the Energy Efficiency Program initiatives."
+  },
+  {
+    "policy_statement": "Improve efficiency of feedstock utilization in key strategic sectors such as petrochemicals.",
+    "verbatim_text": "Numerous initiatives will be implemented to improve and raise the efficiency of energy consumption in the targeted sectors including... improving the efficiency of feedstock utilization in key strategic sectors such as petrochemicals...",
+    "policy_type": "sub",
+    "parent_policy_name": "Saudi Energy Efficiency Program will target industry, buildings, and land transportation (about 90% of national energy demand) and includes progressively stringent efficiency standards across these sectors.",
+    "section_header": "4.1 ENERGY EFFICIENCY",
+    "sector": "Industry",
+    "extraction_rationale": "Specific efficiency measure explicitly included in the list of initiatives under the Energy Efficiency Program."
+  },
+  {
+    "policy_statement": "Improve transportation fleet fuel economy and phase out inefficient used light-duty vehicles.",
+    "verbatim_text": "Numerous initiatives will be implemented to improve and raise the efficiency of energy consumption in the targeted sectors including... improving transportation fleet fuel economy, phasing out inefficient used light-duty vehicles...",
+    "policy_type": "sub",
+    "parent_policy_name": "Saudi Energy Efficiency Program will target industry, buildings, and land transportation (about 90% of national energy demand) and includes progressively stringent efficiency standards across these sectors.",
+    "section_header": "4.1 ENERGY EFFICIENCY",
+    "sector": "Transport",
+    "extraction_rationale": "Concrete transport policy actions (fuel economy improvements; phasing out inefficient vehicles) listed under the program."
+  },
+  {
+    "policy_statement": "Implement aerodynamic regulation for heavy-duty vehicles.",
+    "verbatim_text": "Numerous initiatives will be implemented to improve and raise the efficiency of energy consumption in the targeted sectors including... implementing aerodynamic regulation for heavyduty vehicles...",
+    "policy_type": "sub",
+    "parent_policy_name": "Saudi Energy Efficiency Program will target industry, buildings, and land transportation (about 90% of national energy demand) and includes progressively stringent efficiency standards across these sectors.",
+    "section_header": "4.1 ENERGY EFFICIENCY",
+    "sector": "Transport",
+    "extraction_rationale": "Regulatory intervention explicitly stated as an initiative."
+  },
+  {
+    "policy_statement": "Improve the thermal efficiency of power generation, transmission, and distribution.",
+    "verbatim_text": "Numerous initiatives will be implemented to improve and raise the efficiency of energy consumption in the targeted sectors including... improving the thermal efficiency of power generation, transmission, and distribution.",
+    "policy_type": "sub",
+    "parent_policy_name": "Saudi Energy Efficiency Program will target industry, buildings, and land transportation (about 90% of national energy demand) and includes progressively stringent efficiency standards across these sectors.",
+    "section_header": "4.1 ENERGY EFFICIENCY",
+    "sector": "Power",
+    "extraction_rationale": "Specific power-sector efficiency intervention listed under the program."
+  },
+  {
+    "policy_statement": "National Energy Services Company (Tarshid) will incentivize energy efficiency in government buildings and private sector investment in energy efficiency services, and plans to retrofit the entire pool of public and governmental assets and facilities (including street lights, government buildings, schools, mosques, and hospitals/clinics).",
+    "verbatim_text": "The National Energy Services Company (Tarshid) was established to incentivize energy efficiency in government buildings and private sector investment in energy efficiency services. It plans to retrofit the entire pool of public and  governmental  assets  and  facilities  which  include  2  million  street  lights,  110,000  government  buildings, 35,000 public schools, 100,000 mosques, 2,500 hospitals and clinics.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.1 ENERGY EFFICIENCY",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific planned action (retrofit plan) with quantified scope across asset categories."
+  },
+  {
+    "policy_statement": "Saudi Arabia aims to reach around 50% renewable energy in the electricity energy mix by 2030.",
+    "verbatim_text": "Thus, the renewable energy ambition aims to reach around 50% of the energy mix by 2030.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 RENEWABLE ENERGY",
+    "sector": "Power",
+    "extraction_rationale": "Quantified target with deadline for renewable energy share."
+  },
+  {
+    "policy_statement": "Through the National Renewable Energy Program, Saudi Arabia will implement reforms, regulations, and policies to stimulate private-sector investment, R&D, and employment in renewables, diversify local energy sources, and build a local renewable energy supply chain and industry including localization of a significant portion of the value chain.",
+    "verbatim_text": "Through the National Renewable Energy Program, the Kingdom will implement a set of comprehensive reforms,  regulations  and  policies  to  stimulate  private  sector  investment,  research  and  development, employment  in  renewables. The program  sets  out  a  roadmap  to  diversify  local  energy  sources,  stimulate economic development and establish the local renewable energy supply chain and industry. The Kingdom will seek  to  localize  a  significant  portion  of  the  renewable  energy  value  chain  in  the  Saudi  economy,  including research & development and manufacturing.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.2 RENEWABLE ENERGY",
+    "sector": "Energy",
+    "extraction_rationale": "Named program that frames multiple policy mechanisms (reforms/regulations/policies) and implementation goals (localization, supply chain)."
+  },
+  {
+    "policy_statement": "Deploy renewable energy technologies including solar PV, concentrated solar power, wind, geothermal energy, waste-to-energy, and green hydrogen.",
+    "verbatim_text": "Specific  technologies for deployment  include  solar PV, concentrated solar power, wind, geothermal energy, waste to energy and green hydrogen.",
+    "policy_type": "sub",
+    "parent_policy_name": "Through the National Renewable Energy Program, Saudi Arabia will implement reforms, regulations, and policies to stimulate private-sector investment, R&D, and employment in renewables, diversify local energy sources, and build a local renewable energy supply chain and industry including localization of a significant portion of the value chain.",
+    "section_header": "4.2 RENEWABLE ENERGY",
+    "sector": "Energy",
+    "extraction_rationale": "Specific technology deployment list under the National Renewable Energy Program."
+  },
+  {
+    "policy_statement": "NEOM will build one of the world’s largest green hydrogen facilities powered by over 4 GW of renewable energy; once onstream by 2025 it is expected to produce 650 tons/day of green hydrogen and 1.2 million tons/year of green ammonia.",
+    "verbatim_text": "The Kingdom's flagship giga -project, NEOM, will be building one of the world's largest green hydrogen facilities. The plant will be powered by over four gigawatts of renewable energy from solar and wind. Once onstream by 2025, it is expected to produce 650 tons per day of green hydrogen by electrolysis and 1.2 million tons per year of green ammonia.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2 RENEWABLE ENERGY",
+    "sector": "Hydrogen",
+    "extraction_rationale": "Concrete project commitment with capacity and production targets and a timeline (by 2025)."
+  },
+  {
+    "policy_statement": "Saudi Arabia plans to build on CCUS experience, including CO2-EOR and a carbon capture and utilization plant, as part of the National Circular Carbon Economy Program.",
+    "verbatim_text": "The Kingdom is planning to build upon its experience in the CO2 Enhanced Oil Recovery (EOR) project and its world's largest carbon capture and utilization plant as part of the National Circular Carbon Economy Program.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.3 CARBON CAPTURE UTILIZATION & STORAGE",
+    "sector": "CCUS",
+    "extraction_rationale": "Explicit plan tied to a named national program and specific CCUS activities."
+  },
+  {
+    "policy_statement": "Saudi Arabia plans to transform Jubail and Yanbu into global hubs for carbon capture, utilization, and storage (CCUS).",
+    "verbatim_text": "CCUS Hubs: To advance the uptake of CCUS technologies and scale up its deployment, the Kingdom plans to transform Jubail and Yanbu into global hubs for carbon capture, utilization and storage.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.3 CARBON CAPTURE UTILIZATION & STORAGE",
+    "sector": "CCUS",
+    "extraction_rationale": "Specific planned intervention (development of CCUS hubs) with named locations."
+  },
+  {
+    "policy_statement": "Saudi Arabia is developing a National Hydrogen Strategy to chart pathways to become a global leader in the hydrogen industry, prioritizing pilots, research, and demonstrations to mature and lower costs of blue hydrogen-related applications in aviation, shipping, petrochemicals, and steel.",
+    "verbatim_text": "The Kingdom is developing a National Hydrogen Strategy to chart pathways to become a global leader in the hydrogen industry. Pilots, research and demonstrations will be prioritized to improve technology maturity and lower costs in the aviation, shipping, petrochemicals, and steel industries.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.3 CARBON CAPTURE UTILIZATION & STORAGE",
+    "sector": "Hydrogen",
+    "extraction_rationale": "Named strategy under development with explicit implementation priorities (pilots/R&D/demonstrations) and target sectors."
+  },
+  {
+    "policy_statement": "As part of domestic energy sector reforms, Saudi Arabia aims to increase the utilization of natural gas in its energy mix, with up to 50% of electricity generation expected to be met by natural gas by 2030.",
+    "verbatim_text": "As part of reforms of its domestic energy sector, the Kingdom aims to increase the utilization of natural gas in its energy mix. By 2030, the Kingdom aims that up to 50% of its electricity generation is expected to be met by natural gas significantly lowering the carbon intensity of domestic energy generation.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.4 UTILIZATION OF GAS",
+    "sector": "Power",
+    "extraction_rationale": "Quantified target with timeline for fuel switching in electricity generation."
+  },
+  {
+    "policy_statement": "Methane management measures in the energy sector include zero flaring in the oil and gas industry and methane recovery and utilization for power generation and petrochemicals production.",
+    "verbatim_text": "The  methane management measures include zero flaring in the oil and gas industry, recovery and subsequent utilization for power generation and petrochemicals production.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.5 METHANE MANAGEMENT",
+    "sector": "Oil and gas",
+    "extraction_rationale": "Specific mitigation measures (zero flaring; recovery and utilization) explicitly described."
+  },
+  {
+    "policy_statement": "As a member of the Global Methane Pledge initiative, Saudi Arabia will collaborate with other members to reduce global methane emissions by 30% by 2030 relative to 2020 levels.",
+    "verbatim_text": "The Kingdom as a member of the Global Methane Pledge initiative will collaborate with other members to reduce global methane emissions by 30% by 2030 relative to 2020 levels.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.5 METHANE MANAGEMENT",
+    "sector": "Methane",
+    "extraction_rationale": "Quantified target with deadline and reference year, plus stated collaboration action."
+  },
+  {
+    "policy_statement": "Implement adaptation actions related to water and wastewater management to reduce exposure and vulnerability, including the listed steps (a–g) to reduce emissions/energy use and improve water efficiency.",
+    "verbatim_text": "The Kingdom is taking a number of steps in deploying desalination technologies to minimize the GHG emissions in the form of co-benefits from this sector leading to saving of energy from this sector. These steps include:",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "5.1.1 Water and wastewater management",
+    "sector": "Water",
+    "extraction_rationale": "Introduces a structured set of concrete steps (a–g) under a named subsection; suitable as a parent for sub-policies."
+  },
+  {
+    "policy_statement": "Gradually replace conventional MSF and MED desalination with lower-energy reverse osmosis (RO) technology to reduce energy consumption in desalination.",
+    "verbatim_text": "- a. Reverse Osmosis (RO) technology: The Kingdom is gradually replacing the conventional energyintensive multi-stage flash (MSF) and multiple effect distillation (MED) technologies by lower energy consuming RO technology, reducing the energy consumption in this sector. RO is approximately 30% less energy-intensive than the conventional MSF and MED technologies.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement adaptation actions related to water and wastewater management to reduce exposure and vulnerability, including the listed steps (a–g) to reduce emissions/energy use and improve water efficiency.",
+    "section_header": "5.1.1 Water and wastewater management",
+    "sector": "Water",
+    "extraction_rationale": "Specific intervention with comparative performance detail (RO ~30% less energy-intensive)."
+  },
+  {
+    "policy_statement": "Use renewable energy (solar, wind, green hydrogen) for seawater desalination in NEOM to meet potable water needs.",
+    "verbatim_text": "- b. Renewable Energy for Seawater Desalination: NEOM city will be using renewable energy resources such as solar, wind and green hydrogen for the seawater desalination for their potable water needs.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement adaptation actions related to water and wastewater management to reduce exposure and vulnerability, including the listed steps (a–g) to reduce emissions/energy use and improve water efficiency.",
+    "section_header": "5.1.1 Water and wastewater management",
+    "sector": "Water",
+    "extraction_rationale": "Specific commitment for NEOM desalination energy source."
+  },
+  {
+    "policy_statement": "Replace old potable water distribution networks with new networks to minimize leakages and avoid increased desalination capacity needs.",
+    "verbatim_text": "- c. Minimizing Leaks in the Potable Water Distribution System: Old water distribution network will be replaced with a new water distribution network to minimize the leakages in order to save desalinated potable water avoiding increasing the production capacity of the existing plants or avoiding the need for new desalination plants.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement adaptation actions related to water and wastewater management to reduce exposure and vulnerability, including the listed steps (a–g) to reduce emissions/energy use and improve water efficiency.",
+    "section_header": "5.1.1 Water and wastewater management",
+    "sector": "Water",
+    "extraction_rationale": "Concrete infrastructure replacement action with stated purpose."
+  },
+  {
+    "policy_statement": "Expand wastewater collection, treatment, and reuse to reduce the need for desalinated potable water for city greening and groundwater for agriculture.",
+    "verbatim_text": "- d. Increasing the use of treated wastewater: The Kingdom is working on expanding the wastewater collection, treatment and reuse to augment the need for potable and groundwater in city greening\n\nand in agriculture. This will help reducing the need for potable water (desalinated water) for city greening and groundwater for agriculture.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement adaptation actions related to water and wastewater management to reduce exposure and vulnerability, including the listed steps (a–g) to reduce emissions/energy use and improve water efficiency.",
+    "section_header": "5.1.1 Water and wastewater management",
+    "sector": "Water",
+    "extraction_rationale": "Specific expansion commitment in wastewater sector."
+  },
+  {
+    "policy_statement": "Encourage rainwater harvesting to augment potable and irrigation water needs.",
+    "verbatim_text": "- e. Rain Water Harvesting: Encouraging rainwater harvesting to augment the need for potable and irrigation water.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement adaptation actions related to water and wastewater management to reduce exposure and vulnerability, including the listed steps (a–g) to reduce emissions/energy use and improve water efficiency.",
+    "section_header": "5.1.1 Water and wastewater management",
+    "sector": "Water",
+    "extraction_rationale": "Specific policy action (encouraging rainwater harvesting)."
+  },
+  {
+    "policy_statement": "Increase storage of surface water runoff by constructing new dams.",
+    "verbatim_text": "- f. Storage of Surface Water Runoff: Increasing the storage of surface water runoff through constructing new dams in the country.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement adaptation actions related to water and wastewater management to reduce exposure and vulnerability, including the listed steps (a–g) to reduce emissions/energy use and improve water efficiency.",
+    "section_header": "5.1.1 Water and wastewater management",
+    "sector": "Water",
+    "extraction_rationale": "Concrete infrastructure commitment (constructing new dams)."
+  },
+  {
+    "policy_statement": "Employ new irrigation techniques (including drip, sprinkler, subsurface irrigation) to save groundwater used for agriculture.",
+    "verbatim_text": "- g. New Irrigation Techniques: Employing new irrigation techniques such as surface irrigation, drip irrigation, sprinkler irrigation, subsurface irrigation, and other techniques will minimize the use of and save a substantial amount of precious groundwater used for agriculture.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement adaptation actions related to water and wastewater management to reduce exposure and vulnerability, including the listed steps (a–g) to reduce emissions/energy use and improve water efficiency.",
+    "section_header": "5.1.1 Water and wastewater management",
+    "sector": "Agriculture",
+    "extraction_rationale": "Specific technology/practice change with clear intended resource-saving outcome."
+  },
+  {
+    "policy_statement": "Saudi Arabia will implement coastal management strategies to reduce coastal erosion, increase blue carbon sinks, maintain ecosystems, and address climate threats to marine livelihoods; including mangrove planting and coral reef restoration efforts.",
+    "verbatim_text": "The  Kingdom  will  implement  coastal  management  strategies  that  are  designed  to  reduce  coastal  erosion, increase the sinks for blue carbon, maintain related ecosystems and address the threats that climate change poses for marine livelihoods. The Kingdom supports the planting of mangrove seedlings along its coasts. In addition,  the  Kingdom  strengthens  and  enhances  the  coral  reef  restoration  program  throughout  the northwestern Arabian Gulf.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.2 Marine Protection",
+    "sector": "Coastal",
+    "extraction_rationale": "Clear implementation commitment ('will implement') with specific measures (mangroves; coral reef restoration)."
+  },
+  {
+    "policy_statement": "Undertake tree planting and land rehabilitation over this decade as part of the Saudi Green Initiative, using recycled water from an irrigation network.",
+    "verbatim_text": "Tree planting and rehabilitating hectares of land over this decade as part of the Saudi Green Initiative. Recycled water from an irrigation network will be used for this purpose.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.3 Reduced desertification / Tree Planting",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific intervention (tree planting/land rehabilitation) linked to a named initiative and an implementation detail (use of recycled water)."
+  },
+  {
+    "policy_statement": "Develop mass transport systems in urban areas (metro and bus networks) in Riyadh, Jeddah, and Dammam, and expand the Saudi Railway network to connect major cities and ports to reduce traffic and GHG emissions.",
+    "verbatim_text": "The Kingdom is taking actions to develop mass transport systems in urban areas such as the development of the metro  and  bus  network  in  Riyadh,  Jeddah  and  Dammam... In addition, Saudi Railway network will be expanded to connect major cities and\n\nports  which  will  result  in  reductions  in  traffic  and  GHG  emissions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.4 Urban Planning",
+    "sector": "Transport",
+    "extraction_rationale": "Concrete infrastructure actions (mass transit development; rail expansion) with mitigation co-benefits stated."
+  },
+  {
+    "policy_statement": "NEOM will develop a new urban sustainability model powered by 100% renewable energy; the LINE aims for zero cars, zero streets, zero carbon emissions and to be powered by 100% renewable energy and green hydrogen.",
+    "verbatim_text": "As an example, NEOM introduces a new model for urban sustainability powered by 100% renewable  energy... The project will develop the LINE... that aims to preserve 95% of nature within NEOM, with zero cars, zero streets, zero carbon emissions and to be powered by 100% renewable energy and green hydrogen.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.4 Urban Planning",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific project commitments including explicit targets/constraints (100% renewable energy; zero carbon emissions)."
+  },
+  {
+    "policy_statement": "Develop and implement Integrated Coastal Zone Management Planning (ICZM) plans to protect coastal infrastructure.",
+    "verbatim_text": "Integrated Coastal Zone Management Planning (ICZM): Take the necessary action to develop and implement ICZM plans that would take into account the protection of coastal infrastructures such as roads, residential areas, industrial complexes, desalination plants, seaports, etc.;",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.2 ADAPTATION UNDERTAKINGS",
+    "sector": "Coastal",
+    "extraction_rationale": "Explicit commitment to develop and implement ICZM plans."
+  },
+  {
+    "policy_statement": "Develop and operationalize Early Warning Systems (EWS) to reduce vulnerability to extreme weather events (rainstorms, floods, dust storms) by increasing infrastructure resilience.",
+    "verbatim_text": "Early Warning Systems (EWS): Develop and operationalize EWS that would reduce vulnerability due to extreme weather events such as rainstorms, floods and dust storms by increasing resilience of infrastructure;",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.2 ADAPTATION UNDERTAKINGS",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Concrete adaptation system action ('develop and operationalize') with specified hazards."
+  },
+  {
+    "policy_statement": "Saudi National Water Strategy 2030 aims to reform the water and wastewater sector and ensure sustainable development of water resources while providing affordable high-quality services, including strategic programs and initiatives such as laws and regulations, management, innovation, capacity building, and service quality.",
+    "verbatim_text": "The Saudi National Water Strategy 2030 aims to work towards addressing all the key challenges, leveraging previous and on-going studies, and reform the water and wastewater sector to ensure sustainable development of water resources while providing  affordable  high-quality  services.  Strategic  programs  and  initiatives  include  laws  and  regulations, management, innovation and capacity building, and service quality.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.2 ADAPTATION UNDERTAKINGS",
+    "sector": "Water",
+    "extraction_rationale": "Named strategy with explicit aims and identified program components (laws/regulations, management, etc.)."
+  },
+  {
+    "policy_statement": "Put in place policies to make cities and infrastructure more sustainable, including improving building efficiency and resilience to heatwaves.",
+    "verbatim_text": "Infrastructure and Cities Designs: Put in place the necessary policies to make cities and infrastructure more sustainable. Improving the cities design by increasing the efficiency of buildings by making them more resilient to heatwaves.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.2 ADAPTATION UNDERTAKINGS",
+    "sector": "Buildings",
+    "extraction_rationale": "Explicit commitment to put in place policies with specified action focus (building efficiency and heat resilience)."
+  },
+  {
+    "policy_statement": "Saudi Arabia will use initiatives and national programs, finance, technology, Article 6 voluntary cooperation mechanisms, and capacity building as key means to implement the NDC ambitions.",
+    "verbatim_text": "To deliver the ambitions set out in this NDC, the Kingdom will use the following key means of implementation: initiatives  and  national  programs;  finance;  technology;  voluntary  cooperation,  approaches  and  mechanism under Article 6 of the Paris Agreement; and capacity building.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "8. MEANS OF IMPLEMENTATION",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Stated implementation commitment specifying mechanisms/tools the government will use."
+  },
+  {
+    "policy_statement": "Saudi Green Initiative (launched 2021) will draw on expertise and resources of multiple Saudi government entities and private sector partners to contribute to achieving Saudi Arabia’s climate ambitions and improve quality of life and protect future generations.",
+    "verbatim_text": "Launched  in  2021,  the  Saudi  Green  Initiative  contributes  towards  achieving  the  climate  ambitions  of  the Kingdom of Saudi Arabia... To support its ambitions, the initiative will draw on the expertise and resources of multiple Saudi government entities and private sector partners.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "8.1.1 Saudi Green Initiative",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Named national initiative with an explicit contribution to climate ambitions and a stated implementation approach (mobilizing entities/partners)."
+  },
+  {
+    "policy_statement": "Saudi Arabia will apply the Circular Carbon Economy (CCE) approach based on the 4Rs (reduce, reuse, recycle, remove) to manage GHG emissions.",
+    "verbatim_text": "The Circular Carbon Economy (CCE) approach consist of the ' 4Rs ' model of reduce, reuse, recycle, and remove to manage GHG emissions:",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "8.1.2 Circular Carbon Economy Approach",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Defines a named overarching approach with four distinct levers listed underneath, making it a parent policy for sub-items."
+  },
+  {
+    "policy_statement": "Reduce emissions through sustainable consumption, enhanced efficiencies (including fuel efficiencies), cleaner energy systems, electrification and renewables, and improved energy and process efficiencies (CCE 'Reduce').",
+    "verbatim_text": "- Reduce:  reduce  emissions  through  sustainable  consumption,  enhanced  efficiencies,  including  fuel efficiencies, cleaner energy systems, electrification and renewables, and improving energy and process efficiencies",
+    "policy_type": "sub",
+    "parent_policy_name": "Saudi Arabia will apply the Circular Carbon Economy (CCE) approach based on the 4Rs (reduce, reuse, recycle, remove) to manage GHG emissions.",
+    "section_header": "8.1.2 Circular Carbon Economy Approach",
+    "sector": "Economy-wide",
+    "extraction_rationale": "One of the explicit 4R levers under the CCE approach."
+  },
+  {
+    "policy_statement": "Reuse emissions without changing their chemistry (CCE 'Reuse').",
+    "verbatim_text": "- Reuse: reusing emissions without changing its chemistry",
+    "policy_type": "sub",
+    "parent_policy_name": "Saudi Arabia will apply the Circular Carbon Economy (CCE) approach based on the 4Rs (reduce, reuse, recycle, remove) to manage GHG emissions.",
+    "section_header": "8.1.2 Circular Carbon Economy Approach",
+    "sector": "CCUS",
+    "extraction_rationale": "Explicit 4R lever describing a specific emissions management pathway."
+  },
+  {
+    "policy_statement": "Recycle emissions or products containing GHGs into similar or different products with different chemical characteristics (CCE 'Recycle').",
+    "verbatim_text": "- Recycle:  recycling  emissions  or  products  containing  GHGs  into  similar  or  different  products  with different chemical characteristics",
+    "policy_type": "sub",
+    "parent_policy_name": "Saudi Arabia will apply the Circular Carbon Economy (CCE) approach based on the 4Rs (reduce, reuse, recycle, remove) to manage GHG emissions.",
+    "section_header": "8.1.2 Circular Carbon Economy Approach",
+    "sector": "Industry",
+    "extraction_rationale": "Explicit 4R lever with concrete description of action."
+  },
+  {
+    "policy_statement": "Remove emissions from the system partially or fully (including storage) (CCE 'Remove').",
+    "verbatim_text": "- Remove: removing emissions from the system, partially (if it will be reused or recycled) or fully (storage)",
+    "policy_type": "sub",
+    "parent_policy_name": "Saudi Arabia will apply the Circular Carbon Economy (CCE) approach based on the 4Rs (reduce, reuse, recycle, remove) to manage GHG emissions.",
+    "section_header": "8.1.2 Circular Carbon Economy Approach",
+    "sector": "CCUS",
+    "extraction_rationale": "Explicit 4R lever that includes storage, indicating removal actions."
+  },
+  {
+    "policy_statement": "Saudi Arabia reaffirms support for completing the rules required to operationalize Paris Agreement Article 6 mechanisms and approaches.",
+    "verbatim_text": "Therefore, the Kingdom reaffirms its support for the completion of rules required for Article 6 operationalization.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "8.4 ARTICLE 6 VOLUNTARY COOPERATION, APPROACHES AND MECHANISM",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Explicit commitment statement regarding international policy mechanism operationalization."
+  },
+  {
+    "policy_statement": "Saudi Arabia has an established national monitoring, reporting and verification (MRV) system that tracks progress towards achieving NDC projects and plans and any modifications thereof.",
+    "verbatim_text": "Established and managed by the Kingdom of Saudi Arabia Designated National Authority, the national MRV system is an integral part of the existing  and  future  monitoring  and  reporting  structures... The MRV system tracks the progress towards achieving NDC projects and plans and any modifications thereof.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "9. MONITORING AND REPORTING ON NDC IMPLEMENTATION",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Institutional implementation mechanism (MRV system) with explicit function to track NDC progress."
+  }
+]

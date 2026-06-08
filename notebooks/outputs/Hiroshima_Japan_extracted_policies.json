@@ -1,0 +1,407 @@
+[
+  {
+    "policy_statement": "Hiroshima City will set greenhouse gas emissions reduction targets of 80% by FY2050, 30% by FY2030, and 5% by FY2020 compared to FY2013 (with FY2020 also equivalent to 7% compared to FY2005).",
+    "verbatim_text": "To establish the reduction target of greenhouse gas emissions, the city will set the long-term target based on the national government's target, keeping in mind the city Hiroshima aims to become.\n\n| Timeframe            | Target Year   | Reduction Target (Total Target Amount)            |\n| Long-term Target     | FY2050        | Compared to FY2013 ▲ 80%                          |\n| Mid-term Target *1   | FY2030        | Compared to FY2013 ▲ 30%                          |\n| Short-term Target *2 | FY2020        | Compared to FY2013 ▲ 5% (Compared to FY2005 ▲ 7%) |",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > 2. Reduction target for greenhouse gas emissions",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Clear, quantified citywide mitigation targets with target years and base year."
+  },
+  {
+    "policy_statement": "Hiroshima City will set mid-term (FY2030) sector-specific CO2 reduction targets: Industry 7%, Consumer/household 40%, Consumer/business 40%, Transport 28%, Waste 6.7% (all compared to FY2013), and reduction targets for methane (12.3%), dinitrogen monoxide (6.1%), and fluorocarbon alternative gases (25.1%).",
+    "verbatim_text": "Apart from the total target amount, we set the targets by sector as follows:\n\n- -Carbon Dioxide: Industry sector ▲ 7%, Consumer/household sector ▲ 40%, Consumer/business sector ▲ 40%, Transport sector ▲ 28%, Waste ▲ 6.7%\n- -Methane ▲ 12.3%\n- -Dinitrogen monoxide: ▲ 6.1%\n- -4 gases such as chlorofluorocarbon alternatives: ▲ 25.1%",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > *1 Setting of targets by sectors in the mid-term target",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Quantified sector/gas-specific targets tied to the plan’s mid-term goal."
+  },
+  {
+    "policy_statement": "Hiroshima City will set a short-term (FY2020) energy-use reduction target of 5% for total energy use not affected by the CO2 emission factor of electric utilities.",
+    "verbatim_text": "*2 Setting of short-term energy reduction target\n\nTotal amount of energy use that is not affected by the carbon dioxide emission factor of electric utility\n\n- -Total amount of energy use: ▲ 5%",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > *2 Setting of short-term energy reduction target",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit, quantified short-term energy reduction target."
+  },
+  {
+    "policy_statement": "Hiroshima City will manage implementation of measures toward the GHG reduction target by setting KPIs (Key Performance Indicators) and managing achievement status using them.",
+    "verbatim_text": "Considering the frameworks of measures, measures for each scene of daily life and social economic activities will be promoted as follows. The achievement status of the greenhouse effect gas reduction target by implementing these measures will be managed by setting the KPI (Key Performance Indicator)*.\n\n*KPI (Key Performance Indicator) is an index to evaluate the progress status of each measure.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > 5. Concrete measures for achieving the reduction target",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Commitment to a specific governance/monitoring mechanism (KPI-based management)."
+  },
+  {
+    "policy_statement": "Household measures will promote energy-saving actions and environmental learning/education through global warming prevention campaigns.",
+    "verbatim_text": "## ◆ Household\n\nTake measures to promote energy saving actions and environment-related learning/education by global warming prevention campaign, etc.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Household",
+    "sector": "Buildings",
+    "extraction_rationale": "Concrete intervention (campaigns and education) aimed at household energy savings."
+  },
+  {
+    "policy_statement": "Household measures will promote the introduction of low-carbon houses using innovative technology such as ZEH/ZEB and energy-saving devices based on the state's Top Runner Program.",
+    "verbatim_text": "Take measures to promote the introduction of low-carbon houses with high energy-saving effect using innovative technology such as Net Zero Energy House (hereinafter called 'ZEH') and Net Zero Energy Building (hereinafter called 'ZEB'), and energy saving devices based on the state's Top Runner Program.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Household",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific technology and program-based interventions (ZEH/ZEB, Top Runner devices)."
+  },
+  {
+    "policy_statement": "Hiroshima City will promote shifting to an environmentally-friendly lifestyle by developing low-carbon communities with residents' initiative under the concept of 'Develop our town by ourselves'.",
+    "verbatim_text": "Promote the shift to an environmentally-friendly lifestyle developing low-carbon communities, etc. with residents' initiative, under the concept of 'Develop our town by ourselves'.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Household",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Defined community-based action to shift lifestyles; an explicit measure statement."
+  },
+  {
+    "policy_statement": "For households, Hiroshima City sets KPIs including: newly-built ZEH share 50% by FY2020 and almost 100% by FY2030; low-carbon house share 50% by FY2020; household fuel cells total 15,000 by FY2020 and 56,000 by FY2030; and LED adoption (>80% of household lighting) 50% by FY2020 and almost 100% by FY2030.",
+    "verbatim_text": "## ◇ Key Performance Indicator (KPI)\n\n| ... | ZEH | 4.3% (FY2015) | 50% | Almost100% |\n| ... | Low-carbon house | 1.3% (FY2015) | 50% | - |\n| Number of introduced household fuel cells (Total) | ... | 822 (FY2015) | 15,000 | 56,000 |\n| Rate of citizens who have introduced LED lighting for more than 80%ofhousehold lighting | ... | 12.5% (FY2016) | 50% | Almost100% |",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Household > ◇ Key Performance Indicator (KPI)",
+    "sector": "Buildings",
+    "extraction_rationale": "Quantified KPI targets with years provide concrete commitments for household sector implementation."
+  },
+  {
+    "policy_statement": "For business activities, Hiroshima City will promote energy management and energy-saving actions and thoroughly manage devices using chlorofluorocarbons with extremely high greenhouse effect.",
+    "verbatim_text": "## ◆ Business activities\n\nTake measures to promote energy management and energy saving actions, as well as thorough management of devices using chlorofluorocarbons that have an extremely high greenhouse effect.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Business activities",
+    "sector": "Industry",
+    "extraction_rationale": "Specific interventions for businesses including management of high-GWP refrigerants/CFC-related devices."
+  },
+  {
+    "policy_statement": "For business activities, Hiroshima City will promote the introduction of low-carbon buildings using innovative technology such as ZEB and energy-saving devices based on the state's Top Runner Program.",
+    "verbatim_text": "Take measures to promote the introduction of low-carbon houses with high energy-saving effect using innovative technology such as ZEB, and energy saving devices based on the state's Top Runner Program.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Business activities",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific technology pathway (ZEB) and device efficiency program (Top Runner) for the commercial/industrial building stock."
+  },
+  {
+    "policy_statement": "Hiroshima City will promote environmentally-friendly business styles by reducing CO2 in products/services and improving electric utility CO2 emission factors through eco-friendly contracts and economic approaches such as green purchase/green fund.",
+    "verbatim_text": "Promote the shift to the environmentally-friendly business style by promoting the reduction of carbon dioxide in product/services, and by improving carbon dioxide emission factors of electric utilities through the promotion of eco-friendly contracts and economic approaches such as green purchase/green fund, etc.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Business activities",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Explicit commitment to procurement/contracting and economic instruments to drive emissions reductions."
+  },
+  {
+    "policy_statement": "For business activities, Hiroshima City sets KPIs including Eco Action 21/ISO14001 introductions (500 by FY2020; 1,000 by FY2030), LED lighting use in offices (88.1% by FY2020; almost 100% by FY2030), and BEMS introduction rate (13% by FY2020; 47% by FY2030).",
+    "verbatim_text": "## ◇ Key Performance Indicator (KPI)\n\n| No. of introductions of Eco Action 21 and ISO14001 (total) | 370 (FY2015) | 500 | 1,000 |\n| Rate of offices that use LED lights for lighting | 52.5% (FY2016) | 88.1% | Almost100% |\n| Rate of offices that introduce Business Energy Management System (BEMS) | 2.8% (FY2016) | 13% | 47% |",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Business activities > ◇ Key Performance Indicator (KPI)",
+    "sector": "Industry",
+    "extraction_rationale": "Quantified KPI targets define concrete expected uptake of standards, LEDs, and energy management."
+  },
+  {
+    "policy_statement": "In the transport sector, Hiroshima City will promote eco-driving and use of public transport, and local food production for local consumption to reduce food miles.",
+    "verbatim_text": "## ◆ Transport\n\nPromote the eco-driving and use of public transport, etc., as well as local food production for local consumption for food miles reduction, etc.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Transport",
+    "sector": "Transport",
+    "extraction_rationale": "Specific behavioral and modal-shift measures, plus food-miles reduction action."
+  },
+  {
+    "policy_statement": "Hiroshima City will promote introduction of next generation vehicles such as electric vehicles and clean diesel cars.",
+    "verbatim_text": "Promote introduction of next generation vehicles such as electric vehicles and clean diesel cars.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Transport",
+    "sector": "Transport",
+    "extraction_rationale": "Specific technology adoption measure for vehicle fleet transition."
+  },
+  {
+    "policy_statement": "Hiroshima City will make transport smart and low-carbon by enhancing public transport, preparing a bicycle/pedestrian network, and promoting road improvements to alleviate traffic congestion.",
+    "verbatim_text": "Make transport smart and low-carbon by enhancing public transport as well as by preparing the bicycle/pedestrian network as well as promoting road improvement for alleviating traffic congestion, etc.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Transport",
+    "sector": "Transport",
+    "extraction_rationale": "Concrete infrastructure and system measures for low-carbon transport."
+  },
+  {
+    "policy_statement": "For transport, Hiroshima City sets KPIs including next generation vehicle ownership rate of 19% by FY2020 and 38% by FY2030, and public transport users of 598,000 people/day by FY2020.",
+    "verbatim_text": "## ◇ Key Performance Indicator (KPI)\n\n| Rate of No. of owned next generation vehicles | 14.2% (FY2015) | 19% | 38% |\n| No. of public transport users in the city | 567,000people /day (FY2014) | 598,000people /day | - |",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Transport > ◇ Key Performance Indicator (KPI)",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified uptake and ridership KPIs define measurable commitments."
+  },
+  {
+    "policy_statement": "In the waste sector, Hiroshima City will promote educational activities so citizens and businesses take initiative in waste reduction and recycling, increase efficiency of waste power generation, and increase recycling of construction by-products.",
+    "verbatim_text": "## ◆ Waste\n\nPromote educational activities to make citizens and business operators take initiatives in waste reduction and recycling.\n\nIncrease the efficiency of waste power generation and the recycling rate of construction by-product produced at construction sites.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Waste",
+    "sector": "Waste",
+    "extraction_rationale": "Specific interventions: education, waste-to-energy efficiency, and construction waste recycling."
+  },
+  {
+    "policy_statement": "Hiroshima City will promote shifting from petroleum-derived plastics to biomass plastics to build a resource circulation system and sustainable circulating society.",
+    "verbatim_text": "Construct the circulating system of resources and for a sustainable circulating society by promoting the shift from using petroleum-derived plastic that emits a large amount of greenhouse effect gases at burning to using\n\nbiomass plastic whose raw materials are carbon-free plants, etc.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Waste",
+    "sector": "Waste",
+    "extraction_rationale": "Concrete material substitution measure to reduce emissions from plastics incineration."
+  },
+  {
+    "policy_statement": "For waste, Hiroshima City sets KPIs including reducing waste per person per day to 826 g/person/day by FY2020 and reducing incineration amount to 295,000 ton/year by FY2020.",
+    "verbatim_text": "## ◇ Key Performance Indicator (KPI)\n\n| Waste amount per day per person | 859 g/person/day (FY2013) | 826 g/ person/day | - |\n| Incineration amount of waste | 304,000 ton/year (FY2013) | 295,000 ton/year | - |",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Waste > ◇ Key Performance Indicator (KPI)",
+    "sector": "Waste",
+    "extraction_rationale": "Quantified waste prevention KPIs with baseline and target year."
+  },
+  {
+    "policy_statement": "For forest absorption/planting trees, Hiroshima City will promote tree planting on private lands, introduce woody biomass, conserve and plant trees on green lands to create and preserve healthy forests, and promote building-top/building-side greening as heat-island countermeasures.",
+    "verbatim_text": "## ◆ Source of forest absorption /planting trees\n\n- 1) ... Education and promotion of tree planting on private lands and creation of forests by citizens\n- 2) ... Promotion of tree planting on private lands as well as the introduction of woody biomass\n- 3) ... Conservation and tree planting on green lands, creating and preserving healthy forests\n- 4) Countermeasures against heat-island phenomenon Promote to increase greenery on the top and sides of buildings in the city...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Source of forest absorption /planting trees",
+    "sector": "AFOLU",
+    "extraction_rationale": "Explicit land/biomass/greening measures, including urban heat-island actions."
+  },
+  {
+    "policy_statement": "Hiroshima City sets KPIs to increase introduced biomass boilers in city facilities to 3 by FY2020 and 9 by FY2030, and to increase area of park and green spaces to 1,000 ha by FY2020.",
+    "verbatim_text": "## ◇ Key Performance Indicator (KPI)\n\n| No. of introduced biomass boilers in the city facilities (cumulative total) | 1 (FY2016) | 3 | 9 |\n| Area of park and green spaces | 975.71ha (FY2015) | 1,000ha | - |",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Source of forest absorption /planting trees > ◇ Key Performance Indicator (KPI)",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantified KPIs for biomass boiler deployment and greenspace expansion."
+  },
+  {
+    "policy_statement": "Cross-sectional mitigation measures will conduct a citywide campaign (tentative name) aligned with the statewide 'COOL CHOICE' movement to reduce GHG emissions through energy saving and environmentally-friendly actions, and will educate and promote understanding of smart communities.",
+    "verbatim_text": "In response to the statewide movement 'COOL CHOICE', citizens, business operators and administrations, etc., cooperate under the same target; conduct 'Breaking Free from Global Warming! All citizens Campaign (tentative)' that aims to reduce greenhouse gas emissions by saving energy, etc., foster the values, and act in an environmentally-friendly way.\n\nFurther, educate people and promote the meaning and necessity of... the smart community...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Cross-sectional measures > 1) Promotion of development of environmentally-friendly people and offices (Change of Values)",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Named campaign (tentative) and explicit education action constitute concrete cross-sector interventions."
+  },
+  {
+    "policy_statement": "Hiroshima City will promote and expand the use of dispersed power systems that can be used effectively in communities and as emergency power sources, and build the foundation of a smart community.",
+    "verbatim_text": "Promote and expand the use of the dispersed power system whose energy can be effectively used in a community as well as an emergency power source at the time of disaster, and build the foundation of a smart community.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Cross-sectional measures > 2) Promotion of large-scale introduction of innovative technology (Change of Action)",
+    "sector": "Energy",
+    "extraction_rationale": "Specific intervention: deployment of dispersed power systems and smart community foundation."
+  },
+  {
+    "policy_statement": "Hiroshima City will promote construction of a sustainable low-carbon city by promoting smart communities, supporting innovation using new energies such as hydrogen, and promoting city-building with little environmental impact.",
+    "verbatim_text": "Promote the construction of a sustainable low-carbon city by promoting smart community, supporting innovation with new energies, e.g., hydrogen, etc., and promoting the building of a city with little effect on the environment.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Cross-sectional measures > 3) Promotion of development of low-carbon city (Change of Social System)",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Concrete package of actions: smart community promotion and support for hydrogen/new energy innovation."
+  },
+  {
+    "policy_statement": "Hiroshima City sets KPIs for cross-sectional measures: dispersed power introductions in city facilities (1 by FY2020; 8 by FY2030) and smart communities introduced (3 by FY2020; 10 by FY2030).",
+    "verbatim_text": "## ◇ Key Performance Indicator (KPI)\n\n| Introduction no. of dispersed power in the city facilities (cumulative total) | 0 (FY2016) | 1 | 8 |\n| Introduction no. of smart communities (cumulative total) | 1 (FY2016) | 3 | 10 |",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > ◆ Cross-sectional measures > ◇ Key Performance Indicator (KPI)",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified implementation KPIs for smart energy/community systems."
+  },
+  {
+    "policy_statement": "Under promotion of a low-carbon city network, Hiroshima City will share achievements with neighboring towns, consider a system to promote eco-friendly energy, and plan measures to introduce next-generation energy such as woody biomass, small hydroelectric generation, and hydrogen.",
+    "verbatim_text": "We will share Hiroshima City's achievements with neighboring towns and consider a system to promote the introduction of eco-friendly energy... and plan measures to promote the introduction of the next generation energy such as woody biomass, small hydroelectric generation and hydrogen, etc.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > Fourth pillar Promotion of low-carbon city network (creation of synergy) > Promotion of low-carbon city network",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit inter-municipal cooperation and planned measures for introducing specific energy types."
+  },
+  {
+    "policy_statement": "Hiroshima City will cooperate with domestic and international cities through networks (e.g., ICLEI and Compact of Mayors), aiming to achieve 'Compact of Mayors' for the first time in Japan, share achievements, build cooperation systems, and create a low-carbon city from a global viewpoint.",
+    "verbatim_text": "Hiroshima City is an executive board member city of the Japan Bureau of 'ICLEI'... as well as a member city of 'Compact of Mayors'...; the city aims to achieve 'Compact of Mayors' for the first time in Japan, share our achievements and leading measures by other cities, build the system to cooperate with domestic and international cities for creating synergy, and create a low-carbon city from a global viewpoint.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 5: Promotion of counteractions against global warming (Mitigation) > Fourth pillar Promotion of low-carbon city network (creation of synergy) > Promotion of low-carbon city network",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Stated commitment including a specific aim (achieve Compact of Mayors) and cooperation system-building."
+  },
+  {
+    "policy_statement": "Hiroshima City will implement an Adaptation Plan with two pillars: improving acknowledgement/understanding of climate change and improving regional comprehensive ability to deal with climate risks, and will comprehensively develop three measures under these pillars.",
+    "verbatim_text": "Adaptation measures will have 2 pillars as the directions of measures; under those pillars, there are 3 measures that will be comprehensively developed in line with the plan.\n\n<<First Pillar>> Improvement of acknowledgement and understanding of climate change and its effect\n\n<<Second Pillar>> Improvement of regions' comprehensive ability to deal with climate change risks",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Chapter 6: Adapting to the effects of climate change (Adaptation) > 2. Direction and structure of measures",
+    "sector": "Adaptation",
+    "extraction_rationale": "Defines the structured adaptation policy framework that subsequent concrete measures fall under."
+  },
+  {
+    "policy_statement": "Hiroshima City will promote creation of an environment for more accurate understanding of climate change and its effects through publicity/education via city media, school sub-readings, and delivery lectures.",
+    "verbatim_text": "## 1) Creating an environment to promote understanding of climate change and its effect\n\nPromote the creation of an environment for more accurate understanding of climate change and its effect.\n\n- -New Publicity and education using the city's PR magazine... and the city website,\n- -New Preparation of sub-readings available for school education,\n- -New Delivery lecture by the city and Hiroshima City Global Warming Countermeasure Regional Council, etc.",
+    "policy_type": "sub",
+    "parent_policy_name": "Hiroshima City will implement an Adaptation Plan with two pillars: improving acknowledgement/understanding of climate change and improving regional comprehensive ability to deal with climate risks, and will comprehensively develop three measures under these pillars.",
+    "section_header": "Chapter 6: Adapting to the effects of climate change (Adaptation) > 3. Concrete measures > 1) Creating an environment to promote understanding of climate change and its effect",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete adaptation measure with specific delivery channels and tools; linked as a sub-measure under the adaptation framework."
+  },
+  {
+    "policy_statement": "Hiroshima City will advance adaptation measures focusing particularly on natural disaster/coast area, health, and people's life/city life, incorporating an additional 'adaptation' viewpoint into existing disaster prevention and healthcare measures, and steadily promoting selected effective measures from its FY2015 comprehensive strategy.",
+    "verbatim_text": "The city will advance measures in 7 areas...; particularly, the city will focus on the items of 'natural disaster/coast area', 'health' and 'people's life/city life' whose damage by climate change has become obvious in the city.\n\nThere are many measures that have already been implemented...; however, they will be advanced with the additional 'adaptation' viewpoint.\n\n...the city will conduct the steady promotion.",
+    "policy_type": "sub",
+    "parent_policy_name": "Hiroshima City will implement an Adaptation Plan with two pillars: improving acknowledgement/understanding of climate change and improving regional comprehensive ability to deal with climate risks, and will comprehensively develop three measures under these pillars.",
+    "section_header": "Chapter 6: Adapting to the effects of climate change (Adaptation) > 3. Concrete measures > 2) Building resilience against climate change",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit prioritization and commitment to advance measures with an adaptation lens."
+  },
+  {
+    "policy_statement": "As adaptation measures for increased short-time heavy rain, Hiroshima City will implement city renovation for disaster prevention, construct a disaster information sharing system, and enhance disaster information delivery systems.",
+    "verbatim_text": "【 Measures against increase of heavy rain in short time 】\n\n- -City renovation for disaster prevention, construction of disaster information sharing system, enhancement of disaster information delivery system",
+    "policy_type": "sub",
+    "parent_policy_name": "Hiroshima City will implement an Adaptation Plan with two pillars: improving acknowledgement/understanding of climate change and improving regional comprehensive ability to deal with climate risks, and will comprehensively develop three measures under these pillars.",
+    "section_header": "Chapter 6: Adapting to the effects of climate change (Adaptation) > 3. Concrete measures > 2) Building resilience against climate change",
+    "sector": "Disaster risk reduction",
+    "extraction_rationale": "Specific adaptation interventions for extreme rainfall and disasters."
+  },
+  {
+    "policy_statement": "As adaptation measures for health impacts from temperature rise, Hiroshima City will publicize heat disorder risks and provide information for heat disorder prevention.",
+    "verbatim_text": "【 Measures against the effect of climate change on health due to the temperature rises, etc. 】\n\n- -Publicity on heat disorder, information provision of heat disorder prevention",
+    "policy_type": "sub",
+    "parent_policy_name": "Hiroshima City will implement an Adaptation Plan with two pillars: improving acknowledgement/understanding of climate change and improving regional comprehensive ability to deal with climate risks, and will comprehensively develop three measures under these pillars.",
+    "section_header": "Chapter 6: Adapting to the effects of climate change (Adaptation) > 3. Concrete measures > 2) Building resilience against climate change",
+    "sector": "Health",
+    "extraction_rationale": "Concrete public-health adaptation actions."
+  },
+  {
+    "policy_statement": "As heat/heat-island adaptation measures, Hiroshima City will create a water and green network through conservation/creation of public open spaces and promote roof and wall greening of buildings (including via the green promotion system).",
+    "verbatim_text": "【 Countermeasures against heat (heat island phenomenon, etc.) 】\n\n- -Creation of water and green network by the conservation and creation of public open space such as rivers and roads through which the wind passes; promotion of greenery increase on roof and walls of buildings (including those by the green promotion system).",
+    "policy_type": "sub",
+    "parent_policy_name": "Hiroshima City will implement an Adaptation Plan with two pillars: improving acknowledgement/understanding of climate change and improving regional comprehensive ability to deal with climate risks, and will comprehensively develop three measures under these pillars.",
+    "section_header": "Chapter 6: Adapting to the effects of climate change (Adaptation) > 3. Concrete measures > 2) Building resilience against climate change",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific urban cooling/heat-island interventions with clear actions."
+  },
+  {
+    "policy_statement": "Hiroshima City will cooperate with the state and universities to consider a system to learn and evaluate climate change effects to time and advance adaptation measures appropriately.",
+    "verbatim_text": "## 3) Building of a system to learn and evaluate the effects of climate change\n\nIn order to prepare for the estimated effects and advance 'adaptation measures' appropriately at a suitable time, the city will cooperate with the state and universities and consider a system to learn and evaluate.",
+    "policy_type": "sub",
+    "parent_policy_name": "Hiroshima City will implement an Adaptation Plan with two pillars: improving acknowledgement/understanding of climate change and improving regional comprehensive ability to deal with climate risks, and will comprehensively develop three measures under these pillars.",
+    "section_header": "Chapter 6: Adapting to the effects of climate change (Adaptation) > 3. Concrete measures > 3) Building of a system to learn and evaluate the effects of climate change",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit commitment to establish an evaluation/learning system with identified partners."
+  },
+  {
+    "policy_statement": "For government operations, Hiroshima City sets targets to reduce greenhouse gas emissions by FY2020 by 5% in the city area and 5.1% for the city office (vs FY2013), and by FY2030 by 30% for both city area and city office (vs FY2013).",
+    "verbatim_text": "## 3. Reduction target\n\n| ... | Base Year | Target Year | City area | City office |\n| Short-term target | FY2013 | FY2020 | ▲ 5% | ▲ 5.1% |\n| Mid-term target | FY2013 | FY2030 | ▲ 30% | ▲ 30% |",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 7: Government operations > 3. Reduction target",
+    "sector": "Public sector",
+    "extraction_rationale": "Quantified emissions reduction targets for municipal operations with specified years."
+  },
+  {
+    "policy_statement": "Hiroshima City will change administrative systems to reduce GHGs by introducing green contract systems, promoting procurement under the Hiroshima City Green Purchase Policy, and thoroughly applying energy-saving specifications for city-owned buildings.",
+    "verbatim_text": "The city will also change the 'system' of administration as follows for achieving targets effectively and efficiently in the limited budget.\n1. Introduction of contract system based on the eco-friendly contract laws(*)\n2. 'Promotion of procuring of environmental goods based on 'Hiroshima City Green Purchase Policy'\n3. Thorough application of 'Energy saving specification of city-owned buildings'",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 7: Government operations > 4. Policy direction",
+    "sector": "Public sector",
+    "extraction_rationale": "Specific operational/procurement mechanisms within municipal administration."
+  },
+  {
+    "policy_statement": "Hiroshima City will count surplus power from waste power generation after self-consumption as a reduction of greenhouse gas emissions to promote eco-friendly energy use.",
+    "verbatim_text": "In order to promote the use of eco-friendly energy, surplus power from waste power generation, etc., after self-consumption is counted as the reduction of greenhouse gas emissions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 7: Government operations > 4. Policy direction",
+    "sector": "Energy",
+    "extraction_rationale": "Defines an accounting/implementation approach tied to promoting eco-friendly energy."
+  },
+  {
+    "policy_statement": "Hiroshima City will implement planned introduction of high energy-saving facilities and efficient use of resources/energy for emissions from waste, sewage, and water supply processing.",
+    "verbatim_text": "For the emission of greenhouse effect gases from processing waste, sewage and water supply, the planned introduction of the facilities with a high-energy saving effect and efficient use of resource/energy are conducted.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 7: Government operations > 4. Policy direction",
+    "sector": "Public sector",
+    "extraction_rationale": "Concrete operational commitment to introduce efficient facilities in municipal services."
+  },
+  {
+    "policy_statement": "Hiroshima City will implement municipal-operations measures including eco-friendly power contracts, LED lighting replacement, carbon management/ESCO projects, next generation vehicle introduction and eco-driving, and introduction of solar power and woody biomass.",
+    "verbatim_text": "| Emissions from offices concerning municipal administration | ... |\n| ... | Power contract based on eco-friendly contract laws |\n| ... | Introduction of LED lighting (Basically 50% of straight tube type fluorescents with more than 15 years of use are to be changed) |\n| ... | Carbon management promotion project (facility renewal and operation improvement) |\n| ... | Facility renewal by ESCO project |\n| ... | Introduction of the next generation vehicles ... |\n| ... | Thorough conduct of eco-drive |\n| ... | Introduction of solar power and woody biomass, etc. |",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 7: Government operations > 5. Main measures by emission source and estimated reduction of greenhouse gas emissions",
+    "sector": "Public sector",
+    "extraction_rationale": "Enumerated municipal measures are specific interventions (procurement, retrofits, fleet, renewables)."
+  },
+  {
+    "policy_statement": "For waste processing emissions in municipal operations, Hiroshima City will implement waste reduction and recycling and improve efficiency of waste power generation.",
+    "verbatim_text": "| Emissions from waste processing | ... |\n| ... | Waste reduction and recycle, efficiency improvement of waste power generation |",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 7: Government operations > 5. Main measures by emission source and estimated reduction of greenhouse gas emissions",
+    "sector": "Waste",
+    "extraction_rationale": "Specific operational measures for municipal waste treatment emissions."
+  },
+  {
+    "policy_statement": "For sewage processing emissions in municipal operations, Hiroshima City will improve facility efficiency and expand sewage gas power generation.",
+    "verbatim_text": "| Emissions from sewage processing | ... |\n| ... | Efficiency improvement of facilities, expansion of sewage gas power generation |",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 7: Government operations > 5. Main measures by emission source and estimated reduction of greenhouse gas emissions",
+    "sector": "Wastewater",
+    "extraction_rationale": "Specific operational measures named for sewage sector emissions."
+  },
+  {
+    "policy_statement": "For water supply emissions in municipal operations, Hiroshima City will improve facility efficiency (including lighting and voltage transformation facilities).",
+    "verbatim_text": "| Emissions from water supply | ... |\n| ... | Efficiency improvement of facilities (lighting, voltage transformation facility, etc.) |",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 7: Government operations > 5. Main measures by emission source and estimated reduction of greenhouse gas emissions",
+    "sector": "Water",
+    "extraction_rationale": "Specific efficiency improvement measures for municipal water supply operations."
+  },
+  {
+    "policy_statement": "Hiroshima City will manage progress of city measures based on the uniquely developed Hiroshima City Environment Management System and publish annual implementation status on the city website.",
+    "verbatim_text": "In order to progress the city measures, progress is managed based on the 'Hiroshima City Environment Management System' that has been uniquely developed by the city.\n\nThe conduct status of each year will be published on the city website.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 7: Government operations > 〇 Progress management, etc.",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Explicit governance commitments: management system and annual disclosure."
+  },
+  {
+    "policy_statement": "Hiroshima City will establish a 'Low-carbon City Development Citizens Conference (tentative)' representing citizens, businesses, and administrators as a system to take actions together.",
+    "verbatim_text": "By preparing this plan, 'Low-carbon City Development Citizens Conference (tentative)' representing citizens, business operators and administrators, etc., is established as a system to take actions together.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 8: Plan Promotion > 1. Plan promotion system and progress management",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Institutional commitment to establish a multi-stakeholder body."
+  },
+  {
+    "policy_statement": "In FY2020, Hiroshima City will evaluate achievement status and revise measure directions and greenhouse gas reduction targets based on domestic/international and socioeconomic changes, and then change the plan or prepare the next plan.",
+    "verbatim_text": "In the short-term target year in this plan (FY2020), the achievement status of measures will be evaluated, and directions of measures and reduction target of greenhouse effect gases, etc. will be revised based on the domestic and international changes... and then the plan will be changed or the next plan will be prepared.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Chapter 8: Plan Promotion > 2. Revision of plan",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Explicit commitment with timing (FY2020) to review and revise targets/measures (policy cycle)."
+  }
+]

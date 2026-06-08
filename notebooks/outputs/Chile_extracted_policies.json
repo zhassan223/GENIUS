@@ -1,0 +1,686 @@
+[
+  {
+    "policy_statement": "Chile will close all coal-fired power generation plants nationwide no later than 2040, with closures continuing through 2024 and beyond.",
+    "verbatim_text": "“Their commitment is materializing itself in specific results, such as the closure of coal-fired power generation plants. The process has already started in 3 plants, will continue with 7 more by 2024, and will conclude no later than 2040 with the closure of all coal plants nationwide.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "CHILE'S NATIONALLY DETERMINED CONTRIBUTION (NDC) UPDATE 2020 (Foreword message by the President of Chile)",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete phase-out action with a clear deadline (2040) and interim milestone (by 2024)."
+  },
+  {
+    "policy_statement": "Contribution in Just Transition and Sustainable Development N°1-2-3 (SP1-2-3).",
+    "verbatim_text": "“## 3.3 Commitments in the application of the social pillar for updating and implementing the NDC\n\n## Contribution in Just Transition and Sustainable Development N°1-2-3 (SP1-2-3)\n\n## CONTRIBUTION\n\nSP1) Ensure the application of the criteria mentioned in Section 3.2 in the processes of update, elaboration and implementation of the NDC.\n\nSP2) Establish a mechanism to measure, report and verify the application of the criteria mentioned in section 3.2.\n\nSP3) Develop by 2021 a 'Strategy for Just Transition' that protects the rights of the most vulnerable in the process of decarbonizing the energy matrix, ensuring active participation of citizens in its design and implementation.”",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "3.3 Commitments in the application of the social pillar for updating and implementing the NDC",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Named set of commitments (SP1-3) presented as a grouped contribution under the Social Pillar."
+  },
+  {
+    "policy_statement": "Ensure application of the Section 3.2 social pillar criteria in the update, elaboration and implementation of the NDC (SP1).",
+    "verbatim_text": "“SP1) Ensure the application of the criteria mentioned in Section 3.2 in the processes of update, elaboration and implementation of the NDC.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution in Just Transition and Sustainable Development N°1-2-3 (SP1-2-3).",
+    "section_header": "3.3 Commitments in the application of the social pillar for updating and implementing the NDC",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Explicit commitment to apply specified criteria across NDC processes."
+  },
+  {
+    "policy_statement": "Establish a mechanism to measure, report and verify application of the Section 3.2 criteria (SP2).",
+    "verbatim_text": "“SP2) Establish a mechanism to measure, report and verify the application of the criteria mentioned in section 3.2.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution in Just Transition and Sustainable Development N°1-2-3 (SP1-2-3).",
+    "section_header": "3.3 Commitments in the application of the social pillar for updating and implementing the NDC",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "MRV mechanism creation is a specific institutional action."
+  },
+  {
+    "policy_statement": "Develop by 2021 a Strategy for Just Transition to protect rights of vulnerable groups during energy matrix decarbonization, ensuring active citizen participation (SP3).",
+    "verbatim_text": "“SP3) Develop by 2021 a 'Strategy for Just Transition' that protects the rights of the most vulnerable in the process of decarbonizing the energy matrix, ensuring active participation of citizens in its design and implementation.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution in Just Transition and Sustainable Development N°1-2-3 (SP1-2-3).",
+    "section_header": "3.3 Commitments in the application of the social pillar for updating and implementing the NDC",
+    "sector": "Energy",
+    "extraction_rationale": "Time-bound strategy development with defined purpose and participation requirement."
+  },
+  {
+    "policy_statement": "Contribución en Mitigación N°1 (M1).",
+    "verbatim_text": "“## Contribución en Mitigación N°1 (M1)\n\n## CONTRIBUTION\n\nM1) Chile commits to a GHG emission budget not exceeding 1,100 MtCO2eq between 2020 and 2030, with a GHG emissions maximum (peak) by 2025, and a GHG emissions level of 95 MtCO2eq by 2030.\n\n... Therefore, at the national level, in 2020 we will establish a public-private dialogue roundtable to define specific policy for the use of markets, taking into account clear guidelines that preserve environmental integrity, avoid double-counting and promote sustainable development.”",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.3 Contribution to Mitigation",
+    "sector": "Mitigation",
+    "extraction_rationale": "Contains quantified, time-bound economy-wide mitigation targets plus an implementation action (market policy dialogue)."
+  },
+  {
+    "policy_statement": "Chile will keep its GHG emissions budget to no more than 1,100 MtCO2eq for 2020–2030, with emissions peaking by 2025 and reaching 95 MtCO2eq by 2030 (M1).",
+    "verbatim_text": "“M1) Chile commits to a GHG emission budget not exceeding 1,100 MtCO2eq between 2020 and 2030, with a GHG emissions maximum (peak) by 2025, and a GHG emissions level of 95 MtCO2eq by 2030.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribución en Mitigación N°1 (M1).",
+    "section_header": "4.3 Contribution to Mitigation",
+    "sector": "Mitigation",
+    "extraction_rationale": "Quantified mitigation commitment with timeframe and milestone year."
+  },
+  {
+    "policy_statement": "In 2020, Chile will establish a public-private dialogue roundtable to define policy for the use of markets under Article 6, with guidelines to preserve environmental integrity, avoid double-counting, and promote sustainable development (M1).",
+    "verbatim_text": "“Therefore, at the national level, in 2020 we will establish a public-private dialogue roundtable to define specific policy for the use of markets, taking into account clear guidelines that preserve environmental integrity, avoid double-counting and promote sustainable development.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribución en Mitigación N°1 (M1).",
+    "section_header": "4.3 Contribution to Mitigation",
+    "sector": "Mitigation",
+    "extraction_rationale": "Specific institutional mechanism with a deadline and stated safeguards."
+  },
+  {
+    "policy_statement": "Contribution to Mitigation Nº2 (M2).",
+    "verbatim_text": "“## Contribution to Mitigation Nº2 (M2)\n\n## CONTRIBUTION\n\nM2) Reduce total black carbon emissions by at least 25% by 2030, with respect to 2016 levels. This commitment will be implemented primarily through national policies focused on air quality. In addition, it will be monitored through permanent and periodic work to improve information available in the black carbon inventory.”",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.4 Chile's work in short-lived pollutants",
+    "sector": "Air Quality",
+    "extraction_rationale": "Clear quantified black carbon reduction target with year and monitoring approach."
+  },
+  {
+    "policy_statement": "Contribution to Adaptation N°2 (A2).",
+    "verbatim_text": "“## Contribution to Adaptation N°2 (A2)\n\n## CONTRIBUTION\n\nA2) The coordination of climate action on adaptation at national level will be strengthened through the national adaptation plan, and the adaptation plans for 11 priority sectors, incorporating lessons learned from the implementation of earlier plans. Those documents will be used as inputs for the Adaptation Communication that will be sent to the UNFCCC in 2022 at the latest.\n\n## The plans will be developed according to the following schedule:\n\na) 2022: The National Adaptation Plan shall be updated and in the first stages of implementation.\n\nb) 2022: The first Adaptation Plans on water resources, coastal areas and the mining sector shall be developed and in the first stages of implementation.\n\nc) 2021-2028: The Adaptation Plans for sectors in Agriculture and Forestry ... shall be updated and implemented.”",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "5.2.1 Climate change policies, strategies and plans",
+    "sector": "Adaptation",
+    "extraction_rationale": "Umbrella adaptation planning commitment with a detailed schedule of sub-actions."
+  },
+  {
+    "policy_statement": "Strengthen national coordination on adaptation through the national adaptation plan and adaptation plans for 11 priority sectors, using them as inputs to an Adaptation Communication to the UNFCCC by 2022 at the latest (A2).",
+    "verbatim_text": "“A2) The coordination of climate action on adaptation at national level will be strengthened through the national adaptation plan, and the adaptation plans for 11 priority sectors... Those documents will be used as inputs for the Adaptation Communication that will be sent to the UNFCCC in 2022 at the latest.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.1 Climate change policies, strategies and plans",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific strengthening action plus a time-bound international communication deliverable."
+  },
+  {
+    "policy_statement": "Update the National Adaptation Plan by 2022 and begin its implementation (A2a).",
+    "verbatim_text": "“a) 2022: The National Adaptation Plan shall be updated and in the first stages of implementation.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.1 Climate change policies, strategies and plans",
+    "sector": "Adaptation",
+    "extraction_rationale": "Dated action in the schedule for adaptation planning."
+  },
+  {
+    "policy_statement": "Develop initial adaptation plans for water resources, coastal areas, and the mining sector by 2022 and begin implementation (A2b).",
+    "verbatim_text": "“b) 2022: The first Adaptation Plans on water resources, coastal areas and the mining sector shall be developed and in the first stages of implementation.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.1 Climate change policies, strategies and plans",
+    "sector": "Adaptation",
+    "extraction_rationale": "Sector-specific adaptation plans with a deadline."
+  },
+  {
+    "policy_statement": "Update and implement sectoral adaptation plans on the stated 2021–2028 schedule (including updates for Agriculture and Forestry, Biodiversity, Fisheries and Aquaculture, Health, Facilities, Energy, Cities, Tourism, Water Resources, Coastal Areas, and Mining) (A2c).",
+    "verbatim_text": "“c) 2021-2028: The Adaptation Plans for sectors in Agriculture and Forestry (Updates: 2021 and 2026), Biodiversity (Updates: 2022 and 2027), Fisheries and Aquaculture (Updates: 2022 and 2027), Health (Updates: 2022 and 2027), Facilities (Updates: 2023 and 2028), Energy (Updates: 2023 and 2028) Cities (Updates: 2023 and 2028), Tourism (Update: 2026), Water Resources (Update: 2027), Coastal Areas (Update: 2027), and Mining (Update 2027) shall be updated and implemented.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.1 Climate change policies, strategies and plans",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit multi-year schedule for updating/implementing multiple sector adaptation plans."
+  },
+  {
+    "policy_statement": "By 2025, strengthen subnational climate capacities and institutionality and begin implementing adaptation/mitigation via Regional Climate Change Action Plans in 10 regions; by 2030, all 16 regions will have climate action plans (A3).",
+    "verbatim_text": "“A3) By 2025... through the delivery of Regional Climate Change Action Plans in 10 administrative regions. By 2030, 16 administrative regions will have their own climate change action plans.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.1 Climate change policies, strategies and plans",
+    "sector": "Adaptation",
+    "extraction_rationale": "Time-bound, measurable subnational planning commitment."
+  },
+  {
+    "policy_statement": "Update and expand climate vulnerability and risk studies during NDC implementation, considering gender, to inform adaptation measure design (A4).",
+    "verbatim_text": "“A4) During the implementation phase of this NDC, existing studies and analysis on climate vulnerability and risk in Chile will be updated and expanded to address relevant threats, considering gender in the approach. Those studies wills serve as key inputs for the design of adaptation measures.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.1 Climate change policies, strategies and plans",
+    "sector": "Adaptation",
+    "extraction_rationale": "Commitment to produce updated analytical inputs for adaptation."
+  },
+  {
+    "policy_statement": "By 2021, develop a communal-level climate risk map platform for Chile's continental territory (A4a).",
+    "verbatim_text": "“a) By 2021, a climate risk map platform for Chile's continental territory, at a communal level.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.1 Climate change policies, strategies and plans",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific deliverable with a deadline."
+  },
+  {
+    "policy_statement": "By 2021, estimate the costs of inaction on climate change; by 2025, estimate costs associated with historic losses and damage (A4b).",
+    "verbatim_text": "“b) By 2021, an estimation of the costs of inaction on climate change, and by 2025 an estimation of costs associated with historic by losses and damage as part of this.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.1 Climate change policies, strategies and plans",
+    "sector": "Adaptation",
+    "extraction_rationale": "Two time-bound analytical estimates specified as climate actions."
+  },
+  {
+    "policy_statement": "By 2025, assess nationwide climate change risk to vulnerable groups, focusing on indigenous peoples, poverty, and gender (A4c).",
+    "verbatim_text": "“c) By 2025, assessments of climate change risk to vulnerable groups nation-wide, with a special focus on indigenous peoples, poverty and gender.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.1 Climate change policies, strategies and plans",
+    "sector": "Adaptation",
+    "extraction_rationale": "Dated assessment task with defined focus."
+  },
+  {
+    "policy_statement": "By 2026, strengthen the monitoring and evaluation system with progress and impact indicators for all climate change adaptation instruments (A5).",
+    "verbatim_text": "“A5) By 2026, the current monitoring and evaluation system will have been strengthened, with indicators on progress and impact for all climate change adaptation instruments...”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.1 Climate change policies, strategies and plans",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific system strengthening with a deadline and defined scope."
+  },
+  {
+    "policy_statement": "Strengthen inclusion of non-governmental actors in planning and implementing adaptation measures during the NDC implementation period (A6).",
+    "verbatim_text": "“A6) During the implementation period of this NDC, the inclusion of non-governmental actors in the planning and implementation of adaptation measures will be strengthened.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.1 Climate change policies, strategies and plans",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit governance/participation strengthening commitment."
+  },
+  {
+    "policy_statement": "By 2025, implement and keep updated a record of adaptation actions by non-governmental actors (A6a).",
+    "verbatim_text": "“a) By 2025, an implemented and updated record of actions on adaptation by non-governmental actors.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.1 Climate change policies, strategies and plans",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete registry deliverable with deadline."
+  },
+  {
+    "policy_statement": "By 2030, establish public-private cooperation mechanisms to execute adaptation actions at national and local scale (A6b).",
+    "verbatim_text": "“b) By 2030, public-private cooperation mechanisms for the execution of adaptation actions, at national and local scale.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.1 Climate change policies, strategies and plans",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific cooperation mechanism commitment with a deadline."
+  },
+  {
+    "policy_statement": "Enhance information mechanisms to manage climate change impacts on water resources to improve resilience (A7).",
+    "verbatim_text": "“A7) Information mechanisms for managing the impacts of climate change on water resources will be enhanced in order to improve resilience.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.2 Areas of greatest urgency in climate action to adaptation",
+    "sector": "Water",
+    "extraction_rationale": "Clear intervention on information mechanisms tied to water resilience."
+  },
+  {
+    "policy_statement": "By 2025, establish a national indicator for hydrological watersheds to track water shortages and risk (A7a).",
+    "verbatim_text": "“a) By 2025, a national indicator for hydrological watersheds will be established to track water shortages and risk, helping to promote water security nationwide.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.2 Areas of greatest urgency in climate action to adaptation",
+    "sector": "Water",
+    "extraction_rationale": "Quantified time-bound creation of a national indicator."
+  },
+  {
+    "policy_statement": "By 2025, create a system to certify water consumption management levels at an organizational level through the HuellaChile Program (A7b).",
+    "verbatim_text": "“b) By 2025, a system to certify levels of water consumption management at an organizational level will be created, through the HuellaChile Program.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.2 Areas of greatest urgency in climate action to adaptation",
+    "sector": "Water",
+    "extraction_rationale": "Specific instrument creation with deadline and named program."
+  },
+  {
+    "policy_statement": "By 2030, establish Watershed Strategic Plans for Water Resources Management in Chile’s 101 hydrological basins, incorporating climate change adaptation (A7c).",
+    "verbatim_text": "“c) By 2030, Watershed Strategic Plans for the Management of Water Resources will be established, taking into account climate change adaptation in the country's 101 hydrological basins.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.2 Areas of greatest urgency in climate action to adaptation",
+    "sector": "Water",
+    "extraction_rationale": "Nationwide quantified basin planning commitment with deadline."
+  },
+  {
+    "policy_statement": "By 2030, inspect and register 95% of Rural Health Systems to ensure rural drinking water quality standards (A7d).",
+    "verbatim_text": "“d) By 2030, 95% of Rural Health Systems will be inspected and registered, ensuring the quality standards of rural drinking water.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.2 Areas of greatest urgency in climate action to adaptation",
+    "sector": "Health",
+    "extraction_rationale": "Quantified service coverage target with deadline."
+  },
+  {
+    "policy_statement": "By 2030, ensure 100% of companies in the health sector implement disaster risk management plans that consider climate-change-related risks (A7e).",
+    "verbatim_text": "“e) By 2030, 100% of companies in the health sector will have implemented disaster risk management plans, including consideration of risks resulting from climate change.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.2 Areas of greatest urgency in climate action to adaptation",
+    "sector": "Health",
+    "extraction_rationale": "Universal coverage target for risk management planning with climate consideration."
+  },
+  {
+    "policy_statement": "By 2030, implement 100% of the 2030 Agenda goals for the health sector (A7f).",
+    "verbatim_text": "“f) By 2030, 100% of the 2030 Agenda Goals for the health sector will be implemented.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.2 Areas of greatest urgency in climate action to adaptation",
+    "sector": "Health",
+    "extraction_rationale": "Time-bound implementation commitment (though broad) explicitly stated with 100% target."
+  },
+  {
+    "policy_statement": "By 2030, require all water-related public infrastructure projects to evaluate protection of population/land (e.g., river works) and prioritize urban/rural human water consumption demands in their areas of influence (A7g).",
+    "verbatim_text": "“g) By 2030, all water-related public infrastructure projects will consider in their evaluation, the ability to protect the population and land (through river works) and/or support as a priority the demands of urban and/or rural human water consumption in their areas of influence.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.2 Areas of greatest urgency in climate action to adaptation",
+    "sector": "Water",
+    "extraction_rationale": "Applies a defined evaluation/priority requirement to a class of public projects by a deadline."
+  },
+  {
+    "policy_statement": "By 2030, reduce non-treated sewage by at least 25% (A7h).",
+    "verbatim_text": "“h) By  2030, non-treated sewage will be reduced by at least 25%.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.2 Areas of greatest urgency in climate action to adaptation",
+    "sector": "Water",
+    "extraction_rationale": "Quantified reduction target with deadline."
+  },
+  {
+    "policy_statement": "Strengthen nationwide capacity to adapt to climate-related risks and manage adverse effects of socio-natural disasters (A8).",
+    "verbatim_text": "“A8) The capacity to adapt to climate-related risks and the capacity to manage the adverse effects of socio-natural disasters will be strenghtened throughout the country.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.2 Areas of greatest urgency in climate action to adaptation",
+    "sector": "Disaster Risk Reduction",
+    "extraction_rationale": "Explicit strengthening commitment in DRR/adaptation."
+  },
+  {
+    "policy_statement": "By 2021, develop guidelines on climate change effects on human mobility in Chile aligned with international instruments (A8a).",
+    "verbatim_text": "“a) By 2021, guidelines on the effect of climate change in the phenomenon of human mobility in Chile will be developed, in line with related international instruments.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.2 Areas of greatest urgency in climate action to adaptation",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete guidance deliverable with deadline."
+  },
+  {
+    "policy_statement": "By 2022, develop a specific national plan for heat-wave-associated risk variables via cross-sectoral work of the Meteorological Risk Variables Working Group (A8b).",
+    "verbatim_text": "“b) By 2022, a specific national plan for risk variables associated with heat wave will be developed, through the cross-sectoral work of the Meteorological Risk Variables Working Group.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.2 Areas of greatest urgency in climate action to adaptation",
+    "sector": "Disaster Risk Reduction",
+    "extraction_rationale": "Specific national plan with a deadline and responsible working group."
+  },
+  {
+    "policy_statement": "By 2025, all regions will incorporate climate change adaptation actions into Regional Disaster Risk Reduction Plans in coordination with CORECC (A8c).",
+    "verbatim_text": "“c) By 2025, all Regions in Chile will incorporate climate change adaptation actions in the Regional Plans for Disaster Risk Reduction, in coordination with the Regional Committees for Climate Change (CORECC).”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.2 Areas of greatest urgency in climate action to adaptation",
+    "sector": "Disaster Risk Reduction",
+    "extraction_rationale": "Nationwide coverage requirement with deadline and coordination mechanism."
+  },
+  {
+    "policy_statement": "By 2030, fully implement the National Policy for Disaster Risk Reduction 2019–2030, harmonize it with Sendai Framework, Paris Agreement and 2030 Agenda, and review it by 2023 (A8d).",
+    "verbatim_text": "“d) By 2030, the National Policy for Disaster Risk Reduction 2019-2030 will be fully implemented, and its content will be harmonized with the Sendai Framework for Disaster Risk Reduction, the Paris Agreement and the 2030 Agenda for Sustainable Development. This policy instrument will also be reviewed by 2023.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Adaptation N°2 (A2).",
+    "section_header": "5.2.2 Areas of greatest urgency in climate action to adaptation",
+    "sector": "Disaster Risk Reduction",
+    "extraction_rationale": "Specific policy implementation/harmonization commitment with deadlines."
+  },
+  {
+    "policy_statement": "Contribution to Integration - Circular Economy N°2 (I2).",
+    "verbatim_text": "“## Contribution to Integration - Circular Economy N°2 (I2)\n\n## CONTRIBUTION\n\nI2) In 2020, develop a National Organic Waste Strategy, aimed at increasing the recovery of organic waste generated at municipal level by recovering nutrients, organic materials or substrates into the productive process and, thereby, contributing to climate change adaptation and mitigation.”",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "6.1.2 Contribution to circular economy",
+    "sector": "Waste",
+    "extraction_rationale": "Concrete strategy development with timing and objective."
+  },
+  {
+    "policy_statement": "In 2020, develop a nationally agreed Circular Economy Roadmap (2020–2040) setting short-, medium- and long-term measures to 2040 (I1).",
+    "verbatim_text": "“I1) In 2020, develop a Circular Economy Roadmap for the years 2020 to 2040, agreed at a national level...”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration - Circular Economy N°2 (I2).",
+    "section_header": "6.1.2 Contribution to circular economy",
+    "sector": "Circular Economy",
+    "extraction_rationale": "Specific policy instrument with clear timeframe."
+  },
+  {
+    "policy_statement": "In 2020, develop a National Organic Waste Strategy to increase municipal organic waste recovery by returning nutrients/materials/substrates into production, contributing to adaptation and mitigation (I2).",
+    "verbatim_text": "“I2) In 2020, develop a National Organic Waste Strategy, aimed at increasing the recovery of organic waste generated at municipal level...”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration - Circular Economy N°2 (I2).",
+    "section_header": "6.1.2 Contribution to circular economy",
+    "sector": "Waste",
+    "extraction_rationale": "Specific strategy instrument with stated mechanism and climate link."
+  },
+  {
+    "policy_statement": "By 2022, establish and implement circularity metrics and indicators to monitor progress and identify contributions to mitigation and adaptation (I3).",
+    "verbatim_text": "“I3) By 2022, establish and implement, metrics and indicators on circularity...”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration - Circular Economy N°2 (I2).",
+    "section_header": "6.1.2 Contribution to circular economy",
+    "sector": "Circular Economy",
+    "extraction_rationale": "Specific monitoring system commitment with deadline."
+  },
+  {
+    "policy_statement": "Contribution to Integration- LULUCF Forests N°4 (I4).",
+    "verbatim_text": "“## Contribution to Integration- LULUCF Forests N°4 (I4)\n\n## CONTRIBUTION\n\nI4) Chile commits to the sustainable management and recovery of 200,000 hectares of native forests, representing GHG captures of around 0.9 to 1.2 MtCO2eq annually by 2030.\n\nThe management plan to be implemented shall consider the following sustainability criteria:\n\na) Planning of long-term activities to ensure forest conservation (permanence).\n\nb) Sustainable yield parameters guaranteeing that extractions do not exceed forest growth will be applied.”",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "6.2.2.1 Forests",
+    "sector": "Forestry (LULUCF)",
+    "extraction_rationale": "Quantified hectares and sequestration target with implementation criteria listed."
+  },
+  {
+    "policy_statement": "Sustainably manage and recover 200,000 hectares of native forests, delivering around 0.9–1.2 MtCO2eq annual GHG captures by 2030 (I4).",
+    "verbatim_text": "“I4) Chile commits to the sustainable management and recovery of 200,000 hectares of native forests, representing GHG captures of around 0.9 to 1.2 MtCO2eq annually by 2030.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration- LULUCF Forests N°4 (I4).",
+    "section_header": "6.2.2.1 Forests",
+    "sector": "Forestry (LULUCF)",
+    "extraction_rationale": "Explicit quantified LULUCF commitment with deadline."
+  },
+  {
+    "policy_statement": "Ensure I4 forest management planning includes long-term activities to ensure permanence of forest conservation (I4a).",
+    "verbatim_text": "“a) Planning of long-term activities to ensure forest conservation (permanence).”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration- LULUCF Forests N°4 (I4).",
+    "section_header": "6.2.2.1 Forests",
+    "sector": "Forestry (LULUCF)",
+    "extraction_rationale": "Listed sustainability criterion under an implementation plan."
+  },
+  {
+    "policy_statement": "Apply sustainable yield parameters so extractions do not exceed forest growth under I4 (I4b).",
+    "verbatim_text": "“b) Sustainable yield parameters guaranteeing that extractions do not exceed forest growth will be applied.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration- LULUCF Forests N°4 (I4).",
+    "section_header": "6.2.2.1 Forests",
+    "sector": "Forestry (LULUCF)",
+    "extraction_rationale": "Specific management rule stated as a criterion to be applied."
+  },
+  {
+    "policy_statement": "Afforest 200,000 hectares, including at least 100,000 hectares of permanent forest cover and at least 70,000 hectares of native species, delivering 3.0–3.4 MtCO2eq annual captures by 2030 (I5).",
+    "verbatim_text": "“I5) Chile commits to afforest 200,000 hectares, of which at least 100,000 hectares will comprise permanent forest cover, with at least 70,000 hectares of native species... will represent captures of between 3.0 and 3.4 MtCO2eq annually by 2030.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration- LULUCF Forests N°4 (I4).",
+    "section_header": "6.2.2.1 Forests",
+    "sector": "Forestry (LULUCF)",
+    "extraction_rationale": "Direct quantified land-based mitigation commitment."
+  },
+  {
+    "policy_statement": "By 2030, reduce forestry-sector emissions from degradation and deforestation of native forest by 25% relative to average 2001–2013 emissions (I6).",
+    "verbatim_text": "“I6) By 2030, reduce emissions in the forestry sector associated with degradation and deforestation of the native forest by 25%, with respect to average emissions in the period 2001-2013.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration- LULUCF Forests N°4 (I4).",
+    "section_header": "6.2.2.1 Forests",
+    "sector": "Forestry (LULUCF)",
+    "extraction_rationale": "Explicit quantified reduction commitment."
+  },
+  {
+    "policy_statement": "By 2025, identify peatland areas and other wetlands in a national inventory (I7).",
+    "verbatim_text": "“I7) By 2025, peatland areas and any other types of wetland will be identified under a national inventory.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration- LULUCF Forests N°4 (I4).",
+    "section_header": "6.2.2.2 Peatlands",
+    "sector": "Ecosystems",
+    "extraction_rationale": "Specific inventory deliverable with deadline."
+  },
+  {
+    "policy_statement": "By 2030, develop standardized metrics to evaluate wetlands’ (especially peatlands) adaptation/mitigation capacity and implement actions to enhance co-benefits in five pilot sites in protected areas (I8).",
+    "verbatim_text": "“I8) By 2030, standardized metrics will be developed to evaluate the capacity of wetlands (especially peatlands) for climate change adaptation or mitigation, implementing actions to enhance these co-benefits in five pilot sites...”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration- LULUCF Forests N°4 (I4).",
+    "section_header": "6.2.2.2 Peatlands",
+    "sector": "Ecosystems",
+    "extraction_rationale": "Explicit metric development and pilot implementation commitment with numeric scope."
+  },
+  {
+    "policy_statement": "Contribution to Integration -Crosscutting to ecosystems N°9 (I9).",
+    "verbatim_text": "“## Contribution to Integration -Crosscutting to ecosystems N°9 (I9)\n\n## CONTRIBUTION\n\nI9) By 2021, a National Plan for the Restoration of Landscapes will be developed, which will consider restoration of 1,000,000 hectares of ecosystems, prioritizing those facing greatest social, economic and environmental vulnerabilities.”",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "6.3 Cross-cutting to ecosystems",
+    "sector": "Ecosystems",
+    "extraction_rationale": "Plan development with deadline and quantified restoration scale."
+  },
+  {
+    "policy_statement": "By 2021, develop a National Plan for the Restoration of Landscapes considering restoration of 1,000,000 hectares, prioritizing the most vulnerable ecosystems (I9).",
+    "verbatim_text": "“I9) By 2021, a National Plan for the Restoration of Landscapes will be developed, which will consider restoration of 1,000,000 hectares of ecosystems...”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration -Crosscutting to ecosystems N°9 (I9).",
+    "section_header": "6.3 Cross-cutting to ecosystems",
+    "sector": "Ecosystems",
+    "extraction_rationale": "Quantified hectares and deadline make it a concrete commitment."
+  },
+  {
+    "policy_statement": "Contribution to Integration - Ocean N°11 (I11).",
+    "verbatim_text": "“## Contribution to Integration - Ocean N ° 11 (I11)\n\n## CONTRIBUTION\n\nI11) All marine protected areas of Chile created up to 2020 will have a management or administration plan under implementation, taking into account actions for adaptation to climate change.\n\nThe following climate actions will be specifically developed:\n\na) By 2025: 100% of marine protected areas created up to 2020 will hold management or administration plans including actions for adaptation to climate change.\n\n... e) By 2030: Implementation of a methodology for the evaluation of management effectiveness of 100% management or administration plans...”",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "6.4.2 Ocean contribution",
+    "sector": "Oceans",
+    "extraction_rationale": "Umbrella commitment with multiple quantified sub-actions and deadlines for MPA management plans."
+  },
+  {
+    "policy_statement": "Establish new protected areas in under-represented marine ecoregions and in coastal wetland ecosystems to supplement the marine network (I10).",
+    "verbatim_text": "“I10) New protected areas will be established in under-represented marine ecoregions... In addition, protected areas will be established in coastal ecosystems for wetlands...”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration - Ocean N°11 (I11).",
+    "section_header": "6.4.2 Ocean contribution",
+    "sector": "Oceans",
+    "extraction_rationale": "Concrete establishment of protected areas as a policy action."
+  },
+  {
+    "policy_statement": "By 2030, protect at least 10% of under-represented marine ecoregions (Humboldt, Central Chile, Araucanía and Chiloe) via participatory, science-based marine spatial planning including climate-change criteria (I10a).",
+    "verbatim_text": "“a) By 2030, protect at least 10% of under-represented marine eco-regions (Humboldt, Central Chile, Araucanía and Chiloe), in the framework of a participatory marine spatial planning, based on science and holding criteria to deal with the effects of climate change.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration - Ocean N°11 (I11).",
+    "section_header": "6.4.2 Ocean contribution",
+    "sector": "Oceans",
+    "extraction_rationale": "Quantified protection target with deadline and implementation approach."
+  },
+  {
+    "policy_statement": "By 2025, protect at least 20 coastal wetlands as new protected areas (I10b).",
+    "verbatim_text": "“b) By 2025, protect at least 20 coastal wetlands as new protected areas.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration - Ocean N°11 (I11).",
+    "section_header": "6.4.2 Ocean contribution",
+    "sector": "Oceans",
+    "extraction_rationale": "Clear numeric target with deadline."
+  },
+  {
+    "policy_statement": "By 2030, protect at least 10 additional coastal wetlands as protected areas (I10c).",
+    "verbatim_text": "“c) By 2030, protect at least 10 additional coastal wetlands as protected areas.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration - Ocean N°11 (I11).",
+    "section_header": "6.4.2 Ocean contribution",
+    "sector": "Oceans",
+    "extraction_rationale": "Clear numeric target with deadline."
+  },
+  {
+    "policy_statement": "Ensure all marine protected areas created up to 2020 have management/administration plans under implementation that include climate change adaptation actions (I11).",
+    "verbatim_text": "“I11) All marine protected areas of Chile created up to 2020 will have a management or administration plan under implementation, taking into account actions for adaptation to climate change.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration - Ocean N°11 (I11).",
+    "section_header": "6.4.2 Ocean contribution",
+    "sector": "Oceans",
+    "extraction_rationale": "Concrete requirement for MPA plans and implementation."
+  },
+  {
+    "policy_statement": "By 2030, ensure 100% of MPAs created between 2020 and 2025 have management/administration plans including climate change adaptation actions (I11c).",
+    "verbatim_text": "“c) By 2030: 100% of marine protected areas created between 2020 and 2025 will have management or administration plans including actions for adaptation to climate change.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration - Ocean N°11 (I11).",
+    "section_header": "6.4.2 Ocean contribution",
+    "sector": "Oceans",
+    "extraction_rationale": "Quantified planning target with deadline."
+  },
+  {
+    "policy_statement": "By 2025, implement management/administration plans for at least 40% of MPAs created before 2020 through monitoring, control, community involvement, and threat control programs (I11b).",
+    "verbatim_text": "“b) By 2025: Management or administration plans of at least 40% of the marine protected areas created before 2020 will be implemented at least through monitoring, control, community involvement and threat control programs.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration - Ocean N°11 (I11).",
+    "section_header": "6.4.2 Ocean contribution",
+    "sector": "Oceans",
+    "extraction_rationale": "Quantified implementation share with specified program elements."
+  },
+  {
+    "policy_statement": "By 2030, implement a methodology to evaluate management effectiveness for 100% of MPA management/administration plans to track mitigation and adaptation targets (I11e).",
+    "verbatim_text": "“e) By 2030: Implementation of a methodology for the evaluation of management effectiveness of 100% management or administration plans of marine protected areas in order to know the progress of targets proposed in said plans for mitigation and adaptation to climate change.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration - Ocean N°11 (I11).",
+    "section_header": "6.4.2 Ocean contribution",
+    "sector": "Oceans",
+    "extraction_rationale": "Specific methodological implementation with quantified scope and deadline."
+  },
+  {
+    "policy_statement": "Assess co-benefits of ecosystems in marine protected areas for mitigation and adaptation and implement actions to strengthen these co-benefits (I12).",
+    "verbatim_text": "“I12) The co-benefits of different ecosystems in marine protected areas will be assessed with respect to climate change mitigation and adaptation. Actions will also be implemented to strengthen these co-benefits.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration - Ocean N°11 (I11).",
+    "section_header": "6.4.2 Ocean contribution",
+    "sector": "Oceans",
+    "extraction_rationale": "Specific assessment and action commitment."
+  },
+  {
+    "policy_statement": "By 2025, develop standardized metrics in three MPAs to evaluate their adaptation/mitigation capacities (I12a).",
+    "verbatim_text": "“a) By 2025: Three marine protected areas of Chile will have standardized metrics for the evaluation of their capacities for adaptation or mitigation to climate change.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration - Ocean N°11 (I11).",
+    "section_header": "6.4.2 Ocean contribution",
+    "sector": "Oceans",
+    "extraction_rationale": "Quantified target with deadline."
+  },
+  {
+    "policy_statement": "By 2030, apply monitoring and verification metrics in at least five MPAs and strengthen co-benefits in their management plans (I12b).",
+    "verbatim_text": "“b) By 2030: metrics for monitoring and verification of adaptation or mitigation capacities will be applied in at least five marine protected areas, while strengthening co-benefits in their management plans.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Integration - Ocean N°11 (I11).",
+    "section_header": "6.4.2 Ocean contribution",
+    "sector": "Oceans",
+    "extraction_rationale": "Quantified application commitment with deadline."
+  },
+  {
+    "policy_statement": "Contribución en Medios de Implementación Creación y fortalecimiento de capacidades N°1 (IM1).",
+    "verbatim_text": "“## 7.3 Contribution in capacity building and strengthening\n\nContribución en Medios de Implementación Creación y fortalecimiento de capacidades N°1 (IM1)\n\n## CONTRIBUTION\n\nIM1) In 2020, Chile will develop 'Strategy for 'Capacity Development and Climate Empowerment' and will begin its implementation in 2021, with the aim of strengthening the sectoral, national and subnational capacities...”",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "7.3 Contribution in capacity building and strengthening",
+    "sector": "Capacity Building",
+    "extraction_rationale": "Named strategy with development and implementation start dates and defined objective."
+  },
+  {
+    "policy_statement": "Develop in 2020 a Capacity Development and Climate Empowerment Strategy and begin implementation in 2021 to strengthen sectoral, national and subnational capacities to meet mitigation and adaptation targets (IM1).",
+    "verbatim_text": "“IM1) In 2020, Chile will develop 'Strategy for 'Capacity Development and Climate Empowerment' and will begin its implementation in 2021, with the aim of strengthening the sectoral, national and subnational capacities... to achieve national mitigation and adaptation targets.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribución en Medios de Implementación Creación y fortalecimiento de capacidades N°1 (IM1).",
+    "section_header": "7.3 Contribution in capacity building and strengthening",
+    "sector": "Capacity Building",
+    "extraction_rationale": "Concrete strategy and start date for implementation."
+  },
+  {
+    "policy_statement": "Contribution in Implementation Measures Development and transfer of technologies Nº2 (IM2).",
+    "verbatim_text": "“## 7.4 Contribution in terms of Technology development and transfer\n\nContribution in Implementation Measures Development and transfer of technologies Nº2 (IM2)\n\n## CONTRIBUTION\n\nIM2) In 2020, Chile will present its 'Climate Change Technology Transfer and Development Strategy' (EDTTCC) and it will initiate the implementation of this strategy...”",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "7.4 Contribution in terms of Technology development and transfer",
+    "sector": "Technology",
+    "extraction_rationale": "Named technology strategy with timing and multiple dated sub-actions."
+  },
+  {
+    "policy_statement": "In 2020, present and initiate implementation of the Climate Change Technology Transfer and Development Strategy (EDTTCC) to support sustainable, resilient and carbon neutral development by 2050 (IM2).",
+    "verbatim_text": "“IM2) In 2020, Chile will present its 'Climate Change Technology Transfer and Development Strategy' (EDTTCC) and it will initiate the implementation of this strategy... necessary to achieve sustainable, resilient and carbon neutral development by 2050.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution in Implementation Measures Development and transfer of technologies Nº2 (IM2).",
+    "section_header": "7.4 Contribution in terms of Technology development and transfer",
+    "sector": "Technology",
+    "extraction_rationale": "Concrete presentation and implementation initiation commitment with year."
+  },
+  {
+    "policy_statement": "By 2020, establish governance and an institutional framework for EDTTCC implementation to support mitigation and adaptation (IM2a-2020).",
+    "verbatim_text": "“By 2020, Chile will have established a governance and institutional framework for the implementation of the EDTTCC and will support the national contribution in mitigation and adaptation...”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution in Implementation Measures Development and transfer of technologies Nº2 (IM2).",
+    "section_header": "7.4 Contribution in terms of Technology development and transfer",
+    "sector": "Technology",
+    "extraction_rationale": "Time-bound governance/institutionality commitment."
+  },
+  {
+    "policy_statement": "By 2025, review and evaluate the EDTTCC based on the Long-Term Climate Strategy and current climate plans (IM2a-2025).",
+    "verbatim_text": "“By 2025, Chile will have reviewed and evaluated its EDTTCC, based on the Long-Term Climate Strategy and the current climate plans.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution in Implementation Measures Development and transfer of technologies Nº2 (IM2).",
+    "section_header": "7.4 Contribution in terms of Technology development and transfer",
+    "sector": "Technology",
+    "extraction_rationale": "Specific review/evaluation milestone with date."
+  },
+  {
+    "policy_statement": "By 2030, evaluate and update the EDTTCC based on implementation monitoring (IM2a-2030-update).",
+    "verbatim_text": "“By 2030, Chile will have evaluated and updated its EDTTCC, from the evaluation and monitoring done during the implementation in climate change.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution in Implementation Measures Development and transfer of technologies Nº2 (IM2).",
+    "section_header": "7.4 Contribution in terms of Technology development and transfer",
+    "sector": "Technology",
+    "extraction_rationale": "Time-bound update commitment."
+  },
+  {
+    "policy_statement": "Between 2020 and 2025, implement the first cycle of EDTTCC Technological Needs Action Plan for at least three prioritized areas/sectors (IM2b-2020-2025).",
+    "verbatim_text": "“Between 2020 and 2025, Chile shall implement the first cycle of the EDTTCC Technological Needs Action Plan for at least three prioritized areas and/or sectors.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution in Implementation Measures Development and transfer of technologies Nº2 (IM2).",
+    "section_header": "7.4 Contribution in terms of Technology development and transfer",
+    "sector": "Technology",
+    "extraction_rationale": "Quantified scope (at least three areas) and timeframe."
+  },
+  {
+    "policy_statement": "By 2021, establish a Climate Technology Inventory System to be transferred, including local generation and adoption of global technologies (IM2b-2021-inventory).",
+    "verbatim_text": "“By 2021, Chile will have a Climate Technology Inventory System to be transferred that includes the local generation, such as also, the adoption of existing technologies worldwide.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution in Implementation Measures Development and transfer of technologies Nº2 (IM2).",
+    "section_header": "7.4 Contribution in terms of Technology development and transfer",
+    "sector": "Technology",
+    "extraction_rationale": "Specific system deliverable with deadline."
+  },
+  {
+    "policy_statement": "By 2022, produce an inventory of Research Centers and R&D+i initiatives/projects related to mitigation/adaptation and capabilities to coordinate technology development and transfer (IM2b-2022).",
+    "verbatim_text": "“By 2022, Chile will have an inventory of Research Centers, R&D+i initiatives and projects related with mitigation and adaptation, and skills to coordinate Technology Development and Transfer for climate change.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution in Implementation Measures Development and transfer of technologies Nº2 (IM2).",
+    "section_header": "7.4 Contribution in terms of Technology development and transfer",
+    "sector": "Technology",
+    "extraction_rationale": "Concrete inventory deliverable with deadline."
+  },
+  {
+    "policy_statement": "Contribution to Implementation Measures Climate Finance N°3 (IM3).",
+    "verbatim_text": "“## Contribution to Implementation Measures Climate Finance N°3 (IM3)\n\n## CONTRIBUTION\n\nIM3) Implementation of the EFCC will commence in 2020 and it will be updated every 5 years, with the first revision taking place in 2021.”",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "7.5 Contribution in climate finance",
+    "sector": "Climate Finance",
+    "extraction_rationale": "Clear commitment to implement and periodically update a named finance strategy with dates."
+  },
+  {
+    "policy_statement": "Commence implementation of the Financial Strategy on Climate Change (EFCC) in 2020 and update it every 5 years, with the first revision in 2021 (IM3).",
+    "verbatim_text": "“IM3) Implementation of the EFCC will commence in 2020 and it will be updated every 5 years, with the first revision taking place in 2021.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Implementation Measures Climate Finance N°3 (IM3).",
+    "section_header": "7.5 Contribution in climate finance",
+    "sector": "Climate Finance",
+    "extraction_rationale": "Time-bound and cyclical update commitment."
+  },
+  {
+    "policy_statement": "During 2020, establish a work plan for determining direct and indirect climate expenditure (subject to resource availability and Budget Law approval) (IM3d).",
+    "verbatim_text": "“d) Establish a work plan during 2020 to advance in a public framework for the determination of direct and indirect climate expenditure... The implementation of this plan is subject to resources availability as per the corresponding approval to the Budget Law.”",
+    "policy_type": "sub",
+    "parent_policy_name": "Contribution to Implementation Measures Climate Finance N°3 (IM3).",
+    "section_header": "7.5 Contribution in climate finance",
+    "sector": "Climate Finance",
+    "extraction_rationale": "Specific work plan commitment with timing; notes conditionality on resources."
+  }
+]

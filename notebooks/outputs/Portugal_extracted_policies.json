@@ -1,0 +1,812 @@
+[
+  {
+    "policy_statement": "Portugal's National Energy and Climate Plan 2021-2030 (PNEC 2030) is the primary national energy and climate policy instrument for the decade and is approved by Council of Ministers Resolution n.º 53/2020.",
+    "verbatim_text": "The National Energy and Climate Plan 2021-2030 (PNEC 2030) is this decade's primary national energy and climate policy instrument and it was approved through the Council of Ministers Resolution n.º 53/2020, of 10 th of July.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.2. Legal and policy frameworks and institutional arrangements",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Named national policy instrument with formal approval via Council of Ministers resolution."
+  },
+  {
+    "policy_statement": "Portugal's Carbon Neutrality Roadmap 2050 (RNC2050) sets the long-term vision for mitigation and was approved by the Council of Ministers (Resolution nº. 107/2019).",
+    "verbatim_text": "The Portuguese long-term vision for mitigation has been set in the Carbon Neutrality Roadmap 2050  (RNC2050),  approved  by  the  Council  of  Ministers  nº.  107/2019,  of  1 st of  July,  which constituted the Portuguese Long-Term Strategy submitted to the European Commission and to United Nations Framework Convention for Climate Change (UNFCCC).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.2. Legal and policy frameworks and institutional arrangements",
+    "sector": "Mitigation",
+    "extraction_rationale": "Explicitly identified as the long-term mitigation vision and approved by a formal resolution."
+  },
+  {
+    "policy_statement": "Portugal's revised National Adaptation Strategy (ENAAC 2020) focuses on improving articulation between domains, integrating adaptation into sectoral policies, and implementing adaptation measures.",
+    "verbatim_text": "Portugal also has a revised NAS - National Adaptation Strategy (ENAAC 2020, approved by the Council of Ministers Resolution n.º 56/2015, of 30 th of July) (English version in Annex 1), focusing on improving the articulation between domains (particularly those of transversal nature), on the integration in sectoral policies, and the implementation of adaptation measures.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "1.2. Legal and policy frameworks and institutional arrangements",
+    "sector": "Adaptation",
+    "extraction_rationale": "Named national strategy with a clear scope and stated focus areas; later text enumerates objectives and implementation arrangements supporting parent classification."
+  },
+  {
+    "policy_statement": "ENAAC 2020 objective: improve the level of knowledge on climate change, including updating and promoting understanding and assessing risks, impacts and consequences (including extreme events).",
+    "verbatim_text": "NAS is guided by three main objectives:\n\n- Improving  the  level  of  knowledge  on  climate  change  -  updating,  developing,  and promoting understanding on climate change and assessing its potential risks, impacts and consequences, including those related to extreme weather events.",
+    "policy_type": "sub",
+    "parent_policy_name": "Portugal's revised National Adaptation Strategy (ENAAC 2020) focuses on improving articulation between domains, integrating adaptation into sectoral policies, and implementing adaptation measures.",
+    "section_header": "Summaries of national strategies, policies, plans and efforts",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicitly listed as one of three main objectives under the NAS/ENAAC 2020."
+  },
+  {
+    "policy_statement": "ENAAC 2020 objective: implement adaptation measures by assessing adaptive capacity and prioritising adaptation options and measures to moderate future negative impacts and/or seize opportunities.",
+    "verbatim_text": "- Implement  adaptation  measures  -  assess  current  adaptive  capacity  and  prioritise  the implementation  of  adaptation  options  and  measures  that  moderate  future  negative impacts and/or help take advantage of opportunities arising from climate change.",
+    "policy_type": "sub",
+    "parent_policy_name": "Portugal's revised National Adaptation Strategy (ENAAC 2020) focuses on improving articulation between domains, integrating adaptation into sectoral policies, and implementing adaptation measures.",
+    "section_header": "Summaries of national strategies, policies, plans and efforts",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicitly listed NAS objective with concrete action orientation (prioritise and implement measures)."
+  },
+  {
+    "policy_statement": "ENAAC 2020 objective: promote the integration of adaptation into sectoral policies, including spatial planning and sustainable urban development policies and territorial planning/management instruments.",
+    "verbatim_text": "- Promote the integration of adaptation into sectoral policies - promote the integration and monitoring of the climate change adaptation component (mainstreaming) in the most\n\nrelevant  public  and  sectoral  policies,  including  spatial  planning  and  sustainable  urban development policies and their territorial planning and management instruments.",
+    "policy_type": "sub",
+    "parent_policy_name": "Portugal's revised National Adaptation Strategy (ENAAC 2020) focuses on improving articulation between domains, integrating adaptation into sectoral policies, and implementing adaptation measures.",
+    "section_header": "Summaries of national strategies, policies, plans and efforts",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit third objective under NAS/ENAAC 2020 with specified domains."
+  },
+  {
+    "policy_statement": "With the approval of the National Adaptation Strategy (NAS), Portugal established a monitoring and reporting system of adaptation actions, with sectoral working groups responsible for identifying and assessing impacts, vulnerabilities, options and adaptation measures.",
+    "verbatim_text": "With the approval of the National Adaptation Strategy (NAS), a monitoring and reporting system of adaptation actions was established. It is the competence of each of the NAS sectorial working groups  to  identify  and  assess  each  sector's  significant  impacts,  vulnerabilities,  options,  and adaptation measures.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Climate vulnerability and risk assessment",
+    "sector": "Adaptation",
+    "extraction_rationale": "Clear institutional commitment establishing a system (monitoring/reporting) and assigning responsibilities."
+  },
+  {
+    "policy_statement": "Portugal's Adaptation to Climate Change Action Programme (P-3AC / NAP), approved by Council of Ministers Resolution Nº. 130/2019, complements ENAAC 2020 and focuses on implementing adaptation measures.",
+    "verbatim_text": "The Adaptation to Climate Change Action Programme, approved by the Resolution of the Council of  Ministers  Nº.  130/2019,  of  2 nd of  August  (English  version  in  Annex  2),  complements  and systematises  the  work  carried  out  in  the  context  of  ENAAC  2020,  focusing  on  its  second objective: to implement adaptation measures.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "1.2. Legal and policy frameworks and institutional arrangements",
+    "sector": "Adaptation",
+    "extraction_rationale": "Named action programme approved by formal resolution; later text enumerates lines of action and targets, supporting parent classification."
+  },
+  {
+    "policy_statement": "P-3AC (NAP) sets nine lines of action for adaptation, including wildfire prevention, soil conservation, sustainable water use, ecosystem resilience, heatwave prevention, invasive species/diseases/pests, flood protection, coastal protection, and capacity building/awareness/tools.",
+    "verbatim_text": "NAP elects  eight  direct  intervention  lines  in  the territory and infrastructures, complemented by an additional line of action of transversal nature... These comprehend actions for wildfire prevention, soil conservation and improvement, sustainable water use, ecosystems resilience,  heat  waves  prevention,  invasive  species,  diseases  and  pests,  flooding  protection, coastal protection and capacity building, awareness and tools for adaptation.",
+    "policy_type": "sub",
+    "parent_policy_name": "Portugal's Adaptation to Climate Change Action Programme (P-3AC / NAP), approved by Council of Ministers Resolution Nº. 130/2019, complements ENAAC 2020 and focuses on implementing adaptation measures.",
+    "section_header": "Summaries of national strategies, policies, plans and efforts",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit enumeration of P-3AC intervention lines/actions under the NAP framework."
+  },
+  {
+    "policy_statement": "Portugal will complete the National Adaptation Roadmap 2100 (RNA 2100) in 2023 to update climate projections/impacts knowledge, produce regional adaptation narratives and guidelines for spatial planning/programmes, and identify investment needs/costs and strategic adaptation projects/measures.",
+    "verbatim_text": "Following a similar approach, the National Adaptation Roadmap 2100 (RNA 2100) is being drawn up and is expected to be completed in 2023. The RNA 2100 will update the knowledge of climate projections for Portugal and respective impacts in key sectors... RNA 2100 will result in regional adaptation narratives, with a view  to  stablish  climate  change  adaptation  guidelines  for  spatial  planning  and  programmes... The roadmap will also help to identify investment needs and costs, including costs of inaction. In this way, strategic adaptation projects and measures will be identified to further support the adaptation policies on the ground.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Summaries of national strategies, policies, plans and efforts",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete, time-bound commitment (completion expected in 2023) with defined outputs (guidelines, narratives, investment needs)."
+  },
+  {
+    "policy_statement": "PNEC 2030 extends the validity of the National Adaptation Strategy until 31 December 2025.",
+    "verbatim_text": "PNEC 2030 also has extended the validity of the NAS until 31 st of December 2025.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Summaries of national strategies, policies, plans and efforts",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit statement extending validity of a strategy to a specific date."
+  },
+  {
+    "policy_statement": "Portugal established the Portuguese Environmental Fund (2017) to support national environmental policies and objectives/commitments, including climate change, and identifies international cooperation on climate change as an action domain.",
+    "verbatim_text": "The Portuguese Environmental Fund was established in 2017. The purpose of this instrument is to  support  national  environmental  policies... contributing  to  the  achievement  of  national  and  international  objectives  and commitments, in particular those related to climate change...\n\nOne of  the  domains  that  is  clearly  identified  as  action  domain  of  this  Fund  is  international cooperation in the field of climate change, in accordance with the compliance of international commitments.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.5. Provision of new and additional resources",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Creation of a named funding instrument with defined purpose and domains, including climate change cooperation."
+  },
+  {
+    "policy_statement": "Portugal committed (as an EU Member State) to mobilise 0.15% to 0.20% of its GNI as ODA allocated to Least Developed Countries by 2030.",
+    "verbatim_text": "As an EU Member State, Portugal made the commitment to mobilise 0.15% to 0.20% of its GNI as ODA allocated to Least Developed Countries (LDC) by 2030.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.5. Provision of new and additional resources",
+    "sector": "Finance",
+    "extraction_rationale": "Quantified commitment with deadline (by 2030) regarding ODA to LDCs."
+  },
+  {
+    "policy_statement": "The Autonomous Region of the Azores approved the Regional Programme for Climate Change (PRAC) by Regional Legislative Decree Nº. 30/2019/A, encompassing mitigation and adaptation, including studies of vulnerabilities and definition of adaptation measures for relevant sectors.",
+    "verbatim_text": "The Autonomous Region of the Azores proceeded with the Regional Programme for Climate Change  (PRAC -Portuguese  acronym),  approved  by  the  Regional  Legislative  Decree  Nº. 30/2019/A, 28 th of  November, which encompasses mitigation and adaptation. PRAC allowed improving the level of knowledge on climate change in the Region through the studies of current and  future  vulnerabilities  and  the  definition  of  adaptation  measures  for  the  most  relevant sectors.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.1. State of play of the implementation of measures planned under 'Strategies and Plans'",
+    "sector": "Adaptation",
+    "extraction_rationale": "Named regional programme with legal basis and stated content (studies and definition of measures)."
+  },
+  {
+    "policy_statement": "Portugal created the support programme 'More Sustainable Buildings' (2020) to rehabilitate and improve buildings' energy and water performance, financing 890 applications totalling €1.75 million.",
+    "verbatim_text": "With the specific objective  of  rehabilitating  and  improving  buildings'  concerning  energy  and water  performance  it  was  created  the  support  programme  \"More  Sustainable  Buildings\",  in 2020, and it has been financing 890 applications, amounting to €1.75 million.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.3. State of play of the implementation of measures planned under 'Strategies and Plans': the share of spending used to support climate adaptation in each sector",
+    "sector": "Buildings",
+    "extraction_rationale": "Named support programme with explicit objective and quantified funding/coverage."
+  },
+  {
+    "policy_statement": "POSEUR Priority Axis 2 ('Adaptation to climate change and risk prevention and management') includes investment priorities 5.1 (support for investment for adaptation) and 5.2 (investments to address specific risks, ensure disaster resilience, and develop disaster management systems).",
+    "verbatim_text": "Its Priority Axis 2 - Adaptation to climate change and risk  prevention  and  management,  includes  two  investment  priorities  (IP):  5.1.  Support  for investment for adaptation to climate change; 5.2. Promoting investments to address specific risks, ensure disaster resilience and develop disaster management systems.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "5.1.2. State of play of the implementation of measures planned under 'Strategies and Plans': spending earmarked for climate adaptation including in disaster risk management",
+    "sector": "Adaptation",
+    "extraction_rationale": "Defines a programme axis with multiple investment priorities, indicating structured components suitable for parent policy."
+  },
+  {
+    "policy_statement": "POSEUR Axis 2 investment priority 5.1 supports investment for adaptation to climate change.",
+    "verbatim_text": "includes  two  investment  priorities  (IP):  5.1.  Support  for investment for adaptation to climate change;",
+    "policy_type": "sub",
+    "parent_policy_name": "POSEUR Priority Axis 2 ('Adaptation to climate change and risk prevention and management') includes investment priorities 5.1 (support for investment for adaptation) and 5.2 (investments to address specific risks, ensure disaster resilience, and develop disaster management systems).",
+    "section_header": "5.1.2. State of play of the implementation of measures planned under 'Strategies and Plans': spending earmarked for climate adaptation including in disaster risk management",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicitly listed investment priority under POSEUR Axis 2."
+  },
+  {
+    "policy_statement": "POSEUR Axis 2 investment priority 5.2 promotes investments to address specific risks, ensure disaster resilience and develop disaster management systems.",
+    "verbatim_text": "5.2. Promoting investments to address specific risks, ensure disaster resilience and develop disaster management systems.",
+    "policy_type": "sub",
+    "parent_policy_name": "POSEUR Priority Axis 2 ('Adaptation to climate change and risk prevention and management') includes investment priorities 5.1 (support for investment for adaptation) and 5.2 (investments to address specific risks, ensure disaster resilience, and develop disaster management systems).",
+    "section_header": "5.1.2. State of play of the implementation of measures planned under 'Strategies and Plans': spending earmarked for climate adaptation including in disaster risk management",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Explicitly listed investment priority under POSEUR Axis 2."
+  },
+  {
+    "policy_statement": "PDR 2020 supported adaptation of agriculture/forest to climate change with €1746.5 million (54.5% of total agriculture and forests funding).",
+    "verbatim_text": "in the agriculture  and  food/rural  development  sector,  the  Rural  Development Programme (PDR 2020) supported with €1746.5 million the adaptation of agriculture/forest to Climate Change (54.5% of total funding to agriculture and forests).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.1. State of play of the implementation of measures planned under 'Strategies and Plans'",
+    "sector": "Agriculture",
+    "extraction_rationale": "Explicit resource allocation to adaptation with quantified amount and share."
+  },
+  {
+    "policy_statement": "P-3AC (NAP) defines result indicators and targets for 2020 and 2030 to monitor adaptation progress.",
+    "verbatim_text": "Table 1. Result indicators and targets defined under the NAP (Adaptation to Climate Change Action Programme - P-3AC).",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "5.5. Monitoring and evaluation",
+    "sector": "Adaptation",
+    "extraction_rationale": "A structured table of multiple indicators and targets under the NAP; suitable as parent with target sub-policies."
+  },
+  {
+    "policy_statement": "NAP target: municipalities covered by adaptation plans to reach 60% by 2020 and 100% by 2030.",
+    "verbatim_text": "Municipalities covered by adaptation plans (municipal, inter-municipal or regional) | 60% | 100%",
+    "policy_type": "sub",
+    "parent_policy_name": "P-3AC (NAP) defines result indicators and targets for 2020 and 2030 to monitor adaptation progress.",
+    "section_header": "5.5. Monitoring and evaluation",
+    "sector": "Adaptation",
+    "extraction_rationale": "Quantified target with 2020 and 2030 values."
+  },
+  {
+    "policy_statement": "NAP target: municipalities with forest fire defence plans integrating future climate vulnerability assessments and adaptation measures to reach 2% by 2020 and 100% by 2030.",
+    "verbatim_text": "Municipalities with forest fire defence plans that integrate future climate vulnerability assessments and adaptation measures | 2% | 100%",
+    "policy_type": "sub",
+    "parent_policy_name": "P-3AC (NAP) defines result indicators and targets for 2020 and 2030 to monitor adaptation progress.",
+    "section_header": "5.5. Monitoring and evaluation",
+    "sector": "Forestry",
+    "extraction_rationale": "Quantified target with 2020 and 2030 values."
+  },
+  {
+    "policy_statement": "NAP target: water efficiency in industrial consumption to reach 85% by 2020 and 90% by 2030.",
+    "verbatim_text": "Water efficiency in industrial consumption | 85% | 90%",
+    "policy_type": "sub",
+    "parent_policy_name": "P-3AC (NAP) defines result indicators and targets for 2020 and 2030 to monitor adaptation progress.",
+    "section_header": "5.5. Monitoring and evaluation",
+    "sector": "Water",
+    "extraction_rationale": "Quantified target with 2020 and 2030 values."
+  },
+  {
+    "policy_statement": "NAP target: water use efficiency in agriculture to reach 65% by 2020 and 80% by 2030.",
+    "verbatim_text": "Water use efficiency in agriculture | 65% | 80%",
+    "policy_type": "sub",
+    "parent_policy_name": "P-3AC (NAP) defines result indicators and targets for 2020 and 2030 to monitor adaptation progress.",
+    "section_header": "5.5. Monitoring and evaluation",
+    "sector": "Agriculture",
+    "extraction_rationale": "Quantified target with 2020 and 2030 values."
+  },
+  {
+    "policy_statement": "NAP target: target population of awareness/dissemination campaigns on climate impacts and adaptation measures to reach 5% by 2020 and 25% by 2030.",
+    "verbatim_text": "Target population of awareness or dissemination campaigns related to climate change impacts and adaptation measures | 5% | 25%",
+    "policy_type": "sub",
+    "parent_policy_name": "P-3AC (NAP) defines result indicators and targets for 2020 and 2030 to monitor adaptation progress.",
+    "section_header": "5.5. Monitoring and evaluation",
+    "sector": "Adaptation",
+    "extraction_rationale": "Quantified awareness target with 2020 and 2030 values."
+  },
+  {
+    "policy_statement": "NAP target: transport infrastructure managing entities with adaptation or contingency plans for extreme events to reach 10% by 2020 and 50% by 2030.",
+    "verbatim_text": "Transport infrastructure managing entities that have adaptation plans or contingency plans for extreme events | 10% | 50%",
+    "policy_type": "sub",
+    "parent_policy_name": "P-3AC (NAP) defines result indicators and targets for 2020 and 2030 to monitor adaptation progress.",
+    "section_header": "5.5. Monitoring and evaluation",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified target with 2020 and 2030 values."
+  },
+  {
+    "policy_statement": "NAP target: energy production/transmission/distribution companies with adaptation or contingency plans for extreme events to reach 25% by 2020 and 100% by 2030.",
+    "verbatim_text": "Energy production, transmission and distribution companies that have adaptation plans or contingency plans for extreme events | 25% | 100%",
+    "policy_type": "sub",
+    "parent_policy_name": "P-3AC (NAP) defines result indicators and targets for 2020 and 2030 to monitor adaptation progress.",
+    "section_header": "5.5. Monitoring and evaluation",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified target with 2020 and 2030 values."
+  },
+  {
+    "policy_statement": "NAP target: water supply and wastewater treatment companies with adaptation or contingency plans for extreme events to reach 50% by 2020 and 100% by 2030.",
+    "verbatim_text": "Water supply and wastewater treatment companies that have adaptation plans or contingency plans for extreme events | 50% | 100%",
+    "policy_type": "sub",
+    "parent_policy_name": "P-3AC (NAP) defines result indicators and targets for 2020 and 2030 to monitor adaptation progress.",
+    "section_header": "5.5. Monitoring and evaluation",
+    "sector": "Water",
+    "extraction_rationale": "Quantified target with 2020 and 2030 values."
+  },
+  {
+    "policy_statement": "NAP target: telecommunications companies with adaptation or contingency plans for extreme events to reach 25% by 2020 and 100% by 2030.",
+    "verbatim_text": "Telecommunications companies that have adaptation plans or contingency plans for extreme events | 25% | 100%",
+    "policy_type": "sub",
+    "parent_policy_name": "P-3AC (NAP) defines result indicators and targets for 2020 and 2030 to monitor adaptation progress.",
+    "section_header": "5.5. Monitoring and evaluation",
+    "sector": "ICT",
+    "extraction_rationale": "Quantified target with 2020 and 2030 values."
+  },
+  {
+    "policy_statement": "NAP target: reduce the share of the continental coastline in a critical state of erosion from 16.5% (2020 target) to 10% by 2030.",
+    "verbatim_text": "Continental coastline in a critical state of erosion | 16,5% | 10%",
+    "policy_type": "sub",
+    "parent_policy_name": "P-3AC (NAP) defines result indicators and targets for 2020 and 2030 to monitor adaptation progress.",
+    "section_header": "5.5. Monitoring and evaluation",
+    "sector": "Coastal",
+    "extraction_rationale": "Quantified erosion target with 2020 and 2030 values."
+  },
+  {
+    "policy_statement": "NAP target: irrigated infrastructure area with precision technologies promoting efficient water use to reach 10% by 2020 and 50% by 2030.",
+    "verbatim_text": "Irrigated infrastructure area with precision technologies that promote efficient water use | 10% | 50%",
+    "policy_type": "sub",
+    "parent_policy_name": "P-3AC (NAP) defines result indicators and targets for 2020 and 2030 to monitor adaptation progress.",
+    "section_header": "5.5. Monitoring and evaluation",
+    "sector": "Agriculture",
+    "extraction_rationale": "Quantified technology uptake target with 2020 and 2030 values."
+  },
+  {
+    "policy_statement": "NAP target: reduce the number of people affected by floods in risk areas identified in Flood Risk Management Plans by 25% by 2030 (compared with previous PGRI cycle).",
+    "verbatim_text": "Reduction in the number of people affected by floods in risk areas identified in the Flood Risk Management Plans (compared with the previous cycle of the PGRI) | - | 25%",
+    "policy_type": "sub",
+    "parent_policy_name": "P-3AC (NAP) defines result indicators and targets for 2020 and 2030 to monitor adaptation progress.",
+    "section_header": "5.5. Monitoring and evaluation",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Quantified 2030 target for flood-affected people."
+  },
+  {
+    "policy_statement": "NAP target: reduce the geographical distribution area of invasive alien species by 10% by 2030 compared to a reference year.",
+    "verbatim_text": "Reduction in the geographical distribution area of invasive alien species (compared to the reference year) | - | 10%",
+    "policy_type": "sub",
+    "parent_policy_name": "P-3AC (NAP) defines result indicators and targets for 2020 and 2030 to monitor adaptation progress.",
+    "section_header": "5.5. Monitoring and evaluation",
+    "sector": "Biodiversity",
+    "extraction_rationale": "Quantified 2030 target for invasive species distribution."
+  },
+  {
+    "policy_statement": "NAP target: reduce cases of human vector-borne diseases associated with climate change by 10% by 2030 (decadal average).",
+    "verbatim_text": "Reduction in the number of cases of human vector-borne diseases associated with climate change (decadal average) | - | 10%",
+    "policy_type": "sub",
+    "parent_policy_name": "P-3AC (NAP) defines result indicators and targets for 2020 and 2030 to monitor adaptation progress.",
+    "section_header": "5.5. Monitoring and evaluation",
+    "sector": "Health",
+    "extraction_rationale": "Quantified 2030 target for climate-associated vector-borne diseases."
+  },
+  {
+    "policy_statement": "APA, together with the ENAAC 2020 Coordination Group entities, will ensure implementation, follow-up and monitoring of the P-3AC, including integrating measures into sectoral policies and funding instruments, preparing annual monitoring reports, and proposing revisions to the programme.",
+    "verbatim_text": "In this framework, it is APA's responsibility, in conjunction with the entities that make up the ENAAC Coordination Group:\n\n- a) To promote the integration of lines of action and measures for climate change adaptation provided for in the P-3AC in sectoral policies and planning.\n- b) To contribute to establishing a favourable framework for the pursuit of the lines of action and measures foreseen in the P-3AC, promoting their integration in funding instruments...\n- d) To prepare an annual monitoring report on the P-3AC...\n- e) To prepare proposals to revise the P-3AC...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.4 Implementation, follow-up and monitoring of the P-3AC",
+    "sector": "Governance",
+    "extraction_rationale": "Defines institutional responsibilities and recurring deliverables (integration into sectoral policies/funding, annual monitoring report, revision proposals), which are concrete implementation/monitoring commitments."
+  },
+  {
+    "policy_statement": "Line of Action #1: Rural fire prevention through structural interventions in agricultural and forestry areas to reduce biomass fuel, slow fire spread, increase forest resilience to fire, and ensure safety of people and property.",
+    "verbatim_text": "## Line of Action #1 - Rural fire prevention - structural interventions in agricultural and forestry areas\n\n| Main objectives: • Reducing biomass fuel • Reducing the speed at which fires spread • Increasing the forest's resilience to fire • Ensuring the safety of people and property",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Annex I -Lines of action and measures / Line of Action #1 - Rural fire prevention - structural interventions in agricultural and forestry areas",
+    "sector": "AFOLU",
+    "extraction_rationale": "A named line of action with an objective and multiple concrete measures listed beneath it, fitting a parent policy."
+  },
+  {
+    "policy_statement": "Introduce discontinuity bands/patches to prevent rural fires, including (re)afforestation with fire-resistant species, controlling excessive natural regeneration after fire, creating agricultural mosaics, and creating grazing areas (including use of goats) to control spontaneous vegetation.",
+    "verbatim_text": "• Introduction of discontinuity bands or patches by:\n- (re)afforestation with other forest species resistant to the risk of fire\n- control of excessive densities of natural regeneration after fire\n- introduction of agricultural mosaic\n- creation of areas for grazing and use of goats to control spontaneous vegetation",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #1: Rural fire prevention through structural interventions in agricultural and forestry areas to reduce biomass fuel, slow fire spread, increase forest resilience to fire, and ensure safety of people and property.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #1 - Rural fire prevention - structural interventions in agricultural and forestry areas",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific intervention measures listed under the named Line of Action #1."
+  },
+  {
+    "policy_statement": "Economically valorise biomass by installing intermunicipal systems for collecting and interim storage of biomass residues from forestry and agricultural activities in rural areas.",
+    "verbatim_text": "• Economic valorisation of biomass through the installation of Intermunicipal Systems for the collection and interim storage of biomass left over from forestry and agricultural activities in rural areas",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #1: Rural fire prevention through structural interventions in agricultural and forestry areas to reduce biomass fuel, slow fire spread, increase forest resilience to fire, and ensure safety of people and property.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #1 - Rural fire prevention - structural interventions in agricultural and forestry areas",
+    "sector": "AFOLU",
+    "extraction_rationale": "Concrete infrastructure/programmatic action under Line of Action #1."
+  },
+  {
+    "policy_statement": "Convert and reconfigure electricity transmission/distribution structures that cross forest areas (e.g., burying cables or changing routes) to reduce rural fire risk.",
+    "verbatim_text": "• Conversion and reconfiguration of linear electricity transmission and distribution structures that cross-forest areas (e.g. burying cables; changing routes)",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #1: Rural fire prevention through structural interventions in agricultural and forestry areas to reduce biomass fuel, slow fire spread, increase forest resilience to fire, and ensure safety of people and property.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #1 - Rural fire prevention - structural interventions in agricultural and forestry areas",
+    "sector": "Energy",
+    "extraction_rationale": "Specific intervention (grid infrastructure changes) under the Line of Action #1 list of measures."
+  },
+  {
+    "policy_statement": "Reconfigure telecommunications networks in rural/forest areas as part of rural fire prevention structural interventions.",
+    "verbatim_text": "• Reconversion and reconfiguration of telecommunications networks in areas",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #1: Rural fire prevention through structural interventions in agricultural and forestry areas to reduce biomass fuel, slow fire spread, increase forest resilience to fire, and ensure safety of people and property.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #1 - Rural fire prevention - structural interventions in agricultural and forestry areas",
+    "sector": "Infrastructure",
+    "extraction_rationale": "Concrete intervention listed as a measure under Line of Action #1."
+  },
+  {
+    "policy_statement": "Install and reconfigure warning, cut-off, traffic diversion, and local population surveillance/warning communication systems and signage for rural fire prevention.",
+    "verbatim_text": "• Installation and reconfiguration of warning, cut-off and traffic diversion • Installation of communication/information systems, including surveillance and warning systems for local populations and appropriate signage",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #1: Rural fire prevention through structural interventions in agricultural and forestry areas to reduce biomass fuel, slow fire spread, increase forest resilience to fire, and ensure safety of people and property.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #1 - Rural fire prevention - structural interventions in agricultural and forestry areas",
+    "sector": "Disaster Risk Management",
+    "extraction_rationale": "Specific set of risk prevention/early warning actions under Line of Action #1."
+  },
+  {
+    "policy_statement": "For Line of Action #1, make an additional EUR 129 million of public investment in 2020 (PDR 2020: EUR 122 million; POSEUR: EUR 7 million; other funds: EUR 0.1 million).",
+    "verbatim_text": "## Goals:\n\n- 2020: make an additional EUR 129 million of public investment (PDR 2020: EUR 122 million; POSEUR: EUR 7 million; other funds: EUR 0.1 million)",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #1: Rural fire prevention through structural interventions in agricultural and forestry areas to reduce biomass fuel, slow fire spread, increase forest resilience to fire, and ensure safety of people and property.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #1 - Rural fire prevention - structural interventions in agricultural and forestry areas",
+    "sector": "Finance",
+    "extraction_rationale": "Quantified resource allocation (public investment) tied to a specific line of action."
+  },
+  {
+    "policy_statement": "Line of Action #2: Implement soil conservation and fertility improvement techniques to minimise soil erosion, increase soil organic matter and water retention, reduce runoff, and increase soil biodiversity and ecosystem resilience.",
+    "verbatim_text": "## Line of Action #2 - Implementation of soil conservation and fertility improvement techniques\n\n| Main objectives:\n| • Minimising soil erosion\n| • Increase the levels of organic matter in the soil\n| • Improve the soil's water retention capacity\n| • Reduce runoff from extreme rainfall events\n| • Increasing biodiversity in soils",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Annex I -Lines of action and measures / Line of Action #2 - Implementation of soil conservation and fertility improvement techniques",
+    "sector": "AFOLU",
+    "extraction_rationale": "Named line of action with multiple specific measures listed (measures/concretization)."
+  },
+  {
+    "policy_statement": "Recover areas of degraded soils and vegetation, prioritising areas susceptible to desertification, including areas affected by rural/forest fires, eroded/salted/degraded areas, areas with invasive exotic woody species, over-exploited soils, and inert extraction areas.",
+    "verbatim_text": "Recovering areas of degraded soils and vegetation, with priority in the areas most susceptible to desertification, namely: i) areas affected by rural fires, including forest fires; ii) eroded, salted, and other degraded areas; iii) areas affected by invasive exotic woody species; iv) areas with soils degraded by over- exploitation...; and v) areas of inert extraction",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #2: Implement soil conservation and fertility improvement techniques to minimise soil erosion, increase soil organic matter and water retention, reduce runoff, and increase soil biodiversity and ecosystem resilience.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #2 - Implementation of soil conservation and fertility improvement techniques",
+    "sector": "AFOLU",
+    "extraction_rationale": "Concrete restoration action listed under Measures/concretization for Line of Action #2."
+  },
+  {
+    "policy_statement": "Apply soil conservation practices including afforestation with soil-improving species, incorporation of manures/compost and rotations with legumes/cover crops/by-products, direct seeding or in-line tillage and crop rotations, intercropping, and setting up overgrazing and biodiverse pastures.",
+    "verbatim_text": "Measures/concretization:\n• Afforestation with soil-improving species - long revolutions\n• Incorporation of manures and compost, rotations with legumes, cover and with agricultural or forestry by-products...\n• Direct seeding or in-line tillage; crop rotation with different types of systems\n• Intercropping in permanent crops\n• Setting up overgrazing and biodiverse pastures",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #2: Implement soil conservation and fertility improvement techniques to minimise soil erosion, increase soil organic matter and water retention, reduce runoff, and increase soil biodiversity and ecosystem resilience.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #2 - Implementation of soil conservation and fertility improvement techniques",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific list of techniques to be implemented; directly stated measures."
+  },
+  {
+    "policy_statement": "Reposition/rehabilitate riparian galleries (planting/sowing indigenous species) and consolidate/recover slopes and riverbanks using natural engineering techniques for erosion control.",
+    "verbatim_text": "• Reposition/rehabilitation of the riparian gallery (planting and/or sowing of indigenous species)\n• Consolidation and recovery of slopes and riverbanks using natural engineering techniques",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #2: Implement soil conservation and fertility improvement techniques to minimise soil erosion, increase soil organic matter and water retention, reduce runoff, and increase soil biodiversity and ecosystem resilience.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #2 - Implementation of soil conservation and fertility improvement techniques",
+    "sector": "AFOLU",
+    "extraction_rationale": "Concrete nature-based interventions listed under Line of Action #2 measures."
+  },
+  {
+    "policy_statement": "Create infiltration gardens and other aquifer recharge solutions (e.g., trenches and infiltration channels) as part of soil conservation and fertility improvement.",
+    "verbatim_text": "Creation of infiltration gardens and other aquifer recharge solutions (e. trenches and infiltration channels)",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #2: Implement soil conservation and fertility improvement techniques to minimise soil erosion, increase soil organic matter and water retention, reduce runoff, and increase soil biodiversity and ecosystem resilience.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #2 - Implementation of soil conservation and fertility improvement techniques",
+    "sector": "Water",
+    "extraction_rationale": "Specific intervention (aquifer recharge solutions) explicitly listed."
+  },
+  {
+    "policy_statement": "For Line of Action #2, make an additional €1.4 million in public investment in 2020 (PDR 2020: €1.4 million).",
+    "verbatim_text": "## Goals:\n\n- 2020: make an additional €1.4 million in public investment ( PDR 2020: €1.4 million)",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #2: Implement soil conservation and fertility improvement techniques to minimise soil erosion, increase soil organic matter and water retention, reduce runoff, and increase soil biodiversity and ecosystem resilience.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #2 - Implementation of soil conservation and fertility improvement techniques",
+    "sector": "Finance",
+    "extraction_rationale": "Quantified public investment commitment for this line of action."
+  },
+  {
+    "policy_statement": "Line of Action #3: Implement good water management practices in agriculture, aquaculture, industry and the urban sector to prevent impacts from drought and water scarcity, including reducing water consumption and increasing water efficiency and infrastructure resilience.",
+    "verbatim_text": "## Line of Action #3 - Implementation of good water management practices in agriculture, aquaculture, industry and the urban sector to prevent impacts resulting from drought and scarcity phenomena\n\n| Main objectives: • Reduce water consumption in the various sectors • Increasing water efficiency in the various sectors ... • Increasing the resilience of water supply infrastructure",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Annex I -Lines of action and measures / Line of Action #3 - Implementation of good water management practices...",
+    "sector": "Water",
+    "extraction_rationale": "Named action with multiple concrete measures listed under Measures/concretization."
+  },
+  {
+    "policy_statement": "Adopt water-saving practices in agriculture, including efficient irrigation (sprinkler/localised systems and meters), monitoring crop water needs, remodelling irrigation infrastructure to reduce losses and evaporation, and using rainwater and reuse of treated wastewater.",
+    "verbatim_text": "Measures/concretization: • Adoption of good water management practices in agriculture to reduce consumption:\n- Irrigation practices that promote the more efficient and sustainable use of water resources [installation of sprinkler irrigation systems, localised (micro-sprinklers, drop-by-drop) and installation of meters at the water catchments]...\n- Improved systems for monitoring the actual water needs of crops...\n- Remodelling of irrigation infrastructures to reduce losses...\n- Use of rainwater and re-use of treated wastewater in agriculture",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #3: Implement good water management practices in agriculture, aquaculture, industry and the urban sector to prevent impacts from drought and water scarcity, including reducing water consumption and increasing water efficiency and infrastructure resilience.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #3 - Implementation of good water management practices...",
+    "sector": "Water",
+    "extraction_rationale": "Specific interventions enumerated under Line of Action #3."
+  },
+  {
+    "policy_statement": "Promote installation of species/varieties better adapted to climate change, including reconversion of crops to less water-demanding species/varieties/cultivars with high water productivity and resistance to water stress.",
+    "verbatim_text": "- Installation of species and varieties better adapted to changes in climate and extreme events:\n- - Reconversion of crops to less water-demanding species, varieties, and cultivars (adapting crops and varieties to water availability, favouring the installation of species with high water productivity and resistance to water stress)",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #3: Implement good water management practices in agriculture, aquaculture, industry and the urban sector to prevent impacts from drought and water scarcity, including reducing water consumption and increasing water efficiency and infrastructure resilience.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #3 - Implementation of good water management practices...",
+    "sector": "AFOLU",
+    "extraction_rationale": "Concrete adaptation action (crop reconversion) explicitly listed."
+  },
+  {
+    "policy_statement": "Adopt water management practices in industry to reduce consumption, including wastewater reuse and installation of rainwater harvesting systems.",
+    "verbatim_text": "• Adoption of good water management practices in the industry to reduce consumption:\n- Wastewater reuse in industry\n- Installation of rainwater harvesting systems",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #3: Implement good water management practices in agriculture, aquaculture, industry and the urban sector to prevent impacts from drought and water scarcity, including reducing water consumption and increasing water efficiency and infrastructure resilience.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #3 - Implementation of good water management practices...",
+    "sector": "Water",
+    "extraction_rationale": "Specific industrial water efficiency interventions listed under Line of Action #3."
+  },
+  {
+    "policy_statement": "Remodel aquaculture infrastructures to optimise water consumption and reduce losses.",
+    "verbatim_text": "• Remodelling of aquaculture infrastructures to optimise water consumption and reduce losses.",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #3: Implement good water management practices in agriculture, aquaculture, industry and the urban sector to prevent impacts from drought and water scarcity, including reducing water consumption and increasing water efficiency and infrastructure resilience.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #3 - Implementation of good water management practices...",
+    "sector": "Water",
+    "extraction_rationale": "Explicit measure for aquaculture under this line of action."
+  },
+  {
+    "policy_statement": "Adopt water management practices in the urban sector, including rehabilitating distribution systems, installing leakage monitoring, and implementing differentiated supply systems to diversify water sources; also requalify green spaces with native species and use treated rainwater/wastewater for urban cleaning and irrigation.",
+    "verbatim_text": "• Adoption of good water management practices in the urban sector to reduce consumption:\n- Rehabilitation of water distribution systems and installation of leakage monitoring systems\n- Implementation of differentiated supply systems for the reinforcement and diversification of water sources\n\n- -Requalification of green spaces with native species adapted to local soil and climate conditions\n- -Use of treated rainwater or wastewater for urban cleaning, irrigation of green spaces",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #3: Implement good water management practices in agriculture, aquaculture, industry and the urban sector to prevent impacts from drought and water scarcity, including reducing water consumption and increasing water efficiency and infrastructure resilience.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #3 - Implementation of good water management practices...",
+    "sector": "Water",
+    "extraction_rationale": "Concrete urban water efficiency and reuse actions listed in the measures."
+  },
+  {
+    "policy_statement": "For Line of Action #3, make 124 million of public investment in 2020 (PDR 2020: €21 million; OP SEUR: EUR 100 million; other funds: EUR 3) and indicate at least EUR 350 million in the AUC by 2030.",
+    "verbatim_text": "## Goals:\n\n- 2020: 124 million of public investment (PDR 2020: €21 million; OP SEUR: EUR 100 million; other funds: EUR 3\n- 2030: ...; at least EUR 350 million in the AUC",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #3: Implement good water management practices in agriculture, aquaculture, industry and the urban sector to prevent impacts from drought and water scarcity, including reducing water consumption and increasing water efficiency and infrastructure resilience.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #3 - Implementation of good water management practices...",
+    "sector": "Finance",
+    "extraction_rationale": "Contains explicit quantified public investment goals for 2020 and a minimum amount for 2030."
+  },
+  {
+    "policy_statement": "Line of Action #4: Increase the resilience of ecosystems, species, and habitats to climate change through measures such as riparian gallery interventions, maintaining environmental flows and river continuity, and creating refuges/ecological corridors for vulnerable species.",
+    "verbatim_text": "## Line of Action #4 - Increasing the resilience of ecosystems, species, and habitats to the effects of climate change\n\n| Main objectives: • Maintain or restore riparian galleries • Minimise barrier effects and reduce obstacles in the hydrographic network • Implementing environmental flow regimes ... • Encourage the creation of refuges and ecological corridors for vulnerable fauna species",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Annex I -Lines of action and measures / Line of Action #4 - Increasing the resilience of ecosystems, species, and habitats to the effects of climate change",
+    "sector": "Biodiversity",
+    "extraction_rationale": "Named line of action with multiple measures beneath it."
+  },
+  {
+    "policy_statement": "Conserve and rehabilitate watercourses to maintain environmental flows and river continuity in endemic species distribution areas; regulate irrigation abstractions from catchments serving as summer refuges; install/adapt fish transposition devices on weirs.",
+    "verbatim_text": "• Conservation and rehabilitation of watercourses to maintain environmental flows and the river continuity in the distribution areas of endemic species...\n• Regulating the volumes of water abstracted for irrigation from catchments that serve as summer refuges for vulnerable freshwater and migratory fish species.\n• Installation or adaptation of transposition devices on weirs for vulnerable freshwater and migratory fish.",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #4: Increase the resilience of ecosystems, species, and habitats to climate change through measures such as riparian gallery interventions, maintaining environmental flows and river continuity, and creating refuges/ecological corridors for vulnerable species.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #4 - Increasing the resilience of ecosystems, species, and habitats to the effects of climate change",
+    "sector": "Biodiversity",
+    "extraction_rationale": "Concrete ecosystem/water management actions explicitly listed as measures."
+  },
+  {
+    "policy_statement": "Install or adapt wildlife passages/crossings on highway/railway and conserve temporary pond systems in specified priority conditions/sites.",
+    "verbatim_text": "• Installation or adaptation of wildlife passages/crossings on the highway/railway.\nConservation of temporary pond systems: i) sites with important populations of the striped terrapin ... and the Mediterranean terrapin ...; and ii) preferably oriented N -> S in open areas, away from roads and maintaining 10-70% forest cover",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #4: Increase the resilience of ecosystems, species, and habitats to climate change through measures such as riparian gallery interventions, maintaining environmental flows and river continuity, and creating refuges/ecological corridors for vulnerable species.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #4 - Increasing the resilience of ecosystems, species, and habitats to the effects of climate change",
+    "sector": "Biodiversity",
+    "extraction_rationale": "Specific infrastructure/ecological connectivity measures under the line of action."
+  },
+  {
+    "policy_statement": "Create refuges and ecological corridors for vulnerable fauna species (including safeguarding native ichthyofauna and creating microhabitats with native species in areas occupied by monocultures).",
+    "verbatim_text": "• Creation of refuges and ecological corridors for vulnerable fauna species: i) in small intermittent coastal basins ... to safeguard native ichthyofauna; ii) from low to high altitude in forest areas ...; and iii) in agricultural and forest ecosystems ... creating small areas of microhabitats with native species in areas currently occupied by monocultures",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #4: Increase the resilience of ecosystems, species, and habitats to climate change through measures such as riparian gallery interventions, maintaining environmental flows and river continuity, and creating refuges/ecological corridors for vulnerable species.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #4 - Increasing the resilience of ecosystems, species, and habitats to the effects of climate change",
+    "sector": "Biodiversity",
+    "extraction_rationale": "Explicit habitat/corridor creation measures listed."
+  },
+  {
+    "policy_statement": "Promote, conserve and value animal, plant and forest genetic heritage to increase resilience to climate change (including resistance to drought, diseases and pests).",
+    "verbatim_text": "• Promote, conserve and value animal, plant and forest genetic heritage to increase resilience to climate change (resistance to drought, diseases and pests)",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #4: Increase the resilience of ecosystems, species, and habitats to climate change through measures such as riparian gallery interventions, maintaining environmental flows and river continuity, and creating refuges/ecological corridors for vulnerable species.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #4 - Increasing the resilience of ecosystems, species, and habitats to the effects of climate change",
+    "sector": "Biodiversity",
+    "extraction_rationale": "Concrete action (genetic heritage conservation/valorisation) stated as a measure."
+  },
+  {
+    "policy_statement": "Adapt fishing practices to promote non-waste and minimise by-catches of vulnerable species, and redirect aquaculture activity towards native species with greater climate resilience.",
+    "verbatim_text": "• Adapt fishing practices by promoting non-waste and minimising by-catches of more vulnerable species in the new climate framework; Redirect aquaculture activity towards native species with greater climate resilience",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #4: Increase the resilience of ecosystems, species, and habitats to climate change through measures such as riparian gallery interventions, maintaining environmental flows and river continuity, and creating refuges/ecological corridors for vulnerable species.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #4 - Increasing the resilience of ecosystems, species, and habitats to the effects of climate change",
+    "sector": "Biodiversity",
+    "extraction_rationale": "Specific sector practice changes explicitly committed as measures."
+  },
+  {
+    "policy_statement": "Line of Action #5: Reduce vulnerability of urban areas to heatwaves and increasing maximum temperatures by countering the urban heat island effect and reducing adverse health effects.",
+    "verbatim_text": "## Line of Action #5 - Reducing the vulnerability of urban areas to heatwaves and increasing maximum temperatures\n\n| Main objectives: • Regulating temperature in urban spaces • Minimising the adverse effects of intense heat on the health of populations",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Annex I -Lines of action and measures / Line of Action #5 - Reducing the vulnerability of urban areas to heatwaves and increasing maximum temperatures",
+    "sector": "Health",
+    "extraction_rationale": "Named line of action with multiple measures listed under Measures/concretization."
+  },
+  {
+    "policy_statement": "Implement measures to counter the heat island effect during heatwaves, including green infrastructure (green roofs/facades, renaturalisation, restoring pavement permeability), water retention basins, shaded areas (tree planting/canopies), ventilation corridors, misting and public drinking fountains, and creating green areas with drought-resistant vegetation cover.",
+    "verbatim_text": "Measures/concretization • Measures that counter the heat island effect, particularly during heatwave events:\n• Implementation of green infrastructure ... (e.g. green roofs and facades) and renaturalisation and restoration of pavement permeability\n• Implementation of water retention basins\n• Creation of shaded areas (including tree planting and the installation of canopies between buildings)\n• Creating ventilation corridors\n• Thermoregulation of air by misting and installation of public drinking fountains\n• ... Creating green areas with drought-resistant vegetation cover",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #5: Reduce vulnerability of urban areas to heatwaves and increasing maximum temperatures by countering the urban heat island effect and reducing adverse health effects.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #5 - Reducing the vulnerability of urban areas to heatwaves and increasing maximum temperatures",
+    "sector": "Cities",
+    "extraction_rationale": "Specific urban adaptation interventions enumerated under this line of action."
+  },
+  {
+    "policy_statement": "Carry out awareness-raising actions for the general population and vulnerable groups to deal with heatwaves.",
+    "verbatim_text": "• Awareness-raising actions for the general population and the most vulnerable groups to deal with heatwaves",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #5: Reduce vulnerability of urban areas to heatwaves and increasing maximum temperatures by countering the urban heat island effect and reducing adverse health effects.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #5 - Reducing the vulnerability of urban areas to heatwaves and increasing maximum temperatures",
+    "sector": "Health",
+    "extraction_rationale": "Explicit commitment to awareness-raising actions under Line of Action #5."
+  },
+  {
+    "policy_statement": "Install or retrofit shading/cooling equipment in urban transport infrastructure/rolling stock, public buildings (schools, hospitals, health centres) and IPSS supporting children and the elderly; and implement alert systems to warn the general population and urban transport users.",
+    "verbatim_text": "• Installation or retrofit of shading/cooling equipment in:\n- Urban transport infrastructure and rolling stock (vehicles, stops, stations, car parks)\n- Public buildings (primarily schools, hospitals and health centres)\n- IPSS supporting children and the elderly\n• Alert systems to provide warnings for the general population and users of urban transport systems",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #5: Reduce vulnerability of urban areas to heatwaves and increasing maximum temperatures by countering the urban heat island effect and reducing adverse health effects.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #5 - Reducing the vulnerability of urban areas to heatwaves and increasing maximum temperatures",
+    "sector": "Cities",
+    "extraction_rationale": "Concrete equipment installations and warning systems are specific interventions."
+  },
+  {
+    "policy_statement": "Line of Action #6: Prevent the establishment and spread of invasive alien species, vector-borne diseases, and agricultural and forestry diseases and pests through surveillance, mapping, warning systems, and control/eradication actions.",
+    "verbatim_text": "## Line of Action #6 - Preventing the establishment and spread of invasive alien species, vector-borne diseases, and agricultural and forestry diseases and pests\n\nMeasures/concretization: • Strengthening entomological surveillance... • Identification of risk areas through mapping and geo-referencing... • Control of invasive alien species, and, where possible, eradication",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Annex I -Lines of action and measures / Line of Action #6 - Preventing the establishment and spread of invasive alien species...",
+    "sector": "Health",
+    "extraction_rationale": "Named line of action with multiple concrete measures."
+  },
+  {
+    "policy_statement": "Strengthen entomological surveillance by expanding the Programme for Surveillance of Culicidal Vectors (REVIVE) and identify risk areas via mapping and geo-referencing on an electronic platform.",
+    "verbatim_text": "Measures/concretization: • Strengthening entomological surveillance ... through the expansion Programme for Surveillance of Culicidal Vectors (REVIVE)\n• Identification of risk areas through mapping and geo-referencing the information available on an electronic platform",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #6: Prevent the establishment and spread of invasive alien species, vector-borne diseases, and agricultural and forestry diseases and pests through surveillance, mapping, warning systems, and control/eradication actions.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #6 - Preventing the establishment and spread of invasive alien species...",
+    "sector": "Health",
+    "extraction_rationale": "Specific surveillance and risk-mapping interventions listed."
+  },
+  {
+    "policy_statement": "Set up a centralised warning system for abiotic agents to support prevention, control and eradication of emerging agricultural and forest ecosystem pests and diseases.",
+    "verbatim_text": "• Prevention, control and eradication of emerging agricultural and forest ecosystems enhanced by • Setting up a centralised warning system for abiotic agents)",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #6: Prevent the establishment and spread of invasive alien species, vector-borne diseases, and agricultural and forestry diseases and pests through surveillance, mapping, warning systems, and control/eradication actions.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #6 - Preventing the establishment and spread of invasive alien species...",
+    "sector": "AFOLU",
+    "extraction_rationale": "Explicit measure: establishment of a centralized warning system."
+  },
+  {
+    "policy_statement": "Control invasive alien species and, where possible, eradicate them in priority sites for vulnerable species (e.g., amphibians/reptiles and Saramugo distribution areas).",
+    "verbatim_text": "• Control of invasive alien species, and, where possible, eradication in priority sites for the most vulnerable species, such as amphibians and reptiles, and the distribution areas of Saramugo ( Anaecypris hispanica ).",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #6: Prevent the establishment and spread of invasive alien species, vector-borne diseases, and agricultural and forestry diseases and pests through surveillance, mapping, warning systems, and control/eradication actions.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #6 - Preventing the establishment and spread of invasive alien species...",
+    "sector": "Biodiversity",
+    "extraction_rationale": "Concrete control/eradication action explicitly stated."
+  },
+  {
+    "policy_statement": "Valorise genetic material of agricultural and forestry varieties and species to reduce susceptibility to emerging diseases and pests.",
+    "verbatim_text": "• Valorisation of the genetic material of agricultural and forestry varieties and species to reduce susceptibility to emerging diseases and pests",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #6: Prevent the establishment and spread of invasive alien species, vector-borne diseases, and agricultural and forestry diseases and pests through surveillance, mapping, warning systems, and control/eradication actions.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #6 - Preventing the establishment and spread of invasive alien species...",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific intervention listed under the line of action."
+  },
+  {
+    "policy_statement": "For Line of Action #6, allocate 21 million of public investment in 2020 (PDR 2020: 20 M€; SEUR OP: 1 M€).",
+    "verbatim_text": "Goals: • 2020: 21 million of public investment (PDR 2020: 20 M€; SEUR OP: 1 M€)",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #6: Prevent the establishment and spread of invasive alien species, vector-borne diseases, and agricultural and forestry diseases and pests through surveillance, mapping, warning systems, and control/eradication actions.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #6 - Preventing the establishment and spread of invasive alien species...",
+    "sector": "Finance",
+    "extraction_rationale": "Quantified public investment goal for this line of action."
+  },
+  {
+    "policy_statement": "Line of Action #7: Reduce or minimise risks associated with flooding through flood risk management planning and measures such as infiltration areas, river profile restoration, protective infrastructure, monitoring/modelling, warning systems, and stormwater drainage upgrades.",
+    "verbatim_text": "Line of Action #7 - Reducing or minimising the risks associated with flooding phenomena\n\nMain objectives: • Reduce the risk of river and urban flooding • Increasing the resilience of infrastructure • Implementing Flood Risk Management Plans\nMeasures/concretization: • Creating infiltration areas... • Implementation of forecasting and warning systems ... • Remodelling of urban stormwater drainage networks",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Annex I -Lines of action and measures / Line of Action #7 - Reducing or minimising the risks associated with flooding phenomena",
+    "sector": "Disaster Risk Management",
+    "extraction_rationale": "Named line of action with multiple listed measures for flood risk reduction."
+  },
+  {
+    "policy_statement": "Create infiltration areas for flood risk reduction, including constructing/rehabilitating retention basins, reconverting impermeable surfaces (e.g., drainage paving/renaturalisation), and building retention ditches on slopes to retain precipitation.",
+    "verbatim_text": "Measures/concretization: • Creating infiltration areas through:\n- Construction and/or rehabilitation of retention basins (excavation and dyke)\n- Reconversion of impermeable surface areas ... (installation of drainage paving)\n- Building retention ditches parallel to the ground level on slopes to retain precipitation",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #7: Reduce or minimise risks associated with flooding through flood risk management planning and measures such as infiltration areas, river profile restoration, protective infrastructure, monitoring/modelling, warning systems, and stormwater drainage upgrades.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #7 - Reducing or minimising the risks associated with flooding phenomena",
+    "sector": "Disaster Risk Management",
+    "extraction_rationale": "Concrete flood mitigation interventions listed under this line of action."
+  },
+  {
+    "policy_statement": "Protect water lines and restore natural profiles of river sections and floodplains (e.g., cleaning/regularisation, riparian vegetation restoration, floodplain clearance, sediment removal, restoring hydraulic crossings, removing obsolete structures, rehabilitating weirs, and small flood-correction works).",
+    "verbatim_text": "• Protecting water lines and restoring the natural profiles of river sections and floodplains:\n- Cleaning and regularisation of water lines\n- Ecological restoration and maintenance of riparian vegetation\n- Clearance of flood plains\n- Removal of sediments ...\n- Restoration of the flow section of hydraulic crossings and pontoons\n- Removal of obsolete structures ...\n- Rehabilitation of existing weirs ...\n- Construction of small flood-correction works",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #7: Reduce or minimise risks associated with flooding through flood risk management planning and measures such as infiltration areas, river profile restoration, protective infrastructure, monitoring/modelling, warning systems, and stormwater drainage upgrades.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #7 - Reducing or minimising the risks associated with flooding phenomena",
+    "sector": "Water",
+    "extraction_rationale": "Specific river/floodplain restoration actions enumerated as measures."
+  },
+  {
+    "policy_statement": "Implement flood risk monitoring and decision-support systems, including hydrometric stations, updated flow curves, hydrological/hydraulic modelling, and forecasting and warning systems for the population and responsible entities.",
+    "verbatim_text": "• Maintenance/installation of hydrometric stations and updating of flow curves in the context of flood risk prevention\n• Implementation of hydrological and hydraulic modelling as a decision support system ...\n• Implementation of forecasting and warning systems for the population and responsible entities",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #7: Reduce or minimise risks associated with flooding through flood risk management planning and measures such as infiltration areas, river profile restoration, protective infrastructure, monitoring/modelling, warning systems, and stormwater drainage upgrades.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #7 - Reducing or minimising the risks associated with flooding phenomena",
+    "sector": "Disaster Risk Management",
+    "extraction_rationale": "Concrete monitoring/modelling/warning measures for floods."
+  },
+  {
+    "policy_statement": "Remodel urban stormwater drainage networks to hydraulically adjust to heavy rainfall flows, particularly in critical bottlenecks (bridges, aqueducts, etc.).",
+    "verbatim_text": "• Remodelling of urban stormwater drainage networks to hydraulically adjust to flows in heavy rainfall events, particularly in critical areas such as bridges, aqueducts and other bottlenecks",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #7: Reduce or minimise risks associated with flooding through flood risk management planning and measures such as infiltration areas, river profile restoration, protective infrastructure, monitoring/modelling, warning systems, and stormwater drainage upgrades.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #7 - Reducing or minimising the risks associated with flooding phenomena",
+    "sector": "Cities",
+    "extraction_rationale": "Specific infrastructure upgrade measure explicitly stated."
+  },
+  {
+    "policy_statement": "Line of Action #8: Increase resilience and coastal protection in areas at high risk from coastal erosion, overtopping and flooding, including sediment management, dune and coastal defence interventions, and planned retreat in high-risk areas.",
+    "verbatim_text": "## Line of Action #8 - Increasing resilience and coastal protection in areas at high risk from coastal erosion, overtopping and flooding\n\nMeasures/concretization:\n• Operations promoting the natural re-establishment of sediment traffic from river basins...\n• Interventions in dune systems...\n• Interventions in coastal defence structures...\n• Planned retreat with the removal of structures or buildings in high-risk areas",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Annex I -Lines of action and measures / Line of Action #8 - Increasing resilience and coastal protection...",
+    "sector": "Coastal",
+    "extraction_rationale": "Named line of action with multiple measures for coastal risk reduction."
+  },
+  {
+    "policy_statement": "Promote the natural re-establishment of sediment transport from river basins and undertake dredging of lagoons to replenish beaches to safeguard priority species and habitats.",
+    "verbatim_text": "• Operations promoting the natural re-establishment of sediment traffic from river basins...\n• Dredging of lagoons to replenish beaches, to safeguard the conservation of priority species and habitats",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #8: Increase resilience and coastal protection in areas at high risk from coastal erosion, overtopping and flooding, including sediment management, dune and coastal defence interventions, and planned retreat in high-risk areas.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #8 - Increasing resilience and coastal protection...",
+    "sector": "Coastal",
+    "extraction_rationale": "Concrete sediment management measures explicitly listed."
+  },
+  {
+    "policy_statement": "Intervene in dune systems (including renaturalisation with native species and restoration/maintenance of secondary dunes important for vulnerable amphibian and reptile species) and replenish sediment in coastal systems; protect and rehabilitate coastal systems (including cliff work).",
+    "verbatim_text": "• Interventions in dune systems (including renaturalisation with native species and maintenance and restoration of secondary dunes important for vulnerable amphibian and reptile species\n• Interventions to replenish sediment in coastal systems\n• Protection and rehabilitation of coastal systems\n• Cliff work",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #8: Increase resilience and coastal protection in areas at high risk from coastal erosion, overtopping and flooding, including sediment management, dune and coastal defence interventions, and planned retreat in high-risk areas.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #8 - Increasing resilience and coastal protection...",
+    "sector": "Coastal",
+    "extraction_rationale": "Specific coastal ecosystem/geomorphology interventions listed as measures."
+  },
+  {
+    "policy_statement": "Upgrade coastal defence structures (including raising grades and riprap) and conduct artificial feeding operations (including high magnitude operations).",
+    "verbatim_text": "• Interventions in coastal defence structures (including raising of grades and riprap)\n• Artificial feeding operations, including high magnitude (shots)",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #8: Increase resilience and coastal protection in areas at high risk from coastal erosion, overtopping and flooding, including sediment management, dune and coastal defence interventions, and planned retreat in high-risk areas.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #8 - Increasing resilience and coastal protection...",
+    "sector": "Coastal",
+    "extraction_rationale": "Concrete engineered and sediment nourishment measures explicitly stated."
+  },
+  {
+    "policy_statement": "Implement planned retreat by removing structures/buildings in high-risk coastal areas (including renaturalisation) and reconstructing in non-existent or low-risk areas; undertake land acquisition/expropriation for risk mitigation.",
+    "verbatim_text": "• Planned retreat with the removal of structures or buildings in high-risk areas (including renaturalisation) and reconstruction in non-existent or low-risk areas\n• Land acquisition/expropriation operations for risk mitigation",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #8: Increase resilience and coastal protection in areas at high risk from coastal erosion, overtopping and flooding, including sediment management, dune and coastal defence interventions, and planned retreat in high-risk areas.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #8 - Increasing resilience and coastal protection...",
+    "sector": "Coastal",
+    "extraction_rationale": "Explicit risk mitigation actions involving relocation and land measures."
+  },
+  {
+    "policy_statement": "Strengthen or relocate transport and communications infrastructures located in coastal areas and install/reinforce appropriate signage.",
+    "verbatim_text": "• Interventions in transport and communication infrastructures located in coastal areas (strengthening, relocation)\n• Installation and reinforcement of appropriate signage",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #8: Increase resilience and coastal protection in areas at high risk from coastal erosion, overtopping and flooding, including sediment management, dune and coastal defence interventions, and planned retreat in high-risk areas.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #8 - Increasing resilience and coastal protection...",
+    "sector": "Infrastructure",
+    "extraction_rationale": "Concrete infrastructure adaptation measures listed."
+  },
+  {
+    "policy_statement": "For Line of Action #8, make an additional €47 million of public investment in 2020 (POSEUR: €47 million) and make €560 million of public investment in coastal protection by 2030.",
+    "verbatim_text": "Goals:\n• 2020: make an additional €47 million of public investment (POSEUR: €47 million)\n• 2030: make €560 million of public investment in coastal protection",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #8: Increase resilience and coastal protection in areas at high risk from coastal erosion, overtopping and flooding, including sediment management, dune and coastal defence interventions, and planned retreat in high-risk areas.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #8 - Increasing resilience and coastal protection...",
+    "sector": "Finance",
+    "extraction_rationale": "Explicit, quantified public investment commitments for 2020 and 2030."
+  },
+  {
+    "policy_statement": "Line of Action #9: Develop decision support tools, capacity building and awareness-raising actions, including developing a National Adaptation Platform, producing climate risk mapping, developing adaptation plans, and setting up forecasting/warning/response systems.",
+    "verbatim_text": "## Line of Action #9 - Development of decision support tools, capacity building and awareness-raising actions\n\nMeasures/concretization: • Communication, dissemination, education and awareness-raising actions ... • Development of decision support tools ... reporting and developing a National Adaptation Platform. • ... drawing up of climate risk mapping • Development of Climate Change Adaptation Plans • Setting up forecasting, warning and response systems",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Annex I -Lines of action and measures / Line of Action #9 - Development of decision support tools, capacity building and awareness-raising actions",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Named line of action with multiple specific measures under it."
+  },
+  {
+    "policy_statement": "Develop decision support tools and information systems (including modelling and scenarisation, reporting) and develop a National Adaptation Platform to systematise and facilitate access to climate change information.",
+    "verbatim_text": "• Development of decision support tools and dissemination of good including information systems, modelling and scenarisation, reporting and developing a National Adaptation Platform.",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #9: Develop decision support tools, capacity building and awareness-raising actions, including developing a National Adaptation Platform, producing climate risk mapping, developing adaptation plans, and setting up forecasting/warning/response systems.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #9 - Development of decision support tools, capacity building and awareness-raising actions",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Specific tool/platform development action explicitly listed."
+  },
+  {
+    "policy_statement": "Implement capacity building actions for technicians and decision-makers in climate vulnerability assessment and adaptive management.",
+    "verbatim_text": "• Capacity building actions for technicians and decision-makers in climate vulnerability assessment and adaptive management",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #9: Develop decision support tools, capacity building and awareness-raising actions, including developing a National Adaptation Platform, producing climate risk mapping, developing adaptation plans, and setting up forecasting/warning/response systems.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #9 - Development of decision support tools, capacity building and awareness-raising actions",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Concrete capacity-building measure."
+  },
+  {
+    "policy_statement": "Produce information and knowledge by implementing systems to monitor climate change impacts and drawing up climate risk mapping; create systems to identify risk areas using mapping and geo-referencing and make information available on an electronic platform.",
+    "verbatim_text": "• Production of information and knowledge, in particular through the implementation of systems for monitoring the impacts of climate change drawing up of climate risk mapping\n• Creation of a system to identify risk areas, using mapping and geo-referencing and making the information available on an electronic platform",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #9: Develop decision support tools, capacity building and awareness-raising actions, including developing a National Adaptation Platform, producing climate risk mapping, developing adaptation plans, and setting up forecasting/warning/response systems.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #9 - Development of decision support tools, capacity building and awareness-raising actions",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Specific monitoring/mapping/platform actions explicitly stated."
+  },
+  {
+    "policy_statement": "Develop Climate Change Adaptation Plans and set up forecasting, warning and response systems, including climate prediction models for extreme phenomena and population warning.",
+    "verbatim_text": "• Development of Climate Change Adaptation Plans\n• Setting up forecasting, warning and response systems, including climate prediction models for extreme phenomena and population warning",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #9: Develop decision support tools, capacity building and awareness-raising actions, including developing a National Adaptation Platform, producing climate risk mapping, developing adaptation plans, and setting up forecasting/warning/response systems.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #9 - Development of decision support tools, capacity building and awareness-raising actions",
+    "sector": "Disaster Risk Management",
+    "extraction_rationale": "Explicit commitment to plan development and early warning/response systems."
+  },
+  {
+    "policy_statement": "Implement communication circuits to transmit information to health authorities following forecasting and warning systems.",
+    "verbatim_text": "• Implementation of communication circuits for the transmission of information to health authorities, following forecasting and warning systems",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #9: Develop decision support tools, capacity building and awareness-raising actions, including developing a National Adaptation Platform, producing climate risk mapping, developing adaptation plans, and setting up forecasting/warning/response systems.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #9 - Development of decision support tools, capacity building and awareness-raising actions",
+    "sector": "Health",
+    "extraction_rationale": "Concrete operational communication measure explicitly stated."
+  },
+  {
+    "policy_statement": "Set up monitoring and evaluation arrangements at national, regional, inter-municipal and municipal level to support the Lines of Action.",
+    "verbatim_text": "Setting up monitoring and evaluation arrangements at the national, regional, inter-municipal and municipal level\ndevelopment in support of the Lines of Action",
+    "policy_type": "sub",
+    "parent_policy_name": "Line of Action #9: Develop decision support tools, capacity building and awareness-raising actions, including developing a National Adaptation Platform, producing climate risk mapping, developing adaptation plans, and setting up forecasting/warning/response systems.",
+    "section_header": "Annex I -Lines of action and measures / Line of Action #9 - Development of decision support tools, capacity building and awareness-raising actions",
+    "sector": "Governance",
+    "extraction_rationale": "Explicit commitment to establish M&E arrangements across governance levels."
+  }
+]

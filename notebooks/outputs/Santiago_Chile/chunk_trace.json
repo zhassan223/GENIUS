@@ -1,0 +1,56 @@
+{
+  "doc_id": "Santiago_Chile_b3927f56a8",
+  "total_chunks": 1,
+  "total_policies_before_resolve": 27,
+  "total_policies_after_resolve": 27,
+  "resolver_stats": {
+    "input_count": 27,
+    "dedup_removed": 0,
+    "statement_dedup_removed": 0,
+    "deterministic_links": 21,
+    "llm_arbitrated": 0,
+    "orphan_count": 0,
+    "output_count": 27
+  },
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "word_count": 2133,
+      "has_overlap": false,
+      "ancestor_headings": [],
+      "policies_extracted": 27,
+      "elapsed_seconds": 0.02,
+      "carry_forward_length": 0,
+      "error": null
+    }
+  ],
+  "chunk_provenance": {
+    "Implement the Santiago Action Plan 2020 workstream on developing transition strategies toward low-carbon and climate-resilient economies (Helsinki Principle 1), including comparative reviews and analysis to inform policy actions.": 0,
+    "Review long-term transition strategies in select countries, produce comparative analysis of challenges and opportunities, and deliver country case studies.": 0,
+    "Examine broader transition implications, including economic impacts and opportunities for citizens, businesses, and economies, to inform policy actions (drawing on partners’ mapping of decarbonization/adaptation instruments relevant to finance ministries).": 0,
+    "Implement the Santiago Action Plan 2020 workstream to strengthen finance ministries’ roles and capacities in climate policy (Helsinki Principle 2), including sharing practices, reviewing governance/competency models, and collaborating with partners.": 0,
+    "Invite members to prepare written descriptions on the design, organization, and exercise of climate policy and the role of finance ministries in those arrangements.": 0,
+    "Share national approaches and good practices to help members develop capacities and roles in policy-making, including in NDC processes.": 0,
+    "Review practices, resources, and competencies across different governance and organizational models for climate policy in finance ministries.": 0,
+    "Collaborate with partners to leverage expertise and bridge the gap between finance ministries and climate-action lead institutions.": 0,
+    "Implement the Santiago Action Plan 2020 workstream on carbon pricing (Helsinki Principle 3), including reviews of experience, technical knowledge development, and toolkits for carbon pricing reforms.": 0,
+    "Review carbon pricing experience/state of play, identify bottlenecks to necessary carbon pricing levels, and develop widely acceptable and implementable policies.": 0,
+    "Increase knowledge on technical requirements for carbon pricing, including measurement, targeted compensation for vulnerable groups, carbon border adjustments, carbon taxes/charges, and coordination mechanisms across countries.": 0,
+    "Develop toolkits for finance ministries to design and assess the effects of carbon pricing reforms adapted to national contexts, considering transition challenges and distributional/competitiveness concerns.": 0,
+    "Implement the Santiago Action Plan 2020 workstream to mainstream climate change in macroeconomic management and public finance (Helsinki Principle 4), including tool development, guides for green budgeting/procurement/investment management, and assessments of policies including NDCs.": 0,
+    "Develop tools to address gaps in macroeconomic forecasting and fiscal planning for climate change impacts, including disaster risk management.": 0,
+    "Prepare toolkits and guides on whole-of-government approaches to integrate climate into policy and budget processes, including green budgeting (where appropriate), green procurement, and climate-informed public investment management.": 0,
+    "Support macroeconomic and fiscal assessments of adaptation, resilience, and mitigation policies, including NDCs.": 0,
+    "Implement the Santiago Action Plan 2020 workstream on financial sector development supporting mitigation and adaptation (Helsinki Principle 5), including national greening-finance roadmaps, alignment with NDCs, green bonds, risk incorporation, and measures to lower cost of capital.": 0,
+    "Support preparation of national financial strategies/roadmaps for greening finance.": 0,
+    "Explore approaches to encourage financial institutions to align practices with NDCs and the goals of the Paris Agreement.": 0,
+    "Share experience on issuance of green bonds and use of other financial instruments.": 0,
+    "Identify strategies to incorporate climate risks and opportunities into investment decisions, including transparency/disclosure of climate-related financial risks and impacts, assessing financial stability risks, and ways to manage these risks.": 0,
+    "Identify measures to address high cost of capital for adaptation and mitigation investments in developing countries.": 0,
+    "Support multilateral development banks’ efforts to mobilize climate finance and accelerate dissemination of international best practices.": 0,
+    "Implement the Santiago Action Plan 2020 workstream on preparation and implementation of NDCs (Helsinki Principle 6) to improve members’ ability to evaluate macro-fiscal impacts and guide NDC development processes.": 0,
+    "Identify economic-fiscal guidelines and requirements that finance ministries could issue to sector ministries/agencies for future NDC development, and increase awareness of tools/resources to assess macro-fiscal impacts of NDC and long-term strategy implementation.": 0,
+    "Provide opportunities for peer exchange on good practices and instruments to support other ministries in NDC implementation and validation.": 0,
+    "Facilitate access to networks for information and resource sharing and visibility of success stories related to NDCs.": 0
+  }
+}

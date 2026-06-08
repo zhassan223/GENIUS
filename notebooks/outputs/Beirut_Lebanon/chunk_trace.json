@@ -1,0 +1,46 @@
+{
+  "doc_id": "Beirut_Lebanon_370ee75d2b",
+  "total_chunks": 1,
+  "total_policies_before_resolve": 17,
+  "total_policies_after_resolve": 17,
+  "resolver_stats": {
+    "input_count": 17,
+    "dedup_removed": 0,
+    "statement_dedup_removed": 0,
+    "deterministic_links": 0,
+    "llm_arbitrated": 0,
+    "orphan_count": 0,
+    "output_count": 17
+  },
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "word_count": 9772,
+      "has_overlap": false,
+      "ancestor_headings": [],
+      "policies_extracted": 17,
+      "elapsed_seconds": 0.04,
+      "carry_forward_length": 0,
+      "error": null
+    }
+  ],
+  "chunk_provenance": {
+    "Lebanon will increase its unconditional economy-wide GHG emissions reduction target to 20% below BAU in 2030 and its conditional target to 31% below BAU in 2030.": 0,
+    "Lebanon commits to unconditionally generate 18% of electricity (power demand) and 11% of building-sector heat demand from renewable energy sources by 2030.": 0,
+    "Conditionally on international support, Lebanon commits to generate 30% of electricity (power demand) and 16.5% of building-sector heat demand from renewable energy sources by 2030.": 0,
+    "Lebanon commits to reduce power demand through energy-efficiency measures by 3% under BAU in 2030 unconditionally, and by 10% under BAU in 2030 conditionally.": 0,
+    "Lebanon will establish a transparency framework to improve institutional arrangements, data availability and periodicity, and monitoring and evaluation of mitigation and adaptation projects.": 0,
+    "Lebanon plans to revise its policymaking process to include gender institutions, youth groups, and vulnerable communities.": 0,
+    "Lebanon is working towards establishing the Lebanon Green Investment Facility (LGIF) to provide climate and green finance instruments for public and private sectors and technical assistance to create bankable projects, contributing to NDC implementation by increasing investments in climate-friendly projects.": 0,
+    "Lebanon is developing a climate-proofing methodology to assess and reduce impacts of climate-negative projects and guide investment evaluation through a climate lens, and intends to explore greening foreign investments including ODA while including environmental and social standards (ESS) and gender-responsiveness in project evaluation and implementation.": 0,
+    "Lebanon commits to render climate adaptation action gender responsive.": 0,
+    "Lebanon will strengthen the agricultural sector's resilience through restoring farmers’ livelihoods and productive capacity, increasing agricultural production and productivity, enhancing agri-food value chains (including fisheries), encouraging private investment and access to climate finance/insurance, strengthening institutions, and increasing household resilience for food and nutrition security.": 0,
+    "Lebanon will promote sustainable forest management by restoring degraded landscapes, increasing forest cover, adapting forest systems (halting land degradation, controlling erosion, improving water quality/soil productivity), establishing improved production sites linked to forest products industries and employment, and promoting sustainable rangeland management.": 0,
+    "Lebanon will develop sustainable water services (including irrigation) by implementing the Beirut Water Declaration, improving irrigation efficiency and surface water supply, supporting renewable energy use in irrigation and drinking water supply, building legal/institutional frameworks for water management, developing financing tools and mechanisms for service sustainability, and improving monitoring and transparency through actor coordination.": 0,
+    "Lebanon will manage biodiversity by identifying the status of 75% of known flora and fauna species, implementing conservation actions for 50% of threatened species, protecting at least 20% of terrestrial and marine ecosystems, increasing nature reserves coverage to at least 5% of Lebanon’s area, sustainably managing 50% of natural ecosystems in spatial planning, controlling non-indigenous biodiversity, and rehabilitating at least 20% of degraded sites.": 0,
+    "Lebanon will reduce vulnerability to climate change impacts on coastal zones by assessing seawater intrusion in major coastal aquifers, enhancing artificial recharge of selected aquifers, refreshing aquifer water budgeting, modeling aquifer types, increasing coastal protection capacity against storm surges and sea-level rise, and promoting sustainable use of resources such as fisheries.": 0,
+    "Lebanon will strengthen climate-resilient health systems by assessing health-sector vulnerability and establishing early warning systems, building capacity of health professionals, upgrading epidemiological surveillance, incorporating climate data into the national health information system, and developing and integrating health response strategies into national health strategies.": 0,
+    "Lebanon will reduce disaster risk by conducting a multi-hazard risk assessment, updating flood/fire/drought risk maps, upgrading and developing an early warning platform for multi-hazards, and coordinating updates to the National Forest fire management strategy.": 0,
+    "Lebanon will track progress toward its unconditional and conditional mitigation targets in its first Biennial Transparency Report (BTR) and subsequent BTRs, contingent on adequate support.": 0
+  }
+}

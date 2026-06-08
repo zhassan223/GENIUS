@@ -1,0 +1,61 @@
+{
+  "manifest_version": 1,
+  "entries": [
+    {
+      "source_bundle_key": "New_York_United_States::59537dca58e5c7561a9ee555",
+      "city": "New_York_United_States",
+      "policy_statement": "Meet the Climate Act clean energy deployment requirements: install 6,000 MW distributed solar by 2025, procure/deploy 3,000 MW energy storage by 2030, and procure 9,000 MW offshore wind by 2035.",
+      "role": "individual",
+      "parent_statement": null,
+      "mode": "replace",
+      "atoms": [
+        {
+          "policy_statement": "Install 6,000 MW of distributed solar by 2025.",
+          "deadline": "2025",
+          "mechanism": "Install capacity to meet Climate Act requirement",
+          "target": "6,000 MW distributed solar"
+        },
+        {
+          "policy_statement": "Procure/deploy 3,000 MW of energy storage by 2030.",
+          "deadline": "2030",
+          "mechanism": "Procure/deploy capacity to meet Climate Act requirement",
+          "target": "3,000 MW energy storage"
+        },
+        {
+          "policy_statement": "Procure 9,000 MW of offshore wind by 2035.",
+          "deadline": "2035",
+          "mechanism": "Procure capacity to meet Climate Act requirement",
+          "target": "9,000 MW offshore wind"
+        }
+      ]
+    },
+    {
+      "source_bundle_key": "Utah_United_States::7fe66692c157c9d457bb3df4",
+      "city": "Utah_United_States",
+      "policy_statement": "Install renewable energy generation on at least 16 separate government properties by end of 2017, obtain the equivalent of three megawatts of solar via Rocky Mountain Power Subscriber Solar, and achieve 50% renewable electricity for government operations by 2020.",
+      "role": "sub",
+      "parent_statement": "Embed Climate Positive solutions in city government operations through a set of internal operational policies including comprehensive energy management, net zero construction, renewable energy development, and a clean vehicle fleet.",
+      "mode": "replace",
+      "atoms": [
+        {
+          "policy_statement": "Have at least 16 separate government properties that include renewable energy generation.",
+          "deadline": "end of 2017",
+          "mechanism": "Install/include renewable energy generation on government properties",
+          "target": ">=16 government properties"
+        },
+        {
+          "policy_statement": "Receive the equivalent of three megawatts of solar power through Rocky Mountain Power Subscriber Solar.",
+          "deadline": null,
+          "mechanism": "Enroll in Rocky Mountain Power 'Subscriber Solar' program to receive solar equivalent",
+          "target": "3 MW solar equivalent"
+        },
+        {
+          "policy_statement": "Achieve 50% renewable electricity for government operations.",
+          "deadline": "2020",
+          "mechanism": "Increase renewable electricity supply for government operations",
+          "target": "50% renewable electricity (government operations)"
+        }
+      ]
+    }
+  ]
+}

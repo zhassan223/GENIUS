@@ -1,0 +1,200 @@
+[
+  {
+    "policy_statement": "Qatar intends to reduce 25% of its GHG emissions by 2030 relative to a Business-As-Usual (BAU) baseline scenario.",
+    "verbatim_text": "Qatar intends to reduce 25% of its GHG emissions by the year 2030, relative to baseline scenario {BusinessAs-Usual (BAU)}.\n\nThe reduction of 25% in GHG emissions for the year 2030, relative to BAU scenario is consistent with provisions stipulated in Articles 4.3, 4.4 and 4.7 of PA.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1. Executive summary",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Quantifiable national mitigation target with a deadline (25% by 2030 relative to BAU)."
+  },
+  {
+    "policy_statement": "Qatar Petroleum (QP) is committed to zero routine flaring by 2030 and to reducing onshore flaring to the absolute minimum, including technically feasible non-routine flaring.",
+    "verbatim_text": "The national oil company, Qatar Petroleum (QP), is committed to zero routine flaring by 2030, with a long-term goal to reduce flaring in onshore facilities to the absolute minimum. Technically feasible non-routine flaring is also covered.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3. Economic Diversification with Mitigation Co-benefits — a) Oil & Gas",
+    "sector": "Energy",
+    "extraction_rationale": "Specific, time-bound operational commitment in the oil & gas sector (zero routine flaring by 2030)."
+  },
+  {
+    "policy_statement": "Qatar will use carbon capture and storage (CCS) as a pivotal measure in the oil and gas sector, including CCS in new LNG facilities and developing/implementing CCS concepts for remaining LNG facilities subject to economic, safety, and environmental considerations.",
+    "verbatim_text": "Carbon capture storage (CCS) will be another pivotal measure for reducing the GHG emissions from the sector.\nCCS is included for new LNG facilities and concepts, for remaining LNG facilities will be developed and implemented considering the economic, safety and environmental concerns.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3. Economic Diversification with Mitigation Co-benefits — a) Oil & Gas",
+    "sector": "Energy",
+    "extraction_rationale": "States a concrete mitigation intervention (CCS) and its intended application to LNG facilities."
+  },
+  {
+    "policy_statement": "Qatar Petroleum introduced a smart leak detection and repair program (LDAR) in 2019 in all upstream and downstream oil and gas facilities, and Qatar plans to move toward a fully integrated fugitive methane monitoring and repair program across all assets.",
+    "verbatim_text": "In 2019, Qatar Petroleum introduced the smart leak detection and repair program (LDAR) in all upstream and downstream facilities of the oil & gas industry. Qatar further plans to move towards a fully integrated fugitive methane monitoring and repair program across all assets.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3. Economic Diversification with Mitigation Co-benefits — a) Oil & Gas",
+    "sector": "Energy",
+    "extraction_rationale": "Specific program (LDAR) plus a forward plan to expand to integrated methane monitoring/repair."
+  },
+  {
+    "policy_statement": "Qatar is enhancing energy efficiency in the oil and gas sector through an energy efficiency program that includes initiatives intended to be implemented by 2025 (including seasonal optimization of gas turbine generators and boilers, improved measurement/balancing for fuel gas/steam, and improved reliability of heat recovery steam generators).",
+    "verbatim_text": "Qatar is  enhancing  energy  efficiency  in  the  oil  &  gas  sector  as  a  key  measure  to  reduce  GHG emissions. The energy efficiency program includes several projects that are allocated in upstream facilities  as  well  as  gas-to-liquid  and  downstream  facilities. Amongst  the  variety  of  measures  in energy efficiency, certain initiatives are aimed to be implemented by 2025, e.g., seasonal optimization of gas turbine generators and boilers, improved measurement / balancing for fuel gas / steam, and improved reliability of heat recovery steam generator (HRSGs).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3. Economic Diversification with Mitigation Co-benefits — a) Oil & Gas",
+    "sector": "Energy",
+    "extraction_rationale": "Time-anchored implementation plan (by 2025) with specific efficiency actions."
+  },
+  {
+    "policy_statement": "Qatar commissioned a CO2 recovery and sequestration facility at Ras Laffan in 2019 with a design capacity of 2.2 MTPA of CO2 capture and storage.",
+    "verbatim_text": "Qatar commissioned the largest CO2 recovery and sequestration facility in the MENA region at Ras Laffan in 2019 with a design capacity of 2.2 MTPA of CO2 capture and storage.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3. Economic Diversification with Mitigation Co-benefits — a) Oil & Gas",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete implemented mitigation infrastructure with quantified capacity."
+  },
+  {
+    "policy_statement": "Qatar introduced its first 800 MW solar power plant, which is expected to be operational soon, and aims to expand such efforts to make renewable energy a key driver for ecological and commercial benefits.",
+    "verbatim_text": "Nevertheless,  recently  Qatar  has  made significant progress in reducing the emissions from the power & water sector, by introducing its first 800 MW solar power plant, which shall be operational soon. It is the goal of the State of Qatar to expand these efforts and transform renewable energy into a key driver for ecological and commercial benefits.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3. Economic Diversification with Mitigation Co-benefits — b) Power & Water",
+    "sector": "Energy",
+    "extraction_rationale": "Specific renewable energy project with quantified capacity; also states an explicit goal to expand efforts."
+  },
+  {
+    "policy_statement": "Qatar is deploying energy efficiency measures including district cooling and systematic energy labeling for electronic devices, and has implemented specification improvement standards for equipment such as air conditioners to reduce electricity consumption.",
+    "verbatim_text": "Energy efficiency measures such as district cooling and energy labeling for all electronic devices are systematically  being  deployed...\n\nQatar  has  implemented several  specification  improvement  standards  for  electrical  and  electronic  equipment  such  as  air conditioners resulting in significant savings in electricity consumption.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3. Economic Diversification with Mitigation Co-benefits — b) Power & Water",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete interventions described as being deployed/implemented (energy labeling; standards for appliances; district cooling)."
+  },
+  {
+    "policy_statement": "Qatar has an initiative to phase out incandescent lamps and adopt energy-efficient lighting.",
+    "verbatim_text": "The  initiative  to  phase  out  incandescent  lamps  and  adoption  of  Energy  Efficient  lighting  has contributed in a major way for conservation of Energy and thereby GHG emissions reduction in the State of Qatar.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3. Economic Diversification with Mitigation Co-benefits — b) Power & Water",
+    "sector": "Energy",
+    "extraction_rationale": "Named initiative indicating a concrete policy action (phasing out incandescent lamps)."
+  },
+  {
+    "policy_statement": "Qatar has committed to electrify its public transport system and is investing in installing charging infrastructure across the country.",
+    "verbatim_text": "The  country  has  also  taken  significant strides  to  adopt  electrification  of  on-road  vehicles  by  committing  to  electrify  its  public  transport system and investing in installation of charging infrastructure across the country.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3. Economic Diversification with Mitigation Co-benefits — c) Transportation",
+    "sector": "Transport",
+    "extraction_rationale": "Explicit commitment and investment action on electrification and charging infrastructure."
+  },
+  {
+    "policy_statement": "Qatar will gradually adopt Euro 6 emission standards for vehicles and promote a shift toward electric vehicles for private use to reduce transport emissions.",
+    "verbatim_text": "Going forward, gradual adoption of Euro 6 emission standards for vehicles and promoting a shift towards electric  vehicles  for  private  use  shall  constitute  key  initiatives  to  reduce  emissions  from  the transportation sector.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3. Economic Diversification with Mitigation Co-benefits — c) Transportation",
+    "sector": "Transport",
+    "extraction_rationale": "Clear forward-looking policy initiatives: vehicle emission standards and EV promotion."
+  },
+  {
+    "policy_statement": "Qatar is transforming building standards by adopting the Global Sustainability Assessment System (GSAS) standards to facilitate transition toward green buildings.",
+    "verbatim_text": "Qatar has been transforming its building standards towards higher sustainability levels through the adoption of the Global Sustainability Assessment System (GSAS) standards. The number of projects registered  for  GSAS  certifications  has  been  rapidly  increasing thereby  facilitating  the  transition towards  green  buildings.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3. Economic Diversification with Mitigation Co-benefits — d) Building, Construction & Industry",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific regulatory/standards-based intervention (adoption of GSAS standards)."
+  },
+  {
+    "policy_statement": "Qatar plans to promote decentralized renewable energy production and use in buildings while making building energy consumption more efficient.",
+    "verbatim_text": "Qatar plans to promote decentralized renewable energy production and  use  in  buildings  while  also  making  more  efficient  their  energy  consumption.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3. Economic Diversification with Mitigation Co-benefits — d) Building, Construction & Industry",
+    "sector": "Buildings",
+    "extraction_rationale": "Explicit planned action (promote decentralized renewables in buildings and efficiency improvements)."
+  },
+  {
+    "policy_statement": "Qatar is implementing recycling and re-using construction waste in the construction sector and plans to explore using environmentally friendly battery-powered generators for construction activities.",
+    "verbatim_text": "Qatar  has  been  making  a  steady  progress  towards  attaining  circular  economy  in  the  construction sector by implementing recycling and re-using construction waste and the government further plans to explore the use of environment friendly battery-powered generators for construction activities.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3. Economic Diversification with Mitigation Co-benefits — d) Building, Construction & Industry",
+    "sector": "Industry",
+    "extraction_rationale": "Concrete waste management/circular economy action plus a stated forward plan for cleaner generators."
+  },
+  {
+    "policy_statement": "Qatar has introduced a new and ambitious water conservation regulation and is implementing measures such as consumer awareness messages, retrofitting/replacing aerators in government facilities, and switching to treated sewage effluent (TSE) for irrigation in parks.",
+    "verbatim_text": "Besides  the  implementation  of  a  new  and  ambitious  water  conservation  regulation,  several  other measures have been started, e.g., increasing awareness via messages to residential customers with high  consumption,  retrofitting  and  replacing  aerators  in  governmental  facilities  and  switching  to treated sewage effluent (TSE) for irrigation in parks.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4. Adaptation actions with Mitigation Co-benefits — a) Water Management",
+    "sector": "Water",
+    "extraction_rationale": "Mentions a regulation and specific implemented measures (aerators, TSE irrigation, targeted messaging)."
+  },
+  {
+    "policy_statement": "As part of developing Qatar's Water Plan and Strategy, Qatar developed a National Water Policy; finalized a draft National Water Law and its executive by-law; and completed a draft law regulating groundwater well drilling.",
+    "verbatim_text": "Moreover, as part of the development of Qatar's Water Plan and Strategy, the National Water Policy was developed as the draft of the National Water Law and its executive by-law have been finalized. Furthermore, a draft law to regulate groundwater wells drilling has been completed.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4. Adaptation actions with Mitigation Co-benefits — a) Water Management",
+    "sector": "Water",
+    "extraction_rationale": "Concrete policy and legal instruments (policy developed; draft law/by-law finalized; draft groundwater drilling law completed)."
+  },
+  {
+    "policy_statement": "Qatar is restoring marine habitats (including growing mangrove trees) and planting indigenous trees in urban areas to increase carbon sequestration potential.",
+    "verbatim_text": "On biodiversity, Qatar is restoring marine habitats, particularly growing mangrove trees, and planting indigenous trees in urban areas and hence increasing the potential for carbon sequestration.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4. Adaptation actions with Mitigation Co-benefits — a) Water Management",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific nature-based interventions linked to sequestration (mangroves; indigenous urban trees)."
+  },
+  {
+    "policy_statement": "Qatar has committed to formulating a comprehensive urban development plan and a sustainable urbanization and population distribution policy guided by National Vision 2030.",
+    "verbatim_text": "Qatar has committed itself to formulating a comprehensive urban development plan and a sustainable urbanization and population distribution policy. The plan, which comprises detailed strategies and operational aspects, is guided by the National Vision 2030 as a general framework.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4. Adaptation actions with Mitigation Co-benefits — b) Infrastructure",
+    "sector": "Infrastructure",
+    "extraction_rationale": "Explicit commitment to formulate plans/policies with defined scope (urban development; urbanization/population distribution)."
+  },
+  {
+    "policy_statement": "Qatar has launched a national food security strategy focused on four pillars: enhancing international trade and logistics, increasing domestic self-sufficiency in niches, building strategic reserves, and enhancing domestic markets.",
+    "verbatim_text": "Qatar  has  launched  a  robust  national  food  security  strategy  to  optimize  the  use  of  the  country's agricultural land and water resources and insulate domestic food needs from external shocks.\nThe strategy focuses  on  four  pillars  of  enhancing  international  trade  and  logistics,  increasing  domestic  selfsufficiency in some niches, building strategic reserves and enhancing domestic markets.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4. Adaptation actions with Mitigation Co-benefits — d) Food Security",
+    "sector": "AFOLU",
+    "extraction_rationale": "Named national strategy with clearly enumerated pillars (specific interventions)."
+  },
+  {
+    "policy_statement": "Qatar plans to develop a hydroponics greenhouse cluster to reach 70% self-sufficiency in greenhouse vegetables and has launched multiple programs and subsidies for greenhouse production.",
+    "verbatim_text": "For vegetables production, it has plans to develop its hydroponics greenhouse cluster to reach 70% self-sufficiency on greenhouse vegetables and has launched multiple programs and subsidies towards greenhouse production.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4. Adaptation actions with Mitigation Co-benefits — d) Food Security",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantified target (70% self-sufficiency) plus specific interventions (programs and subsidies)."
+  },
+  {
+    "policy_statement": "Qatar plans to put in place adequate reserves (including perishables, selected non-perishables, potable water and groundwater reserves) to buffer against potential production disruptions.",
+    "verbatim_text": "Qatar also plans to put in place adequate reserves, including perishables, selected non-perishables, potable water and groundwater reserves to buffer against potential production disruptions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4. Adaptation actions with Mitigation Co-benefits — d) Food Security",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Explicit planned measure specifying reserve types and purpose (buffer disruptions)."
+  },
+  {
+    "policy_statement": "Qatar will design a National Measurement, Reporting and Verification (MRV) System, governed by the Ministry of Municipality and Environment Climate Change Department, to measure and validate progress toward NDC commitments using verified sector-specific MRV communications prepared by national stakeholders.",
+    "verbatim_text": "Governed  by  the  MME  Climate  Change  Department,  the  National  Measurement,  Reporting  and Verification  (MRV)  System  will  be  designed  to  measure  and  validate  progress  towards  the commitments made in this NDC, using verified sector specific MRV communications prepared by the national stakeholders.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "7. Monitoring and Reporting Progress",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Concrete institutional commitment to create an MRV system with defined governance and function."
+  }
+]

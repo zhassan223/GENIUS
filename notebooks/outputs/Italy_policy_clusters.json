@@ -1,0 +1,1726 @@
+[
+  {
+    "cluster_id": 0,
+    "cluster_type": "parent_with_subs",
+    "section_header": "3.10.2 energy transmission infrastructure — ii. projections of network expansion requirements at least until 2040 (including for the year 2030)",
+    "parent": {
+      "policy_statement": "Terna's Development Plan 2017 identifies priority development actions including overseas connections (HVDC Grand'Ile–Piossasco and Italy–Montenegro) and domestic grid projects to reduce congestion, increase safety/reliability in metropolitan areas, and improve quality and safety.",
+      "verbatim_text": "Terna's Development Plan 2017 identifies a number of development actions that qualify as priority  actions,  including  two  overseas  connections  (HVDC  Grand'Ile-Piossasco  and  ItalyMontenegro). The domestic connections are identified on the basis of the following primary requirements:\n\n- -reduction in congestion between market areas;\n- -reduction in congestion between areas and restrictions on production capacity;\n- -increase in safety and reliability in metropolitan areas;\n- -increase in quality and safety.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "3.10.2 Energy transmission infrastructure — ii. Projections of network expansion requirements at least until 2040 (including for the year 2030)",
+      "sector": "Electricity",
+      "extraction_rationale": "Introduces a structured set of priority actions with multiple specific sub-items listed below (grid projects grouped by objective), fitting a parent policy."
+    },
+    "subs": [
+      {
+        "policy_statement": "Build the 400 kV 'Calenzano–Colunga' power line to increase exchange limits on the North–Central Northern section.",
+        "verbatim_text": "- -400kV 'Calenzano - Colunga' power line to increase the exchange limits on the North Central Northern section;",
+        "policy_type": "sub",
+        "parent_policy_name": "Terna's Development Plan 2017 identifies priority development actions including overseas connections (HVDC Grand'Ile–Piossasco and Italy–Montenegro) and domestic grid projects to reduce congestion, increase safety/reliability in metropolitan areas, and improve quality and safety.",
+        "section_header": "3.10.2 Energy transmission infrastructure — ii. Projections of network expansion requirements at least until 2040 (including for the year 2030) / Reduction in congestion between market areas",
+        "sector": "Electricity",
+        "extraction_rationale": "Specific named grid reinforcement action listed under Terna priority actions."
+      },
+      {
+        "policy_statement": "Build the 400 kV 'Foggia–Villanova' and 'Deliceto–Bisaccia' power lines to increase exchange limits South→Central Southern and encourage renewable generation in the South.",
+        "verbatim_text": "- -400 kV  'Foggia  -  Villanova'  and  'Deliceto  -  Bisaccia'  power  lines  to  increase  the exchange limits in the South - Central Southern direction and to encourage production in the plants of renewable sources to the South;",
+        "policy_type": "sub",
+        "parent_policy_name": "Terna's Development Plan 2017 identifies priority development actions including overseas connections (HVDC Grand'Ile–Piossasco and Italy–Montenegro) and domestic grid projects to reduce congestion, increase safety/reliability in metropolitan areas, and improve quality and safety.",
+        "section_header": "3.10.2 Energy transmission infrastructure — ii. Projections of network expansion requirements at least until 2040 (including for the year 2030) / Reduction in congestion between market areas",
+        "sector": "Electricity",
+        "extraction_rationale": "Concrete infrastructure project(s) with intended operational impact, listed as priority actions."
+      },
+      {
+        "policy_statement": "Build the 400 kV 'Montecorvino–Avellino–Benevento' power lines to increase exchange limits South→Central Southern, reduce constraints on the Rossano production centre, and encourage renewable generation in the South.",
+        "verbatim_text": "- -400 kV 'Montecorvino - Avellino - Benevento' power lines to increase the exchange limits in the South- Central-Southern direction and to reduce the constraints on the Rossano  production  centre,  as  well  as  encourage  the  production  of  plants  from renewable sources in the South;",
+        "policy_type": "sub",
+        "parent_policy_name": "Terna's Development Plan 2017 identifies priority development actions including overseas connections (HVDC Grand'Ile–Piossasco and Italy–Montenegro) and domestic grid projects to reduce congestion, increase safety/reliability in metropolitan areas, and improve quality and safety.",
+        "section_header": "3.10.2 Energy transmission infrastructure — ii. Projections of network expansion requirements at least until 2040 (including for the year 2030) / Reduction in congestion between market areas",
+        "sector": "Electricity",
+        "extraction_rationale": "Specific named transmission lines identified as priority actions."
+      },
+      {
+        "policy_statement": "Redevelop the North Calabria network (together with the already completed Traversale Calabra 400 kV Feroleto–Maida line) to reduce constraints on the Rossano production centre and renewable generation in Calabria.",
+        "verbatim_text": "- -redevelopment  of  North  Calabria  network,  which  contributes,  together  with  the Traversale  Calabra  (400  kV  Feroleto-Maida  power  line),  which  was  completed in December 2013, to reduce the constraints on the Rossano production centre and on production from renewable sources in Calabria;",
+        "policy_type": "sub",
+        "parent_policy_name": "Terna's Development Plan 2017 identifies priority development actions including overseas connections (HVDC Grand'Ile–Piossasco and Italy–Montenegro) and domestic grid projects to reduce congestion, increase safety/reliability in metropolitan areas, and improve quality and safety.",
+        "section_header": "3.10.2 Energy transmission infrastructure — ii. Projections of network expansion requirements at least until 2040 (including for the year 2030) / Reduction in congestion between market areas",
+        "sector": "Electricity",
+        "extraction_rationale": "Priority grid redevelopment measure described with purpose; even though one line is already completed, the redevelopment action is stated as part of plan."
+      },
+      {
+        "policy_statement": "Build a 400 kV power line between Milan and Brescia to reduce congestion between the north-west and north-east areas.",
+        "verbatim_text": "- -400 kV power line between Milan and Brescia to reduce congestion on the section between the north-west and the north-east areas of the country;",
+        "policy_type": "sub",
+        "parent_policy_name": "Terna's Development Plan 2017 identifies priority development actions including overseas connections (HVDC Grand'Ile–Piossasco and Italy–Montenegro) and domestic grid projects to reduce congestion, increase safety/reliability in metropolitan areas, and improve quality and safety.",
+        "section_header": "3.10.2 Energy transmission infrastructure — ii. Projections of network expansion requirements at least until 2040 (including for the year 2030) / Reduction in congestion between areas and restrictions on production capacity",
+        "sector": "Electricity",
+        "extraction_rationale": "Specific transmission investment listed under Terna priority actions."
+      },
+      {
+        "policy_statement": "Build the 400 kV 'Udine–Redipuglia' power line to reduce constraints downstream of the Redipuglia junction that limit exchanges with Slovenia and affect use of local resources.",
+        "verbatim_text": "- -400  kV  'Udine  -  Redipuglia'  power  line  to  reduce  constraints  on  the  section  of  the network downstream of the Redipuglia junction, which currently limits exchanges with the Slovenian border and affects the use of locally produced resources;",
+        "policy_type": "sub",
+        "parent_policy_name": "Terna's Development Plan 2017 identifies priority development actions including overseas connections (HVDC Grand'Ile–Piossasco and Italy–Montenegro) and domestic grid projects to reduce congestion, increase safety/reliability in metropolitan areas, and improve quality and safety.",
+        "section_header": "3.10.2 Energy transmission infrastructure — ii. Projections of network expansion requirements at least until 2040 (including for the year 2030) / Reduction in congestion between areas and restrictions on production capacity",
+        "sector": "Electricity",
+        "extraction_rationale": "Named line with explicit intended effect; concrete infrastructure action."
+      },
+      {
+        "policy_statement": "Streamline the Valle del Piave medium network to reduce congestion and encourage renewable generation.",
+        "verbatim_text": "- -streamlining of the Valle del Piave medium network in order to reduce congestion and encourage production from renewable sources;",
+        "policy_type": "sub",
+        "parent_policy_name": "Terna's Development Plan 2017 identifies priority development actions including overseas connections (HVDC Grand'Ile–Piossasco and Italy–Montenegro) and domestic grid projects to reduce congestion, increase safety/reliability in metropolitan areas, and improve quality and safety.",
+        "section_header": "3.10.2 Energy transmission infrastructure — ii. Projections of network expansion requirements at least until 2040 (including for the year 2030) / Reduction in congestion between areas and restrictions on production capacity",
+        "sector": "Electricity",
+        "extraction_rationale": "Specific network action (streamlining) presented as priority to reduce congestion and integrate RES."
+      },
+      {
+        "policy_statement": "Build 400 kV 'Paternò–Pantano–Priolo' and 'Chiaramonte Gulfi–Ciminna' power lines to improve interchangeability of resources in Sicily and between Sicily and the mainland, increase reliable operation, and encourage renewable generation.",
+        "verbatim_text": "- -400 kV 'Paternò - Pantano - Priolo' and 'Chiaramonte Gulfi - Ciminna' power lines for greater interchangeability of resources in Sicily and between Sicily and the continent, also to increase reliable operation and encourage production from renewable sources;",
+        "policy_type": "sub",
+        "parent_policy_name": "Terna's Development Plan 2017 identifies priority development actions including overseas connections (HVDC Grand'Ile–Piossasco and Italy–Montenegro) and domestic grid projects to reduce congestion, increase safety/reliability in metropolitan areas, and improve quality and safety.",
+        "section_header": "3.10.2 Energy transmission infrastructure — ii. Projections of network expansion requirements at least until 2040 (including for the year 2030) / Reduction in congestion between areas and restrictions on production capacity",
+        "sector": "Electricity",
+        "extraction_rationale": "Two specific 400 kV line projects identified as priority actions."
+      },
+      {
+        "policy_statement": "Build the 150 kV SE S. Teresa–Buddusò power line to reduce congestion and improve safety and quality of electricity transmission service.",
+        "verbatim_text": "- -150 kV SE S.Teresa - Buddusò power line to reduce congestion and improve the safety and quality of the electricity transmission service.",
+        "policy_type": "sub",
+        "parent_policy_name": "Terna's Development Plan 2017 identifies priority development actions including overseas connections (HVDC Grand'Ile–Piossasco and Italy–Montenegro) and domestic grid projects to reduce congestion, increase safety/reliability in metropolitan areas, and improve quality and safety.",
+        "section_header": "3.10.2 Energy transmission infrastructure — ii. Projections of network expansion requirements at least until 2040 (including for the year 2030) / Reduction in congestion between areas and restrictions on production capacity",
+        "sector": "Electricity",
+        "extraction_rationale": "Specific transmission line investment; actionable and located."
+      },
+      {
+        "policy_statement": "Streamline AAT and AT networks in Turin, Milan, Genoa, Florence, Rome, Naples and Palermo to reduce congestion impacting operating safety and reliability of primary supply networks in high-user-concentration areas.",
+        "verbatim_text": "- -streamlining of AAT and AT Turin, Milan, Genoa, Florence, Rome, Naples and Palermo networks to reduce congestion that impacts upon the operating safety and reliability of the primary networks that supply areas with a high concentration of users",
+        "policy_type": "sub",
+        "parent_policy_name": "Terna's Development Plan 2017 identifies priority development actions including overseas connections (HVDC Grand'Ile–Piossasco and Italy–Montenegro) and domestic grid projects to reduce congestion, increase safety/reliability in metropolitan areas, and improve quality and safety.",
+        "section_header": "3.10.2 Energy transmission infrastructure — ii. Projections of network expansion requirements at least until 2040 (including for the year 2030) / Increase in safety and reliability in metropolitan areas",
+        "sector": "Electricity",
+        "extraction_rationale": "Specific intervention type (streamlining) and list of targeted metropolitan areas, presented as priority actions."
+      },
+      {
+        "policy_statement": "Build a 132 kV 'Elba–Continente' power line and a 150 kV interconnection for the Campania islands to ensure adequate safety, continuity and efficiency of local service.",
+        "verbatim_text": "- -132  kV  'Elba-Continente'  power  line  and  150 kV  interconnection  of  the  Campania islands,  to  ensure  adequate  levels  of  safety,  continuity  and  efficiency  of  the  local service;",
+        "policy_type": "sub",
+        "parent_policy_name": "Terna's Development Plan 2017 identifies priority development actions including overseas connections (HVDC Grand'Ile–Piossasco and Italy–Montenegro) and domestic grid projects to reduce congestion, increase safety/reliability in metropolitan areas, and improve quality and safety.",
+        "section_header": "3.10.2 Energy transmission infrastructure — ii. Projections of network expansion requirements at least until 2040 (including for the year 2030) / Increase in quality and safety",
+        "sector": "Electricity",
+        "extraction_rationale": "Concrete network expansion projects with stated service objectives."
+      },
+      {
+        "policy_statement": "Redevelop the 150 kV network in the Sorrento Peninsula to improve quality and continuity of supply for the local AT network with high load density.",
+        "verbatim_text": "- -redevelopment  of  the  150 kV  network  in  the  Sorrento  Peninsula,  for  quality  and continuity of supply service for the local AT network, which features high load density",
+        "policy_type": "sub",
+        "parent_policy_name": "Terna's Development Plan 2017 identifies priority development actions including overseas connections (HVDC Grand'Ile–Piossasco and Italy–Montenegro) and domestic grid projects to reduce congestion, increase safety/reliability in metropolitan areas, and improve quality and safety.",
+        "section_header": "3.10.2 Energy transmission infrastructure — ii. Projections of network expansion requirements at least until 2040 (including for the year 2030) / Increase in quality and safety",
+        "sector": "Electricity",
+        "extraction_rationale": "Specific redevelopment action identified under Terna priority actions."
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "cluster_type": "individual",
+    "section_header": "i. political, economic, environmental, and social context of the plan",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy aims to promote a 'Green New Deal' including transposition of EU energy and climate package directives and new synergistic initiatives starting with Law No. 160 of 27 December 2019 (Budget Law for 2020).",
+      "verbatim_text": "Italy therefore agrees with the Community approach, which is intended to strengthen commitment to the decarbonisation dimension, and aims to promote a Green New Deal... The Green New Deal will be expressed in different forms and follow different directions, including provisions to transpose the EU Directives implementing the energy and climate package, but also by promoting new and synergistic initiatives, starting with Law No 160 of 27 December 2019 (Budget Law for 2020).",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "i. Political, economic, environmental, and social context of the plan",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Explicit intent to implement a Green New Deal through specific actions (directive transposition; initiatives under a named law)."
+    }
+  },
+  {
+    "cluster_id": 2,
+    "cluster_type": "individual",
+    "section_header": "i. political, economic, environmental, and social context of the plan",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will use the Interministerial Committee for Sustainable Development (CIPESS) to foster closer coordination of public policies to pursue UN sustainable development objectives, aligned with the Green New Deal.",
+      "verbatim_text": "Law No 141 of 12 December 2019... concerning the transformation of the Interministerial Committee for Economic Planning (CIPE) into the Interministerial Committee for Sustainable Development (CIPESS), follows the objectives set out in the Green New Deal. Its declared purpose is to foster closer coordination of public policies with a view to pursuing the sustainable development objectives...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "i. Political, economic, environmental, and social context of the plan",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Named institutional reform with declared purpose to coordinate policies for sustainable development."
+    }
+  },
+  {
+    "cluster_id": 3,
+    "cluster_type": "individual",
+    "section_header": "ii. strategy relating to the five dimensions of the energy union",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will implement horizontal governance measures for coordinated INECP implementation, including multi-ministry governance involving Regions, municipalities, ARERA and others, plus monitoring and coordination of infrastructure authorisations and R&I.",
+      "verbatim_text": "The horizontal measures will include the following.\n\n- -Careful governance of the plan that will enable it to be implemented in a coordinated manner... this governance will encompass various ministries. It will also involve... the Regions, the municipalities and the Regulatory Authority for Energy, Networks and Environment (ARERA)... and... the monitoring of the effects of the plan...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "ii. Strategy relating to the five dimensions of the Energy Union",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Concrete commitment to establish governance and monitoring arrangements to implement the plan."
+    }
+  },
+  {
+    "cluster_id": 4,
+    "cluster_type": "individual",
+    "section_header": "ii. strategy relating to the five dimensions of the energy union",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will evaluate actions needed to streamline procedures for implementing measures within identified timeframes and maintain a stable legislative/regulatory framework to ensure progress toward objectives.",
+      "verbatim_text": "- -An evaluation of the actions needed to effectively streamline the procedures for implementing the measures within the timeframes identified... this will help to ensure that steady progress is made towards achieving the objectives.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "ii. Strategy relating to the five dimensions of the Energy Union",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Explicit commitment to evaluate and streamline procedures tied to implementation timelines."
+    }
+  },
+  {
+    "cluster_id": 5,
+    "cluster_type": "individual",
+    "section_header": "ii. strategy relating to the five dimensions of the energy union",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will update and, if necessary, revise the tasks of public bodies working on energy and environmental matters to coordinate roles with INECP objectives and full decarbonisation by 2050.",
+      "verbatim_text": "- -Updating - and, if necessary, revising - the tasks of the various public bodies working on energy and environmental matters to ensure that their roles and activities are coordinated and coherent with the objectives of the plan and... full decarbonisation by 2050.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "ii. Strategy relating to the five dimensions of the Energy Union",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Institutional reform commitment connected to a defined long-term objective (full decarbonisation by 2050)."
+    }
+  },
+  {
+    "cluster_id": 6,
+    "cluster_type": "individual",
+    "section_header": "ii. strategy relating to the five dimensions of the energy union",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will promote research with network operators on integration of electricity, gas and water systems, including exploring use of existing infrastructure to store renewable energy long-term.",
+      "verbatim_text": "- -Promoting research activities, with the involvement of network operators, on methods for enhancing the integration of the systems (electricity, gas, water), by exploring, for example, the possibility of using pre-existing infrastructure to store renewable energy, including in the long term...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "ii. Strategy relating to the five dimensions of the Energy Union",
+      "sector": "Research & Innovation",
+      "extraction_rationale": "Specific intervention: promote R&I on sector coupling and storage using existing infrastructure."
+    }
+  },
+  {
+    "cluster_id": 7,
+    "cluster_type": "individual",
+    "section_header": "ii. strategy relating to the five dimensions of the energy union",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will integrate new technologies (starting with information technologies) into the energy system to facilitate distributed generation, security, resilience, energy efficiency, and active consumer participation in energy markets.",
+      "verbatim_text": "- -Integrating new technologies into the energy system, starting with information technologies, in order to facilitate distributed generation, security, resilience, energy efficiency, and the active participation of consumers in energy markets.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "ii. Strategy relating to the five dimensions of the Energy Union",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Concrete commitment to deploy enabling technologies for multiple energy transition outcomes."
+    }
+  },
+  {
+    "cluster_id": 8,
+    "cluster_type": "individual",
+    "section_header": "ii. strategy relating to the five dimensions of the energy union",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy is willing to consider additional instruments if necessary, including a review of energy taxation diversified by polluting and climate-changing emissions, considering vulnerable groups and sectors without alternatives.",
+      "verbatim_text": "- -A willingness to consider additional instruments if necessary, such as, for example, a review of energy taxation, diversified on the basis of polluting and climate-changing emissions... consideration would be given to the vulnerable sections of the population...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "ii. Strategy relating to the five dimensions of the Energy Union",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Explicit consideration of tax reform instrument linked to emissions; conditional but specific policy lever."
+    }
+  },
+  {
+    "cluster_id": 9,
+    "cluster_type": "individual",
+    "section_header": "dimension decarbonisation",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy intends to promote gradual phasing out of coal for electricity generation, with coal phase-out scheduled by the end of 2025 subject to timely construction of replacement plants and necessary infrastructure.",
+      "verbatim_text": "Italy intends to accelerate the transition from traditional fuels to renewable sources, by promoting the gradual phasing out of coal for electricity generation... the phasing out of coal, scheduled by the end of 2025... as long as the replacement plants and necessary infrastructure are constructed in good time;",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Dimension decarbonisation",
+      "sector": "Energy Supply",
+      "extraction_rationale": "Clear time-bound target (end of 2025) for coal phase-out with implementation condition."
+    }
+  },
+  {
+    "cluster_id": 10,
+    "cluster_type": "individual",
+    "section_header": "dimension decarbonisation",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy plans to exceed, if possible, the 30% 2030 renewables share target using calibrated instruments by sector, measure type and plant size, with an approach limiting soil consumption and landscape/environment impacts.",
+      "verbatim_text": "Italy will promote the further development of renewables... by exceeding, if possible, the 30% target set... This will be achieved through the use of instruments calibrated... with an approach aimed at limiting soil consumption and the impact on the landscape and environment...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Dimension decarbonisation",
+      "sector": "Renewables",
+      "extraction_rationale": "Includes quantified target reference (30%) and a described implementation approach (calibrated instruments, land/impact constraints)."
+    }
+  },
+  {
+    "cluster_id": 11,
+    "cluster_type": "individual",
+    "section_header": "ii. strategy relating to the five dimensions of the energy union",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will promote self-consumption and renewable energy communities and increase regulation and transparency in the retail sales segment so consumers benefit from a competitive market.",
+      "verbatim_text": "This requires the promotion of self-consumption and renewable energy communities, but also the greatest possible degree of regulation and transparency of the sales segment, so that consumers may reap the benefits of a competitive market.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "ii. Strategy relating to the five dimensions of the Energy Union",
+      "sector": "Energy (Demand-side)",
+      "extraction_rationale": "Specific interventions (promote self-consumption/communities; regulate/transparency of sales segment)."
+    }
+  },
+  {
+    "cluster_id": 12,
+    "cluster_type": "individual",
+    "section_header": "dimension energy efficiency",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will adopt a mix of fiscal, economic, regulatory and policy instruments to promote energy efficiency across all sectors, and will integrate efficiency into other policies to optimize cost-benefit.",
+      "verbatim_text": "The intention is to use a mix of fiscal, economic, regulatory and policy instruments... attempts will be also be made to integrate the energy efficiency aspect into policies and measures whose main purpose is something other than efficiency, in order to optimise the cost-benefit ratio...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Dimension energy efficiency",
+      "sector": "Energy Efficiency",
+      "extraction_rationale": "Clear commitment to deploy a defined instrument mix and mainstream efficiency into other policies."
+    }
+  },
+  {
+    "cluster_id": 13,
+    "cluster_type": "individual",
+    "section_header": "dimension energy efficiency",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy proposes a specific national energy programme under the EU 2021-27 cohesion cycle to modernise and improve building efficiency and build new infrastructure including sustainable mobility infrastructure, coordinated with regional programmes.",
+      "verbatim_text": "Along with the ordinary instruments, it will also be possible to use resources from the EU's development and cohesion programming cycle for 2021-27... a specific national energy programme has been proposed... intended to support initiatives to modernise and improve the efficiency of buildings and build new infrastructure, including infrastructure for sustainable mobility. The national programme, when approved, will be coordinated with regionally managed programmes.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Dimension energy efficiency",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Specific resource/program proposal tied to EU funding period and defined investment areas."
+    }
+  },
+  {
+    "cluster_id": 14,
+    "cluster_type": "individual",
+    "section_header": "dimension energy security",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "By the end of 2020, Italy will adopt the Plan for the Sustainable Energy Transition of Suitable Areas (PSETSA) to establish a framework for areas where hydrocarbon exploration, research and production activities would be planned to improve sustainability.",
+      "verbatim_text": "In addition, by the end of 2020 the Plan for the Sustainable Energy Transition of Suitable Areas (PSETSA) will be adopted. This document will make it possible to establish a framework of reference of those areas in Italy in which hydrocarbon exploration, research and production activities would be planned...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Dimension energy security",
+      "sector": "Fossil Energy",
+      "extraction_rationale": "Named plan with adoption deadline and purpose."
+    }
+  },
+  {
+    "cluster_id": 15,
+    "cluster_type": "individual",
+    "section_header": "dimension internal market",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will enhance electricity interconnections and market coupling with other Member States, and study/develop interconnections with third countries to facilitate efficient trade.",
+      "verbatim_text": "the electricity interconnections and market coupling with other Member States will be enhanced; however... the interconnections with third countries will also be studied and developed, in order to facilitate efficient trade.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Dimension internal market",
+      "sector": "Energy Infrastructure",
+      "extraction_rationale": "Direct commitment to expand interconnections and coupling."
+    }
+  },
+  {
+    "cluster_id": 16,
+    "cluster_type": "individual",
+    "section_header": "dimension internal market",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Terna's transmission development plans will be revised to introduce additional measures such as centralised storage systems to ensure safe integration of renewables and reduce over-generation.",
+      "verbatim_text": "the references are Terna S.p.A.'s development plans, which will be revised with a view to introducing additional measures, such as centralised storage systems, needed to ensure safe integration of renewable sources, and reducing over-generation...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Dimension internal market",
+      "sector": "Energy Infrastructure",
+      "extraction_rationale": "Specific infrastructure planning commitment (revise plans; add centralised storage)."
+    }
+  },
+  {
+    "cluster_id": 17,
+    "cluster_type": "individual",
+    "section_header": "dimension internal market",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will analyze and adjust market regulation to accommodate high-RES investment-cost structures and prevent negative effects on system adequacy, including repercussions for the gas market.",
+      "verbatim_text": "Consequently... a need to supplement and then adjust market regulation to create a context in which the offerings can be fairly compared and prevent negative effects on system adequacy, which would also have repercussions for the gas market.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Dimension internal market",
+      "sector": "Energy Markets",
+      "extraction_rationale": "Commitment to regulatory changes in response to RES-driven market dynamics."
+    }
+  },
+  {
+    "cluster_id": 18,
+    "cluster_type": "individual",
+    "section_header": "2.1.2 renewable energy",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy plans to pursue a 30% share of gross final energy consumption from renewables by 2030, projecting 111 Mtoe final consumption with about 33 Mtoe from renewables.",
+      "verbatim_text": "Italy plans to pursue the target of obtaining 30% of gross final consumption of energy from renewable sources in 2030... the target for 2030 projects a gross final consumption of energy of 111 Mtoe, with approximately 33 Mtoe of that coming from renewable sources.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "2.1.2 Renewable energy",
+      "sector": "Renewables",
+      "extraction_rationale": "Quantified national RES target with supporting energy amounts."
+    }
+  },
+  {
+    "cluster_id": 19,
+    "cluster_type": "individual",
+    "section_header": "2.1.2 renewable energy",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "By 2030, Italy expects renewables shares of 55.0% in electricity, 33.9% in heating and cooling, and 22.0% in transport (RED II accounting).",
+      "verbatim_text": "the contribution of renewables... by 2030 (30%) is expected to have the following distribution... 55.0% renewables share in the electricity sector; 33.9%... in the heating sector...; 22.0%... in the transport sector (calculated using... RED II).",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "2.1.2 Renewable energy",
+      "sector": "Renewables",
+      "extraction_rationale": "Explicit sectoral targets with numbers."
+    }
+  },
+  {
+    "cluster_id": 20,
+    "cluster_type": "individual",
+    "section_header": "electricity sector",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy targets installed renewable electricity capacities by 2030 including 52,000 MW solar and 19,300 MW wind (including 900 MW offshore), alongside other RES capacity targets.",
+      "verbatim_text": "Table 10 - Growth targets for power (MW) from renewable sources for 2030... Wind... 19,300... of which off-shore... 900... Solar... 52,000...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Electricity sector",
+      "sector": "Renewables",
+      "extraction_rationale": "Quantified installed capacity targets by technology."
+    }
+  },
+  {
+    "cluster_id": 21,
+    "cluster_type": "individual",
+    "section_header": "electricity sector",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will promote revamping and repowering of existing renewable installations (including wind) and prioritize photovoltaic deployment on buildings/roofs/car parks while giving priority to unproductive or already-artificial areas for large ground-mounted PV to limit soil consumption.",
+      "verbatim_text": "it will not only be necessary to stimulate new production, but also to preserve existing production... by promoting the revamping and repowering of installations... A similar approach... will be followed... by promoting their installation primarily on buildings, roofs, car parks... it is nevertheless still vital to promote large ground-mounted photovoltaic installations, with priority being given... to unproductive areas... preference should be given to contaminated sites, waste disposal sites and areas along the infrastructure system.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Electricity sector",
+      "sector": "Renewables",
+      "extraction_rationale": "Specific intervention approach for RES siting and repowering with stated priorities."
+    }
+  },
+  {
+    "cluster_id": 22,
+    "cluster_type": "individual",
+    "section_header": "heating sector",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will introduce more stringent performance requirements for incentives for biomass-fired heat generators in the short term and encourage replacement of domestic wood-fired systems with efficient low-emission systems meeting top environmental classifications (Ministerial Decree No 186/2017).",
+      "verbatim_text": "more stringent performance requirements on accessing incentives for biomass-fired heat generators will be introduced in the short term.\n\nIn this respect, the replacement of domestic wood-fired systems with more efficient, loweremission systems that meet the highest environmental classification standards (Ministerial Decree No 186/2017) will be encouraged.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Heating sector",
+      "sector": "Buildings",
+      "extraction_rationale": "Regulatory/incentive tightening and specific replacement encouragement tied to an existing decree."
+    }
+  },
+  {
+    "cluster_id": 23,
+    "cluster_type": "individual",
+    "section_header": "transport sector",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "For transport, Italy will raise the obligation on fuel and electricity suppliers so that renewables reach a 22.0% share in the transport sector by 2030 (exceeding RED II 14% target).",
+      "verbatim_text": "the transport sector will surpass the value of 14% by increasing the obligation imposed on suppliers of fuels and electricity for the transport sector up to a renewables share of 22.0%.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Transport sector",
+      "sector": "Transport",
+      "extraction_rationale": "Clear regulatory obligation level with a quantified 2030 target."
+    }
+  },
+  {
+    "cluster_id": 24,
+    "cluster_type": "individual",
+    "section_header": "transport sector",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy confirms a target of at least 1.1 billion m³ of advanced biomethane from agricultural waste and OFMSW by 2030 for transport.",
+      "verbatim_text": "For advanced biomethane originating from agricultural waste and the organic fraction of municipal solid waste (OFMSW), the target of at least 1.1 billion m 3 by 2030 is confirmed.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Transport sector",
+      "sector": "Transport",
+      "extraction_rationale": "Quantified biomethane target with deadline and feedstock scope."
+    }
+  },
+  {
+    "cluster_id": 25,
+    "cluster_type": "individual",
+    "section_header": "transport sector",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy expects nearly 6 million electrically powered vehicles in circulation by 2030 (about 4 million all-electric) and aims to introduce compulsory electric vehicle quotas for public transport.",
+      "verbatim_text": "with almost 6 million electrically powered vehicles in overall circulation by 2030, approximately 4 million of which will be all-electric vehicles. The aim is to introduce compulsory quotas of electric vehicles specifically for public transport.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Transport sector",
+      "sector": "Transport",
+      "extraction_rationale": "Quantified deployment expectation plus an explicit policy aim (mandatory quotas) for public transport."
+    }
+  },
+  {
+    "cluster_id": 26,
+    "cluster_type": "individual",
+    "section_header": "transport sector",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy plans to promote the production and use of hydrogen produced by renewable electricity, starting with research, development and demonstration activities, to reduce emissions and store excess renewable electricity.",
+      "verbatim_text": "The plan is also to promote - starting with research, development and demonstration activities - the production and use of hydrogen produced by renewable electricity. This offers... reducing emissions... while at the same time making it possible to store excess renewable electricity...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Transport sector",
+      "sector": "Hydrogen",
+      "extraction_rationale": "Specific intervention (promote renewable hydrogen) and implementation pathway (R&D and demonstration)."
+    }
+  },
+  {
+    "cluster_id": 27,
+    "cluster_type": "individual",
+    "section_header": "2.2 dimension energy efficiency",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy intends to pursue by 2030 an indicative reduction target of 43% in primary energy consumption and 39.7% in final energy consumption versus the PRIMES 2007 scenario, targeting 125.1 Mtoe primary and 103.8 Mtoe final energy consumption in 2030.",
+      "verbatim_text": "Italy intends to pursue an indicative reduction target for 2030 of 43% for primary energy consumption and of 39.7% for final energy consumption... By contrast... for 2030, Italy is pursuing a target of 125.1 Mtoe of primary energy and 103.8 Mtoe of final energy...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "2.2 Dimension energy efficiency",
+      "sector": "Energy Efficiency",
+      "extraction_rationale": "Clear quantified energy efficiency targets in both relative and absolute terms."
+    }
+  },
+  {
+    "cluster_id": 28,
+    "cluster_type": "individual",
+    "section_header": "(2) the cumulative amount of end-use energy savings to be achieved over the period 2021-2030",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will achieve cumulative end-use energy savings of about 50.98 Mtoe over 2021-2030 under EED Article 7, corresponding to annual incremental savings of 0.927 Mtoe/year and nearly 9.3 Mtoe/year by 2030, and will not use EED Article 7(2) options for 2021-2030.",
+      "verbatim_text": "Therefore... a 50.98 Mtoe saving of final energy to be attained through active policies during the period 2021-2030.\n\nTherefore, in order to comply with the obligation, a reduction... of nearly 9.3 Mtoe/year by 2030... is required...\n\nItaly has decided not avail itself of the options referred to in Article 7(2) of the EED for 20212030.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "(2) the cumulative amount of end-use energy savings to be achieved over the period 2021-2030",
+      "sector": "Energy Efficiency",
+      "extraction_rationale": "Quantified savings obligation and explicit decision on compliance options."
+    }
+  },
+  {
+    "cluster_id": 29,
+    "cluster_type": "individual",
+    "section_header": "(4) the total floor area to be renovated... under article 5 of directive 2012/27/eu",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will continue and enhance the Energy Renovation Programme for the Central Public Administration (PREPAC) for 2021-2030 and plans to renovate 3.2 million m² of central public administration buildings over 2021-2030 to meet the 3% annual renovation obligation.",
+      "verbatim_text": "Provision is also made to continue with the Energy Renovation Programme for the Central Public Administration (PREPAC) during the period 2021-2030...\n\n...during the period 2021-2030, 3.2 million m 2 of floor area of buildings associated with the central public administration will be subjected to energy renovation.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "(4) the total floor area to be renovated... under Article 5 of Directive 2012/27/EU",
+      "sector": "Buildings",
+      "extraction_rationale": "Named program with continuation period and quantified renovation area commitment."
+    }
+  },
+  {
+    "cluster_id": 30,
+    "cluster_type": "individual",
+    "section_header": "(4) the total floor area to be renovated... under article 5 of directive 2012/27/eu",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will allocate additional resources to the public building renovation programme: €25 million for 2019 and €40 million per year from 2020 to 2022.",
+      "verbatim_text": "The existing measure was also reinforced by the 2019 Budget Law, which earmarked further resources for the programme, totalling €25 million for 2019 and €40 million each year from 2020 to 2022.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "(4) the total floor area to be renovated... under Article 5 of Directive 2012/27/EU",
+      "sector": "Buildings",
+      "extraction_rationale": "Explicit resource allocation with amounts and years."
+    }
+  },
+  {
+    "cluster_id": 31,
+    "cluster_type": "individual",
+    "section_header": "1.2 overview of current policy situation",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will issue 'green' government securities (Green Bonds) proportional to state budget interventions to combat climate change, promote energy conversion and the circular economy, protect the environment and foster social and territorial cohesion.",
+      "verbatim_text": "However, it is worth noting... the creation of 'green' government securities. Issuances of Green Bonds will be proportionate to interventions funded from the State budget to combat climate change, promote energy conversion and the circular economy, protect the environment and foster social and territorial cohesion.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "1.2 Overview of current policy situation",
+      "sector": "Finance",
+      "extraction_rationale": "Concrete financing instrument commitment (Green Bonds) and proportionality rule."
+    }
+  },
+  {
+    "cluster_id": 32,
+    "cluster_type": "individual",
+    "section_header": "iv. administrative structure of implementing national energy and climate policies",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will set up a permanent technical office (INECP Observatory) to support implementation and monitoring of the Plan, including monitoring progress and coordinating measures such as EV charging infrastructure promotion; it will publish an annual implementation report.",
+      "verbatim_text": "a permanent technical office will be set up (INECP Observatory... ). The role of the office will be... - monitoring the state of progress of the Plan objectives; ... -coordinating... the promotion of recharging infrastructure for electric vehicles; ...\n\nEach year the Observatory will draw up an implementation report...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "iv. Administrative structure of implementing national energy and climate policies",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Specific institutional setup with defined functions and annual reporting requirement."
+    }
+  },
+  {
+    "cluster_id": 33,
+    "cluster_type": "individual",
+    "section_header": "iv. administrative structure of implementing national energy and climate policies",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "GSE will set up a plan-monitoring platform to channel data and support INECP Observatory reporting and EU reporting.",
+      "verbatim_text": "To this end... GSE will set up a Plan-monitoring platform to which data and information from different sources will be channelled... for... the annual report on the implementation of the Plan... and for the drafting of the two-yearly reports to be sent to the European Commission.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "iv. Administrative structure of implementing national energy and climate policies",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Concrete commitment to create an information platform supporting monitoring and reporting."
+    }
+  },
+  {
+    "cluster_id": 34,
+    "cluster_type": "individual",
+    "section_header": "iv. administrative structure of implementing national energy and climate policies",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will propose burden-sharing beyond 2020 to distribute RES objectives among Regions and call on regional governments to contribute coherently to attainment.",
+      "verbatim_text": "This approach, based on a distribution of effort between the various Regions, will also be proposed beyond 2020, in order to ensure sharing of objectives and to call on regional governments to contribute in a coherent manner to their attainment.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "iv. Administrative structure of implementing national energy and climate policies",
+      "sector": "Renewables",
+      "extraction_rationale": "Explicit intention to extend a regional burden-sharing mechanism beyond 2020."
+    }
+  },
+  {
+    "cluster_id": 35,
+    "cluster_type": "individual",
+    "section_header": "1.2 overview of current policy situation",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy's PNIRE (National Plan for Electric Vehicle Charging Infrastructure) targets by 2020 include up to 13,000 slow/accelerated public charging stations and 6,000 fast charging stations, a 1:8 public-to-private ratio, and 130,000 electric vehicles in circulation, supported by a €72.2 million programme including €28.7 million government co-financing.",
+      "verbatim_text": "The targets of the Plan to be achieved by 2020 are to create up to 13,000 slow/accelerated charging stations and 6,000 fast charging stations... and to have 130,000 electric vehicles in circulation... Provision is made for a total budget of €72.2 million, in respect of government co-financing totalling €28.7 million.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "1.2 Overview of current policy situation",
+      "sector": "Transport",
+      "extraction_rationale": "Named plan with quantified infrastructure/vehicle targets and committed budget."
+    }
+  },
+  {
+    "cluster_id": 36,
+    "cluster_type": "individual",
+    "section_header": "1.2 overview of current policy situation",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Legislative Decree No 257 of 16 December 2016 requires local building regulations to be adapted to enable installation of EV charging infrastructure in new structures and requires local authorities, upon fleet renewal, to ensure at least 25% of cars, buses and public service vehicles are electric or LNG/CNG-fuelled.",
+      "verbatim_text": "Legislative Decree No 257 of 16 December 2016... introduces the obligation to put in place conditions for the installation of electrical charging infrastructure in new structures. Consequently, local building regulations must be adapted... A compulsory requirement Is also envisaged for local authorities to ensure that, at the time of their renewal, their fleet... is made up of at least 25% electric vehicles or vehicles fuelled with LNG or CNG.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "1.2 Overview of current policy situation",
+      "sector": "Transport",
+      "extraction_rationale": "Binding obligations established by a named legislative decree with a quantitative fleet requirement."
+    }
+  },
+  {
+    "cluster_id": 37,
+    "cluster_type": "individual",
+    "section_header": "electricity sector",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy has set the electricity adequacy reliability standard (LOLE) at 3 hours per year.",
+      "verbatim_text": "The analyses carried out by Terna and included in the adequacy report... highlighted that... the thresholds of the two indexes, LOLE... and ENS... would not be met... As regards this last topic, the Italian Government has set the LOLE value as 3h/year.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Electricity sector",
+      "sector": "Electricity/Power",
+      "extraction_rationale": "Defines an explicit national adequacy/reliability standard (quantified target) used to govern adequacy policy."
+    }
+  },
+  {
+    "cluster_id": 38,
+    "cluster_type": "individual",
+    "section_header": "electricity sector",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "The Ministry of Economic Development requires authorised distributors and Terna to submit resilience plans identifying high-risk areas/lines, relevant hazards, preventive measures, and coordinated service restoration measures; ARERA has established rewards/penalties to incentivise resilience measures.",
+      "verbatim_text": "Providing specific guidelines, the Ministry of Economic Development decided that the authorised distributors and Terna should all submit resilience plans, indicating the areas and lines most at risk, the phenomena that may compromise service, and the measures to avoid or, in any case, reduce the probability and extent of outages... for restoring service if disruptions occur... By Resolution No 668/2018/R/eel of 18 December 2018, ARERA identified a system of rewards and penalties to incentivise resilience measures.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Electricity sector",
+      "sector": "Electricity/Power",
+      "extraction_rationale": "Contains a clear directive (submission of resilience plans) and a regulatory incentive mechanism (rewards/penalties) to drive implementation."
+    }
+  },
+  {
+    "cluster_id": 39,
+    "cluster_type": "individual",
+    "section_header": "2.4.2 energy transmission infrastructure — electricity sector",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will implement scheduled cross-zonal electricity transmission upgrades by 2023 (Colunga–Calenzano, Foggia–Villanova, Bisaccia–Deliceto 380 kV lines) and complete additional lines and redevelopments thereafter; it will also promote a further 1,000 MW Adriatic coast RTN increase as per Terna’s 2018 Development Plan.",
+      "verbatim_text": "The following cross-zonal measures are scheduled to be implemented by 2023:\n- -380 kV Colunga-Calenzano electricity line\n- -380 kV Foggia-Villanova electricity line\n- -380 kV Bisaccia-Deliceto electricity line\n\nThe 380 kV Montecorvino-Avellino Nord-Benevento electricity line will be completed after this... In addition to the full implementation of Terna's 2016 and 2017 Development Plans, further development of the RTN for a 1000 MW increase along the Adriatic coast... will also be promoted in order to reduce congestion.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "2.4.2 Energy transmission infrastructure — Electricity sector",
+      "sector": "Electricity/Power",
+      "extraction_rationale": "Lists concrete transmission projects with an implementation timeframe and a quantified capacity increase objective."
+    }
+  },
+  {
+    "cluster_id": 40,
+    "cluster_type": "individual",
+    "section_header": "2.4.2 energy transmission infrastructure — electricity sector",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy plans distribution network investments estimated at €21.4 billion in the evolution trend scenario, including at least €500 million for resilience measures in 2018–2022 and €4.8 billion for rolling out second-generation (2G) meters.",
+      "verbatim_text": "In the scenario involving an evolution trend, the estimated investment costs in the distribution network stand at €21.4 billion, which includes planned measures to increase resilience (at least €500 million in the period 2018-2022) and the roll-out of 2G meters (€4.8 billion).",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "2.4.2 Energy transmission infrastructure — Electricity sector",
+      "sector": "Electricity/Power",
+      "extraction_rationale": "Explicit resource allocation (investment amounts) tied to specific measures (resilience and 2G metering)."
+    }
+  },
+  {
+    "cluster_id": 41,
+    "cluster_type": "individual",
+    "section_header": "circular economy and waste",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Law No 141/2019 allocates €40 million (2019–2024) for piloting 'green corners' in shops, €27 million (2019–2024) for the 'mangiaplastica' programme to deploy plastic-bottle collection machines, and €6 million (2020–2022) for the 'Io sono Ambiente' school information fund.",
+      "verbatim_text": "Law No 141 of 12 December 2019 introduced the following measures:\n-  in order to reduce the production of waste and GHGs, a non-repayable economic contribution of €40 million for 2019-2024 has been allocated for the trial of 'green corners' in city shops...\n- to limit the production of plastic waste, an experimental programme called ' mangiaplastica ' is planned. A total of €27 million has been allocated for 2019-2024...\n- to launch information, training and awareness-raising campaigns in schools, a specific fund named 'Io sono Ambiente'... has been set up, with €6 million allocated for 2020-2022.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Circular economy and waste",
+      "sector": "Waste/Circular economy",
+      "extraction_rationale": "Clear budget allocations and named programmes constitute concrete policy instruments."
+    }
+  },
+  {
+    "cluster_id": 42,
+    "cluster_type": "individual",
+    "section_header": "circular economy and waste",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy’s Growth Decree sets a packaging return-and-reuse incentive using consumer vouchers (25% of packaging price) and provides sellers a tax credit equal to double the voucher amount, capped at €10,000 per beneficiary with a total limit of €10 million for 2020.",
+      "verbatim_text": "The Legislative Decree on Growth has set out provisions on waste and packaging. A business selling a certain commodity can give the buyer a voucher... The discount is equal to 25% of the price of the packaging... The seller... receives a tax credit equal to double the amount granted... up to a maximum amount of €10,000 per beneficiary, for a total limit of €10 million for 2020.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Circular economy and waste",
+      "sector": "Waste/Circular economy",
+      "extraction_rationale": "Defines a specific fiscal mechanism with quantified incentive rates and caps."
+    }
+  },
+  {
+    "cluster_id": 43,
+    "cluster_type": "individual",
+    "section_header": "circular economy and waste",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "For 2020, the Growth Decree-Law provides a 25% contribution (as tax credit/discount) for purchases of products made 75% from recycled waste/scrap and for quality compost from sorted organic waste processing, with beneficiary caps and a total yearly limit of €10 million.",
+      "verbatim_text": "In addition, for 2020 the Growth Decree-Law provides for a contribution equal to 25% of the purchase cost of:\n- a) semi-finished and finished products which are 75% made up of recycled waste and scrap; b) quality compost derived from the processing of sorted organic waste.\n\nIf the purchasers are self-employed or businesses... a tax credit up to a yearly maximum of €10,000 per beneficiary for a total yearly limit of €10 million for 2020... If the purchasers do not use the goods for their economic and professional activity... the limit is €5,000 per beneficiary, with a total limit of €10 million for 2020.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Circular economy and waste",
+      "sector": "Waste/Circular economy",
+      "extraction_rationale": "Concrete subsidy/tax credit with eligibility criteria, % rate, and explicit caps."
+    }
+  },
+  {
+    "cluster_id": 44,
+    "cluster_type": "individual",
+    "section_header": "cross-cutting instruments and other measures",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Decree-Law No 101/2019 establishes the 'Fund for energy transition in the industrial sector', financed from EU ETS auction revenues above €1,000 million per year, up to €100 million/year in 2020 and €150 million/year from 2021, to fund industrial decarbonisation and energy efficiency measures.",
+      "verbatim_text": "Decree-Law No 101 of 3 September 2019 established the 'Fund for energy transition in the industrial sector'... The fund is constituted by that part of the annual revenue deriving from EU ETS auctions that exceeds 1,000 million. This excess amount, up to a maximum of €100 million per year for 2020 and €150 million as of 2021, will be used to fund decarbonisation and energy efficiency measures in the industrial sector.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Cross-cutting instruments and other measures",
+      "sector": "Industry",
+      "extraction_rationale": "Creates a named fund with a defined financing source and explicit annual spending caps for decarbonisation/efficiency."
+    }
+  },
+  {
+    "cluster_id": 45,
+    "cluster_type": "individual",
+    "section_header": "2.5 dimension research, innovation and competitiveness",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Under Mission Innovation, Italy commits to double public clean-energy R&D funding from about €222 million (2013 baseline) to about €444 million from 2021.",
+      "verbatim_text": "As regards financial resources in the context of Mission Innovation, Italy has undertaken to double the value of the resources portfolio for public research in the field of clean energy, from around €222 million in 2013... to around €444 million from 2021...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "2.5 Dimension research, innovation and competitiveness",
+      "sector": "Cross-sector (R&D)",
+      "extraction_rationale": "Quantified funding target with baseline year and future level/timeline qualifies as a concrete policy commitment."
+    }
+  },
+  {
+    "cluster_id": 46,
+    "cluster_type": "individual",
+    "section_header": "conto termico: / expected development trends",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy plans to focus the Conto Termico scheme on energy-efficient retrofitting and restoration of non-residential buildings in the public and private tertiary sector, simplify access for public bodies (including via the ESCo model and EPCs), and explore extending eligible interventions to connections to efficient district heating systems.",
+      "verbatim_text": "As the results of the public consultation showed, to avoid fragmentation and overlapping of instruments for promoting energy efficiency, the plan is to focus the Conto Termico scheme on energy-efficient retrofitting and restoration of non-residential buildings, in the public and private  tertiary  sector. The intention is to continue the task of simplifying access to the scheme for public bodies, also through promotion of the ESCo model and the use of energy performance contracts (EPCs). In addition, the possibility of extending the admissibility of interventions, including measures to connect to efficient  district heating systems, will be explored.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Conto Termico: / Expected development trends",
+      "sector": "Buildings",
+      "extraction_rationale": "Contains explicit planned actions to refocus eligibility/scope of a named incentive scheme and to simplify access mechanisms; includes specific intervention types (EPC/ESCo, district heating connections)."
+    }
+  },
+  {
+    "cluster_id": 47,
+    "cluster_type": "individual",
+    "section_header": "italian national fund for energy efficiency / anticipated development trends; estimate of energy and economic indicators",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will increase the financial allocation of the Italian National Fund for Energy Efficiency and direct it toward measures in the civil sector (housing and tertiary) and transport; additional funding for 2021–2030 is €733 million and the State will increase the Fund allocation to €80 million per year in 2021–2030.",
+      "verbatim_text": "In order to increase the capacity of the Fund to promote energy-efficient measures, the financial allocation currently available will be increased... directing the scheme towards the promotion of measures in the civil sector (both the housing and tertiary sectors) and the transport sector.\n\nFor 2021-2030  the additional funding mentioned  above  will be €733 million... In terms of investment raised to generate the aforesaid savings, this is estimated at around €4.4 billion in the period 2021-2030, compared with a commitment from the State to increase the allocation to the Fund to €80 million a year in the same period.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Italian National Fund for Energy Efficiency / Anticipated development trends; Estimate of energy and economic indicators",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Clear resource-allocation commitments (additional €733m; €80m/year) and stated directional focus for the Fund."
+    }
+  },
+  {
+    "cluster_id": 48,
+    "cluster_type": "individual",
+    "section_header": "italian national fund for energy efficiency / anticipated development trends",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy is creating a new section of the National Fund for Energy Efficiency to offer guarantees for financial institutions that fund energy-efficient retrofitting.",
+      "verbatim_text": "In addition, as previously mentioned in the section on tax deductions, a new section of the fund is being created that will be used to offer guarantees for financial institutions funding energy-efficient retrofitting.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Italian National Fund for Energy Efficiency / Anticipated development trends",
+      "sector": "Buildings",
+      "extraction_rationale": "Specific new financial instrument (guarantee section) within an existing fund."
+    }
+  },
+  {
+    "cluster_id": 49,
+    "cluster_type": "individual",
+    "section_header": "industry 4.0 / expected development trends",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy’s Budget Law for 2020 (Law No 160 of 27 December 2019) introduces a new tax credit for expenses incurred in investing in new capital goods (including intangible assets) for technological transformation under the Industry 4.0 model, applicable to all businesses and certain investments by professionals, with differentiated rates by type of goods.",
+      "verbatim_text": "The  Budget  Law  for  2020  (Law  No 160  of  27 December  2019)  changes  the  existing regulations governing Industry 4.0, introducing a new tax credit for expenses incurred in investing  in  new  capital  goods.  The  provision  applies  to  all  businesses  and,  for  certain investments, also to professionals. The tax credit is granted at a differentiated rate according to  the  type  of  goods  invested  in.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Industry 4.0 / Expected development trends",
+      "sector": "Industry",
+      "extraction_rationale": "Regulatory/fiscal measure established by named law, with defined instrument (tax credit) and scope."
+    }
+  },
+  {
+    "cluster_id": 50,
+    "cluster_type": "individual",
+    "section_header": "programme for upgrading the energy efficiency of central government buildings (prepac ) / expected development trends",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will fund PREPAC (programme for upgrading the energy efficiency of central government buildings) over 2021–2030 and implement updating/strengthening measures to simplify administrative procedures and develop adequate IT management support.",
+      "verbatim_text": "Funding for the measure will cover 2021-2030 and updating and strengthening measures will be implemented in order to simplify administrative procedures. The aim is to draw on the synergies between the public bodies involved in managing the scheme and enable adequate management IT support to be developed.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Programme for upgrading the energy efficiency of central government buildings (PREPAC ) / Expected development trends",
+      "sector": "Buildings",
+      "extraction_rationale": "Explicit commitment to fund a program across a defined period and to implement administrative/IT simplification actions."
+    }
+  },
+  {
+    "cluster_id": 51,
+    "cluster_type": "individual",
+    "section_header": "information and training programmes for consumers / expected development trends",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will place more importance on information-sharing and training activities on energy efficiency from 2021 to 2030 and assess launching a potential new programme based on experience from the ending programme; it will explore monitoring of savings generated by awareness-raising programmes.",
+      "verbatim_text": "From 2021 to 2030 more importance will be placed on information-sharing and training activities, and the launch of a potential new programme based on experience gained as a result of the one coming to a close will be assessed. The theme of monitoring the savings generated  by  awareness-raising  programmes  will  be  explored...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Information and training programmes for consumers / Expected development trends",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Programmatic commitment with timeframe and specific actions (information/training; evaluate new programme; develop monitoring)."
+    }
+  },
+  {
+    "cluster_id": 52,
+    "cluster_type": "individual",
+    "section_header": "replacement of the fleet of local public transport vehicles / expected development trends",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy proposes to accelerate implementation of Article 18(10) of Legislative Decree 257/2016 requiring that, in provinces with high PM10 pollution, when public administrations and related entities replace fleets, 30% of new vehicles purchased are low-emission vehicles by 2022, at least 50% by 2025, and 85% by 2030; non-compliant public tenders remain void.",
+      "verbatim_text": "It  is  proposed to accelerate the provisions set out in paragraph 10 of  Article 18 of Italian Legislative Decree 257/2016... must ensure that 30% by 2022, at least 50% by 2025 and 85% by 2030 of new vehicles purchased are electric vehicles and hybrid vehicles with off-vehicle charging, powered by methane and hydrogen... For the law to be effective, additionally, it will remain the case that public tenders which do not comply with this provision are void.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Replacement of the fleet of local public transport vehicles / Expected development trends",
+      "sector": "Transport",
+      "extraction_rationale": "Binding regulatory requirement with quantified targets and deadlines, plus enforcement via void tenders."
+    }
+  },
+  {
+    "cluster_id": 53,
+    "cluster_type": "individual",
+    "section_header": "replacement of the fleet of local public transport vehicles / expected development trends",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Law No 141 of 12 December 2019 authorises €10 million in each of 2020 and 2021 to fund experimental projects introducing hybrid or electric vehicles into school transport services in municipalities >50,000 subject to specified air-quality infringement proceedings, funded from CO2 allowance auction revenues.",
+      "verbatim_text": "Law  No 141  of  12 December  2019... introduced measures for the replacement of vehicles for local public transport (LPT). The decree  authorises  expenditure  of  €10 million  for  each  of  the  years  2020  and  2021. The funding  is  intended  to  finance  the  investments  necessary  to  implement  experimental projects introducing hybrid or electric vehicles into the school transport service... The measure  is  funded  by  a  portion  of  the  revenues  from  CO2  emission  quota  auctions...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Replacement of the fleet of local public transport vehicles / Expected development trends",
+      "sector": "Transport",
+      "extraction_rationale": "Specific funded measure with amounts, years, eligible projects/beneficiaries, and funding source."
+    }
+  },
+  {
+    "cluster_id": 54,
+    "cluster_type": "individual",
+    "section_header": "replacement of the fleet of local public transport vehicles / expected development trends",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Law No 141 of 12 December 2019 allocates €20 million for each of 2020 and 2021 (for eligible municipalities) to create, modernise and upgrade reserved lanes for local public transport.",
+      "verbatim_text": "Using this funding source  and  with  application  only  to  the  above-mentioned  municipalities,  Law  No 141  of 12 December 2019 provides for the allocation of €20 million for each of the years 2020 and 2021 for projects to create, modernise and upgrade reserved lanes for LPT.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Replacement of the fleet of local public transport vehicles / Expected development trends",
+      "sector": "Transport",
+      "extraction_rationale": "Concrete budget allocation with purpose and timeframe."
+    }
+  },
+  {
+    "cluster_id": 55,
+    "cluster_type": "individual",
+    "section_header": "modal shift in goods transport / expected development trends",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will relaunch the Marebonus and Ferrobonus measures for 2021–2030, update and reinforce them, and monitor resulting energy savings more effectively.",
+      "verbatim_text": "Marebonus and Ferrobonus are fundamental measures... It  will  therefore  be  important  to  relaunch  them  for  2021-2030,  to update and reinforce them on the basis of experience gained, and to monitor the resulting energy savings more effectively.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Modal shift in goods transport / Expected development trends",
+      "sector": "Transport",
+      "extraction_rationale": "Explicit future action regarding named measures with timeframe and monitoring commitment."
+    }
+  },
+  {
+    "cluster_id": 56,
+    "cluster_type": "individual",
+    "section_header": "modal shift in goods transport / expected development trends",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Decree-Law No 124/2019 (converted into Law No 157/2019) authorises expenditure of €2 million for 2020 and €5 million for each of 2021 and 2022 to improve goods transport on inland waterways and river and sea routes.",
+      "verbatim_text": "Decree-Law No 124 of 2019, converted into Law No 157 of 19 December 2019... authorises expenditure of €2 million for 2020 and €5 million for each of the years 2021 and 2022, to improve goods transport on inland waterways and river and sea routes.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Modal shift in goods transport / Expected development trends",
+      "sector": "Transport",
+      "extraction_rationale": "Legislated expenditure authorisation with amounts and years."
+    }
+  },
+  {
+    "cluster_id": 57,
+    "cluster_type": "individual",
+    "section_header": "replacement of private vehicles used for the transport of persons",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy’s PNIRE allocates around €33 million in two phases to fund national charging infrastructure for electric vehicles, including €4.5 million (Phase 1) and around €28 million (Phase 2) plus regional co-financing (50–65%).",
+      "verbatim_text": "The  Plan... allocat[es] around €33 million in two phases:\n\nPHASE ONE... has assigned... around €4.5 million...\n\nPHASE 2... the Ministry is making available around €28 million, to which further funding from the Regions is to be added, from a minimum of 50% to a maximum of 65%...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Replacement of private vehicles used for the transport of persons",
+      "sector": "Transport",
+      "extraction_rationale": "Named national plan with explicit funding allocations and co-financing rules."
+    }
+  },
+  {
+    "cluster_id": 58,
+    "cluster_type": "individual",
+    "section_header": "replacement of private vehicles used for the transport of persons",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy plans to strengthen and concentrate resources on strategic projects to develop the national EV charging network by integrating national and regional initiatives and recognition of infrastructure under the PNIRE into one system.",
+      "verbatim_text": "To this end, it seems necessary to bring all the national and regional initiatives on electric mobility and the recognition of recharging infrastructure under the PNIRE together under one system and to provide for strengthening and concentrating the available resources on strategic projects to develop the national recharging network.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Replacement of private vehicles used for the transport of persons",
+      "sector": "Transport",
+      "extraction_rationale": "Concrete planned governance/resource-concentration action for an existing plan (PNIRE)."
+    }
+  },
+  {
+    "cluster_id": 59,
+    "cluster_type": "individual",
+    "section_header": "replacement of private vehicles used for the transport of persons",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy plans to gradually review the tax system on transport (e.g., registration tax, ownership tax, fuel taxes) to promote progressive reduction of diesel and petrol motor vehicles; it will also explore alternative financing methods to promote low-emission vehicles.",
+      "verbatim_text": "The Italian government then intends to promote a progressive reduction of motor vehicles with diesel and petrol engines... For this purpose, the plan is to gradually review the tax system on transport (registration tax, ownership tax, taxes on fuel etc.)... Further methods of financing for promoting low-emission vehicles will also be examined.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Replacement of private vehicles used for the transport of persons",
+      "sector": "Transport",
+      "extraction_rationale": "Stated government plan to reform fiscal instruments to achieve fleet transition."
+    }
+  },
+  {
+    "cluster_id": 60,
+    "cluster_type": "individual",
+    "section_header": "replacement of private vehicles used for the transport of persons",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy introduced in 2019 a subsidy of 30% of purchase price up to €3,000 for buyers of new electric or hybrid vehicles in categories L1e–L7e who scrap an older EURO 0–3 vehicle (owned/held at least 12 months), with implementing rules set by Ministerial Decree of 20 March 2019.",
+      "verbatim_text": "Law No 145 of 30 December 2018... established that anyone who, in 2019, bought... a new electric or hybrid vehicle in category L1e... or L7e and who took for scrapping... was entitled to a subsidy of 30% of the purchase price, up to a maximum of €3,000... The  rules  for  applying  the  incentive  were  established... in a Ministerial Decree of 20 March 2019.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Replacement of private vehicles used for the transport of persons",
+      "sector": "Transport",
+      "extraction_rationale": "Specific incentive with eligibility conditions, percentage cap, year, and implementing decree."
+    }
+  },
+  {
+    "cluster_id": 61,
+    "cluster_type": "individual",
+    "section_header": "replacement of private vehicles used for the transport of persons",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Law No 141/2019 establishes an experimental 'Mobility Voucher' fund with allocations from 2019–2024 and provides vouchers (€1,500 per passenger vehicle; €500 per motorcycle) for eligible residents who scrap older vehicles, usable within three years for public transport season tickets or bicycles (including e-bikes).",
+      "verbatim_text": "Law  No 141... establishes a fund for the 'Mobility Voucher' experimental programme with an allocation of €5 for 2019, €70 million for 2020, €70 million for 2021, €55 million for 2022, €45 million for 2023 and €10 million for 2024... They  will  receive  a  'Mobility  Voucher'  of  €1,500  per  passenger  vehicle  and  €500  per motorcycle scrapped. The vouchers can be used within three years to buy local or regional public transport season tickets or bicycles, including e-bikes.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Replacement of private vehicles used for the transport of persons",
+      "sector": "Transport",
+      "extraction_rationale": "Clearly defined funded program with multi-year budget, eligibility, and benefit levels."
+    }
+  },
+  {
+    "cluster_id": 62,
+    "cluster_type": "individual",
+    "section_header": "replacement of private vehicles used for the transport of persons",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy intends to provide €10 million to purchase around 220 electric or hybrid cars for law enforcement surveillance/monitoring in protected natural areas (about 80% for military police and 20% for port authorities).",
+      "verbatim_text": "Specifically, the intention is to provide a sum of €10 million for the purchase of around 220 electric or hybrid cars (around 80% for the military police and the remaining 20% for the port authorities), which will be used for surveillance and monitoring operations in protected natural areas.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Replacement of private vehicles used for the transport of persons",
+      "sector": "Transport",
+      "extraction_rationale": "Explicit intended public procurement with budget and quantity."
+    }
+  },
+  {
+    "cluster_id": 63,
+    "cluster_type": "individual",
+    "section_header": "replacement of private vehicles used for the transport of persons",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "From January 2020, when public administrations purchase or hire at least two vehicles to replace fleets, at least 50% must be electric, hybrid, or hydrogen-powered vehicles (within earmarked budget limits).",
+      "verbatim_text": "The Budget Law for 2020 establishes that from January 2020, when public administrations purchase or hire at least two vehicles to replace their vehicle fleets,  at  least 50% of that purchase or hire must be for road transport electric, hybrid or hydrogen-powered vehicles...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Replacement of private vehicles used for the transport of persons",
+      "sector": "Transport",
+      "extraction_rationale": "Binding procurement rule with start date and minimum share."
+    }
+  },
+  {
+    "cluster_id": 64,
+    "cluster_type": "individual",
+    "section_header": "replacement of private vehicles used for the transport of persons",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy allocates €3 million for 2020 to support replacement of company vehicle fleets (within EU State aid rules).",
+      "verbatim_text": "In accordance with the EU rules on State aid, further resources of €3 million for 2020 are destined for the replacement  of  the  vehicle  fleet  of  companies  operating  in  Italy...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Replacement of private vehicles used for the transport of persons",
+      "sector": "Transport",
+      "extraction_rationale": "Specific budget allocation for fleet replacement."
+    }
+  },
+  {
+    "cluster_id": 65,
+    "cluster_type": "individual",
+    "section_header": "replacement of private vehicles used for the transport of persons",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "From July 2020, Italy tightens fringe benefit taxation on newly registered company cars based on CO2 emissions, including higher tax rates for high-emitting vehicles and lower rates for vehicles below 60 gCO2/km.",
+      "verbatim_text": "The Budget Law for 2020 also envisages tighter rules, from July 2020, on fringe benefit taxes on newly registered highly polluting company cars. The tax decreases to 25% for company cars with CO2 emissions of below 60 g/km... whereas for all cars with emissions over 190 g/km it rises to 50% (and 60% from 2021).",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Replacement of private vehicles used for the transport of persons",
+      "sector": "Transport",
+      "extraction_rationale": "Concrete fiscal policy with thresholds, rates, and effective dates."
+    }
+  },
+  {
+    "cluster_id": 66,
+    "cluster_type": "individual",
+    "section_header": "replacement of private vehicles used for the transport of persons",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy extends the 4% VAT rate to sales of hybrid and electric vehicles for persons with permanent reduced or impaired mobility or sensory impairments (and their families), and provides related tax exemptions (including transcription/registration taxes).",
+      "verbatim_text": "Decree-Law  No 124  of  2019... extends the application of the very low VAT rate of 4% to the sale of hybrid and electric vehicles to persons with permanent reduced or impaired mobility or with hearing and/or visual impairments, and their families... Exemption from the transcription tax... and the registration tax... is also provided for.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Replacement of private vehicles used for the transport of persons",
+      "sector": "Transport",
+      "extraction_rationale": "Legally grounded tax incentive and exemptions targeted to a defined beneficiary group."
+    }
+  },
+  {
+    "cluster_id": 67,
+    "cluster_type": "individual",
+    "section_header": "replacement of private vehicles used for the transport of persons",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will introduce regulatory limits/rules on stopping, access in certain areas, and parking to promote low-CO2 or renewable-fuel vehicles (including biomethane), and will evaluate/reinforce local initiatives such as access privileges for EVs in limited traffic zones, priority lanes, and zero-emission parking.",
+      "verbatim_text": "As regards regulatory measures, limits and rules will be introduced in relation to stopping, to  access  in  certain  areas  and  to parking  that promote the use of vehicles with low CO2 emissions or powered by renewable energy sources, including biomethane. Local regulatory initiatives  will  also  be  evaluated  and  reinforced...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Replacement of private vehicles used for the transport of persons",
+      "sector": "Transport",
+      "extraction_rationale": "Forward-looking regulatory commitments with specific intervention areas (access/parking rules)."
+    }
+  },
+  {
+    "cluster_id": 68,
+    "cluster_type": "individual",
+    "section_header": "replacement of private vehicles used for the transport of persons",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will promote an agreement with Regions to harmonise parking/access regulations and incentives for charging/refuelling infrastructure and to ensure homogeneous rules for access to limited traffic areas and exemption from traffic bans for alternative-fuel vehicles, under Legislative Decree 257/2016 Articles 17(2) and 19(2).",
+      "verbatim_text": "Article 17(2) and Article 19(2) provide for the promotion of an agreement with the Regions for:\n\n- -ensuring  implementation  of  consistent  positions  in  terms  of  parking  regulations, access  to  inner  city  areas... in relation to infrastructure networks for charging and refuelling...\n- -ensuring  homogeneous  regulation  for  access  to  limited  traffic  areas  for  vehicles powered  by  alternative fuels...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Replacement of private vehicles used for the transport of persons",
+      "sector": "Transport",
+      "extraction_rationale": "Specific governance mechanism mandated in legislation with clear objectives."
+    }
+  },
+  {
+    "cluster_id": 69,
+    "cluster_type": "individual",
+    "section_header": "replacement of vehicles used for the transport of goods",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Ministerial Decree No 221/2018 provides incentives (about €33.6 million) to replace haulage company fleets, including €9.6 million for alternative-fuel goods vehicles and conversions, €9 million for scrapping obsolete vehicles with purchase of Euro 6 tractor units, €14 million for semi-trailers/equipment for combined transport, and €1 million for containers/swap bodies.",
+      "verbatim_text": "Ministerial Decree No 221/2018... provided  incentives  for  the  year  2018... Resources of around €33.6 million are to be used to promote initiatives... to replace vehicle fleets of haulage companies.\n\n- -€9.6 million are to be used for contributions to promote the purchase... with an alternative drive system powered by CNG... LNG or electricity...\n- -€9 million to remove more obsolete vehicles for scrapping with the purchase of new Euro 6 tractor units.\n- -€14 million for purchasing new semi-trailers for combined rail and/or maritime transport...\n- -€1 million for purchasing of containers and swap bodies...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Replacement of vehicles used for the transport of goods",
+      "sector": "Transport",
+      "extraction_rationale": "Detailed incentive scheme with explicit budget splits and eligible investments."
+    }
+  },
+  {
+    "cluster_id": 70,
+    "cluster_type": "individual",
+    "section_header": "public lighting",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy’s Budget Law for 2018 obliges public bodies to redevelop public lighting systems by 31 December 2023, achieving at least a 50% reduction in electricity consumption relative to average 2015–2016.",
+      "verbatim_text": "In  this  connection, the Budget Law for 2018 established that public bodies are obliged to redevelop  public  lighting  systems  by  31 December  2023,  guaranteeing  a  reduction  in electricity consumption of at least 50% in relation to the average consumption 2015-2016.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Public lighting",
+      "sector": "Buildings",
+      "extraction_rationale": "Binding obligation with deadline and quantified reduction target."
+    }
+  },
+  {
+    "cluster_id": 71,
+    "cluster_type": "individual",
+    "section_header": "public lighting",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy allocates €300 million in a revolving fund to provide subsidised loans for companies implementing public lighting redevelopment and related measures.",
+      "verbatim_text": "The companies, involved in development of measures, may take advantage of the subsidies supplied  from  the  revolving  Fund  for  supporting  companies  and  investment  in  research, where €300 million have been allocated for the granting of subsidised loans.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Public lighting",
+      "sector": "Buildings",
+      "extraction_rationale": "Explicit resource allocation to support implementation via subsidised loans."
+    }
+  },
+  {
+    "cluster_id": 72,
+    "cluster_type": "individual",
+    "section_header": "energy efficiency measures under the budget law for 2020 and the decree-law on tax for 2020",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "The Budget Law for 2020 provides municipalities up to €500 million per year for investments in public works to increase energy efficiency (including public lighting, energy saving in public buildings/public housing) and renewable energy plants, and also for specified sustainable local development projects.",
+      "verbatim_text": "The Budget Law for 2020 assigns to the municipalities contributions of up to €500 million per year, for investment in public works for increasing energy efficiency, including public lighting, energy saving in publicly owned buildings and public housing, and the installation of energy plants fuelled by renewable sources.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Energy efficiency measures under the Budget Law for 2020 and the Decree-Law on Tax for 2020",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Clear annual funding allocation and eligible investment categories."
+    }
+  },
+  {
+    "cluster_id": 73,
+    "cluster_type": "individual",
+    "section_header": "energy efficiency measures under the budget law for 2020 and the decree-law on tax for 2020",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Decree-Law No 124/2019 (Law No 157/2019) creates a fund with €2 million per year for 2020–2029 (with spending authorisation/cover also for 2030) for energy restructuring and upgrading of former psychiatric hospital buildings.",
+      "verbatim_text": "Decree-Law  No 124  of 2019, converted into Law  No 157  of 19 December 2019... establishes a fund with an allocation of  €2 million  for  each  year  from  2020  to  2029,  with  spending  authorisation  and  relative financial cover also provided for 2030, for the energy restructuring and upgrading of former psychiatric hospital buildings.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Energy efficiency measures under the Budget Law for 2020 and the Decree-Law on Tax for 2020",
+      "sector": "Buildings",
+      "extraction_rationale": "Dedicated fund with multi-year allocation and specific building type/purpose."
+    }
+  },
+  {
+    "cluster_id": 74,
+    "cluster_type": "individual",
+    "section_header": "energy efficiency measures under the budget law for 2020 and the decree-law on tax for 2020",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy establishes a municipal investment fund of €400 million per year for 2025–2034 to boost investments in sustainable infrastructure development and improve energy efficiency, focusing on public buildings and other specified areas.",
+      "verbatim_text": "The Budget Law for 2020 establishes... a fund for investment by municipalities with an allocation of €400 million for each year  from  2025  to  2034.  The  fund  will  be  used  to  boost  investments  in  sustainable infrastructure development and improve energy efficiency in Italy.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Energy efficiency measures under the Budget Law for 2020 and the Decree-Law on Tax for 2020",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Specific long-term budget allocation with stated use."
+    }
+  },
+  {
+    "cluster_id": 75,
+    "cluster_type": "individual",
+    "section_header": "energy efficiency measures under the budget law for 2020 and the decree-law on tax for 2020",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy allocates municipal funding for safety and energy efficiency improvements in municipal buildings for 2021–2034 with specified annual amounts (e.g., €350m in 2021; €450m in 2022; €550m/year 2023–2025; up to €800m in 2032–2033).",
+      "verbatim_text": "a change has been introduced to the provisions of Law No 145 of 30 December 2018... assigns the municipalities allocations of:\n\n- €350 million for 2021;\n- €450 million for 2022;\n- €550 million for each year from 2023 to 2025;\n- €700 million for 2026;\n- €750 million for each year from 2027 to 2031;\n- €800 million for each of the years 2032 and 2033;\n\n- €300 million for 2034.\n\nThis funding can be used for improving safety and energy efficiency in the buildings owned by  the  municipality...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Energy efficiency measures under the Budget Law for 2020 and the Decree-Law on Tax for 2020",
+      "sector": "Buildings",
+      "extraction_rationale": "Legislated, year-by-year funding schedule with specified eligible use."
+    }
+  },
+  {
+    "cluster_id": 76,
+    "cluster_type": "individual",
+    "section_header": "energy efficiency measures under the budget law for 2020 and the decree-law on tax for 2020",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy assigns non-autonomous Regions funding for investments in public works for safety and energy efficiency improvements (and related purposes) for 2021–2034 with specified annual amounts (e.g., €135m in 2021–2022; €335m/year 2023–2025; €515m/year 2027–2032).",
+      "verbatim_text": "for  2021-2034  the  non-autonomous  Regions  have  been  assigned allocations for investments in public works for safety and energy efficiency improvements on buildings and land... These allocations amount to:\n\n- €135 million for each of the years 2021 and 2022;\n- €335 million for each year from 2023 to 2025;\n- €470 million for 2026;\n- €515 million for each of the years from 2027 to 2032;\n- €560 million for 2033;\n- €200 million for 2034.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Energy efficiency measures under the Budget Law for 2020 and the Decree-Law on Tax for 2020",
+      "sector": "Buildings",
+      "extraction_rationale": "Explicit regional funding schedule and purposes."
+    }
+  },
+  {
+    "cluster_id": 77,
+    "cluster_type": "individual",
+    "section_header": "energy efficiency measures under the budget law for 2020 and the decree-law on tax for 2020",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy authorises expenditure of €100 million in 2020 and 2021 and €250 million per year from 2022 to 2034 for public works in road safety and extraordinary maintenance and energy efficiency of schools in provinces and cities.",
+      "verbatim_text": "to finance public works in the areas of road safety assurance and extraordinary maintenance and energy efficiency of schools in the provinces and cities, expenditure of €100 million for each of the years 2020 and 2021 and of €250 million for each of the years from 2022 to 2034 is authorised.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Energy efficiency measures under the Budget Law for 2020 and the Decree-Law on Tax for 2020",
+      "sector": "Buildings",
+      "extraction_rationale": "Clear authorised expenditure with multi-year amounts and specified scope (schools)."
+    }
+  },
+  {
+    "cluster_id": 78,
+    "cluster_type": "individual",
+    "section_header": "energy efficiency measures under the budget law for 2020 and the decree-law on tax for 2020",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will draw up a national plan to improve energy efficiency in publicly owned school buildings that meet structural safety requirements, with €40 million allocated (€20 million/year for 2022 and 2023), supported by the European Investment Bank.",
+      "verbatim_text": "the Ministry of Education... draw up a national plan of measures to improve energy efficiency in publicly owned school buildings... The resources allocated total €40 million, that is, €20 million a year for 2022 and 2023; implementation is supported by the European Investment Bank...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Energy efficiency measures under the Budget Law for 2020 and the Decree-Law on Tax for 2020",
+      "sector": "Buildings",
+      "extraction_rationale": "Plan commitment plus dedicated funding amounts and timeframe."
+    }
+  },
+  {
+    "cluster_id": 79,
+    "cluster_type": "individual",
+    "section_header": "long-term renovation strategy to support the renovation of the national stock of residential and non-residential buildings",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will prepare a long-term building renovation strategy with intermediate and final targets in accordance with Directive (EU) 2018/844, to be published upon transposition expected by 10 March 2020.",
+      "verbatim_text": "a long-term strategy will be prepared for renovation of building stock that provides intermediate and final targets, in accordance with the provisions of Directive (EU) 2018/844... Specifically, the strategy will be published upon transposition of the aforesaid Directive, expected by 10 March 2020.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Long-term renovation strategy to support the renovation of the national stock of residential and non-residential buildings",
+      "sector": "Buildings",
+      "extraction_rationale": "Explicit commitment to prepare and publish a strategy with targets and a publication trigger/date."
+    }
+  },
+  {
+    "cluster_id": 80,
+    "cluster_type": "individual",
+    "section_header": "description of policies and measures to promote energy services in the public sector and measures to remove regulatory and non-regulatory barriers",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy plans to introduce a definition of EPC for buildings as a special contract in the Italian Code of Public Contracts and create a new PPP contract type for EPCs for buildings to remove barriers and promote widespread EPC use.",
+      "verbatim_text": "Therefore, in order to promote a more widespread use of the EPC, eliminating the current barriers, the plan is to introduce into the Italian Code of Public Contracts (Legislative Decree 50/2016 as amended and supplemented), the definition of the EPC for buildings as a special contract, and a new type of PPP contract for EPCs for buildings which sets out the specific details.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Description of policies and measures to promote energy services in the public sector and measures to remove regulatory and non-regulatory barriers...",
+      "sector": "Buildings",
+      "extraction_rationale": "Concrete planned legal reform to enable EPC uptake, naming the code and changes."
+    }
+  },
+  {
+    "cluster_id": 81,
+    "cluster_type": "individual",
+    "section_header": "description of policies and measures to promote energy services in the public sector and measures to remove regulatory and non-regulatory barriers",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will establish mandatory savings clauses in energy contracts entered into by public bodies.",
+      "verbatim_text": "considering  the  potential  to  reduce  consumption  by  public bodies... the inclusion of mandatory savings clauses in energy contracts entered into by public bodies will be established.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Description of policies and measures to promote energy services in the public sector and measures to remove regulatory and non-regulatory barriers...",
+      "sector": "Public Sector",
+      "extraction_rationale": "Direct statement of an intended mandatory contractual requirement."
+    }
+  },
+  {
+    "cluster_id": 82,
+    "cluster_type": "individual",
+    "section_header": "description of policies and measures to promote energy services in the public sector and measures to remove regulatory and non-regulatory barriers",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will set up sanction and reward systems for managers/officials responsible for building management to support compliance with energy-efficiency legal obligations.",
+      "verbatim_text": "as  regards  the  legal  obligations  relating  to  energy  efficiency,  sanction  and reward systems will be set up for the managers/officials responsible for building management.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Description of policies and measures to promote energy services in the public sector and measures to remove regulatory and non-regulatory barriers...",
+      "sector": "Buildings",
+      "extraction_rationale": "Specific governance/enforcement mechanism (sanction/reward systems) tied to energy efficiency obligations."
+    }
+  },
+  {
+    "cluster_id": 83,
+    "cluster_type": "individual",
+    "section_header": "energy audits and energy management systems",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy plans to carry out an energy audit preparation programme for 2021–2030 for large companies and energy-intensive companies, extending it to energy-intensive companies in the gas sector and linking benefits for energy-intensive companies to implementing energy-efficiency measures in their production processes.",
+      "verbatim_text": "In the period 2021-2030, the plan is to carry out the energy audit preparation programme in large companies and in energy-intensive companies, extending it also to energy-intensive companies in the gas sector and correlating the benefit perceived by the energy-intensive companies with carrying out  energy  efficiency measures as  part of  their  own production process...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Energy audits and energy management systems",
+      "sector": "Industry",
+      "extraction_rationale": "Forward-looking plan with timeframe and expanded scope/conditionality."
+    }
+  },
+  {
+    "cluster_id": 84,
+    "cluster_type": "individual",
+    "section_header": "energy audits and energy management systems",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will renew co-financing initiatives for energy audits and ISO 50001 energy management systems in SMEs and will continue related energy-efficiency promotion activities for SMEs.",
+      "verbatim_text": "Activities  to  promote  energy  efficiency  in  SMEs  will  also  be  carried  out,  renewing  the cofinancing  initiatives  for  energy  audits  and  energy  management  systems...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Energy audits and energy management systems",
+      "sector": "Industry",
+      "extraction_rationale": "Explicit commitment to renew co-financing initiatives and continue SME promotion actions."
+    }
+  },
+  {
+    "cluster_id": 85,
+    "cluster_type": "individual",
+    "section_header": "heating and cooling",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will update provisions relating to air conditioning installations to gradually replace high-emission installations (including diesel boilers and inefficient biomass installations) with low-emission, highly efficient technology, and will assess new limits on cooling installation use (e.g., days/hours/minimum temperature).",
+      "verbatim_text": "provisions relating to air conditioning installations will be updated, with the specific intention of gradually replacing installations with high emissions (including  diesel  boilers  and  non-efficient  biomass  installations)  with  low-emission,  highly efficient technology.\n\nThe  introduction  of  new  limits  on  the  use  of  cooling  installations  will  then  be  assessed...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Heating and cooling",
+      "sector": "Buildings",
+      "extraction_rationale": "Specific regulatory update intent and assessed constraints, explicitly tied to technology replacement and usage limits."
+    }
+  },
+  {
+    "cluster_id": 86,
+    "cluster_type": "individual",
+    "section_header": "heating and cooling",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will encourage development of district heating and district cooling and put in place instruments to update the facilitation framework for the sector.",
+      "verbatim_text": "the development of district heating and district cooling will also be encouraged... To  this  end, instruments  will  be  put  in  place  to  update  the  facilitation  framework  in  the  sector.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Heating and cooling",
+      "sector": "Buildings",
+      "extraction_rationale": "Clear commitment to promote district heating/cooling and to implement enabling instruments."
+    }
+  },
+  {
+    "cluster_id": 87,
+    "cluster_type": "individual",
+    "section_header": "heating and cooling",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will complete (and, if necessary, improve) implementation of Legislative Decree 102/2014 provisions on metering and billing of energy consumption in the housing sector to provide accurate and timely consumer information.",
+      "verbatim_text": "The implementation of the provisions already provided for by Italian Legislative Decree No 102/2014, in relation to systems for metering and billing of energy consumption in the housing sector, will be completed and if necessary improved...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Heating and cooling",
+      "sector": "Buildings",
+      "extraction_rationale": "Specific commitment to complete and potentially improve an existing legal implementation."
+    }
+  },
+  {
+    "cluster_id": 88,
+    "cluster_type": "individual",
+    "section_header": "sump: sustainable urban mobility plans",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will mandate Sustainable Urban Mobility Plans (SUMPs) by 2021 for metropolitan cities, extensive-area bodies, municipalities >100,000, and cities with high PM10/NO2 pollution; municipalities >50,000 must prepare a SUMP (simplified guidelines) by 2025 as a mandatory requirement to access funding.",
+      "verbatim_text": "it will be mandatory to prepare a  SUMP... by  2021,  providing  also  that municipalities with a population of more than 50,000 inhabitants, using simplified guidelines, will have to prepare a SUMP as a mandatory requirement for access to funding by 2025.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "SUMP: Sustainable Urban Mobility Plans",
+      "sector": "Transport",
+      "extraction_rationale": "Binding requirement with explicit deadlines and linkage to funding eligibility."
+    }
+  },
+  {
+    "cluster_id": 89,
+    "cluster_type": "individual",
+    "section_header": "3.4.4 energy poverty / policies and measures",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will set up a National Observatory of Energy Poverty at the beginning of 2020 under the Ministry of Economic Development, coordinated operationally by GSE, to monitor/report on energy poverty and support identification of policies, including communication, promotion and training.",
+      "verbatim_text": "an Observatory of Energy Poverty is scheduled to be set up by the Ministry of Economic Development at the beginning of 2020. Although the Observatory will be coordinated by GSE at operational level... the Observatory will be  charged  with  reporting  on  and  monitoring  the  phenomenon,  as  well  as  helping policymakers identify appropriate policies to fight it...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "3.4.4 Energy poverty / policies and measures",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Institutional measure with a specified start timeframe and defined functions."
+    }
+  },
+  {
+    "cluster_id": 90,
+    "cluster_type": "individual",
+    "section_header": "3.4.4 energy poverty / policies and measures",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy plans to replace existing electricity and gas social bonuses with a new 'energy social bonus' and introduce an automated mechanism to identify eligible households by integrating Acquirente Unico and INPS databases; benefit will be adjusted by ISEE and household members and capped at three months' energy costs.",
+      "verbatim_text": "plans are in place to introduce an automated mechanism for identifying those entitled... by combining the existing databases... This will involve replacing the current electricity and gas social bonuses with a new 'energy social  bonus'... the benefit will be, at most, equivalent to three months' energy costs...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "3.4.4 Energy poverty / policies and measures",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Concrete reform plan specifying mechanism (automatic identification), institutional data sources, and benefit design."
+    }
+  },
+  {
+    "cluster_id": 91,
+    "cluster_type": "individual",
+    "section_header": "3.4.4 energy poverty / policies and measures",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy is creating an 'energy income' rotation fund to grant capital contributions covering 100% of the cost of domestic photovoltaic installations up to 20 kW for low-income households.",
+      "verbatim_text": "a provision entitled 'energy income' is being created. This involves setting up a rotation fund for granting capital contributions covering 100% of the cost of investment in photovoltaic installations for domestic use (up to 20 KW).",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "3.4.4 Energy poverty / policies and measures",
+      "sector": "Energy",
+      "extraction_rationale": "New funding mechanism with full-cost coverage and capacity limit."
+    }
+  },
+  {
+    "cluster_id": 92,
+    "cluster_type": "individual",
+    "section_header": "3.4.4 energy poverty / policies and measures",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "From 1 January 2021, Italy will provide automatic access to social bonuses for electricity, natural gas and integrated water services for persons whose ISEE is within predefined limits, as provided by the Tax Law for 2020 (Law No 157 of 19 December 2019).",
+      "verbatim_text": "Decree-Law No 124 of 2019, converted into Law No 157 of 19 December 2019 (Tax Law for 2020) provides that from 1 January 2021, persons whose ISEE score is  within predefined limits will have automatic access to the social bonus for electricity, natural gas and integrated water system supply.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "3.4.4 Energy poverty / policies and measures",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Legally grounded, date-specific change to eligibility/access mechanism."
+    }
+  },
+  {
+    "cluster_id": 93,
+    "cluster_type": "individual",
+    "section_header": "3.10.1 electrical interconnectivity — ii. projections of interconnector expansion requirements (including for the year 2030)",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy will complete the interconnection projects currently underway (Italy–France and Italy–Montenegro, first centre) by 2020 to contribute to achieving the 10% electricity interconnection target by 2020.",
+      "verbatim_text": "The interconnection projects currently underway are the Italy-France and Italy-Montenegro (first centre) connections, which will be up and running by 2020 and will contribute to the achievement of the target of 10% by 2020.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "3.10.1 Electrical interconnectivity — ii. Projections of interconnector expansion requirements (including for the year 2030)",
+      "sector": "Electricity",
+      "extraction_rationale": "Concrete infrastructure commitment with a timeline (up and running by 2020) and a quantified policy target (10% interconnection)."
+    }
+  },
+  {
+    "cluster_id": 94,
+    "cluster_type": "individual",
+    "section_header": "3.10.1 electrical interconnectivity — ii. projections of interconnector expansion requirements (including for the year 2030)",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Terna has identified specific overseas interconnection development projects for design/authorisation, including an HVDC Italy–France link (Piossasco–Grand'Ile) of nominal power 2×600 MW, an HVDC Italy–Montenegro link (Villanova–Tivat) with transmission capacity 2×600 MW, and a 132 kV connection between Prati di Vizze/Brennero (IT) and Steinach (AT).",
+      "verbatim_text": "The list below shows the development projects for the overseas interconnection; these were identified by Terna in the Development Plan 2017.\n\nAt the design stage:\n\n- -HVDC  connection  between  Italy  and  France  (Piossasco  -  Grand'Ile):  high-voltage direct current (HVDC) terrestrial cable, of nominal power 2x600 MW, between the two electrical stations in Piossasco (Piemonte) and Grand'Ile (Savoia);\n- -HVDC connection between Italy and Montenegro (Villanova - Tivat): two pole lines at ±500 kVcc partly in terrestrial  cable  and partly in  marine  cable,  with transmission capacity of 2X600 MW, between the two Converter Stations in Cepagatti (Abruzzo) and Kotor (Montenegro);\n- -132  kV  connection  between  Prati  di  Vizze/Brennero  (IT)  and  Steinach  (AT),  in conjunction with the local Distributor.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "3.10.1 Electrical interconnectivity — ii. Projections of interconnector expansion requirements (including for the year 2030)",
+      "sector": "Electricity",
+      "extraction_rationale": "Specific named infrastructure actions (interconnectors) with technical parameters (HVDC, kV, MW) identified in a national network development plan."
+    }
+  },
+  {
+    "cluster_id": 95,
+    "cluster_type": "individual",
+    "section_header": "3.10.1 electrical interconnectivity — ii. projections of interconnector expansion requirements (including for the year 2030)",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Terna plans additional interconnection infrastructure including: a staged 400 kV interconnection between Italy and Austria (removing restrictions on the current 220 kV link, then building a new 400 kV connection), replacement of SACOI2 via SACOI3 (Sardinia–Corsica–Mainland Italy), and an Italy–Tunisia connection of strategic importance.",
+      "verbatim_text": "At the design stage:\n\n- -400 kV power line Interconnection between Italy and Austria, in two stages: i) removal of the restrictions on the current 220 kV connection between Italy and Austria; ii) new 400 kV connection;\n- -connection  between  Italy  and  France,  SACOI  3  'Sardinia-Corsica-Mainland  Italy': replacement of the existing SACOI 2, which has now reached the end of its useful life;\n- -connection between Italy and Tunisia; work of strategic importance for the electrical transmission system in the Mediterranean basin, which will provide an additional tool to optimise the use of energy resources between Europe and north Africa.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "3.10.1 Electrical interconnectivity — ii. Projections of interconnector expansion requirements (including for the year 2030)",
+      "sector": "Electricity",
+      "extraction_rationale": "Concrete planned interconnection projects described as being at the design stage, with specific measures and staging."
+    }
+  },
+  {
+    "cluster_id": 96,
+    "cluster_type": "individual",
+    "section_header": "3.10.1 electrical interconnectivity — ii. projections of interconnector expansion requirements (including for the year 2030)",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Pursuant to Law 99/2009, Italy foresees additional electricity interconnectors at the authorisation stage, including HVDC projects (Piossasco–Grand'Ile; Italy–Montenegro; Salgareda–Divaca/Bericevo) and AC interconnections (Airolo–Pallanzeno 400 kV; Nauders–Glorenza 220 kV).",
+      "verbatim_text": "## Pursuant to Law 99/2009:\n\n- -HVDC  interconnection  between  Piossasco  and  Grand'Ile  (in  conjunction  with  the public connection cited above);\n- -HVDC interconnection between Italy and Montenegro (share of capacity of the public connection cited above);\n- -400 kV interconnection between Airolo (CH) and Pallanzeno (IT) (connected with the HVDC Pallanzeno-Baggio project);\n- -220 kV interconnection between Nauders (AT) and Glorenza (IT);\n- HVDC interconnection between Salgareda (IT) and Divaca/Bericevo (SI).",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "3.10.1 Electrical interconnectivity — ii. Projections of interconnector expansion requirements (including for the year 2030)",
+      "sector": "Electricity",
+      "extraction_rationale": "List of specific interconnector projects explicitly linked to a legal basis (Law 99/2009) and the authorisation process."
+    }
+  },
+  {
+    "cluster_id": 97,
+    "cluster_type": "individual",
+    "section_header": "social impacts of coal phase-out",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Decree-Law No 101 of 3 September 2019 establishes that, from 2020 to 2024, up to €20 million per year (from the amount exceeding €1,000 million of EU ETS auction proceeds) will be channelled to a 'Fund for vocational retraining in areas in which coal-fired power plants are located', to be set up at the Ministry of Economic Development.",
+      "verbatim_text": "In regulatory terms, Decree-Law No 101 of 3 September 2019 established that from 2020 to 2024 the amount exceeding €1,000 million of the proceeds from the auctions for the allocation\n\nof EU ETS quotas, for a maximum of €20 million per year, will be channelled to the 'Fund for vocational retraining in areas in which coal-fired power plants are located'. The fund will be set up at the Ministry of Economic Development.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Social impacts of coal phase-out",
+      "sector": "Just transition",
+      "extraction_rationale": "Binding legal instrument with defined funding rule, timeframe, and institutional location for the fund."
+    }
+  },
+  {
+    "cluster_id": 98,
+    "cluster_type": "individual",
+    "section_header": "social impacts of coal phase-out",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Enel S.p.A. has implemented the 'Futur-e' project to decommission 23 old thermoelectric power plants (13 GW), including some coal plants, including measures for retraining and redeploying surplus workers and for conversion and redevelopment of disused sites.",
+      "verbatim_text": "This  is  the  'Futur  -  E'  project,  which  involves  the  decommissioning  of  23  old thermoelectric  power  plants  that  are  no  longer  economically  viable  or  environmentally sustainable and have a capacity of 13 GW, including some coal-fired plants. The project involves:\n\n- -the retraining and redeployment of surplus workers through agreements and negotiations...\n- -the  conversion  and  redevelopment  of  disused  sites  with  a  due  regard  for  safeguarding ancillary industries.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Social impacts of coal phase-out",
+      "sector": "Just transition",
+      "extraction_rationale": "Described as an implemented project with specific actions (decommissioning scope and workforce/site measures); although corporate-led, it is presented as a concrete transition measure."
+    }
+  },
+  {
+    "cluster_id": 99,
+    "cluster_type": "individual",
+    "section_header": "3.10.3 electricity and gas markets, energy prices — iv. description of energy subsidies, including for fossil fuels",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Under Article 68 of Law No 221 of 28 December 2015, Parliament assigns the Ministry of the Environment the task of drawing up a 'Catalogue of Environmentally Damaging Subsidies and Environmentally Advantageous Subsidies' as an inventory of existing subsidies with emphasis on environmental impact.",
+      "verbatim_text": "Parliament assigns to the Ministry of the Environment and Protection of Natural Resources and the Sea the task of drawing up a 'Catalogue of Environmentally Damaging Subsidies and Environmentally Advantageous Subsidies' (as provided for by  Article 68 of Law No 221 of 28 December 2015, containing measures for the green economy and the efficient use of resources).  This  is  an  inventory  showing  the  existing  subsidies  in  Italy,  with  particular emphasis on their environmental impact.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "3.10.3 Electricity and gas markets, energy prices — iv. Description of energy subsidies, including for fossil fuels",
+      "sector": "Cross-cutting",
+      "extraction_rationale": "Clear legal mandate assigning a task to a ministry (creation of an official catalogue/inventory)."
+    }
+  },
+  {
+    "cluster_id": 100,
+    "cluster_type": "individual",
+    "section_header": "4.6 dimension research, innovation and competitiveness",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Italy has approved a new three-year plan for 2019–2021 under the Fund for electrical systems research to definitively and permanently strengthen alignment with the SET Plan.",
+      "verbatim_text": "The process of aligning the national R&D policies with the priorities set out in the SET Plan has been underway for some years now and the Ministry of Economic Development has contributed  through  the  Fund  for  electrical  systems  research (funded  by  the  A5  tariff component)... The  new\n\nthree-year  plan  for  2019-2021,  which  aims  to  strengthen  this  link  with  the  SET  Plan definitively and permanently, has recently been approved.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "4.6 Dimension research, innovation and competitiveness",
+      "sector": "Research & innovation",
+      "extraction_rationale": "Explicit approval of an R&D plan with stated purpose and timeframe; constitutes a concrete policy instrument/programming decision."
+    }
+  }
+]
