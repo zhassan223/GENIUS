@@ -1,2 +1,0 @@
-policy_id,role,parent_statement,policy_statement,primary_category,typology_code,trace_path,validation_trace_csv,validation_lookup_column,validation_lookup_value
-000,individual,,The City of Geneva commits to reducing greenhouse gas emissions by 60% by 2030 and achieving carbon neutrality by 2050.,Mitigation,M-1,policy_traces/000_The_City_of_Geneva_commits_to_reducing_greenhouse_gas_emissi.json,trace_individual_policies_valid.csv,policy_statement,The City of Geneva commits to reducing greenhouse gas emissions by 60% by 2030 and achieving carbon neutrality by 2050.
