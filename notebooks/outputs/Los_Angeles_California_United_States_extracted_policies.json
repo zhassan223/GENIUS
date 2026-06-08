@@ -1,0 +1,866 @@
+[
+  {
+    "policy_statement": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "verbatim_text": "TABLE ES-1 SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS\n\n| Draft 2045 CAP Strategies and Measures                                |\n| Strategy 1: Decarbonize the Energy Supply                             |\n| Measure ES1: Develop a Sunset Strategy for All Oil and Gas Operations |\n| Measure ES2: Procure Zero-Carbon Electricity                          |\n| Measure ES3: Increase Renewable Energy Production                     |\n| Measure ES4: Increase Energy Resilience                               |\n| Measure ES5: Establish GHG Requirements for New Development |",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "TABLE ES-1 SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "The document names Strategy 1 and enumerates multiple measures under it, indicating an umbrella policy framework with sub-actions."
+  },
+  {
+    "policy_statement": "Measure ES1: Develop a sunset strategy for all oil and gas operations, including collaboration with jurisdictions/utilities and development of an ordinance.",
+    "verbatim_text": "Measure ES1: Develop a Sunset Strategy for All Oil and Gas Operations\nEnergy: • Action ES1.1 - Collaborate with other local jurisdictions and utilities to develop a sunset strategy for all oil and gas operations that prioritizes disproportionately affected communities. Develop an ordinance.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Named measure under Strategy 1 with specific implementing actions, including an ordinance."
+  },
+  {
+    "policy_statement": "Collaborate with other local jurisdictions and utilities to develop a sunset strategy for all oil and gas operations prioritizing disproportionately affected communities and develop an ordinance.",
+    "verbatim_text": "Action ES1.1 - Collaborate with other local jurisdictions and utilities to develop a sunset strategy for all oil and gas operations that prioritizes disproportionately affected communities. Develop an ordinance.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete intervention and regulatory mechanism (ordinance) stated as an implementing action."
+  },
+  {
+    "policy_statement": "Develop a policy requiring examination of all active, idle, and abandoned oil wells for fugitive GHG emissions and coordinate with agencies conducting fugitive emissions data.",
+    "verbatim_text": "Action ES1.2 - Develop a policy that requires the examination of all active, idle, and abandoned oil wells for fugitive emissions of GHGs. Coordinate with federal and state agencies conducting fugitive emissions data.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit requirement ('requires') to examine wells and coordinate with agencies."
+  },
+  {
+    "policy_statement": "Develop a carbon removal strategy that considers direct air capture and carbon capture and sequestration (CCS).",
+    "verbatim_text": "GHG Emissions: • Action ES1.3 - Develop a carbon removal strategy that considers direct air capture and carbon capture and sequestration (CCS).",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Carbon removal",
+    "extraction_rationale": "Specific planned strategy development for carbon removal technologies."
+  },
+  {
+    "policy_statement": "Measure ES2: Procure zero-carbon electricity by transitioning County facilities to 100% renewable electricity services and completing community enrollment in 100% green power/green rate options.",
+    "verbatim_text": "Measure ES2: Procure Zero-Carbon Electricity\nEnergy: • Action ES2.1 - Transition all County facilities within unincorporated areas to CPA's 100% Green Power option, SCE's 100% Green Rate option, or other available 100% renewable electricity service. • Action ES2.2 - Complete enrollment of the community in CPA's 100% Green Power option or SCE's Green Rate option.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Named measure with explicit actions to transition facilities and enroll community in 100% renewable options."
+  },
+  {
+    "policy_statement": "Transition all County facilities within unincorporated areas to CPA's 100% Green Power option, SCE's 100% Green Rate option, or other available 100% renewable electricity service.",
+    "verbatim_text": "Action ES2.1 - Transition all County facilities within unincorporated areas to CPA's 100% Green Power option, SCE's 100% Green Rate option, or other available 100% renewable electricity service.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete procurement/transition action for County facilities."
+  },
+  {
+    "policy_statement": "Complete enrollment of the community in CPA's 100% Green Power option or SCE's Green Rate option.",
+    "verbatim_text": "Action ES2.2 - Complete enrollment of the community in CPA's 100% Green Power option or SCE's Green Rate option.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Specific implementation action to enroll the community in 100% renewable electricity options."
+  },
+  {
+    "policy_statement": "Measure ES3: Increase renewable energy production through requirements for rooftop solar in new development, solar installations on existing buildings and County facilities, community-shared solar, affordable housing renewable energy requirements/incentives, and streamlined permitting for solar and storage.",
+    "verbatim_text": "Measure ES3: Increase Renewable Energy Production\nEnergy: • Action ES3.1 - Require rooftop solar PV for all new development. • Action ES3.2 - Install rooftop solar PV at existing buildings. • Action ES3.3 - Identify and install solar PV systems at existing viable County facilities and properties. • Action ES3.4 - Explore the feasibility to install community-shared solar facilities on County properties where opportunities exist. • Action ES3.5 - Require and incentivize renewable energy for affordable housing developments for both new development and existing buildings. • Action ES3.6 - Streamline and prioritize permitting for solar and battery storage projects.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Named measure with multiple specific interventions including requirements and permitting changes."
+  },
+  {
+    "policy_statement": "Require rooftop solar PV for all new development.",
+    "verbatim_text": "Action ES3.1 - Require rooftop solar PV for all new development.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Clear requirement for a technology in new development."
+  },
+  {
+    "policy_statement": "Install rooftop solar PV at existing buildings.",
+    "verbatim_text": "Action ES3.2 - Install rooftop solar PV at existing buildings.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Specific implementation action to deploy solar on existing buildings."
+  },
+  {
+    "policy_statement": "Identify and install solar PV systems at existing viable County facilities and properties.",
+    "verbatim_text": "Action ES3.3 - Identify and install solar PV systems at existing viable County facilities and properties.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Specific deployment action on County facilities."
+  },
+  {
+    "policy_statement": "Explore feasibility to install community-shared solar facilities on County properties where opportunities exist.",
+    "verbatim_text": "Action ES3.4 - Explore the feasibility to install community-shared solar facilities on County properties where opportunities exist.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Feasibility exploration is a specified governmental action tied to deploying community-shared solar."
+  },
+  {
+    "policy_statement": "Require and incentivize renewable energy for affordable housing developments for both new development and existing buildings.",
+    "verbatim_text": "Action ES3.5 - Require and incentivize renewable energy for affordable housing developments for both new development and existing buildings.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Contains a requirement and incentives targeting affordable housing renewable energy."
+  },
+  {
+    "policy_statement": "Streamline and prioritize permitting for solar and battery storage projects.",
+    "verbatim_text": "Action ES3.6 - Streamline and prioritize permitting for solar and battery storage projects.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Administrative/regulatory change to permitting is a concrete policy action."
+  },
+  {
+    "policy_statement": "Measure ES4: Increase energy resilience by investing in storage and microgrids, deploying resilience hubs, creating an energy map, conducting feasibility studies for solar/storage microgrids and adopting regulations/standards, and promoting efficiency/resilience in critical service facilities.",
+    "verbatim_text": "Measure ES4: Increase Energy Resilience\nEnergy: • Action ES4.2 - Invest in energy storage and microgrids at critical County facilities through CPA's Power Ready Program. • Action ES4.4 - Conduct feasibility studies to identify priority areas for solar and storage, combined with building- and community-scale microgrids and alternative technologies such as fuel cells and grid paralleling... Adopt regulations that establish this use and standards for its development... Hazards and Hazardous Materials: • Action ES4.1 - Develop a program to deploy community resilience hubs at scale. • Action ES4.3 - Develop a publicly accessible community energy map...",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 (CONTINUED) SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Named measure with multiple specific actions including investments, programs, mapping, studies, and adoption of regulations."
+  },
+  {
+    "policy_statement": "Develop a program to deploy community resilience hubs at scale.",
+    "verbatim_text": "Action ES4.1 - Develop a program to deploy community resilience hubs at scale.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 (CONTINUED) SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Disaster risk reduction",
+    "extraction_rationale": "Explicit commitment to develop a program for resilience hubs."
+  },
+  {
+    "policy_statement": "Invest in energy storage and microgrids at critical County facilities through CPA's Power Ready Program.",
+    "verbatim_text": "Action ES4.2 - Invest in energy storage and microgrids at critical County facilities through CPA's Power Ready Program.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 (CONTINUED) SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Resource allocation ('Invest') tied to specific technologies and facilities."
+  },
+  {
+    "policy_statement": "Develop a publicly accessible community energy map identifying opportunities for distributed energy resources and microgrids to improve energy resiliency.",
+    "verbatim_text": "Action ES4.3 - Develop a publicly accessible community energy map that identifies opportunities for deploying distributed energy resources and microgrids to improve energy resiliency.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 (CONTINUED) SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Specific deliverable (public map) to support deployment of distributed resources."
+  },
+  {
+    "policy_statement": "Conduct feasibility studies to identify priority areas for solar and storage and microgrids and adopt regulations establishing this use and development standards.",
+    "verbatim_text": "Action ES4.4 - Conduct feasibility studies to identify priority areas for solar and storage, combined with building- and community-scale microgrids and alternative technologies such as fuel cells and grid paralleling... Study implementation, costs, barriers, and obstacles and identify partnerships. Adopt regulations that establish this use and standards for its development.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 (CONTINUED) SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Commits to studies and to adopting regulations/standards—clear governmental actions."
+  },
+  {
+    "policy_statement": "Develop a Countywide program to promote energy efficiency and resilience measures in facilities providing critical community services.",
+    "verbatim_text": "Action ES4.5 - Develop a Countywide program to promote energy efficiency and resilience measures in facilities providing critical community services.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 (CONTINUED) SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Energy",
+    "extraction_rationale": "Program creation commitment targeting critical community service facilities."
+  },
+  {
+    "policy_statement": "Measure ES5: Establish GHG requirements for new development through new requirements (reach codes/ordinances/conditions), a CAP consistency checklist, evaluating programs requiring General Plan amendments, and establishing an Offsite GHG Reduction Program.",
+    "verbatim_text": "Measure ES5: Establish GHG Requirements for New Development\n• Action ES5.1 - Identify new requirements for new development, including reach codes, ordinances, and conditions of approval...\n• Action ES5.2 - Implement the 2045 CAP consistency review checklist...\n• Action ES5.3 - Evaluate a program for reducing GHG emissions for new development that require General Plan amendments.\n• Action ES5.4 - Establish an Offsite GHG Reduction Program for new development...",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 (CONTINUED) SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Multiple concrete regulatory/program actions to impose or enable GHG requirements for new development."
+  },
+  {
+    "policy_statement": "Identify new requirements for new development (reach codes, ordinances, conditions of approval) to reduce GHG emissions across energy, transportation, waste, water, and other sources, including affordability considerations and supporting measures to defray first costs.",
+    "verbatim_text": "Action ES5.1 - Identify new requirements for new development, including reach codes, ordinances, and conditions of approval to reduce GHG emissions from energy use, transportation, waste, water, and other sources. Include affordable housing considerations in these requirements, and develop supporting measures (financial support, technical assistance, or other incentives) to defray potential additional first costs in order to maintain housing affordability.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 (CONTINUED) SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Explicit commitment to create new regulatory requirements and support measures."
+  },
+  {
+    "policy_statement": "Implement the 2045 CAP consistency review checklist for new development to demonstrate consistency with CAP strategies, measures, and actions.",
+    "verbatim_text": "Action ES5.2 - Implement the 2045 CAP consistency review checklist for new development to demonstrate consistency with the 2045 CAP's strategies, measures, and actions.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 (CONTINUED) SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Concrete implementation tool for development review and CEQA streamlining."
+  },
+  {
+    "policy_statement": "Evaluate a program for reducing GHG emissions for new development that require General Plan amendments.",
+    "verbatim_text": "Action ES5.3 - Evaluate a program for reducing GHG emissions for new development that require General Plan amendments.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 (CONTINUED) SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Commitment to evaluate a defined programmatic approach linked to plan amendments."
+  },
+  {
+    "policy_statement": "Establish an Offsite GHG Reduction Program for new development to use as a GHG reduction/mitigation pathway for CAP compliance and to fund programs reducing GHG emissions in the built environment.",
+    "verbatim_text": "Action ES5.4 - Establish an Offsite GHG Reduction Program for new development to use as a GHG reduction or mitigation pathway for 2045 CAP compliance and to fund programs for reducing GHG emissions in the built environment.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 1: Decarbonize the Energy Supply through measures including a sunset strategy for oil and gas operations, procuring zero-carbon electricity, increasing renewable energy production, increasing energy resilience, and establishing GHG requirements for new development.",
+    "section_header": "TABLE ES-1 (CONTINUED) SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Creates a defined program mechanism for mitigation/compliance and funding."
+  },
+  {
+    "policy_statement": "Strategy 5: Decarbonize Buildings through measures to electrify existing buildings, standardize all-electric new development, and other decarbonization actions (including embodied carbon and refrigerants).",
+    "verbatim_text": "Strategy 5: Decarbonize Buildings\nMeasure E1: Transition Existing Buildings to All- Electric\nMeasure E2: Standardize All-Electric New Development\nMeasure E3: Other Decarbonization Actions",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "TABLE ES-1 (CONTINUED) SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Buildings",
+    "extraction_rationale": "Named Strategy with multiple measures and actions underneath, forming a clear umbrella policy."
+  },
+  {
+    "policy_statement": "Measure E2: Standardize all-electric new development by adopting an ordinance requiring applicable new buildings be fully electric (no natural gas hookups), adopting ZNE ordinances by specified years, and adopting CALGreen Tier 1 standards and potential Tier 2 amendments.",
+    "verbatim_text": "Measure E2: Standardize All-Electric New Development\nEnergy: • Action E2.1 - Adopt an ordinance requiring all applicable new buildings to be fully electric with no natural gas hookups... • Action E2.2 - Adopt a ZNE ordinance for all new residential buildings built after 2025 and all new nonresidential buildings built after 2030... • Action E2.3 - Adopt CALGreen Code Tier 1 green building standards and identify which Tier 2 standards could be adopted as code amendments.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 5: Decarbonize Buildings through measures to electrify existing buildings, standardize all-electric new development, and other decarbonization actions (including embodied carbon and refrigerants).",
+    "section_header": "TABLE ES-1 (CONTINUED) SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Buildings",
+    "extraction_rationale": "Measure contains clear regulatory commitments (ordinances, code adoption) and timelines."
+  },
+  {
+    "policy_statement": "Adopt an ordinance requiring all applicable new buildings to be fully electric with no natural gas hookups, with affordability considerations and supporting measures to defray first costs.",
+    "verbatim_text": "Action E2.1 - Adopt an ordinance requiring all applicable new buildings to be fully electric with no natural gas hookups. Include affordable housing considerations in these requirements, and develop supporting measures (financial support, technical assistance, or other incentives) to defray potential additional first costs in order to maintain housing affordability.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 5: Decarbonize Buildings through measures to electrify existing buildings, standardize all-electric new development, and other decarbonization actions (including embodied carbon and refrigerants).",
+    "section_header": "TABLE ES-1 (CONTINUED) SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Buildings",
+    "extraction_rationale": "Explicit ordinance adoption with specified building electrification requirement."
+  },
+  {
+    "policy_statement": "Adopt a ZNE ordinance for all new residential buildings built after 2025 and all new nonresidential buildings built after 2030, including renter protections and affordable housing set-aside to offset first cost.",
+    "verbatim_text": "Action E2.2 - Adopt a ZNE ordinance for all new residential buildings built after 2025 and all new nonresidential buildings built after 2030. Include renter protections for affordable housing. Provide affordable housing set-aside to offset first cost.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 5: Decarbonize Buildings through measures to electrify existing buildings, standardize all-electric new development, and other decarbonization actions (including embodied carbon and refrigerants).",
+    "section_header": "TABLE ES-1 (CONTINUED) SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Buildings",
+    "extraction_rationale": "Time-bound ordinance commitment with specified scope and protections."
+  },
+  {
+    "policy_statement": "Adopt CALGreen Code Tier 1 green building standards and identify Tier 2 standards for potential adoption as code amendments.",
+    "verbatim_text": "Action E2.3 - Adopt CALGreen Code Tier 1 green building standards and identify which Tier 2 standards could be adopted as code amendments.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 5: Decarbonize Buildings through measures to electrify existing buildings, standardize all-electric new development, and other decarbonization actions (including embodied carbon and refrigerants).",
+    "section_header": "TABLE ES-1 (CONTINUED) SUMMARY OF DRAFT 2045 CAP MEASURES AND AFFECTED RESOURCE AREAS",
+    "sector": "Buildings",
+    "extraction_rationale": "Concrete code adoption/identification action to raise building standards."
+  },
+  {
+    "policy_statement": "Mitigation Measure 3.4-1 requires applicants for new projects facilitated by the Draft 2045 CAP to incorporate construction emissions mitigation measures when thresholds could be exceeded.",
+    "verbatim_text": "Mitigation Measure 3.4-1: Construction Emissions. If, during subsequent project-level environmental review, construction-related criteria air pollutants are determined to have the potential to exceed the applicable air quality management district (AQMD) adopted thresholds of significance, the lead agency shall require applicants for new projects facilitated by the Draft 2045 CAP measures and actions to incorporate mitigation measures to avoid or reduce air pollutant emissions during construction activities.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE ES-2 SUMMARY OF IMPACTS AND MITIGATION MEASURES",
+    "sector": "Air quality",
+    "extraction_rationale": "Binding 'shall require' mitigation requirement applicable to future projects is a regulatory commitment within the PEIR framework."
+  },
+  {
+    "policy_statement": "Mitigation Measure 3.15-1 requires project applicants and construction contractors to coordinate with relevant agencies to develop and implement a traffic control plan to reduce construction traffic impacts.",
+    "verbatim_text": "Mitigation Measure 3.15-1, Traffic Control Plan: The County shall require project applicants and construction contractors to coordinate with relevant County departments, transit providers, and emergency service providers to develop a traffic control plan to reduce the impacts of construction traffic on transit service, roadway operations, emergency responders, pedestrian and bicycle facilities, and public safety in the surrounding area.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE ES-2 SUMMARY OF IMPACTS AND MITIGATION MEASURES",
+    "sector": "Transport",
+    "extraction_rationale": "Contains mandatory language ('shall require') creating an implementation requirement for future projects."
+  },
+  {
+    "policy_statement": "Strategy 2 will increase densities and diversity of land uses near transit to reduce vehicle miles traveled by coordinating land use development outcomes such as increased densities near transit, jobs-housing balance, and strategically located land uses.",
+    "verbatim_text": "## 2.6.2.2 Strategy 2: Increase Densities and Diversity of Land Uses near Transit\n\nStrategy 2 focuses on coordinating land use development that leads to outcomes associated with reduced vehicle miles traveled, such as increased densities near transit, jobs-housing balance, and strategically located land uses that can reduce travel distances for many trip purposes.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "2.6.2.2 Strategy 2: Increase Densities and Diversity of Land Uses near Transit",
+    "sector": "Transport",
+    "extraction_rationale": "Named strategy with defined intervention focus (land use coordination to reduce VMT); serves as umbrella for listed measures T1 and T2."
+  },
+  {
+    "policy_statement": "Measure T1 will increase density near High-Quality Transit Areas (HQTAs) by setting minimum and maximum dwelling unit density ranges, locating most residential and employment centers within 1 mile of an HQTA, and increasing dwelling units within HQTAs.",
+    "verbatim_text": "## Measure T1: Increase Density near High-Quality Transit Areas.\n\nThe performance objectives for Measure T1 are to: (1) achieve a minimum of 20 dwelling units (DUs) per acre (maximum of 30-150 DUs per acre) for HQTAs; (2) locate a majority of residential and employment centers in the unincorporated Los Angeles County within 1 mile of an HQTA; and (3) achieve a 27 percent increase in dwelling units within HQTAs.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 2 will increase densities and diversity of land uses near transit to reduce vehicle miles traveled by coordinating land use development outcomes such as increased densities near transit, jobs-housing balance, and strategically located land uses.",
+    "section_header": "Measure T1: Increase Density near High-Quality Transit Areas.",
+    "sector": "Transport",
+    "extraction_rationale": "Specific measure with quantified performance objectives for density and location, linked under Strategy 2."
+  },
+  {
+    "policy_statement": "Measure T2 will develop land use plans to address jobs-housing balance and increase mixed use, including achieving job density targets for new nonresidential projects and requiring community plans to identify strategies to reduce jobs/housing imbalance below 20%.",
+    "verbatim_text": "## Measure T2: Develop Land Use Plans Addressing Jobs-Housing Balance and Increase Mixed Use.\n\nThe performance objective for Measure T2 is to achieve a job density of 300 jobs per acre for all new projects with nonresidential development by 2030. For communities with an imbalance of jobs/housing (±20 percent), community plans will identify and quantify strategies for bringing that imbalance below 20 percent.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 2 will increase densities and diversity of land uses near transit to reduce vehicle miles traveled by coordinating land use development outcomes such as increased densities near transit, jobs-housing balance, and strategically located land uses.",
+    "section_header": "Measure T2: Develop Land Use Plans Addressing Jobs-Housing Balance and Increase Mixed Use.",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified target and planning requirement stated as a measure under Strategy 2."
+  },
+  {
+    "policy_statement": "Strategy 3 will reduce single-occupancy vehicle trips by developing transportation networks that increase the accessibility, comfort, and convenience of active travel modes.",
+    "verbatim_text": "## 2.6.2.3 Strategy 3: Reduce Single-Occupancy Vehicle Trips\n\nStrategy 3 focuses on development of transportation networks that increase the accessibility, comfort, and convenience of active travel modes to help reduce trips made in single-occupancy vehicles.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "2.6.2.3 Strategy 3: Reduce Single-Occupancy Vehicle Trips",
+    "sector": "Transport",
+    "extraction_rationale": "Named strategy functioning as umbrella for measures T3–T5."
+  },
+  {
+    "policy_statement": "Measure T3 will expand the bicycle and pedestrian network, including increasing bikeway miles by 300% by 2035 and implementing the County Bicycle Master Plan and updating pedestrian/bicycle/active transportation plans every five years.",
+    "verbatim_text": "## Measure T3: Expand Bicycle and Pedestrian Network to Serve Residential, Employment, and Recreational Trips.\n\nThe performance objective for Measure T3 is to increase bikeway miles by 300 percent by 2035. This measure also requires implementing the County Bicycle Master Plan and completing updates to County's Pedestrian Action Plan, Bicycle Master Plan, and Active Transportation Plans every five years.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 3 will reduce single-occupancy vehicle trips by developing transportation networks that increase the accessibility, comfort, and convenience of active travel modes.",
+    "section_header": "Measure T3: Expand Bicycle and Pedestrian Network to Serve Residential, Employment, and Recreational Trips.",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified target (300% by 2035) and specific implementation requirements; listed under Strategy 3."
+  },
+  {
+    "policy_statement": "Measure T4 will broaden options for transit and alternative modes by 2030 by doubling transit service hours, installing bus-only lanes and signal prioritization on major transit thoroughfares, and ensuring at least 75% of unincorporated County residents live within one-half mile of a bus or active transportation option.",
+    "verbatim_text": "## Measure T4: Broaden Options for Transit, Active Transportation, and Alternative Modes of Transportation.\n\nThe performance objectives for Measure T4 are by 2030 to: (1) double transit service hours from 560,000 to 1.12 million; (2) install bus-only lanes and signal prioritization on all major transit thoroughfares; and (3) have a minimum of 75 percent of unincorporated Los Angeles County residents live within one-half mile of a bus or active transportation option;",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 3 will reduce single-occupancy vehicle trips by developing transportation networks that increase the accessibility, comfort, and convenience of active travel modes.",
+    "section_header": "Measure T4: Broaden Options for Transit, Active Transportation, and Alternative Modes of Transportation.",
+    "sector": "Transport",
+    "extraction_rationale": "Contains concrete, quantified performance objectives and infrastructure actions; listed under Strategy 3."
+  },
+  {
+    "policy_statement": "Measure T5 will limit and remove parking minimums through parking supply reductions, unbundling parking costs, and implementing parking pricing to encourage park-once behavior.",
+    "verbatim_text": "## Measure T5: Limit and Remove Parking Minimums.\n\nThe performance objectives for Measure T5 are to: (1) reduce parking stipulations to reduce parking supply and encourage transit use; (2) unbundle parking costs to reflect the cost of parking; and (3) implement parking pricing to encourage 'park-once' behavior.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 3 will reduce single-occupancy vehicle trips by developing transportation networks that increase the accessibility, comfort, and convenience of active travel modes.",
+    "section_header": "Measure T5: Limit and Remove Parking Minimums.",
+    "sector": "Transport",
+    "extraction_rationale": "Specific intervention set (parking reforms) framed as performance objectives; listed under Strategy 3."
+  },
+  {
+    "policy_statement": "Strategy 4 will institutionalize low-carbon transportation by increasing access to charging infrastructure, installing EV charging stations, requiring new development to install EV charging, and developing incentives and requirements for existing buildings to install EV charging stations.",
+    "verbatim_text": "## 2.6.2.4 Strategy 4: Institutionalize Low-Carbon Transportation\n\nThe County also would endeavor to install EV charging stations (EVCSs) at County properties and in the public right-of-way, require new development to install EVCSs, and develop incentives and requirements for existing buildings to install EVCSs.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "2.6.2.4 Strategy 4: Institutionalize Low-Carbon Transportation",
+    "sector": "Transport",
+    "extraction_rationale": "Named strategy with explicit interventions; umbrella for measures T6–T9."
+  },
+  {
+    "policy_statement": "Measure T6 will increase zero-emission vehicle (ZEV) market share and EV charging stations, including targets for fleetwide ZEV penetration, ZEV sales shares, total new EV charging stations, and EV charging stations at County facilities by 2030/2035/2045.",
+    "verbatim_text": "## Measure T6: Increase ZEV Market Share and Reduce Gasoline and Diesel Fuel Sales.\n\nThe performance objectives for Measure T6 are to: (1) increase the fleetwide percentage of light-duty vehicles in the unincorporated Los Angeles County that are ZEVs to 30 percent by 2030, 50 percent by 2035, and 90 percent by 2045; (2) increase the sales of new light-duty vehicles in the unincorporated Los Angeles County that are ZEVs to 68 percent by 2030 and 100 percent by 2035; (3) install 37,000 total new public and private shared EVCSs (including EVCSs at County facilities and properties) by 2030, 74,000 by 2035, and 140,000 by 2045; and (4) install 5,000 total new EVCSs at County facilities and properties by 2030, 10,000 by 2035, and 25,000 by 2045.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 4 will institutionalize low-carbon transportation by increasing access to charging infrastructure, installing EV charging stations, requiring new development to install EV charging, and developing incentives and requirements for existing buildings to install EV charging stations.",
+    "section_header": "Measure T6: Increase ZEV Market Share and Reduce Gasoline and Diesel Fuel Sales.",
+    "sector": "Transport",
+    "extraction_rationale": "Multiple quantified targets with timelines; listed as a measure under Strategy 4."
+  },
+  {
+    "policy_statement": "Measure T7 will electrify County fleet vehicles by electrifying bus and shuttle fleets by 2035, increasing County-owned light-duty ZEV shares by 2030/2035/2045, and supporting the state's goal that new light-duty fleet purchases (with exceptions) will be ZEVs.",
+    "verbatim_text": "## Measure T7: Electrify County Fleet Vehicles.\n\nThe performance objectives for Measure T7 are to: (1) electrify the County bus and shuttle fleets by 2035; (2) increase the fleetwide percentage of light-duty vehicles in the Countyowned fleet that are ZEVs to 35 percent by 2030, 60 percent by 2035, and 100 percent by 2045; and (3) support the state's goal that all new light-duty vehicle fleet purchases, with certain exceptions, will be ZEVs.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 4 will institutionalize low-carbon transportation by increasing access to charging infrastructure, installing EV charging stations, requiring new development to install EV charging, and developing incentives and requirements for existing buildings to install EV charging stations.",
+    "section_header": "Measure T7: Electrify County Fleet Vehicles.",
+    "sector": "Transport",
+    "extraction_rationale": "Concrete electrification commitments and quantified targets; under Strategy 4."
+  },
+  {
+    "policy_statement": "Measure T8 will accelerate freight decarbonization with ZEV targets for medium- and heavy-duty fleets and drayage, ZEV sales targets, and requirements for EV charging stations at new and existing warehouse loading docks by 2030.",
+    "verbatim_text": "## Measure T8: Accelerate Freight Decarbonization.\n\nThe performance objectives for Measure T8 are to: (1) increase the fleetwide percentage of medium-duty and heavy-duty vehicles in the unincorporated Los Angeles County that are ZEVs to 40 percent by 2030, 60 percent by 2035, and 90 percent by 2045; (2) increase the fleetwide percentage of medium-duty and heavy-duty trucks in the County-owned fleet that are ZEVs to 50 percent by 2030, 70 percent by 2035, and 95 percent by 2045; (3) ensure that 100 percent of the drayage truck fleet is ZEV by 2035; (4) ensure that 100 percent of sales of medium- and heavy-duty trucks are ZEVs by 2045; (5) require that all new warehouse loading docks have EVCSs by 2030; and (6) require that all existing warehouse loading docks have EVCSs by 2030.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 4 will institutionalize low-carbon transportation by increasing access to charging infrastructure, installing EV charging stations, requiring new development to install EV charging, and developing incentives and requirements for existing buildings to install EV charging stations.",
+    "section_header": "Measure T8: Accelerate Freight Decarbonization.",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified ZEV targets and explicit charging infrastructure requirements; measure under Strategy 4."
+  },
+  {
+    "policy_statement": "Measure T9 will expand use of zero-emission off-road vehicles and equipment by increasing ZEV shares for off-road fleets and for construction/agriculture/manufacturing equipment by 2030/2035/2045.",
+    "verbatim_text": "## Measure T9: Expand Use of Zero-Emission Technologies for Off-Road Vehicles and Equipment.\n\nThe performance objectives for Measure T9 are to: (1) increase the fleetwide percentage of off-road fleet and equipment in the unincorporated Los Angeles County that are ZEVs to 20 percent by 2030, 50 percent by 2035, and 95 percent by 2045; and (2) increase the fleetwide percentage of construction, agriculture, and manufacturing equipment in the unincorporated Los Angeles County that are ZEVs to 50 percent by 2030, 75 percent by 2035, and 100 percent by 2045.",
+    "policy_type": "sub",
+    "parent_policy_name": "Strategy 4 will institutionalize low-carbon transportation by increasing access to charging infrastructure, installing EV charging stations, requiring new development to install EV charging, and developing incentives and requirements for existing buildings to install EV charging stations.",
+    "section_header": "Measure T9: Expand Use of Zero-Emission Technologies for Off-Road Vehicles and Equipment.",
+    "sector": "Transport",
+    "extraction_rationale": "Specific quantified targets for off-road equipment electrification/zero-emission transition; under Strategy 4."
+  },
+  {
+    "policy_statement": "Measure E1 will transition existing buildings to all-electric by electrifying shares of existing residential and nonresidential buildings and requiring zero net energy for major renovations by 2030/2035/2045.",
+    "verbatim_text": "## Measure E1: Transition Existing Buildings to All-Electric.\n\nThe primary performance objectives for Measure E1 are to: (1) electrify 25 percent of the existing residential buildings by 2030, 40 percent by 2035, and 80 percent by 2045; (2) electrify 15 percent of the existing nonresidential buildings by 2030, 25 percent by 2035, and 60 percent by 2045; and (3) require zero net energy (ZNE) for 50 percent of all major renovations by 2030, 75 percent by 2035, and 100 percent by 2045.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Measure E1: Transition Existing Buildings to All-Electric.",
+    "sector": "Buildings",
+    "extraction_rationale": "Concrete measure with quantified electrification and renovation performance requirements; not shown in prior summary."
+  },
+  {
+    "policy_statement": "Measure E3 will implement other building decarbonization actions by increasing biomethane share in utility gas, using low/zero/negative-carbon concrete for all new construction, and replacing high-GWP refrigerants at specified rates by 2030/2035/2045.",
+    "verbatim_text": "## Measure E3: Implement Other Decarbonization Actions.\n\nThe performance objectives of Measure E3 are to: (1) increase the proportion of biomethane in the utility natural gas mix to 20 percent by 2030, 30 percent by 2035, and 80 percent by 2045; (2) use low-carbon, carbon-neutral, or negative-carbon concrete for all new construction; and (3) replace high-global-warming-potential refrigerants with lowglobal-warming-potential refrigerants 15 percent by 2030, 25 percent by 2035, and 50 percent by 2045.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Measure E3: Implement Other Decarbonization Actions.",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific interventions with quantified targets and material requirements; standalone measure text in this chunk."
+  },
+  {
+    "policy_statement": "Measure E4 will improve energy efficiency of existing buildings by reducing building energy use intensity relative to 2015 by sector-specific percentages by 2030/2035/2045.",
+    "verbatim_text": "## Measure E4: Improve Energy Efficiency of Existing Buildings.\n\nThe performance objective of Measure E4 is to reduce building Energy Use Intensity (thousand British thermal units per square foot) below 2015 levels by 20 percent for residential, 15 percent for industrial, and 25 percent for commercial by 2030; 25 percent for residential and industrial and 35 percent for commercial by 2035; and 50 percent for residential, industrial, and commercial by 2045.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Measure E4: Improve Energy Efficiency of Existing Buildings.",
+    "sector": "Buildings",
+    "extraction_rationale": "Quantified efficiency targets over time; clear performance standard."
+  },
+  {
+    "policy_statement": "Measure E5 will increase use of recycled water and gray water systems by meeting specified shares of total and agricultural/industrial water demand with recycled/gray/potable reuse by 2025/2030/2045 and implementing a direct potable reuse project by 2025.",
+    "verbatim_text": "## Measure E5: Increase Use of Recycled Water and Gray Water Systems.\n\nThe performance objectives of Measure E5 are to: (1) meet 25 percent of total unincorporated Los Angeles County water demand with recycled water, gray water, or potable reuse by 2025, 50 percent by 2030, and 90 percent by 2045; (2) meet 30 percent of water demand for agricultural and industrial uses with recycled water or gray water by 2025, 50 percent by 2030, and 80 percent by 2045; and (3) implement a successful direct potable reuse project by 2025.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Measure E5: Increase Use of Recycled Water and Gray Water Systems.",
+    "sector": "Water",
+    "extraction_rationale": "Water-sector measure with quantified demand shares and a dated project commitment."
+  },
+  {
+    "policy_statement": "Measure E6 will reduce indoor and outdoor water consumption by setting per-capita water use targets and reducing outdoor landscaping and municipal water consumption by specified percentages by 2030/2035/2045.",
+    "verbatim_text": "## Measure E6: Reduce Indoor and Outdoor Water Consumption.\n\nThe performance objectives of Measure E6 are to: (1) reduce total water use to less than 110 gallons per capita per day (GPCD) by 2030, 100 GPCD by 2035, and 85 GPCD by 2045; (2) reduce outdoor landscaping water use to 10 percent by 2030, 20 percent by 2035, and 50 percent by 2045; and (3) reduce municipal water consumption 10 percent by 2030, 20 percent by 2035, and 50 percent by 2045.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Measure E6: Reduce Indoor and Outdoor Water Consumption.",
+    "sector": "Water",
+    "extraction_rationale": "Quantified conservation targets with dates; concrete performance objectives."
+  },
+  {
+    "policy_statement": "Measure W1 will institutionalize sustainable waste systems and practices by increasing waste diversion rates to 85%/90%/95% by 2030/2035/2045, reducing single-use plastics disposal, increasing construction and demolition diversion to 70%, and increasing reuse of construction and demolition debris in new projects.",
+    "verbatim_text": "## Measure W1: Institutionalize Sustainable Waste Systems and Practices.\n\nThe performance objectives of Measure W1 are to: (1) increase the total unincorporated Los Angeles County waste diversion rate to 85 percent by 2030, 90 percent by 2035, and 95 percent by 2045; (2) reduce the disposal of single-use plastics in landfills; (3) increase the Construction and Demolition Ordinance to 70 percent diversion; and (4) increase the percentage of construction and demolition debris reused in new projects (private and public).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Measure W1: Institutionalize Sustainable Waste Systems and Practices.",
+    "sector": "Waste",
+    "extraction_rationale": "Waste policy with quantified diversion targets and specific ordinance-related actions."
+  },
+  {
+    "policy_statement": "Measure W2 will increase organic waste diversion to support overall waste diversion goals.",
+    "verbatim_text": "## Measure W2: Increase Organic Waste Diversion.\n\nThe performance objectives of Measure W2 are to maximize organic waste diversion to support the unincorporated Los Angeles County's overall waste diversion rate goals identified in Measure W1.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Measure W2: Increase Organic Waste Diversion.",
+    "sector": "Waste",
+    "extraction_rationale": "Specific intervention (maximize organics diversion) tied to Measure W1 goals; stated as a measure."
+  },
+  {
+    "policy_statement": "Measure A1 will conserve and restore carbon-sequestering wildlands and working lands by reducing natural land conversion, conserving/restoring forest lands, and managing wildland acreage for wildfire risk reduction and carbon stock savings by 2030/2035/2045.",
+    "verbatim_text": "## Measure A1: Conserve Forests, Woodlands, Shrublands, Grasslands, Desert, and other Carbon-Sequestering Wildlands and Working Lands.\n\nThe performance objectives of Measure A1 are to: (1) reduce the average annual amount of natural land converted for urbanized uses 25 percent by 2030 (53 hectares conserved annually), 50 percent by 2035 (106 hectares conserved annually), and 75 percent by 2045 (159 hectares conserved annually); (2) conserve and restore 2,000 acres of natural forest lands by 2030, 4,000 acres by 2035, and 6,000 acres by 2045; and (3) manage 10,000 acres of wildland for wildfire risk reduction and carbon stock savings by 2030, 20,000 acres by 2035, and 50,000 acres by 2045.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Measure A1: Conserve Forests, Woodlands, Shrublands, Grasslands, Desert, and other Carbon-Sequestering Wildlands and Working Lands.",
+    "sector": "AFOLU",
+    "extraction_rationale": "Land conservation/restoration measure with quantified acreage/hectare targets and timelines."
+  },
+  {
+    "policy_statement": "Measure A2 will support regenerative agriculture by reducing synthetic fertilizer use and increasing acres of cover crops using regenerative techniques.",
+    "verbatim_text": "## Measure A2: Support Regenerative Agriculture.\n\nThe performance objectives of Measure A2 are to reduce the quantity of synthetic fertilizers used/applied and increase in the number of acres of cover crops using regenerative agriculture techniques.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Measure A2: Support Regenerative Agriculture.",
+    "sector": "AFOLU",
+    "extraction_rationale": "Agriculture measure specifying concrete practice changes (fertilizer reduction, cover crops), albeit without numeric targets."
+  },
+  {
+    "policy_statement": "Measure A3 will expand the unincorporated County's tree canopy and green spaces by planting 130,000/200,000/270,000 total new trees by 2030/2035/2045 and developing and implementing an Urban Forest Management Plan.",
+    "verbatim_text": "## Measure A3: Expand Unincorporated Los Angeles County's Tree Canopy and Green Spaces.\n\nThe performance objectives of Measure A3 are to: (1) plant 130,000 total new trees by 2030, 200,000 total new trees by 2035, and 270,000 total new trees by 2045; and (2) develop and implement an Urban Forest Management Plan.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Measure A3: Expand Unincorporated Los Angeles County's Tree Canopy and Green Spaces.",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantified tree-planting targets and planning requirement."
+  },
+  {
+    "policy_statement": "The 2045 CAP will be updated every five years to reflect new advances and technologies in GHG emissions reduction strategies.",
+    "verbatim_text": "The 2045 CAP would serve as the overarching implementation plan through the 2045 target year and is expected to be updated every five years to reflect new advances and technologies in GHG emissions reduction strategies.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.3.1 Project Purpose",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Explicit commitment about update frequency (governance/implementation mechanism) stated as expectation for the plan."
+  },
+  {
+    "policy_statement": "The County will develop and use a 2045 CAP Consistency Review Checklist to allow projects to demonstrate consistency with the CAP and qualify for CEQA streamlining of project-level GHG analysis.",
+    "verbatim_text": "The County has developed the 2045 CAP Checklist to assist with determining the consistency of projects with the Draft 2045 CAP.\n\n- If a project would be consistent with the General Plan and Housing Element and could demonstrate consistency with the Draft 2045 CAP by completing the 2045 CAP Checklist, then the project would be considered consistent with the Draft 2045 CAP and would be eligible for CEQA streamlining of its project-level GHG analysis.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.7.1 2045 Climate Action Plan Consistency Checklist",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Specific tool and mechanism for implementation/CEQA streamlining; directly described as developed by the County."
+  },
+  {
+    "policy_statement": "The County will develop an offsite GHG emissions reduction program as part of the 2045 CAP Checklist, allowing projects unable to meet required checklist items or net-zero to fund or implement local GHG-reducing projects in unincorporated Los Angeles County.",
+    "verbatim_text": "Offsite GHG Emission Reduction Projects. As part of the 2045 CAP Checklist, the County will develop an offsite GHG emissions reduction program. Future development projects that cannot achieve net-zero GHG emissions or are unable to comply with all required 2045 CAP Checklist items, would have the option to participate in the offsite GHG emissions reduction program.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.7.1 2045 Climate Action Plan Consistency Checklist",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Explicit commitment ('will develop') for a program with defined purpose and eligibility."
+  },
+  {
+    "policy_statement": "The County will conduct an inventory of unincorporated area GHG emissions at minimum every five years and will collect data for annual reporting on progress of measures and actions; it will also develop an annually updated implementation dashboard and evaluate policies/plans/codes annually as needed to meet CAP targets, and evaluate the CAP and checklist at least every five years for updates.",
+    "verbatim_text": "To ensure that the Draft 2045 CAP remains qualified for use with later activities under CEQA Guidelines Section 15183.5(b)(2) and that the 2045 CAP Checklist remains valid, the Project includes the following monitoring and reporting responsibilities, which would be administered by the County:\n\n- The County will conduct an inventory of the unincorporated County's GHG emissions at minimum every five years...\n- The County will collect data to report through an annual report identifying the progress of measures and actions.\n- The County will develop a dashboard... that will be updated on an annual basis...\n- The County will annually evaluate County policies, plans, and codes as needed to ensure that the 2045 CAP reduction targets are met.\n- The County staff will evaluate the 2045 CAP and the 2045 CAP Checklist every five years (at minimum) to determine whether updates are necessary.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.8 2045 Climate Action Plan Monitoring and Reporting",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Clear, administratively binding monitoring/reporting commitments with defined frequencies and tools (inventory, annual report, dashboard, evaluations)."
+  },
+  {
+    "policy_statement": "Mitigation Measure 3.2-1 requires projects facilitated by the Draft 2045 CAP that would obstruct views from publicly accessible vantage points to identify and protect public views and significant landscape features, and for the County to consider alternative designs (e.g., reduced height/width, relocation, stepped-back heights) to avoid or minimize scenic view impacts, including avoiding siting certain energy facilities/towers where they would obstruct views.",
+    "verbatim_text": "“Mitigation Measure 3.2-1, Alternative Design: Projects facilitated by the Draft 2045 CAP that would obstruct views from publicly-accessible vantage points as defined in this analysis (such as from a vista point or a regional riding, hiking, or multiuse trail) shall identify and protect public views and significant landscape features or landforms visible from such views, and shall implement project-specific mitigation as applicable. If it is determined that a project would obstruct scenic views, the County shall consider alternative designs that seek to avoid and/or minimize these impacts.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.2-1: Projects facilitated by the Draft 2045 CAP would have a substantial adverse effect on a scenic vista. (Significant and Unavoidable)",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "This is an explicit CEQA mitigation requirement using binding language (“shall”, “County shall consider”), specifying concrete design/siting actions to reduce impacts."
+  },
+  {
+    "policy_statement": "Mitigation Measure 3.2-2 requires the County (and indicates other agencies can/should) to require feasible and effective visual screening and design measures for visible projects facilitated by the Draft 2045 CAP, including berms/vegetative screening, visually blending facade/roof colors, avoiding bright/light colors, and re-contouring and revegetation of disturbed areas.",
+    "verbatim_text": "“Mitigation Measure 3.2-2, Visual Screening and Other View Protection Measures: To partially screen views of projects facilitated by Draft 2045 CAP measures and actions in locations where they would be visible from publicly accessible vantage points… if feasible and effective, the County shall (and other implementing state or local agencies can and should) require the construction of a berm, vegetative screening, or other form of visual barrier… The color of proposed building facades and roofs shall be designed to visually blend in… Bright or very light colors (including white) shall be avoided. Re-contouring and revegetation of temporarily disturbed, graded areas shall be completed…”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Mitigation Measure 3.2-2, Visual Screening and Other View Protection Measures:",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Binding mitigation language (“shall require”, “shall be designed”, “shall be avoided”) establishes enforceable project design requirements."
+  },
+  {
+    "policy_statement": "Mitigation Measure 3.2-3 requires the County to reduce light and glare impacts from projects facilitated by the Draft 2045 CAP by requiring downward-directed, shielded, non-glare lighting and minimally reflective exterior finishes/materials or siting/orientation to direct glare away from sensitive receptors.",
+    "verbatim_text": "“Mitigation Measure 3.2-3, Reduce Light and Glare Impacts: To reduce significant light and glare impacts of projects facilitated by the Draft 2045 CAP, the County shall require the following measures to be incorporated: a) All lighting shall be focused toward the site and outdoor lighting shall be directed downward; b) The design of exterior light fixtures shall incorporate shielding to prevent glare and offsite light spillage; c) Outdoor lighting shall include non-glare fixtures; and d) Structure design shall include exterior finishes and materials that would be minimally reflective or sited or oriented in such a way as to direct glare away from sensitive receptors.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.2-5: Projects facilitated by the Draft 2045 CAP would create a new source of substantial shadow, light, or glare…",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Clear enforceable mitigation requirements with multiple specific design/installation actions (“County shall require… All lighting shall… shall incorporate… shall include”)."
+  },
+  {
+    "policy_statement": "Action A2.1 will create fallow and field resting incentives to reduce bare-fallow land by adding cover crops and promoting crop rotation on active agricultural sites to improve soil quality and reduce erosion/runoff risks.",
+    "verbatim_text": "“For example, projects facilitated by Action A2.1 would create fallow and field resting incentives to reduce barefallow land by adding cover crops and promoting crop rotation for active agricultural sites to improve soil quality and limit risks of nutrient erosion, pollutant runoff, and yield reduction.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.3-1: Projects facilitated by the Draft 2045 CAP would convert Prime Farmland… to nonagricultural use.",
+    "sector": "AFOLU",
+    "extraction_rationale": "A named CAP action with specific interventions (incentives, cover crops, crop rotation) affecting agricultural practices; not already explicitly listed in the prior summary."
+  },
+  {
+    "policy_statement": "Action A2.2 will provide compost and/or organic or non-synthetic fertilizer to farmers free of charge or at a discounted rate to improve carbon removal and agricultural land viability/productivity.",
+    "verbatim_text": "“Action A2.2 would provide compost and/or organic or non-synthetic fertilizer to farmers free of charge or at a discounted rate.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.3-1: Projects facilitated by the Draft 2045 CAP would convert Prime Farmland… to nonagricultural use.",
+    "sector": "AFOLU",
+    "extraction_rationale": "A specific, named implementing action with a concrete resource-support mechanism (free/discounted inputs) stated in the text."
+  },
+  {
+    "policy_statement": "Mitigation Measure 3.3-1 requires, when utility-scale solar development is proposed on actively farmed land, that renewable energy project applicants demonstrate consideration of alternate sites consisting of formerly developed and/or contaminated lands (e.g., landfills and mine sites) within one mile of the proposed project site, when consistent with General Plan and zoning.",
+    "verbatim_text": "“Mitigation Measure 3.3-1: Avoidance of Actively Farmed Lands When Siting Utility-Scale Solar and Energy Storage Development. To reduce the impacts… the County shall require renewable energy project applicants to demonstrate their consideration of alternate sites consisting of formerly developed and/or contaminated lands such as landfills and mine sites located within one mile of the proposed project site when such development is consistent with General Plan and zoning requirements.”",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.3-1: Projects facilitated by the Draft 2045 CAP would convert Prime Farmland…",
+    "sector": "Energy",
+    "extraction_rationale": "This is a binding mitigation requirement (“County shall require”) with a specific siting/alternatives demonstration requirement tied to utility-scale solar/energy storage."
+  },
+  {
+    "policy_statement": "Require project-specific biological resources assessment(s) by a qualified biological consultant for projects facilitated by the Draft 2045 CAP, including surveys/mapping to identify special-status species, sensitive natural communities, jurisdictional waters, and oak woodlands, and to propose mitigation measures.",
+    "verbatim_text": "Mitigation Measure 3.5-1: The County shall require biological resources to be analyzed on a project-specific level by a qualified biological consultant. Prior to or during the preparation of project-level environmental documents, and prior to the start of construction activities, a biological resources assessment shall be conducted to characterize the project site... A biological resources assessment report shall be prepared to characterize the biological resources on-site, analyze direct and indirect impacts on biological resources, and propose mitigation measures to offset those impacts.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.5-1",
+    "sector": "AFOLU",
+    "extraction_rationale": "This is a mandated procedural and analytical requirement (“shall require,” “shall be conducted,” “shall be prepared”) that governs future projects and includes specific actions (surveys, mapping, delineation, reporting)."
+  },
+  {
+    "policy_statement": "Require pre-construction surveys and/or construction monitoring (with agency consultation/permits where required) to avoid, relocate, or allow safe escape of special-status species for projects with potential direct impacts; halt construction if nesting/brooding/denning is found until offspring are able to leave or be relocated.",
+    "verbatim_text": "Mitigation Measure 3.5-2: If there is potential for direct impacts to special-status species with implementation of construction activities, the project-specific biological resources assessment report (as described in Mitigation Measure 3.5-1) shall include a mitigation measure requiring pre-construction surveys for special-status species and/or construction monitoring to ensure avoidance, relocation, or safe escape of special-status species from the construction activities, as appropriate. The mitigation measures shall also include consultation with and obtaining permits from USFWS or CDFW prior to construction, if required by FESA or CESA for listed endangered and threatened species.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.5-1",
+    "sector": "AFOLU",
+    "extraction_rationale": "This is an enforceable mitigation requirement with specific actions (surveys, monitoring, avoidance/relocation, consultation/permits, stop-work condition)."
+  },
+  {
+    "policy_statement": "Require Clean Water Act and state streambed alteration approvals for projects with permanent impacts to jurisdictional features before grading permits are issued (CWA Section 404 permit, Section 401 certification, and CDFW Section 1602 LSAA, where warranted).",
+    "verbatim_text": "Mitigation Measure 3.5-3: Prior to the issuance of any grading permit for permanent impacts in the areas designated as jurisdictional features, the project applicant shall obtain a Clean Water Act Section 404 permit from USACE, a Clean Water Act Section 401 certification from the RWQCB, and a Streambed Alteration Agreement/LSAA permit under Section 1602 of the California Fish and Game Code from CDFW, where the project warrants.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.5-4",
+    "sector": "AFOLU",
+    "extraction_rationale": "This is a binding permitting requirement with clearly specified regulatory instruments and timing trigger (prior to grading permit issuance)."
+  },
+  {
+    "policy_statement": "Require wildlife movement/corridor impact analysis and alternative designs for projects that may introduce barriers; prohibit entirely closing corridors/linkages/pinch points and require partial mitigation including providing at least half the corridor width and preserving comparable nursery sites where impacted.",
+    "verbatim_text": "Mitigation Measure 3.5-4: Proponents for individual projects facilitated by the Draft 2045 CAP provisions shall analyze impacts on wildlife movement and corridors that may introduce new or additional barriers to wildlife dispersal... Corridors, linkages, and pinch points shall not be entirely closed by any development, and partial mitigation shall be mandatory for project-specific impacts on wildlife corridors and wildlife nursery sites. This shall include provision of a minimum of half the corridor width.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.5-5",
+    "sector": "AFOLU",
+    "extraction_rationale": "This sets enforceable design and mitigation constraints on development affecting wildlife corridors (analysis required; corridor closure prohibited; minimum mitigation width specified)."
+  },
+  {
+    "policy_statement": "Require mitigation for oak woodland loss at a minimum 1:1 in-kind replacement via a County-approved habitat mitigation plan, including monitoring for at least five years and consistency with the County Oak Woodland Conservation Management Plan and 2014 Guide (prioritizing acquisition over restoration and in-lieu fees where applicable).",
+    "verbatim_text": "Mitigation Measure 3.5-5: Proponents of projects resulting in the loss of oak woodlands shall mitigate with in-kind replacement habitat at a minimum of 1:1 mitigation ratio documented through a County-approved habitat mitigation plan... The plan shall include monitoring for a minimum of five years, with annual reports submitted to the County.\n\nFor oak woodlands impacts, project mitigation shall be consistent with recommendations in the County's Oak Woodland Conservation Management Plan and its 2014 Guide.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.5-6",
+    "sector": "AFOLU",
+    "extraction_rationale": "This is a specific compensatory mitigation requirement with a defined minimum ratio and monitoring duration, plus required consistency with named County guidance."
+  },
+  {
+    "policy_statement": "If project-level review determines operational emissions impacts are significant, require projects to incorporate enhanced energy conservation measures beyond legal minima, including one or more specified efficiency/electrification measures (e.g., Energy Star equipment, higher-efficiency HVAC/water heaters, solar/tankless water heating, passive solar, or reducing/eliminating natural gas infrastructure).",
+    "verbatim_text": "Mitigation Measure 3.4-4: Enhanced Energy Conservation. If, during subsequent project-level environmental review, it is determined that operational emissions impacts are significant, the lead agency shall require the project to incorporate enhanced energy conservation measures beyond those required by federal or state law, County ordinance, and the Draft 2045 CAP measures and actions to reduce energy-related emissions. Enhanced energy conservation measures shall include one or more of the following as applicable:\n\n- Install Energy Star rated heating, cooling, lighting, and appliances.\n- ... or eliminate building natural gas infrastructure and fully electrify buildings.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Mitigation Measure 3.4-4: Enhanced Energy Conservation.",
+    "sector": "Buildings",
+    "extraction_rationale": "This is an enforceable conditional requirement (“shall require”) with a defined menu of concrete measures that must be implemented when significance is triggered."
+  },
+  {
+    "policy_statement": "If project-level review determines operational emissions impacts may be significant, require an educational program providing tenants/residents information on low-VOC/green cleaning products and paints, including how to identify low-VOC cleaners and products.",
+    "verbatim_text": "Mitigation Measure 3.4-5: Low-VOC/Green Cleaning Product Educational Program. If, during subsequent project-level environmental review, it is determined that operational emissions impacts may be significant, the lead agency shall require the project applicant or developer to provide tenants and residents with information about low-VOC/green cleaning products and paints, including materials educating how to identify low-VOC cleaners and products.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Mitigation Measure 3.4-5: Low-VOC/Green Cleaning Product Educational Program.",
+    "sector": "Cross-sector",
+    "extraction_rationale": "This is a mandated action (“shall require”) specifying a concrete intervention (tenant/resident information/education) tied to emissions mitigation."
+  },
+  {
+    "policy_statement": "Require a qualified architectural historian to conduct a historic resources assessment prior to demolition/alteration of buildings/structures or construction of aboveground infrastructure that could significantly impact historic architectural resources, and ensure conformance with the Secretary of the Interior's Standards where resources are eligible.",
+    "verbatim_text": "Mitigation Measure 3.6-1: Historic Resources Assessment. Prior to demolition or alteration of buildings and/or structures or the construction of aboveground infrastructure with potentially significant impacts on historic architectural resources, the project proponent shall retain an architectural historian meeting the minimum professional qualifications standards (PQS) set forth by the Secretary of the Interior (codified in 36 CFR Part 61; 48 FR 44738-44739) (Qualified Architectural Historian) to conduct a historic resources assessment of affected properties. ... If a historic architectural resource is found eligible by the Qualified Architectural Historian, then the Qualified Architectural Historian shall coordinate with the project proponent and the County to ensure the project is constructed in conformance with the Secretary of the Interior's Standards.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.6-1 (Historical resources) — Mitigation Measures 3.6-1 through 3.6-6",
+    "sector": "Cross-sector",
+    "extraction_rationale": "This is a mandatory mitigation requirement (“shall retain… shall include…”) specifying assessments, documentation, and design conformance standards for future projects."
+  },
+  {
+    "policy_statement": "Require a qualified archaeologist to conduct an archaeological resources assessment (including records searches, Sacred Lands File search, geoarchaeological review, surveys, recordation, eligibility evaluation, and reporting) prior to ground-disturbing construction, and determine need for further studies and archaeological/Native American monitoring with tribal consultation for Native American resources.",
+    "verbatim_text": "Mitigation Measure 3.6-2: Archaeological Resources Assessment. Prior to conducting construction activities that would involve ground disturbance, the project proponent shall retain an archaeologist meeting the minimum PQS set forth by the Secretary of the Interior ... (Qualified Archaeologist) to conduct an archaeological resources assessment. The assessment shall include a records search ...; a Sacred Lands File search at the California Native American Heritage Commission (NAHC); geoarchaeological review ...; a pedestrian field survey ...; recordation ...; evaluation ...; and preparation of a technical report documenting the methods and results of the assessment.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.6-1 / Impact 3.6-2 — Mitigation Measures 3.6-2 through 3.6-6",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Concrete, enforceable pre-construction requirements for archaeological assessment and consultation/monitoring determination."
+  },
+  {
+    "policy_statement": "Implement construction worker cultural resources sensitivity training for ground-disturbing projects that may encounter significant archaeological resources, including procedures for inadvertent discoveries and confidentiality; invite Native American monitors to participate.",
+    "verbatim_text": "Mitigation Measure 3.6-3: Construction Worker Cultural Resources Sensitivity Training. For projects with ground-disturbing activities that may encounter potentially significant archaeological resources, the Qualified Archaeologist shall implement a cultural resources sensitivity training program. ... shall instruct all construction personnel ... the proper procedures to be enacted in the event of an inadvertent discovery of archaeological resources or human remains, applicable laws protecting archaeological resources, and confidentiality of discoveries.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.6-1 / Impact 3.6-2 — Mitigation Measures 3.6-2 through 3.6-6",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Specifies a required training program with defined content and participation requirements."
+  },
+  {
+    "policy_statement": "Require stop-work and evaluation procedures for archaeological discoveries during construction, including a 50-foot buffer, significance evaluation, tribal consultation for Native American resources, and avoidance/preservation in place as preferred mitigation; if infeasible, require data recovery planning.",
+    "verbatim_text": "Mitigation Measure 3.6-4: Archaeological Resources Discoveries. In the event archaeological resources are encountered during construction of a project, the project proponent shall cease all activity within 50 feet of the find shall cease. The discovery shall be evaluated for significance by the Qualified Archaeologist. When assessing significance and developing treatment for resources that are Native American in origin, the County shall consult with local Native American tribes.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.6-1 / Impact 3.6-2 — Mitigation Measures 3.6-2 through 3.6-6",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Clear procedural and buffer requirements triggered by discoveries; mandates evaluation and consultation."
+  },
+  {
+    "policy_statement": "Require avoidance and preservation in place for significant archaeological resources as the preferred mitigation; if infeasible, require a Phase III Archaeological Resources Data Recovery and Treatment Plan with specified components and tribal consultation for Native American resources.",
+    "verbatim_text": "Mitigation Measure 3.6-5: Treatment of Archaeological Resources. If the assessment ... identifies significant archaeological resources ... then avoidance and preservation in place shall be the preferred manner of mitigating impacts. ... If avoidance and preservation in place ... is determined by the County to be infeasible, then the Qualified Archaeologist shall prepare a Phase III Archaeological Resources Data Recovery and Treatment Plan. The plan shall include: a detailed research design; justification for data recovery ... excavation methodology; and, reporting and curation requirements.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.6-1 / Impact 3.6-2 — Mitigation Measures 3.6-2 through 3.6-6",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Mandates a hierarchy of mitigation actions and a specific planning requirement if avoidance is infeasible."
+  },
+  {
+    "policy_statement": "Require curation and disposition procedures for Native American and historic-period archaeological materials, including use of repositories meeting 36 CFR 79.9 where possible, donation to tribes when appropriate, and consultation-based disposition for Native American human remains and associated funerary objects/grave goods.",
+    "verbatim_text": "Mitigation Measure 3.6-6: Curation and Disposition of Cultural Materials. The project proponent shall arrange curation for all Native American archaeological materials, with the exception of funerary objects or grave goods ... For significant Native American archaeological materials, the project proponent shall first consider repositories ... that meet the standards outlined in 36 CFR 79.9. ... Disposition of Native American human remains and associated funerary objects or grave goods shall be determined by the landowner in consultation with the County and the MLD.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.6-1 / Impact 3.6-2 — Mitigation Measures 3.6-2 through 3.6-6",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Defines required handling/curation pathways and standards-based repository requirements."
+  },
+  {
+    "policy_statement": "Require a qualified paleontologist to prepare a paleontological resources assessment report and implement monitoring (per SVP guidelines) for ground-disturbing projects, including determining whether unique geologic features are present and producing a final monitoring report if monitoring occurs.",
+    "verbatim_text": "Mitigation Measure 3.6-7: Paleontological Resources Assessment and Monitoring. For projects ... that involve ground disturbance, the project proponent shall retain a paleontologist ... (Qualified Paleontologist) to prepare a paleontological resources assessment report prior to the start of construction activities. ... Monitoring shall follow SVP Guidelines: no monitoring ... within units of Low Sensitivity or No Potential; monitoring ... in units of Low to High Significance; ... and monitoring at the initiation of excavation in units of Undetermined Significance.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.6-3 (Paleontological resources/unique geologic features) — Mitigation Measures 3.6-7 through 3.6-9",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Actionable requirement with defined professional qualification and monitoring rules tied to sensitivity categories."
+  },
+  {
+    "policy_statement": "Provide paleontological resources sensitivity training to construction workers for projects with potentially significant paleontological impacts, including identification, discovery procedures, and safety precautions with monitors; maintain attendance documentation.",
+    "verbatim_text": "Mitigation Measure 3.6-8: Paleontological Resources Sensitivity Training. Prior to the start of ground-disturbing activities ... the Qualified Paleontologist or its designee shall conduct construction worker paleontological resources sensitivity training ... for all construction workers. Construction workers shall be informed on how to identify ... paleontological resources ... proper procedures ... in the event of an inadvertent discovery ... and safety precautions to be taken when working with paleontological monitors.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.6-3 (Paleontological resources/unique geologic features) — Mitigation Measures 3.6-7 through 3.6-9",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Mandatory training program with specified content and compliance documentation."
+  },
+  {
+    "policy_statement": "Require stop-work/buffer, evaluation, and salvage/curation procedures for paleontological discoveries, including allowing monitors to redirect work, implementing salvage for significant fossils, and ceasing work within a 50-foot radius if discovered when monitors are not present; file salvage reports with the Natural History Museum of Los Angeles County.",
+    "verbatim_text": "Mitigation Measure 3.6-9: Paleontological Discoveries. If a potential fossil is found, the paleontological monitor shall be allowed to temporarily divert or redirect grading and excavation activities ... An appropriate buffer area ... shall be established around the find where construction activities shall not be allowed to continue. ... If a fossil is determined to be significant, the Qualified Paleontologist shall implement a paleontological salvage program ... Any fossils encountered and recovered shall be ... catalogued, and curated ... such as the Natural History Museum of Los Angeles County, if such an institution agrees to accept the fossils.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.6-3 (Paleontological resources/unique geologic features) — Mitigation Measures 3.6-7 through 3.6-9",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Defines specific discovery response actions, buffers, salvage and curation requirements—clear implementable procedures."
+  },
+  {
+    "policy_statement": "Require human remains discovery procedures: immediately halt work within 50 feet, contact the County Coroner, notify NAHC within 24 hours if Native American, enable Most Likely Descendant (MLD) inspection and recommendations within 48 hours, protect the discovery area, and reinter with dignity if required conditions are met.",
+    "verbatim_text": "Mitigation Measure 3.6-10: Human Remains Discoveries . If human remains are encountered, then the project proponent or its contractor shall immediately halt work within 50 feet of the discovery and contact the County Coroner ... If the County Coroner determines that the remains are Native American, then the County Coroner will notify the NAHC within 24 hours ... The MLD shall complete their inspection and make their recommendation within 48 hours of being granted access ...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.6-4 (Human remains) — Mitigation Measure 3.6-10",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Clear, enforceable discovery-response protocol with time-bound steps and responsible parties."
+  },
+  {
+    "policy_statement": "Draft 2045 CAP sets a 2045 target to reduce unincorporated Los Angeles County greenhouse gas emissions 83% below 2015 baseline levels.",
+    "verbatim_text": "The unincorporated County's emissions with Draft 2045 CAP implementation are compared to the following future targets:\n\n- The Draft 2045 CAP's target of 83 percent below 2015 levels by 2045, which aligns with the statewide 2045 target of 85 percent below 1990 levels as codified in AB 1279 and included in the 2022 Scoping Plan.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Greenhouse Gas Emissions",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Quantified emissions-reduction target with a deadline (2045) stated as a CAP target."
+  },
+  {
+    "policy_statement": "County will require solar PV installation project applicants using cadmium telluride (CdTe) modules to dispose of or recycle panels in accordance with applicable local, state, and federal regulations, including specified storage and recycling requirements for broken/end-of-life modules.",
+    "verbatim_text": "Mitigation Measure 3.10-2: The County shall require applicants of solar PV installation projects that include the use of CdTe modules to dispose of panels or recycle panels in accordance with current local, state, and federal regulations. Broken and end-of-projectlife PV modules, materials, and components shall be:\n\n- Stored on-site in a manner that complies with federal and state laws until recycling or disposal actions can be taken.\n- Stored on-site no longer than allowed by federal and state laws.\n- Recycled in accordance with federal and state laws applicable at that time.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.10-2: The Project, as a result of solar PV and other projects facilitated by the Draft 2045 CAP measures and actions, could create a significant hazard... (Less than Significant with Mitigation Incorporated)",
+    "sector": "Energy",
+    "extraction_rationale": "Binding requirement stated as a mitigation measure ('shall require') with clear compliance actions for hazardous materials management."
+  },
+  {
+    "policy_statement": "Strongly discourage development in the County's Flood Hazard Zones unless it solely provides a public benefit.",
+    "verbatim_text": "Policy S 3.1 : Strongly discourage development in the County's Flood Hazard Zones, unless it solely provides a public benefit.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Safety Element",
+    "sector": "Adaptation",
+    "extraction_rationale": "An explicit land-use policy directive in the County General Plan Safety Element that guides development away from flood hazard zones."
+  },
+  {
+    "policy_statement": "Prohibit new subdivisions in Very High Fire Hazard Severity Zones (VHFHSZs) unless specific criteria are met (infill/specific plan/CFD exception, sufficient secondary egress, and adequate highway/street network for evacuation and emergency access); discourage new subdivisions in other Fire Hazard Severity Zones.",
+    "verbatim_text": "Policy S 4.1 : Prohibit new subdivisions in VHFHSZs unless: (1) the new subdivision is generally surrounded by existing or entitled development or is located in an existing\n\napproved specific plan or is within the boundaries of a communities facility district adopted by the County prior to January 1, 2022, including any improvement areas and future annexation areas identified in the County resolution approving such district; (2) the County determines there is sufficient secondary egress; and (3) the County determines the adjoining major highways and street networks are sufficient for evacuation as well as safe access for emergency responders under a range of emergency scenarios, as determined by the County. Discourage new subdivisions in all other FHSZs.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Safety Element",
+    "sector": "Adaptation",
+    "extraction_rationale": "A binding/prohibitive land subdivision policy with enumerated conditions for exceptions, directly relevant to wildfire risk management."
+  },
+  {
+    "policy_statement": "Implement the Los Angeles County Renewable Energy Ordinance (REO) to update planning and zoning review/permitting for solar projects and some wind projects to protect public health, safety, and welfare and minimize significant environmental impacts.",
+    "verbatim_text": "The County Board of Supervisors adopted the Los Angeles County Renewable Energy Ordinance (REO) on December 13, 2016. It became effective on January 12, 2017.\n\nThe REO updates the County's planning and zoning code for the review and permitting of solar projects and some wind energy projects in a manner that protects public health, safety, and welfare and minimizes significant impacts on the environment.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Los Angeles County Renewable Energy Ordinance",
+    "sector": "Energy",
+    "extraction_rationale": "Describes an adopted ordinance that changes permitting/review for renewable energy projects; this is a concrete regulatory intervention."
+  },
+  {
+    "policy_statement": "Incentivize small-scale, on-site and structure-mounted solar projects through a simplified, streamlined permitting process under the Renewable Energy Ordinance.",
+    "verbatim_text": "The REO incentivizes small-scale solar projects that generate energy for on-site use, as well as projects mounted on structures, such as on rooftops and over parking lots. The ordinance provides these incentives by establishing a simplified, streamlined permitting process.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Los Angeles County Renewable Energy Ordinance — Small-Scale Projects",
+    "sector": "Energy",
+    "extraction_rationale": "A specific intervention (streamlined permitting) to incentivize distributed solar; sufficiently concrete to qualify as a policy."
+  },
+  {
+    "policy_statement": "Require utility-scale renewable energy projects to meet REO regulations including undergrounding transmission lines except where aboveground crossings are required and implementing measures to minimize fugitive dust.",
+    "verbatim_text": "The REO provides comprehensive regulations for ground-mounted utility-scale solar facilities, which reflect the need for careful review of these projects to minimize environmental and community impacts. These requirements include placing transmission lines underground except where aboveground crossings are otherwise required and incorporating measures designed to minimize the generation of fugitive dust.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Los Angeles County Renewable Energy Ordinance — Utility-Scale Projects",
+    "sector": "Energy",
+    "extraction_rationale": "Contains explicit requirements for project design/mitigation (undergrounding lines, dust minimization) that are enforceable through the ordinance."
+  },
+  {
+    "policy_statement": "Prohibit ground-mounted utility-scale solar facilities in Significant Ecological Areas and Economic Opportunity Areas designated in the County's General Plan and Antelope Valley Area Plan.",
+    "verbatim_text": "In addition, the REO prohibits ground-mounted utility-scale solar facilities in the SEAs and Economic Opportunity Areas designated in theCounty's General Plan and the Antelope Valley Area Plan.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Los Angeles County Renewable Energy Ordinance — Utility-Scale Projects",
+    "sector": "Energy",
+    "extraction_rationale": "A clear prohibition (binding mechanism) on siting utility-scale solar in specified protected/designated areas."
+  },
+  {
+    "policy_statement": "Require construction noise evaluation and implementation of noise controls for construction activities within 500 feet of noise-sensitive receptors for projects facilitated by the Draft 2045 CAP.",
+    "verbatim_text": "Mitigation Measure 3.13-1: Construction Noise. Construction activities associated with new projects facilitated by the Draft 2045 CAP that occur within 500 feet of noisesensitive receptors (i.e., residences, parks, schools, historic sites, cemeteries, and recreation areas) shall be evaluated by the project applicant for noise impacts that would result in a 5 dBA increase over existing ambient noise levels at any sensitive receptor. Mitigation measures such as installing temporary sound barriers... and reducing non-essential idling of construction equipment to no more than five minutes shall be incorporated into construction activities to reduce construction-related noise.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Stationary-Source Noise",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "This is a mandatory mitigation requirement (“shall”) applying to future CAP-facilitated projects, specifying a trigger (within 500 feet), an evaluation standard (5 dBA increase), and required control measures (e.g., barriers, mufflers, idling limits)."
+  },
+  {
+    "policy_statement": "Require an acoustic analysis and design/building noise attenuation measures for projects with noise-sensitive uses within the 65 dBA CNEL contour when stationary-source noise could exceed ordinance standards.",
+    "verbatim_text": "Mitigation Measure 3.13-2: Stationary-Source Noise. For any project that involves a noise-sensitive use within the 65 dBA CNEL contour (i.e., areas in or above 65 dBA CNEL) exposed to project stationary-source noise levels in excess of applicable standards in the Los Angeles County Noise Ordinance, the project applicant shall submit an acoustic analysis prior to project approval. The acoustic analysis shall identify site design features... and/or required building acoustical improvements... to ensure compliance with the County's Noise Compatibility Criteria, the California Building Code, and the California Noise Insulation Standards (Title 24 of the California Code of Regulations).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Stationary-Source Noise",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "This is a binding pre-approval requirement (“shall submit”) with defined applicability conditions and required outcomes (identify features/improvements to ensure compliance)."
+  },
+  {
+    "policy_statement": "Require evaluation and, if needed, implementation of lower-vibration equipment/techniques or increased setbacks for projects using vibration-intensive construction equipment near vibration-sensitive receptors when vibration exceeds the County standard.",
+    "verbatim_text": "Mitigation Measure 3.13-3: Construction Vibration. Individual projects that use vibration-intensive construction equipment, such as pile drivers, jackhammers, and vibratory rollers near vibration-sensitive receptors shall be evaluated by the applicant for potential vibration impacts. If construction-related vibration is determined to be perceptible at vibration-sensitive uses (i.e., exceed the County's standard of 0.01 inches per second (in/sec) vibration velocity [within the range of 1 to 100 Hz frequency]), additional requirements shall be implemented during construction, such as the use of lessvibration-intensive equipment or vibration-reduction construction techniques or strategies (e.g., drilled piles... increased setback distances).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Construction",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "This mitigation measure sets a clear trigger threshold (0.01 in/sec) and mandates evaluation and additional requirements when exceeded, making it an enforceable policy condition."
+  },
+  {
+    "policy_statement": "Require acoustic engineering analysis and mitigation for new development within 200 feet of railroad tracks to keep vibration impacts below acceptable levels for residential uses.",
+    "verbatim_text": "Mitigation Measure 3.13-4: New Development Near Railroad Tracks. New development that occurs within 200 feet of a railroad track (according to the FTA's vibration screening distances) shall be evaluated for potential vibration impacts. The project property owner/developers shall retain an acoustical engineer to conduct an acoustic analysis and identify, where appropriate, site design features and/or required building construction improvements to ensure that vibration impacts would remain below acceptable levels of 0.08 in/sec RMS for residential uses.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.13.2.4 Cumulative Impacts",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "This is a mandatory requirement with a defined screening distance (200 feet) and a numeric performance standard (0.08 in/sec RMS) enforced via required professional analysis and identified improvements."
+  },
+  {
+    "policy_statement": "Initiate AB 52 tribal consultation for projects facilitated by Draft 2045 CAP measures/actions and implement mitigation measures or alternatives to avoid or substantially lessen impacts on identified tribal cultural resources.",
+    "verbatim_text": "Mitigation Measure 3.16-1: AB 52 Consultation. Consistent with AB 52, before the release of a negative declaration, mitigated negative declaration, or EIR, the County shall initiate consultation within 14 days of a decision to undertake a project facilitated by Draft 2045 CAP measures or actions. The County shall provide formal notification to the designated contact of, or a tribal representative of, each traditionally and culturally affiliated California Native American tribe that has requested notice... If tribal cultural resources are identified, the County shall implement mitigation measures that would avoid or substantially lessen significant impacts on such resources... or shall implement alternatives that would avoid significant impacts on the tribal cultural resources.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.16.2.3 Project Impacts",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "This is a procedural and substantive requirement (“shall initiate consultation,” “shall implement mitigation measures/alternatives”) tied to project approvals, establishing timelines and required actions if resources are identified."
+  },
+  {
+    "policy_statement": "Require future project applicants/contractors to prepare and implement a project-specific fire protection plan for projects in the Very High Fire Hazard Severity Zone (VHFHSZ), submitted to the County for review and approval at least 60 days before construction, including worker training, emergency procedures, vehicle fire suppression equipment, parking away from dry vegetation, daily ignition-risk inspections, and fire-safety measures for ignitable infrastructure (e.g., power lines, battery storage, composting facilities).",
+    "verbatim_text": "Mitigation Measure 3.18-3: Fire Safety During Construction and Operation. Future applicants and/or their contractors shall prepare and implement project-specific fire protection plans for projects located in the VHFHSZ to ensure that wildfire-related hazards are not exacerbated by projects facilitated by the Draft 2045 CAP measures or goals. The applicant shall prepare and submit a fire protection plan to the County for review and approval at least 60 days before the start of construction activities. The fire protection plan shall include or require, but not limited to, the following measures along with Fire Code compliance, as applicable to address construction and operation:\n\n- A training module within the pre-construction worker training (e.g., Worker Environmental Awareness training, safety training, fire equipment and procedures) on the specifics of the approved plan for all construction crew members before the start of construction.\n- List project site roles and responsibilities and identify appropriate emergency notification procedures and site-specific emergency response and evacuation measures and routes that would be followed during emergency situations. All construction vehicles shall have fire suppression equipment.\n- Instruct construction personnel to park vehicles within roads, road shoulders, graveled areas, and/or cleared areas (i.e., away from dry vegetation) wherever such surfaces are present at the construction site.\n- Protocol for the project contractor and/or the applicant to perform visual inspections daily to ensure that all ignition risks are reduced or eliminated before leaving the worksite. Identify fire safety and prevention measures for project-specific infrastructure that can ignite fires, such as power lines, battery storage facilities, and composting facilities.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Impact 3.18-3: Projects facilitated by the Draft 2045 CAP could require the installation or maintenance of associated infrastructure (such as roads, fuel breaks, emergency water sources, composting facilities, power lines, or other utilities) that may exacerbate fire risk or may result in temporary or ongoing impacts on the environment.",
+    "sector": "Disaster risk reduction / emergency management",
+    "extraction_rationale": "This is an explicit mitigation requirement (a mandated action) with a defined scope (projects in VHFHSZ), implementation instrument (fire protection plan), concrete required components, and a deadline (submit at least 60 days before construction), making it a verifiable policy commitment rather than background or analysis."
+  }
+]

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from pathlib import Path
 from typing import Literal, Optional
 
 from pydantic import BaseModel, Field
@@ -49,6 +50,44 @@ class DocumentMetadata(BaseModel):
     state_or_province: Optional[str] = None
     city: Optional[str] = None
     doc_id: Optional[str] = None  # e.g. "Chicago_United_States_a3f9c1"
+
+
+class IngestionDocument(BaseModel):
+    """Structured document payload after markdown load (Step 1), for export / ingestion."""
+
+    entry_key: str
+    document_markdown: str
+    city: Optional[str] = None
+    state_or_province: Optional[str] = None
+    country: str = Field(description="Country / territory label from DocumentMetadata.")
+    pdf_path: Optional[str] = None
+    markdown_cache_path: Optional[str] = None
+    doc_id: Optional[str] = None
+
+    @classmethod
+    def from_batch_entry(
+        cls,
+        *,
+        entry: dict,
+        entry_key: str,
+        document_markdown: str,
+        markdown_cache_path: Optional[Path | str] = None,
+    ) -> IngestionDocument:
+        meta: DocumentMetadata = entry["metadata"]
+        cache_s: Optional[str] = None
+        if markdown_cache_path is not None:
+            p = Path(markdown_cache_path)
+            cache_s = str(p.resolve())
+        return cls(
+            entry_key=entry_key,
+            document_markdown=document_markdown,
+            city=meta.city,
+            state_or_province=meta.state_or_province,
+            country=meta.country,
+            pdf_path=entry.get("pdf_path"),
+            markdown_cache_path=cache_s,
+            doc_id=meta.doc_id,
+        )
 
 
 def make_doc_id(metadata: DocumentMetadata, text: str) -> str:

@@ -1,0 +1,335 @@
+[
+  {
+    "policy_statement": "Hong Kong will strive to achieve carbon neutrality before 2050 and set more proactive strategies and measures to reduce carbon emissions.",
+    "verbatim_text": "The Chief Executive announced in the 2020 Policy Address that Hong Kong would strive to achieve carbon neutrality before 2050.\n\nThe Hong Kong Special Administrative Region will strive to achieve carbon neutrality before  2050.  To  this  end,  the  Government will  set  out  more  proactive  strategies  and measures to reduce carbon emissions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Hong Kong's Targets",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Explicit government commitment with a clear deadline (before 2050) and stated intent to implement strategies/measures to reduce emissions."
+  },
+  {
+    "policy_statement": "Hong Kong aims to reduce total carbon emissions by 50% from the 2005 level before 2035 (from about 40 million tonnes to nearly 20 million tonnes).",
+    "verbatim_text": "Adopting the prevailing technologies that are relatively mature and cost-effective, we aim to reduce the total carbon emissions by half before 2035 from the 2005 level, i.e. from about 40 million tonnes in 2005 to nearly 20 million tonnes in 2035.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Medium-term Decarbonisation Targets",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Quantified economy-wide emissions target with timeframe and baseline."
+  },
+  {
+    "policy_statement": "The Government will invest about HK$240 billion over the next 15–20 years to implement mitigation and adaptation measures, including energy saving and green buildings, renewable energy, green transport, and waste management.",
+    "verbatim_text": "The Government will be investing another HK$240 billion to support a series of actions to combat climate change.\n\nThe Government plans to allocate about $240 billion in the next 15 to 20 years to implement mitigation and adaptation measures to combat climate change, including the four main actions mentioned in this Chapter, covering energy saving and green buildings, RE, green transport and waste management, etc.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Message from the Chief Executive / Climate Budget",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Concrete resource allocation with an amount and time horizon tied to implementation of climate actions."
+  },
+  {
+    "policy_statement": "The Government Green Bond Programme will continue with planned green bond issuance totaling about HK$175.5 billion within five years (2021-22 onward) and plans to issue retail green bonds.",
+    "verbatim_text": "We plan to issue green bonds further, totalling  some HK$175.5  billion  within  the  next  five  years from  2021-22,  having  regard  to  the  market situation.\n\nIn  view  of  the growing interest of the general public in green and sustainable development, the Government is also planning to issue retail green bonds to provide opportunities for  members  of  the public  to  take  part  in  green  finance",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Regional Centre for Green Finance",
+    "sector": "Finance",
+    "extraction_rationale": "Specific financing policy with quantified issuance plan and a concrete instrument (retail green bonds)."
+  },
+  {
+    "policy_statement": "The Government will review Hong Kong’s Climate Action Plan about every five years to update strategies and targets for decarbonisation and other climate actions.",
+    "verbatim_text": "We will, in line with the spirit of the Paris Agreement, review Hong Kong's Climate Action Plan about every five years to update the strategies and targets for decarbonisation and other actions to combat climate change.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Steering and Coordination",
+    "sector": "Governance",
+    "extraction_rationale": "Institutionalized review cycle (time-bound process commitment) for updating climate strategies/targets."
+  },
+  {
+    "policy_statement": "A Steering Committee on Climate Change and Carbon Neutrality chaired by the Chief Executive was established in mid-2021 to formulate strategy and oversee implementation and coordination, adopting a whole-government approach.",
+    "verbatim_text": "The Steering  Committee  on  Climate  Change and Carbon Neutrality under the chairmanship of  the  Chief  Executive  was  established  in mid-2021 to formulate the overall strategy at the highest level and oversee implementation and coordination.  We will adopt a whole-government  approach  to  formulate  more  holistic and proactive decarbonisation measures",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Steering and Coordination",
+    "sector": "Governance",
+    "extraction_rationale": "Creation of a governance mechanism with defined leadership and mandate to steer implementation."
+  },
+  {
+    "policy_statement": "ENB will set up the Office of Climate Change and Carbon Neutrality and an inter-departmental Carbon Neutrality Task Force to strengthen coordination and develop forward-looking decarbonisation policies.",
+    "verbatim_text": "To  ensure  effective  implementation  of  the measures and follow-up actions, ENB will set up the Office of Climate Change and Carbon Neutrality to strengthen coordination and promote deep decarbonisation, etc. ENB had also set up  an  inter-departmental  Carbon Neutrality T ask Force this year, bringing together the experts from relevant departments  to explore forward-looking decarbonisation policies",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Steering and Coordination",
+    "sector": "Governance",
+    "extraction_rationale": "Specific institutional commitments (office/task force) to coordinate and develop policy."
+  },
+  {
+    "policy_statement": "Parent strategy: Net-zero electricity generation (long-term target of net-zero carbon emissions in electricity generation before 2050) by increasing use of zero-carbon energy and pursuing suitable supply options.",
+    "verbatim_text": "## Net-zero Electricity Generation\n\n## Long-term target : Net-zero carbon emissions in electricity generation before 2050\n\nAt  present,  fossil  fuels,  including  natural  gas and coal, account for over 70% of Hong Kong's fuel mix for electricity generation.  Under the overall strategy of achieving carbon neutrality, we  must  progressively  increase  the  use  of zero-carbon  energy  for  electricity  generation before 2050.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Net-zero Electricity Generation",
+    "sector": "Energy",
+    "extraction_rationale": "Named strategy section with long-term target and multiple specific sub-actions/targets presented underneath in subsequent paragraphs."
+  },
+  {
+    "policy_statement": "By 2035, Hong Kong will cease using coal for daily electricity generation and keep coal only for backup; coal will be replaced by natural gas and zero-carbon energy (including renewables and nuclear).",
+    "verbatim_text": "By  2035,  we  will cease using coal for daily electricity generation and  will  only  keep  it  for  providing  backup support. Coal will be replaced by natural gas with lower carbon emissions and zero-carbon energy (e.g. RE and nuclear energy) by then.",
+    "policy_type": "sub",
+    "parent_policy_name": "Parent strategy: Net-zero electricity generation (long-term target of net-zero carbon emissions in electricity generation before 2050) by increasing use of zero-carbon energy and pursuing suitable supply options.",
+    "section_header": "Medium-term targets: Phasing out coal for electricity generation · Developing RE",
+    "sector": "Energy",
+    "extraction_rationale": "Time-bound fuel switching commitment under the net-zero electricity strategy; clearly a specific sub-measure."
+  },
+  {
+    "policy_statement": "Hong Kong will increase the share of renewable energy in the electricity generation fuel mix from less than 1% to 7.5–10% by 2035, and to 15% before 2050.",
+    "verbatim_text": "we are committed to increasing the share  of  RE  in  the  fuel  mix  for  electricity generation from less than 1% at present to 7.5% to 10% by 2035.\n\nOur goal is to increase the share of RE in the fuel mix for electricity  generation  from  the  existing  less than 1% to 15% before 2050.",
+    "policy_type": "sub",
+    "parent_policy_name": "Parent strategy: Net-zero electricity generation (long-term target of net-zero carbon emissions in electricity generation before 2050) by increasing use of zero-carbon energy and pursuing suitable supply options.",
+    "section_header": "Net-zero Electricity Generation / Medium-term targets",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified RE share targets with clear deadlines; presented as part of the net-zero electricity pathway."
+  },
+  {
+    "policy_statement": "The Government will incorporate renewable energy technologies in all capital works projects, update the Green Government Buildings circular, and increase required roof space for installing RE systems in new government buildings from 10% to 25%, while continuing RE installation in existing government buildings where possible.",
+    "verbatim_text": "The Government will continue to take the lead in developing RE and strive to incorporate RE technologies  in  all  capital  works  projects. We  will  update  the  Government  circular  on Green  Government  Buildings  and  raise  the requirements of applying RE technologies in new government buildings. For instance, the proportion of available roof space for installing RE systems will be increased from the current 10% to 25%. We will also continue to install RE systems in existing government buildings (including outdoor parking lots) as far as possible.",
+    "policy_type": "sub",
+    "parent_policy_name": "Parent strategy: Net-zero electricity generation (long-term target of net-zero carbon emissions in electricity generation before 2050) by increasing use of zero-carbon energy and pursuing suitable supply options.",
+    "section_header": "Net-zero Electricity Generation",
+    "sector": "Energy",
+    "extraction_rationale": "Specific government-led implementation measures with a quantified design requirement (10% to 25%)."
+  },
+  {
+    "policy_statement": "WSD plans to install larger floating solar systems (5–10 MW each) at multiple reservoirs and is studying a >100 MW floating solar system at Plover Cove Reservoir, targeted to generate over 100 million kWh/year.",
+    "verbatim_text": "the  Water  Supplies  Department  (WSD)  plans  to  install  larger  floating solar energy generation systems with a generating capacity of 5-10 megawatts (MW) each at  various  reservoirs,  including  Plover  Cove Reservoir,  Shek  Pik  Reservoir  and  Tai  Lam Chung Reservoir.\n\nWSD  has embarked on a study on installing a floating solar energy generation system with a generating capacity of over 100 MW at Plover Cove Reservoir. The project is estimated to generate more than 100 million kWh of electricity a year",
+    "policy_type": "sub",
+    "parent_policy_name": "Parent strategy: Net-zero electricity generation (long-term target of net-zero carbon emissions in electricity generation before 2050) by increasing use of zero-carbon energy and pursuing suitable supply options.",
+    "section_header": "Net-zero Electricity Generation",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete deployment plan with capacities and expected annual generation."
+  },
+  {
+    "policy_statement": "The Government and power companies will enhance regional cooperation to identify and invest in zero-carbon energy sources/projects in neighbouring regions through joint investment and development.",
+    "verbatim_text": "The  Government,  together  with  the  power companies, will also explore ways to enhance regional  cooperation  on  zero-carbon  energy and identify sources of zero-carbon energy in neighbouring regions, including seeking joint investment and development opportunities for participating in and operating zero-carbon energy projects near Hong Kong.",
+    "policy_type": "sub",
+    "parent_policy_name": "Parent strategy: Net-zero electricity generation (long-term target of net-zero carbon emissions in electricity generation before 2050) by increasing use of zero-carbon energy and pursuing suitable supply options.",
+    "section_header": "Net-zero Electricity Generation",
+    "sector": "Energy",
+    "extraction_rationale": "Specific intervention (regional cooperation and joint investment) to increase zero-carbon energy supply."
+  },
+  {
+    "policy_statement": "Parent strategy: Energy saving and green buildings, with targets to cut building electricity consumption and strengthen regulations and tools to improve energy performance.",
+    "verbatim_text": "## Energy Saving and Green Buildings\n\nThrough regulation as well as promotion and public education in energy saving, we can reduce the overall electricity consumption of  buildings,  and  hence  lower  the  cost  of adopting  new  zero-carbon  energy.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Energy Saving and Green Buildings",
+    "sector": "Buildings",
+    "extraction_rationale": "Named strategy section that introduces a package of measures and multiple explicit targets/actions in subsequent paragraphs."
+  },
+  {
+    "policy_statement": "Hong Kong will reduce electricity consumption of new and existing commercial buildings by 15–20% and residential buildings by 10–15% by 2035 (baseline: 2015 operational conditions).",
+    "verbatim_text": "we  have  also  set  a  medium-term target of reducing the electricity consumption of new and existing commercial buildings by 15% to 20%, and that of residential buildings by 10% to 15% by 2035, using the operational conditions  of  2015  as  the  comparison  basis.",
+    "policy_type": "sub",
+    "parent_policy_name": "Parent strategy: Energy saving and green buildings, with targets to cut building electricity consumption and strengthen regulations and tools to improve energy performance.",
+    "section_header": "Medium-term targets: Reduce the electricity consumption of commercial buildings by 15% to 20%, and that of residential buildings by 10% to 15% by 2035",
+    "sector": "Buildings",
+    "extraction_rationale": "Quantified medium-term building energy reduction targets with baseline year."
+  },
+  {
+    "policy_statement": "The Government plans to tighten statutory OTTV standards by 2025 and complete RTTV reviews by 2023 and 2030; new government buildings will have OTTV at least 10% above statutory standards.",
+    "verbatim_text": "The  Government  is  conducting  a review on the OTTV, and plans to complete the  review  for  tightening  up  the  statutory standards  by  2025. The  Government  also plans to complete two reviews on the Residential  Thermal  Transfer  Value  (RTTV) by 2023 and 2030. To lead by example, the OTTV of new government buildings will be at least 10% above the statutory standards.",
+    "policy_type": "sub",
+    "parent_policy_name": "Parent strategy: Energy saving and green buildings, with targets to cut building electricity consumption and strengthen regulations and tools to improve energy performance.",
+    "section_header": "Energy Saving and Green Buildings",
+    "sector": "Buildings",
+    "extraction_rationale": "Regulatory tightening with explicit deadlines and a quantified government-building requirement."
+  },
+  {
+    "policy_statement": "The Government will study adding district cooling systems (DCS) in more new development areas (including Hung Shui Kiu/Ha Tsuen and artificial islands in Central Waters).",
+    "verbatim_text": "We will work on the infrastructure by integrating energy efficient facilities in development projects.  We  will  study  the  feasibility  of incorporating DCS in more new development areas, such as Hung Shui Kiu/Ha Tsuen New Development Area and the artificial islands in the  Central  Waters",
+    "policy_type": "sub",
+    "parent_policy_name": "Parent strategy: Energy saving and green buildings, with targets to cut building electricity consumption and strengthen regulations and tools to improve energy performance.",
+    "section_header": "Energy Saving and Green Buildings",
+    "sector": "Buildings",
+    "extraction_rationale": "Concrete planned action (feasibility study) to expand a named energy-efficiency infrastructure solution."
+  },
+  {
+    "policy_statement": "The Government will consider more frequent energy audits and mandating implementation of identified energy management opportunities, strengthen promotion of retro-commissioning, and consider requiring large commercial buildings to regularly commission key systems.",
+    "verbatim_text": "we will consider conducting energy audits more frequently and mandating the implementation of identified energy management opportunities. At the same time, we will strengthen the promotion of RCx\n\nWe will consider requiring large commercial buildings to carry out regular commissioning of air-conditioning systems and major building services installations",
+    "policy_type": "sub",
+    "parent_policy_name": "Parent strategy: Energy saving and green buildings, with targets to cut building electricity consumption and strengthen regulations and tools to improve energy performance.",
+    "section_header": "Energy Saving and Green Buildings",
+    "sector": "Buildings",
+    "extraction_rationale": "Regulatory/mandatory mechanisms under consideration are specific policy interventions (audits, mandated actions, commissioning requirements)."
+  },
+  {
+    "policy_statement": "The Government will keep the Mandatory Energy Efficiency Labelling Scheme (MEELS) under review, consider setting minimum energy efficiency requirements for specified appliances before supply in Hong Kong, and consider expanding MEELS to non-domestic/commercial appliances.",
+    "verbatim_text": "We will keep the scheme under review.  Apart from upgrading  the  grading  standards,  we  will  also consider  setting  a  minimum  energy  efficiency requirement  so  that  certain  appliances  must meet the minimum energy efficiency standards before they can be supplied in Hong Kong\n\nwe  will consider expanding the scope of the scheme to cover non-domestic or commercial appliances.",
+    "policy_type": "sub",
+    "parent_policy_name": "Parent strategy: Energy saving and green buildings, with targets to cut building electricity consumption and strengthen regulations and tools to improve energy performance.",
+    "section_header": "Energy Saving and Green Buildings",
+    "sector": "Buildings",
+    "extraction_rationale": "Explicit policy intent to introduce minimum standards and expand scope of an existing mandatory labeling scheme."
+  },
+  {
+    "policy_statement": "The Government has set a Green Energy Target to improve the energy performance of the Government by 6% by 2024-25.",
+    "verbatim_text": "We have also set  a  new  Green  Energy  Target  to  further improve the energy performance of the whole Government by 6% by 2024-25.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Energy Saving and Green Buildings",
+    "sector": "Buildings",
+    "extraction_rationale": "Quantified government operational energy target with a deadline."
+  },
+  {
+    "policy_statement": "Parent strategy: Green transport, aiming for zero carbon emissions from vehicles and the transport sector before 2050 through electrification, new energy transport, and traffic management measures.",
+    "verbatim_text": "## Green Transport\n\n## Long-term target: Zero carbon emissions from vehicles and transport sector before 2050\n\nWe expect to achieve the long-term target of zero carbon emissions from  vehicles and the transport  sector  before  2050  through  the electrification of vehicles and ferries, development of new energy transport and implementation of measures to improve traffic management.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Green Transport",
+    "sector": "Transport",
+    "extraction_rationale": "Named strategy with long-term sectoral target and multiple distinct measures described underneath."
+  },
+  {
+    "policy_statement": "Hong Kong targets ceasing new registration of fuel-propelled and hybrid private cars in 2035 or earlier.",
+    "verbatim_text": "the  Hong  Kong Roadmap on Popularisation of Electric Vehicles announced by the Government in 2021 cover various  aspects,  including  ceasing  the  new registration of fuel-propelled and hybrid private cars in 2035 or earlier",
+    "policy_type": "sub",
+    "parent_policy_name": "Parent strategy: Green transport, aiming for zero carbon emissions from vehicles and the transport sector before 2050 through electrification, new energy transport, and traffic management measures.",
+    "section_header": "Green Transport",
+    "sector": "Transport",
+    "extraction_rationale": "Clear regulatory/market access commitment with a specific year."
+  },
+  {
+    "policy_statement": "The Government will partner with sectors to test electric and new energy public transport and commercial vehicles and aims to set a more concrete way forward and timetable around 2025; it will review EV charging installation targets around 2025.",
+    "verbatim_text": "the Government will play an active role  in  developing  new  energy  transport,  and will partner with different sectors in the coming years  to  actively  test  the  technological  and commercial viability of various electric and new energy public transport and commercial vehicles, with a view to setting a more concrete way  forward  and  timetable  in  around  2025.\n\nIn  around  2025,  we  will  review  this year's target for the installation of charging facilities",
+    "policy_type": "sub",
+    "parent_policy_name": "Parent strategy: Green transport, aiming for zero carbon emissions from vehicles and the transport sector before 2050 through electrification, new energy transport, and traffic management measures.",
+    "section_header": "Medium-term target: Set a concrete timetable for adopting new energy public transport",
+    "sector": "Transport",
+    "extraction_rationale": "Time-referenced implementation commitment (tests leading to timetable by ~2025; review of charging targets by ~2025)."
+  },
+  {
+    "policy_statement": "The Government plans to collaborate with franchised bus companies and stakeholders in the next three years to test hydrogen fuel cell electric buses and heavy vehicles, supported by an interdepartmental working group on hydrogen energy.",
+    "verbatim_text": "Following the release of the Plan, the Government has set up an Interdepartmental  Working  Group  on  the  application  of hydrogen energy in Hong Kong. We plan to collaborate with the franchised bus companies and other stakeholders in the next three years to test out hydrogen fuel cell electric buses and heavy vehicles.",
+    "policy_type": "sub",
+    "parent_policy_name": "Parent strategy: Green transport, aiming for zero carbon emissions from vehicles and the transport sector before 2050 through electrification, new energy transport, and traffic management measures.",
+    "section_header": "Green Transport",
+    "sector": "Transport",
+    "extraction_rationale": "Specific planned trials with a defined timeframe and enabling governance action (working group)."
+  },
+  {
+    "policy_statement": "The Government will subsidise ferry operators to trial electric and hybrid ferries and will explore progressively replacing traditional ferries with new energy ferries before 2035, subject to trial results and technology.",
+    "verbatim_text": "As  regards  ferries,  the Government  will  subsidise  ferry  operators  to conduct  trials  for  electric  and  hybrid  ferries.\n\nthe  Government will  explore  with  the  ferry  operators  the possibility of progressively replacing traditional ferries with new energy ferries before 2035.",
+    "policy_type": "sub",
+    "parent_policy_name": "Parent strategy: Green transport, aiming for zero carbon emissions from vehicles and the transport sector before 2050 through electrification, new energy transport, and traffic management measures.",
+    "section_header": "Green Transport",
+    "sector": "Transport",
+    "extraction_rationale": "Concrete financial mechanism (subsidies) plus a time-bound transition intention (before 2035)."
+  },
+  {
+    "policy_statement": "The Government will roll out a Free-flow Tolling System at government tolled tunnels and press ahead with congestion charging, with preliminary proposals to be drawn up in 2022.",
+    "verbatim_text": "the Free-flow Tolling System will be rolled out at government tolled tunnels and the Tsing Sha Control Area, while 'congestion charging' will be  pressed  ahead  actively\n\nWe commenced  a  traffic  survey  in  September 2021  to  collect  the  latest  data  and  draw  up preliminary proposals for 'congestion charging' in 2022.",
+    "policy_type": "sub",
+    "parent_policy_name": "Parent strategy: Green transport, aiming for zero carbon emissions from vehicles and the transport sector before 2050 through electrification, new energy transport, and traffic management measures.",
+    "section_header": "Green Transport",
+    "sector": "Transport",
+    "extraction_rationale": "Specific transport demand management measures with an implementation/planning milestone (proposals in 2022)."
+  },
+  {
+    "policy_statement": "Parent strategy: Waste reduction, aiming to move away from reliance on landfills for municipal waste disposal by 2035 and support carbon neutrality in waste management.",
+    "verbatim_text": "## Waste Reduction\n\nThe Government promulgated the Waste Blueprint for Hong Kong 2035 (the Waste Blueprint) early this year, advocating  the  vision  of  'Waste  Reduction · Resources Circulation · Zero Landfill' .\n\nThe  Waste  Blueprint sets out targets for per capita MSW disposal and  recovery  rate,  and  the  goal  of  developing adequate waste-to-energy facilities, with the aim to  move  away from the reliance on landfills for municipal waste disposal  b y   2 0 3 5 .",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Waste Reduction",
+    "sector": "Waste",
+    "extraction_rationale": "Named strategy section linked to a specific plan (Waste Blueprint 2035) with clear goal and multiple actions/targets described thereafter."
+  },
+  {
+    "policy_statement": "Municipal solid waste charging will be implemented following passage of the MSW charging bill (August 2021), with preparatory work already commenced.",
+    "verbatim_text": "The  Legislative  Council  (LegCo)  passed  the bill on municipal solid waste (MSW) charging in  August  2021.\n\nThe Government has already commenced  the  preparatory  work  for  the implementation of MSW charging.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Municipal solid waste charging",
+    "sector": "Waste",
+    "extraction_rationale": "Concrete regulatory instrument (MSW charging) with enacted legislation and implementation preparations."
+  },
+  {
+    "policy_statement": "Hong Kong aims to reduce per capita municipal solid waste disposal by 40–45% and raise the recovery rate to about 55% through MSW charging and other waste reduction and recycling initiatives.",
+    "verbatim_text": "Through  implementing  MSW  charging  and other waste reduction and recycling initiatives, and encouraging the whole community to work together,  we  aim  to  progressively  reduce  the per capita MSW disposal by 40% to 45% and raise the recovery rate to about 55%.",
+    "policy_type": "sub",
+    "parent_policy_name": "Parent strategy: Waste reduction, aiming to move away from reliance on landfills for municipal waste disposal by 2035 and support carbon neutrality in waste management.",
+    "section_header": "Medium-term target: Enhance waste reduction and recycling",
+    "sector": "Waste",
+    "extraction_rationale": "Quantified waste reduction and recycling targets tied to specific instruments (MSW charging and initiatives)."
+  },
+  {
+    "policy_statement": "The Government will enhance recovery of landfill gases from the three operating landfills to provide thermal energy and electricity for landfill operations and export to gas company/power grids.",
+    "verbatim_text": "we will enhance the recovery of landfill gases from the three landfills currently in operation for providing thermal energy and electricity  to  support  landfill  operation  and export to the gas company and power grids to provide energy for the public.",
+    "policy_type": "sub",
+    "parent_policy_name": "Parent strategy: Waste reduction, aiming to move away from reliance on landfills for municipal waste disposal by 2035 and support carbon neutrality in waste management.",
+    "section_header": "Waste Reduction",
+    "sector": "Waste",
+    "extraction_rationale": "Specific infrastructure/energy recovery action stated as a future measure."
+  },
+  {
+    "policy_statement": "The Government will map out a long-term solution to go “plastic-free” via policies/regulations, publicity, and expanded plastics recycling facilities, and will regulate disposable plastic tableware in phases from 2025.",
+    "verbatim_text": "We  will  map  out  a long-term solution and  go  'plastic-free'  by adopting a multi-pronged approach, which includes formulating suitable policies and regulations, stepping up publicity, and expanding waste plastics recycling supporting facilities\n\nThe Government will regulate disposable plastic tableware in phases from 2025.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Waste Reduction",
+    "sector": "Waste",
+    "extraction_rationale": "Contains concrete regulatory commitment with a start date (from 2025) plus defined policy approach components."
+  },
+  {
+    "policy_statement": "The Environmental Protection Department launched a HK$2 billion EV-charging at Home Subsidy Scheme (October 2020) to subsidise installation of EV charging-enabling infrastructure in car parks of existing private residential buildings, expected to benefit more than 60,000 parking spaces.",
+    "verbatim_text": "the Environmental Protection Department (EPD) launched the $2 billion EHSS  in  October  2020  to  subsidise  the installation of EV charging-enabling infrastructure  in  the  car  parks  of  existing private residential buildings. It is expected to benefit more than 60 000 parking spaces.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "EV-charging at Home Subsidy Scheme (EHSS)",
+    "sector": "Transport",
+    "extraction_rationale": "Named subsidy scheme with committed funding amount and quantified expected coverage."
+  },
+  {
+    "policy_statement": "The Government introduced a Feed-in Tariff (FiT) Scheme (2018) where power companies purchase renewable electricity generated by the private sector at above-tariff rates, to encourage distributed renewable energy.",
+    "verbatim_text": "The  Government  introduced  the  Feed-in Tariff (FiT)  Scheme  with  the  power  companies  in 2018, in which the power companies purchase RE  generated  by  the  private  sector  at  a  rate higher than the electricity tariff.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Development of Renewable Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete market mechanism (FiT) implemented to promote renewable energy generation."
+  },
+  {
+    "policy_statement": "The Government rolled out the Solar Harvest Scheme to install solar energy generation systems at schools and social welfare organisations for free.",
+    "verbatim_text": "The Government  has  also  rolled  out  the  Solar  Harvest Scheme  under  which  solar  energy  generation systems  are  installed  at  schools  and  social welfare organisations for free.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Development of Renewable Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Specific government program with defined intervention (free installation of solar systems) and target recipients."
+  },
+  {
+    "policy_statement": "The Government will explore establishing a dedicated advisory committee on climate change by integrating existing advisory platforms to encourage participation in climate actions.",
+    "verbatim_text": "We will explore  ways to establish a dedicated advisory committee  on  climate  change  through  the integration of the existing advisory platforms, with the aim to encourage different sectors in the  community,  including  our  young  generation, to actively participate in climate actions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Public Engagement",
+    "sector": "Governance",
+    "extraction_rationale": "Explicit commitment to create/organize an advisory body through integration of existing platforms."
+  },
+  {
+    "policy_statement": "WSD targets reducing average fresh water per capita consumption by 10% in 2030 (base year 2016) and containing fresh water demand at around 1 billion m³ per annum before 2040, via water conservation, water loss management, and expanded use of seawater/recycled water for non-potable purposes.",
+    "verbatim_text": "To  achieve  the  goal  of  reducing  the  average fresh water per capita consumption by 10% in 2030,  using  2016  as  the  base  year,  and containing the fresh water demand at the level of around 1 billion m³   per annum before 2040, WSD  is  taking  forward  three  major  water demand management initiatives, namely water  conservation,  water  loss  management and expansion of the use of lower grade water (viz. seawater and recycled water) for non-potable purposes.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Combating Extreme Droughts and Safeguarding Water Supply",
+    "sector": "Adaptation",
+    "extraction_rationale": "Quantified adaptation/water management targets with timeframes and named initiative pillars."
+  },
+  {
+    "policy_statement": "The Tseung Kwan O Desalination Plant (first stage) is targeted to be commissioned in 2023 with capacity about 135,000 m³/day (about 5% of overall fresh water demand) and provision to expand to 270,000 m³/day.",
+    "verbatim_text": "WSD is constructing the first stage of Tseung  Kwan  O  Desalination  Plant\n\nThe plant, targeted to be commissioned in 2023... It will have a daily capacity of  about  135  000  m³ ... with provision for future expansion to a daily capacity of up to 270 000 m³ .",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Tseung Kwan O Desalination Plant",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific infrastructure project with commissioning date and capacity figures."
+  }
+]

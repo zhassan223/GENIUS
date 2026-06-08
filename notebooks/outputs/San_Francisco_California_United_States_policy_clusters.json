@@ -1,0 +1,1958 @@
+[
+  {
+    "cluster_id": 0,
+    "cluster_type": "parent_with_subs",
+    "section_header": "energy supply",
+    "parent": {
+      "policy_statement": "ES.1: Supply 100% renewable electricity to residents and businesses.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n## ENERGY SUPPLY (ES)\n- ES 1 Supply 100% renewable electricity to residents and businesses.\n\nES.1\n## Supporting Actions\n- ES.1-1 Provide 100% renewable electricity at affordable rates.\n- ES.1-2 Promote early adoption of 100% renewable electricity products to all San Franciscans, with a preference for City programs.\n- ES.1-3 Ensure 100% renewable electricity is the only option for San Francisco residents and businesses by 2025, by supporting state or local regulatory requirements and/or acquiring PG&E's grid assets serving San Francisco.\n- ES.1-4 Continue to expand programs and rates that provide low-income customers with renewable electricity and ensure community and stakeholder engagement in program development and rate-setting.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "ENERGY SUPPLY",
+      "sector": "Energy",
+      "extraction_rationale": "Named strategy with multiple supporting actions listed beneath it."
+    },
+    "subs": [
+      {
+        "policy_statement": "Provide 100% renewable electricity at affordable rates (ES.1-1).",
+        "verbatim_text": "## Supporting Actions\n- ES.1-1 Provide 100% renewable electricity at affordable rates.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.1: Supply 100% renewable electricity to residents and businesses.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Specific supporting action under ES.1."
+      },
+      {
+        "policy_statement": "Promote early adoption of 100% renewable electricity products to all San Franciscans, with a preference for City programs (ES.1-2).",
+        "verbatim_text": "## Supporting Actions\n- ES.1-2 Promote early adoption of 100% renewable electricity products to all San Franciscans, with a preference for City programs.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.1: Supply 100% renewable electricity to residents and businesses.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Specific supporting action under ES.1."
+      },
+      {
+        "policy_statement": "Ensure 100% renewable electricity is the only option for San Francisco residents and businesses by 2025 by supporting regulatory requirements and/or acquiring PG&E grid assets serving San Francisco (ES.1-3).",
+        "verbatim_text": "## Supporting Actions\n- ES.1-3 Ensure 100% renewable electricity is the only option for San Francisco residents and businesses by 2025, by supporting state or local regulatory requirements and/or acquiring PG&E's grid assets serving San Francisco.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.1: Supply 100% renewable electricity to residents and businesses.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Time-bound action specifying mechanisms (regulatory requirements and/or grid asset acquisition)."
+      },
+      {
+        "policy_statement": "Expand programs and rates that provide low-income customers with renewable electricity and ensure community and stakeholder engagement in program development and rate-setting (ES.1-4).",
+        "verbatim_text": "## Supporting Actions\n- ES.1-4 Continue to expand programs and rates that provide low-income customers with renewable electricity and ensure community and stakeholder engagement in program development and rate-setting.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.1: Supply 100% renewable electricity to residents and businesses.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Equity-oriented program expansion commitment under ES.1."
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "cluster_type": "parent_with_subs",
+    "section_header": "energy supply",
+    "parent": {
+      "policy_statement": "ES.2: Invest in local renewable energy and energy resilience projects.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- ES 2 Invest in local renewable energy and energy resilience projects.\n\nES.2\n## Supporting Actions\n- ES.2-1 Assist affordable housing developments with installing on-site solar and battery storage and meeting City energy efficiency and solar energy requirements.\n- ES.2-2 Continue to develop onsite solar on City-owned buildings and reservoirs based on emerging opportunities and SFPUC feasibility analysis.\n- ES.2-3 Explore developing grid-independent solar and storage at critical municipal facilities and other critical or vulnerable community sites.\n- ES.2-4 Support the development of local renewable electricity production by scaling up programs such as net metering, community solar, feed-in tariffs, and battery storage.\n- ES.2-5 Ensure SFPUC customer programs center equity in their design and metrics.\n- ES.2-6 Continue to encourage private sector investment in local renewable energy solutions by engaging in public advocacy, educating consumers about their options (such as financing), and serving as a strategic partner.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "ENERGY SUPPLY",
+      "sector": "Energy",
+      "extraction_rationale": "Named strategy with multiple concrete supporting actions for local renewables/resilience."
+    },
+    "subs": [
+      {
+        "policy_statement": "Assist affordable housing developments with installing on-site solar and battery storage and meeting City energy efficiency and solar energy requirements (ES.2-1).",
+        "verbatim_text": "ES.2\n## Supporting Actions\n- ES.2-1 Assist affordable housing developments with installing on-site solar and battery storage and meeting City energy efficiency and solar energy requirements.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.2: Invest in local renewable energy and energy resilience projects.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Specific assistance action targeting affordable housing."
+      },
+      {
+        "policy_statement": "Continue to develop onsite solar on City-owned buildings and reservoirs based on opportunities and SFPUC feasibility analysis (ES.2-2).",
+        "verbatim_text": "ES.2\n## Supporting Actions\n- ES.2-2 Continue to develop onsite solar on City-owned buildings and reservoirs based on emerging opportunities and SFPUC feasibility analysis.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.2: Invest in local renewable energy and energy resilience projects.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Concrete continued development action for municipal solar."
+      },
+      {
+        "policy_statement": "Explore developing grid-independent solar and storage at critical municipal facilities and other critical/vulnerable community sites (ES.2-3).",
+        "verbatim_text": "ES.2\n## Supporting Actions\n- ES.2-3 Explore developing grid-independent solar and storage at critical municipal facilities and other critical or vulnerable community sites.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.2: Invest in local renewable energy and energy resilience projects.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Specific intervention (grid-independent solar+storage) for resilience."
+      },
+      {
+        "policy_statement": "Support local renewable electricity production by scaling up programs such as net metering, community solar, feed-in tariffs, and battery storage (ES.2-4).",
+        "verbatim_text": "ES.2\n## Supporting Actions\n- ES.2-4 Support the development of local renewable electricity production by scaling up programs such as net metering, community solar, feed-in tariffs, and battery storage.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.2: Invest in local renewable energy and energy resilience projects.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Lists specific scalable program mechanisms."
+      },
+      {
+        "policy_statement": "Ensure SFPUC customer programs center equity in their design and metrics (ES.2-5).",
+        "verbatim_text": "ES.2\n## Supporting Actions\n- ES.2-5 Ensure SFPUC customer programs center equity in their design and metrics.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.2: Invest in local renewable energy and energy resilience projects.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Equity design requirement for programs."
+      },
+      {
+        "policy_statement": "Encourage private sector investment in local renewable energy solutions via advocacy, consumer education, and partnership (ES.2-6).",
+        "verbatim_text": "ES.2\n## Supporting Actions\n- ES.2-6 Continue to encourage private sector investment in local renewable energy solutions by engaging in public advocacy, educating consumers about their options (such as financing), and serving as a strategic partner.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.2: Invest in local renewable energy and energy resilience projects.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Specified actions to mobilize private investment."
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "cluster_type": "parent_with_subs",
+    "section_header": "energy supply",
+    "parent": {
+      "policy_statement": "ES.3: Design and develop the reliable and flexible grid of the future.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- ES 3 Design and develop the reliable and flexible grid of the future.\n\nES.3\nDesign and develop the reliable and flexible grid of the future.\n## Supporting Actions\nES.3-1 Plan for the change in electricity demand and usage due to electrification of transportation and buildings through efforts such as the SFPUC's Integrated Resource Plans and ensure community engagement in these efforts.\nES.3-2 By 2023, evaluate the rate and program options to facilitate an affordable transition to all-electric buildings.\nES.3-3   Invest in distribution infrastructure (including acquisition of PG&E assets) and smart-grid technologies, such as advanced metering infrastructure, demand response, and distribution automation.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "ENERGY SUPPLY",
+      "sector": "Energy",
+      "extraction_rationale": "Named strategy with multiple supporting actions including a 2023 deadline and infrastructure investments."
+    },
+    "subs": [
+      {
+        "policy_statement": "Plan for changes in electricity demand due to electrification via SFPUC Integrated Resource Plans and ensure community engagement (ES.3-1).",
+        "verbatim_text": "ES.3-1 Plan for the change in electricity demand and usage due to electrification of transportation and buildings through efforts such as the SFPUC's Integrated Resource Plans and ensure community engagement in these efforts.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.3: Design and develop the reliable and flexible grid of the future.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Concrete planning process commitment tied to electrification."
+      },
+      {
+        "policy_statement": "By 2023, evaluate rate and program options to facilitate an affordable transition to all-electric buildings (ES.3-2).",
+        "verbatim_text": "ES.3-2 By 2023, evaluate the rate and program options to facilitate an affordable transition to all-electric buildings.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.3: Design and develop the reliable and flexible grid of the future.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Time-bound evaluation commitment."
+      },
+      {
+        "policy_statement": "Invest in distribution infrastructure (including acquisition of PG&E assets) and smart-grid technologies such as advanced metering, demand response, and distribution automation (ES.3-3).",
+        "verbatim_text": "ES.3-3   Invest in distribution infrastructure (including acquisition of PG&E assets) and smart-grid technologies, such as advanced metering infrastructure, demand response, and distribution automation.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.3: Design and develop the reliable and flexible grid of the future.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Specific infrastructure and technology investment actions."
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "cluster_type": "parent_with_subs",
+    "section_header": "energy supply",
+    "parent": {
+      "policy_statement": "ES.4: Develop workforce capacity to deliver clean energy resources.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- ES 4 Develop workforce capacity to deliver clean energy resources.\n\nES.4\n## Supporting Actions\n- ES.4-1 Continue to champion clean energy installers participating in City-funded incentive programs that engage in workforce development.\n- ES.4-2 Utilize workforce development programs, such as Project Pull Internship and CityBuild, and education programs, such as Project Learning Grants and the Teacher Externship Program, to expose youth to clean energy related jobs and careers and diversify the workforce.\n- ES.4-3 Include community benefits criteria for renewable energy and other contracts of $5 million or more, giving preference to contracts that demonstrate a commitment to community benefits and environmental justice.\n- ES.4-4 Engage in analysis to identify opportunities to meet diversity and workforce goals in the procurement of clean energy resources",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "ENERGY SUPPLY",
+      "sector": "Energy",
+      "extraction_rationale": "Named workforce strategy with multiple specified supporting actions and a procurement threshold."
+    },
+    "subs": [
+      {
+        "policy_statement": "Champion clean energy installers in City-funded incentive programs that include workforce development (ES.4-1).",
+        "verbatim_text": "- ES.4-1 Continue to champion clean energy installers participating in City-funded incentive programs that engage in workforce development.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.4: Develop workforce capacity to deliver clean energy resources.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Concrete workforce development support action."
+      },
+      {
+        "policy_statement": "Use programs such as Project Pull Internship and CityBuild and education programs to expose youth to clean-energy jobs and diversify the workforce (ES.4-2).",
+        "verbatim_text": "- ES.4-2 Utilize workforce development programs, such as Project Pull Internship and CityBuild, and education programs, such as Project Learning Grants and the Teacher Externship Program, to expose youth to clean energy related jobs and careers and diversify the workforce.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.4: Develop workforce capacity to deliver clean energy resources.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Specific named programs and intended workforce outcome."
+      },
+      {
+        "policy_statement": "Include community benefits criteria for renewable energy and other contracts of $5 million or more, preferring contracts committed to community benefits and environmental justice (ES.4-3).",
+        "verbatim_text": "- ES.4-3 Include community benefits criteria for renewable energy and other contracts of $5 million or more, giving preference to contracts that demonstrate a commitment to community benefits and environmental justice.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.4: Develop workforce capacity to deliver clean energy resources.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Procurement policy lever with explicit monetary threshold."
+      },
+      {
+        "policy_statement": "Analyze opportunities to meet diversity and workforce goals in clean energy resource procurement (ES.4-4).",
+        "verbatim_text": "- ES.4-4 Engage in analysis to identify opportunities to meet diversity and workforce goals in the procurement of clean energy resources",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.4: Develop workforce capacity to deliver clean energy resources.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Specific analytical action under workforce strategy."
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "cluster_type": "parent_with_subs",
+    "section_header": "energy supply",
+    "parent": {
+      "policy_statement": "ES.5: Plan for the equitable decommissioning of the City's natural gas system.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- ES 5 Plan for the equitable decommissioning of the City's natural gas system.\n\nES.5\n## Supporting Actions\nES.5-1 By 2023, assemble data to inform strategic and equitable planning for geographically focused electrification and gas decommissioning plans.\nES.5-2 By 2025, report annually on the status of gas decommissioning...\nES.5-3 By 2025, publish a Decarbonization Masterplan...\nES.5-4 By 2026, establish memorandum of understanding...\nES.5-5 By 2030, transition the district system steam loop serving downtown and Civic Center to renewable energy.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "ENERGY SUPPLY",
+      "sector": "Energy",
+      "extraction_rationale": "Named strategy with multiple time-bound supporting actions and defined deliverables (reports, masterplan, MOU, steam loop transition)."
+    },
+    "subs": [
+      {
+        "policy_statement": "By 2023, assemble data and develop metrics to inform strategic and equitable geographically focused electrification and gas decommissioning plans (ES.5-1).",
+        "verbatim_text": "ES.5-1 By 2023, assemble data to inform strategic and equitable planning for geographically focused electrification and gas decommissioning plans. Develop metrics to inform prioritization and implementation, including cost, equity, safety, climate and just transition.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.5: Plan for the equitable decommissioning of the City's natural gas system.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Time-bound preparatory action with specified metric categories."
+      },
+      {
+        "policy_statement": "By 2025, report annually on gas decommissioning status including methane leakage reductions attributable to decommissioning/removal, and report on cost, equity, safety, and just transition (ES.5-2).",
+        "verbatim_text": "ES.5-2 By 2025, report annually on the status of gas decommissioning, including reduction of methane leakage in San Francisco attributable to decommissioning or removal of gas distribution, along with cost, equity, safety, and just transition.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.5: Plan for the equitable decommissioning of the City's natural gas system.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Monitoring/reporting requirement with a deadline and specific metrics."
+      },
+      {
+        "policy_statement": "By 2025, publish a Decarbonization Masterplan for systematic decommissioning of natural gas distribution/transmission, specify residual uses likely to remain in 2040, and provide interactive neighborhood planning mechanisms (ES.5-3).",
+        "verbatim_text": "ES.5-3 By 2025, publish a Decarbonization Masterplan documenting the systematic approach to decommissioning natural gas distribution and transmission in San Francisco. Specify difficultto-address loads/uses that are likely to remain 'residual' in 2040. Provide neighborhood groups and business districts with interactive planning mechanisms to empower coordination of electrification, and to set localized goals and priorities.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.5: Plan for the equitable decommissioning of the City's natural gas system.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Concrete planning deliverable with deadline and specified contents."
+      },
+      {
+        "policy_statement": "By 2026, establish an MOU between the City, state regulators, and utilities stating mutual intent to decommission natural gas transmission and distribution in San Francisco (ES.5-4).",
+        "verbatim_text": "ES.5-4 By 2026, establish memorandum of understanding between the City, state regulators, and utilities stating mutual intent to de-commission natural gas transmission and distribution in San Francisco.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.5: Plan for the equitable decommissioning of the City's natural gas system.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Specific governance/legal instrument with deadline."
+      },
+      {
+        "policy_statement": "By 2030, transition the district system steam loop serving downtown and Civic Center to renewable energy (ES.5-5).",
+        "verbatim_text": "ES.5-5 By 2030, transition the district system steam loop serving downtown and Civic Center to renewable energy.",
+        "policy_type": "sub",
+        "parent_policy_name": "ES.5: Plan for the equitable decommissioning of the City's natural gas system.",
+        "section_header": "ENERGY SUPPLY",
+        "sector": "Energy",
+        "extraction_rationale": "Time-bound fuel-switching infrastructure transition."
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "cluster_type": "parent_with_subs",
+    "section_header": "building operations",
+    "parent": {
+      "policy_statement": "BO.1: Eliminate fossil fuel use in new construction.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n## BUILDING OPERATIONS (BO)\n- BO 1 Eliminate fossil fuel use in new construction.\n\nBO.1\n## Supporting Actions\nBO.1-1 By 2021, require newly constructed buildings to be efficient and all-electric with no on-site carbon emissions.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "BUILDING OPERATIONS",
+      "sector": "Buildings",
+      "extraction_rationale": "Named building strategy with a supporting action specifying a requirement and deadline."
+    },
+    "subs": [
+      {
+        "policy_statement": "By 2021, require newly constructed buildings to be efficient and all-electric with no on-site carbon emissions (BO.1-1).",
+        "verbatim_text": "BO.1-1 By 2021, require newly constructed buildings to be efficient and all-electric with no on-site carbon emissions.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.1: Eliminate fossil fuel use in new construction.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Explicit regulatory requirement with deadline."
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "cluster_type": "parent_with_subs",
+    "section_header": "building operations",
+    "parent": {
+      "policy_statement": "BO.2: Eliminate fossil fuel use in existing buildings by tailoring solutions to different building ownership, systems, and use types.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- BO 2 Eliminate fossil fuel use in existing buildings by tailoring solutions to different building ownership, systems, and use types.\n\nBO.2\nEliminate fossil fuel use in existing buildings by tailoring solutions to different building ownership, systems, and use types.\n## Supporting Actions\nBO.2-1 By 2023, develop a system to monitor...\nBO.2-2 By 2023, develop a time-of-replacement policy...\nBO.2-7 Adopt a building performance policy requiring large commercial buildings to...\nBO.2-8 By 2023, develop and adopt tenant protection...\nBO.2-10 By 2024, pass a residential time-of-sale policy...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "BUILDING OPERATIONS",
+      "sector": "Buildings",
+      "extraction_rationale": "Strategy with numerous detailed, time-bound supporting actions (monitoring, replacement policy, performance standard, tenant protections, etc.)."
+    },
+    "subs": [
+      {
+        "policy_statement": "By 2023, develop a system to monitor replacement of natural gas-fueled equipment with all-electric equipment and annually report to the Board of Supervisors on whether the replacement rate is sufficient, including access for BIPOC and low-income communities (BO.2-1).",
+        "verbatim_text": "BO.2-1 By 2023, develop a system to monitor the replacement rate of existing private sector natural gas-fueled equipment with all-electric. Annually report to BOS whether fossil-fuel using equipment is being switched at a rate sufficient to meet climate goals, including access to electrification by BIPOC and lowincome communities.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.2: Eliminate fossil fuel use in existing buildings by tailoring solutions to different building ownership, systems, and use types.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Time-bound monitoring and reporting mechanism with equity dimension."
+      },
+      {
+        "policy_statement": "By 2023, develop a time-of-replacement policy phasing in requirements that newly installed residential and other small-building equipment be efficient and all-electric, customized from simple replacements to full renovations (BO.2-2).",
+        "verbatim_text": "BO.2-2 By 2023, develop a time-of-replacement policy that phases in requirements that all newly installed residential and other small building equipment be efficient and all-electric. The policy should customize requirements for simple equipment replacements to full renovations.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.2: Eliminate fossil fuel use in existing buildings by tailoring solutions to different building ownership, systems, and use types.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Policy development commitment with clear regulatory intent and deadline."
+      },
+      {
+        "policy_statement": "By 2024, begin recording property decarbonization status at time of sale and permit review to ensure compliance with the time-of-replacement policy (BO.2-3).",
+        "verbatim_text": "BO.2-3  By 2024, begin recording decarbonization status for each property at time of sale and permit review to ensure compliance with time of replacement policy.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.2: Eliminate fossil fuel use in existing buildings by tailoring solutions to different building ownership, systems, and use types.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Administrative compliance mechanism with a deadline."
+      },
+      {
+        "policy_statement": "By 2023, inventory natural gas-fueled equipment in municipal buildings (BO.2-4).",
+        "verbatim_text": "- BO.2-4  By 2023, perform an inventory of natural gasfueled equipment in municipal buildings.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.2: Eliminate fossil fuel use in existing buildings by tailoring solutions to different building ownership, systems, and use types.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Time-bound inventory action for municipal decarbonization planning."
+      },
+      {
+        "policy_statement": "By 2024, update the City's Capital Plan to reflect replacement of gas-fueled equipment aligned with the 2040 net-zero goal (BO.2-5).",
+        "verbatim_text": "- BO.2-5  By 2024, ensure the City's Capital Plan is updated to reflect the need to replace gasfueled equipment, in alignment with the City's 2040 net-zero goal.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.2: Eliminate fossil fuel use in existing buildings by tailoring solutions to different building ownership, systems, and use types.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Budget/capital planning commitment with deadline tied to net-zero target."
+      },
+      {
+        "policy_statement": "San Francisco International Airport (SFO) will evaluate an all-electric Terminal Central Utility Plant to cut Scope 1 airport emissions ~80% by 2030 and prioritize all-electric equipment replacements across campus buildings (BO.2-6).",
+        "verbatim_text": "BO.2-6 SFO will a) evaluate an efficient, all-electric Terminal Central Utility Plant that would reduce total direct (Scope 1) airport emissions by approximately 80% by 2030, and b) prioritize all-electric equipment replacements throughout campus buildings, including terminal and non-terminal spaces that are occupied by tenants and the Airport Commission.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.2: Eliminate fossil fuel use in existing buildings by tailoring solutions to different building ownership, systems, and use types.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete airport actions with quantified emissions reduction and timeline."
+      },
+      {
+        "policy_statement": "Adopt a building performance policy requiring large commercial buildings to fully transition to efficient all-electric equipment by 2035, begin regular disclosure in 2025, and allow annual fees in lieu of electrification dedicated to decarbonizing low-income and affordable housing (BO.2-7).",
+        "verbatim_text": "- BO.2-7 Adopt a building performance policy requiring large commercial buildings to:\n\na) completely transition to efficient and allelectric equipment no later than 2035\n\nb) in 2025, begin regular disclosure of progress toward goal c) allow payment of annual fees in lieu of electrification, which must be invested into decarbonization of low-income and affordable housing.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.2: Eliminate fossil fuel use in existing buildings by tailoring solutions to different building ownership, systems, and use types.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Regulatory performance standard with deadlines, disclosure requirement, and fee mechanism earmarked for equity."
+      },
+      {
+        "policy_statement": "By 2023, develop and adopt tenant protection and anti-displacement policies for renters in buildings transitioning to efficient all-electric systems (BO.2-8).",
+        "verbatim_text": "- BO.2-8  By 2023, develop and adopt tenant protection and anti-displacement policies for renters in buildings transitioning to efficient and allelectric systems.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.2: Eliminate fossil fuel use in existing buildings by tailoring solutions to different building ownership, systems, and use types.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Time-bound commitment to adopt protections; clear policy intervention."
+      },
+      {
+        "policy_statement": "By 2023, offer targeted technical assistance for BIPOC and low-income owners and tenants on incentives, rebates, and financing for electrification (BO.2-9).",
+        "verbatim_text": "- BO.2-9  By 2023, begin offering targeted technical assistance for BIPOC and low-income owners and tenants including information about incentives, rebates, and public and private financing options.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.2: Eliminate fossil fuel use in existing buildings by tailoring solutions to different building ownership, systems, and use types.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific service/program commitment with deadline and target populations."
+      },
+      {
+        "policy_statement": "By 2024, pass a residential time-of-sale policy requiring an electrification plan prioritizing water and space heating, indoor air quality, and electric safety, and record presence/absence of gas service for each property (BO.2-10).",
+        "verbatim_text": "- BO.2-10 By 2024, pass a residential time-of-sale policy that requires an electrification plan, prioritizing water and space heating, indoor air quality, electric safety, how to access emergency response information, and recording of the presence or absence of gas service for each property.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.2: Eliminate fossil fuel use in existing buildings by tailoring solutions to different building ownership, systems, and use types.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Legislative policy requirement with clear scope and deadline."
+      },
+      {
+        "policy_statement": "By 2024, implement prescriptive criteria and permit/inspection processes for residential heat pump water heaters using a single integrated permit (BO.2-11).",
+        "verbatim_text": "- BO.2-11  By 2024, develop and implement prescriptive criteria and permit & inspection processes for residential heat pump water heaters to be installed with a single integrated permit.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.2: Eliminate fossil fuel use in existing buildings by tailoring solutions to different building ownership, systems, and use types.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete permitting/process reform with deadline."
+      },
+      {
+        "policy_statement": "Explore creation of a revolving decarbonization fund by developing a virtual power plant (VPP) or other district-scale solutions monetizing efficiency, demand response, and storage benefits (BO.2-12).",
+        "verbatim_text": "- BO.2-12  Explore the creation of a revolving decarbonization fund by developing a virtual power plant (VPP) or other district scale solutions that monetizes the benefits derived from energy efficiency, demand response, and energy storage systems.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.2: Eliminate fossil fuel use in existing buildings by tailoring solutions to different building ownership, systems, and use types.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Specified financing mechanism exploration tied to defined technologies."
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "cluster_type": "parent_with_subs",
+    "section_header": "building operations",
+    "parent": {
+      "policy_statement": "BO.3: Expand the building decarbonization workforce, with targeted support for disadvantaged workers.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- BO 3 Expand the building decarbonization workforce, with targeted support for disadvantaged workers.\n\nBO.3\nExpand the building decarbonization workforce, with targeted support for disadvantaged workers.\nBO.3-1 Partner with workforce development entities...\nBO.3-3 By 2023, define goals and create policies...\nBO.3-4 By 2025, create a Public-Private facilities managers... roundtable...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "BUILDING OPERATIONS",
+      "sector": "Buildings",
+      "extraction_rationale": "Workforce strategy with multiple supporting actions and explicit deadlines."
+    },
+    "subs": [
+      {
+        "policy_statement": "Partner with workforce entities, unions, and apprenticeship programs to disseminate building electrification training and financing opportunities, prioritizing workers transitioning from fossil-fuel-dependent trades (BO.3-1).",
+        "verbatim_text": "BO.3-1 Partner with workforce development entities, labor unions, and apprenticeship programs to align with and disseminate regional and statewide building electrification training, funding and project financing opportunities, prioritizing those transitioning from fossil-fuel dependent trades.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.3: Expand the building decarbonization workforce, with targeted support for disadvantaged workers.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific workforce partnership action with just transition prioritization."
+      },
+      {
+        "policy_statement": "Create a Climate Equity Hub with partners to connect building owners/customers with service providers, installers, rebates/financing, and case studies (BO.3-2).",
+        "verbatim_text": "- BO.3-2  Partner with affordable housing providers, equipment vendors, subject matter experts, utilities and CleanPowerSF, CBO's and others to create a Climate Equity Hub to connect building owners and other customers with highroad service providers and installers, rebates and financing, and case studies.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.3: Expand the building decarbonization workforce, with targeted support for disadvantaged workers.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Named programmatic intervention (Climate Equity Hub)."
+      },
+      {
+        "policy_statement": "By 2023, define goals and create policies for professional/workforce development (building on CityBuild Pro) to ensure equitable access to building decarbonization jobs for BIPOC and low-income communities (BO.3-3).",
+        "verbatim_text": "BO.3-3 By 2023, define goals and create policies for professional and workforce development building upon CityBuild Pro to ensure equitable access to building decarbonization jobs for BIPOC and low-income communities, from design to installation to business operations.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.3: Expand the building decarbonization workforce, with targeted support for disadvantaged workers.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Time-bound policy/workforce development commitment with equity focus."
+      },
+      {
+        "policy_statement": "By 2025, create a public-private facilities managers/building operators roundtable for peer-to-peer learning on fuel switching (BO.3-4).",
+        "verbatim_text": "BO.3-4  By 2025, create a Public-Private facilities managers and building operators roundtable to support peer-to-peer learning on fuel switching.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.3: Expand the building decarbonization workforce, with targeted support for disadvantaged workers.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Defined governance/learning forum with deadline."
+      }
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "cluster_type": "parent_with_subs",
+    "section_header": "building operations",
+    "parent": {
+      "policy_statement": "BO.4: Transition to low-global warming potential refrigerants.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- BO 4 Transition to low-global warming potential refrigerants.\n\nBO.4\n## Supporting Actions\nBO.4-1 By 2023, publish guidelines for refrigerant management...\nBO.4-2 Support the adoption of more stringent state and federal regulations...\nBO.4-3 By 2023, support City departments' transition away from high-GWP refrigerants...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "BUILDING OPERATIONS",
+      "sector": "Buildings",
+      "extraction_rationale": "Named refrigerants strategy with multiple supporting actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "By 2023, publish guidelines on refrigerant management best practices including selection of lowest-GWP refrigerants and recovery of refrigerants from existing equipment (BO.4-1).",
+        "verbatim_text": "BO.4-1 By 2023, publish guidelines for refrigerant management best practices for selection of lowest-GWP refrigerants in new and replacement equipment, and collection and recovery of refrigerants from existing equipment to enhance compliance with state regulations.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.4: Transition to low-global warming potential refrigerants.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Time-bound guidance publication with specific content."
+      },
+      {
+        "policy_statement": "Support adoption of more stringent state and federal regulations to reduce refrigerant GWP (BO.4-2).",
+        "verbatim_text": "BO.4-2  Support the adoption of more stringent state and federal regulations to reduce refrigerant GWP.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.4: Transition to low-global warming potential refrigerants.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Explicit advocacy/support action for regulatory strengthening."
+      },
+      {
+        "policy_statement": "By 2023, support City departments' transition away from high-GWP refrigerants by providing guidelines and specifications for future purchases (BO.4-3).",
+        "verbatim_text": "BO.4-3  By 2023, support City departments' transition away from high-GWP refrigerants, by providing guidelines and specifications for future purchases of products containing refrigerants.",
+        "policy_type": "sub",
+        "parent_policy_name": "BO.4: Transition to low-global warming potential refrigerants.",
+        "section_header": "BUILDING OPERATIONS",
+        "sector": "Buildings",
+        "extraction_rationale": "Procurement guidance action with deadline."
+      }
+    ]
+  },
+  {
+    "cluster_id": 9,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation and land use",
+    "parent": {
+      "policy_statement": "TLU.1: Build a fast and reliable transit system that will be everyone's preferred way to get around.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- TLU 1 Build a fast and reliable transit system that will be everyone's preferred way to get around.\n\nTLU.1\nBuild a fast and reliable transit system that will be everyone's preferred way to get around.\nTLU.1-1 Fund and implement the recommendations of the ConnectSF Transit Corridors Study and Muni Forward Plan...\nTLU.1-2 ... fund State of Good Repair with at least $300 million annually.\nTLU.1-6 By 2025, implement 50 miles of Muni Forward transit priority improvements...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "TRANSPORTATION AND LAND USE",
+      "sector": "Transport",
+      "extraction_rationale": "Named strategy with multiple detailed supporting actions and quantified funding/mileage commitments."
+    },
+    "subs": [
+      {
+        "policy_statement": "Fund and implement recommendations of the ConnectSF Transit Corridors Study and Muni Forward Plan, including frequent corridors (5-minute service), transit priority measures, signal retiming, stop spacing optimization, and major transit capital projects (TLU.1-1).",
+        "verbatim_text": "TLU.1-1 Fund and implement the recommendations of the ConnectSF Transit Corridors Study and Muni Forward Plan, including taking steps to:\n- a) Identify and implement key transit corridors for service every 5 minutes or better all day long.\n\nb) Ensure transit on frequent corridors is not delayed by recurring congestion by investing in transit-only lanes, signal management, queue-jump lanes and other transit priority treatments.\n\n- c) Retime traffic lights to minimize signal delay for frequent lines.\n- d) Optimize stop spacing on frequent lines to maximize transit ridership.\n- e) Advance major transit capital projects, including a new Westside Subway along 19th Avenue and Geary, the Caltrain Downtown Extension, Central Subway extension, and the Link21 new transbay tube.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.1: Build a fast and reliable transit system that will be everyone's preferred way to get around.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete package of transit service and capital project actions."
+      },
+      {
+        "policy_statement": "Improve transit reliability by bringing infrastructure into a state of good repair and fund State of Good Repair with at least $300 million annually (TLU.1-2).",
+        "verbatim_text": "TLU.1-2 Improve transit reliability by bringing infrastructure into a state of good repair. Adequately fund State of Good Repair with at least $300 million annually.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.1: Build a fast and reliable transit system that will be everyone's preferred way to get around.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Specific funding commitment with quantified annual amount."
+      },
+      {
+        "policy_statement": "Greatly improve rider comfort, safety, and experience on transit across demographics and ability, including data collection/reporting, sensitivity training of fare inspectors, and expanding the Muni Transit Assistance Program (TLU.1-3).",
+        "verbatim_text": "TLU.1-3 Greatly improve rider comfort, safety, and experience on transit across age, gender, race, and ability to encourage more people to ride transit. Example activities include data collection, reporting, sensitivity training of fare inspectors, and expanding the Muni Transit Assistance Program.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.1: Build a fast and reliable transit system that will be everyone's preferred way to get around.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Specified intervention set to improve transit experience and equity."
+      },
+      {
+        "policy_statement": "Implement Phase One of SFMTA's Racial Equity Action Plan and develop Phase Two in 2021 and implement Phase Two in 2022 (TLU.1-4).",
+        "verbatim_text": "- TLU.1-4 Implement Phase One of SFMTA's Racial Equity Action Plan to improve working conditions and initiate the development of Phase Two in 2021 and then implement Phase Two in 2022 to improve safety, access, and opportunities for the public.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.1: Build a fast and reliable transit system that will be everyone's preferred way to get around.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Time-bound implementation steps for a named equity plan."
+      },
+      {
+        "policy_statement": "By 2025, implement 50 miles of Muni Forward transit priority improvements including 30 miles of new transit-only lanes (TLU.1-6).",
+        "verbatim_text": "- TLU.1-6 By 2025, implement 50 miles of Muni Forward transit priority improvements, including 30 miles of new transit-only lanes. to increase reliability, frequency and safety for riders.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.1: Build a fast and reliable transit system that will be everyone's preferred way to get around.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Quantified infrastructure delivery commitment with deadline."
+      },
+      {
+        "policy_statement": "By 2022, study the role of Muni fare programs on equity, climate, and mobility goals and adopt recommendations (TLU.1-7).",
+        "verbatim_text": "- TLU.1-7 By 2022, study the role of Muni fare programs on equity, climate, and mobility goals and adopt recommendations.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.1: Build a fast and reliable transit system that will be everyone's preferred way to get around.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Time-bound study with commitment to adopt recommendations."
+      }
+    ]
+  },
+  {
+    "cluster_id": 10,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation and land use",
+    "parent": {
+      "policy_statement": "TLU.2: Create a complete and connected active transportation network that shifts trips from automobiles to walking, biking, and other active transportation modes.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- TLU 2 Create a complete and connected active transportation network that shifts trips from automobiles to walking, biking, and other active transportation modes.\n\nTLU.2\nCreate a complete and connected active transportation network that shifts trips from automobiles to walking, biking, and other active transportation modes.\nTLU.2-4 Expand the protected bikeway network by at least 20 miles by 2025.\nTLU.2-6 Update San Francisco's Bike Plan by 2023...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "TRANSPORTATION AND LAND USE",
+      "sector": "Transport",
+      "extraction_rationale": "Named strategy with supporting actions and explicit mileage and deadlines."
+    },
+    "subs": [
+      {
+        "policy_statement": "Expand active-mobility corridors and connect Slow Streets, car-free park roads, and protected bikeways to neighborhoods (TLU.2-1).",
+        "verbatim_text": "TLU.2-1 Continue to expand programs that provide corridors that are attractive to all demographics for walking, biking, and using scooters, wheelchairs, and other small mobility devices. Connect the Slow Streets network, car-free roads in parks, and the protected bikeway network to neighborhoods in San Francisco.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.2: Create a complete and connected active transportation network that shifts trips from automobiles to walking, biking, and other active transportation modes.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Specific program/infrastructure connectivity action."
+      },
+      {
+        "policy_statement": "Expand community programs to make biking more accessible, including subsidies for electric bikes for low-income residents (TLU.2-2).",
+        "verbatim_text": "TLU.2-2 Expand community programs and partnerships to make biking more accessible, via safety and maintenance classes, community parking, and subsidies for electric bikes for low-income residents.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.2: Create a complete and connected active transportation network that shifts trips from automobiles to walking, biking, and other active transportation modes.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Specific equity-linked subsidy intervention."
+      },
+      {
+        "policy_statement": "By 2022, establish a modal planning framework prioritizing transit and active modes to guide right-of-way design and use decisions (TLU.2-3).",
+        "verbatim_text": "TLU.2-3 By 2022, establish a modal planning framework, placing transit and active modes at the forefront, that will guide decisions about design and utilization of the City's rights-of-way.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.2: Create a complete and connected active transportation network that shifts trips from automobiles to walking, biking, and other active transportation modes.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Time-bound planning framework commitment."
+      },
+      {
+        "policy_statement": "Expand the protected bikeway network by at least 20 miles by 2025 (TLU.2-4).",
+        "verbatim_text": "TLU.2-4 Expand the protected bikeway network by at least 20 miles by 2025.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.2: Create a complete and connected active transportation network that shifts trips from automobiles to walking, biking, and other active transportation modes.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Quantified infrastructure expansion with deadline."
+      },
+      {
+        "policy_statement": "Update San Francisco's Bike Plan by 2023 with robust community input (TLU.2-6).",
+        "verbatim_text": "TLU.2-6 Update San Francisco's Bike Plan by 2023 to improve and expand the active transportation network with robust community input.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.2: Create a complete and connected active transportation network that shifts trips from automobiles to walking, biking, and other active transportation modes.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Time-bound plan update commitment."
+      }
+    ]
+  },
+  {
+    "cluster_id": 11,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation and land use",
+    "parent": {
+      "policy_statement": "TLU.3: Develop pricing and financing of mobility that reflect carbon cost/efficiency and correct inequities of past investments.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- TLU 3 Develop pricing and financing of mobility that reflects the carbon cost and efficiency of different modes and projects, and correct for inequities of past investments and priorities.\n\nTLU.3\nDevelop pricing and financing of mobility that reflect the carbon cost and efficiency of different modes and projects and correct for inequities of past investments and priorities.\nTLU.3-1 By 2022, develop recommendations...\nTLU.3-4 Develop and take all necessary steps to implement an integrated system of tolling...\nTLU.3-5 Implement the Treasure Island Mobility Management Program...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "TRANSPORTATION AND LAND USE",
+      "sector": "Transport",
+      "extraction_rationale": "Named strategy with multiple time-bound pricing actions (congestion pricing, fees, tolling)."
+    },
+    "subs": [
+      {
+        "policy_statement": "By 2022, develop recommendations for equitable pricing programs (discounts/exemptions), reduce vehicle traffic, and increase transit service downtown; by 2026, study and implement appropriate pricing policies (TLU.3-1).",
+        "verbatim_text": "TLU.3-1 By 2022, develop recommendations for programs and policies that will advance equity (e.g., provide discounts and exemptions for low-income individuals), reduce vehicle traffic, and increase transit service to downtown. For example, complete the Downtown San Francisco Congestion Pricing Study recommendations, and by 2026, study and implement the appropriate pricing policies.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.3: Develop pricing and financing of mobility that reflect carbon cost/efficiency and correct inequities of past investments.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Time-bound congestion pricing pathway with explicit equity features and implementation timeline."
+      },
+      {
+        "policy_statement": "By 2022, identify local pricing mechanisms (e.g., vehicle license fee) and establish priorities to advocate for regional/state/federal legislation (e.g., increased gas tax, road user charges) to increase fees to drive (TLU.3-2).",
+        "verbatim_text": "TLU.3-2 Advance local, regional, state, and federal opportunities to transition away from fossil fuels by increasing fees to drive.\n\n- a)  By 2022, identify and consider pricing mechanisms that can be implemented locally (e.g. vehicle license fee).\n- b)  By 2022, establish priorities to advocate for regional, state and federal legislation (e.g. increase gas tax, application of road user charges).",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.3: Develop pricing and financing of mobility that reflect carbon cost/efficiency and correct inequities of past investments.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete fee/tax policy and advocacy actions with deadlines."
+      },
+      {
+        "policy_statement": "By 2023, introduce new tools to manage short-term curb uses such as flexible regulations and pricing (TLU.3-3).",
+        "verbatim_text": "TLU.3-3 By 2023, introduce new tools to manage shortterm curb uses, such as flexible regulations and pricing.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.3: Develop pricing and financing of mobility that reflect carbon cost/efficiency and correct inequities of past investments.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Time-bound regulatory/pricing management action."
+      },
+      {
+        "policy_statement": "Implement an integrated tolling system for bridges/freeways and on Treasure Island to prioritize transit and higher-occupancy vehicles (TLU.3-4).",
+        "verbatim_text": "TLU.3-4 Develop and take all necessary steps to implement an integrated system of tolling for bridges and freeways and on Treasure Island to prioritize transit and higher occupancy vehicles.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.3: Develop pricing and financing of mobility that reflect carbon cost/efficiency and correct inequities of past investments.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Specific pricing mechanism (integrated tolling) with stated prioritization objective."
+      },
+      {
+        "policy_statement": "Implement the Treasure Island Mobility Management Program including new ferry service, East Bay bus service, and island tolling (TLU.3-5).",
+        "verbatim_text": "TLU.3-5 Implement the Treasure Island Mobility Management Program including new ferry service, East Bay bus service, and island tolling.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.3: Develop pricing and financing of mobility that reflect carbon cost/efficiency and correct inequities of past investments.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Named program implementation with specified components."
+      },
+      {
+        "policy_statement": "Ensure pricing program revenues are invested in transportation improvements, applying tools to reduce impacts on low-income and historically marginalized communities (TLU.3-6).",
+        "verbatim_text": "TLU.3-6 Apply policy tools to reduce impacts on low-income and historically marginalized communities and ensure that money generated from pricing programs is invested in transportation improvements, especially for those communities.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.3: Develop pricing and financing of mobility that reflect carbon cost/efficiency and correct inequities of past investments.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit equity and reinvestment requirement."
+      }
+    ]
+  },
+  {
+    "cluster_id": 12,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation and land use",
+    "parent": {
+      "policy_statement": "TLU.4: Manage parking resources more efficiently.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- TLU 4 Manage parking resources more efficiently.\n\nTLU.4\n## Supporting Actions\nTLU.4-2 Expand paid parking citywide...\nTLU.4-3 Steadily reduce the City's overall parking supply...\nTLU.4-6 Implement a program to prioritize access and parking for people-with-disability parking placards.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "TRANSPORTATION AND LAND USE",
+      "sector": "Transport",
+      "extraction_rationale": "Parking management strategy with multiple concrete supporting actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "Prioritize enforcement of parking and curb regulations that impact street safety and efficiency (TLU.4-1).",
+        "verbatim_text": "TLU.4-1 Prioritize enforcement of parking and curb regulations that impact street safety and efficiency",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.4: Manage parking resources more efficiently.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit enforcement prioritization action."
+      },
+      {
+        "policy_statement": "Expand paid parking citywide where appropriate, set prices to reduce demand, reinvent/expand Residential Parking Permit program, expand paid parking to Sundays/evenings where appropriate, and expand demand-responsive meter/garage pricing (TLU.4-2).",
+        "verbatim_text": "TLU.4-2 Expand paid parking citywide, where appropriate Set prices at a level that reduces demand for parking so that drivers can always find a parking space near their destination.\n\n- a)  Reinvent and expand the Residential Parking Permit program.\n- b)  Expand paid hourly parking to Sundays and evenings, where appropriate.\n- c)  Expand demand-responsive parking meter and garage pricing.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.4: Manage parking resources more efficiently.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Detailed pricing program changes under parking strategy."
+      },
+      {
+        "policy_statement": "Steadily reduce the City's overall parking supply and convert underutilized parking lots/spaces/garages to productive uses such as housing and car-free park roads (TLU.4-3).",
+        "verbatim_text": "TLU.4-3 Steadily reduce the City's overall parking supply in keeping with traffic reduction and emissions reduction goals, and convert underutilized public and private parking lots, parking spaces, and garages to more productive uses, such as housing and car-free roads in parks.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.4: Manage parking resources more efficiently.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Clear land use/parking supply policy action."
+      },
+      {
+        "policy_statement": "Reinvent and expand the private parking tax to reduce congestion, air pollution, and emissions (TLU.4-4).",
+        "verbatim_text": "TLU.4-4 Reinvent and expand the parking tax on private parking to reduce congestion, air pollution and emissions.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.4: Manage parking resources more efficiently.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Tax policy lever explicitly stated."
+      },
+      {
+        "policy_statement": "Develop programs to reduce impacts of parking pricing on low-income, auto-dependent people and ensure net benefit to low-income individuals (TLU.4-5).",
+        "verbatim_text": "TLU.4-5 While using pricing to balance parking supply and demand, develop programs to reduce impact on low-income, auto-dependent people and ensure net benefit to low-income individuals.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.4: Manage parking resources more efficiently.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Equity safeguard linked to pricing policies."
+      },
+      {
+        "policy_statement": "Implement a program to prioritize access and parking for people with disability parking placards (TLU.4-6).",
+        "verbatim_text": "TLU.4-6 Implement a program to prioritize access and parking for people-with-disability parking placards.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.4: Manage parking resources more efficiently.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Specific accessibility-focused program commitment."
+      }
+    ]
+  },
+  {
+    "cluster_id": 13,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation and land use",
+    "parent": {
+      "policy_statement": "TLU.5: Promote job growth, housing, and other development along transit corridors.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- TLU 5 Promote job growth, housing, and other development along transit corridors.\n\nTLU.5\n## Supporting Actions\nTLU.5-1 Expand housing capacity...\nTLU.5-2 Locate jobs close to transit corridors.\nTLU.5-3 Use streamlined approval processes... around major transit stations...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "TRANSPORTATION AND LAND USE",
+      "sector": "Transport",
+      "extraction_rationale": "Land use strategy with listed supporting actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "Expand housing capacity by increasing heights/removing density restrictions in areas where existing or new high-capacity transit is planned (TLU.5-1).",
+        "verbatim_text": "TLU.5-1 Expand housing capacity (for example, by increasing heights and removing restrictions on density) in areas where existing or new high-capacity transit is planned.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.5: Promote job growth, housing, and other development along transit corridors.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Specific zoning/land use change action tied to transit."
+      },
+      {
+        "policy_statement": "Locate jobs close to existing or new high-capacity transit corridors (TLU.5-2).",
+        "verbatim_text": "TLU.5-2 Locate jobs close to existing or new highcapacity transit corridors.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.5: Promote job growth, housing, and other development along transit corridors.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit land use/job location policy action."
+      },
+      {
+        "policy_statement": "Use streamlined approval processes (e.g., Housing Sustainability Districts) in 1/4-mile areas around major transit stations to build housing and mixed-use more quickly (TLU.5-3).",
+        "verbatim_text": "TLU.5-3 Use streamlined approval processes, such as Housing Sustainability Districts, in the 1/4-mile areas around major transit stations to build housing and mixed-use developments more quickly.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.5: Promote job growth, housing, and other development along transit corridors.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Specific permitting/approval acceleration mechanism."
+      }
+    ]
+  },
+  {
+    "cluster_id": 14,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation and land use",
+    "parent": {
+      "policy_statement": "TLU.6: Strengthen and reconnect communities by increasing density, diversity of land uses, and location efficiency.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- TLU 6 Strengthen and reconnect communities by increasing density, diversity of land uses, and location efficiency.\n\nTLU.6\nStrengthen and reconnect communities by increasing density, diversity of land uses, and location efficiency.\nTLU.6-1 ...Create a working group...\nTLU.6-2 Examine rezoning...\nTLU.6-6 Update the Transportation Element of the City's General Plan.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "TRANSPORTATION AND LAND USE",
+      "sector": "Transport",
+      "extraction_rationale": "Named strategy with multiple governance/zoning/planning supporting actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "Create a working group of City agencies and residents to plan and design neighborhoods where people can walk/roll to daily needs (TLU.6-1).",
+        "verbatim_text": "TLU.6-1 Facilitate the development of neighborhoods where people live within an easy walk or roll of their daily needs. Create a working group of City agencies and residents to plan and design for such neighborhoods.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.6: Strengthen and reconnect communities by increasing density, diversity of land uses, and location efficiency.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Specific governance/planning intervention."
+      },
+      {
+        "policy_statement": "Examine rezoning to allow multi-family housing throughout San Francisco (TLU.6-2).",
+        "verbatim_text": "TLU.6-2 Examine rezoning to allow for multi-family housing throughout San Francisco.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.6: Strengthen and reconnect communities by increasing density, diversity of land uses, and location efficiency.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit zoning policy exploration/commitment."
+      },
+      {
+        "policy_statement": "By 2023, increase the types of home-based businesses allowed in residential districts (TLU.6-3).",
+        "verbatim_text": "TLU.6-3 By 2023, increase the types of home-based businesses allowed in residential districts.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.6: Strengthen and reconnect communities by increasing density, diversity of land uses, and location efficiency.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Time-bound land use regulatory change."
+      },
+      {
+        "policy_statement": "Identify and reimagine under-utilized publicly owned land and roadways for transformation/repurposing (TLU.6-4).",
+        "verbatim_text": "TLU.6-4 Identify and reimagine under-utilized publicly owned land and roadways that could be transformed or repurposed.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.6: Strengthen and reconnect communities by increasing density, diversity of land uses, and location efficiency.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Specific action to repurpose public assets."
+      },
+      {
+        "policy_statement": "Co-develop plans/projects with BIPOC community members to design public space and the transportation system to advance racial and social equity (TLU.6-5).",
+        "verbatim_text": "TLU.6-5 Design public space and the transportation system (including roadways) to advance racial and social equity by co-developing plans and projects with BIPOC community members and understanding their needs before designing the space.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.6: Strengthen and reconnect communities by increasing density, diversity of land uses, and location efficiency.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit participatory design requirement tied to equity outcomes."
+      },
+      {
+        "policy_statement": "Update the Transportation Element of the City's General Plan (TLU.6-6).",
+        "verbatim_text": "TLU.6-6 Update the Transportation Element of the City's General Plan.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.6: Strengthen and reconnect communities by increasing density, diversity of land uses, and location efficiency.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Formal planning document update action."
+      },
+      {
+        "policy_statement": "Co-develop plans/projects with the disability community to design public space and the transportation system to advance disability justice (TLU.6-7).",
+        "verbatim_text": "TLU.6-7 Design public space and the transportation system to advance disability justice by codeveloping plans and projects with diverse elements of the disability community and understanding their needs before designs are complete.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.6: Strengthen and reconnect communities by increasing density, diversity of land uses, and location efficiency.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit accessibility/disability justice co-development requirement."
+      }
+    ]
+  },
+  {
+    "cluster_id": 15,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation and land use",
+    "parent": {
+      "policy_statement": "TLU.7: Where motor vehicle use is necessary, accelerate adoption of zero-emissions vehicles (ZEVs) and other electric mobility options.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- TLU 7 Where motor vehicle use or travel is necessary, accelerate the adoption of zero-emissions vehicles (ZEV's) and other electric mobility options.\n\nWhere motor vehicle use or travel is necessary, accelerate the adoption of zero-emissions vehicles (ZEVs) and other electric mobility options.\nTLU.7-2 Expand publicly available EV charging...\nTLU.7-6 By 2030, create incentives... to reduce emissions from construction equipment at least 50% from 2020 levels.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "TRANSPORTATION AND LAND USE",
+      "sector": "Transport",
+      "extraction_rationale": "Named ZEV strategy with multiple supporting actions including charging targets and construction equipment incentives."
+    },
+    "subs": [
+      {
+        "policy_statement": "By 2023, launch a community-tailored public awareness campaign on benefits of transit, active transportation, and electric vehicles (TLU.7-1).",
+        "verbatim_text": "TLU.7-1 By 2023, launch a public awareness campaign, including messaging tailored to specific communities, with the goal of educating residents about the health, economic, and environmental benefits of transit, active transportation, and electric vehicles.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.7: Where motor vehicle use is necessary, accelerate adoption of zero-emissions vehicles (ZEVs) and other electric mobility options.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Time-bound outreach/education intervention."
+      },
+      {
+        "policy_statement": "Expand publicly available EV charging that is financially and geographically accessible to low-income households and renters, including: 2022 evaluation framework for curbside pilots; by 2023 charging in 10% of municipal lot spaces and 10% of private large commercial garage spaces and creation of three fast-charging hubs (one in a disadvantaged community); by 2025 charging in 10% of SFO-owned parking stalls (TLU.7-2).",
+        "verbatim_text": "TLU.7-2 Expand publicly available EV charging across the city that is financially and geographically accessible to low-income households and renters.\n\na) By 2022, complete an evaluation framework to develop curbside charging pilots b) By 2023, expand charging to 10% of spaces in municipally owned parking lots\n\nc) By 2023, expand charging to 10% of spaces within privately owned large commercial garages d) By 2023, create three 'fast-charging hubs' with one serving a disadvantaged community within San Francisco.\n\ne) By 2025, install charging to 10% of SFOowned parking stalls supported by load management software.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.7: Where motor vehicle use is necessary, accelerate adoption of zero-emissions vehicles (ZEVs) and other electric mobility options.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Quantified charging deployment targets with multiple deadlines and equity condition."
+      },
+      {
+        "policy_statement": "By 2024, develop a plan to help the City's non-revenue fleet and small/local businesses build infrastructure for zero-emission delivery, drayage, and longer-haul trucks (TLU.7-3).",
+        "verbatim_text": "TLU.7-3 By 2024, develop a plan to help the City's nonrevenue fleet and small and locally owned businesses build infrastructure that allows for zero emission delivery, drayage, and longer haul trucks.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.7: Where motor vehicle use is necessary, accelerate adoption of zero-emissions vehicles (ZEVs) and other electric mobility options.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Time-bound infrastructure planning for fleets and small businesses."
+      },
+      {
+        "policy_statement": "By 2023, establish a pathway to incentivize ZEVs for passenger service vehicles operating at the airport (TLU.7-4).",
+        "verbatim_text": "TLU.7-4 By 2023, establish a pathway to incentivize ZEVs for passenger service vehicles operating at the airport.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.7: Where motor vehicle use is necessary, accelerate adoption of zero-emissions vehicles (ZEVs) and other electric mobility options.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Time-bound incentive pathway for airport ground transport."
+      },
+      {
+        "policy_statement": "By 2024, launch a pilot to advance ZEVs, e-bikes, and other low-carbon modes for door-to-door goods and meal delivery services (TLU.7-5).",
+        "verbatim_text": "- TLU.7-5 By 2024, launch a pilot to advance the use of ZEVs, e-bikes, and other low-carbon modes for door-to-door goods and meal delivery services.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.7: Where motor vehicle use is necessary, accelerate adoption of zero-emissions vehicles (ZEVs) and other electric mobility options.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Pilot program commitment with deadline."
+      },
+      {
+        "policy_statement": "By 2030, create incentives for renewable diesel and emerging zero-emission technologies to cut emissions from construction equipment at least 50% from 2020 levels (TLU.7-6).",
+        "verbatim_text": "- TLU.7-6 By 2030, create incentives for the use of renewable diesel and emerging zero-emission technologies to reduce emissions from construction equipment at least 50% from 2020 levels.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.7: Where motor vehicle use is necessary, accelerate adoption of zero-emissions vehicles (ZEVs) and other electric mobility options.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Quantified emissions reduction target for construction equipment with deadline and policy tool (incentives)."
+      },
+      {
+        "policy_statement": "Design by 2023 and launch by 2024 a pilot to test accessible bicycles, e-bikes, and e-scooters for commuting and recreation (TLU.7-7).",
+        "verbatim_text": "- TLU.7-7 Design by 2023 and launch by 2024 a pilot project to test the use of accessible bicycles, e-bicycles and e-scooters for commuting, as well as recreation.",
+        "policy_type": "sub",
+        "parent_policy_name": "TLU.7: Where motor vehicle use is necessary, accelerate adoption of zero-emissions vehicles (ZEVs) and other electric mobility options.",
+        "section_header": "TRANSPORTATION AND LAND USE",
+        "sector": "Transport",
+        "extraction_rationale": "Time-bound accessibility-focused mobility pilot."
+      }
+    ]
+  },
+  {
+    "cluster_id": 16,
+    "cluster_type": "parent_with_subs",
+    "section_header": "housing",
+    "parent": {
+      "policy_statement": "H.1: Anchor BIPOC families and advance their return to San Francisco through robust housing and stabilization programs.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n## HOUSING (H)\n- H 1 Anchor BIPOC families and advance their return to San Francisco through robust housing and stabilization programs.\n\nH.1\n## Supporting Actions\nH.1-1 Leverage every housing action and investment...\nH.1-2 Prioritize affordable housing in cultural districts...\nH.1-3 Expand tenant services...\nH.1-4 Initiate steps to increase housing production... in higher opportunity neighborhoods...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "HOUSING",
+      "sector": "Housing",
+      "extraction_rationale": "Named housing equity strategy with multiple supporting actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "Leverage every housing action and investment to reverse historic dispossession and enable housing security for affected communities (H.1-1).",
+        "verbatim_text": "H.1-1 Leverage every housing action and investment to help reverse historic dispossession based on race, ethnicity, disability, or socio-economic status, and enable housing security for affected communities.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.1: Anchor BIPOC families and advance their return to San Francisco through robust housing and stabilization programs.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Explicit directive for housing investments/actions tied to equity outcomes."
+      },
+      {
+        "policy_statement": "Prioritize affordable housing in cultural districts and areas with historically marginalized racial/ethnic communities to encourage stabilization and return (H.1-2).",
+        "verbatim_text": "- H.1-2 Prioritize affordable housing in cultural districts and areas with historically marginalized racial or ethnic communities to encourage their stabilization and return.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.1: Anchor BIPOC families and advance their return to San Francisco through robust housing and stabilization programs.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Targeting policy for affordable housing siting/prioritization."
+      },
+      {
+        "policy_statement": "Expand tenant services (education, outreach, counseling, legal and rent assistance) to keep residents and workers housed in San Francisco (H.1-3).",
+        "verbatim_text": "- H.1-3 Expand tenant services including education, outreach, counseling, and legal and rent assistance to keep local residents and workers housed in San Francisco.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.1: Anchor BIPOC families and advance their return to San Francisco through robust housing and stabilization programs.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Specific service expansion commitments."
+      },
+      {
+        "policy_statement": "Initiate steps to increase housing production—particularly affordable and accessible housing—in higher-opportunity neighborhoods historically racially/economically exclusive (H.1-4).",
+        "verbatim_text": "- H.1-4 Initiate steps to increase housing production, particularly affordable and accessible housing, in higher opportunity neighborhoods that historically have been racially and economically exclusive.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.1: Anchor BIPOC families and advance their return to San Francisco through robust housing and stabilization programs.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Explicit housing production commitment with equity siting focus."
+      }
+    ]
+  },
+  {
+    "cluster_id": 17,
+    "cluster_type": "parent_with_subs",
+    "section_header": "housing",
+    "parent": {
+      "policy_statement": "H.2: Support vulnerable populations and underserved communities through preservation/rehabilitation of existing housing and new housing development serving their needs.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- H 2 Support vulnerable populations and underserved communities through both the preservation and rehabilitation of existing housing and new housing development that serves their needs.\n\nH.2\nSupport vulnerable populations and underserved communities...\n## Supporting Actions\n- H.2-1 Provide funding and resources...\n- H.2-3 ... acquisition and preservation... goal of at least 400 units annually.\n- H.2-4 Secure ... resources for accessibility, energy efficiency, decarbonization, and resilience upgrades...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "HOUSING",
+      "sector": "Housing",
+      "extraction_rationale": "Named strategy with multiple supporting actions including an annual unit goal."
+    },
+    "subs": [
+      {
+        "policy_statement": "Provide funding and resources to help unhoused or unstably housed people become and stay safely housed (H.2-1).",
+        "verbatim_text": "- H.2-1 Provide funding and resources to help people who are unhoused or without stable housing become and stay safely housed.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.2: Support vulnerable populations and underserved communities through preservation/rehabilitation of existing housing and new housing development serving their needs.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Direct resource allocation commitment for housing stability."
+      },
+      {
+        "policy_statement": "Subsidize and incentivize housing for vulnerable populations in high-resource areas, especially along transit-rich commercial and social-service corridors (H.2-2).",
+        "verbatim_text": "- H.2-2 Subsidize and develop incentives for building housing targeted towards vulnerable populations in high resource areas, especially along transit-rich, commercial, and social service corridors.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.2: Support vulnerable populations and underserved communities through preservation/rehabilitation of existing housing and new housing development serving their needs.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Explicit subsidy/incentive commitment with siting priorities."
+      },
+      {
+        "policy_statement": "Initiate steps to fund acquisition and preservation of existing affordable multifamily housing with a goal of at least 400 units annually (H.2-3).",
+        "verbatim_text": "- H.2-3 Initiate steps to fund the acquisition and preservation of existing, affordable, multifamily housing, with a goal of at least 400 units annually.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.2: Support vulnerable populations and underserved communities through preservation/rehabilitation of existing housing and new housing development serving their needs.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Quantified annual preservation goal and funding action."
+      },
+      {
+        "policy_statement": "Secure federal, state, and local resources for accessibility, energy efficiency, decarbonization, and resilience upgrades in existing and new housing (H.2-4).",
+        "verbatim_text": "- H.2-4 Secure federal, state, and local resources for accessibility, energy efficiency, decarbonization, and resilience upgrades in existing and new housing.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.2: Support vulnerable populations and underserved communities through preservation/rehabilitation of existing housing and new housing development serving their needs.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Resource mobilization commitment for specified upgrade types."
+      }
+    ]
+  },
+  {
+    "cluster_id": 18,
+    "cluster_type": "parent_with_subs",
+    "section_header": "housing",
+    "parent": {
+      "policy_statement": "H.3: Advance zoning and implementation improvements that support new housing production sufficient to meet goals, especially sustainable small/mid-sized/family/workforce housing in lower-density neighborhoods.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- H 3 Advance zoning and implementation improvements that support new housing production sufficient to meet goals, especially sustainable, small, mid-sized, family, and workforce housing in lower density neighborhoods.\n\nH.3\n## Supporting Actions\n- H.3-1 Study changes...\n- H.3-4 By 2025 establish codes and regulations...\n- H.3-5 Expand green construction training...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "HOUSING",
+      "sector": "Housing",
+      "extraction_rationale": "Named strategy with multiple supporting actions including a 2025 code/regulation deadline."
+    },
+    "subs": [
+      {
+        "policy_statement": "Study changes to increase multi-family housing in higher-resource neighborhoods and near transit/jobs/services/parks/schools/amenities (H.3-1).",
+        "verbatim_text": "- H.3-1 Study changes to increase multi-family housing in higher-resource neighborhoods and near transit, jobs, services, parks, high quality schools, and other amenities.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.3: Advance zoning and implementation improvements that support new housing production sufficient to meet goals, especially sustainable small/mid-sized/family/workforce housing in lower-density neighborhoods.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Concrete study commitment with defined locational focus."
+      },
+      {
+        "policy_statement": "Develop additional approval and permit streamlining for new housing that exceeds inclusionary and sustainability requirements (H.3-2).",
+        "verbatim_text": "- H.3-2 Develop additional approval and permit streamlining for new housing that exceeds inclusionary and sustainability requirements.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.3: Advance zoning and implementation improvements that support new housing production sufficient to meet goals, especially sustainable small/mid-sized/family/workforce housing in lower-density neighborhoods.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Specified regulatory streamlining action."
+      },
+      {
+        "policy_statement": "Address barriers for lower-income small property owners to add housing (e.g., ADUs) and rehabilitate healthy, resource-efficient existing units (H.3-3).",
+        "verbatim_text": "- H.3-3 Address financial and educational barriers for lower income small property owners to add housing (such as Accessory Dwelling Units) and rehabilitate existing units that are healthy and resource efficient.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.3: Advance zoning and implementation improvements that support new housing production sufficient to meet goals, especially sustainable small/mid-sized/family/workforce housing in lower-density neighborhoods.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Specific interventions targeting ADUs and rehab capacity."
+      },
+      {
+        "policy_statement": "By 2025, establish codes and regulations to enable new materials (e.g., cross-laminated timber) and technologies (e.g., modular housing) to lower costs and increase construction resource efficiency (H.3-4).",
+        "verbatim_text": "- H.3-4 By 2025 establish codes and regulations that facilitate use of new materials (e.g. crosslaminated-timber) and new technology (e.g. modular housing) to lower costs and increase resource efficiency of construction.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.3: Advance zoning and implementation improvements that support new housing production sufficient to meet goals, especially sustainable small/mid-sized/family/workforce housing in lower-density neighborhoods.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Time-bound code/regulatory change with specific examples."
+      },
+      {
+        "policy_statement": "Expand green construction training and apprenticeship programs to grow skilled labor and reduce construction costs (H.3-5).",
+        "verbatim_text": "- H.3-5 Expand green construction training and apprenticeship programs to grow the local pool of skilled labor and reduce construction costs.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.3: Advance zoning and implementation improvements that support new housing production sufficient to meet goals, especially sustainable small/mid-sized/family/workforce housing in lower-density neighborhoods.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Workforce program expansion linked to housing delivery."
+      }
+    ]
+  },
+  {
+    "cluster_id": 19,
+    "cluster_type": "parent_with_subs",
+    "section_header": "housing",
+    "parent": {
+      "policy_statement": "H.4: Expand subsidized housing production and availability for low-, moderate-, and middle-income households.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- H 4 Expand subsidized housing production and availability for low-, moderate-, and middle-income households.\n\nH.4\n## Supporting Actions\n- H.4-1 Meet RHNA targets...\n- H.4-2 By 2025 renew and increase funding...\n- H.4-3 Advocate for increased ... funding...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "HOUSING",
+      "sector": "Housing",
+      "extraction_rationale": "Named subsidized housing strategy with multiple supporting actions including 2025 funding action."
+    },
+    "subs": [
+      {
+        "policy_statement": "Meet RHNA targets and affirmatively further fair housing by increasing affordable housing production (especially for families) in higher-resource neighborhoods and historically lower-income communities of color (H.4-1).",
+        "verbatim_text": "- H.4-1 Meet Regional Housing Needs Allocation (RHNA) targets and requirements to affirmatively further fair housing by increasing production of affordable housing, especially for families with children, in both higher resource neighborhoods and Priority Geographies that have historically been home to lower income communities of color.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.4: Expand subsidized housing production and availability for low-, moderate-, and middle-income households.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Explicit compliance target (RHNA) and fair housing action."
+      },
+      {
+        "policy_statement": "By 2025, renew and increase public and private funding for affordable housing as one-time bond funds and ERAF allocations are depleted (H.4-2).",
+        "verbatim_text": "- H.4-2 By 2025 renew and increase public and private funding for affordable housing as one-time bond funds and ERAF allocations are depleted.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.4: Expand subsidized housing production and availability for low-, moderate-, and middle-income households.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Time-bound funding commitment."
+      },
+      {
+        "policy_statement": "Advocate for increased regional, state, and federal funding for affordable and green housing (H.4-3).",
+        "verbatim_text": "- H.4-3 Advocate for increased regional, state, and federal funding for affordable and green housing.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.4: Expand subsidized housing production and availability for low-, moderate-, and middle-income households.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Explicit advocacy action linked to funding."
+      },
+      {
+        "policy_statement": "Identify cost-cutting measures to make San Francisco affordable housing developments more competitive for external funding (H.4-4).",
+        "verbatim_text": "- H.4-4 Identify cost cutting measures to make affordable housing developments in San Francisco more competitive for regional, state, and federal funding.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.4: Expand subsidized housing production and availability for low-, moderate-, and middle-income households.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Specific action to improve competitiveness for funding."
+      },
+      {
+        "policy_statement": "Prioritize surplus City/enterprise agency/public land for affordable housing based on timing and feasibility (H.4-5).",
+        "verbatim_text": "- H.4-5 Continue to prioritize surplus City, enterprise agency, and other public land for affordable housing based on timing and financial feasibility.",
+        "policy_type": "sub",
+        "parent_policy_name": "H.4: Expand subsidized housing production and availability for low-, moderate-, and middle-income households.",
+        "section_header": "HOUSING",
+        "sector": "Housing",
+        "extraction_rationale": "Public land disposition priority for affordable housing."
+      }
+    ]
+  },
+  {
+    "cluster_id": 20,
+    "cluster_type": "parent_with_subs",
+    "section_header": "responsible production & consumption",
+    "parent": {
+      "policy_statement": "RPC.1: Achieve total carbon balance across the buildings and infrastructure sectors.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n## RESPONSIBLE PRODUCTION & CONSUMPTION (RPC)\n- RPC 1 Achieve total carbon balance across the buildings and infrastructure sectors.\n\nRPC.1\n## Supporting Actions\nRPC.1-1 Between 2024-2026, phase in policies...\nRPC.1-3 By 2025, establish a maximum allowance for embodied carbon...\nRPC.1-4 By 2025, amend existing policies to require deconstruction...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+      "sector": "Industry",
+      "extraction_rationale": "Named strategy focused on embodied carbon with multiple time-bound supporting actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "Between 2024-2026, phase in policies to reduce embodied carbon more than 10% per project by addressing at least three product categories or building assembly types (RPC.1-1).",
+        "verbatim_text": "RPC.1-1 Between 2024-2026, phase in policies to reduce embodied carbon more than 10% per project by addressing at least three product categories or building assembly types.",
+        "policy_type": "sub",
+        "parent_policy_name": "RPC.1: Achieve total carbon balance across the buildings and infrastructure sectors.",
+        "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+        "sector": "Industry",
+        "extraction_rationale": "Quantified embodied carbon reduction requirement with timeframe and scope."
+      },
+      {
+        "policy_statement": "By 2025, develop incentives/policies/guidelines for adaptive reuse of existing buildings and for design/procurement of low-carbon structural materials for new construction (RPC.1-2).",
+        "verbatim_text": "RPC.1-2 By 2025, develop a suite of incentives, policies, and/or guidelines for adaptive reuse of existing buildings, as well as the design and procurement of low-carbon structural materials for new construction.",
+        "policy_type": "sub",
+        "parent_policy_name": "RPC.1: Achieve total carbon balance across the buildings and infrastructure sectors.",
+        "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+        "sector": "Industry",
+        "extraction_rationale": "Time-bound development of policy/incentive tools for embodied carbon reduction."
+      },
+      {
+        "policy_statement": "By 2025, establish a maximum allowance for embodied carbon of buildings, adjusted at regular intervals (RPC.1-3).",
+        "verbatim_text": "RPC.1-3 By 2025, establish a maximum allowance for embodied carbon of buildings, to be adjusted at regular intervals.",
+        "policy_type": "sub",
+        "parent_policy_name": "RPC.1: Achieve total carbon balance across the buildings and infrastructure sectors.",
+        "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+        "sector": "Industry",
+        "extraction_rationale": "Regulatory standard commitment with deadline."
+      },
+      {
+        "policy_statement": "By 2025, amend policies to require deconstruction of buildings and increase source separation of specific materials (RPC.1-4).",
+        "verbatim_text": "RPC.1-4 By 2025, amend existing policies to require deconstruction of buildings and increase the source separation of specific materials.",
+        "policy_type": "sub",
+        "parent_policy_name": "RPC.1: Achieve total carbon balance across the buildings and infrastructure sectors.",
+        "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+        "sector": "Industry",
+        "extraction_rationale": "Policy amendment requirement with deadline."
+      },
+      {
+        "policy_statement": "By 2030, advance 'Design for Disassembly' and 'Buildings As Material Banks' best practices and pilot at least one municipal project (RPC.1-7).",
+        "verbatim_text": "RPC.1-7 By 2030, advance best practices for 'Design for Disassembly' and 'Buildings As Material Banks' by creating implementation resources in partnership with global cities, and pilot at least one municipal project to maximize the value of carbon already invested in buildings.",
+        "policy_type": "sub",
+        "parent_policy_name": "RPC.1: Achieve total carbon balance across the buildings and infrastructure sectors.",
+        "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+        "sector": "Industry",
+        "extraction_rationale": "Time-bound best-practice adoption and municipal pilot commitment."
+      }
+    ]
+  },
+  {
+    "cluster_id": 21,
+    "cluster_type": "parent_with_subs",
+    "section_header": "responsible production & consumption",
+    "parent": {
+      "policy_statement": "RPC.2: Reduce the carbon footprint of the food system by reducing waste, promoting climate-friendly diets, and getting excess food to communities in need.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- RPC 2 Reduce the carbon footprint of the food system by reducing waste, promoting climate friendly diets, and getting excess food to communities in need.\n\nRPC.2\nReduce the carbon footprint of the food system...\n## Supporting Actions\nRPC.2-1 By 2030, reduce food waste by 50%...\nRPC.2-3 By 2024, adopt a Food Waste Prevention and Edible Food Recovery policy...\nRPC.2-6 By 2025, ... hospitals meet a 20% reduction in carbon and water footprints...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+      "sector": "Waste",
+      "extraction_rationale": "Named food system strategy with multiple quantified and time-bound actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "By 2030, reduce food waste by 50% in alignment with the Pacific Coast Collaborative voluntary commitment by implementing guidelines and recommendations with food retailers/distributors/manufacturers (RPC.2-1).",
+        "verbatim_text": "RPC.2-1 By 2030, reduce food waste by 50% in alignment with the City's voluntary commitment to the Pacific Coast Collaborative initiative by implementing food waste reduction guidelines and recommendations in partnership with food retail, distributors, and manufacturers.",
+        "policy_type": "sub",
+        "parent_policy_name": "RPC.2: Reduce the carbon footprint of the food system by reducing waste, promoting climate-friendly diets, and getting excess food to communities in need.",
+        "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+        "sector": "Waste",
+        "extraction_rationale": "Quantified food waste reduction target with deadline and implementation approach."
+      },
+      {
+        "policy_statement": "By 2022, continue and scale the Kitchen Zero SF pilot program to track over-purchasing and redirect wasted food to communities in need, including recovered fresh produce for communities with limited access (RPC.2-2).",
+        "verbatim_text": "RPC.2-2 By 2022, continue implementing and scale the Kitchen Zero SF pilot program, which reduces food waste by tracking over-purchasing by food generators, and redirects otherwise wasted food to communities in need, including providing recovered fresh produce to communities with limited access.",
+        "policy_type": "sub",
+        "parent_policy_name": "RPC.2: Reduce the carbon footprint of the food system by reducing waste, promoting climate-friendly diets, and getting excess food to communities in need.",
+        "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+        "sector": "Waste",
+        "extraction_rationale": "Time-bound scale-up of named pilot with equity intent."
+      },
+      {
+        "policy_statement": "By 2024, adopt a Food Waste Prevention and Edible Food Recovery policy and develop compliance/monitoring program and incentives aligned with California SB 1383 (RPC.2-3).",
+        "verbatim_text": "RPC.2-3 By 2024, adopt a Food Waste Prevention and Edible Food Recovery policy and develop a program and incentives structure for compliance and monitoring in alignment with California's State Bill 1383 food recovery regulations.",
+        "policy_type": "sub",
+        "parent_policy_name": "RPC.2: Reduce the carbon footprint of the food system by reducing waste, promoting climate-friendly diets, and getting excess food to communities in need.",
+        "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+        "sector": "Waste",
+        "extraction_rationale": "Explicit policy adoption with deadline and compliance mechanism."
+      },
+      {
+        "policy_statement": "By 2024, develop guidance for City food procurement aligned with Good Food Purchasing Program core values (including environmental sustainability and regenerative agriculture) (RPC.2-5).",
+        "verbatim_text": "RPC.2-5 By 2024, develop guidance in partnership with other municipal agencies to implement city procurement of food in alignment with the five core values put forth by the Good Food Purchasing Program (GFPP): developing local economies, improving health, valuing the workforce, considering animal welfare, and environmental sustainability, including regenerative agriculture.",
+        "policy_type": "sub",
+        "parent_policy_name": "RPC.2: Reduce the carbon footprint of the food system by reducing waste, promoting climate-friendly diets, and getting excess food to communities in need.",
+        "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+        "sector": "Agriculture",
+        "extraction_rationale": "Time-bound procurement guidance tied to named program values."
+      },
+      {
+        "policy_statement": "By 2025, SFDPH will ensure Zuckerberg San Francisco General and Laguna Honda Hospitals achieve a 20% reduction in carbon and water footprints via sustainable food purchasing standards aligned with GFPP values (RPC.2-6).",
+        "verbatim_text": "RPC.2-6 By 2025, San Francisco Department of Public Health will ensure the Zuckerberg San Francisco General and Laguna Honda Hospitals meet a 20% reduction in carbon and water footprints by implementing sustainable food purchasing standards that ensure food procurement aligns with the core values of the GFPP.",
+        "policy_type": "sub",
+        "parent_policy_name": "RPC.2: Reduce the carbon footprint of the food system by reducing waste, promoting climate-friendly diets, and getting excess food to communities in need.",
+        "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+        "sector": "Agriculture",
+        "extraction_rationale": "Quantified institutional target with deadline and implementation mechanism."
+      },
+      {
+        "policy_statement": "By 2030, SF Unified School District will build on its GFPP resolution to procure food locally and from minority-owned businesses/farms, switch entrees to lower-emissions alternatives, reduce over-purchasing, and donate meals to communities in need (RPC.2-7).",
+        "verbatim_text": "RPC.2-7 By 2030, San Francisco Unified School District will continue to build upon its adopted resolution to participate in the GFPP, aiming to procure food locally and from minority owned businesses and farms, switch entrees to lower-emissions alternatives, reduce over-purchasing of food, and donate meals to communities in need.",
+        "policy_type": "sub",
+        "parent_policy_name": "RPC.2: Reduce the carbon footprint of the food system by reducing waste, promoting climate-friendly diets, and getting excess food to communities in need.",
+        "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+        "sector": "Agriculture",
+        "extraction_rationale": "Time-bound school district procurement/diet/waste actions with equity components."
+      }
+    ]
+  },
+  {
+    "cluster_id": 22,
+    "cluster_type": "parent_with_subs",
+    "section_header": "responsible production & consumption",
+    "parent": {
+      "policy_statement": "RPC.3: Promote reduction, reuse, repair, and recovery of goods and materials.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- RPC 3 Promote reduction, reuse, repair, and recovery of goods and materials.\n\nRPC.3\n## Supporting Actions\nRPC.3-1 By 2023, reduce use of non-reusable foodware...\nRPC.3-2 By 2023, ... take-back and resale of used clothing...\nRPC.3-6 By 2025, ... maximize material recovery.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+      "sector": "Waste",
+      "extraction_rationale": "Named materials circularity strategy with several time-bound supporting actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "By 2023, reduce use of non-reusable foodware by requiring/incentivizing/supporting/promoting reusables for on- and off-site dining (to-go/delivery) (RPC.3-1).",
+        "verbatim_text": "RPC.3-1 By 2023, reduce use of non-reusable foodware by requiring, incentivizing, supporting and/or promoting reusables for on and off-site dining (to-go or delivery).",
+        "policy_type": "sub",
+        "parent_policy_name": "RPC.3: Promote reduction, reuse, repair, and recovery of goods and materials.",
+        "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+        "sector": "Waste",
+        "extraction_rationale": "Time-bound policy/program action with specified scope."
+      },
+      {
+        "policy_statement": "By 2023, require take-back and resale of used clothing and promote donation and longevity of apparel/textiles (RPC.3-2).",
+        "verbatim_text": "RPC.3-2 By 2023, reduce, reuse, and repair, by requiring take-back and resale of used clothing, and promoting donation and longevity of used apparel and textiles.",
+        "policy_type": "sub",
+        "parent_policy_name": "RPC.3: Promote reduction, reuse, repair, and recovery of goods and materials.",
+        "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+        "sector": "Waste",
+        "extraction_rationale": "Explicit requirement and promotional actions with deadline."
+      },
+      {
+        "policy_statement": "By 2024, encourage/facilitate inclusive neighborhood-scale lending libraries, repair clinics, and reuse exchanges for tools/electronics/furniture and other goods (RPC.3-3).",
+        "verbatim_text": "RPC.3-3 By 2024, encourage or facilitate inclusive and networked neighborhood-scale projects such as lending libraries, repair clinics, and reuse exchanges for tools, equipment, electronics, furniture and other goods that reduce production and consumption of goods.",
+        "policy_type": "sub",
+        "parent_policy_name": "RPC.3: Promote reduction, reuse, repair, and recovery of goods and materials.",
+        "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+        "sector": "Waste",
+        "extraction_rationale": "Concrete community infrastructure actions with deadline."
+      },
+      {
+        "policy_statement": "Increase compliance with mandatory construction and demolition debris recovery (Environment Code Chapter 14) and mandatory recycling/composting (Environment Code Chapter 19) to increase recovery and reduce disposal (RPC.3-5).",
+        "verbatim_text": "RPC.3-5   Increase compliance with mandatory construction and demolition debris recovery (newly amended Environment Code Chapter 14) and mandatory recycling and composting (Environment Code Chapter 19) to increase recovery and reduce disposal while providing economic and social benefits such as local jobs and reduced illegal dumping.",
+        "policy_type": "sub",
+        "parent_policy_name": "RPC.3: Promote reduction, reuse, repair, and recovery of goods and materials.",
+        "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+        "sector": "Waste",
+        "extraction_rationale": "Explicit compliance/enforcement action referencing legal requirements."
+      }
+    ]
+  },
+  {
+    "cluster_id": 23,
+    "cluster_type": "parent_with_subs",
+    "section_header": "responsible production & consumption",
+    "parent": {
+      "policy_statement": "RPC.4: Lead the aviation sector by reducing emissions across the airline passenger journey.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- RPC 4 Lead the aviation sector by reducing emissions across the airline passenger journey.\n\nRPC.4\n## Supporting Actions\nRPC.4-1 SFO will encourage and incentivize...\nRPC.4-2 ... replace up to 50% of its fuel supply with Sustainable Aviation Fuels by 2050.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+      "sector": "Transport",
+      "extraction_rationale": "Named aviation strategy with SFO-specific supporting actions and quantified SAF target."
+    },
+    "subs": [
+      {
+        "policy_statement": "SFO will encourage and incentivize switching aviation sector fuel to low-carbon sources for air and ground fleets where viable (RPC.4-1).",
+        "verbatim_text": "RPC.4-1 SFO will encourage and incentivize, where viable, switching aviation sector fuel to low carbon sources for both air and ground fleets.",
+        "policy_type": "sub",
+        "parent_policy_name": "RPC.4: Lead the aviation sector by reducing emissions across the airline passenger journey.",
+        "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit incentive action by SFO."
+      },
+      {
+        "policy_statement": "SFO will work with airlines to replace up to 50% of its fuel supply with Sustainable Aviation Fuels by 2050 (RPC.4-2).",
+        "verbatim_text": "RPC.4-2 SFO will continue its leadership and partnership with airlines to work to replace up to 50% of its fuel supply with Sustainable Aviation Fuels by 2050.",
+        "policy_type": "sub",
+        "parent_policy_name": "RPC.4: Lead the aviation sector by reducing emissions across the airline passenger journey.",
+        "section_header": "RESPONSIBLE PRODUCTION & CONSUMPTION",
+        "sector": "Transport",
+        "extraction_rationale": "Quantified long-term SAF target with deadline."
+      }
+    ]
+  },
+  {
+    "cluster_id": 24,
+    "cluster_type": "parent_with_subs",
+    "section_header": "healthy ecosystems",
+    "parent": {
+      "policy_statement": "HE.1: Advance citywide collaboration to refine nature-based climate solutions that sequester carbon, restore ecosystems, and conserve biodiversity.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n## HEALTHY ECOSYSTEMS (HE)\n- HE 1 Advance citywide collaboration to continually refine nature-based climate solutions that sequester carbon, restore ecosystems and conserve biodiversity.\n\nHE.1\n## Supporting Actions\nHE.1-1 By 2022, complete the Alameda watershed carbon case study...\nHE.1-5 By 2025, incorporate findings into a Carbon Sequestration and Ecosystem Restoration Strategy...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "HEALTHY ECOSYSTEMS",
+      "sector": "AFOLU",
+      "extraction_rationale": "Named nature-based solutions strategy with multiple time-bound planning actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "By 2022, complete the Alameda watershed carbon case study and quantify carbon storage value (HE.1-1).",
+        "verbatim_text": "HE.1-1 By 2022, complete the Alameda watershed carbon case study and quantify the value of carbon storage provided by protecting this natural area.",
+        "policy_type": "sub",
+        "parent_policy_name": "HE.1: Advance citywide collaboration to refine nature-based climate solutions that sequester carbon, restore ecosystems, and conserve biodiversity.",
+        "section_header": "HEALTHY ECOSYSTEMS",
+        "sector": "AFOLU",
+        "extraction_rationale": "Time-bound study deliverable."
+      },
+      {
+        "policy_statement": "By 2023, City departments will develop policies/procedures to assess carbon sequestration opportunities in capital projects, prioritize biodiversity/green infrastructure, and maximize native plants, working through the Biodiversity Interagency Working Group (HE.1-3).",
+        "verbatim_text": "HE.1-3 By 2023, City departments should develop their own policies and procedures to assess carbon sequestration opportunities for capital projects, prioritize biodiversity and green infrastructure, and maximize local native plants. Departments should work together in the Biodiversity Interagency Working Group to create shared policies and procedures where possible.",
+        "policy_type": "sub",
+        "parent_policy_name": "HE.1: Advance citywide collaboration to refine nature-based climate solutions that sequester carbon, restore ecosystems, and conserve biodiversity.",
+        "section_header": "HEALTHY ECOSYSTEMS",
+        "sector": "AFOLU",
+        "extraction_rationale": "Time-bound policy/procedure development commitment across departments."
+      },
+      {
+        "policy_statement": "By 2025, incorporate sequestration and biodiversity findings into a Carbon Sequestration and Ecosystem Restoration Strategy for City land and watershed management (HE.1-5).",
+        "verbatim_text": "HE.1-5 By 2025, incorporate carbon sequestration and biodiversity conservation findings into a Carbon Sequestration and Ecosystem Restoration Strategy for City land and watershed management, consistent with agencies' existing plans and policies.",
+        "policy_type": "sub",
+        "parent_policy_name": "HE.1: Advance citywide collaboration to refine nature-based climate solutions that sequester carbon, restore ecosystems, and conserve biodiversity.",
+        "section_header": "HEALTHY ECOSYSTEMS",
+        "sector": "AFOLU",
+        "extraction_rationale": "Time-bound strategy development deliverable."
+      }
+    ]
+  },
+  {
+    "cluster_id": 25,
+    "cluster_type": "parent_with_subs",
+    "section_header": "healthy ecosystems",
+    "parent": {
+      "policy_statement": "HE.2: Increase equitable community participation in nature-based climate solutions, prioritizing Indigenous science and Traditional Ecological Knowledge.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- HE 2 Increase equitable community participation and perspectives in nature-based climate solutions, including meaningful efforts to prioritize Indigenous science and Traditional Ecological Knowledge.\n\n## Supporting Actions\nHE.2-1 The City will engage American Indian tribes...\nHE.2-2 By 2022, establish an inter-jurisdictional working group...\nHE.2-3 The City will honor Indigenous knowledge... Ramaytush Ohlone...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "HEALTHY ECOSYSTEMS",
+      "sector": "AFOLU",
+      "extraction_rationale": "Named equity/participation strategy with listed supporting actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "Engage American Indian tribes and other stakeholders in planning/implementation of greening projects, including for local hiring and workforce development (HE.2-1).",
+        "verbatim_text": "HE.2-1 The City will engage American Indian tribes, cultural bearers, neighborhood organizations, local businesses, the San Francisco Unified School District, and non-profit organizations during the planning and implementation of greening projects, including for the purpose of local hiring and workforce development.",
+        "policy_type": "sub",
+        "parent_policy_name": "HE.2: Increase equitable community participation in nature-based climate solutions, prioritizing Indigenous science and Traditional Ecological Knowledge.",
+        "section_header": "HEALTHY ECOSYSTEMS",
+        "sector": "AFOLU",
+        "extraction_rationale": "Stakeholder engagement commitment with workforce component."
+      },
+      {
+        "policy_statement": "By 2022, establish an inter-jurisdictional working group including American Indian representation and agencies/institutions focused on nature-based solutions for resilience and biodiversity (HE.2-2).",
+        "verbatim_text": "HE.2-2  By 2022, establish an inter-jurisdictional working group of American Indian representation, federal and state parks agencies, cultural districts, local non-profits, and educational and research institutions, dedicated to nature-based solutions, focused on resilience and biodiversity conservation.",
+        "policy_type": "sub",
+        "parent_policy_name": "HE.2: Increase equitable community participation in nature-based climate solutions, prioritizing Indigenous science and Traditional Ecological Knowledge.",
+        "section_header": "HEALTHY ECOSYSTEMS",
+        "sector": "AFOLU",
+        "extraction_rationale": "Time-bound governance structure creation."
+      },
+      {
+        "policy_statement": "Create partnerships with the Ramaytush Ohlone and American Indian community for stewardship of lands managed by San Francisco (HE.2-3).",
+        "verbatim_text": "HE.2-3   The City will honor Indigenous knowledge from the original stewards of these lands (Yelamu) and create strong partnerships through meaningful engagement with the Ramaytush Ohlone and the American Indian community to participate in stewardship of lands managed by San Francisco.",
+        "policy_type": "sub",
+        "parent_policy_name": "HE.2: Increase equitable community participation in nature-based climate solutions, prioritizing Indigenous science and Traditional Ecological Knowledge.",
+        "section_header": "HEALTHY ECOSYSTEMS",
+        "sector": "AFOLU",
+        "extraction_rationale": "Explicit partnership and stewardship participation commitment."
+      }
+    ]
+  },
+  {
+    "cluster_id": 26,
+    "cluster_type": "parent_with_subs",
+    "section_header": "healthy ecosystems",
+    "parent": {
+      "policy_statement": "HE.3: Restore and enhance parks, natural lands, and large open spaces.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- HE 3 Restore and enhance parks, natural lands and large open spaces.\n\n## Supporting Actions\nHE.3-3  By 2025, create a 3-acre horizontal levee at Heron's Head Park.\nHE.3-4  By 2030, restore and create 173 acres... on Yerba Buena and Treasure Islands...\nHE.3-5  By 2030, restore 100+ acres... at the San Bruno Jail and SFO West of Bayshore Properties.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "HEALTHY ECOSYSTEMS",
+      "sector": "AFOLU",
+      "extraction_rationale": "Named restoration strategy with quantified acreage and specific project actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "By 2025, create a 3-acre horizontal levee at Heron's Head Park (HE.3-3).",
+        "verbatim_text": "- HE.3-3  By 2025, create a 3-acre horizontal levee at Heron's Head Park.",
+        "policy_type": "sub",
+        "parent_policy_name": "HE.3: Restore and enhance parks, natural lands, and large open spaces.",
+        "section_header": "HEALTHY ECOSYSTEMS",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific nature-based infrastructure project with deadline and size."
+      },
+      {
+        "policy_statement": "By 2030, restore and create 173 acres of natural ecological parkland on Yerba Buena and Treasure Islands (HE.3-4).",
+        "verbatim_text": "- HE.3-4  By 2030, restore and create 173 acres of natural ecological parkland on Yerba Buena and Treasure Islands, including implementing the Yerba Buena Island Habitat Management Plan.",
+        "policy_type": "sub",
+        "parent_policy_name": "HE.3: Restore and enhance parks, natural lands, and large open spaces.",
+        "section_header": "HEALTHY ECOSYSTEMS",
+        "sector": "AFOLU",
+        "extraction_rationale": "Quantified acreage restoration/creation commitment with deadline."
+      },
+      {
+        "policy_statement": "By 2030, restore 100+ acres of upland and wetland habitats at the San Bruno Jail and SFO West of Bayshore Properties (HE.3-5).",
+        "verbatim_text": "- HE.3-5  By 2030, restore 100+ acres of upland and wetland habitats at the San Bruno Jail and SFO West of Bayshore Properties.",
+        "policy_type": "sub",
+        "parent_policy_name": "HE.3: Restore and enhance parks, natural lands, and large open spaces.",
+        "section_header": "HEALTHY ECOSYSTEMS",
+        "sector": "AFOLU",
+        "extraction_rationale": "Quantified habitat restoration commitment with deadline."
+      }
+    ]
+  },
+  {
+    "cluster_id": 27,
+    "cluster_type": "parent_with_subs",
+    "section_header": "healthy ecosystems",
+    "parent": {
+      "policy_statement": "HE.5: Maximize trees throughout the public realm.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- HE 5 Maximize trees throughout the public realm.\n\n## Supporting Actions\n- HE.5-1 By 2040, plant 30,000 street trees...\n- HE.5-3  By 2023, create a City-managed and -dedicated street tree nursery.\n- HE.5-4  By 2023, create a policy to require preservation of mature trees...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "HEALTHY ECOSYSTEMS",
+      "sector": "AFOLU",
+      "extraction_rationale": "Named urban forestry strategy with quantified tree planting and policy actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "By 2040, plant 30,000 street trees in sidewalk tree wells (about a 25% increase) to complete the street tree network (HE.5-1).",
+        "verbatim_text": "- HE.5-1 By 2040, plant 30,000 street trees in the sidewalk tree wells, approximately a 25% increase, to complete the street tree network.,",
+        "policy_type": "sub",
+        "parent_policy_name": "HE.5: Maximize trees throughout the public realm.",
+        "section_header": "HEALTHY ECOSYSTEMS",
+        "sector": "AFOLU",
+        "extraction_rationale": "Quantified tree planting target with deadline."
+      },
+      {
+        "policy_statement": "By 2023, create a City-managed and dedicated street tree nursery (HE.5-3).",
+        "verbatim_text": "- HE.5-3  By 2023, create a City-managed and -dedicated street tree nursery.",
+        "policy_type": "sub",
+        "parent_policy_name": "HE.5: Maximize trees throughout the public realm.",
+        "section_header": "HEALTHY ECOSYSTEMS",
+        "sector": "AFOLU",
+        "extraction_rationale": "Time-bound creation of municipal nursery infrastructure."
+      },
+      {
+        "policy_statement": "By 2023, create a policy requiring preservation of mature trees during development/infrastructure modifications and replacement planting of basal area equivalent when removal is unavoidable (HE.5-4).",
+        "verbatim_text": "- HE.5-4  By 2023, create a policy to require preservation of mature trees during development or infrastructure modifications and for planting of basal area equivalent of mature trees whose removal is unavoidable.",
+        "policy_type": "sub",
+        "parent_policy_name": "HE.5: Maximize trees throughout the public realm.",
+        "section_header": "HEALTHY ECOSYSTEMS",
+        "sector": "AFOLU",
+        "extraction_rationale": "Explicit regulatory policy with deadline and replacement standard."
+      }
+    ]
+  },
+  {
+    "cluster_id": 28,
+    "cluster_type": "parent_with_subs",
+    "section_header": "healthy ecosystems",
+    "parent": {
+      "policy_statement": "HE.7: Conduct carbon sequestration farming pilot projects and research.",
+      "verbatim_text": "## TABLE 1: STRATEGIES IN 2021 CLIMATE ACTION PLAN\n- HE 7 Conduct carbon sequestration farming pilot projects and research.\n\n## Supporting Actions\nHE.7-1 By 2024, apply approximately 500 wet tons of biosolids per year...\nHE.7-4 By 2025, SFO will expand its carbon mitigation and offset program...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "HEALTHY ECOSYSTEMS",
+      "sector": "AFOLU",
+      "extraction_rationale": "Named carbon farming/sequestration pilot strategy with quantified supporting actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "By 2024, apply approximately 500 wet tons of biosolids per year as a soil amendment to sequester carbon on identified sites such as mine reclamation projects in Northern California (HE.7-1).",
+        "verbatim_text": "HE.7-1 By 2024, apply approximately 500 wet tons of biosolids per year as a soil amendment and to sequester carbon on newly identified sites such as mine reclamation projects in Northern California.",
+        "policy_type": "sub",
+        "parent_policy_name": "HE.7: Conduct carbon sequestration farming pilot projects and research.",
+        "section_header": "HEALTHY ECOSYSTEMS",
+        "sector": "AFOLU",
+        "extraction_rationale": "Quantified annual application commitment with deadline and purpose."
+      },
+      {
+        "policy_statement": "Improve compliance with mandatory composting (Environment Code Chapter 19 and SB 1383) and optimize organics processing to increase compost quantity/quality for soil carbon sequestration (HE.7-2).",
+        "verbatim_text": "HE.7-2 Improve compliance with Mandatory Composting (Environment Code Chapter 19 and SB 1383) and optimize organics processing to increase the quantity and quality of compost produced to support soil carbon sequestration activities.",
+        "policy_type": "sub",
+        "parent_policy_name": "HE.7: Conduct carbon sequestration farming pilot projects and research.",
+        "section_header": "HEALTHY ECOSYSTEMS",
+        "sector": "AFOLU",
+        "extraction_rationale": "Compliance and process optimization action tied to sequestration."
+      },
+      {
+        "policy_statement": "By 2025, SFO will expand its carbon mitigation and offset program to include soil carbon sequestration projects where viable (HE.7-4).",
+        "verbatim_text": "HE.7-4  By 2025, SFO will expand its carbon mitigation and offset program to include soil carbon sequestration projects, where viable.",
+        "policy_type": "sub",
+        "parent_policy_name": "HE.7: Conduct carbon sequestration farming pilot projects and research.",
+        "section_header": "HEALTHY ECOSYSTEMS",
+        "sector": "AFOLU",
+        "extraction_rationale": "Time-bound expansion of an existing offset program to include soil carbon projects."
+      }
+    ]
+  },
+  {
+    "cluster_id": 29,
+    "cluster_type": "individual",
+    "section_header": "the path to reach net-zero by 2040 / emissions targets and climate goals",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Reduce San Francisco sector-based greenhouse gas emissions by at least 61% below 1990 levels by 2030 and achieve net-zero sector-based emissions by 2040 (at least a 90% reduction below 1990), sequestering any residual emissions through nature-based solutions.",
+      "verbatim_text": "By integrating these four climate justice commitments, the CAP proposes two ambitious and achievable climate emission reduction targets:\n- An interim target of cutting sector-based emissions 61% below 1990 levels by 2030; and\n- Net-zero sector-based emissions by 2040, a 90% reduction from 1990 levels\n\nTABLE 5: 2021 CLIMATE ACTION TARGETS\nBy 2040, achieve net-zero emissions by reducing emissions at least 90%compared to 1990 levels and sequester any residual emissions through nature- based solutions",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "THE PATH TO REACH NET-ZERO BY 2040 / EMISSIONS TARGETS AND CLIMATE GOALS",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Citywide quantified emissions targets with deadlines and defined net-zero mechanism (90% reduction plus sequestration)."
+    }
+  },
+  {
+    "cluster_id": 30,
+    "cluster_type": "individual",
+    "section_header": "the path to reach net-zero by 2040 / emissions targets and climate goals",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Reduce consumption-based emissions by 40% below 1990 levels by 2030 and by 80% below 1990 levels by 2050 (expressed as less than 30 mtCO2e per household by 2030 and less than 10 mtCO2e per household by 2050).",
+      "verbatim_text": "San Francisco is determined to reduce the impacts of these outsourced emissions and has set two targets:\n- A 40% reduction in consumption-based emissions by 2030\n- An 80% reduction in consumption-based emissions by 2050\n\nTABLE 5: 2021 CLIMATE ACTION TARGETS\nBy 2030, reduce consumption-based emissions to less than 30 mtCO2e per household, equivalent to a 40% reduction compared to 1990 levels\nBy 2050, reduce consumption-based emissions to less than 10 mtCO2e per household, equivalent to an 80% reduction compared to 1990 levels",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "THE PATH TO REACH NET-ZERO BY 2040 / EMISSIONS TARGETS AND CLIMATE GOALS",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Quantified consumption-based emissions reduction targets with deadlines and per-household metrics."
+    }
+  },
+  {
+    "cluster_id": 31,
+    "cluster_type": "individual",
+    "section_header": "emissions targets and climate goals",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Supply 100% renewable electricity in San Francisco by 2025 and supply 100% renewable energy (no more fossil fuels) by 2040.",
+      "verbatim_text": "TABLE 6: 2021 CLIMATE ACTION GOALS\nENERGY  By 2025, supplying 100% renewable electricity, and by 2040, supplying 100% renewable energy (no more fossil fuels).",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "EMISSIONS TARGETS AND CLIMATE GOALS",
+      "sector": "Energy",
+      "extraction_rationale": "Clear, dated renewable energy goals stated in the CAP goals table."
+    }
+  },
+  {
+    "cluster_id": 32,
+    "cluster_type": "individual",
+    "section_header": "emissions targets and climate goals / building operations goals",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Require zero onsite fossil fuel emissions from all new buildings by 2021; require zero onsite fossil fuel emissions from all large existing commercial buildings by 2035; and achieve zero emissions for all buildings by 2040.",
+      "verbatim_text": "TABLE 6: 2021 CLIMATE ACTION GOALS\nBUILDINGS  By 2021, requiring zero onsite fossil fuel emissions from all new buildings, and by 2035, requiring zero onsite fossil fuel emissions from all large existing commercial buildings.\n\n## BUILDING OPERATIONS\n## GOALS:\n1) Zero emisisons new construction by 2021\n2) All large commerical buildings are zero emissions by 2035\n3) All buildings zero emissions by 2040",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "EMISSIONS TARGETS AND CLIMATE GOALS / BUILDING OPERATIONS GOALS",
+      "sector": "Buildings",
+      "extraction_rationale": "Mandate-style requirements with deadlines for new buildings, large commercial buildings, and all buildings."
+    }
+  },
+  {
+    "cluster_id": 33,
+    "cluster_type": "individual",
+    "section_header": "emissions targets and climate goals / transportation & land use goals",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "By 2030, achieve at least 80% of trips by low-carbon modes; electrify at least 25% of registered private vehicles by 2030 and 100% by 2040.",
+      "verbatim_text": "TABLE 6: 2021 CLIMATE ACTION GOALS\nTRANSPORTATION  By 2030, an increase in low-carbon trips to at least 80%of all trips measured and an increase in the level of electrification of vehicles to at least 25%of all private vehicles registered, and by 2040, an increase in the level of electrification of vehicles to 100% of all private vehicles registered.\n\n## TRANSPORTATION & LAND USE\n## GOALS:\n1) By 2030, 80% of trips taken by low-carbon modes\n2) By 2030, at least 25% of all  vehicles registered in SF are electric, reaching 100% by 2040",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "EMISSIONS TARGETS AND CLIMATE GOALS / TRANSPORTATION & LAND USE GOALS",
+      "sector": "Transport",
+      "extraction_rationale": "Quantified transport mode-share and EV adoption targets with explicit deadlines."
+    }
+  },
+  {
+    "cluster_id": 34,
+    "cluster_type": "individual",
+    "section_header": "emissions targets and climate goals",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Build at least 5,000 new housing units per year with no less than 30% affordable, emphasizing retention and rehabilitation of existing housing.",
+      "verbatim_text": "TABLE 6: 2021 CLIMATE ACTION GOALS\nHOUSING  Building at least 5,000 new housing units per year with maximum affordability, including not less than 30%affordable units, and with an emphasis on retaining and rehabilitating existing housing.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "EMISSIONS TARGETS AND CLIMATE GOALS",
+      "sector": "Housing",
+      "extraction_rationale": "Quantified annual housing production target with affordability floor and stated emphasis on rehab/retention."
+    }
+  },
+  {
+    "cluster_id": 35,
+    "cluster_type": "individual",
+    "section_header": "emissions targets and climate goals / responsible production & consumption goals",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "By 2030, reduce solid waste generation at least 15% below 2015 levels and reduce waste disposed by incineration or landfill at least 50% below 2015 levels.",
+      "verbatim_text": "TABLE 6: 2021 CLIMATE ACTION GOALS\nZEROWASTE  By 2030, a reduction in the generation of solid waste of at least 15% below 2015 levels and a reduction in the amount of solid waste disposed of by incineration or deposited in landfill of at least 50%below 2015 levels.\n\nRESPONSIBLE PRODUCTION & CONSUMPTION\n## GOALS:\nBy 2030:\n1) Reduce solid waste generation 15% below 2015 levels\n2) Reduce disposal to landfill 50% below 2015 levels",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "EMISSIONS TARGETS AND CLIMATE GOALS / RESPONSIBLE PRODUCTION & CONSUMPTION GOALS",
+      "sector": "Waste",
+      "extraction_rationale": "Quantified waste reduction and landfill disposal targets with deadline."
+    }
+  },
+  {
+    "cluster_id": 36,
+    "cluster_type": "individual",
+    "section_header": "emissions targets and climate goals",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Sequester carbon through ecosystem restoration, including increased urban tree canopy, green infrastructure, and compost application.",
+      "verbatim_text": "TABLE 6: 2021 CLIMATE ACTION GOALS\nROOTS  Sequestering carbon through ecosystem restoration, including increased urban tree canopy, green infrastructure, and compost application.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "EMISSIONS TARGETS AND CLIMATE GOALS",
+      "sector": "AFOLU",
+      "extraction_rationale": "Explicit sequestration goal specifying nature-based solution types."
+    }
+  },
+  {
+    "cluster_id": 37,
+    "cluster_type": "individual",
+    "section_header": "transparency and reporting / next steps for implementing the cap",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Create a robust monitoring, evaluation, and reporting (MER) system (including a public-facing dashboard) and report on progress toward CAP targets/goals/strategies annually; formally update the CAP every five years.",
+      "verbatim_text": "The CAP must and will be revisited and updated regularly, with a formal update every five years.\n\nTo that end, the City will create a robust and accessible monitoring, evaluation, and reporting system to track and review the intended results and real progress of the targets, goals, strategies, and actions.\n\nOngoing and transparent reporting on key performance indicators, which is to occur annually, will be critical to measure progress against goals and allow for adjustments based on changing conditions. Future CAP updates will occur once every five years and will capture new and ongoing gaps and concerns.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "TRANSPARENCY AND REPORTING / NEXT STEPS FOR IMPLEMENTING THE CAP",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Explicit commitment to create MER system with annual reporting and a defined five-year formal update cycle."
+    }
+  },
+  {
+    "cluster_id": 38,
+    "cluster_type": "individual",
+    "section_header": "funding the cap",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Create an interdepartmental climate finance working group; develop detailed CAP action cost estimates; identify existing funding opportunities and gaps; investigate new/increased taxes; and pursue grants to fund CAP implementation.",
+      "verbatim_text": "Overall, recommended next steps include:\n\n1. Create an interdepartmental climate finance working group to assess the economic, social, political, and administrative viability of securing new funding sources.\n\n2. Develop a detailed cost estimate for implementing CAP actions (beyond high-level estimates in the CAP).\n\n3. Identify all opportunities to fund CAP strategies from existing funding sources and approved measures.\n\n4. Assess which CAP strategies are not funded or partially funded to identify funding gaps.\n\n5. Investigate a new tax (carbon tax, food tax) and/or increase existing taxes (sales tax, property tax) as a major contributor to reducing funding gaps.\n\n6. Seek out and apply for relevant federal, state, and local grant opportunities...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "FUNDING THE CAP",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Specific implementation finance actions enumerated as recommended next steps, including potential new taxes and a formal working group."
+    }
+  },
+  {
+    "cluster_id": 39,
+    "cluster_type": "individual",
+    "section_header": "bold, collective action",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "The City will take steps to create a new Climate Equity Hub to engage diverse communities in ongoing emissions-reduction and sustainability transition efforts.",
+      "verbatim_text": "In 2021, after passionate advocacy from local stakeholders inspired to act by the unfolding climate emergency, the City allocated dedicated funding to develop a detailed analysis of the cost of CAP implementation and identify reliable funding models that would be most successful in San Francisco. It will also take steps to create a new\n\nClimate Equity Hub to ensure San Francisco's diverse communities are engaged in the ongoing efforts to reduce emissions and transition to a more sustainable future.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "BOLD, COLLECTIVE ACTION",
+      "sector": "Cross-sector",
+      "extraction_rationale": "This is an explicit commitment by the City to take action to create a named institution/entity (Climate Equity Hub) with a defined purpose (community engagement in emissions reduction and transition)."
+    }
+  },
+  {
+    "cluster_id": 40,
+    "cluster_type": "individual",
+    "section_header": "building operations model",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "San Francisco requires new construction (as of June 2021) to be all-electric, resulting in no on-site fossil fuel combustion starting in 2021 for new buildings in the CAP analysis.",
+      "verbatim_text": "New construction is required to meet efficiency and safety standards in effect at the time of construction. As of June 2021, new construction in San Francisco is required to be all-electric, so the CAP analysis shows new construction has no on-site fossil fuel combustion starting in 2021.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "BUILDING OPERATIONS MODEL",
+      "sector": "Buildings",
+      "extraction_rationale": "The text states a regulatory requirement (“required to be all-electric”) tied to a date and outcome (no on-site fossil fuel combustion starting in 2021), qualifying as a binding mechanism."
+    }
+  },
+  {
+    "cluster_id": 41,
+    "cluster_type": "individual",
+    "section_header": "building operations model",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "To meet San Francisco's goal of zero emissions by 2040, all existing buildings must be renovated or replaced by 2040.",
+      "verbatim_text": "As buildings are retrofitted and renovated, the stock of existing buildings decreases in this model. To meet San Francisco's goal of zero emissions by 2040, 100% of existing buildings must be renovated or replaced by 2040.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "BUILDING OPERATIONS MODEL",
+      "sector": "Buildings",
+      "extraction_rationale": "This is a quantified, deadline-based requirement explicitly linked to achieving the City's 2040 zero-emissions goal; it functions as a policy target/condition."
+    }
+  },
+  {
+    "cluster_id": 42,
+    "cluster_type": "individual",
+    "section_header": "## recommendations for next steps",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Create an interdepartmental climate finance working group to assess the viability of securing new funding sources and identify targeted funding solutions for CAP implementation across six sectors.",
+      "verbatim_text": "Create an interdepartmental climate finance working group to assess the economic, social, political, and administrative viability of securing new funding sources and identify targeted funding solutions for CAP implementation across the six sectors.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Recommendations for next steps:",
+      "sector": "Cross-sector",
+      "extraction_rationale": "A specific, actionable implementation step (creation of a working group) stated as a recommendation for next steps to fund/finance CAP implementation."
+    }
+  },
+  {
+    "cluster_id": 43,
+    "cluster_type": "individual",
+    "section_header": "## recommendations for next steps",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Develop a detailed cost estimate for implementing CAP actions.",
+      "verbatim_text": "Develop a detailed cost estimate for implementing CAP actions - currently the CAP has only identified strategies and actions needed to meet the City's climate goals, along with and ROM costs",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Recommendations for next steps:",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Concrete administrative action (produce a detailed cost estimate) tied to CAP implementation funding planning."
+    }
+  },
+  {
+    "cluster_id": 44,
+    "cluster_type": "individual",
+    "section_header": "## recommendations for next steps",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Identify opportunities to fund CAP strategies from existing funding sources and approved measures, including accounting for how much of the CAP is already funded through current revenue streams, activities, and bonds.",
+      "verbatim_text": "Identify all opportunities to fund CAP strategies from existing funding sources and approved measures. Accounting for how much of CAP is already funded through City's current revenue streams, activities, and bonds is imperative to move forward.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Recommendations for next steps:",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Specific intervention: conduct a comprehensive identification/accounting exercise to align CAP strategies with existing funding sources."
+    }
+  },
+  {
+    "cluster_id": 45,
+    "cluster_type": "individual",
+    "section_header": "## recommendations for next steps",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Assess which CAP strategies are not funded or partially funded to identify funding gaps.",
+      "verbatim_text": "Assess which CAP strategies are not funded or partially funded to identify funding gaps.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Recommendations for next steps:",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Clear directive to perform a gap assessment; actionable planning step to support CAP implementation."
+    }
+  },
+  {
+    "cluster_id": 46,
+    "cluster_type": "individual",
+    "section_header": "## recommendations for next steps",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Investigate a new tax (e.g., carbon tax or food tax) and/or increase existing taxes (e.g., sales tax or property tax) to help reduce CAP implementation funding gaps.",
+      "verbatim_text": "Investigate a new tax (carbon tax, food tax) and/or increase existing taxes (sales tax, property tax) as a major contributor to reducing funding gaps.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Recommendations for next steps:",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Identifies a concrete fiscal policy action to pursue (investigate new/increased taxes) explicitly linked to closing CAP funding gaps."
+    }
+  },
+  {
+    "cluster_id": 47,
+    "cluster_type": "individual",
+    "section_header": "## recommendations for next steps",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Seek out and apply for relevant federal, state, and local grant opportunities to provide seed funding for implementing CAP strategies and supporting activities (e.g., community engagement or technical analysis).",
+      "verbatim_text": "Seek out and apply for relevant federal, state, and local grant opportunities which can serve as important seed funding for implementing CAP strategies or other supporting activities such as community engagement or technical analysis.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Recommendations for next steps:",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Actionable commitment to pursue external grant funding; includes explicit actions (seek out and apply) and purpose (seed funding for CAP)."
+    }
+  }
+]

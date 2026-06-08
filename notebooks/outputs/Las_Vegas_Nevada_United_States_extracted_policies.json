@@ -1,0 +1,515 @@
+[
+  {
+    "policy_statement": "Adopt and use the 2050 Las Vegas Master Plan as the City’s comprehensive roadmap with clear and measurable goals to guide future growth and development, align capital improvement projects, and coordinate City programming.",
+    "verbatim_text": "It provides the City and its constituents with a strategic set of clear and measurable goals to guide future growth  and  development,  align  capital  improvement  projects,  and  coordinate City  programming.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "ABOUT THE 2050 LAS VEGAS MASTER PLAN",
+    "sector": "Cross-sector",
+    "extraction_rationale": "A formal city master plan establishing measurable goals and directing alignment of capital improvement projects and programming is an actionable policy commitment."
+  },
+  {
+    "policy_statement": "Prioritize higher-density mixed-use, transit-oriented development (TOD) corridors and related zoning/code updates as part of the 2050 General Plan infill strategy, including new place types and modest amendments to Title 19.",
+    "verbatim_text": "To accomplish an infill strategy that ties with many additional goals throughout the plan, the plan links identified regional centers with mixed-use transit-oriented development (TOD) corridors, accented at key nodes. These corridors must be prioritized for higher density development that integrates a diverse range of affordable housing types... and modest amendments to Title 19, including:",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2050 GENERAL PLAN",
+    "sector": "Transport",
+    "extraction_rationale": "Contains a directive ('must be prioritized') and specifies regulatory action (amendments to Title 19) tied to TOD corridors."
+  },
+  {
+    "policy_statement": "Urban Forestry (green infrastructure for heat mitigation): take steps to reduce heat hazards with appropriate green infrastructure.",
+    "verbatim_text": "Due to notable increases in the urban heat island effect, steps must be taken to reduce heat hazards with appropriate green infrastructure, including:",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "URBAN FORESTRY",
+    "sector": "Adaptation",
+    "extraction_rationale": "Introduces an action area with a following list of specific measures, functioning as an umbrella for sub-policies."
+  },
+  {
+    "policy_statement": "Amend Las Vegas Municipal Code (LVMC) and zoning related to trees.",
+    "verbatim_text": "Due to notable increases in the urban heat island effect, steps must be taken to reduce heat hazards with appropriate green infrastructure, including:\n\n- LVMC and zoning amendments for trees",
+    "policy_type": "sub",
+    "parent_policy_name": "Urban Forestry (green infrastructure for heat mitigation): take steps to reduce heat hazards with appropriate green infrastructure.",
+    "section_header": "URBAN FORESTRY",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific regulatory action listed under the Urban Forestry action area."
+  },
+  {
+    "policy_statement": "Plant at least 100,000 public and private high-quality native and adaptive trees to increase canopy to 20%.",
+    "verbatim_text": "Due to notable increases in the urban heat island effect, steps must be taken to reduce heat hazards with appropriate green infrastructure, including:\n\n- At least 100,000 public and private high quality, native and adaptive trees that increase the canopy are planted to increase the canopy to 20%",
+    "policy_type": "sub",
+    "parent_policy_name": "Urban Forestry (green infrastructure for heat mitigation): take steps to reduce heat hazards with appropriate green infrastructure.",
+    "section_header": "URBAN FORESTRY",
+    "sector": "Adaptation",
+    "extraction_rationale": "Quantified target (100,000 trees; 20% canopy) is a clear, measurable policy commitment."
+  },
+  {
+    "policy_statement": "Parks and Connectivity: implement park planning and access targets to improve quality of life.",
+    "verbatim_text": "As a result, the City will\n\n- Develop  a  Parks  System  Plan  and  achieve  CAPRA certification\n- Increase park acreage to 7 acres per 1,000 residents, specifically in noted areas of need\n- Ensure 85% of dwelling units are within a short walk of a park or trail",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "PARKS AND CONNECTIVITY",
+    "sector": "Adaptation",
+    "extraction_rationale": "Introduces a set of commitments with multiple listed actions and quantitative targets; suitable as parent with sub-items."
+  },
+  {
+    "policy_statement": "Develop a Parks System Plan and achieve CAPRA certification.",
+    "verbatim_text": "As a result, the City will\n\n- Develop  a  Parks  System  Plan  and  achieve  CAPRA certification",
+    "policy_type": "sub",
+    "parent_policy_name": "Parks and Connectivity: implement park planning and access targets to improve quality of life.",
+    "section_header": "PARKS AND CONNECTIVITY",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete action (plan development) plus certification goal."
+  },
+  {
+    "policy_statement": "Increase park acreage to 7 acres per 1,000 residents, specifically in noted areas of need.",
+    "verbatim_text": "- Increase park acreage to 7 acres per 1,000 residents, specifically in noted areas of need",
+    "policy_type": "sub",
+    "parent_policy_name": "Parks and Connectivity: implement park planning and access targets to improve quality of life.",
+    "section_header": "PARKS AND CONNECTIVITY",
+    "sector": "Adaptation",
+    "extraction_rationale": "Quantified service level target for parks."
+  },
+  {
+    "policy_statement": "Ensure 85% of dwelling units are within a short walk of a park or trail.",
+    "verbatim_text": "- Ensure 85% of dwelling units are within a short walk of a park or trail",
+    "policy_type": "sub",
+    "parent_policy_name": "Parks and Connectivity: implement park planning and access targets to improve quality of life.",
+    "section_header": "PARKS AND CONNECTIVITY",
+    "sector": "Adaptation",
+    "extraction_rationale": "Quantified access target."
+  },
+  {
+    "policy_statement": "Food and Urban Agriculture: take actions to improve healthy food access and allow small agricultural uses.",
+    "verbatim_text": "To supplement these efforts, the City must ensure:\n\n- No food deserts and reduce food swamps by increasing healthy food access\n- Provide accessibility to community gardens and increase allowable small agricultural uses",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "FOOD AND URBAN AGRICULTURE",
+    "sector": "Agriculture",
+    "extraction_rationale": "Heading introduces a policy area with a list of specific actions; 'must ensure' indicates commitment."
+  },
+  {
+    "policy_statement": "Eliminate food deserts and reduce food swamps by increasing healthy food access.",
+    "verbatim_text": "- No food deserts and reduce food swamps by increasing healthy food access",
+    "policy_type": "sub",
+    "parent_policy_name": "Food and Urban Agriculture: take actions to improve healthy food access and allow small agricultural uses.",
+    "section_header": "FOOD AND URBAN AGRICULTURE",
+    "sector": "Agriculture",
+    "extraction_rationale": "Specific outcome commitment related to food access."
+  },
+  {
+    "policy_statement": "Provide accessibility to community gardens and increase allowable small agricultural uses.",
+    "verbatim_text": "- Provide accessibility to community gardens and increase allowable small agricultural uses",
+    "policy_type": "sub",
+    "parent_policy_name": "Food and Urban Agriculture: take actions to improve healthy food access and allow small agricultural uses.",
+    "section_header": "FOOD AND URBAN AGRICULTURE",
+    "sector": "Agriculture",
+    "extraction_rationale": "Concrete land-use/allowance change plus access action."
+  },
+  {
+    "policy_statement": "Environmental Justice: prioritize reducing exposure and risk to low-income and minority communities, especially for new transportation and infrastructure projects.",
+    "verbatim_text": "Reducing  exposure  and  risk  to  low-income  and  minority communities must be prioritized, especially for new transportation and infrastructure projects. The City must:",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "ENVIRONMENTAL JUSTICE",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Introduces mandatory prioritization with a subsequent list of required actions."
+  },
+  {
+    "policy_statement": "Ensure an air quality index of 100 or better.",
+    "verbatim_text": "The City must:\n\n- Ensure an air quality index of 100 or better",
+    "policy_type": "sub",
+    "parent_policy_name": "Environmental Justice: prioritize reducing exposure and risk to low-income and minority communities, especially for new transportation and infrastructure projects.",
+    "section_header": "ENVIRONMENTAL JUSTICE",
+    "sector": "Health",
+    "extraction_rationale": "Quantified environmental quality target."
+  },
+  {
+    "policy_statement": "Eliminate brownfields within the City through redevelopment.",
+    "verbatim_text": "- Eliminate brownfields within the City by redevelopment",
+    "policy_type": "sub",
+    "parent_policy_name": "Environmental Justice: prioritize reducing exposure and risk to low-income and minority communities, especially for new transportation and infrastructure projects.",
+    "section_header": "ENVIRONMENTAL JUSTICE",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Specific intervention: redevelopment to eliminate brownfields."
+  },
+  {
+    "policy_statement": "Improve stormwater pollution prevention efforts.",
+    "verbatim_text": "- Improve stormwater pollution prevention efforts",
+    "policy_type": "sub",
+    "parent_policy_name": "Environmental Justice: prioritize reducing exposure and risk to low-income and minority communities, especially for new transportation and infrastructure projects.",
+    "section_header": "ENVIRONMENTAL JUSTICE",
+    "sector": "Water",
+    "extraction_rationale": "Concrete environmental management action."
+  },
+  {
+    "policy_statement": "Engage residents of all races, ethnicities, abilities, and means in the planning and transportation decision-making process.",
+    "verbatim_text": "- Engage residents of all races, ethnicities, abilities and means  in  the  planning  and  transportation  decisionmaking process",
+    "policy_type": "sub",
+    "parent_policy_name": "Environmental Justice: prioritize reducing exposure and risk to low-income and minority communities, especially for new transportation and infrastructure projects.",
+    "section_header": "ENVIRONMENTAL JUSTICE",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Specific governance/participation requirement tied to planning and transportation."
+  },
+  {
+    "policy_statement": "Equitable Education: implement actions to improve K-12 outcomes, early education coordination, and teacher attraction/education.",
+    "verbatim_text": "The City recognizes that education is an important quality of life issue and is building upon the successes fostered by the City's Department of Youth Development and Social Innovation:\n\n- Ensure equitable  improvement of  overall  educational outcomes for K-12\n- Enhance early education programs and support coordinated efforts with Clark County School District\n- Attract or educate new teachers",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "EQUITABLE EDUCATION",
+    "sector": "Cross-sector",
+    "extraction_rationale": "A list of City actions/commitments under a defined heading; actionable though some items are broad."
+  },
+  {
+    "policy_statement": "Ensure equitable improvement of overall educational outcomes for K-12.",
+    "verbatim_text": "- Ensure equitable  improvement of  overall  educational outcomes for K-12",
+    "policy_type": "sub",
+    "parent_policy_name": "Equitable Education: implement actions to improve K-12 outcomes, early education coordination, and teacher attraction/education.",
+    "section_header": "EQUITABLE EDUCATION",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Explicit commitment to improve outcomes (equity-focused)."
+  },
+  {
+    "policy_statement": "Enhance early education programs and support coordinated efforts with the Clark County School District.",
+    "verbatim_text": "- Enhance early education programs and support coordinated efforts with Clark County School District",
+    "policy_type": "sub",
+    "parent_policy_name": "Equitable Education: implement actions to improve K-12 outcomes, early education coordination, and teacher attraction/education.",
+    "section_header": "EQUITABLE EDUCATION",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Specific programmatic coordination action."
+  },
+  {
+    "policy_statement": "Attract or educate new teachers.",
+    "verbatim_text": "- Attract or educate new teachers",
+    "policy_type": "sub",
+    "parent_policy_name": "Equitable Education: implement actions to improve K-12 outcomes, early education coordination, and teacher attraction/education.",
+    "section_header": "EQUITABLE EDUCATION",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Explicit action item (though not quantified)."
+  },
+  {
+    "policy_statement": "Improve the development process for new schools and prioritize construction of 30 new schools and classroom additions.",
+    "verbatim_text": "the  City  must  improve  the  development process for new schools and prioritize construction of 30 new schools and classroom additions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "LINK SCHOOL FACILITIES WITH LAND USE",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Clear 'must' directive plus quantified construction priority (30 new schools)."
+  },
+  {
+    "policy_statement": "Economic & Workforce Development: implement actions aligned with the regional Comprehensive Economic Development Strategy to diversify the economy, including target industry promotion, partnerships, and new workforce institutions.",
+    "verbatim_text": "Alignment  of  Economic  and  Urban  Development's  efforts with  the  region's  Comprehensive  Economic  Development Strategy to diversify the economy will make Las Vegas more competitive in the 21st Century by:\n\n- Promoting and attracting occupations in target industries, including gaming and tourism, technology, health care, global finance, clean energy, logistics, and light manufacturing\n- Developing  new  partnerships  with  UNLV  and  CSN, expand campuses, and develop workforce training in identified areas\n- Requesting  development  of  a  new  2-4  year  NSHE institution  tailored  toward  workforce  development  in target sectors",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "ECONOMIC & WORKFORCE DEVELOPMENT",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Defines an approach with multiple specific actions listed."
+  },
+  {
+    "policy_statement": "Promote and attract occupations in target industries, including clean energy among others.",
+    "verbatim_text": "- Promoting and attracting occupations in target industries, including gaming and tourism, technology, health care, global finance, clean energy, logistics, and light manufacturing",
+    "policy_type": "sub",
+    "parent_policy_name": "Economic & Workforce Development: implement actions aligned with the regional Comprehensive Economic Development Strategy to diversify the economy, including target industry promotion, partnerships, and new workforce institutions.",
+    "section_header": "ECONOMIC & WORKFORCE DEVELOPMENT",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Specific economic development intervention including a climate-relevant sector (clean energy)."
+  },
+  {
+    "policy_statement": "Develop partnerships with UNLV and CSN, expand campuses, and develop workforce training in identified areas.",
+    "verbatim_text": "- Developing  new  partnerships  with  UNLV  and  CSN, expand campuses, and develop workforce training in identified areas",
+    "policy_type": "sub",
+    "parent_policy_name": "Economic & Workforce Development: implement actions aligned with the regional Comprehensive Economic Development Strategy to diversify the economy, including target industry promotion, partnerships, and new workforce institutions.",
+    "section_header": "ECONOMIC & WORKFORCE DEVELOPMENT",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Specific partnership and training actions."
+  },
+  {
+    "policy_statement": "Request development of a new 2–4 year NSHE institution tailored toward workforce development in target sectors.",
+    "verbatim_text": "- Requesting  development  of  a  new  2-4  year  NSHE institution  tailored  toward  workforce  development  in target sectors",
+    "policy_type": "sub",
+    "parent_policy_name": "Economic & Workforce Development: implement actions aligned with the regional Comprehensive Economic Development Strategy to diversify the economy, including target industry promotion, partnerships, and new workforce institutions.",
+    "section_header": "ECONOMIC & WORKFORCE DEVELOPMENT",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Concrete institutional development request with defined duration (2–4 year)."
+  },
+  {
+    "policy_statement": "Housing: improve the diversity of housing types with TOD, infill, and diverse housing options by removing zoning barriers, incentivizing and integrating affordable housing, and providing financial tools for housing stakeholders.",
+    "verbatim_text": "the City must improve the diversity of housing types with TOD, infill, and diverse housing options identified for each area of the city:\n\n- Through  removal  of  zoning  barriers  and  incentivizing and integrating affordable housing\n- By increasing affordable housing options and removing barriers to affordability\n- By providing financial tools and strategies for developers, homeowners, and investors",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "HOUSING",
+    "sector": "Buildings",
+    "extraction_rationale": "Uses 'must' and provides a list of specific mechanisms (zoning barriers removal, incentives, financial tools)."
+  },
+  {
+    "policy_statement": "Remove zoning barriers and incentivize and integrate affordable housing.",
+    "verbatim_text": "- Through  removal  of  zoning  barriers  and  incentivizing and integrating affordable housing",
+    "policy_type": "sub",
+    "parent_policy_name": "Housing: improve the diversity of housing types with TOD, infill, and diverse housing options by removing zoning barriers, incentivizing and integrating affordable housing, and providing financial tools for housing stakeholders.",
+    "section_header": "HOUSING",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific regulatory and incentive actions."
+  },
+  {
+    "policy_statement": "Increase affordable housing options and remove barriers to affordability.",
+    "verbatim_text": "- By increasing affordable housing options and removing barriers to affordability",
+    "policy_type": "sub",
+    "parent_policy_name": "Housing: improve the diversity of housing types with TOD, infill, and diverse housing options by removing zoning barriers, incentivizing and integrating affordable housing, and providing financial tools for housing stakeholders.",
+    "section_header": "HOUSING",
+    "sector": "Buildings",
+    "extraction_rationale": "Explicit action to increase affordability with barrier removal."
+  },
+  {
+    "policy_statement": "Provide financial tools and strategies for developers, homeowners, and investors.",
+    "verbatim_text": "- By providing financial tools and strategies for developers, homeowners, and investors",
+    "policy_type": "sub",
+    "parent_policy_name": "Housing: improve the diversity of housing types with TOD, infill, and diverse housing options by removing zoning barriers, incentivizing and integrating affordable housing, and providing financial tools for housing stakeholders.",
+    "section_header": "HOUSING",
+    "sector": "Buildings",
+    "extraction_rationale": "Resource/finance mechanism commitment (though not quantified)."
+  },
+  {
+    "policy_statement": "Homelessness: continue and enhance coordinated prevention, diversion, and regional measures to reduce the total unsheltered homeless population by 50% and achieve functional zero homelessness in 2050.",
+    "verbatim_text": "The plan anticipates to continue and enhance coordinated provision  of  early  and  direct  prevention  and  diversion measures  with  regional  stakeholders  to  reduce  the  total unsheltered homeless population by 50%, with functional zero homelessness in 2050.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "HOMELESSNESS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Quantified reduction target (50%) and defined end-state (functional zero by 2050) with specified approach."
+  },
+  {
+    "policy_statement": "Continue to play an intervention role with the City’s Courtyard and MORE team.",
+    "verbatim_text": "- Continue  to  play  an  intervention  role  with  the  City's Courtyard and MORE team",
+    "policy_type": "sub",
+    "parent_policy_name": "Homelessness: continue and enhance coordinated prevention, diversion, and regional measures to reduce the total unsheltered homeless population by 50% and achieve functional zero homelessness in 2050.",
+    "section_header": "HOMELESSNESS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Named programs/teams and continued intervention role."
+  },
+  {
+    "policy_statement": "Employ a ‘Housing First’ approach.",
+    "verbatim_text": "- Employ a 'Housing First' approach",
+    "policy_type": "sub",
+    "parent_policy_name": "Homelessness: continue and enhance coordinated prevention, diversion, and regional measures to reduce the total unsheltered homeless population by 50% and achieve functional zero homelessness in 2050.",
+    "section_header": "HOMELESSNESS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Specific, recognized policy approach."
+  },
+  {
+    "policy_statement": "Reduce the number of individuals in poverty.",
+    "verbatim_text": "- Reduce the number of individuals in poverty",
+    "policy_type": "sub",
+    "parent_policy_name": "Homelessness: continue and enhance coordinated prevention, diversion, and regional measures to reduce the total unsheltered homeless population by 50% and achieve functional zero homelessness in 2050.",
+    "section_header": "HOMELESSNESS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Explicit outcome goal listed as part of homelessness strategy."
+  },
+  {
+    "policy_statement": "Complete Streets: recommend a new layered Complete Street network to improve the City’s overall modal split and jobs-housing balance and coordinate/completion of major transportation projects with state and regional partners.",
+    "verbatim_text": "The plan recommends a new layered Complete Street network to improve the City's overall modal split and jobs-housing balance... this plan also recommends coordination and completion of major projects with state and regional partners, including:\n\n- the Downtown Access Project and future I-15 improvements\n- Sheep Mountain Pkwy and I-11\n- Summerlin Parkway improvements\n- System-to-System interchanges",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "COMPLETE STREETS",
+    "sector": "Transport",
+    "extraction_rationale": "Introduces a transportation network recommendation with a list of major projects to coordinate/complete."
+  },
+  {
+    "policy_statement": "Coordinate and complete the Downtown Access Project and future I-15 improvements with state and regional partners.",
+    "verbatim_text": "- the Downtown Access Project and future I-15 improvements",
+    "policy_type": "sub",
+    "parent_policy_name": "Complete Streets: recommend a new layered Complete Street network to improve the City’s overall modal split and jobs-housing balance and coordinate/completion of major transportation projects with state and regional partners.",
+    "section_header": "COMPLETE STREETS",
+    "sector": "Transport",
+    "extraction_rationale": "Specific named transportation projects."
+  },
+  {
+    "policy_statement": "Coordinate and complete Sheep Mountain Parkway and I-11 with state and regional partners.",
+    "verbatim_text": "- Sheep Mountain Pkwy and I-11",
+    "policy_type": "sub",
+    "parent_policy_name": "Complete Streets: recommend a new layered Complete Street network to improve the City’s overall modal split and jobs-housing balance and coordinate/completion of major transportation projects with state and regional partners.",
+    "section_header": "COMPLETE STREETS",
+    "sector": "Transport",
+    "extraction_rationale": "Specific named transportation corridors/projects."
+  },
+  {
+    "policy_statement": "Coordinate and complete Summerlin Parkway improvements with state and regional partners.",
+    "verbatim_text": "- Summerlin Parkway improvements",
+    "policy_type": "sub",
+    "parent_policy_name": "Complete Streets: recommend a new layered Complete Street network to improve the City’s overall modal split and jobs-housing balance and coordinate/completion of major transportation projects with state and regional partners.",
+    "section_header": "COMPLETE STREETS",
+    "sector": "Transport",
+    "extraction_rationale": "Specific improvement action for a named corridor."
+  },
+  {
+    "policy_statement": "Coordinate and complete system-to-system interchanges with state and regional partners.",
+    "verbatim_text": "- System-to-System interchanges",
+    "policy_type": "sub",
+    "parent_policy_name": "Complete Streets: recommend a new layered Complete Street network to improve the City’s overall modal split and jobs-housing balance and coordinate/completion of major transportation projects with state and regional partners.",
+    "section_header": "COMPLETE STREETS",
+    "sector": "Transport",
+    "extraction_rationale": "Specific project type included in the list."
+  },
+  {
+    "policy_statement": "Transit: the City and RTC must develop and implement recommendations from RTC’s On Board Mobility Plan to enable high-capacity transit on key TOD corridors (including Maryland Pkwy, Charleston Blvd, Decatur Blvd, Sahara Ave, and Las Vegas Blvd).",
+    "verbatim_text": "the  City  and  RTC  must  develop  and  implement  the recommendations  from  RTC's  On  Board  Mobility  Plan that  will  enable  high  capacity  transit  to  be  built  on  key TOD corridors, including Maryland Pkwy, Charleston Blvd, Decatur Blvd, Sahara Ave, and Las Vegas Blvd.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TRANSIT",
+    "sector": "Transport",
+    "extraction_rationale": "Uses 'must' and specifies implementing a named plan to deliver high-capacity transit on identified corridors."
+  },
+  {
+    "policy_statement": "Smart Systems: implement the Smarter Vegas plan, a citywide fiber network, and transportation electrification to enable connected and autonomous vehicles and other options.",
+    "verbatim_text": "Implementing  the  Smarter  Vegas  plan,  a  citywide  fiber network,  and  transportation  electrification  will  enable  a range of new options, including connected and autonomous vehicles.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "SMART SYSTEMS",
+    "sector": "Transport",
+    "extraction_rationale": "Specific interventions named (Smarter Vegas plan, fiber network, transportation electrification) with intended outcomes."
+  },
+  {
+    "policy_statement": "Water conservation: align with SNWA Water Resources Plan and target reducing water consumption to 90 gallons per person per day using code changes, pricing, incentives, and education.",
+    "verbatim_text": "this plan is closely linked to  Southern  Nevada  Water  Authority's  Water  Resources Plan  and  aligns  a  target  to  reduce  water  consumption  to 90 gallons per person per day. This can be done by making corresponding code changes, pricing, incentives, and education efforts",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "WATER",
+    "sector": "Water",
+    "extraction_rationale": "Quantified target (90 gpcd) and specified implementation mechanisms."
+  },
+  {
+    "policy_statement": "Energy: increase the overall share of renewable energy in municipal operations and the community in line with the state’s renewable portfolio standard while reducing energy consumption.",
+    "verbatim_text": "This plan will enable both municipal operations and the community to increase its overall share of  renewable  energy  in  line  with  the  state's  renewable portfolio standard while reducing energy consumption.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "ENERGY",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit commitment to increase renewable share and reduce consumption, anchored to the state RPS."
+  },
+  {
+    "policy_statement": "Waste: work with the City’s franchisee and explore new waste management opportunities to improve recycling rates and reduce municipal solid waste.",
+    "verbatim_text": "Through close work with the City's franchisee and exploring new waste management opportunities, the City can continue  to  improve  both  its  municipal  and  community recycling rates and reduce municipal solid waste.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "WASTE",
+    "sector": "Waste",
+    "extraction_rationale": "Defines concrete actions (work with franchisee, explore opportunities) and intended outcomes (improve recycling, reduce MSW)."
+  },
+  {
+    "policy_statement": "Greenhouse gas emissions: work to attain municipal and community carbon neutrality through reductions from stationary and mobile emission sources.",
+    "verbatim_text": "the City will boldly work to attain municipal and community carbon neutrality  through  reductions  from  stationary  and  mobile sources of emissions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "GREENHOUSE GAS EMISSIONS",
+    "sector": "Energy",
+    "extraction_rationale": "Clear mitigation goal (carbon neutrality) and identifies major source categories."
+  },
+  {
+    "policy_statement": "Public Health and Social Services: improve community health indicators by adopting Health-in-all-policies, expanding healthcare capacity and access, completing UNLV School of Medicine build-out, and developing local Health and Wellness Centers.",
+    "verbatim_text": "the  City  must  work  to  improve  community health indicators by:\n\n- Adopting Health-in-all-policies and strengthening partnerships with Southern Nevada Health District\n- Increasing hospital and ICU capacity, as well as health care access in medically underserved areas\n- Completing the build-out of the UNLV School of Medicine and leverage the Las Vegas Medical District\n- Developing local Health and Wellness Centers",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "PUBLIC HEALTH AND SOCIAL SERVICES",
+    "sector": "Health",
+    "extraction_rationale": "Uses 'must' and lists multiple specific interventions under a single heading."
+  },
+  {
+    "policy_statement": "Adopt Health-in-all-policies and strengthen partnerships with the Southern Nevada Health District.",
+    "verbatim_text": "- Adopting Health-in-all-policies and strengthening partnerships with Southern Nevada Health District",
+    "policy_type": "sub",
+    "parent_policy_name": "Public Health and Social Services: improve community health indicators by adopting Health-in-all-policies, expanding healthcare capacity and access, completing UNLV School of Medicine build-out, and developing local Health and Wellness Centers.",
+    "section_header": "PUBLIC HEALTH AND SOCIAL SERVICES",
+    "sector": "Health",
+    "extraction_rationale": "Specific policy framework adoption plus partnership strengthening."
+  },
+  {
+    "policy_statement": "Increase hospital and ICU capacity and improve healthcare access in medically underserved areas.",
+    "verbatim_text": "- Increasing hospital and ICU capacity, as well as health care access in medically underserved areas",
+    "policy_type": "sub",
+    "parent_policy_name": "Public Health and Social Services: improve community health indicators by adopting Health-in-all-policies, expanding healthcare capacity and access, completing UNLV School of Medicine build-out, and developing local Health and Wellness Centers.",
+    "section_header": "PUBLIC HEALTH AND SOCIAL SERVICES",
+    "sector": "Health",
+    "extraction_rationale": "Concrete capacity/access expansion actions."
+  },
+  {
+    "policy_statement": "Complete the build-out of the UNLV School of Medicine and leverage the Las Vegas Medical District.",
+    "verbatim_text": "- Completing the build-out of the UNLV School of Medicine and leverage the Las Vegas Medical District",
+    "policy_type": "sub",
+    "parent_policy_name": "Public Health and Social Services: improve community health indicators by adopting Health-in-all-policies, expanding healthcare capacity and access, completing UNLV School of Medicine build-out, and developing local Health and Wellness Centers.",
+    "section_header": "PUBLIC HEALTH AND SOCIAL SERVICES",
+    "sector": "Health",
+    "extraction_rationale": "Specific institutional infrastructure completion action."
+  },
+  {
+    "policy_statement": "Develop local Health and Wellness Centers.",
+    "verbatim_text": "- Developing local Health and Wellness Centers",
+    "policy_type": "sub",
+    "parent_policy_name": "Public Health and Social Services: improve community health indicators by adopting Health-in-all-policies, expanding healthcare capacity and access, completing UNLV School of Medicine build-out, and developing local Health and Wellness Centers.",
+    "section_header": "PUBLIC HEALTH AND SOCIAL SERVICES",
+    "sector": "Health",
+    "extraction_rationale": "Concrete facility/service development action."
+  },
+  {
+    "policy_statement": "Public Safety: develop a proactive, collaborative Safe Communities strategy for each area that maintains Fire and Rescue accreditations, maintains LVMPD sworn officer strength, and adds a new LVMPD area command and fire stations.",
+    "verbatim_text": "This plan recommends the development of a proactive, collaborative, Safe Communities strategy for each area that is community oriented and inclusive that:\n\n- Maintains Fire and Rescue accreditations\n- Maintains LVMPD sworn officer strength\n- Adds a new LVMPD area command and fire stations",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "PUBLIC SAFETY",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Recommendation to develop a specific strategy with listed, concrete operational/infrastructure elements."
+  },
+  {
+    "policy_statement": "Maintain Fire and Rescue accreditations.",
+    "verbatim_text": "- Maintains Fire and Rescue accreditations",
+    "policy_type": "sub",
+    "parent_policy_name": "Public Safety: develop a proactive, collaborative Safe Communities strategy for each area that maintains Fire and Rescue accreditations, maintains LVMPD sworn officer strength, and adds a new LVMPD area command and fire stations.",
+    "section_header": "PUBLIC SAFETY",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Specific operational commitment."
+  },
+  {
+    "policy_statement": "Maintain LVMPD sworn officer strength.",
+    "verbatim_text": "- Maintains LVMPD sworn officer strength",
+    "policy_type": "sub",
+    "parent_policy_name": "Public Safety: develop a proactive, collaborative Safe Communities strategy for each area that maintains Fire and Rescue accreditations, maintains LVMPD sworn officer strength, and adds a new LVMPD area command and fire stations.",
+    "section_header": "PUBLIC SAFETY",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Specific staffing commitment (not quantified but explicit)."
+  },
+  {
+    "policy_statement": "Add a new LVMPD area command and fire stations.",
+    "verbatim_text": "- Adds a new LVMPD area command and fire stations",
+    "policy_type": "sub",
+    "parent_policy_name": "Public Safety: develop a proactive, collaborative Safe Communities strategy for each area that maintains Fire and Rescue accreditations, maintains LVMPD sworn officer strength, and adds a new LVMPD area command and fire stations.",
+    "section_header": "PUBLIC SAFETY",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Concrete infrastructure/organizational expansion action."
+  },
+  {
+    "policy_statement": "Implementation and accountability: publish a prepared annual report to evaluate and discuss annual progress and implementation of plan outcomes, including the 'Fifty by '50' outcomes.",
+    "verbatim_text": "For  transparent  communication  of  the  plan's  outcomes and performance, the City will publish a prepared annual report to  evaluate  and  discuss  annual  progress  and implementation of the plan, progress of the 'Fifty by '50'\n\noutcomes  and  others  highlighted  for each  goal,  and  recommendations  for plan improvement.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "FIFTY BY '50",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Clear commitment ('will publish') establishing a monitoring/reporting mechanism."
+  },
+  {
+    "policy_statement": "Adopt 2-year strategic action plans by City Council and city management to implement strategies and achieve outcomes.",
+    "verbatim_text": "The  plan  recommends  that  the  City  Council  and  city management adopt 2-year strategic action plans to implement  various  strategies  and  to  achieve  outcomes.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "STRATEGIC ACTION PLANS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Explicit recommendation to adopt time-bound (2-year) strategic action plans."
+  },
+  {
+    "policy_statement": "Align City Council priorities and department strategic business plans with plan outcomes and the budget process and Capital Improvement Program (CIP) during each strategic planning and budgeting process.",
+    "verbatim_text": "For  each  strategic  action  plan,  the  priorities  of  the  City Council  and  department  level  strategic  business  plans are  all  aligned  with  the  plan's  outcomes,  as  well  as  the budget process and CIP.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "STRATEGIC ACTION PLANS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Defines a governance/finance alignment mechanism to implement the plan."
+  }
+]

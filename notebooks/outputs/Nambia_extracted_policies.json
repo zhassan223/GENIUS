@@ -1,0 +1,533 @@
+[
+  {
+    "policy_statement": "Namibia commits to reduce its GHG emissions conditionally by at least 91% of BAU scenario emissions by 2030.",
+    "verbatim_text": "Namibia  commits  to  reduce  its GHG emissions conditionally  by at least 91% of its BAU scenario emissions by 2030.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "EXECUTIVE SUMMARY",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Explicit, quantified economy-wide mitigation target with a deadline (91% below BAU by 2030)."
+  },
+  {
+    "policy_statement": "If sufficient foreign funding and aid is obtained, Namibia will aim to reach net-zero beyond 2030.",
+    "verbatim_text": "In our revised NDC, we have made aggressive proposals to avoid 91% of our BAU emissions by 2030. In addition, if we obtain sufficient foreign funding and aid, we will aim to reach net-zero beyond 2030.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "FOREWORD",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Conditional net-zero commitment linked to external support; includes a clear temporal qualifier ('beyond 2030')."
+  },
+  {
+    "policy_statement": "The National Climate Change Strategy and Action Plan (NCCSAP) 2013–2020 will be replaced by the NDC Implementation Strategy and Action Plan for 2021–2030.",
+    "verbatim_text": "The NCCSAP will be replaced by the NDC Implementation Strategy and Action Plan for 2021-2030. This document  will  clarify  national  goals  and  objectives  regarding  climate  change  and  lay  out  a  plan  for implementing, reporting and monitoring a series of priority activities to implement the updated NDC.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.3.1 Building Namibia's Adaptive and Mitigative Capacities",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Concrete institutional planning commitment with a named strategy/action plan and timeframe (2021–2030)."
+  },
+  {
+    "policy_statement": "Namibia will implement economy-wide targets to reduce greenhouse gas emissions by 91% below 2015 levels by 2030.",
+    "verbatim_text": "Namibia continues to play a part in an effective global response to climate change. Namibia is to implement an economy-wide target to reduce greenhouse gas emissions from 91 per cent below 2015 levels by 2030.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.1 Namibia's commitment",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Stated economy-wide target with a quantified percentage and a deadline."
+  },
+  {
+    "policy_statement": "Namibia commits to reduce its GHG emissions by 14% (limited support) and towards 77% (substantial international support) in 2030 compared to BAU, corresponding to a total reduction of 21.996 MtCO2e.",
+    "verbatim_text": "Namibia commits to reduce its GHG emissions conditionally by 14% (under limited domestic and international support) and towards 77% (with substantial international support) in 2030 compared to the Business As Usual levels,  corresponding  to  a  total  reduction  by  21.996  MtCO2e.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.1 Namibia's commitment",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Quantified conditional/unconditional mitigation levels (percentages and MtCO2e) with a target year."
+  },
+  {
+    "policy_statement": "Namibia aims to generate 330 MW of solar PV per year until 2030, delivering 0.8 TWh (800 GWh) in new renewable generation and contributing to a 30% reduction equivalent in electricity imports (2.668 TWh) relative to 2018.",
+    "verbatim_text": "Namibia's efforts in renewables will contribute to a 30% reduction equivalent in the quantity (2.668 TWh) of electricity imported in 2018 which would result in 0.8 TWh (800 GWh) in new RE generation of 330 MW of Solar PV per annum until 2030.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.4 Mitigation contributions by sector",
+    "sector": "Energy",
+    "extraction_rationale": "Specific quantified renewable energy scale-up target with timeframe (per annum until 2030) and associated generation/import reduction metrics."
+  },
+  {
+    "policy_statement": "Namibia will use fuel economy (FE) and GHG emission standards regulations for light-duty vehicles to drive fuel-efficient technology adoption and reduce carbon emissions by 3% of total GHG emissions by 2030.",
+    "verbatim_text": "Fuel economy (FE) and greenhouse gas (GHG) emission standards regulations will be used as one of the main instruments available to Namibia to achieve significant improvements in fuel consumption and GHG emissions from light-duty vehicles (LDVs).  These  standards through  continued  development  and  application  of  fuel-efficient  technologies  will reduce carbon emissions by 3% of total GHG emissions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.4 Mitigation contributions by sector",
+    "sector": "Transport",
+    "extraction_rationale": "Regulatory instrument explicitly identified (fuel economy/GHG standards) with an emissions reduction percentage."
+  },
+  {
+    "policy_statement": "To prevent lock-in before the first Kigali Amendment phase-down step in 2029, Namibia aims to take early action to reduce HFCs and introduce climate-friendly alternatives, including banning high-GWP equipment and introducing minimum energy performance standards (MEPS).",
+    "verbatim_text": "To prevent lock-in of highly climate-damaging HFC refrigerants in the time between now and the first Kigali Amendment phase-down step in 2029, the Republic of Namibia aims to implement early action on the reduction of HFCs and the introduction of climate-friendly alternatives. Namibia  aims  at  the  introduction  of  climate-friendly  and  energy-efficient  appliances through the inclusion of a ban on high GWP equipment and the introduction of minimum energy performance standards (MEPS) that generate emission reductions",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.4 Mitigation contributions by sector",
+    "sector": "IPPU",
+    "extraction_rationale": "Clear policy actions (early HFC reduction; ban on high-GWP equipment; MEPS) tied to Kigali timeline."
+  },
+  {
+    "policy_statement": "Namibia targets 60% penetration of climate-friendly and energy-efficient residential air conditioners and domestic/commercial refrigeration units by 2030 by switching from inefficient HFC-based equipment to energy-efficient natural refrigerant-based equipment.",
+    "verbatim_text": "The measures aim to achieve a penetration of 60% climatefriendly and energy-efficient residential air conditioners, as well as domestic and commercial refrigeration units by 2030. This will be accomplished by switching from inefficient HFC-based equipment to energy-efficient natural refrigerant-based equipment.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.4 Mitigation contributions by sector",
+    "sector": "IPPU",
+    "extraction_rationale": "Quantified technology penetration target with deadline and specified implementation approach (switching refrigerants/equipment)."
+  },
+  {
+    "policy_statement": "Namibia will complement RAC measures by training technicians on proper servicing/handling of low-GWP refrigerants and safe disposal of old refrigerators and car air-conditioning equipment.",
+    "verbatim_text": "These measures are complemented by training technicians on the proper servicing and handling of low GWP refrigerants. They are to be also trained in the safe and proper disposal of old refrigerators as well as car air conditioning equipment.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.4 Mitigation contributions by sector",
+    "sector": "IPPU",
+    "extraction_rationale": "Specific capacity-building intervention directly linked to mitigation implementation in the RAC sector."
+  },
+  {
+    "policy_statement": "Namibia will reduce the deforestation rate by 75% from 0.9% per year to below 0.25% per year to drive achievement of the 2030 target.",
+    "verbatim_text": "reducing the deforestation rate by 75% from 0.9% per year to below 0.25% will be the major drive to achieving the 2030 target",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.4 Mitigation contributions by sector",
+    "sector": "AFOLU",
+    "extraction_rationale": "Quantified land-use mitigation target with clear baseline and threshold."
+  },
+  {
+    "policy_statement": "Namibia will restore 15.5 million hectares of degraded savanna, expected to reduce emissions by 2.3 Mt CO2e in 2030.",
+    "verbatim_text": "Through the restoration of 15.5 million hectares of degraded savanna, it is expected that 2.3 Mt CO2 equivalent will  be  reduced from total emissions  in 2030 (Table 2.5).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.4 Mitigation contributions by sector",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific intervention with quantified area and quantified mitigation outcome/year."
+  },
+  {
+    "policy_statement": "Namibia targets transforming 70% of municipal solid waste (MSW) into electricity and compost.",
+    "verbatim_text": "24) Transform 70% MSW to electricity and compost",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 2.5. SUMMARY OF ESTIMATED GHG MITIGATION POTENTIAL FROM ALL MEASURES.",
+    "sector": "Waste",
+    "extraction_rationale": "Quantified waste management/energy recovery target explicitly listed as a mitigation measure."
+  },
+  {
+    "policy_statement": "Namibia targets increasing recycling of plastic waste and e-waste by 70%.",
+    "verbatim_text": "25) Increase Recycling of plastic waste and e-waste by 70%",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 2.5. SUMMARY OF ESTIMATED GHG MITIGATION POTENTIAL FROM ALL MEASURES.",
+    "sector": "Waste",
+    "extraction_rationale": "Quantified recycling target explicitly stated as a mitigation measure."
+  },
+  {
+    "policy_statement": "Namibia targets zero waste by 2050 through re-use and recycling, achieving 75% of the target by 2030.",
+    "verbatim_text": "26) Zero waste by 2050 through re-use and recycling (75% of target achieved by 2030)",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 2.5. SUMMARY OF ESTIMATED GHG MITIGATION POTENTIAL FROM ALL MEASURES.",
+    "sector": "Waste",
+    "extraction_rationale": "Long-term quantified target with interim milestone (2050, with 75% by 2030)."
+  },
+  {
+    "policy_statement": "Namibia is currently developing a robust transparency reporting system on its NDC as a final instrument for the national MRV system; new MRV systems will enable monitoring of mitigation/adaptation effectiveness and access to climate finance.",
+    "verbatim_text": "Namibia is currently developing a robust transparency reporting system on its NDC and this would be a final instrument for the national MRV system.    The  new  MRV  systems  will  enable  the  country  to  monitor  the  effectiveness  of  its  mitigation  and adaptation measures including access to the means of implementation particularly climate finance.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Measuring, reporting and verification (MRV) framework",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Concrete institutional system development commitment (MRV/transparency system) with defined purpose."
+  },
+  {
+    "policy_statement": "Provide full support for integrated water resources management in Namibia (2020–2025).",
+    "verbatim_text": "1. Provide full support for integrated water resources management in Namibia",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Numbered adaptation action with a specified intervention (IWRM) and timeline in the table."
+  },
+  {
+    "policy_statement": "Establish best practice systems to improve the efficiency of water use, particularly in irrigation (2020–2025).",
+    "verbatim_text": "2. Establish best practice systems for improving the efficiency of water use particularly in irrigation",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific adaptation measure listed with responsible ministry and timeline in the table."
+  },
+  {
+    "policy_statement": "Coordinate use of surface and groundwater resources and artificially increase groundwater aquifer recharge rates to reduce evaporation (2020–2025).",
+    "verbatim_text": "3. Coordinate use of surface and groundwater resources and artificially increase the recharge rate of groundwater aquifers to reduce evaporation",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete water-sector adaptation intervention with timeline."
+  },
+  {
+    "policy_statement": "Improve water demand management at local level and in agricultural, industrial, mining and tourism sectors (2020–2030).",
+    "verbatim_text": "4. Improve water demand management, particularly at the local level and in the agricultural, industrial, mining and tourism sectors",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specified demand-management action with an explicit implementation timeframe."
+  },
+  {
+    "policy_statement": "Establish nation-wide monitoring and stricter control of groundwater use (2020–2030).",
+    "verbatim_text": "5. Establish nation-wide monitoring and control of groundwater use more strictly",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete nationwide monitoring/control action with a defined timeline."
+  },
+  {
+    "policy_statement": "Prioritize seawater desalination (2020–2030).",
+    "verbatim_text": "6. Prioritize seawater desalination",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific technology/investment prioritization for adaptation with timeline in the table."
+  },
+  {
+    "policy_statement": "Promote diversification of crops to hedge against erratic rainfall and shorter seasons as climate-smart agriculture (2020–2025).",
+    "verbatim_text": "7. Promoting diversification of crops to hedge against erratic rainfall and shorter seasons (Climate Smart Agriculture)",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific agricultural adaptation intervention (crop diversification) with timeline."
+  },
+  {
+    "policy_statement": "Develop improved crop varieties that adapt to climate change (climate resilient agriculture) (2020–2025).",
+    "verbatim_text": "8. Development of improved crop varieties that adapt to climate change (Climate Resilient Agriculture)",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "R&D/technology development adaptation action with defined timeframe."
+  },
+  {
+    "policy_statement": "Enhance access to farming inputs (seed and fertilizer) to maintain consistent yields (climate resilient agriculture) (2020–2025).",
+    "verbatim_text": "9. Enhancing access to farming inputs (i.e. seed and fertilizer) availability and maintain consistency in yields (Climate Resilient Agriculture)",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete agricultural support measure with timeline."
+  },
+  {
+    "policy_statement": "Promote protected cultivation and improved planting methods (e.g., greenhouses, mulching, zero tillage) to enhance water-use efficiency and crop productivity (2020–2025).",
+    "verbatim_text": "10. Promote protected cultivation and improved planting methods for enhancing water use efficiency and crop productivity (e.g., greenhouses net houses, mulching, spot planting/zero tillage) (Climate Resilient Agriculture)",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific farming practice interventions listed as adaptation actions with timeframe."
+  },
+  {
+    "policy_statement": "Promote irrigation that targets water use only for high-value crops (2020–2025).",
+    "verbatim_text": "11. Promote the use of water targeting only irrigation of high-value crops (Climate Resilient Agriculture)",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific irrigation strategy with timeline in adaptation action list."
+  },
+  {
+    "policy_statement": "Promote climate resilience in livestock management, including creating fall-back grazing areas and mixing herds/breeds (2020–2025).",
+    "verbatim_text": "12. Promoting climate resilience in livestock management through strategies such as the creation of fall-back grazing areas and mixing small and large stock herds of various breeds (Climate Smart Agriculture)",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Clearly specified livestock adaptation strategies with timeline."
+  },
+  {
+    "policy_statement": "Enhance integrated pest management as an ecosystem approach to crop production and protection (2020–2025).",
+    "verbatim_text": "13. Enhance integrated pest management as an ecosystem approach to crop production and protection (Climate Resilient Agriculture)",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific agricultural adaptation practice with timeline."
+  },
+  {
+    "policy_statement": "Improve support services and capacity building for climate-resilient crop production by promoting research, trials and up-scaling climate-smart farming systems (2020–2025).",
+    "verbatim_text": "14. Improvement of support services and capacity building to crop production resilient to climate change by promoting research, trials and up- scaling climate-smart farming systems that increase resilience to climate change.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Capacity-building and scaling intervention with an explicit timeframe."
+  },
+  {
+    "policy_statement": "Restore savanna through bush thinning to increase land productivity, food security, groundwater recharge and biodiversity (2020–2030).",
+    "verbatim_text": "15. Restoration of the savanna through bush thinning for increased land productivity, improved food security, improved groundwater recharge and increased biodiversity.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete ecosystem-based adaptation intervention with timeline and defined benefits."
+  },
+  {
+    "policy_statement": "Implement bush biomass utilisation and value addition (including bush-to-energy and biochar application) to support drought resilience, food security and employment/income creation (2020–2025).",
+    "verbatim_text": "16. Bush biomass utilisation and value addition (Bush based animal feed production, biochar application, drought resilience, improved food security, bush-to-energy, employment & income creation)",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific package of adaptation interventions with a defined implementation window."
+  },
+  {
+    "policy_statement": "Support agroforestry interventions to ensure food security in Namibia's most vulnerable communities (2020–2025).",
+    "verbatim_text": "17. Support agroforestry interventions to ensure food security (bush-based livestock feed, other biomass for fodder, meat, and Non-Timber Forest Produces (NTFPs)) in Namibia's most vulnerable communities.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit adaptation action with defined intervention and timeline."
+  },
+  {
+    "policy_statement": "Introduce legislation to reduce property and infrastructure development in environmentally sensitive areas and areas at risk of sea-level rise (2020–2025).",
+    "verbatim_text": "18. Introduce legislation to reduce property and infrastructure development in environmentally sensitive areas and areas at risk of sea-level rise",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Regulatory/legislative commitment with timeline to address coastal risks."
+  },
+  {
+    "policy_statement": "Research and monitor sea-level rise (2020–2030).",
+    "verbatim_text": "19. Research and monitor sea-level rise",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete monitoring/research action with timeline."
+  },
+  {
+    "policy_statement": "Undertake vulnerability mapping for coastal zones (2020–2025).",
+    "verbatim_text": "20. Undertake vulnerability mapping",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specified risk assessment activity with timeframe."
+  },
+  {
+    "policy_statement": "Collaborate with the insurance market to guide investment in coastal areas (2020–2025).",
+    "verbatim_text": "21. Collaborate with the insurance market to guide investment in coastal areas",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific institutional/market collaboration measure with timeline."
+  },
+  {
+    "policy_statement": "Develop an early warning system for coastal zones (2020–2025).",
+    "verbatim_text": "22. Develop an early warning system",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit early warning system development action with timeline."
+  },
+  {
+    "policy_statement": "Rehabilitate wetlands and estuaries (2020–2025).",
+    "verbatim_text": "23. Rehabilitate wetlands and estuaries",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete ecosystem restoration adaptation measure with timeframe."
+  },
+  {
+    "policy_statement": "Install sea walls, barriers and barrages (2020–2030).",
+    "verbatim_text": "24. Install sea walls barriers and barrages",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific hard-infrastructure coastal protection intervention with timeline."
+  },
+  {
+    "policy_statement": "Promote sustainable tourism and provide capacity building for climate change innovation in Namibia's tourism sector (2020–2030).",
+    "verbatim_text": "25. Promote sustainable tourism and provide capacity building for climate change innovation in Namibia's tourism sector.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific tourism-sector adaptation/capacity-building action with timeline."
+  },
+  {
+    "policy_statement": "Implement conservancies, tourism and adaptation programs based on community-based natural resource management (CBNRM) (2020–2030).",
+    "verbatim_text": "26. Implement conservancies, tourism and adaptation programs based on community- based natural resource management (CBNRM)",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Programmatic implementation commitment in tourism/natural resources with timeframe."
+  },
+  {
+    "policy_statement": "Promote community-based natural resource management data collection and archiving (2020–2030).",
+    "verbatim_text": "27. Promote community-based natural resource management data collection and archiving",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific data/knowledge management action with timeline."
+  },
+  {
+    "policy_statement": "Diversify livelihoods in communities dependent on CBNRM initiatives such as the Namibian Conservancy programme and Community Forests (2020–2030).",
+    "verbatim_text": "28. Diversify livelihoods in communities dependent on CBNRM initiatives such as the Namibian Conservancy programme and Community Forests.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete livelihood diversification action with timeline."
+  },
+  {
+    "policy_statement": "Strengthen the capacity of health professionals in epidemic preparedness and response (2020–2030).",
+    "verbatim_text": "29. Strengthen the capacity of health professionals in epidemic preparedness and response",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific health-sector adaptation capacity action with timeframe."
+  },
+  {
+    "policy_statement": "Recruit and train community health workers to provide emergency first aid (2020–2030).",
+    "verbatim_text": "30. Recruit and train community health workers to provide emergency first aid",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete training/recruitment action with timeline."
+  },
+  {
+    "policy_statement": "Improve staff training on prevention and treatment of malnutrition (2020–2030).",
+    "verbatim_text": "31. Improve staff training on prevention and treatment of malnutrition",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specified training action with timeline."
+  },
+  {
+    "policy_statement": "Enhance and further mainstream climate-related awareness in the health sector (2020–2030).",
+    "verbatim_text": "32. Enhance and further mainstream climate- related awareness",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Explicit awareness mainstreaming measure with a defined timeframe."
+  },
+  {
+    "policy_statement": "Improve access to timely and relevant information for health adaptation (2020–2030).",
+    "verbatim_text": "33. Improve access to timely and relevant information",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific information-access action with timeline."
+  },
+  {
+    "policy_statement": "Strengthen health policies required to effectively address both slow-onset and catastrophic events (2020–2030).",
+    "verbatim_text": "34. Strengthen the policies required to effectively address both slow-onset and catastrophic events",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Policy strengthening action explicitly stated with a timeline."
+  },
+  {
+    "policy_statement": "Develop health-centred adaptation strategies (2020–2025).",
+    "verbatim_text": "35. Develop health-centred adaptation strategies",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific strategy development with timeline."
+  },
+  {
+    "policy_statement": "Climate-proof the public health system (2020–2030).",
+    "verbatim_text": "36. Climate-proof the public health system",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Clearly defined adaptation intervention with timeframe."
+  },
+  {
+    "policy_statement": "Strengthen and provide capacity building for water and sanitation systems (2020–2030).",
+    "verbatim_text": "37. Strengthen and provide capacity building for water and sanitation systems",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specified capacity-building action with a timeline."
+  },
+  {
+    "policy_statement": "Strengthen capacities for disaster risk preparedness, contingency planning and risk reduction (2020–2025).",
+    "verbatim_text": "38. Strengthen capacities for disaster risk preparedness, contingency planning and risk reduction",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific DRM capacity action with defined implementation period."
+  },
+  {
+    "policy_statement": "Implement vulnerability and risk mapping for disaster risk management (2020–2025).",
+    "verbatim_text": "39. Implement vulnerability and risk mapping",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete mapping action with timeline."
+  },
+  {
+    "policy_statement": "Improve information flow and communications between formal structures at national, regional and community levels for disaster risk management (2020–2025).",
+    "verbatim_text": "40. Improve information flow and communications between formal structures at the national regional and community levels",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific communications improvement action with timeframe."
+  },
+  {
+    "policy_statement": "Support community-based adaptation practices in both rural and urban areas (2020–2025).",
+    "verbatim_text": "41. Support community-based adaptation practices in both rural and urban areas",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Direct support action with timeline."
+  },
+  {
+    "policy_statement": "Improve monitoring and documentation of extreme events (2020–2025).",
+    "verbatim_text": "42. Improve monitoring and documentation of extreme events",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific monitoring/documentation action with defined timeline."
+  },
+  {
+    "policy_statement": "Develop pro-poor disaster insurance schemes (2020–2025).",
+    "verbatim_text": "43. Develop pro-poor disaster insurance schemes",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "TABLE 3.1. ADAPTATION ACTIONS.",
+    "sector": "Adaptation",
+    "extraction_rationale": "Concrete financial risk-transfer instrument for adaptation with timeline."
+  }
+]

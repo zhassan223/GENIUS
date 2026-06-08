@@ -1,3 +1,19 @@
 .venv
 .env
 pdfs/*
+
+# OS / editor noise
+.DS_Store
+
+# Python caches
+__pycache__/
+*.pyc
+
+# backups
+*.bak
+
+# Claude worktrees
+.claude/worktrees/
+
+# Redundant zipped archive of the markdown cache (the unzipped dir is tracked)
+notebooks/outputs/pdf_markdown_cache.zip

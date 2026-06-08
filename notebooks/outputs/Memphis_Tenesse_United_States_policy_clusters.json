@@ -1,0 +1,408 @@
+[
+  {
+    "cluster_id": 0,
+    "cluster_type": "parent_with_subs",
+    "section_header": "## action area 1: improve energy efficiency of buildings and key infrastructure",
+    "parent": {
+      "policy_statement": "Improve energy efficiency of buildings and key infrastructure through a package of priority actions (green building standards, low-income efficiency, outreach/education, LED streetlights, and residential retrofit financing).",
+      "verbatim_text": "## Action Area 1: Improve Energy Efficiency of Buildings And Key Infrastructure\n\n- ... Priority Action E.1 Implement Green Building Standards and Incentivize Innovative Green Building Design\n- ... Priority Action E.2 Improve Low-Income Housing Energy Efficiency\n- ... Priority Action E.3 Enhance and Expand Energy Outreach and Education Programs\n- ... Priority Action E.4 Retrofit Outdoor Streetlights to LED\n- ... Priority Action E.5 Expand Financing Options for Residential Energy Efficiency Retrofits",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "## Action Area 1: Improve Energy Efficiency of Buildings And Key Infrastructure",
+      "sector": "Energy",
+      "extraction_rationale": "Named action area with multiple specified priority actions listed beneath it; functions as an umbrella program."
+    },
+    "subs": [
+      {
+        "policy_statement": "Implement green building standards by 2022 with 100% compliance by 2025, including requiring new municipal buildings and major renovations to meet LEED Silver or Net Zero Energy standards and adopting improved green building/energy codes.",
+        "verbatim_text": "E.1 Implement Green Building Standards and Incentivize Innovative Green Building Design | Codify and implement green building standards by 2022, with 100% compliance by 2025\n\nRequire that all new municipal buildings and major renovations for the City and County meet LEED Silver or Net Zero Energy standards.",
+        "policy_type": "sub",
+        "parent_policy_name": "Improve energy efficiency of buildings and key infrastructure through a package of priority actions (green building standards, low-income efficiency, outreach/education, LED streetlights, and residential retrofit financing).",
+        "section_header": "## Action Area 1: Improve Energy Efficiency of Buildings And Key Infrastructure",
+        "sector": "Energy",
+        "extraction_rationale": "Contains clear deadlines and compliance target plus specific regulatory/standards actions; listed as Priority Action E.1 under the action area."
+      },
+      {
+        "policy_statement": "Expand weatherization/retrofit programs for low-income housing to increase the number of low-income residences served annually by 500% over 10 years and target a 30% reduction in household energy use.",
+        "verbatim_text": "E.2 Improve Low-Income Housing Energy Efficiency | Increase the number of low- income residences served by weatherization and retrofit programs annually by 500% over 10 years, with a 30% reduction in energy usage target per household",
+        "policy_type": "sub",
+        "parent_policy_name": "Improve energy efficiency of buildings and key infrastructure through a package of priority actions (green building standards, low-income efficiency, outreach/education, LED streetlights, and residential retrofit financing).",
+        "section_header": "## Action Area 1: Improve Energy Efficiency of Buildings And Key Infrastructure",
+        "sector": "Energy",
+        "extraction_rationale": "Quantified scale-up and performance target; listed as Priority Action E.2."
+      },
+      {
+        "policy_statement": "Enhance and expand energy outreach and education programs to achieve a 10% or greater reduction in average electricity consumption in the residential and commercial sectors.",
+        "verbatim_text": "## Priority Action E.3: Enhance and Expand Energy Outreach and Education Programs\n\nObjective: Attain a 10% or greater reduction in average electricity consumption for residential and commercial sectors",
+        "policy_type": "sub",
+        "parent_policy_name": "Improve energy efficiency of buildings and key infrastructure through a package of priority actions (green building standards, low-income efficiency, outreach/education, LED streetlights, and residential retrofit financing).",
+        "section_header": "## Action Area 1: Improve Energy Efficiency of Buildings And Key Infrastructure",
+        "sector": "Energy",
+        "extraction_rationale": "Quantified reduction target; explicitly framed as a priority action under the action area."
+      },
+      {
+        "policy_statement": "Replace all existing non-LED streetlights and leased outdoor lighting with LED bulbs by 2030 or sooner, beginning in 2025.",
+        "verbatim_text": "## Priority Action E.4: Retrofit Outdoor Streetlights to LED\n\nObjective: Replace all existing non-LED streetlights and leased outdoor lighting with LED bulbs by 2030 or sooner, starting in 2025",
+        "policy_type": "sub",
+        "parent_policy_name": "Improve energy efficiency of buildings and key infrastructure through a package of priority actions (green building standards, low-income efficiency, outreach/education, LED streetlights, and residential retrofit financing).",
+        "section_header": "## Action Area 1: Improve Energy Efficiency of Buildings And Key Infrastructure",
+        "sector": "Energy",
+        "extraction_rationale": "Clear infrastructure retrofit commitment with timeline; listed as Priority Action E.4."
+      },
+      {
+        "policy_statement": "Expand financing options for residential energy efficiency retrofits so that by 2025, 15% of all residences have energy-efficient space heating/cooling equipment and major appliances (including tariffed on-bill financing and advocacy for residential PACE and rebates).",
+        "verbatim_text": "## Priority Action E.5: Expand Financing Options for Residential Energy Efficiency Retrofits\n\n## OBJECTIVE\n\nBy 2025, 15% of all residences will have energy-efficient space heating and cooling equipment and major appliances\n\n- Work with MLGW and other partners to develop a tariffed on-bill financing program for residential energy retrofits.\n- Advocate for state legislation that allows the implementation of a local Residential Property Assessed Clean Energy (PACE) program.",
+        "policy_type": "sub",
+        "parent_policy_name": "Improve energy efficiency of buildings and key infrastructure through a package of priority actions (green building standards, low-income efficiency, outreach/education, LED streetlights, and residential retrofit financing).",
+        "section_header": "## Priority Action E.5: Expand Financing Options for Residential Energy Efficiency Retrofits",
+        "sector": "Energy",
+        "extraction_rationale": "Quantified adoption target with specific policy/program mechanisms; explicitly a priority action."
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "cluster_type": "parent_with_subs",
+    "section_header": "## action area 2: transform our energy supply",
+    "parent": {
+      "policy_statement": "Transform the community energy supply through priority actions, including decarbonizing the electric grid with renewable energy.",
+      "verbatim_text": "## Action Area 2: Transform Our Energy Supply\n\n- ... Priority Action E.6 Decarbonize the Electric Grid with Renewable Energy",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "## Action Area 2: Transform Our Energy Supply",
+      "sector": "Energy",
+      "extraction_rationale": "Named action area introducing a priority action; serves as an umbrella heading in the plan’s structure."
+    },
+    "subs": [
+      {
+        "policy_statement": "Increase the percentage of carbon-free energy in the electricity supply to 80% by 2035 and 100% by 2050, focusing on renewable sources such as solar and wind, including implementing at least one community shared solar project with low-income subsidies by 2022.",
+        "verbatim_text": "## Priority Action E.6: Decarbonize the Electric Grid with Renewable Energy\n\nObjective: Increase the percentage of carbon-free energy in our electricity supply to 80% by 2035 and 100% by 2050, focusing on renewable sources such as solar and wind\n\nImplement at least one local community shared solar project that includes subsidies for low-income household participation in the Memphis area by 2022",
+        "policy_type": "sub",
+        "parent_policy_name": "Transform the community energy supply through priority actions, including decarbonizing the electric grid with renewable energy.",
+        "section_header": "## Priority Action E.6: Decarbonize the Electric Grid with Renewable Energy",
+        "sector": "Energy",
+        "extraction_rationale": "Contains explicit quantified targets and a dated implementation commitment; listed as Priority Action E.6."
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "cluster_type": "parent_with_subs",
+    "section_header": "## action area 3: increase green infrastructure and community resilience",
+    "parent": {
+      "policy_statement": "Increase green infrastructure and community resilience through priority actions, including expanding the urban tree canopy and aligning mitigation and adaptation efforts.",
+      "verbatim_text": "## Action  Area  3:  Increase  Green  Infrastructure  and Community Resilience\n\n- ... Priority Action E.7 Nurture and Expand the Urban Tree Canopy\n- ... Priority Action E.8 Ensure Alignment of Climate Change Mitigation and Adaptation Efforts",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "## Action  Area  3:  Increase  Green  Infrastructure  and Community Resilience",
+      "sector": "AFOLU",
+      "extraction_rationale": "Named action area with multiple priority actions beneath it; umbrella program."
+    },
+    "subs": [
+      {
+        "policy_statement": "Increase urban tree canopy coverage countywide to 60% by 2050 through tree planting/replanting and related program and code measures.",
+        "verbatim_text": "## Priority Action E.7: Nurture and Expand the Urban Tree Canopy\n\nObjective: Plant or replant trees with the intention of increasing urban tree canopy to 60% coverage countywide by 2050",
+        "policy_type": "sub",
+        "parent_policy_name": "Increase green infrastructure and community resilience through priority actions, including expanding the urban tree canopy and aligning mitigation and adaptation efforts.",
+        "section_header": "## Priority Action E.7: Nurture and Expand the Urban Tree Canopy",
+        "sector": "AFOLU",
+        "extraction_rationale": "Quantified canopy target with deadline; explicitly a priority action under the action area."
+      },
+      {
+        "policy_statement": "Identify and prioritize cross-cutting strategies that address climate change mitigation and adaptation, including implementing Mid-South Regional Resilience Plan projects upon completion and adoption and developing neighborhood-scale demonstration projects.",
+        "verbatim_text": "## Priority Action E.8: Align Climate Mitigation and Climate Adaptation Efforts\n\nObjective: Identify and prioritize cross-cutting strategies for climate change mitigation and adaptation\n\nImplement projects and practices recommended in the Mid-South Regional Resilience Plan upon completion and adoption.",
+        "policy_type": "sub",
+        "parent_policy_name": "Increase green infrastructure and community resilience through priority actions, including expanding the urban tree canopy and aligning mitigation and adaptation efforts.",
+        "section_header": "## Priority Action E.8: Align Climate Mitigation and Climate Adaptation Efforts",
+        "sector": "Cross-sector",
+        "extraction_rationale": "Priority action with concrete implementation commitments (implement resilience plan; develop demonstration projects)."
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "cluster_type": "parent_with_subs",
+    "section_header": "## action area 1: shift to low-carbon transportation modes and reduce reliance on motor vehicles",
+    "parent": {
+      "policy_statement": "Shift to low-carbon transportation modes and reduce reliance on motor vehicles through a package of priority actions (land use, complete streets, public transit, and demand management).",
+      "verbatim_text": "## Action  Area  1:  Shift  to  Low-Carbon  Transportation Modes and Reduce Reliance on Motor Vehicles\n\n- ... Priority Action T.1 Implement Land Use Patterns that Support Active Transportation and Transit\n- ... Priority Action T.2 Create Complete Streets that Prioritize Walking and Bicycling\n- ... Priority Action T.3 Enhance Public Transit\n- ... Priority Action T.4 Reduce Commute Trips through Transportation Demand Management Strategies",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "## Action  Area  1:  Shift  to  Low-Carbon  Transportation Modes and Reduce Reliance on Motor Vehicles",
+      "sector": "Transport",
+      "extraction_rationale": "Named action area with multiple priority actions listed; umbrella program."
+    },
+    "subs": [
+      {
+        "policy_statement": "Implement land use patterns that support active transportation and transit by implementing the Memphis 3.0 growth strategy and updating zoning/development codes to support walkable infill, mixed-use development and transit-oriented development.",
+        "verbatim_text": "T.1 Implement Land Use Patterns that Support Active Transportation and Transit\n\nImplement the Memphis 3.0 vision and growth strategy focused on building density and mixed uses around community and citywide anchor areas.\n\nUpdate zoning and development codes to reflect the Memphis 3.0 vision and growth strategy, particularly focusing on regulations that support walkable, infill, mixed-use development and the implementation of Transit Oriented Development (TOD).",
+        "policy_type": "sub",
+        "parent_policy_name": "Shift to low-carbon transportation modes and reduce reliance on motor vehicles through a package of priority actions (land use, complete streets, public transit, and demand management).",
+        "section_header": "## Priority Action T.1: Implement Land Use Patterns that Support Active Transportation and Transit",
+        "sector": "Transport",
+        "extraction_rationale": "Specific intervention (code updates and implementation of a named comprehensive plan); presented as Priority Action T.1."
+      },
+      {
+        "policy_statement": "Create Complete Streets to convert 10% of vehicle trips to walking/bicycling by 2030 (starting in 2020) and increase to 40% of vehicle trips by 2050, including establishing a dedicated annual funding source of $20 million for pedestrian and bicycle safety improvements.",
+        "verbatim_text": "T.2 Create Complete Streets that Prioritize Walking and Bicycling | Starting in 2020, convert 10% of vehicle trips to bicycle and pedestrian modes by 2030 and then increase this percentage linearly to 40% of vehicle trips by 2050.\n\nEstablish a dedicated annual funding source of $20 million for pedestrian and bicycle safety improvements",
+        "policy_type": "sub",
+        "parent_policy_name": "Shift to low-carbon transportation modes and reduce reliance on motor vehicles through a package of priority actions (land use, complete streets, public transit, and demand management).",
+        "section_header": "## Priority Action T.2: Create Complete Streets that Prioritize Walking and Bicycling",
+        "sector": "Transport",
+        "extraction_rationale": "Contains quantified mode-shift targets with dates and a specific funding commitment; listed as Priority Action T.2."
+      },
+      {
+        "policy_statement": "Enhance public transit by fully implementing the Memphis 3.0 Transit Vision by 2022, increasing ridership/frequency to meet long-range objectives, and converting MATA’s entire fleet to electric by 2050, supported by increasing immediate annual funding by $30 million.",
+        "verbatim_text": "## Priority Action T.3: Enhance Public Transit\n\nObjective: Fully implement the Memphis 3.0 Transit Vision by 2022. Increase ridership and improve frequency to meet long- range (2040/2050) ridership objectives. Convert MATA's entire fleet to electric by 2050.\n\nProvide dedicated annual funding to MATA and increase immediate annual funding by $30 million to implement the Memphis 3.0 Transit Vision.",
+        "policy_type": "sub",
+        "parent_policy_name": "Shift to low-carbon transportation modes and reduce reliance on motor vehicles through a package of priority actions (land use, complete streets, public transit, and demand management).",
+        "section_header": "## Priority Action T.3: Enhance Public Transit",
+        "sector": "Transport",
+        "extraction_rationale": "Multiple explicit deadlines/targets plus funding amount; presented as Priority Action T.3."
+      },
+      {
+        "policy_statement": "Reduce drive-alone commute trips by 10% by 2022 and 40% by 2050 by expanding Transportation Demand Management programs at major employers and implementing smart parking and related measures.",
+        "verbatim_text": "## Priority Action T.4: Reduce Commute Trips through Transportation Demand Management\n\n## Objective: Reduce drive-alone commute trips 10% by 2022 and 40% by 2050.",
+        "policy_type": "sub",
+        "parent_policy_name": "Shift to low-carbon transportation modes and reduce reliance on motor vehicles through a package of priority actions (land use, complete streets, public transit, and demand management).",
+        "section_header": "## Priority Action T.4: Reduce Commute Trips through Transportation Demand Management",
+        "sector": "Transport",
+        "extraction_rationale": "Quantified reduction targets with dates; clearly a priority action."
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "cluster_type": "parent_with_subs",
+    "section_header": "## action area 2: set the stage for vehicle electrification",
+    "parent": {
+      "policy_statement": "Set the stage for vehicle electrification through a priority action to encourage electric vehicle adoption and develop charging infrastructure.",
+      "verbatim_text": "## Action Area 2: Set the Stage for Vehicle Electrification\n\n- ... Priority Action T.5 Encourage Electric Vehicle Adoption and the Development of Charging Infrastructure",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "## Action Area 2: Set the Stage for Vehicle Electrification",
+      "sector": "Transport",
+      "extraction_rationale": "Named action area introducing a priority action; used as parent for hierarchy."
+    },
+    "subs": [
+      {
+        "policy_statement": "Increase passenger EV travel to 5% by 2025, 30% by 2035, and 50% by 2050; and increase freight EV travel to 3% by 2025, 20% by 2035, and 50% by 2050, including developing a comprehensive community-wide EV strategy and committing to transition local government fleets to electric with charging infrastructure.",
+        "verbatim_text": "## PRIORITY ACTION\n\nT.5 Encourage Electric Vehicle Adoption and the Development of Charging Infrastructure\n\n## OBJECTIVE\n\nIncrease passenger vehicle travel using electric vehicles to 5% by 2025; 30% by 2035; and 50% by 2050.\n\nIncrease freight vehicle travel using electric vehicles to 3% by 2025; 20% by 2035; and 50% by 2050.\n\nTo lead by example, Memphis and Shelby County government should commit to transitioning their fleets to electric and begin building necessary charging infrastructure.",
+        "policy_type": "sub",
+        "parent_policy_name": "Set the stage for vehicle electrification through a priority action to encourage electric vehicle adoption and develop charging infrastructure.",
+        "section_header": "## PRIORITY ACTION  T.5 Encourage Electric Vehicle Adoption and the Development of Charging Infrastructure",
+        "sector": "Transport",
+        "extraction_rationale": "Contains explicit quantified adoption targets with timelines and specific implementation actions; presented as Priority Action T.5."
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "cluster_type": "parent_with_subs",
+    "section_header": "## action area 1: reduce waste and move toward a zerowaste future",
+    "parent": {
+      "policy_statement": "Reduce waste and move toward a zero-waste future through priority actions focused on organic waste diversion, overall waste reduction, and inorganic materials diversion.",
+      "verbatim_text": "## Action Area 1: Reduce Waste and Move Toward a ZeroWaste Future\n\n- ... Priority Action W.1 Divert Greater Amounts of Organic Waste from Landfills\n- ... Priority Action W.2 Reduce the Overall Amount of Waste Generated\n- ... Priority Action W.3 Divert Greater Amounts of Inorganic Materials from Landfills",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "## Action Area 1: Reduce Waste and Move Toward a ZeroWaste Future",
+      "sector": "Waste",
+      "extraction_rationale": "Named action area with multiple priority actions listed; umbrella program."
+    },
+    "subs": [
+      {
+        "policy_statement": "By 2035, cut the portion of yard and wood waste in municipal solid waste destined for landfills in half relative to 2016, including implementing municipal curbside composting for yard waste and advocating for updated state landfill regulations on organic waste.",
+        "verbatim_text": "## Priority Action W.1 Divert Greater Amounts of Organic Waste from Landfills\n\nObjective: By 2035, cut the portion of yard and wood waste in municipal solid waste destined for landfills  in half relative to 2016.\n\nImplement a municipal curbside composting program for yard waste that includes fee changes to incentivize composting.\n\nAdvocate for updated state-level landfill regulations that discourage and/or phase out disposal of organic waste in landfills.",
+        "policy_type": "sub",
+        "parent_policy_name": "Reduce waste and move toward a zero-waste future through priority actions focused on organic waste diversion, overall waste reduction, and inorganic materials diversion.",
+        "section_header": "## Priority Action W.1 Divert Greater Amounts of Organic Waste from Landfills",
+        "sector": "Waste",
+        "extraction_rationale": "Quantified target with deadline and specific program/policy actions; listed as Priority Action W.1."
+      },
+      {
+        "policy_statement": "By 2030, reduce landfill disposal from commercial/institutional/industrial sectors by achieving a 20% reduction in the share of paper/cardboard and a 10% reduction in the share of food waste in the municipal solid waste stream, including considering regulations requiring private waste haulers to offer recycling and food-waste composting services.",
+        "verbatim_text": "## Priority Action W.2 Reduce the Overall Amount of Waste Generated\n\nObjective: By 2030, achieve a 20% reduction in the share of paper and cardboard in the municipal solid waste stream from commercial, institutional, and industrial (cii) sectors sent to landfills. By 2030, achieve a 10% reduction in the share of food waste in the municipal solid waste stream sent to landfills from cii sectors.\n\nConsider new regulations that require private waste hauling companies to offer recycling and food waste composting services.",
+        "policy_type": "sub",
+        "parent_policy_name": "Reduce waste and move toward a zero-waste future through priority actions focused on organic waste diversion, overall waste reduction, and inorganic materials diversion.",
+        "section_header": "## Priority Action W.2 Reduce the Overall Amount of Waste Generated",
+        "sector": "Waste",
+        "extraction_rationale": "Explicit quantified waste reduction targets with date and a regulatory measure; listed as Priority Action W.2."
+      },
+      {
+        "policy_statement": "Increase diversion of inorganic materials (construction and demolition waste and plastics) from municipal solid waste landfills, including revising the building code so permitting requires reduction, reuse, and recycling of materials and advocating for state policies on single-use plastics and recycling/reuse incentives.",
+        "verbatim_text": "## Priority Action W.3 Divert Greater Amounts of Inorganic Materials from Landfills\n\nObjective: Increase the diversion rate of inorganic materials, namely construction and demolition waste as well as plastics, from disposal in municipal solid waste landfills\n\nReduce construction and demolition waste by revising the building code to require the reduction, reuse, and recycling of materials.",
+        "policy_type": "sub",
+        "parent_policy_name": "Reduce waste and move toward a zero-waste future through priority actions focused on organic waste diversion, overall waste reduction, and inorganic materials diversion.",
+        "section_header": "## Priority Action W.3 Divert Greater Amounts of Inorganic Materials from Landfills",
+        "sector": "Waste",
+        "extraction_rationale": "Specific regulatory change (building code revision) and defined objective; presented as Priority Action W.3."
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "cluster_type": "parent_with_subs",
+    "section_header": "## action area 2: promote a cultural shift in our community's approach to waste",
+    "parent": {
+      "policy_statement": "Promote a cultural shift in the community’s approach to waste through priority actions on tire management/collection and waste education/outreach.",
+      "verbatim_text": "## Action  Area  2: Promote  a  Cultural  Shift in  Our Community's Approach to Waste\n\n- ... Priority Action W.4 Improve Tire Management and Collection Practices\n- ... Priority Action W.5 Expand Education and Outreach Efforts to Encourage Behavior Change",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "## Action  Area  2: Promote  a  Cultural  Shift in  Our Community's Approach to Waste",
+      "sector": "Waste",
+      "extraction_rationale": "Named action area with multiple priority actions listed; umbrella program."
+    },
+    "subs": [
+      {
+        "policy_statement": "Increase the use of recycled tire materials in building projects and reduce improper tire disposal through targeted programs, including reworking pickup practices, incentivizing recycling, and considering more stringent tracking requirements for tire handling/disposal companies.",
+        "verbatim_text": "## Priority Action W.4 Improve Tire Management and Collection Practices\n\nObjective: Increase the use of recycled tire materials in building projects and reduce improper tire disposal through targeted programs\n\nReduce improper tire disposal through reworking current pickup practices and incentivizing recycling programs.\n\nConsider implementation of more stringent and traceable tracking requirements for tire handling and disposal companies.",
+        "policy_type": "sub",
+        "parent_policy_name": "Promote a cultural shift in the community’s approach to waste through priority actions on tire management/collection and waste education/outreach.",
+        "section_header": "## Priority Action W.4 Improve Tire Management and Collection Practices",
+        "sector": "Waste",
+        "extraction_rationale": "Clearly stated objective and concrete measures; presented as Priority Action W.4."
+      },
+      {
+        "policy_statement": "Launch waste outreach and education campaigns to inform and support residents about waste management (programs available and proper disposal), including conducting needs assessments in 2020 and monitoring and reassessing campaigns.",
+        "verbatim_text": "## Priority Action W.5 Expand Education and Outreach Efforts to Encourage Behavior Change\n\nObjective: Launch outreach and education campaigns to inform and support residents about waste management in their community, including programs they can take part in and information regarding how to properly dispose of waste.\n\nConduct informal needs assessments with area stakeholders to determine marketing or social behavior change campaigns most needed in the region in 2020.",
+        "policy_type": "sub",
+        "parent_policy_name": "Promote a cultural shift in the community’s approach to waste through priority actions on tire management/collection and waste education/outreach.",
+        "section_header": "## Priority Action W.5 Expand Education and Outreach Efforts to Encourage Behavior Change",
+        "sector": "Waste",
+        "extraction_rationale": "Explicit commitment to launch campaigns plus a dated implementation step (2020 needs assessment); presented as Priority Action W.5."
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "cluster_type": "parent_with_subs",
+    "section_header": "priority action w.6 enhance methane recovery and landfill gas destruction",
+    "parent": {
+      "policy_statement": "Priority Action W.6 will enhance methane recovery and landfill gas destruction by extending biogas controls to Class III/IV landfills, improving Class I landfill biogas capture from 75% to 85% by 2020, and installing methane recovery systems in all Shelby County wastewater treatment plants by 2035 while promoting methane recovery over flaring.",
+      "verbatim_text": "## Priority Action W.6 Enhance Methane Recovery and Landfill Gas Destruction\n\nObjective: Extend the use of biogas controls to Class III and Class IV landfills. Improve the biogas capture rate at Class I landfills from 75% to 85% by 2020, and promote greater methane recovery over biogas flaring.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Priority Action W.6 Enhance Methane Recovery and Landfill Gas Destruction",
+      "sector": "Waste",
+      "extraction_rationale": "This is a named priority action with explicit targets (85% capture by 2020; controls/installation timelines) and multiple implementation steps listed below it, supporting classification as a parent policy."
+    },
+    "subs": [
+      {
+        "policy_statement": "Starting in 2020, DPD staff will assess Class I landfill biogas capture performance versus the 75% national average and, if feasible, launch an implementation and monitoring plan to achieve an 85% landfill biogas capture rate by 2020.",
+        "verbatim_text": "Starting in 2020, Division of Planning and Development (DPD) staff aim to inquire with Class I landfill operator(s) how their biogas capture rate compares with the national average rate of 75%. Provided that incremental capture rates are feasible, DPD staff will coordinate the conversations to launch an implementation and monitoring plan to achieve a landfill biogas capture rate of 85% by 2020.",
+        "policy_type": "sub",
+        "parent_policy_name": "Priority Action W.6 will enhance methane recovery and landfill gas destruction by extending biogas controls to Class III/IV landfills, improving Class I landfill biogas capture from 75% to 85% by 2020, and installing methane recovery systems in all Shelby County wastewater treatment plants by 2035 while promoting methane recovery over flaring.",
+        "section_header": "IMPLEMENTATION STEPS",
+        "sector": "Waste",
+        "extraction_rationale": "Concrete implementation commitment with a start date (2020) and a quantified target (85% capture rate by 2020) tied to the W.6 action."
+      },
+      {
+        "policy_statement": "Starting in 2020, City of Memphis Public Works and DPD will initiate discussions to install biogas controls at Class III and IV landfills, targeting completion by 2035.",
+        "verbatim_text": "Starting in 2020, City of Memphis Public Works and DPD staff will initiate the conversations surrounding installation of controls at Class III and IV landfills with targeted completion by 2035.",
+        "policy_type": "sub",
+        "parent_policy_name": "Priority Action W.6 will enhance methane recovery and landfill gas destruction by extending biogas controls to Class III/IV landfills, improving Class I landfill biogas capture from 75% to 85% by 2020, and installing methane recovery systems in all Shelby County wastewater treatment plants by 2035 while promoting methane recovery over flaring.",
+        "section_header": "IMPLEMENTATION STEPS",
+        "sector": "Waste",
+        "extraction_rationale": "Specific action (installation of controls) with responsible parties and a target completion year (2035), presented as an implementation step under W.6."
+      },
+      {
+        "policy_statement": "The City/partners will implement and support new legislation to lower the threshold for mandatory installation of biogas controls.",
+        "verbatim_text": "Implement and support new legislation that lowers the threshold for mandatory installation of biogas controls, which can be used as a complementary implementation mechanism.",
+        "policy_type": "sub",
+        "parent_policy_name": "Priority Action W.6 will enhance methane recovery and landfill gas destruction by extending biogas controls to Class III/IV landfills, improving Class I landfill biogas capture from 75% to 85% by 2020, and installing methane recovery systems in all Shelby County wastewater treatment plants by 2035 while promoting methane recovery over flaring.",
+        "section_header": "IMPLEMENTATION STEPS",
+        "sector": "Waste",
+        "extraction_rationale": "Explicit legislative/regulatory mechanism is a binding policy instrument and is listed as an implementation step under W.6."
+      },
+      {
+        "policy_statement": "WWTP operators will plan to install methane recovery systems in all Shelby County facilities by the end of 2035, with feasibility evaluation beginning in 2020 and an implementation and monitoring plan launched if feasible.",
+        "verbatim_text": "Wastewater treatment plant (WWTP) operators can plan to install methane recovery systems in all facilities within Shelby County by the end of 2035 with support from DPD and City government personnel. Starting in 2020, staff can evaluate whether methane recovery or biogas flaring is feasible at uncontrolled WWTPs. Provided that installation of controls is feasible, launch an implementation and monitoring plan to achieve this goal.",
+        "policy_type": "sub",
+        "parent_policy_name": "Priority Action W.6 will enhance methane recovery and landfill gas destruction by extending biogas controls to Class III/IV landfills, improving Class I landfill biogas capture from 75% to 85% by 2020, and installing methane recovery systems in all Shelby County wastewater treatment plants by 2035 while promoting methane recovery over flaring.",
+        "section_header": "IMPLEMENTATION STEPS",
+        "sector": "Waste",
+        "extraction_rationale": "Specific infrastructure deployment commitment with a deadline (end of 2035) and near-term action (starting in 2020 feasibility evaluation), framed as implementation under W.6."
+      }
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "cluster_type": "individual",
+    "section_header": "## targets",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Adopt local government operations (City of Memphis and Shelby County) GHG reduction targets of 20% (buildings) and 15% (fleet) by 2020; 55% (buildings) and 45% (fleet) by 2035; and 80% for both buildings and fleet by 2050.",
+      "verbatim_text": "## Table 4. Local Government GHG Reduction Targets\n\n| 2020 | 20% | 15% |\n| 2035 | 55% | 45% |\n| 2050 | 80% | 80% |",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Targets",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Quantified emissions-reduction targets with years for government operations; presented as a target table rather than as a sub-item under a named parent action area."
+    }
+  },
+  {
+    "cluster_id": 9,
+    "cluster_type": "individual",
+    "section_header": "## to lead by example on climate action, the city and the county should take the following actions in the building sector",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Implement a comprehensive energy management system for City and County facilities to track energy use trends and identify opportunities to reduce energy consumption.",
+      "verbatim_text": "To lead by example on climate action, the City and the County should take the following actions in the building sector:\n\n- ... Implement a comprehensive energy management system for both City and County facilities to track energy use trends and better understand opportunities for reductions in energy consumption",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## To lead by example on climate action, the City and the County should take the following actions in the building sector:",
+      "sector": "Energy",
+      "extraction_rationale": "Specific intervention for government operations (energy management system) stated as an action the City and County should take."
+    }
+  },
+  {
+    "cluster_id": 10,
+    "cluster_type": "individual",
+    "section_header": "## to lead by example on climate action, the city and the county should take the following actions in the building sector",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Adopt green building standards for all new government facilities and major redevelopments, such as LEED Silver or Net Zero Energy.",
+      "verbatim_text": "To lead by example on climate action, the City and the County should take the following actions in the building sector:\n\n- ... Adopt green building standards for all new government facilities and major redevelopments, such as LEED Silver or Net Zero Energy",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## To lead by example on climate action, the City and the County should take the following actions in the building sector:",
+      "sector": "Energy",
+      "extraction_rationale": "Clear standards adoption commitment for government buildings; specific and actionable."
+    }
+  },
+  {
+    "cluster_id": 11,
+    "cluster_type": "individual",
+    "section_header": "## to lead by example on climate action, the city and the county should take the following actions in the building sector",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Commit to developing renewable energy generation at key facilities and/or purchasing renewable energy for local government operations, including committing to a Renewable Portfolio Standard and exploring options such as solar installations, RECs, community shared solar, and green tariff products.",
+      "verbatim_text": "To lead by example on climate action, the City and the County should take the following actions in the building sector:\n\n- Commit to developing renewable energy generation at key facilities and/or commit to purchasing renewable energy\n- Commit to a Renewable Portfolio Standard for local government operations and explore options for achieving these renewable energy goals, such as solar installations on government facilities, Renewable Energy Certificates, participating in community shared solar projects, and green tariff products",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## To lead by example on climate action, the City and the County should take the following actions in the building sector:",
+      "sector": "Energy",
+      "extraction_rationale": "Explicit commitments regarding renewable procurement/generation and an RPS for local government operations."
+    }
+  },
+  {
+    "cluster_id": 12,
+    "cluster_type": "individual",
+    "section_header": "## actions",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Develop a comprehensive strategy for electrifying City and County vehicle fleets, including installing charging infrastructure at government facilities and setting a timeline and funding approach.",
+      "verbatim_text": "Local government should take advantage of improved technology ... to lead the way by electrifying its fleet.\n\n- Develop a comprehensive strategy for electrifying fleets\n- -Installation of electric charging infrastructure at government facilities\n- -Determining a timeline for implementation",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "## Actions",
+      "sector": "Transport",
+      "extraction_rationale": "Specific action commitment for local government fleet electrification with concrete elements (charging infrastructure, timeline)."
+    }
+  }
+]

@@ -1,0 +1,986 @@
+[
+  {
+    "cluster_id": 0,
+    "cluster_type": "parent_with_subs",
+    "section_header": "an exemplary energy policy and building management",
+    "parent": {
+      "policy_statement": "An exemplary energy policy and building management (2030 strategic objectives) for energy efficiency, renewable/local energy, and sustainable construction/renovation.",
+      "verbatim_text": "## 2030 Strategic objectives\n\n## 1. Energy efficiency in buildings and adapting to the effects of climate change\n\n## 2. Producing and consuming green, local energy\n\n## 3. Improving the sustainability of construction and renovation",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "An exemplary energy policy and building management",
+      "sector": "Energy & buildings",
+      "extraction_rationale": "Named thematic chapter followed by multiple numbered objective lists; serves as umbrella for sub-policies."
+    },
+    "subs": [
+      {
+        "policy_statement": "Reduce the energy consumption of City of Brussels buildings by 40% compared with 2008 (by 2030).",
+        "verbatim_text": "## 1. Energy efficiency in buildings and adapting to the effects of climate change\n\n-  Reduce the energy consumption of City of Brussels buildings by 40% (compared with 2008).",
+        "policy_type": "sub",
+        "parent_policy_name": "An exemplary energy policy and building management (2030 strategic objectives) for energy efficiency, renewable/local energy, and sustainable construction/renovation.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Energy & buildings",
+        "extraction_rationale": "Quantified reduction target with baseline year; clear policy objective."
+      },
+      {
+        "policy_statement": "Set intermediate building-stock targets: city/CPAS public buildings to reach average EPC C+; SISP social housing renovation plan to meet regional average EPC C+ by 2040 with priorities met by 2030; CPAS/Régie homes rated EPC F/G to be downgraded by 2033.",
+        "verbatim_text": "To achieve the regional targets of energy neutrality for public buildings by 2040 and energy performance for private buildings by 2050, three intermediate targets have been set for the city's entire building stock:\n- o Public heritage buildings owned by the city and the Public Social Assistance Centre (CPAS) will achieve an average Energy Performance Certificate (EPC) of C+ ...\n- o For  Social  housing  (SISP),  there  will  be  a  renovation  plan ... by 2030 ... to meet the regional objective of achieving an average EPC level of C+ by 2040.\n- o The most energy-intensive homes (EPC F and G) owned by the CPAS and the Régie Foncière will have been downgraded by 2033.",
+        "policy_type": "sub",
+        "parent_policy_name": "An exemplary energy policy and building management (2030 strategic objectives) for energy efficiency, renewable/local energy, and sustainable construction/renovation.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Energy & buildings",
+        "extraction_rationale": "Contains multiple specific, time-bound building performance commitments."
+      },
+      {
+        "policy_statement": "Reduce by at least 55% (vs. 2008) all emissions linked to the energy consumption of City Council/Régie/CPAS/SISP public buildings by 2030.",
+        "verbatim_text": "-  Compared  to  2008,  reduce  by  at  least  55%  all  emissions  linked  to  the  energy consumption of the public buildings of the City Council, the Régie, the CPAS and the SISPs by 2030.",
+        "policy_type": "sub",
+        "parent_policy_name": "An exemplary energy policy and building management (2030 strategic objectives) for energy efficiency, renewable/local energy, and sustainable construction/renovation.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Energy & buildings",
+        "extraction_rationale": "Quantified emissions reduction target with baseline and deadline."
+      },
+      {
+        "policy_statement": "Enhance city flat roofs for climatic functions using the “Living Roofs” tool at design stage and implement “Living Roofs” recommendations for priority sites.",
+        "verbatim_text": "-  Enhance  the  city's  flat roofs where  this  is possible with  a climatic function (photovoltaic solar panels, solar thermal panels, vegetation, bleaching, etc.):\n- o Right  from the  design  stage  of  each  renovation  or  roofing  project,  the  City Council uses the \"Living Roofs\" tool...\n- o The City Council will implement the recommendations of the \"Living Roofs\" study for the priority sites identified...",
+        "policy_type": "sub",
+        "parent_policy_name": "An exemplary energy policy and building management (2030 strategic objectives) for energy efficiency, renewable/local energy, and sustainable construction/renovation.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Energy & buildings",
+        "extraction_rationale": "Specific intervention with named tool and implementation commitment."
+      },
+      {
+        "policy_statement": "Propose to the region a 10% reduction in energy consumption by 2030 compared with 2008.",
+        "verbatim_text": "-  The City Council is proposing to the region to reduce its energy consumption by 10% in 2030 compared with 2008.",
+        "policy_type": "sub",
+        "parent_policy_name": "An exemplary energy policy and building management (2030 strategic objectives) for energy efficiency, renewable/local energy, and sustainable construction/renovation.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Energy & buildings",
+        "extraction_rationale": "Explicit (non-binding/proposed) quantified target addressed to the region."
+      },
+      {
+        "policy_statement": "Propose doubling regional photovoltaic solar production to 100 GWh/year, with City Council contributing 6 GWh.",
+        "verbatim_text": "## 2. Producing and consuming green, local energy\n\n-  Increase photovoltaic solar panel production in the region: ... proposing to the region that photovoltaic solar panel production be doubled, reaching 100 GWh per year, with the City Council contributing 6 GWh.",
+        "policy_type": "sub",
+        "parent_policy_name": "An exemplary energy policy and building management (2030 strategic objectives) for energy efficiency, renewable/local energy, and sustainable construction/renovation.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Energy & buildings",
+        "extraction_rationale": "Quantified renewable energy production target including a specific City contribution."
+      },
+      {
+        "policy_statement": "Ensure 100% of electricity consumed by the city's public buildings comes from renewable energy produced in Belgium.",
+        "verbatim_text": "-  Increase the proportion of energy consumed by the city's public buildings, the Régie, the CPAS and the SISP that comes from renewable energy produced in Belgium: 100% of the electricity  consumed  by  the  city's  public  buildings  comes  from  renewable  energy produced in Belgium.",
+        "policy_type": "sub",
+        "parent_policy_name": "An exemplary energy policy and building management (2030 strategic objectives) for energy efficiency, renewable/local energy, and sustainable construction/renovation.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Energy & buildings",
+        "extraction_rationale": "Clear binding procurement/consumption commitment with 100% target."
+      },
+      {
+        "policy_statement": "Develop at least one “Positive Energy Neighbourhood” in the city.",
+        "verbatim_text": "-  Develop one or more \"Positive Energy Neighbourhoods\": The city has at least one Positive Energy Neighbourhood.",
+        "policy_type": "sub",
+        "parent_policy_name": "An exemplary energy policy and building management (2030 strategic objectives) for energy efficiency, renewable/local energy, and sustainable construction/renovation.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Energy & buildings",
+        "extraction_rationale": "Specific intervention with minimum count target."
+      },
+      {
+        "policy_statement": "Develop an urban heating network in the city in collaboration with Brussels Energy.",
+        "verbatim_text": "-  Develop an urban heating network in the city in collaboration with Brussels Energy.",
+        "policy_type": "sub",
+        "parent_policy_name": "An exemplary energy policy and building management (2030 strategic objectives) for energy efficiency, renewable/local energy, and sustainable construction/renovation.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Energy & buildings",
+        "extraction_rationale": "Concrete infrastructure development commitment."
+      },
+      {
+        "policy_statement": "Develop energy communities: set up at least one energy community and one collective self-consumption project in each neighbourhood.",
+        "verbatim_text": "-  Develop energy communities: At least one energy community and one collective selfconsumption project have been set up in each of the city's neighbourhoods.",
+        "policy_type": "sub",
+        "parent_policy_name": "An exemplary energy policy and building management (2030 strategic objectives) for energy efficiency, renewable/local energy, and sustainable construction/renovation.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Energy & buildings",
+        "extraction_rationale": "Specific, minimum-coverage target across neighbourhoods."
+      },
+      {
+        "policy_statement": "Facilitate collective self-consumption projects in privately rented housing to combat energy poverty.",
+        "verbatim_text": "-  The  City  of  Brussels  is  facilitating  the  implementation  of  collective  self-consumption projects in the private housing it rents out, in order to combat energy poverty.",
+        "policy_type": "sub",
+        "parent_policy_name": "An exemplary energy policy and building management (2030 strategic objectives) for energy efficiency, renewable/local energy, and sustainable construction/renovation.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Energy & buildings",
+        "extraction_rationale": "Specific enabling action linked to social objective (energy poverty)."
+      },
+      {
+        "policy_statement": "Systematically use an environmental impact analysis tool (e.g., TOTEM) for construction/renovation projects by the City, Régie, CPAS and SISPs by 2030.",
+        "verbatim_text": "## 3. Improving the sustainability of construction and renovation\n\n-  By 2030, with regard to the environmental impact of construction/renovation projects, an impact analysis tool such as TOTEM will be systematically used by the City, the Régie, the CPAS and the SISPs to integrate the principles of sustainability and reversibility.",
+        "policy_type": "sub",
+        "parent_policy_name": "An exemplary energy policy and building management (2030 strategic objectives) for energy efficiency, renewable/local energy, and sustainable construction/renovation.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Energy & buildings",
+        "extraction_rationale": "Mandated systematic tool use with deadline."
+      },
+      {
+        "policy_statement": "Adopt measures to reduce construction site environmental impacts and routinely analyse environmental impact of two variants for construction/renovation projects across the region.",
+        "verbatim_text": "-  The  City  Council  is  proposing  an  ambitious  target  for  the  environmental  impact  of construction/renovation projects throughout the region: The City Council will be adopting measures  to  reduce  the  environmental  impact  of  the  worksites  and  will  be  routinely analysing the environmental impact of the two variants.",
+        "policy_type": "sub",
+        "parent_policy_name": "An exemplary energy policy and building management (2030 strategic objectives) for energy efficiency, renewable/local energy, and sustainable construction/renovation.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Energy & buildings",
+        "extraction_rationale": "Explicit commitment to adopt measures and routine analysis; framed as regional target proposal."
+      },
+      {
+        "policy_statement": "Develop a cross-cutting checklist of sustainability criteria (including circular economy) to be integrated into upstream design of each renovation/construction project.",
+        "verbatim_text": "-  Incorporate the circular economy dimension (reversibility, flexibility, pooling, reuse, etc.) into construction and renovation projects right from the design stage. : The City Council\nis committed to developing a cross-cutting checklist of sustainability criteria, including the circular economy dimension, which will be integrated into the upstream thinking of each renovation/construction project.",
+        "policy_type": "sub",
+        "parent_policy_name": "An exemplary energy policy and building management (2030 strategic objectives) for energy efficiency, renewable/local energy, and sustainable construction/renovation.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Energy & buildings",
+        "extraction_rationale": "Specific instrument (checklist) to be developed and applied."
+      },
+      {
+        "policy_statement": "Incorporate water management and biodiversity protection systems (e.g., green roofs, cisterns, permeability, nesting boxes, urban agriculture) from the design stage where conditions allow.",
+        "verbatim_text": "-  From the design stage of construction and renovation projects, incorporate systems for managing water  and  protecting  biodiversity  where  conditions  allow  (e.g.  green  roofs, cisterns, valleys, permeability, nesting boxes, urban agriculture, etc.).",
+        "policy_type": "sub",
+        "parent_policy_name": "An exemplary energy policy and building management (2030 strategic objectives) for energy efficiency, renewable/local energy, and sustainable construction/renovation.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Energy & buildings",
+        "extraction_rationale": "Concrete design requirement with examples of measures."
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "cluster_type": "parent_with_subs",
+    "section_header": "public space, a living space served by low-carbon, peaceful and active forms of transport",
+    "parent": {
+      "policy_statement": "Public space and transport strategy (2030 strategic objectives) to support low-carbon, active and shared mobility, sustainable freight, and exemplary employer mobility.",
+      "verbatim_text": "## 2030 Strategic objectives\n\n1. Rethinking public space as a place to live\n\n## 2. Encouraging  a  modal  shift  towards  low-carbon,  active  and  shared transport: walking, cycling, public transport, etc.\n\n3. Becoming a pioneer city in sustainable freight transport\n\n## 4. An exemplary employer",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Public space, a living space served  by  low-carbon,  peaceful and active forms of transport",
+      "sector": "Mobility",
+      "extraction_rationale": "Thematic chapter with multiple numbered objective blocks; functions as parent for sub-policies."
+    },
+    "subs": [
+      {
+        "policy_statement": "Incorporate the 10-Minute City ambition into urban planning and development to improve quality of life by 2030.",
+        "verbatim_text": " Urban planning and development incorporate the 10-Minute City ambition to improve the quality of life of the people of Brussels.",
+        "policy_type": "sub",
+        "parent_policy_name": "Public space and transport strategy (2030 strategic objectives) to support low-carbon, active and shared mobility, sustainable freight, and exemplary employer mobility.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Mobility",
+        "extraction_rationale": "Specific planning commitment tied to defined concept (10-Minute City)."
+      },
+      {
+        "policy_statement": "Routinely apply the STOP principle prioritising walking, cycling/active micro-mobility, public transport, then shared private transport and private cars.",
+        "verbatim_text": " The  City  of  Brussels  routinely  applies  the  STOP  principle (prioritising  the  different modes of transport and favouring them in the following order: walking, bicycles and active micro transport ...), public transport, collective private transport ... and finally individual private transport...",
+        "policy_type": "sub",
+        "parent_policy_name": "Public space and transport strategy (2030 strategic objectives) to support low-carbon, active and shared mobility, sustainable freight, and exemplary employer mobility.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Mobility",
+        "extraction_rationale": "Defined policy principle with commitment to routine application."
+      },
+      {
+        "policy_statement": "Increase by 50% the public space dedicated to public transport, active transport, living/meeting spaces and green spaces by 2030.",
+        "verbatim_text": " The public space of 2030 is improved by increasing by 50% the public space dedicated to public transport, active transport, living/meeting spaces and green spaces.",
+        "policy_type": "sub",
+        "parent_policy_name": "Public space and transport strategy (2030 strategic objectives) to support low-carbon, active and shared mobility, sustainable freight, and exemplary employer mobility.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Mobility",
+        "extraction_rationale": "Quantified land-use/public-space reallocation target."
+      },
+      {
+        "policy_statement": "Achieve modal share targets by 2030: cycling ~15% of journeys; walking 30%; public transport 30%; private motor vehicle trips down to 25%.",
+        "verbatim_text": "-  Walking, cycling and public transport are encouraged, easy and safe... Cycling accounts for around 15% of journeys made in the City of Brussels. Walking\n- accounts for 30% of all journeys.\n-  Public transport ... accounting for 30% of journeys in the City of Brussels.\n-  Car traffic is reduced: Trips made by private motor vehicle now account for only a quarter of all journeys...",
+        "policy_type": "sub",
+        "parent_policy_name": "Public space and transport strategy (2030 strategic objectives) to support low-carbon, active and shared mobility, sustainable freight, and exemplary employer mobility.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Mobility",
+        "extraction_rationale": "Multiple quantified modal share targets clearly stated."
+      },
+      {
+        "policy_statement": "Reduce traffic from conventional thermal combustion vehicles by 50% in favour of electric and hybrid vehicles by 2030.",
+        "verbatim_text": "-  Traffic from conventional thermal combustion vehicles has fallen by 50% in favour of electric and hybrid vehicles.",
+        "policy_type": "sub",
+        "parent_policy_name": "Public space and transport strategy (2030 strategic objectives) to support low-carbon, active and shared mobility, sustainable freight, and exemplary employer mobility.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Mobility",
+        "extraction_rationale": "Quantified vehicle technology transition target."
+      },
+      {
+        "policy_statement": "Reduce heavy goods vehicle presence in residential areas and around schools/crèches/sports halls and increase environmentally-friendly, pooled last-mile logistics.",
+        "verbatim_text": "3. Becoming a pioneer city in sustainable freight transport\n-  Fewer heavy goods vehicles in residential areas and around schools, crèches, sports halls, etc.\n-  Gradual increase in environmentally-friendly modes of transport and pooling of lastmile logistics.",
+        "policy_type": "sub",
+        "parent_policy_name": "Public space and transport strategy (2030 strategic objectives) to support low-carbon, active and shared mobility, sustainable freight, and exemplary employer mobility.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Mobility",
+        "extraction_rationale": "Concrete freight measures (restriction + modal/pooling shift)."
+      },
+      {
+        "policy_statement": "Increase the number of sustainable logistics hubs and encourage operators to offer sustainable logistics solutions (pilot schemes).",
+        "verbatim_text": "-  Logistics hub: Support sustainable freight transport and distribution logistics through pilot schemes:\n- o The  City  Council  has  set  itself  the  objective  of  increasing  the  number  of sustainable logistics hubs...\n- o The  City  Council  encourages  commercial  and  transport  operators  to  offer sustainable logistics solutions.",
+        "policy_type": "sub",
+        "parent_policy_name": "Public space and transport strategy (2030 strategic objectives) to support low-carbon, active and shared mobility, sustainable freight, and exemplary employer mobility.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Mobility",
+        "extraction_rationale": "Specific intervention (pilot schemes) plus objective to increase hubs."
+      },
+      {
+        "policy_statement": "By 2030, ensure over 90% of public authority home-to-work journeys use low-carbon modes (vs. 80% in 2019).",
+        "verbatim_text": "## 4. An exemplary employer\n\n-  A local authority that uses low-carbon modes of transport: By 2030, more than 90% of the public authority's home-to-work journeys will be made using low-carbon modes of transport, compared with 80% in 2019.",
+        "policy_type": "sub",
+        "parent_policy_name": "Public space and transport strategy (2030 strategic objectives) to support low-carbon, active and shared mobility, sustainable freight, and exemplary employer mobility.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Mobility",
+        "extraction_rationale": "Quantified commuting modal shift target with baseline."
+      },
+      {
+        "policy_statement": "By 2030, establish a shared and co-managed vehicle fleet across City Council, CPAS and para-communal non-profits, and reduce/optimize fleet use (20% fleet reduction vs 2018; share 70% of non-utility vehicles internally; 100% low-carbon engines where alternatives exist).",
+        "verbatim_text": "-  Based on similar needs and uses, streamline and pool vehicles ...:    By  2030,  the  City Council, CPAS and the para-communal non-profit organisations will have a shared and co-managed fleet of vehicles.\n-  The City Council is committed to reducing its fleet of vehicles by 20% compared with 2018, and to sharing 70% of non-utility vehicles internally.\n-  100% of the car fleet uses a low-carbon engine, provided that the alternative exists.",
+        "policy_type": "sub",
+        "parent_policy_name": "Public space and transport strategy (2030 strategic objectives) to support low-carbon, active and shared mobility, sustainable freight, and exemplary employer mobility.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Mobility",
+        "extraction_rationale": "Multiple specific fleet management targets and commitments with dates/baselines."
+      },
+      {
+        "policy_statement": "Adopt a business travel policy prioritising rail over air for trips under 8 hours, and prefer environmentally-friendly modes for journeys under 5 km where feasible.",
+        "verbatim_text": "-  The City Council has a business travel policy and will give preference to rail over air for all train journeys of less than 8 hours. In addition, for every journey of less than 5 km, where logistics allow, the City Council will give preference to environmentally-friendly modes of transport.",
+        "policy_type": "sub",
+        "parent_policy_name": "Public space and transport strategy (2030 strategic objectives) to support low-carbon, active and shared mobility, sustainable freight, and exemplary employer mobility.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Mobility",
+        "extraction_rationale": "Clear operational travel rules (mode preference thresholds) are specific policy measures."
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "cluster_type": "parent_with_subs",
+    "section_header": "zero waste and circular resource management",
+    "parent": {
+      "policy_statement": "Zero waste and circular resource management strategy (2030 strategic objectives) covering waste reduction, reuse, recycling/sorting, and biowaste composting.",
+      "verbatim_text": "## 2030 Strategic objectives\n\n## 1. Consuming differently by reducing the quantity of waste\n\n## 2. Reusing the resources around us\n\n## 3. Recycling through better organisation of waste sorting\n\n## 4. Composting bio-waste from the city and third parties",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Zero waste and circular resource management",
+      "sector": "Waste",
+      "extraction_rationale": "Thematic chapter with four numbered strategic objective groups; umbrella for multiple sub-policies."
+    },
+    "subs": [
+      {
+        "policy_statement": "Achieve an overall 20% reduction in waste produced annually per inhabitant and by professionals (aligned with regional targets) by 2030.",
+        "verbatim_text": "-  Overall 20% reduction in the quantities of waste produced annually per inhabitant and by professionals, in line with regional targets.",
+        "policy_type": "sub",
+        "parent_policy_name": "Zero waste and circular resource management strategy (2030 strategic objectives) covering waste reduction, reuse, recycling/sorting, and biowaste composting.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Waste",
+        "extraction_rationale": "Quantified reduction target."
+      },
+      {
+        "policy_statement": "Reduce waste sent to incinerator (white bags) by 30% by 2030.",
+        "verbatim_text": "-  30% reduction in waste sent to the incinerator (white bags).",
+        "policy_type": "sub",
+        "parent_policy_name": "Zero waste and circular resource management strategy (2030 strategic objectives) covering waste reduction, reuse, recycling/sorting, and biowaste composting.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Waste",
+        "extraction_rationale": "Quantified waste-stream reduction target."
+      },
+      {
+        "policy_statement": "Reduce waste produced by City Council departments by 30% by 2030.",
+        "verbatim_text": "-  30% reduction in waste produced by the City Council departments.",
+        "policy_type": "sub",
+        "parent_policy_name": "Zero waste and circular resource management strategy (2030 strategic objectives) covering waste reduction, reuse, recycling/sorting, and biowaste composting.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Waste",
+        "extraction_rationale": "Quantified internal waste reduction commitment."
+      },
+      {
+        "policy_statement": "From July 2023, stop serving food/drink prepared in single-use catering equipment and serve only mains water for City Council activities and City-organised events (zero-waste strategy).",
+        "verbatim_text": "In  line  with  the  Brussels-Capital  Region's  BRUDALEX  2.0,  from  July  2023  the  City Council will no longer serve food and drink prepared in single-use catering equipment, and will only serve mains water as part of its own activities and at events it organises.",
+        "policy_type": "sub",
+        "parent_policy_name": "Zero waste and circular resource management strategy (2030 strategic objectives) covering waste reduction, reuse, recycling/sorting, and biowaste composting.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Waste",
+        "extraction_rationale": "Clear operational restriction with start date; concrete zero-waste measure."
+      },
+      {
+        "policy_statement": "Label 500 'welcome container' businesses in the city to promote zero-waste solutions in shops.",
+        "verbatim_text": "-  Shops offer 'zero waste' solutions:\n\nLabelling of 500 welcome container businesses in the city.",
+        "policy_type": "sub",
+        "parent_policy_name": "Zero waste and circular resource management strategy (2030 strategic objectives) covering waste reduction, reuse, recycling/sorting, and biowaste composting.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Waste",
+        "extraction_rationale": "Quantified programmatic action (labelling) to drive waste reduction."
+      },
+      {
+        "policy_statement": "Promote sustainable businesses via 5 zero-waste routes around the city.",
+        "verbatim_text": "-  The City  of  Brussels  is  committed  to  promoting  sustainable  businesses  via  5  zerowaste routes around the city (see existing routes).",
+        "policy_type": "sub",
+        "parent_policy_name": "Zero waste and circular resource management strategy (2030 strategic objectives) covering waste reduction, reuse, recycling/sorting, and biowaste composting.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Waste",
+        "extraction_rationale": "Specific intervention with quantifiable count (5 routes)."
+      },
+      {
+        "policy_statement": "Ensure each new City Council contract is geared towards a Zero Waste policy.",
+        "verbatim_text": "-  The  City  Council  is  committed  to  ensuring  that  each  new  City  Council  contract  is geared towards a Zero Waste policy.",
+        "policy_type": "sub",
+        "parent_policy_name": "Zero waste and circular resource management strategy (2030 strategic objectives) covering waste reduction, reuse, recycling/sorting, and biowaste composting.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Waste",
+        "extraction_rationale": "Procurement requirement stated as commitment."
+      },
+      {
+        "policy_statement": "Set up a waste recovery and reconditioning method at one of the city's markets.",
+        "verbatim_text": "-  The City Council undertakes to set up a waste recovery and reconditioning method at one of the city's markets.",
+        "policy_type": "sub",
+        "parent_policy_name": "Zero waste and circular resource management strategy (2030 strategic objectives) covering waste reduction, reuse, recycling/sorting, and biowaste composting.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Waste",
+        "extraction_rationale": "Concrete program action with defined location type (market)."
+      },
+      {
+        "policy_statement": "Ensure 70% of bulky-collection waste is recycled/upgraded/recovered directly by social economy actors and 90% of bulky-collection waste is sorted.",
+        "verbatim_text": "-  Increase the recycling and reuse of waste collected during bulky goods collections...:  70%  of  the  waste  collected during bulky goods collections is recycled, upgraded or recovered...\n-  Increase  the  sorting  of  waste  collected  during  bulky  goods  collections:  90%  of  the waste collected during bulky goods collections is sorted.",
+        "policy_type": "sub",
+        "parent_policy_name": "Zero waste and circular resource management strategy (2030 strategic objectives) covering waste reduction, reuse, recycling/sorting, and biowaste composting.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Waste",
+        "extraction_rationale": "Two quantified targets for bulky waste management."
+      },
+      {
+        "policy_statement": "Improve sorting so that 60% of household waste is ready for reuse/recycling; 70% of non-household (non-construction) waste suitable; 95% of construction waste ready for reuse/recycling.",
+        "verbatim_text": "-  Improved sorting of household waste: 60% of the weight of household waste is ready for re-use and recycling  1 .\n-  Increase  in  the  proportion  of  non-household  waste ...: 70% ... is suitable for re-use and recycling.\n-  Increase in the proportion of construction waste ready for re-use and recycling: 95% of construction waste is ready for re-use and recycling.",
+        "policy_type": "sub",
+        "parent_policy_name": "Zero waste and circular resource management strategy (2030 strategic objectives) covering waste reduction, reuse, recycling/sorting, and biowaste composting.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Waste",
+        "extraction_rationale": "Multiple quantified sorting/recycling readiness targets by waste stream."
+      },
+      {
+        "policy_statement": "Recover 100% of biowaste produced by the city and set up individual and collective composting facilities wherever possible, including community composting accessible to all residents under the 10-Minute City initiative.",
+        "verbatim_text": "-  Increase the recovery of bio-waste produced by the city: Recover 100% of the biowaste produced by the city.\n...\n-  Set up individual and collective composting facilities wherever possible:\n\nAs part of the 10-Minute City initiative, the City Council aims to set up community composting  facilities  accessible  to  all  Brussels  residents...",
+        "policy_type": "sub",
+        "parent_policy_name": "Zero waste and circular resource management strategy (2030 strategic objectives) covering waste reduction, reuse, recycling/sorting, and biowaste composting.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Waste",
+        "extraction_rationale": "Quantified recovery target plus specific composting facility rollout commitment."
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "cluster_type": "parent_with_subs",
+    "section_header": "towards satisfactory water management",
+    "parent": {
+      "policy_statement": "Towards satisfactory water management (2030 strategic objectives) covering water consumption reduction, flood risk reduction, blue network cooling/access to water, and water quality protection.",
+      "verbatim_text": "## 2030 Strategic objectives\n\n1. Water, a precious resource to be consumed sustainably\n\n## 2. Combatting the growing risk of flooding\n\n## 3. Blue  mesh:  Using  water  as  a  source  of  freshness...\n\n## 4. Preserving water quality",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Towards satisfactory water management",
+      "sector": "Water",
+      "extraction_rationale": "Water chapter introduces multiple numbered strategic objective lists; acts as umbrella."
+    },
+    "subs": [
+      {
+        "policy_statement": "Reduce mains water consumption by 40% for building use and outdoor maintenance by identifying/treating leaks in all buildings and equipping public buildings (where possible) with water storage capacity matching needs; also deploy municipal rainwater storage covering 20 days’ use and equip renovated public buildings similarly (if conditions allow).",
+        "verbatim_text": " Reduce our consumption of mains water by 40% in the use of buildings and in the maintenance of outdoor areas: The City Council has set itself the target of identifying and treating every leak in all of its buildings, as well as equipping all public buildings, where technically possible, with a water storage capacity...\n-  Equip the municipality with a rainwater storage capacity. Together, these installations will cover the equivalent of 20 days' use...\n-  During renovation, equip public buildings with rainwater storage capacity equivalent to 20 days' use, if conditions allow.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards satisfactory water management (2030 strategic objectives) covering water consumption reduction, flood risk reduction, blue network cooling/access to water, and water quality protection.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Water",
+        "extraction_rationale": "Quantified reduction target plus concrete measures and storage-capacity targets."
+      },
+      {
+        "policy_statement": "Increase access to drinking water by making public drinking fountains easily accessible in dense areas and near every sports ground and children’s play area.",
+        "verbatim_text": "-  Increase access to drinking water: Public drinking fountains will be easily accessible in densely  built-up  areas  and  in  the  immediate  vicinity  of  every  sports  ground  and children's play area.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards satisfactory water management (2030 strategic objectives) covering water consumption reduction, flood risk reduction, blue network cooling/access to water, and water quality protection.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Water",
+        "extraction_rationale": "Specific service-access commitment with defined locations."
+      },
+      {
+        "policy_statement": "Ensure 100% of roadworks in priority intervention zones and upstream of flood-prone areas incorporate Integrated Stormwater Management (ISWM).",
+        "verbatim_text": "-  Generalise  Integrated  Stormwater  Management  (ISWM)  during  public  works  in priority areas and upstream of them: The City Council is committed to ensuring that 100% of roadworks in priority intervention zones and upstream of flood-prone areas incorporate integrated rainwater management.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards satisfactory water management (2030 strategic objectives) covering water consumption reduction, flood risk reduction, blue network cooling/access to water, and water quality protection.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Water",
+        "extraction_rationale": "Binding-scope commitment with 100% coverage requirement."
+      },
+      {
+        "policy_statement": "Permeabilise or disconnect from sewers at least 250,000 m² of impermeable surfaces in the Molenbeek catchment priority intervention zone.",
+        "verbatim_text": "-  The City Council is committed to permeabilising or disconnecting from the sewers at least  250,000m²  of  impermeable  surfaces  in  the  priority  intervention  zone  of  the Molenbeek catchment area.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards satisfactory water management (2030 strategic objectives) covering water consumption reduction, flood risk reduction, blue network cooling/access to water, and water quality protection.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Water",
+        "extraction_rationale": "Quantified area-based flood management target."
+      },
+      {
+        "policy_statement": "Ensure 100% of City Council projects in priority flood control zones incorporate integrated rainwater management measures.",
+        "verbatim_text": "-  The City Council's projects in priority flood control zones include integrated rainwater management system projects: The City Council is committed to ensuring that 100% of its projects incorporate integrated rainwater management system measures.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards satisfactory water management (2030 strategic objectives) covering water consumption reduction, flood risk reduction, blue network cooling/access to water, and water quality protection.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Water",
+        "extraction_rationale": "100% integration requirement for own projects in defined zones."
+      },
+      {
+        "policy_statement": "Encourage local stakeholders to implement ISWM in priority intervention zones with a target of at least 50 voluntary ISWM projects supported via awareness campaign and grants.",
+        "verbatim_text": "-  The City Council will encourage the integration of integrated rainwater management system  intervention  for  all  projects  by  local  interested  parties...: At least 50 integrated rainwater management system projects by local interested parties in priority intervention zones are carried out on a voluntary basis ... via  the  City  Council's  flood  control  awareness campaign, with the help of municipal and regional grants.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards satisfactory water management (2030 strategic objectives) covering water consumption reduction, flood risk reduction, blue network cooling/access to water, and water quality protection.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Water",
+        "extraction_rationale": "Quantified target plus mechanism (campaign + grants) directed at third parties."
+      },
+      {
+        "policy_statement": "Implement the blue network to create permeable/infiltrating water surfaces linked to the green network; ensure cool/recreational water access within 10 minutes in every neighbourhood; and provide an accessible natural open-air bathing area in the City of Brussels region.",
+        "verbatim_text": "-  The blue network will be implemented, creating a network of permeable, infiltrating water surfaces throughout the area, linked to the green network.\n-  Increase the number of cool areas or recreational access to water in every City of Brussels neighbourhood, accessible in less than 10 minutes from any point in the city.\n-  A natural open-air bathing area will be accessible in the City of Brussels region.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards satisfactory water management (2030 strategic objectives) covering water consumption reduction, flood risk reduction, blue network cooling/access to water, and water quality protection.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Water",
+        "extraction_rationale": "Concrete infrastructure/access commitments including a quantified accessibility standard."
+      },
+      {
+        "policy_statement": "Maintain good water quality in ponds and semi-natural water areas via constant monitoring and a defined/applied intervention procedure; and work with other authorities to reduce sewage discharges into the canal and the Seine river.",
+        "verbatim_text": "-  Good water quality ... will be maintained in all the ponds and (semi-) natural water areas: constant monitoring will be carried out and an intervention procedure will be defined and applied.\n-  The City Council undertakes to do its utmost, in cooperation with the Regional Council and the municipalities in the same catchment area, to reduce the discharge of sewage into the canal and the Seine river.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards satisfactory water management (2030 strategic objectives) covering water consumption reduction, flood risk reduction, blue network cooling/access to water, and water quality protection.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Water",
+        "extraction_rationale": "Operational commitments (monitoring/procedure; intergovernmental action to reduce discharges)."
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "cluster_type": "parent_with_subs",
+    "section_header": "towards more sustainable food systems",
+    "parent": {
+      "policy_statement": "Towards more sustainable food systems (2030 strategic objectives) covering agro-ecological production, Good Food availability, procurement/meal standards, and food waste reduction.",
+      "verbatim_text": "## 2030 Strategic objectives\n\n## 1. Relocating sustainable production\n\n## 2. A city that meets the demand for sustainable, accessible food\n\n## 3. Reducing food waste",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Towards more sustainable food systems",
+      "sector": "Food & agriculture",
+      "extraction_rationale": "Food chapter has multiple numbered strategic objective lists; acts as umbrella for sub-policies."
+    },
+    "subs": [
+      {
+        "policy_statement": "Set aside 10 new hectares for agro-ecological open-ground professional farming on city land/property and set up 4 pilot projects in city green spaces.",
+        "verbatim_text": "-  The City Council promotes the use of surfaces ... to encourage agro-ecology...\n- o 10  new  hectares  have  been  set  aside  for  agro-ecological,  open-ground professional farming on city land and/or property.\n- o 4 pilot projects will be set up in the city's green spaces.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards more sustainable food systems (2030 strategic objectives) covering agro-ecological production, Good Food availability, procurement/meal standards, and food waste reduction.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Food & agriculture",
+        "extraction_rationale": "Quantified land allocation and pilot project commitments."
+      },
+      {
+        "policy_statement": "Propose doubling the number of professionals in urban agriculture and explore developing qualifying training in horticulture/market gardening.",
+        "verbatim_text": "-  Increase the number of professionals working in the field of urban agriculture:\n- o The City Council is proposing to double the number of professionals working in the field of urban agriculture.\n- o The city will look into the possibility of developing the provision of training leading to qualifications in horticulture and market gardening.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards more sustainable food systems (2030 strategic objectives) covering agro-ecological production, Good Food availability, procurement/meal standards, and food waste reduction.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Food & agriculture",
+        "extraction_rationale": "Quantified workforce proposal plus concrete training exploration commitment."
+      },
+      {
+        "policy_statement": "Eliminate the use of synthetic pesticides in the city.",
+        "verbatim_text": "-  Synthetic pesticides are no longer used in the city.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards more sustainable food systems (2030 strategic objectives) covering agro-ecological production, Good Food availability, procurement/meal standards, and food waste reduction.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Food & agriculture",
+        "extraction_rationale": "Clear prohibition-style commitment."
+      },
+      {
+        "policy_statement": "If procurement rules allow, source at least 50% of fruits and vegetables purchased by the City of Brussels from local production channels aligned with EU Farm to Fork objectives.",
+        "verbatim_text": "-  With  a  view  to  reterritorialization,  and  if  current  European  regulations  on  public procurement allow, at least 50% of the fruit and vegetables purchased by the City of Brussels come from local production channels and contribute to the objectives of the European Farm To Fork strategy.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards more sustainable food systems (2030 strategic objectives) covering agro-ecological production, Good Food availability, procurement/meal standards, and food waste reduction.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Food & agriculture",
+        "extraction_rationale": "Quantified procurement target with conditionality explicitly stated."
+      },
+      {
+        "policy_statement": "Double the number of local producers and artisans at the city's markets and prioritise permits for local producers/artisans.",
+        "verbatim_text": "-  Develop local sources for the city's markets: Double the number of local producers and artisans at the city's markets. The town gives priority to providing permits to local producers and artisans.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards more sustainable food systems (2030 strategic objectives) covering agro-ecological production, Good Food availability, procurement/meal standards, and food waste reduction.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Food & agriculture",
+        "extraction_rationale": "Quantified target plus administrative mechanism (permit priority)."
+      },
+      {
+        "policy_statement": "Propose regional targets: 50 Good Food shops and 100 Good Food label restaurants.",
+        "verbatim_text": "-  Increase the number of Good Food and bulk products on offer in the city: The city is proposing that the region should have 50 Good Food shops.\n-  Increase the number of Good Food restaurants: The city is proposing that the region reach 100 restaurants with the Good Food label.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards more sustainable food systems (2030 strategic objectives) covering agro-ecological production, Good Food availability, procurement/meal standards, and food waste reduction.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Food & agriculture",
+        "extraction_rationale": "Quantified proposed targets addressed to the region."
+      },
+      {
+        "policy_statement": "Propose launching at least 5 neighbourhood kitchens in the city.",
+        "verbatim_text": "-  Encourage  \"neighbourhood  kitchens\"  throughout  the  city:  The  City  Council  is proposing to the region to launch at least 5 \"neighbourhood kitchens\" in the city.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards more sustainable food systems (2030 strategic objectives) covering agro-ecological production, Good Food availability, procurement/meal standards, and food waste reduction.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Food & agriculture",
+        "extraction_rationale": "Specific intervention with minimum number."
+      },
+      {
+        "policy_statement": "Set up at least one logistics hub within the city for pooling deliveries and/or waste management and support logistics tools for pooling sustainable food operators in shopping districts.",
+        "verbatim_text": "-  Setting up logistics hubs in the city:\n- o At least one logistics hub within the city, with the aim of pooling deliveries and/or waste management.\n- o The City Council undertakes to support logistical resources or tools dedicated to the pooling of sustainable food operators in shopping districts.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards more sustainable food systems (2030 strategic objectives) covering agro-ecological production, Good Food availability, procurement/meal standards, and food waste reduction.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Food & agriculture",
+        "extraction_rationale": "Concrete infrastructure/tool commitments with minimum count."
+      },
+      {
+        "policy_statement": "Promote flexitarian diets with a target that 50% of Brussels residents eat meat 4 days a week or less (vs. 36% in 2020).",
+        "verbatim_text": "-  Promoting the flexitarian diet to the people of Brussels: 50% of Brussels residents eat meat 4 days a week or less (36% in 2020).",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards more sustainable food systems (2030 strategic objectives) covering agro-ecological production, Good Food availability, procurement/meal standards, and food waste reduction.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Food & agriculture",
+        "extraction_rationale": "Quantified behavioural/diet target with baseline."
+      },
+      {
+        "policy_statement": "Ensure food served in city facilities meets Good Food criteria: meals served by Cuisines Bruxelloises are 100% organic; meat reduced to 60% (as stated), without increasing red meat; vegetarian menus 3 days out of 5.",
+        "verbatim_text": "-  The food served in the city's facilities fully complies with Good Food criteria: ... the meals served by the Cuisines Bruxelloises to the City (schools, crèches, etc.) are 100% organic, have reduced the amount of meat to 60% (previously 50%), without increasing the proportion of red meat, and the menus are vegetarian 3 days out of 5.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards more sustainable food systems (2030 strategic objectives) covering agro-ecological production, Good Food availability, procurement/meal standards, and food waste reduction.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Food & agriculture",
+        "extraction_rationale": "Operational meal/procurement standards with quantified requirements."
+      },
+      {
+        "policy_statement": "Host three zero-waste markets by 2030 and run awareness campaigns to encourage bulk and organic products in markets.",
+        "verbatim_text": "-  Encourage the development of \"bulk\" and \"organic\" products in the city's markets: The city is committed to hosting three zero-waste markets in its region by 2030, and to conducting awareness-raising campaigns.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards more sustainable food systems (2030 strategic objectives) covering agro-ecological production, Good Food availability, procurement/meal standards, and food waste reduction.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Food & agriculture",
+        "extraction_rationale": "Quantified commitment with timeframe and accompanying measure."
+      },
+      {
+        "policy_statement": "Reduce food waste by 50% by 2030 within city infrastructure and call on the region to reduce food waste by 50% by 2030; recover at least 100 tons/year of surplus/unsold food.",
+        "verbatim_text": "-  Reduce food waste within the city's  infrastructure:  Reduce food  waste by  50% by 2030...\n-  Operate a business within the City of Brussels. The city is calling  on  the  region to reduce food waste by 50% by 2030.\n-  Increased food recovery from food surpluses/unsold food: At least 100 tons of surplus food are recovered every year.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards more sustainable food systems (2030 strategic objectives) covering agro-ecological production, Good Food availability, procurement/meal standards, and food waste reduction.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Food & agriculture",
+        "extraction_rationale": "Quantified waste reduction and recovery targets with deadline."
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "cluster_type": "parent_with_subs",
+    "section_header": "a green city that welcomes biodiversity",
+    "parent": {
+      "policy_statement": "A green city that welcomes biodiversity (2030 strategic objectives) to manage green spaces without synthetic pesticides, develop a connected green network, improve access, and enhance tree governance and global biodiversity actions.",
+      "verbatim_text": "## 2030 Strategic objectives\n\n## 1. Protecting and developing local and urban biodiversity\n\n## 2. Preserving biodiversity on a global scale\n\n## 3. Using nature as a solution to combat heat islands",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "A  green  city  that  welcomes biodiversity",
+      "sector": "Vegetation and biodiversity",
+      "extraction_rationale": "Biodiversity chapter provides multiple numbered strategic objective lists; serves as umbrella."
+    },
+    "subs": [
+      {
+        "policy_statement": "Label 100% of the city's green spaces as “Réseau Nature” by 2030 under differentiated management criteria including absence of synthetic pesticides and prioritising indigenous plants.",
+        "verbatim_text": "-  Develop a differentiated management system for green spaces, meeting the criteria of  the  \"Réseau  Nature\"  label... absence  of  synthetic  pesticides...\n- o 100% of the city's green spaces to be labelled Réseau Nature by 2030.",
+        "policy_type": "sub",
+        "parent_policy_name": "A green city that welcomes biodiversity (2030 strategic objectives) to manage green spaces without synthetic pesticides, develop a connected green network, improve access, and enhance tree governance and global biodiversity actions.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Vegetation and biodiversity",
+        "extraction_rationale": "Quantified coverage target tied to defined label/management criteria."
+      },
+      {
+        "policy_statement": "Map and develop the city's green network by 2030 to complement the regional network (new green spaces/greening incl. trees, shrubs, climbing plants, green roofs) and identify priority migration corridors leading to biodiversity measures.",
+        "verbatim_text": "-  Develop  the  City  of  Brussels'  green  network ...\n- o By  2030,  the  city's  green  network  will  be  mapped  and  developed  to complement the regional network... Priority migration corridors will have been identified,  giving  rise  to  new  measures  to  promote  biodiversity  and  species migration.",
+        "policy_type": "sub",
+        "parent_policy_name": "A green city that welcomes biodiversity (2030 strategic objectives) to manage green spaces without synthetic pesticides, develop a connected green network, improve access, and enhance tree governance and global biodiversity actions.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Vegetation and biodiversity",
+        "extraction_rationale": "Time-bound mapping/development commitment with specific actions."
+      },
+      {
+        "policy_statement": "Ensure every resident has access to a local green space or park within 10 minutes.",
+        "verbatim_text": "-  Complete the green network so that every resident has access to a local green space or park within 10 minutes.",
+        "policy_type": "sub",
+        "parent_policy_name": "A green city that welcomes biodiversity (2030 strategic objectives) to manage green spaces without synthetic pesticides, develop a connected green network, improve access, and enhance tree governance and global biodiversity actions.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Vegetation and biodiversity",
+        "extraction_rationale": "Clear accessibility/service standard."
+      },
+      {
+        "policy_statement": "Develop 2 pilot projects to protect nocturnal biodiversity while guaranteeing a sense of security.",
+        "verbatim_text": "-  Preserving  biodiversity:  developing  2  pilot  projects  aimed  at  protecting  nocturnal biodiversity while guaranteeing a sense of security.",
+        "policy_type": "sub",
+        "parent_policy_name": "A green city that welcomes biodiversity (2030 strategic objectives) to manage green spaces without synthetic pesticides, develop a connected green network, improve access, and enhance tree governance and global biodiversity actions.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Vegetation and biodiversity",
+        "extraction_rationale": "Specific pilot project commitment with count."
+      },
+      {
+        "policy_statement": "Continue the Neder-Over-Hembeek Urban Forest project to create an extensive biodiversity conservatory.",
+        "verbatim_text": "-  Continuing  the  Neder-Over-Hembeek  Urban  Forest  project  to  create  an  extensive biodiversity conservatory.",
+        "policy_type": "sub",
+        "parent_policy_name": "A green city that welcomes biodiversity (2030 strategic objectives) to manage green spaces without synthetic pesticides, develop a connected green network, improve access, and enhance tree governance and global biodiversity actions.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Vegetation and biodiversity",
+        "extraction_rationale": "Named ongoing project continuation commitment."
+      },
+      {
+        "policy_statement": "Adopt and enforce a tree charter for all local operators to ensure appropriate species selection/planting/management, integrating principles throughout project and tree life cycle.",
+        "verbatim_text": "-  Adopt and ensure compliance with a tree charter aimed at all local operators, so that the right species can be planted in the right places and in the right way, and these trees can be managed with respect. Integrate these principles as early as possible in the project and throughout the life of the trees...",
+        "policy_type": "sub",
+        "parent_policy_name": "A green city that welcomes biodiversity (2030 strategic objectives) to manage green spaces without synthetic pesticides, develop a connected green network, improve access, and enhance tree governance and global biodiversity actions.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Vegetation and biodiversity",
+        "extraction_rationale": "Governance instrument (charter) with compliance/enforcement intent."
+      },
+      {
+        "policy_statement": "Plant 8 trees for each newborn child registered, in deforestation-sensitive areas in UN-recognised developing countries, to increase carbon sinks.",
+        "verbatim_text": "-  To increase carbon sinks, the City of Brussels is committed to planting 8 trees for each new-born child registered in its population registers in deforestation-sensitive areas in countries recognised by the UN as \"Developing Countries\".",
+        "policy_type": "sub",
+        "parent_policy_name": "A green city that welcomes biodiversity (2030 strategic objectives) to manage green spaces without synthetic pesticides, develop a connected green network, improve access, and enhance tree governance and global biodiversity actions.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Vegetation and biodiversity",
+        "extraction_rationale": "Quantified tree-planting commitment tied to registry events."
+      },
+      {
+        "policy_statement": "Incorporate biodiversity criteria into sustainable procurement for goods/services and Cuisines Bruxelloises food contracts to combat global ecosystem erosion.",
+        "verbatim_text": "-  The  city  is  helping  to  combat  the  erosion  of  ecosystems  on  a  global  scale  by incorporating biodiversity criteria into its sustainable procurement strategy for goods and services, and into the Cuisines Bruxelloises food contracts.",
+        "policy_type": "sub",
+        "parent_policy_name": "A green city that welcomes biodiversity (2030 strategic objectives) to manage green spaces without synthetic pesticides, develop a connected green network, improve access, and enhance tree governance and global biodiversity actions.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Vegetation and biodiversity",
+        "extraction_rationale": "Procurement policy mechanism explicitly stated."
+      },
+      {
+        "policy_statement": "Carry out 3 pilot projects to reduce urban heat island effects and use vegetation as the first solution to combat heat.",
+        "verbatim_text": "## 3. Using nature as a solution to combat heat islands\n\n-  The city is combatting heat islands in public spaces and buildings.\n- o The city is committed to carrying out 3 pilot projects to reduce the urban heat island phenomenon.\n- o The city is committed to using vegetation as the first solution to combat heat.",
+        "policy_type": "sub",
+        "parent_policy_name": "A green city that welcomes biodiversity (2030 strategic objectives) to manage green spaces without synthetic pesticides, develop a connected green network, improve access, and enhance tree governance and global biodiversity actions.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Vegetation and biodiversity",
+        "extraction_rationale": "Specific pilot count plus prioritised intervention approach."
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "cluster_type": "parent_with_subs",
+    "section_header": "brussels, a benchmark for sustainable events, culture, sport and tourism",
+    "parent": {
+      "policy_statement": "Brussels, a benchmark for sustainable events, culture, sport and tourism (2030 strategic objectives) requiring action plans and sustainability standards for cultural venues, events, and tourism.",
+      "verbatim_text": "## 2030 Strategic objectives\n\n## 1. An environmentally-responsible cultural policy\n\n## 2. An environmentally-responsible events policy\n\n## 3. An environmentally-responsible tourism policy",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Brussels, a benchmark for sustainable events, culture, sport and tourism",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Thematic chapter with multiple numbered objective lists; umbrella for sub-policies."
+    },
+    "subs": [
+      {
+        "policy_statement": "Ensure all City-funded/directly dependent cultural venues have an action plan aligned with climate objectives (and raise awareness for other venues), including low-carbon transport solutions, Good Food catering, local sourcing (including local currency), and reduced energy use.",
+        "verbatim_text": "-  The city undertakes to ensure that all cultural venues (museums, theatres and cultural centres) that are funded and directly dependent on the City Council have put in place an action plan designed to meet the area's climate objectives...\n- o Routinely  proposing  transport  solutions...\n- o An increase in the catering offering that meets the \"Good Food\" criteria.\n- o Promoting local sourcing ... through  the  use  of  a  local  Brussels currency.\n- o Reduced energy consumption.",
+        "policy_type": "sub",
+        "parent_policy_name": "Brussels, a benchmark for sustainable events, culture, sport and tourism (2030 strategic objectives) requiring action plans and sustainability standards for cultural venues, events, and tourism.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Cross-sector",
+        "extraction_rationale": "Mandated action plan requirement with specific components."
+      },
+      {
+        "policy_statement": "Ensure 100% of City-organised events comply with BME sustainability action plan; require events on City territory to meet mandatory eco-event charter criteria and have 50% go further via non-mandatory recommendations, focusing on transport, vegetarian food, waste sorting/reusable crockery, and reduced energy use.",
+        "verbatim_text": "-  The City Council undertakes to ensure that 100% of the events organised by the City Council  comply  with  the  BME's  sustainability  action  plan,  and  that  the  events organised on the City's territory comply with the mandatory criteria of the sustainable event charter and 50% propose to go further via non-mandatory recommendations...",
+        "policy_type": "sub",
+        "parent_policy_name": "Brussels, a benchmark for sustainable events, culture, sport and tourism (2030 strategic objectives) requiring action plans and sustainability standards for cultural venues, events, and tourism.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Cross-sector",
+        "extraction_rationale": "Clear compliance requirements with quantified shares (100%, 50%) and specified focus areas."
+      },
+      {
+        "policy_statement": "Double the number of tourists arriving by train and double the number of cycle tourists through promotion/facilitation measures; double the number of tourist accommodations with Green Key certification.",
+        "verbatim_text": "increase,  through  promotion  and  facilitation  measures,  the  proportion  of  tourist travel  using  a  low-carbon  solution  to  reach  twice  as  many  tourists  who  come  to Brussels by train and twice as many cycle tourists.\n\n-  Double the number of tourist accommodations with \"Green Key\" certification.",
+        "policy_type": "sub",
+        "parent_policy_name": "Brussels, a benchmark for sustainable events, culture, sport and tourism (2030 strategic objectives) requiring action plans and sustainability standards for cultural venues, events, and tourism.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Mobility",
+        "extraction_rationale": "Quantified tourism transport and accommodation certification targets."
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "cluster_type": "parent_with_subs",
+    "section_header": "towards an inclusive economic transition for the region",
+    "parent": {
+      "policy_statement": "Towards an inclusive economic transition for the region (2030 strategic objectives) to develop shared services/economy of use, second-hand promotion, local currency uptake, certifications, and transition jobs support.",
+      "verbatim_text": "## 2030 Strategic objectives\n\n1. Supporting economy of use, the circular economy and shared services\n\n2. Promoting and supporting the local economy through local sourcing\n\n## 3. Local businesses contribute to climate objectives\n\n## 4. Preparing for the emergence of new jobs linked to the transition",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Towards an inclusive economic transition for the region",
+      "sector": "Economy",
+      "extraction_rationale": "Thematic chapter with multiple numbered objective lists; umbrella for sub-policies."
+    },
+    "subs": [
+      {
+        "policy_statement": "By 2030, develop pooling of municipal public buildings for complementary functions (after feasibility study) and routinely consider pooling options in new construction/renovation projects.",
+        "verbatim_text": " Between now and 2030, the City Council is committed to developing the  pooling  of  municipal  public  buildings  for  other  complementary functions  during  the  periods  when  they  are  not  in  use,  following  a feasibility study on all of its assets. In addition, new (construction/renovation) projects will routinely take into account the options for pooling.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards an inclusive economic transition for the region (2030 strategic objectives) to develop shared services/economy of use, second-hand promotion, local currency uptake, certifications, and transition jobs support.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Economy",
+        "extraction_rationale": "Time-bound commitment with prerequisite feasibility study and ongoing design requirement."
+      },
+      {
+        "policy_statement": "Promote second-hand initiatives and certify 5 second-hand stores each year.",
+        "verbatim_text": " Promoting and supporting access to second-hand products:\n- o The City Council is committed to promoting second-hand initiatives (certification, sales route).\n- o Certify 5 second-hand stores each year.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards an inclusive economic transition for the region (2030 strategic objectives) to develop shared services/economy of use, second-hand promotion, local currency uptake, certifications, and transition jobs support.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Economy",
+        "extraction_rationale": "Specific recurring quantified certification target."
+      },
+      {
+        "policy_statement": "Increase acceptance of local currency Zinne: ensure 10 new public facilities and events accept Zinne; propose region develop Zinne use among 400 businesses.",
+        "verbatim_text": "-  Promoting local currency: increasing the number of service providers accepting the local currency Zinne in the City of Brussels.\n- o The City Council is committed to ensuring that 10 new public facilities ... and events in the city accept the Zinne.\n- o The City Council is proposing to the region to develop the use of the Zinne among 400 businesses.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards an inclusive economic transition for the region (2030 strategic objectives) to develop shared services/economy of use, second-hand promotion, local currency uptake, certifications, and transition jobs support.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Economy",
+        "extraction_rationale": "Quantified targets plus regional proposal; clear policy measures."
+      },
+      {
+        "policy_statement": "Propose tripling the number of environmentally certified businesses in the region compared with 2019 and promote these certifications and awarded companies.",
+        "verbatim_text": "-  Increase in the number of companies with environmental certification in the region...\n- o The City Council is proposing that the region should achieve a target of three times as many businesses with environmental certification in the region by 2019.\n- o The City Council undertakes to promote these certifications and the companies awarded them.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards an inclusive economic transition for the region (2030 strategic objectives) to develop shared services/economy of use, second-hand promotion, local currency uptake, certifications, and transition jobs support.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Economy",
+        "extraction_rationale": "Quantified regional target proposal plus City commitment to promote certifications."
+      },
+      {
+        "policy_statement": "Organise job placement into new professions required for the climate transition in collaboration with regional bodies (Regional Council, COCOF, VGC).",
+        "verbatim_text": "-  In  collaboration  with  the  Regional  Council,  the  COCOF  and  the  VGC,  organise  job placement in the new professions required for the climate transition.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards an inclusive economic transition for the region (2030 strategic objectives) to develop shared services/economy of use, second-hand promotion, local currency uptake, certifications, and transition jobs support.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Economy",
+        "extraction_rationale": "Specific programmatic action (job placement) with named partners."
+      }
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "cluster_type": "parent_with_subs",
+    "section_header": "children and young people are key parties in the climate change transition",
+    "parent": {
+      "policy_statement": "Children and young people transition strategy: extend and strengthen the City of Brussels eco-crèches model and implement exemplary school environment and youth education measures (2030 strategic objectives).",
+      "verbatim_text": "## 2030 Strategic objectives\n\n## 1. Extending and strengthening the City of Brussels eco-crèches model\n...\n2. An exemplary school environment\n...\n## Raising awareness and equipping young people to tackle climate change issues",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Children and young people are key parties in the climate change transition",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Thematic chapter with structured objective lists (infrastructure/mobility/waste/awareness; school environment); umbrella for sub-policies."
+    },
+    "subs": [
+      {
+        "policy_statement": "Eco-crèches: generalise washable nappies in 100% of eco-crèches; continue replacing plastic crockery with durable materials in 100% of eco-crèches; and use eco-responsible care/cleaning approaches across 100% of eco-crèches.",
+        "verbatim_text": "-  ... generalising the use of washable nappies in 100% of eco-crèches.\n-  Extend the use of washable nappies to 100% of eco-crèches.\n-  Continuing the gradual replacement of plastic crockery ... in 100% of eco-crèches...\n-  Care  and  cleaning  products: ... use eco-responsible products/diaper-changing techniques in 100% of the city's eco-crèches.",
+        "policy_type": "sub",
+        "parent_policy_name": "Children and young people transition strategy: extend and strengthen the City of Brussels eco-crèches model and implement exemplary school environment and youth education measures (2030 strategic objectives).",
+        "section_header": "2030 Strategic objectives - Extending and strengthening the City of Brussels eco-crèches model",
+        "sector": "Waste",
+        "extraction_rationale": "Multiple explicit 100% implementation commitments for eco-crèche practices."
+      },
+      {
+        "policy_statement": "Eco-crèches: strengthen food sustainability with 100% organic, local and seasonal food; increase non-meat meals; reduce waste; and extend Good Food certification to all host environments.",
+        "verbatim_text": "-  Strengthen food sustainability by offering 100% organic, local (including from Brussels agriculture)  and  seasonal  food,  increasing  the  frequency  of  non-meat  meals  and drastically  reducing  waste.  On  this  basis,  extend  Good  Food  certification  to  all  host environments.",
+        "policy_type": "sub",
+        "parent_policy_name": "Children and young people transition strategy: extend and strengthen the City of Brussels eco-crèches model and implement exemplary school environment and youth education measures (2030 strategic objectives).",
+        "section_header": "2030 Strategic objectives - Extending and strengthening the City of Brussels eco-crèches model",
+        "sector": "Food & agriculture",
+        "extraction_rationale": "Specific operational standards (100% organic/local/seasonal) and certification extension."
+      },
+      {
+        "policy_statement": "Eco-crèches: provide at least one eco-training per year for all service staff and at least one per year for all childcare staff; and organise at least one eco-crèche-related activity per year with parents in 100% of eco-crèches.",
+        "verbatim_text": "-  Organisation of at least one eco-training session per year for all service staff, organisation of at least one eco-training session per year for all childcare staff... and organisation of at least one activity linked to the  eco-crèche  project per  year  with parents  in  100%  of  eco-crèches...",
+        "policy_type": "sub",
+        "parent_policy_name": "Children and young people transition strategy: extend and strengthen the City of Brussels eco-crèches model and implement exemplary school environment and youth education measures (2030 strategic objectives).",
+        "section_header": "2030 Strategic objectives - Extending and strengthening the City of Brussels eco-crèches model",
+        "sector": "Cross-sector",
+        "extraction_rationale": "Quantified training/activity frequency requirements with full coverage."
+      },
+      {
+        "policy_statement": "School infrastructure: install water fountains in all school buildings and install rainwater recovery systems in schools with vegetable gardens; develop sustainable water management initiatives in schools.",
+        "verbatim_text": "-  Develop sustainable water management initiatives in schools (drinking fountains, water bottles, rainwater tanks, infiltration and flooding zones in courtyards, etc.).\n- o The  City  Council  is  committed  to  installing  rainwater  recovery  systems  in schools with vegetable gardens.\n- o The City Council is committed to equipping all its school buildings with water fountains.",
+        "policy_type": "sub",
+        "parent_policy_name": "Children and young people transition strategy: extend and strengthen the City of Brussels eco-crèches model and implement exemplary school environment and youth education measures (2030 strategic objectives).",
+        "section_header": "2030 Strategic objectives - An exemplary school environment",
+        "sector": "Water",
+        "extraction_rationale": "Concrete infrastructure commitments with clear scope."
+      },
+      {
+        "policy_statement": "School mobility: ensure 100% of schools have a School Travel Plan by 2030; support primary schools with cycle passes; and provide cycle parking in all renovation/construction projects.",
+        "verbatim_text": "-  Continue  to  develop  School  Travel  Plans  within  our  schools...\n- o 100% of schools will have a School Travel Plan by 2030, with the support of the regional council.\n- o The city is committed to supporting all its primary schools by organising cycle passes for pupils.\n... In all renovation and construction projects, the city undertakes to provide indoor and/or outdoor cycle parking.",
+        "policy_type": "sub",
+        "parent_policy_name": "Children and young people transition strategy: extend and strengthen the City of Brussels eco-crèches model and implement exemplary school environment and youth education measures (2030 strategic objectives).",
+        "section_header": "2030 Strategic objectives - An exemplary school environment",
+        "sector": "Mobility",
+        "extraction_rationale": "Quantified school coverage target with supporting measures."
+      }
+    ]
+  },
+  {
+    "cluster_id": 9,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transforming the public authority to ensure a successful transition",
+    "parent": {
+      "policy_statement": "Transforming the public authority (2030 strategic objectives) to strengthen HR capacity, sustainable finance/tax policy, sustainable procurement, climate monitoring, and Green IT.",
+      "verbatim_text": "## 2030 Strategic objectives\n\n## 1. Human resources management to meet future challenges\n\n## 2. The City Council's finances and tax policy, tools for transition\n\n## 3. Making public procurement more sustainable\n\n## 4. Climate planning and the City Council's internal monitoring methodology\n\n## 5. Technology at the service of climate planning",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Transforming the public authority to ensure a successful transition",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Thematic chapter with multiple numbered strategic objective lists; umbrella for sub-policies."
+    },
+    "subs": [
+      {
+        "policy_statement": "Train, empower and raise awareness of climate issues among City Council staff by function/department, and inform all new employees of relevant climate issues upon starting work.",
+        "verbatim_text": "## 1. Human resources management to meet future challenges\n\n-  The departments are developing skills to implement actions that meet the objectives of the climate plan:\n- o Training,  empowering  and  raising  awareness  of  climate  issues  among  City Council staff...\n- o All new employees are informed of the climate issues relevant to their role as soon as they start work.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transforming the public authority (2030 strategic objectives) to strengthen HR capacity, sustainable finance/tax policy, sustainable procurement, climate monitoring, and Green IT.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Cross-sector",
+        "extraction_rationale": "Specific institutional capacity-building measures."
+      },
+      {
+        "policy_statement": "Apply for maximum available European/regional/FWB subsidies for climate-related investments and strengthen/diversify ethical, socially responsible and sustainable investments.",
+        "verbatim_text": "## 2. The City Council's finances and tax policy, tools for transition\n\n-  For  its  investments  linked  to  climate  objectives,  the  City  Council  is  applying  for  a maximum of European, regional and FWB subsidies, etc.\n-  Strengthen and diversify ethical, socially responsible and sustainable investments.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transforming the public authority (2030 strategic objectives) to strengthen HR capacity, sustainable finance/tax policy, sustainable procurement, climate monitoring, and Green IT.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Cross-sector",
+        "extraction_rationale": "Explicit financial/resource mobilisation commitments."
+      },
+      {
+        "policy_statement": "Use taxation to encourage virtuous behaviours contributing to the transition and discourage harmful behaviours.",
+        "verbatim_text": "-  The  City  Council  is  committed  to  using  taxation  as  a  tool  to  encourage  virtuous behaviour  that  contributes  to  the  transition  and  to  discourage  behaviour  that  is harmful to the climate.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transforming the public authority (2030 strategic objectives) to strengthen HR capacity, sustainable finance/tax policy, sustainable procurement, climate monitoring, and Green IT.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Cross-sector",
+        "extraction_rationale": "Explicit commitment to use fiscal policy as a lever."
+      },
+      {
+        "policy_statement": "Implement sustainable procurement by ensuring contracts include ecological, social and ethical clauses; develop a sustainable procurement strategy; monitor contract effectiveness; and train/raise awareness among purchasers/users.",
+        "verbatim_text": "## 3. Making public procurement more sustainable\n\n-  Public procurement contracts meet sustainable procurement criteria, incorporating ecological, social and ethical clauses.\n- o The City Council, via the Procurement & Facilities department, will develop a sustainable  procurement  strategy...\n- o The  city  is  committed  to  monitoring  its  public  procurement  contracts  to measure their effectiveness...\n- o Public purchasers and/or users will be trained or made aware...",
+        "policy_type": "sub",
+        "parent_policy_name": "Transforming the public authority (2030 strategic objectives) to strengthen HR capacity, sustainable finance/tax policy, sustainable procurement, climate monitoring, and Green IT.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Cross-sector",
+        "extraction_rationale": "Concrete procurement policy actions and institutional commitments."
+      },
+      {
+        "policy_statement": "Carry out an annual carbon assessment and develop a regional resilience diagnosis; continuously monitor Climate Plan objectives and report annually to the College and publicly every two years; and monitor 100% of climate objectives via a single platform linked to City plans.",
+        "verbatim_text": "## 4. Climate planning and the City Council's internal monitoring methodology\n\n-  The City Council has carried out an annual carbon assessment and has developed a regional  resilience  diagnosis...\n-  ... presented  annually ... and every two years publicly...\n-  100% of the  climate  objectives  are  monitored  via  a  single  platform...",
+        "policy_type": "sub",
+        "parent_policy_name": "Transforming the public authority (2030 strategic objectives) to strengthen HR capacity, sustainable finance/tax policy, sustainable procurement, climate monitoring, and Green IT.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Cross-sector",
+        "extraction_rationale": "Specific governance/monitoring system commitments with frequencies and 100% platform coverage."
+      },
+      {
+        "policy_statement": "Implement Green IT strategy to reduce the carbon footprint of digital activity by 20% compared to 2019.",
+        "verbatim_text": "## 5. Technology at the service of climate planning\n\n-  Developing a Green IT strategy to enable the development of a digital business.\n- o The City Council's Green IT strategy has reduced the carbon footprint of digital activity by 20% compared to 2019.",
+        "policy_type": "sub",
+        "parent_policy_name": "Transforming the public authority (2030 strategic objectives) to strengthen HR capacity, sustainable finance/tax policy, sustainable procurement, climate monitoring, and Green IT.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Cross-sector",
+        "extraction_rationale": "Quantified emissions/footprint reduction target tied to Green IT strategy."
+      }
+    ]
+  },
+  {
+    "cluster_id": 10,
+    "cluster_type": "parent_with_subs",
+    "section_header": "towards shared governance of the climate plan",
+    "parent": {
+      "policy_statement": "Towards shared governance of the Climate Plan (2030 strategic objectives) including Local Climate Assembly, support for local initiatives, Future Generations Council, and strengthened external collaboration.",
+      "verbatim_text": "## 2030 Strategic objectives\n\n## 1. Setting up the Local Climate Assembly\n\n## 2. Support for local initiatives\n\n## 3. Future Generations Council\n\n## 4. Boosting external trade",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "Towards shared governance of the Climate Plan",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Governance chapter contains multiple numbered strategic objective lists; umbrella for sub-policies."
+    },
+    "subs": [
+      {
+        "policy_statement": "Set up a Local Climate Assembly to steer achievement of Climate Plan objectives by 2030; link it to the regional Citizens' Climate Assembly for transparent monitoring; and entrust it with roadmap completion, monitoring/evaluation, and uniting stakeholders.",
+        "verbatim_text": "-  In 2030, the strategic objectives of the Climate Plan will be achieved thanks to the steering  of  a Local  Climate  Assembly...\n... the Local Climate Assembly ensures transparent monitoring...\n-  To meet these objectives, the Brussels City Council will entrust the Assembly with 3 main tasks:\n- o ... complete the Climate Plan's roadmap...\n- o Monitoring and evaluating the Climate Plan...\n- o Unite  as  many  players  as  possible...",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards shared governance of the Climate Plan (2030 strategic objectives) including Local Climate Assembly, support for local initiatives, Future Generations Council, and strengthened external collaboration.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Cross-sector",
+        "extraction_rationale": "Institutional governance mechanism with defined tasks and timeline."
+      },
+      {
+        "policy_statement": "Extend the Call for Climate Projects throughout the year and adapt green grants to accelerate climate projects; support projects aligned with the Climate Plan and raise the profile of local stakeholders’ actions.",
+        "verbatim_text": "-  The City Council is extending the Call for Climate Projects throughout the year, and adapting the types of green grants to meet the climate challenges and speed up the implementation of climate projects in the region.\n-  The City Council supports the development of projects in line with the Climate Plan.\n-  ... the City Council is raising the profile of the actions carried out by local interested parties.",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards shared governance of the Climate Plan (2030 strategic objectives) including Local Climate Assembly, support for local initiatives, Future Generations Council, and strengthened external collaboration.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Cross-sector",
+        "extraction_rationale": "Concrete program funding/support and visibility measures."
+      },
+      {
+        "policy_statement": "Establish a Future Generations Council of local youth to anchor the Climate Plan in future generations’ vision and produce concrete proposals/actions in dialogue with the Brussels Climate Assembly.",
+        "verbatim_text": "-  The city is home to a \"Future Generations Council\" made up of young people from the area, whose role is to ensure that the city's Climate Plan is permanently anchored in  the  vision  of  future  generations... this  Council  brings  out  concrete  proposals  and  actions...",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards shared governance of the Climate Plan (2030 strategic objectives) including Local Climate Assembly, support for local initiatives, Future Generations Council, and strengthened external collaboration.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Cross-sector",
+        "extraction_rationale": "Explicit institutional arrangement with defined role and outputs."
+      },
+      {
+        "policy_statement": "Strengthen collaboration with federal/regional/municipal authorities and international networks, and work long-term with universities/higher education to bridge research and innovation for the transition.",
+        "verbatim_text": "-  The City Council has strengthened its collaboration with the Federal Government, the Brussels-Capital Regional Council and the 18 Brussels municipalities...\n-  The City Council has strengthened its international links to share best practice...\n-  The City Council is working with universities and higher education establishments over the  long  term  to  bridge  the  gap  between  research  and  innovation...",
+        "policy_type": "sub",
+        "parent_policy_name": "Towards shared governance of the Climate Plan (2030 strategic objectives) including Local Climate Assembly, support for local initiatives, Future Generations Council, and strengthened external collaboration.",
+        "section_header": "2030 Strategic objectives",
+        "sector": "Cross-sector",
+        "extraction_rationale": "Concrete governance/collaboration commitments with named counterparts."
+      }
+    ]
+  },
+  {
+    "cluster_id": 11,
+    "cluster_type": "individual",
+    "section_header": "introduction",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Adopt and implement the City of Brussels Climate Plan targeting at least a 55% reduction in GHG emissions by 2030 (vs. 2008), carbon neutrality by 2050, and energy carbon neutrality for public buildings by 2040.",
+      "verbatim_text": "Today, inview of the climate change challenges that lie ahead, the City of Brussels is taking action by adopting a new Climate Plan with an even more ambitious long-term objective: a 55%reduction in greenhouse gas emissions by 2030, and carbon neutrality for the region by 2050. This objective of energy carbon neutrality has even been brought forward to 2040 for public buildings.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "Introduction",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Plan-level quantified targets with timelines (2030/2040/2050) constitute an explicit policy commitment."
+    }
+  }
+]

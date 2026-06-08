@@ -26,6 +26,8 @@ _COMBINED_COLS = [
 
 _FINAL_COMBINED_COLS = [
     "policy_id",
+    "row_key",
+    "source_bundle_key",
     "role",
     "parent_statement",
     "parent_row_type",
@@ -34,14 +36,49 @@ _FINAL_COMBINED_COLS = [
     "secondary_categories",
     "typology_code",
     "trace_path",
+    "atom_id",
+    "parent_row_id",
+    "is_atomized_row",
+    "is_decomposed",
+    "source_bundle_policy_statement",
+    "validation_inherited_from_bundle",
+    "rescue_disposition",
+    "rescue_confidence",
+    "primary_gate_rescued",
+    "primary_category_original",
+    "primary_category_rescue_corrected",
+    "dropped_by_climate_rescue",
 ]
 
 _TRACE_POLICY_COLS = [
+    "row_key",
+    "source_bundle_key",
+    "atom_id",
+    "parent_row_id",
+    "is_atomized_row",
+    "is_decomposed",
+    "entity_cluster_skip",
+    "source_bundle_policy_statement",
+    "rescue_disposition",
+    "rescue_reasoning",
+    "rescue_confidence",
+    "primary_gate_rescued",
+    "primary_category_original",
+    "primary_category_rescue_corrected",
+    "dropped_by_climate_rescue",
     "policy_statement",
     "role",
     "sector",
     "canonical_mechanism",
     "mechanism_description",
+    "entity_cluster_id",
+    "entity_cluster_size",
+    "entity_cluster_cities",
+    "entity_cluster_cross_city",
+    "entity_cluster_year_bucket",
+    "entity_cluster_scope_bucket",
+    "entity_cluster_target_bucket",
+    "entity_cluster_schema_version",
     "primary_category",
     "secondary_categories",
     "typology_code",
@@ -61,10 +98,20 @@ _TRACE_POLICY_COLS = [
     "instance_edge_case_notes",
     "classification_schema_version",
     "secondary_profile",
+    "is_bundled",
+    "n_distinct_policies",
+    "bundling_atoms",
+    "bundling_signals",
+    "bundling_prefilter_candidate",
+    "bundling_verification",
+    "bundling_relationship",
+    "bundling_reasoning",
 ]
 
 _TRACE_LOOKUP_COLS = [
     "policy_id",
+    "row_key",
+    "source_bundle_key",
     "role",
     "parent_statement",
     "policy_statement",
@@ -74,6 +121,16 @@ _TRACE_LOOKUP_COLS = [
     "validation_trace_csv",
     "validation_lookup_column",
     "validation_lookup_value",
+    "atom_id",
+    "parent_row_id",
+    "is_atomized_row",
+    "is_decomposed",
+    "rescue_disposition",
+    "rescue_confidence",
+    "primary_gate_rescued",
+    "primary_category_original",
+    "primary_category_rescue_corrected",
+    "dropped_by_climate_rescue",
 ]
 
 
@@ -114,8 +171,29 @@ def _build_trace_records(df_classified: pd.DataFrame) -> pd.DataFrame:
     written `policy_traces/` directory.
     """
     if df_classified.empty:
-        return pd.DataFrame(columns=["policy_id", "policy_statement", "role", "primary_category", "secondary_categories", "typology_code", "trace_path"])
-
+        return pd.DataFrame(
+            columns=[
+                "policy_id",
+                "row_key",
+                "source_bundle_key",
+                "atom_id",
+                "parent_row_id",
+                "is_atomized_row",
+                "is_decomposed",
+                "rescue_disposition",
+                "rescue_confidence",
+                "primary_gate_rescued",
+                "primary_category_original",
+                "primary_category_rescue_corrected",
+                "dropped_by_climate_rescue",
+                "policy_statement",
+                "role",
+                "primary_category",
+                "secondary_categories",
+                "typology_code",
+                "trace_path",
+            ]
+        )
     df_traces = df_classified.copy().reset_index(drop=True)
     df_traces["policy_id"] = df_traces.index.map(lambda idx: f"{idx:03d}")
     df_traces["role"] = df_traces.get("role", pd.Series([None] * len(df_traces))).fillna("individual")
@@ -127,8 +205,28 @@ def _build_trace_records(df_classified: pd.DataFrame) -> pd.DataFrame:
         axis=1,
     )
 
-    keep_cols = [c for c in ["policy_id", "policy_statement", "role", "primary_category", "secondary_categories", "typology_code", "trace_path"] if c in df_traces.columns]
-    return df_traces[keep_cols].drop_duplicates(subset=["policy_statement", "role"]).reset_index(drop=True)
+    extra_keep: list[str] = []
+    if "row_key" in df_traces.columns and df_traces["row_key"].notna().any():
+        extra_keep.append("row_key")
+    optional = [
+        "atom_id",
+        "parent_row_id",
+        "source_bundle_key",
+        "is_atomized_row",
+        "is_decomposed",
+        "rescue_disposition",
+        "rescue_confidence",
+        "primary_gate_rescued",
+        "primary_category_original",
+        "primary_category_rescue_corrected",
+        "dropped_by_climate_rescue",
+    ]
+    for c in optional:
+        if c in df_traces.columns:
+            extra_keep.append(c)
+    keep_cols = [c for c in ["policy_id", *extra_keep, "policy_statement", "role", "primary_category", "secondary_categories", "typology_code", "trace_path"] if c in df_traces.columns]
+    subset = ["row_key"] if ("row_key" in df_traces.columns and df_traces["row_key"].notna().any()) else ["policy_statement", "role"]
+    return df_traces[keep_cols].drop_duplicates(subset=subset).reset_index(drop=True)
 
 
 def export_final_combined_with_traces(
@@ -152,6 +250,15 @@ def export_final_combined_with_traces(
     written: dict = {}
     if "climate_screen" in df_classified.columns:
         keep_mask = df_classified["climate_screen"].fillna("exclude") != "exclude"
+        if "dropped_by_climate_rescue" in df_classified.columns:
+            rescue_drop = (
+                df_classified["dropped_by_climate_rescue"]
+                .where(df_classified["dropped_by_climate_rescue"].notna(), "")
+                .astype(str)
+                .str.lower()
+                .isin({"true", "1", "yes"})
+            )
+            keep_mask &= ~rescue_drop
         df_kept = df_classified.loc[keep_mask].copy()
         df_excluded = df_classified.loc[~keep_mask].copy()
     else:
@@ -181,9 +288,23 @@ def export_final_combined_with_traces(
     if combined.empty or trace_manifest.empty:
         final_df = pd.DataFrame(columns=_FINAL_COMBINED_COLS)
     else:
-        merge_cols = [c for c in ["policy_statement", "role"] if c in combined.columns and c in trace_manifest.columns]
+        merge_cols = None
+        if (
+            "row_key" in combined.columns
+            and "row_key" in trace_manifest.columns
+            and combined["row_key"].notna().any()
+        ):
+            merge_cols = ["row_key"]
+        else:
+            merge_cols = [
+                c
+                for c in ["policy_statement", "role"]
+                if c in combined.columns and c in trace_manifest.columns
+            ]
         if not merge_cols:
-            raise ValueError("combined and classified outputs must share policy_statement and role columns.")
+            raise ValueError(
+                "combined and classified outputs must share row_key or policy_statement + role columns."
+            )
 
         final_df = combined.merge(trace_manifest, on=merge_cols, how="inner", suffixes=("", "_trace"))
         if "policy_id_trace" in final_df.columns:
@@ -196,6 +317,26 @@ def export_final_combined_with_traces(
             final_df["typology_code"] = final_df["typology_code_trace"]
         if "trace_path" not in final_df.columns and "trace_path_trace" in final_df.columns:
             final_df["trace_path"] = final_df["trace_path_trace"]
+        for col in (
+            "source_bundle_key",
+            "atom_id",
+            "parent_row_id",
+            "is_atomized_row",
+            "is_decomposed",
+            "source_bundle_policy_statement",
+            "rescue_disposition",
+            "rescue_confidence",
+            "primary_gate_rescued",
+            "primary_category_original",
+            "primary_category_rescue_corrected",
+            "dropped_by_climate_rescue",
+        ):
+            tr = f"{col}_trace"
+            if tr in final_df.columns:
+                if col in final_df.columns:
+                    final_df[col] = final_df[col].combine_first(final_df[tr])
+                else:
+                    final_df[col] = final_df[tr]
         final_df = final_df.reindex(columns=_FINAL_COMBINED_COLS)
 
     combined_path = output_dir / "combined_policies.csv"

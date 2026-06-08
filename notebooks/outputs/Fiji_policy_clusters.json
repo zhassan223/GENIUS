@@ -1,0 +1,768 @@
+[
+  {
+    "cluster_id": 0,
+    "cluster_type": "parent_with_subs",
+    "section_header": "part 3-implementation of the paris agreement — implementation of the paris agreement",
+    "parent": {
+      "policy_statement": "Minister must take all reasonable steps to prepare, communicate, maintain and update successive NDCs, pursue domestic mitigation measures, and communicate an NDC every 5 years with progression and highest possible ambition, including specified accounting and reporting information.",
+      "verbatim_text": "The Minister must, in consultation with the Committee and in accordance with the Paris Agreement... take all reasonable steps to-\n\n(a) prepare, communicate and maintain successive NDCs that the Minister intends Fiji to achieve;\n(b) pursue domestic mitigation measures, with the aim of achieving the objectives of Fiji's NDC;\n(c) ... communicate a NDC every 5 years which represents a progression beyond Fiji's then current NDC and reflects Fiji's highest possible ambition...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "PART 3-IMPLEMENTATION OF THE PARIS AGREEMENT — Implementation of the Paris Agreement",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Creates a binding umbrella obligation with multiple lettered sub-requirements under section 7(2)."
+    },
+    "subs": [
+      {
+        "policy_statement": "Prepare, communicate and maintain successive NDCs that the Minister intends Fiji to achieve.",
+        "verbatim_text": "(a) prepare, communicate and maintain successive NDCs that the Minister intends Fiji to achieve;",
+        "policy_type": "sub",
+        "parent_policy_name": "Minister must take all reasonable steps to prepare, communicate, maintain and update successive NDCs, pursue domestic mitigation measures, and communicate an NDC every 5 years with progression and highest possible ambition, including specified accounting and reporting information.",
+        "section_header": "PART 3-IMPLEMENTATION OF THE PARIS AGREEMENT — Implementation of the Paris Agreement",
+        "sector": "Cross-sectoral",
+        "extraction_rationale": "Specific, binding obligation listed as item (a) under the section 7(2) requirements."
+      },
+      {
+        "policy_statement": "Pursue domestic mitigation measures aimed at achieving Fiji's NDC objectives.",
+        "verbatim_text": "(b) pursue domestic mitigation measures, with the aim of achieving the objectives of Fiji's NDC;",
+        "policy_type": "sub",
+        "parent_policy_name": "Minister must take all reasonable steps to prepare, communicate, maintain and update successive NDCs, pursue domestic mitigation measures, and communicate an NDC every 5 years with progression and highest possible ambition, including specified accounting and reporting information.",
+        "section_header": "PART 3-IMPLEMENTATION OF THE PARIS AGREEMENT — Implementation of the Paris Agreement",
+        "sector": "Mitigation",
+        "extraction_rationale": "Specific domestic action obligation tied to NDC achievement."
+      },
+      {
+        "policy_statement": "Communicate an updated NDC every 5 years that progresses beyond the current NDC and reflects highest possible ambition, informed by the global stocktake.",
+        "verbatim_text": "(c) be informed by the global stocktake, communicate a NDC every 5 years which represents a progression beyond Fiji's then current NDC and reflects Fiji's highest possible ambition...",
+        "policy_type": "sub",
+        "parent_policy_name": "Minister must take all reasonable steps to prepare, communicate, maintain and update successive NDCs, pursue domestic mitigation measures, and communicate an NDC every 5 years with progression and highest possible ambition, including specified accounting and reporting information.",
+        "section_header": "PART 3-IMPLEMENTATION OF THE PARIS AGREEMENT — Implementation of the Paris Agreement",
+        "sector": "Cross-sectoral",
+        "extraction_rationale": "Quantified update cycle (every 5 years) and clear requirement of progression/ambition."
+      },
+      {
+        "policy_statement": "Provide necessary information for clarity, transparency and understanding when communicating Fiji's NDC.",
+        "verbatim_text": "(d) in communicating Fiji's NDC, provide the information necessary for clarity, transparency and understanding;",
+        "policy_type": "sub",
+        "parent_policy_name": "Minister must take all reasonable steps to prepare, communicate, maintain and update successive NDCs, pursue domestic mitigation measures, and communicate an NDC every 5 years with progression and highest possible ambition, including specified accounting and reporting information.",
+        "section_header": "PART 3-IMPLEMENTATION OF THE PARIS AGREEMENT — Implementation of the Paris Agreement",
+        "sector": "MRV",
+        "extraction_rationale": "Binding transparency requirement linked to NDC communication."
+      },
+      {
+        "policy_statement": "Adhere to any common time frames agreed by the CMA when communicating Fiji's NDC.",
+        "verbatim_text": "(e) in communicating Fiji's NDC, adhere to any common time frames agreed to by the CMA;",
+        "policy_type": "sub",
+        "parent_policy_name": "Minister must take all reasonable steps to prepare, communicate, maintain and update successive NDCs, pursue domestic mitigation measures, and communicate an NDC every 5 years with progression and highest possible ambition, including specified accounting and reporting information.",
+        "section_header": "PART 3-IMPLEMENTATION OF THE PARIS AGREEMENT — Implementation of the Paris Agreement",
+        "sector": "MRV",
+        "extraction_rationale": "Binding requirement on NDC time frames (regulatory alignment)."
+      },
+      {
+        "policy_statement": "Account for Fiji's NDC in a way that promotes environmental integrity and avoids double counting.",
+        "verbatim_text": "(f) account for Fiji's NDC... promote environmental integrity, transparency, accuracy, completeness, comparability and consistency, and ensure the avoidance of double counting;",
+        "policy_type": "sub",
+        "parent_policy_name": "Minister must take all reasonable steps to prepare, communicate, maintain and update successive NDCs, pursue domestic mitigation measures, and communicate an NDC every 5 years with progression and highest possible ambition, including specified accounting and reporting information.",
+        "section_header": "PART 3-IMPLEMENTATION OF THE PARIS AGREEMENT — Implementation of the Paris Agreement",
+        "sector": "MRV",
+        "extraction_rationale": "Binding accounting quality requirements and explicit avoidance of double counting."
+      },
+      {
+        "policy_statement": "Engage in adaptation planning processes and implement actions including developing or enhancing relevant plans, policies or contributions, as appropriate.",
+        "verbatim_text": "(g) as appropriate, engage in adaptation planning processes and the implementation of actions, including the development or enhancement of relevant plans, policies or contributions;",
+        "policy_type": "sub",
+        "parent_policy_name": "Minister must take all reasonable steps to prepare, communicate, maintain and update successive NDCs, pursue domestic mitigation measures, and communicate an NDC every 5 years with progression and highest possible ambition, including specified accounting and reporting information.",
+        "section_header": "PART 3-IMPLEMENTATION OF THE PARIS AGREEMENT — Implementation of the Paris Agreement",
+        "sector": "Adaptation",
+        "extraction_rationale": "Binding obligation to undertake adaptation planning and actions."
+      },
+      {
+        "policy_statement": "Provide a national inventory report and information necessary to track progress in implementing and achieving Fiji's NDC.",
+        "verbatim_text": "(h) provide the following information-\n(i) a national inventory report of anthropogenic emissions by sources and anthropogenic removals by sinks of greenhouse gases...; and\n(ii) information necessary to track progress made in implementing and achieving its NDC.",
+        "policy_type": "sub",
+        "parent_policy_name": "Minister must take all reasonable steps to prepare, communicate, maintain and update successive NDCs, pursue domestic mitigation measures, and communicate an NDC every 5 years with progression and highest possible ambition, including specified accounting and reporting information.",
+        "section_header": "PART 3-IMPLEMENTATION OF THE PARIS AGREEMENT — Implementation of the Paris Agreement",
+        "sector": "MRV",
+        "extraction_rationale": "Explicit reporting requirements tied to Paris Agreement transparency obligations."
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "cluster_type": "parent_with_subs",
+    "section_header": "part 9-climate change mitigation — minister has the power to introduce and implement regulations, measures and actions",
+    "parent": {
+      "policy_statement": "Minister may introduce and implement economy-wide mitigation regulations/measures including carbon pricing/ETS, emissions fees, fiscal incentives/levies, sink protection measures, sustainable building regulations, and awareness programmes.",
+      "verbatim_text": "The Minister has the power to introduce and implement regulations, measures and actions with the purpose of limiting or reducing Fiji's greenhouse gas emissions across the economy...\n\nWithout limiting subsection (1), the Minister may- (a) introduce and implement a carbon pricing mechanism, including an emissions trading scheme; ...",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "PART 9-CLIMATE CHANGE MITIGATION — Minister has the power to introduce and implement regulations, measures and actions",
+      "sector": "Mitigation",
+      "extraction_rationale": "Umbrella enabling provision with a lettered list of specific instruments, requiring parent/sub extraction."
+    },
+    "subs": [
+      {
+        "policy_statement": "Introduce and implement a carbon pricing mechanism, including an emissions trading scheme.",
+        "verbatim_text": "(a) introduce and implement a carbon pricing mechanism, including an emissions trading scheme;",
+        "policy_type": "sub",
+        "parent_policy_name": "Minister may introduce and implement economy-wide mitigation regulations/measures including carbon pricing/ETS, emissions fees, fiscal incentives/levies, sink protection measures, sustainable building regulations, and awareness programmes.",
+        "section_header": "PART 9-CLIMATE CHANGE MITIGATION — Minister has the power to introduce and implement regulations, measures and actions",
+        "sector": "Mitigation",
+        "extraction_rationale": "Specific mitigation instrument explicitly listed."
+      },
+      {
+        "policy_statement": "Prescribe emissions-based fees/charges payable to the State on emissions above a prescribed level.",
+        "verbatim_text": "(b) prescribe fees and other charges due to the State paid on the volume of greenhouse gas emissions above a prescribed level;",
+        "policy_type": "sub",
+        "parent_policy_name": "Minister may introduce and implement economy-wide mitigation regulations/measures including carbon pricing/ETS, emissions fees, fiscal incentives/levies, sink protection measures, sustainable building regulations, and awareness programmes.",
+        "section_header": "PART 9-CLIMATE CHANGE MITIGATION — Minister has the power to introduce and implement regulations, measures and actions",
+        "sector": "Mitigation",
+        "extraction_rationale": "Specific economic instrument explicitly described."
+      },
+      {
+        "policy_statement": "Introduce fiscal incentives and national levies to reduce emissions, conserve sinks, and encourage investment in renewable energy, efficient cogeneration, energy-efficient and zero-waste infrastructure/processes.",
+        "verbatim_text": "(c) introduce and implement fiscal incentives and national levies with the purpose of- (i) limiting or reducing Fiji's greenhouse gas emissions... (ii) enhancing the conservation of natural sinks... and (iii) encouraging public and private investment in renewable energy and efficient cogeneration technologies, energy efficient infrastructure and zero-waste infrastructure and processes;",
+        "policy_type": "sub",
+        "parent_policy_name": "Minister may introduce and implement economy-wide mitigation regulations/measures including carbon pricing/ETS, emissions fees, fiscal incentives/levies, sink protection measures, sustainable building regulations, and awareness programmes.",
+        "section_header": "PART 9-CLIMATE CHANGE MITIGATION — Minister has the power to introduce and implement regulations, measures and actions",
+        "sector": "Mitigation",
+        "extraction_rationale": "Concrete fiscal policy levers with specified purposes."
+      },
+      {
+        "policy_statement": "Enhance protection of land and ocean carbon sinks, including halting/reversing deforestation, afforestation, REDD+, reef/fisheries conservation, mangrove protection/planting, nature-based coastal protection, and sustainable agriculture practices.",
+        "verbatim_text": "(d) enhance environmental protection of land and ocean carbon sinks... including with respect to halting and reversing deforestation and degradation of forests, afforestation initiatives, Fiji's REDD+ initiative, reef and fisheries conservation, mangrove protection and planting initiatives, nature-based coastal protection applications and sustainable agricultural practices;",
+        "policy_type": "sub",
+        "parent_policy_name": "Minister may introduce and implement economy-wide mitigation regulations/measures including carbon pricing/ETS, emissions fees, fiscal incentives/levies, sink protection measures, sustainable building regulations, and awareness programmes.",
+        "section_header": "PART 9-CLIMATE CHANGE MITIGATION — Minister has the power to introduce and implement regulations, measures and actions",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific nature-based mitigation/sink protection actions listed in the Act."
+      },
+      {
+        "policy_statement": "Make regulations and develop policies for constructing sustainable, low-emissions, energy-efficient, climate-resilient infrastructure and buildings.",
+        "verbatim_text": "(e) make regulations and develop policies for the construction of sustainable, low-emissions, energy efficient and climate resilient infrastructure and buildings;",
+        "policy_type": "sub",
+        "parent_policy_name": "Minister may introduce and implement economy-wide mitigation regulations/measures including carbon pricing/ETS, emissions fees, fiscal incentives/levies, sink protection measures, sustainable building regulations, and awareness programmes.",
+        "section_header": "PART 9-CLIMATE CHANGE MITIGATION — Minister has the power to introduce and implement regulations, measures and actions",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific regulatory/policy action for built environment."
+      },
+      {
+        "policy_statement": "Implement programmes to raise awareness and promote sustainable production and consumption patterns to reduce GHG emissions.",
+        "verbatim_text": "(f) implement programmes that raise awareness of the impact of patterns of production and consumption... and promote patterns of sustainable production and consumption in the civil, social and private sectors.",
+        "policy_type": "sub",
+        "parent_policy_name": "Minister may introduce and implement economy-wide mitigation regulations/measures including carbon pricing/ETS, emissions fees, fiscal incentives/levies, sink protection measures, sustainable building regulations, and awareness programmes.",
+        "section_header": "PART 9-CLIMATE CHANGE MITIGATION — Minister has the power to introduce and implement regulations, measures and actions",
+        "sector": "Cross-sectoral",
+        "extraction_rationale": "Concrete programmatic intervention mandated as an option under section 43."
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "cluster_type": "individual",
+    "section_header": "part 2-declaration of climate emergency — declaration of climate emergency",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Fiji declares a climate emergency and commits to contribute to a net zero emissions global economy by achieving net zero greenhouse gas emissions by 2050.",
+      "verbatim_text": "This Act recognises and declares that Fiji and the Earth are facing a climate emergency.\n\nA rapid and ambitious transformation to a net zero emissions global economy is necessary to address and mitigate the climate emergency, and Fiji will contribute to this transformation by achieving net zero greenhouse gas emissions by 2050.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 2-DECLARATION OF CLIMATE EMERGENCY — Declaration of climate emergency",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Binding legal declaration and an explicit, time-bound mitigation target (net zero by 2050)."
+    }
+  },
+  {
+    "cluster_id": 3,
+    "cluster_type": "individual",
+    "section_header": "part 3-implementation of the paris agreement — preparation and implementation of fiji's nationally determined contributions",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "All ministers must take reasonable steps within their portfolios to promote achievement of any sectoral emissions reduction or limitation targets in Fiji's NDC.",
+      "verbatim_text": "All ministers must, where relevant and with the assistance of the Committee, take all reasonable steps within their portfolio to promote the achievement of any sectoral emissions reduction or limitation targets in Fiji's NDC.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 3-IMPLEMENTATION OF THE PARIS AGREEMENT — Preparation and implementation of Fiji's Nationally Determined Contributions",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Binding whole-of-government obligation linked to NDC sectoral targets."
+    }
+  },
+  {
+    "cluster_id": 4,
+    "cluster_type": "individual",
+    "section_header": "part 4-governance — obligation to report on and review the implementation of this act",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Minister must review implementation of the Act every 5 years and report findings to Parliament; and must report annually to Parliament on implementation status and progress toward net zero and climate resilient development.",
+      "verbatim_text": "The Minister must review the implementation of this Act every 5 years... and report to Parliament on the findings of the review.\n\nThe Minister must report annually to Parliament on the status of implementation of international and national obligations to respond to climate change and progress towards the attainment of net zero emissions and climate resilient development.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 4-GOVERNANCE — Obligation to report on and review the implementation of this Act",
+      "sector": "Governance",
+      "extraction_rationale": "Binding review cycle (5-year) and annual reporting requirement."
+    }
+  },
+  {
+    "cluster_id": 5,
+    "cluster_type": "individual",
+    "section_header": "part 4-governance — focal points",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Each permanent secretary must appoint a ministry focal point, and each focal point must report bi-annually to the Director on implementation of the Act within their ministry.",
+      "verbatim_text": "The permanent secretary for each ministry must, in consultation with the Director, appoint a person from within their ministry as a focal point.\n\nEach focal point is responsible for promoting the objectives and principles of this Act within their Ministry, and must report to the Director bi-annually on the implementation of this Act within their ministry.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 4-GOVERNANCE — Focal points",
+      "sector": "Governance",
+      "extraction_rationale": "Creates mandatory institutional arrangements and a bi-annual reporting cadence."
+    }
+  },
+  {
+    "cluster_id": 6,
+    "cluster_type": "individual",
+    "section_header": "part 5-climate change obligations of state entities — state entities must ensure consistency with objectives and principles of this act",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Within 12 months, Minister must issue guidelines on how State entities ensure decisions and policies are consistent with the Act's objectives and principles; State entities must review/update prior decisions and policies for consistency.",
+      "verbatim_text": "All State entities must review and update relevant decisions made and policies, programmes and processes developed by the State entity prior to the commencement of this section for the purpose of ensuring... consistent with achieving the objectives and the principles of this Act...\n\nWithin 12 months of the commencement of this section, the Minister... must prepare and issue guidelines on how State entities must ensure consistency with achieving the objectives and principles of this Act...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 5-CLIMATE CHANGE OBLIGATIONS OF STATE ENTITIES — State entities must ensure consistency with objectives and principles of this Act",
+      "sector": "Governance",
+      "extraction_rationale": "Binding review requirement on State entities plus a deadline-bound requirement for Ministerial guidelines."
+    }
+  },
+  {
+    "cluster_id": 7,
+    "cluster_type": "individual",
+    "section_header": "part 5-climate change obligations of state entities — ministerial guidelines for actions and decisions",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Minister must issue and publish (in the Gazette) guidelines on scope/application of climate factors that decision-makers must consider under prescribed laws.",
+      "verbatim_text": "The Minister must issue guidelines for a person making a decision referred to in section 19(1) as to the scope and application of the factors that the person is required to consider under section 19(2)...\n\nThe Minister must publish guidelines issued in accordance with this section in the Gazette.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 5-CLIMATE CHANGE OBLIGATIONS OF STATE ENTITIES — Ministerial guidelines for actions and decisions",
+      "sector": "Governance",
+      "extraction_rationale": "Binding requirement to issue and Gazette-publish decision-making guidelines."
+    }
+  },
+  {
+    "cluster_id": 8,
+    "cluster_type": "individual",
+    "section_header": "part 5-climate change obligations of state entities — environmental impact assessment",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Environmental impact assessments must assess material GHG emissions, climate vulnerability impacts, and climate risks to proposed activities, and include measures to address them where relevant.",
+      "verbatim_text": "Where an environmental impact assessment is required... and that proposed activity or undertaking may result in material greenhouse gas emissions, increased climate vulnerability... or could be adversely affected by the impacts of climate change, the environmental impact assessment must include an assessment of those matters and measures to address them.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 5-CLIMATE CHANGE OBLIGATIONS OF STATE ENTITIES — Environmental impact assessment",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Binding procedural requirement integrating climate considerations into EIA."
+    }
+  },
+  {
+    "cluster_id": 9,
+    "cluster_type": "individual",
+    "section_header": "part 5-climate change obligations of state entities — government procurement",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Fijian Procurement Office must formulate or update procurement policies consistent with the Act and key climate policies, and where possible set minimum standards to promote adaptation/resilience and source zero/low-emissions products, vehicles, or energy sources.",
+      "verbatim_text": "The Fijian Procurement Office... must formulate procurement policies that are consistent with... the objectives and principles of this Act... and where possible, these procurement policies are to set minimum standards for-\n(a) promoting adaptation and climate resilience; and\n(b) sourcing zero or low emissions products, vehicles or energy sources.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 5-CLIMATE CHANGE OBLIGATIONS OF STATE ENTITIES — Government procurement",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Binding procurement policy reform with specified minimum standard areas."
+    }
+  },
+  {
+    "cluster_id": 10,
+    "cluster_type": "individual",
+    "section_header": "part 5-climate change obligations of state entities — integration of climate change into curricula",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Education minister must integrate evidence-based climate change learning into Fiji National Curriculum Framework across all levels, in consultation with the climate change Minister.",
+      "verbatim_text": "the minister responsible for education must, in consultation with the Minister, integrate evidence-based learning about climate change into a variety of subjects of the Fiji National Curriculum Framework at all levels of the curriculum.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 5-CLIMATE CHANGE OBLIGATIONS OF STATE ENTITIES — Integration of climate change into curricula",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Binding requirement to integrate climate education into national curriculum."
+    }
+  },
+  {
+    "cluster_id": 11,
+    "cluster_type": "individual",
+    "section_header": "part 5-climate change obligations of state entities — national budget submissions",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Finance minister must include climate economic implications in the budget supplement; State entities must include climate-relevant expenditure and support needs in budget submissions; Minister must publish guidelines to assist compliance.",
+      "verbatim_text": "The minister responsible for finance must provide information on the economic implications of climate change in the supplement to the national budget.\n\nAll State entities must include in their budget submissions- (a) actual and estimated details of climate-relevant expenditure... (b) information on support needed and received... under Articles 9, 10 and 11 of the Paris Agreement.\n\nThe Minister... must prepare and publish guidelines... assisting State entities to comply...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 5-CLIMATE CHANGE OBLIGATIONS OF STATE ENTITIES — National budget submissions",
+      "sector": "Climate finance",
+      "extraction_rationale": "Binding budget disclosure obligations plus requirement to publish compliance guidelines."
+    }
+  },
+  {
+    "cluster_id": 12,
+    "cluster_type": "individual",
+    "section_header": "part 6-development and evaluation of the national climate change policy — development of the national climate change policy",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Minister must develop and implement a National Climate Change Policy (NCCP) until 2030 and for successive 10-year periods, publish it online, and conduct public consultations; must also develop monitoring and evaluation frameworks for the NCCP.",
+      "verbatim_text": "The Minister must... develop and implement a NCCP for the period until 2030 and for successive periods of 10 years.\n\nThe Minister must publish the NCCP online prior to the commencement of each successive period.\n\nThe Minister must develop and implement monitoring and evaluation frameworks and systems to monitor... progress made against development objectives.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 6-DEVELOPMENT AND EVALUATION OF THE NATIONAL CLIMATE CHANGE POLICY — Development of the National Climate Change Policy",
+      "sector": "Cross-sectoral",
+      "extraction_rationale": "Binding policy development with time horizon (to 2030; 10-year cycles) and M&E requirement."
+    }
+  },
+  {
+    "cluster_id": 13,
+    "cluster_type": "individual",
+    "section_header": "part 6-development and evaluation of the national climate change policy — review of the national climate change policy",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Minister must review and amend the NCCP for successive 10-year periods aligned with NDC updates, report findings to Parliament, publish the report online, and Parliament must approve/amend/reject proposed amendments.",
+      "verbatim_text": "The Minister must... review and amend the NCCP for successive 10-year periods in alignment with the review and enhancement of Fiji's successive NDCs...\n\nThe Minister must prepare a report... and must- (a) present the report to Parliament; and (b) publish the report online...\n\nParliament must consider the report and proposed amendments... and must either approve, amend or reject the Minister's proposed amendments to the NCCP.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 6-DEVELOPMENT AND EVALUATION OF THE NATIONAL CLIMATE CHANGE POLICY — Review of the National Climate Change Policy",
+      "sector": "Governance",
+      "extraction_rationale": "Binding review/amendment cycle with legislative oversight and publication."
+    }
+  },
+  {
+    "cluster_id": 14,
+    "cluster_type": "individual",
+    "section_header": "part 7-measurement, reporting and verification — fijian ghg inventory",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Minister must develop a Fijian GHG Inventory consistent with UNFCCC/IPCC/CMA methodologies and make it publicly available online on the Information Platform.",
+      "verbatim_text": "The Minister must develop the Fijian GHG Inventory in accordance with the good practice guidelines and methodologies established under the Convention, accepted by the IPCC and agreed upon by the CMA.\n\nThe Minister must make the Fijian GHG Inventory publicly available online on the Information Platform.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 7-MEASUREMENT, REPORTING AND VERIFICATION — Fijian GHG Inventory",
+      "sector": "MRV",
+      "extraction_rationale": "Binding MRV system component with publication requirement."
+    }
+  },
+  {
+    "cluster_id": 15,
+    "cluster_type": "individual",
+    "section_header": "part 7-measurement, reporting and verification — sector-based collection of data",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Specified permanent secretaries must biennially estimate/compile sector emissions and emissions-reduction data and submit it; Director compiles and ensures accuracy; facilities above a regulated threshold must provide requested data.",
+      "verbatim_text": "The following permanent secretaries must biennially estimate and compile data related to emissions and emissions reductions activities... and submit it...\n\nState entities, and persons who operate a facility or facilities in Fiji that emit in excess of an amount... must- (a) promptly respond... and (b) provide the requested data and information where possible.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 7-MEASUREMENT, REPORTING AND VERIFICATION — Sector-based collection of data...",
+      "sector": "MRV",
+      "extraction_rationale": "Creates mandated biennial data system and compulsory responses for entities above threshold."
+    }
+  },
+  {
+    "cluster_id": 16,
+    "cluster_type": "individual",
+    "section_header": "part 7-measurement, reporting and verification — mandatory reporting on bulk sale of fuels",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Fuel importers must keep and biennially report bulk fuel sales data to the transport permanent secretary; Minister must publish guidelines on content/form of information.",
+      "verbatim_text": "A person who imports fuels into Fiji... must keep and biennially provide information... on the amount of fuel sold...\n\nThe Minister must develop and publish guidelines on the content and form of the information that is to be kept and provided...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 7-MEASUREMENT, REPORTING AND VERIFICATION — Mandatory reporting on bulk sale of fuels",
+      "sector": "Energy",
+      "extraction_rationale": "Binding reporting duty with biennial cadence and guidelines requirement."
+    }
+  },
+  {
+    "cluster_id": 17,
+    "cluster_type": "individual",
+    "section_header": "part 7-measurement, reporting and verification — national inventory report",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Director must prepare a national inventory report biennially, submit it to the Minister ahead of UNFCCC deadlines, and publish it online.",
+      "verbatim_text": "The Director must prepare a national inventory report biennially and in accordance with the Paris Agreement...\n\nThe Director must submit each national inventory report to the Minister at least one month prior...\n\nThe Director must make national inventory reports publicly available online...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 7-MEASUREMENT, REPORTING AND VERIFICATION — National inventory report",
+      "sector": "MRV",
+      "extraction_rationale": "Binding biennial reporting and publication obligations."
+    }
+  },
+  {
+    "cluster_id": 18,
+    "cluster_type": "individual",
+    "section_header": "part 8-research, data collection, reporting and communications — information platform",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Within 12 months, Director must develop and maintain a publicly accessible online Information Platform containing specified climate data, policies, reports and tools, and ensure accessibility for people with disabilities.",
+      "verbatim_text": "Within 12 months of the commencement of this section, the Director must develop a publicly accessible Information Platform online...\n\nThe Director must maintain the Information Platform...\n\nThe Director must take all reasonable steps to ensure that the Information Platform is accessible to people with disabilities.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 8-RESEARCH, DATA COLLECTION, REPORTING AND COMMUNICATIONS — Information Platform",
+      "sector": "MRV",
+      "extraction_rationale": "Deadline-bound requirement to create and maintain a public data platform with accessibility provisions."
+    }
+  },
+  {
+    "cluster_id": 19,
+    "cluster_type": "individual",
+    "section_header": "part 9-climate change mitigation — long term emissions reduction target",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Long-term emissions reduction target is net zero GHG emissions by 2050; Minister must promote achievement via carbon budgets and publish a 5-yearly emissions/progress statement with recommendations.",
+      "verbatim_text": "The long term emissions reduction target for Fiji is net zero greenhouse gas emissions by 2050.\n\nEvery 5 years the Minister must... publish a statement of- (a) Fiji's greenhouse gas emissions over the 5-year period... (b) an assessment of the progress...; and (c) recommendations on measures needed...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 9-CLIMATE CHANGE MITIGATION — Long term emissions reduction target",
+      "sector": "Mitigation",
+      "extraction_rationale": "Quantified national target plus recurring mandatory reporting and recommendations."
+    }
+  },
+  {
+    "cluster_id": 20,
+    "cluster_type": "individual",
+    "section_header": "part 9-climate change mitigation — carbon budgeting",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Minister must set 5-year carbon budgets for 2026–2050 with specified determination deadlines, lay them before Parliament, publish them online, ensure each budget is more ambitious than the previous, and promote achievement of each budget.",
+      "verbatim_text": "The Minister... must determine a carbon budget for Fiji in respect of each of the following periods- (a) 1 January 2026 to 31 December 2030; ... (e) 1 January 2046 to 31 December 2050.\n\nThe carbon budget... (a) must be determined on or before 31 March 2023... \n\nThe Minister must ensure that each carbon budget constitutes a greater reduction in greenhouse gas emissions than any previous carbon budget...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 9-CLIMATE CHANGE MITIGATION — Carbon budgeting",
+      "sector": "Mitigation",
+      "extraction_rationale": "Creates binding carbon budget system with periods, deadlines, parliamentary tabling and ambition ratchet."
+    }
+  },
+  {
+    "cluster_id": 21,
+    "cluster_type": "individual",
+    "section_header": "part 9-climate change mitigation — transport decarbonisation implementation strategy",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Minister must develop and implement a Transport Decarbonisation Implementation Strategy within 2 years to decarbonise the transport sector by 2050, and review/update it every 5 years.",
+      "verbatim_text": "The Minister must... develop and implement a detailed Transport Decarbonisation Implementation Strategy within 2 years... to decarbonise the transport sector by 2050.\n\nThe Minister must review and update the Transport Decarbonisation Implementation Strategy every 5 years.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 9-CLIMATE CHANGE MITIGATION — Transport Decarbonisation Implementation Strategy",
+      "sector": "Transport",
+      "extraction_rationale": "Time-bound strategy requirement with review cycle and explicit sectoral decarbonisation goal."
+    }
+  },
+  {
+    "cluster_id": 22,
+    "cluster_type": "individual",
+    "section_header": "part 10-carbon sequestration property rights and emissions reduction projects — carbon sequestration property rights",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Establish carbon sequestration property rights as a registrable, transferable legal interest in land for carbon sequestration and carbon stocks.",
+      "verbatim_text": "carbon sequestration property right means the exclusive and distinct legal right to carbon sequestration and carbon stocks.\n\nA carbon sequestration property right- (a) must be registered in accordance with this Part... (f) ... entitles the right holder to deal with the right whether by sale, transfer, mortgage, charge or pledge.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 10-CARBON SEQUESTRATION PROPERTY RIGHTS AND EMISSIONS REDUCTION PROJECTS — Carbon sequestration property rights",
+      "sector": "Carbon markets",
+      "extraction_rationale": "Creates a legal framework enabling carbon rights registration and transactions (a regulatory mechanism)."
+    }
+  },
+  {
+    "cluster_id": 23,
+    "cluster_type": "individual",
+    "section_header": "part 10 — land over which a carbon sequestration property right is registered",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Prohibit approval of mining/logging/extractive activities on land with registered carbon sequestration rights where an approved REDD+ or eligible emissions reduction project/program/activity exists.",
+      "verbatim_text": "No mining, logging, exploration, exploitation or extractive activity is to be approved on lands over which-\n(a) a carbon sequestration property right has been registered; and\n(b) an international REDD+ program or emissions reduction project, programme or activity... has been approved.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 10 — Land over which a carbon sequestration property right is registered",
+      "sector": "AFOLU",
+      "extraction_rationale": "Binding prohibition on approvals in specified circumstances (regulatory restriction)."
+    }
+  },
+  {
+    "cluster_id": 24,
+    "cluster_type": "individual",
+    "section_header": "part 10 — redd+ policy",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Forests minister is responsible for developing/updating national REDD+ policy and strategy, setting forest reference emissions level, safeguards/procedures, participation in international REDD+ programmes, and benefit-sharing arrangements.",
+      "verbatim_text": "The Minister responsible for forests is responsible for-\n(a) developing and updating Fiji's national REDD+ policy and strategy...\n(b) developing the national forest reference emissions level;\n(c) developing policies, procedures and safeguards...\n(d) Fiji's participation in international REDD+ programmes; and\n(e) developing a benefit sharing arrangement...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 10 — REDD+ Policy",
+      "sector": "AFOLU",
+      "extraction_rationale": "Assigns specific, concrete responsibilities to develop REDD+ frameworks and benefit sharing."
+    }
+  },
+  {
+    "cluster_id": 25,
+    "cluster_type": "individual",
+    "section_header": "part 10 — fijian registry",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Within 12 months, Director must develop and keep a publicly accessible online Fijian Registry for emissions reduction projects and units (including ITMOs/Fijian Mitigation Outcome Units) and publish annual totals issued.",
+      "verbatim_text": "This section establishes the Fijian Registry.\n\nThe Director must keep and maintain the Registry by electronic means.\n\nThe Director must make the Registry publicly accessible online.\n\nThe Director must publish the following information on the Registry as soon as practicable after the end of each financial year- (a) the total number of Fijian Mitigation Outcome Units issued...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 10 — Fijian Registry",
+      "sector": "Carbon markets",
+      "extraction_rationale": "Creates a mandatory registry system with public access and annual publication requirement."
+    }
+  },
+  {
+    "cluster_id": 26,
+    "cluster_type": "individual",
+    "section_header": "part 11-climate change adaptation and resilient development — national adaptation plan",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "NAP Steering Committee must prepare successive National Adaptation Plans (NAPs), conduct public consultations, and publish updated NAPs and reports online via the Director.",
+      "verbatim_text": "The NAP Steering Committee must prepare successive NAPs...\n\nThe NAP Steering Committee, when developing and reviewing successive NAPs, must conduct public consultations...\n\nThe Director must make the updated NAP and the reports of the NAP Steering Committee publicly available online, including on the Information Platform.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 11-CLIMATE CHANGE ADAPTATION AND RESILIENT DEVELOPMENT — National Adaptation Plan",
+      "sector": "Adaptation",
+      "extraction_rationale": "Binding planning instrument with consultation and publication requirements."
+    }
+  },
+  {
+    "cluster_id": 27,
+    "cluster_type": "individual",
+    "section_header": "part 11 — minister has the power to introduce and implement regulations, policies, measures, adptation planning processes and actions",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Minister may introduce and implement adaptation regulations/policies/measures and must record them on the Adaptation Registry.",
+      "verbatim_text": "The Minister has the power to introduce and implement regulations, policies, measures, adaptation planning processes and actions with the purpose of increasing Fiji's resilience to climate change...\n\nThe Director must record any regulations, policies, measures, adaptation planning processes and actions implemented... on the Adaptation Registry.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 11 — Minister has the power to introduce and implement regulations, policies, measures, adptation planning processes and actions",
+      "sector": "Adaptation",
+      "extraction_rationale": "Provides a concrete adaptation governance mechanism including mandatory recording in a registry."
+    }
+  },
+  {
+    "cluster_id": 28,
+    "cluster_type": "individual",
+    "section_header": "part 11 — climate resilient buildings and infrastructure",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "All decision-makers for new infrastructure must require a climate risk and resilience assessment, consider it, and decide consistently with it; Minister must issue guidelines for conducting such assessments.",
+      "verbatim_text": "all ministers, State entities and other persons making decisions relating to proposals for new infrastructure must--\n(a) direct that a climate risk and resilience assessment be conducted...\n(b) consider the climate risk and resilience assessment...\n(c) make a decision... consistent with the climate risk and resilience assessment...\n\nThe Minister... must prepare and issue guidelines on how climate risk and resilience assessments are to be conducted...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 11 — Climate resilient buildings and infrastructure",
+      "sector": "Infrastructure",
+      "extraction_rationale": "Binding requirement for risk/resilience assessments and accompanying guidelines."
+    }
+  },
+  {
+    "cluster_id": 29,
+    "cluster_type": "individual",
+    "section_header": "part 11 — national building code",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Health minister must review and, if necessary, amend and scale up implementation/enforcement of the National Building Code immediately upon commencement and every 5 years to increase climate resilience.",
+      "verbatim_text": "must review and if necessary amend the content, expand the scope and scale up the implementation and enforcement of the National Building Code immediately upon the commencement of this section and every 5 years thereafter for the purpose of increasing the climate resilience of Fiji's buildings...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 11 — National Building Code",
+      "sector": "Buildings",
+      "extraction_rationale": "Binding code review/enforcement schedule with climate-resilience purpose."
+    }
+  },
+  {
+    "cluster_id": 30,
+    "cluster_type": "individual",
+    "section_header": "part 11 — fijian adaptation registry / voluntary reporting on adaptation projects",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Establish the Fijian Adaptation Registry as an online public registry for adaptation projects; Director must maintain it and register/publish reports of adaptation projects when provided.",
+      "verbatim_text": "This section establishes the Fijian Adaptation Registry.\n\nThe Director must keep and maintain the Adaptation Registry.\n\nThe Adaptation Registry is to be maintained by electronic means and publicly accessible online.\n\nIf the Director considers that the report is in relation to an adaptation project in Fiji, the Director must register the Project and publish the report on the Adaptation Registry.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 11 — Fijian Adaptation Registry / Voluntary reporting on adaptation projects",
+      "sector": "Adaptation",
+      "extraction_rationale": "Creates and operationalizes an adaptation project registry with publication requirements."
+    }
+  },
+  {
+    "cluster_id": 31,
+    "cluster_type": "individual",
+    "section_header": "part 12-climate displacement and relocation — fijian planned relocation guidelines",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Minister must prepare successive Fijian Planned Relocation Guidelines and operationalise them through standard operating procedures for proactive climate/disaster displacement processes.",
+      "verbatim_text": "The Minister, with the assistance of the Fijian Taskforce on Relocation and Displacement, must prepare successive Fijian Planned Relocation Guidelines.\n\nThe Minister... must operationalise the Fijian Planned Relocation Guidelines through developing standard operating procedures which enable pro-active processes for addressing the risk of climate and disaster driven displacement.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 12-CLIMATE DISPLACEMENT AND RELOCATION — Fijian Planned Relocation Guidelines",
+      "sector": "Adaptation",
+      "extraction_rationale": "Binding requirement to prepare guidelines and SOPs for planned relocation."
+    }
+  },
+  {
+    "cluster_id": 32,
+    "cluster_type": "individual",
+    "section_header": "part 12-climate displacement and relocation — relocation of at-risk communities",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Minister is responsible for relocating and supporting at-risk communities subject to objectives and procedural safeguards including consultations and public hearings.",
+      "verbatim_text": "The Minister... is responsible for relocating and supporting at-risk communities...\n\nPrior to the Minister making a decision on relocating at-risk communities, the Fijian Taskforce... must- (a) consult... (b) conduct a public hearing... (c) provide a record...",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 12-CLIMATE DISPLACEMENT AND RELOCATION — Relocation of at-risk communities",
+      "sector": "Adaptation",
+      "extraction_rationale": "Creates a mandated relocation responsibility with defined procedures (governance mechanism)."
+    }
+  },
+  {
+    "cluster_id": 33,
+    "cluster_type": "individual",
+    "section_header": "part 13-oceans and climate change — ocean sustainability targets",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Set ocean targets: 100% sustainably and effectively managed waters long-term, and 30% marine protected area coverage by 2030; Minister must promote achievement through the National Ocean Policy.",
+      "verbatim_text": "This section sets Fiji's long term ocean sustainability target... to be 100% sustainably and effectively managed.\n\nThis section sets Fiji's 2030 marine protected area target... for 30% ... to be designated as a marine protected area by 2030.\n\nThe Minister must take all reasonable steps to promote the achievement... through the development and implementation of the National Ocean Policy.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 13-OCEANS AND CLIMATE CHANGE — Ocean sustainability targets",
+      "sector": "Oceans",
+      "extraction_rationale": "Quantified ocean management and MPA targets with a promoting mechanism via National Ocean Policy."
+    }
+  },
+  {
+    "cluster_id": 34,
+    "cluster_type": "individual",
+    "section_header": "part 13 — minister has the power to introduce and implement regulations, policies, measures and actions",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Minister may implement science-based regulations/policies/measures to conserve and restore coastal and marine environments, including blue carbon protection and alternatives to non-biodegradable/non-eco-friendly materials.",
+      "verbatim_text": "The Minister may make and implement regulations, policies, measures and actions that promote an evidence-based approach to the conservation and restoration of Fiji's... coastal environments, including-\n(a) protecting stores of blue carbon;...\n(d) fiscal incentives and education campaigns supporting alternatives to nonbiodegradable and non-ecofriendly materials.\n\nRegulations, policies, measures and actions... must use a science-based and data-driven approach.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 13 — Minister has the power to introduce and implement regulations, policies, measures and actions",
+      "sector": "Oceans",
+      "extraction_rationale": "Authorizes and constrains actions to evidence-based, data-driven conservation measures with specific examples."
+    }
+  },
+  {
+    "cluster_id": 35,
+    "cluster_type": "individual",
+    "section_header": "part 14-sustainable financing — powers of the minister responsible for finance / national climate finance strategies",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Finance minister must implement climate budget coding/tracking systems and oversee and publicly report on domestic climate finance sources; and must develop national climate finance strategies with the Reserve Bank and review every 5 years.",
+      "verbatim_text": "The Minister responsible for finance may... implement climate budget coding and tracking systems...\n\ncarry out the reporting, monitoring and evaluation of domestic climate finance sources... and make any such reports publicly available on the Information Platform;\n\nThe Minister responsible for finance, in consultation with the Reserve Bank, must develop national climate finance strategies... \n\nThe Minister... must review the national climate finance strategies and frameworks every 5 years.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 14-SUSTAINABLE FINANCING — Powers of the Minister responsible for finance / National climate finance strategies",
+      "sector": "Climate finance",
+      "extraction_rationale": "Binding strategy development and review cycle plus operational finance tracking/reporting measures."
+    }
+  },
+  {
+    "cluster_id": 36,
+    "cluster_type": "individual",
+    "section_header": "part 14-sustainable financing — incentives for the promotion of climate change initiatives",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Finance minister may grant incentives for mitigation/adaptation measures and must set incentive nature/conditions in regulations, including that incentives are non-discretionary.",
+      "verbatim_text": "The Minister responsible for finance may... grant... such incentives...\n\nThe Minister responsible for finance must, if granting incentives... in regulations set out the nature of the incentives, the conditions for the grant or withdrawal of such incentives... including that such incentives are non-discretionary.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 14-SUSTAINABLE FINANCING — Incentives for the promotion of climate change initiatives",
+      "sector": "Climate finance",
+      "extraction_rationale": "Establishes a regulatory incentive mechanism with requirement to codify terms in regulations."
+    }
+  },
+  {
+    "cluster_id": 37,
+    "cluster_type": "individual",
+    "section_header": "part 15-private sector transition and engagement — guidance and adopting best practice",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Within 12 months, Minister must publish guidance materials (based on best practice including TCFD) to help companies/investment schemes/FNPF/licensed financial institutions/Reserve Bank meet climate risk obligations.",
+      "verbatim_text": "Within 12 months of the commencement of this section, the Minister must develop and publish guidance materials...\n\nIn developing such guidance materials, the Minister must have regard to industry best practice including the recommendations of the Financial Stability Board's Task Force on Climate-related Financial Disclosures.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 15-PRIVATE SECTOR TRANSITION AND ENGAGEMENT — Guidance and adopting best practice",
+      "sector": "Finance",
+      "extraction_rationale": "Deadline-bound requirement to publish guidance aligned to recognized disclosure standards (TCFD)."
+    }
+  },
+  {
+    "cluster_id": 38,
+    "cluster_type": "individual",
+    "section_header": "part 15 — directors must consider and evaluate climate change risks and opportunities",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Company directors must consider and evaluate foreseeable climate change risks and opportunities as part of their duty of care and diligence.",
+      "verbatim_text": "directors or other officers of a company must consider and evaluate climate change risks and opportunities to the extent they are foreseeable and intersect with the interests of the company.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 15 — Directors must consider and evaluate climate change risks and opportunities",
+      "sector": "Finance",
+      "extraction_rationale": "Creates a binding governance obligation on corporate directors."
+    }
+  },
+  {
+    "cluster_id": 39,
+    "cluster_type": "individual",
+    "section_header": "part 15 — disclosure of financial risks of climate change and measures adopted to reduce them by companies and managed investment schemes",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Companies and managed investment schemes must disclose material climate-related financial risks, mitigation measures, integration into investment/risk processes, and climate impacts/Paris alignment in financial statements and directors’ reports.",
+      "verbatim_text": "All companies and managed investment schemes... must disclose... (a) any material financial risks... (b) measures adopted... (c) how consideration of climate change risks are integrated...; and (d) the climate change impacts... and the extent to which... complies with the long-term temperature goal in Article 2 of the Paris Agreement.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "PART 15 — Disclosure of financial risks of climate change and measures adopted to reduce them by companies and managed investment schemes",
+      "sector": "Finance",
+      "extraction_rationale": "Mandatory disclosure requirements embedded in financial reporting."
+    }
+  }
+]

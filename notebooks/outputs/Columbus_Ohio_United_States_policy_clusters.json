@@ -1,0 +1,546 @@
+[
+  {
+    "cluster_id": 0,
+    "cluster_type": "parent_with_subs",
+    "section_header": "climate solutions: the columbus way",
+    "parent": {
+      "policy_statement": "Strategy 1: Empower a community of climate leaders.",
+      "verbatim_text": "## CLIMATE SOLUTIONS: THE COLUMBUS WAY\n\n## STRATEGIES\n\n1. Empower a community of climate leaders\n2.  Develop a clean energy economy\n3.  Enhance partnerships for preparedness efforts",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "CLIMATE SOLUTIONS: THE COLUMBUS WAY",
+      "sector": "Cross-cutting",
+      "extraction_rationale": "Named strategy with numbered sub-actions (e.g., 1.1) that implement it."
+    },
+    "subs": [
+      {
+        "policy_statement": "Incorporate climate action programs into GreenSpot by adapting GreenSpot outreach initiatives to increase climate change awareness, with targets of 200 training events and 1,000 new community partner signatory commitments by 2030.",
+        "verbatim_text": "## INCORPORATE CLIMATE ACTION PROGRAMS INTO GREENSPOT 1.1\n\nADAPT GREENSPOT OUTREACH INITIATIVES TO INCREASE CLIMATE CHANGE AWARENESS TO RESIDENTS, BUSINESSES AND ORGANIZATIONS\n\n## TARGETS\n\n200 training events by 2030\n\n1,000 new community partner signatory commitments by 2030",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 1: Empower a community of climate leaders.",
+        "section_header": "INCORPORATE CLIMATE ACTION PROGRAMS INTO GREENSPOT 1.1",
+        "sector": "Cross-cutting",
+        "extraction_rationale": "Specific outreach program action with quantified targets and timeline."
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "cluster_type": "parent_with_subs",
+    "section_header": "climate solutions: the columbus way",
+    "parent": {
+      "policy_statement": "Strategy 2: Develop a clean energy economy.",
+      "verbatim_text": "## STRATEGIES\n\n1. Empower a community of climate leaders\n2.  Develop a clean energy economy\n3.  Enhance partnerships for preparedness efforts",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "CLIMATE SOLUTIONS: THE COLUMBUS WAY",
+      "sector": "Cross-cutting",
+      "extraction_rationale": "Named strategy with multiple numbered sub-actions (2.1, 2.2)."
+    },
+    "subs": [
+      {
+        "policy_statement": "Support green business initiatives to spur job creation, targeting 10,000 new green jobs by 2030.",
+        "verbatim_text": "## SUPPORT GREEN BUSINESS INITIATIVES 2.1\n\n## PROVIDE CRITICAL RESOURCES TO SPUR JOB CREATION\n\n| TARGETS                       |\n|-------------------------------|\n| 10,000 new green jobs by 2030 |",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 2: Develop a clean energy economy.",
+        "section_header": "SUPPORT GREEN BUSINESS INITIATIVES 2.1",
+        "sector": "Cross-cutting",
+        "extraction_rationale": "Explicit job-creation program action with a quantified 2030 target."
+      },
+      {
+        "policy_statement": "Increase annual sustainable development funding by establishing a green bank by 2025 and reaching $250 million average annual PACE investments by 2030.",
+        "verbatim_text": "## INCREASE ANNUAL SUSTAINABLE DEVELOPMENT FUNDING 2.2\n\n## TARGETS\n\nEstablish a green bank by 2025\n\n$250 mil average annual PACE\n\ninvestments by 2030",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 2: Develop a clean energy economy.",
+        "section_header": "INCREASE ANNUAL SUSTAINABLE DEVELOPMENT FUNDING 2.2",
+        "sector": "Finance",
+        "extraction_rationale": "Resource/finance mechanisms with clear establishment and investment targets and deadlines."
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "cluster_type": "parent_with_subs",
+    "section_header": "sustainable neighborhoods",
+    "parent": {
+      "policy_statement": "Strategy 4: Support a healthy and resilient community.",
+      "verbatim_text": "## SUSTAINABLE NEIGHBORHOODS\n\n## STRATEGIES\n\n4.  Support a healthy and resilient community\n5.  Implement land use planning strategies for healthy ecosystems\n6.  Prepare for warmer and wetter seasons",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "SUSTAINABLE NEIGHBORHOODS",
+      "sector": "Adaptation",
+      "extraction_rationale": "Named strategy with numbered sub-actions (4.1, 4.2)."
+    },
+    "subs": [
+      {
+        "policy_statement": "Develop a regional adaptive management strategy with prioritized strategies outlined by 2025; implement short-term strategies by 2030; and implement long-term strategies by 2050.",
+        "verbatim_text": "## DEVELOP A REGIONAL ADAPTIVE MANAGEMENT STRATEGY 3.1\n\n| TARGETS                                 |\n|-----------------------------------------|\n| Prioritized strategies outlined by 2025 |\n| Implement short-term strategies by 2030 |\n| Implement long-term strategies by 2050  |",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 4: Support a healthy and resilient community.",
+        "section_header": "DEVELOP A REGIONAL ADAPTIVE MANAGEMENT STRATEGY 3.1",
+        "sector": "Adaptation",
+        "extraction_rationale": "Time-bound regional adaptation planning and implementation commitments."
+      },
+      {
+        "policy_statement": "Conduct 'Ambition 2025' to outline a 7% increase to GHG modeling reduction by 2025 and implement reduction strategies by 2030 and long-term strategies by 2050.",
+        "verbatim_text": "## AMBITION 2025 3.3\n\n| TARGETS                                               |\n|-------------------------------------------------------|\n| Outline 7% increase to GHG modeling reduction by 2025 |\n| Implement reduction strategies by 2030                |\n| Implement long-term strategies by 2050                |",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 4: Support a healthy and resilient community.",
+        "section_header": "AMBITION 2025 3.3",
+        "sector": "Economy-wide",
+        "extraction_rationale": "Defined process/action with quantified near-term (7%) and implementation timelines."
+      },
+      {
+        "policy_statement": "Establish a coordinated network of resilience hubs by developing an implementation plan for priority locations by 2025 and implementing resilience hubs within a 15-minute walk for all residents by 2050.",
+        "verbatim_text": "## ESTABLISH COORDINATED NETWORK OF RESILIENCE HUBS 4.1\n\n## TARGETS\n\nDevelop an implementation plan for priority resilience hub locations by 2025\n\nImplement resilience hubs within a 15 min walk for all residents by 2050",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 4: Support a healthy and resilient community.",
+        "section_header": "ESTABLISH COORDINATED NETWORK OF RESILIENCE HUBS 4.1",
+        "sector": "Adaptation",
+        "extraction_rationale": "Concrete adaptation infrastructure/service action with explicit timelines and coverage target."
+      },
+      {
+        "policy_statement": "Establish a regional emergency alert system for climate hazards by 2025.",
+        "verbatim_text": "## ESTABLISH REGIONAL EMERGENCY ALERT SYSTEM FOR CLIMATE HAZARDS 4.2\n\n## TARGETS\n\nImplement a regional alert system for climate hazards by 2025",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 4: Support a healthy and resilient community.",
+        "section_header": "ESTABLISH REGIONAL EMERGENCY ALERT SYSTEM FOR CLIMATE HAZARDS 4.2",
+        "sector": "Adaptation",
+        "extraction_rationale": "Specific public-safety/communication system commitment with a deadline."
+      },
+      {
+        "policy_statement": "Increase development density by establishing vacant property redevelopment targets by 2025 and ensuring 40% of new housing is within 1/4 mile of employment centers by 2030 and 60% by 2050.",
+        "verbatim_text": "## INCREASE DEVELOPMENT DENSITY 5.1\n\n## TARGETS\n\nEstablish vacant property redevelopment targets by 2025\n\n40% of new housing is within 1/4 mile of employment centers by 2030\n\n60% of new housing is within 1/4 mile of employment centers by 2050",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 4: Support a healthy and resilient community.",
+        "section_header": "INCREASE DEVELOPMENT DENSITY 5.1",
+        "sector": "Transport",
+        "extraction_rationale": "Land-use planning action with quantified housing-location targets and timelines."
+      },
+      {
+        "policy_statement": "Increase equitable access to green space by tracking and expanding to 430 accessible green spaces by 2030, 500 by 2050, and ensuring access to green space within a 10-minute walk for all residents by 2050.",
+        "verbatim_text": "## INCREASE EQUITABLE ACCESS TO GREEN SPACE 5.3\n\n| TARGETS                                                              |\n|----------------------------------------------------------------------|\n| 430 accessible green spaces by 2030                                  |\n| 500 accessible green spaces by 2050                                  |\n| Access to green space within a 10 min walk for all residents by 2050 |",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 4: Support a healthy and resilient community.",
+        "section_header": "INCREASE EQUITABLE ACCESS TO GREEN SPACE 5.3",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific access/greenspace expansion targets with deadlines."
+      },
+      {
+        "policy_statement": "Implement water adaptation strategies by implementing short-term Sustaining Scioto strategies by 2025 and completing mid-term strategies by 2050.",
+        "verbatim_text": "## IMPLEMENT WATER ADAPTATION STRATEGIES 5.4\n\n## TARGETS\n\nImplement short-term Sustaining Scioto strategies by 2025\n\nComplete mid-term Sustaining Scioto strategies by 2050",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 4: Support a healthy and resilient community.",
+        "section_header": "IMPLEMENT WATER ADAPTATION STRATEGIES 5.4",
+        "sector": "Water",
+        "extraction_rationale": "Time-bound commitment to implement specified adaptation strategies."
+      },
+      {
+        "policy_statement": "Assess and protect assets from climate change impacts by completing a physical vulnerability assessment by 2025 and implementing short-term actions by 2030 and long-term actions by 2050.",
+        "verbatim_text": "## ASSESS AND PROTECT ASSETS FROM THE IMPACTS OF CLIMATE CHANGE 6.1\n\n## TARGETS\n\nComplete physical vulnerability assessment by 2025\n\nImplement short-term assessment actions by 2030\n\nImplement long-term assessment actions by 2050",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 4: Support a healthy and resilient community.",
+        "section_header": "ASSESS AND PROTECT ASSETS FROM THE IMPACTS OF CLIMATE CHANGE 6.1",
+        "sector": "Adaptation",
+        "extraction_rationale": "Defined assessment and follow-on implementation with explicit timelines."
+      },
+      {
+        "policy_statement": "Reduce urban heat with tree canopy cover by investing in equitable canopy across all neighborhoods by 2030, stopping net tree canopy losses by 2030, and reaching 40% city-wide tree canopy by 2050.",
+        "verbatim_text": "## REDUCE URBAN HEAT WITH TREE CANOPY COVER 6.2\n\n| TARGETS                                                     |\n|-------------------------------------------------------------|\n| Invest in equitable canopy across all neighborhoods by 2030 |\n| Stop tree canopy net losses by 2030                         |\n| 40% city-wide tree canopy by 2050                           |",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 4: Support a healthy and resilient community.",
+        "section_header": "REDUCE URBAN HEAT WITH TREE CANOPY COVER 6.2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Quantified urban forestry targets with deadlines, linked to equity."
+      },
+      {
+        "policy_statement": "Evaluate microgrid and energy storage projects by completing a prioritization study by 2025 and implementing 5 microgrid pilot projects by 2030.",
+        "verbatim_text": "## EVALUATE MICROGRID + STORAGE PROJECTS 6.3\n\n## TARGETS\n\nComplete a microgrid and energy storage prioritization study by 2025\n\nImplement 5 microgrid pilot projects by 2030",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 4: Support a healthy and resilient community.",
+        "section_header": "EVALUATE MICROGRID + STORAGE PROJECTS 6.3",
+        "sector": "Energy",
+        "extraction_rationale": "Specific grid resilience/clean-energy enabling action with study and pilot targets."
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "cluster_type": "parent_with_subs",
+    "section_header": "buildings",
+    "parent": {
+      "policy_statement": "Strategy 7: Increase renewable energy.",
+      "verbatim_text": "## BUILDINGS\n\n## STRATEGIES\n\n7.  Increase renewable energy\n8.  Increase building efficiency\n9.  Adopt net zero and resilient building standards",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "BUILDINGS",
+      "sector": "Energy",
+      "extraction_rationale": "Named buildings strategy with numbered sub-actions (7.1–7.3)."
+    },
+    "subs": [
+      {
+        "policy_statement": "Increase residential on-site solar by developing a Community Solar Plan by 2025 and reaching 50 MW installed by 2030 and 500 MW installed by 2050.",
+        "verbatim_text": "## INCREASE RESIDENTIAL ON-SITE SOLAR 7.1\n\n| TARGETS                      |\n|------------------------------|\n| Community Solar Plan by 2025 |\n| 50 MWinstalled by 2030       |\n| 500 MWinstalled by 2050      |",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 7: Increase renewable energy.",
+        "section_header": "INCREASE RESIDENTIAL ON-SITE SOLAR 7.1",
+        "sector": "Energy",
+        "extraction_rationale": "Specific solar deployment action with quantified MW targets and deadlines."
+      },
+      {
+        "policy_statement": "Increase commercial on-site solar to reach 200 MW municipal installed and 600 MW private installed by 2030 and 2 GW total installed by 2050.",
+        "verbatim_text": "## INCREASE COMMERCIAL ON-SITE SOLAR 7.2\n\n## TARGETS\n\n200 MW municipal installed by 2030\n\n600 MW private installed by 2030\n\n2 GW total installed by 2050",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 7: Increase renewable energy.",
+        "section_header": "INCREASE COMMERCIAL ON-SITE SOLAR 7.2",
+        "sector": "Energy",
+        "extraction_rationale": "Quantified solar capacity targets for municipal/private deployment with timelines."
+      },
+      {
+        "policy_statement": "Implement clean energy procurement: 100% municipal and 100% residential clean energy procurement by 2030; 25% commercial by 2030; and 100% commercial by 2050.",
+        "verbatim_text": "## IMPLEMENT CLEAN ENERGY PROCUREMENT 7.3\n\n## TARGETS\n\n100% municipal clean energy procurement by 2030\n\n100% residential clean energy procurement by 2030\n\n25% commercial clean energy procurement by 2030\n\n100% commercial clean energy procurement by 2050",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 7: Increase renewable energy.",
+        "section_header": "IMPLEMENT CLEAN ENERGY PROCUREMENT 7.3",
+        "sector": "Energy",
+        "extraction_rationale": "Clear procurement commitments with quantified shares and target years."
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "cluster_type": "parent_with_subs",
+    "section_header": "transportation",
+    "parent": {
+      "policy_statement": "Strategy 10: Enable carbon free vehicles.",
+      "verbatim_text": "## TRANSPORTATION\n\n## STRATEGIES\n\n10. Enable carbon free vehicles\n11.  Support equitable mode shift",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "TRANSPORTATION",
+      "sector": "Transport",
+      "extraction_rationale": "Named transportation strategy with numbered sub-actions (10.1–10.3)."
+    },
+    "subs": [
+      {
+        "policy_statement": "Increase private zero emission vehicle adoption by developing an equitable EV charging plan and implementing an EV Ready Ordinance by 2025, reaching 15% ZEV registrations by 2030 and 100% by 2050.",
+        "verbatim_text": "## INCREASE PRIVATE ZERO EMISSION VEHICLE ADOPTION 10.1\n\n## TARGETS\n\nEquitable EV charging plan developed by 2025\n\nEV Ready Ordinance implemented by\n\n2025\n\n15% ZEV registrations by 2030\n\n100% ZEV registrations by 2050",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 10: Enable carbon free vehicles.",
+        "section_header": "INCREASE PRIVATE ZERO EMISSION VEHICLE ADOPTION 10.1",
+        "sector": "Transport",
+        "extraction_rationale": "Includes ordinance and quantified adoption targets with specific dates."
+      },
+      {
+        "policy_statement": "Implement zero emission vehicle fleets by achieving 100% municipal light duty passenger ZEV by 2030, 50% rideshare and private fleets ZEV by 2030, and 100% ZEV fleets by 2050.",
+        "verbatim_text": "## IMPLEMENT ZERO EMISSION VEHICLE FLEETS 10.2\n\n## TARGETS\n\n100% municipal light duty passenger ZEV by 2030\n\n50% rideshare and private fleets ZEV by 2030\n\n100% ZEV fleets by 2050",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 10: Enable carbon free vehicles.",
+        "section_header": "IMPLEMENT ZERO EMISSION VEHICLE FLEETS 10.2",
+        "sector": "Transport",
+        "extraction_rationale": "Fleet transition targets are quantified with target years."
+      },
+      {
+        "policy_statement": "Promote medium/heavy duty zero emission vehicle adoption by reaching 2% zero emission medium/heavy duty vehicles by 2030 and 100% by 2050.",
+        "verbatim_text": "## PROMOTE MEDIUM/HEAVY DUTY ZERO EMISSION VEHICLE ADOPTION 10.3\n\n| TARGETS                                               |\n|-------------------------------------------------------|\n| 2% zero emission medium/heavy duty vehicles by 2030   |\n| 100% zero emission medium/heavy duty vehicles by 2050 |",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 10: Enable carbon free vehicles.",
+        "section_header": "PROMOTE MEDIUM/HEAVY DUTY ZERO EMISSION VEHICLE ADOPTION 10.3",
+        "sector": "Transport",
+        "extraction_rationale": "Quantified adoption targets for medium/heavy duty vehicles with deadlines."
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "cluster_type": "parent_with_subs",
+    "section_header": "waste",
+    "parent": {
+      "policy_statement": "Strategy 12: Reduce waste generated.",
+      "verbatim_text": "## WASTE\n\n## STRATEGIES\n\n12.  Reduce waste generated\n13.  Increase waste diversion rate",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "WASTE",
+      "sector": "Waste",
+      "extraction_rationale": "Named waste strategy with numbered sub-actions (12.1–12.2)."
+    },
+    "subs": [
+      {
+        "policy_statement": "Reduce landfilled organic waste by 50% by 2030 and 90% by 2050.",
+        "verbatim_text": "## REDUCE LANDFILLED ORGANIC WASTE 12.1\n\n## TARGETS\n\n50% reduction in organic waste by 2030\n\n90% reduction in organic waste by 2050",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 12: Reduce waste generated.",
+        "section_header": "REDUCE LANDFILLED ORGANIC WASTE 12.1",
+        "sector": "Waste",
+        "extraction_rationale": "Quantified organic waste reduction targets with timelines."
+      },
+      {
+        "policy_statement": "Reduce recyclable waste sent to landfill by 40% by 2030 and 95% by 2050.",
+        "verbatim_text": "## REDUCE RECYCLABLE WASTE SENT TO THE LANDFILL 12.2\n\n## TARGETS\n\n40% reduction in recyclable waste landfilled by 2030\n\n95% reduction in recyclable waste landfilled by 2050",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 12: Reduce waste generated.",
+        "section_header": "REDUCE RECYCLABLE WASTE SENT TO THE LANDFILL 12.2",
+        "sector": "Waste",
+        "extraction_rationale": "Quantified recycling diversion target (reduction in recyclables landfilled) with deadlines."
+      },
+      {
+        "policy_statement": "Support circular economy organizations by targeting 1,000 green jobs related to circular economy by 2030 and a 100% increase in circular economy organizations from 2030 to 2050.",
+        "verbatim_text": "## SUPPORT CIRCULAR ECONOMY ORGANIZATIONS 13.1\n\n## TARGETS\n\n1,000 green job creation related to circular economy by 2030\n\n100% increase in circular economy organizations from 2030 to 2050",
+        "policy_type": "sub",
+        "parent_policy_name": "Strategy 12: Reduce waste generated.",
+        "section_header": "SUPPORT CIRCULAR ECONOMY ORGANIZATIONS 13.1",
+        "sector": "Waste",
+        "extraction_rationale": "Specific circular economy support action with quantified job and organizational growth targets."
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "cluster_type": "orphan_sub",
+    "section_header": "advocate for state policies that align with low carbon, resilient solutions 3.2",
+    "parent": null,
+    "subs": [
+      {
+        "policy_statement": "Advocate for state policy changes by reinstating a 20% renewable portfolio standard by 2030 and establishing an energy code review cycle by 2030.",
+        "verbatim_text": "## ADVOCATE FOR STATE POLICIES THAT ALIGN WITH LOW CARBON, RESILIENT SOLUTIONS 3.2\n\n## TARGETS\n\nReinstate 20% renewable portfolio standard\n\nby 2030\n\nEstablish an energy code review cycle by 2030",
+        "policy_type": "sub",
+        "parent_policy_name": "Enhance partnerships for preparedness efforts",
+        "section_header": "ADVOCATE FOR STATE POLICIES THAT ALIGN WITH LOW CARBON, RESILIENT SOLUTIONS 3.2",
+        "sector": "Energy",
+        "extraction_rationale": "Explicit advocacy action with quantified RPS target and code-review-cycle deadline."
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "cluster_type": "orphan_sub",
+    "section_header": "led streetlight retrofits 5.2",
+    "parent": null,
+    "subs": [
+      {
+        "policy_statement": "Complete LED streetlight retrofits to reach 100% LED streetlights by 2030.",
+        "verbatim_text": "## LED STREETLIGHT RETROFITS 5.2\n\n## TARGETS\n\n100% LED streetlights by 2030",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement land use planning strategies for healthy ecosystems",
+        "section_header": "LED STREETLIGHT RETROFITS 5.2",
+        "sector": "Energy",
+        "extraction_rationale": "Concrete municipal infrastructure retrofit with a quantified target year."
+      }
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "cluster_type": "orphan_sub",
+    "section_header": "increase energy efficiency 8.1",
+    "parent": null,
+    "subs": [
+      {
+        "policy_statement": "Increase energy efficiency to achieve 15% commercial and 20% residential and 25% municipal energy use reductions by 2030, and 50% reductions for residential, commercial, and municipal by 2050.",
+        "verbatim_text": "## INCREASE ENERGY EFFICIENCY 8.1\n\n| TARGETS                                                                |\n|------------------------------------------------------------------------|\n| 15% commercial energy use reduction by 2030                            |\n| 20% residential energy use reduction by 2030                           |\n| 25% municipal energy use reduction by 2030                             |\n| 50% residential, commercial and municipal energy use reduction by 2050 |",
+        "policy_type": "sub",
+        "parent_policy_name": "Increase building efficiency",
+        "section_header": "INCREASE ENERGY EFFICIENCY 8.1",
+        "sector": "Buildings",
+        "extraction_rationale": "Quantified energy-use reduction targets by sector with 2030 and 2050 timelines."
+      }
+    ]
+  },
+  {
+    "cluster_id": 9,
+    "cluster_type": "orphan_sub",
+    "section_header": "increase water efficiency 8.2",
+    "parent": null,
+    "subs": [
+      {
+        "policy_statement": "Increase water efficiency to achieve 5% residential and commercial water use reduction and 10% municipal reduction by 2030, and 20% community-wide water use reduction by 2050.",
+        "verbatim_text": "## INCREASE WATER EFFICIENCY 8.2\n\n## TARGETS\n\n5% residential and commercial water use reduction by 2030\n\n10% municipal water use reduction by 2030\n\n20% community-wide water use reduction by 2050",
+        "policy_type": "sub",
+        "parent_policy_name": "Increase building efficiency",
+        "section_header": "INCREASE WATER EFFICIENCY 8.2",
+        "sector": "Water",
+        "extraction_rationale": "Quantified water-use reduction targets with timelines."
+      }
+    ]
+  },
+  {
+    "cluster_id": 10,
+    "cluster_type": "orphan_sub",
+    "section_header": "prototype zero carbon buildings 9.1",
+    "parent": null,
+    "subs": [
+      {
+        "policy_statement": "Prototype zero carbon buildings by adopting municipal zero carbon design standards by 2025, completing 4 municipal zero carbon pilot buildings by 2030, and adopting zero carbon design standards by 2050.",
+        "verbatim_text": "## PROTOTYPE ZERO CARBON BUILDINGS 9.1\n\n## TARGETS\n\nAdopt municipal zero carbon design standards by 2025\n\n4 municipal zero carbon pilot buildings by 2030\n\nAdopt zero carbon design standards by 2050",
+        "policy_type": "sub",
+        "parent_policy_name": "Adopt net zero and resilient building standards",
+        "section_header": "PROTOTYPE ZERO CARBON BUILDINGS 9.1",
+        "sector": "Buildings",
+        "extraction_rationale": "Explicit standards adoption and pilot-building targets with deadlines."
+      }
+    ]
+  },
+  {
+    "cluster_id": 11,
+    "cluster_type": "orphan_sub",
+    "section_header": "adopt resilient standards 9.2",
+    "parent": null,
+    "subs": [
+      {
+        "policy_statement": "Adopt resilient building standards by developing and piloting a resilient design checklist by 2025 and refining it for an official roll-out by 2030.",
+        "verbatim_text": "## ADOPT RESILIENT STANDARDS 9.2\n\n## TARGETS\n\nDevelop and pilot resilient design checklist\n\nby 2025\n\nContinued follow up with pilot projects and updates to flood maps and climate predictions should be used to refine the checklist for an official roll-out by 2030.",
+        "policy_type": "sub",
+        "parent_policy_name": "Adopt net zero and resilient building standards",
+        "section_header": "ADOPT RESILIENT STANDARDS 9.2",
+        "sector": "Buildings",
+        "extraction_rationale": "Concrete deliverable (checklist) with pilot deadline and stated rollout timeline."
+      }
+    ]
+  },
+  {
+    "cluster_id": 12,
+    "cluster_type": "orphan_sub",
+    "section_header": "implement comprehensive multi-modal network 11.1",
+    "parent": null,
+    "subs": [
+      {
+        "policy_statement": "Implement a comprehensive multi-modal network by implementing 3 regional High Capacity Rapid Transit lines by 2030 and 8 lines by 2050.",
+        "verbatim_text": "## IMPLEMENT COMPREHENSIVE MULTI-MODAL NETWORK 11.1\n\n| TARGETS                                                        |\n|----------------------------------------------------------------|\n| Implement 3 regional High Capacity Rapid Transit lines by 2030 |\n| Implement 8 regional High Capacity Rapid Transit lines by 2050 |",
+        "policy_type": "sub",
+        "parent_policy_name": "Support equitable mode shift",
+        "section_header": "IMPLEMENT COMPREHENSIVE MULTI-MODAL NETWORK 11.1",
+        "sector": "Transport",
+        "extraction_rationale": "Specific transit infrastructure expansion with quantified line targets and timelines."
+      }
+    ]
+  },
+  {
+    "cluster_id": 13,
+    "cluster_type": "orphan_sub",
+    "section_header": "reduce single occupant vehicle miles traveled 11.2",
+    "parent": null,
+    "subs": [
+      {
+        "policy_statement": "Reduce single-occupant vehicle miles traveled by 15% by 2030 and 40% by 2050.",
+        "verbatim_text": "## REDUCE SINGLE OCCUPANT VEHICLE MILES TRAVELED 11.2\n\n| TARGETS                   |\n|---------------------------|\n| 15% VMT reduction by 2030 |\n| 40% VMT reduction by 2050 |",
+        "policy_type": "sub",
+        "parent_policy_name": "Support equitable mode shift",
+        "section_header": "REDUCE SINGLE OCCUPANT VEHICLE MILES TRAVELED 11.2",
+        "sector": "Transport",
+        "extraction_rationale": "Quantified VMT reduction targets with deadlines."
+      }
+    ]
+  },
+  {
+    "cluster_id": 14,
+    "cluster_type": "orphan_sub",
+    "section_header": "increase transit use 11.3",
+    "parent": null,
+    "subs": [
+      {
+        "policy_statement": "Increase transit use by achieving a 20% increase in passenger miles traveled by 2030 and 50% by 2050.",
+        "verbatim_text": "## INCREASE TRANSIT USE 11.3\n\n| TARGETS                                          |\n|--------------------------------------------------|\n| 20% increase in passenger miles traveled by 2030 |\n| 50% increase in passenger miles traveled by 2050 |",
+        "policy_type": "sub",
+        "parent_policy_name": "Support equitable mode shift",
+        "section_header": "INCREASE TRANSIT USE 11.3",
+        "sector": "Transport",
+        "extraction_rationale": "Quantified transit ridership/usage proxy targets with timelines."
+      }
+    ]
+  },
+  {
+    "cluster_id": 15,
+    "cluster_type": "orphan_sub",
+    "section_header": "support active transportation infrastructure 11.4",
+    "parent": null,
+    "subs": [
+      {
+        "policy_statement": "Support active transportation infrastructure by increasing Walkscore and Bikescore by 20% by 2030 and establishing mobility hubs within 1/2 mile of all residents by 2050.",
+        "verbatim_text": "## SUPPORT ACTIVE TRANSPORTATION INFRASTRUCTURE 11.4\n\n| TARGETS                                                  |\n|----------------------------------------------------------|\n| 20% increase in Walkscore and Bikescore by 2030          |\n| Mobility hubs within 1/2 mile from all residents by 2050 |",
+        "policy_type": "sub",
+        "parent_policy_name": "Support equitable mode shift",
+        "section_header": "SUPPORT ACTIVE TRANSPORTATION INFRASTRUCTURE 11.4",
+        "sector": "Transport",
+        "extraction_rationale": "Specific infrastructure/access targets with deadlines."
+      }
+    ]
+  },
+  {
+    "cluster_id": 16,
+    "cluster_type": "individual",
+    "section_header": "a message from the mayor",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Commit to making Columbus carbon neutral by 2050.",
+      "verbatim_text": "In 2020, I put forth the vital goal of becoming a carbon neutral Columbus by 2050, ensuring that we do our part to combat global climate change.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "A MESSAGE FROM THE MAYOR",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Citywide quantified target with a deadline (carbon neutral by 2050)."
+    }
+  },
+  {
+    "cluster_id": 17,
+    "cluster_type": "individual",
+    "section_header": "a message from the mayor",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Implement Clean Energy Columbus, a 100% clean energy community choice aggregation initiative supplying residents with Ohio-based wind and solar.",
+      "verbatim_text": "We implemented Clean Energy Columbus, our city's 100% clean energy aggregation initiative, ahead of schedule. Residents are already receiving energy from Ohio-based wind and solar sources - a tremendous leap toward achieving our 2050 carbon neutrality goal.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "A MESSAGE FROM THE MAYOR",
+      "sector": "Energy",
+      "extraction_rationale": "Named program with an implemented intervention (100% clean energy aggregation)."
+    }
+  },
+  {
+    "cluster_id": 18,
+    "cluster_type": "individual",
+    "section_header": "building on existing foundations",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Adopt and implement an Energy and Water Transparency Benchmarking Ordinance and establish a 100% Ohio-based clean energy Community Choice Aggregation program.",
+      "verbatim_text": "Sustainable Columbus was able to pass the first Energy and Water Transparency Benchmarking Ordinance in Ohio and pass a ballot measure with nearly 80% approval of residents for a 100% Ohio-based clean energy Community Choice Aggregation (CCA). These strong regulatory measures will contribute significantly to GHG reduction in the energy sectors.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "BUILDING ON EXISTING FOUNDATIONS",
+      "sector": "Buildings",
+      "extraction_rationale": "Explicit ordinance/regulatory measure and a voter-approved CCA program with clear clean-energy specification."
+    }
+  },
+  {
+    "cluster_id": 19,
+    "cluster_type": "individual",
+    "section_header": "greenhouse gas reduction analysis",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Achieve greenhouse gas emissions reductions of 45% by 2030 and 100% (carbon neutrality) by 2050 under CAP Actions (relative to the 2013 baseline).",
+      "verbatim_text": "| PROJECTED GHG EMISSION CHANGES   | 2030   | 2050 |\n| CAP Actions                      | -45%   | -100% |",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GREENHOUSE GAS REDUCTION ANALYSIS",
+      "sector": "Economy-wide",
+      "extraction_rationale": "Quantified emissions reduction targets presented as the CAP Actions scenario outcomes."
+    }
+  },
+  {
+    "cluster_id": 20,
+    "cluster_type": "individual",
+    "section_header": "implementation / monitoring and reporting",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Create a public-facing system/dashboard and conduct annual reporting to track progress on CAP action targets and annual GHG inventory inputs.",
+      "verbatim_text": "Annual reporting on key metrics for the targets of each action; and inputs for each annual GHG inventory will be due at the end of each calendar year.\n\nSustainable Columbus will implement a system and dashboard to demonstrate progress to the community for each action in relation to the targets outlined in the CAP.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "IMPLEMENTATION / MONITORING AND REPORTING",
+      "sector": "Cross-cutting",
+      "extraction_rationale": "Explicit commitment to monitoring/reporting mechanisms (annual reporting; implement dashboard system)."
+    }
+  }
+]

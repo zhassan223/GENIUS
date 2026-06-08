@@ -1,0 +1,371 @@
+[
+  {
+    "policy_statement": "Declare and legally protect Tubli Bay as a protected area/natural reserve (including Ramsar designation).",
+    "verbatim_text": "In response, Tubli Bay was declared nationally as a protected area in 1995 and Law 53/2006 designated Tubli Bay as a natural reserve. In 1997, it was designated internationally as a RAMSAR Site.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Vulnerability and adaptation mangrove habitats",
+    "sector": "Nature",
+    "extraction_rationale": "Contains specific legal/protective designations (protected area; Law 53/2006 natural reserve; Ramsar site), which are binding policy actions."
+  },
+  {
+    "policy_statement": "Require new buildings to have the ground floor elevated 1.5 meters above the pavement surface under Bahrain's 2009 building codes.",
+    "verbatim_text": "Some adaptation measures have already taken place in certain sectors. Bahrain's building codes enacted in 2009 call for the height of the ground floor of a new building being 1.5 meters above the level of the pavement surface.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Vulnerability and adaptation coastal zones",
+    "sector": "Adaptation",
+    "extraction_rationale": "A specific regulatory requirement (building code) with a quantified standard (1.5 meters)."
+  },
+  {
+    "policy_statement": "Formulate a clear, comprehensive national water policy and strategy based on integrated water resource management (IWRM) principles, supported by institutional reforms building on the reactivation of the National Water Resources Council (2016).",
+    "verbatim_text": "The results of the assessment make clear that significant water demand reductions are possible and therefore it is imperative for Bahrain to formulate a clear comprehensive national water policy and strategy based on integrated water resource management (IWRM) principles. A clear, comprehensive, and integrated water resources policy will be required to achieve the above benefits. Institutional reforms that build upon the reactivation of the National Water Resources Council in 2016 are essential.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Vulnerability and adaptation water resources",
+    "sector": "Water",
+    "extraction_rationale": "Explicit imperative/requirement to formulate a national policy/strategy and undertake institutional reforms tied to an identified institution (National Water Resources Council)."
+  },
+  {
+    "policy_statement": "Establish a cooperation mechanism between Bahrain and Saudi Arabia to develop and manage transboundary groundwater resources, including artificial recharge/storage enhancement using surplus tertiary treated wastewater.",
+    "verbatim_text": "Further deterioration of groundwater resources should be addressed by establishing a cooperation mechanism between Bahrain and Saudi Arabia in the development and management of transboundary groundwater resources, including groundwater artificial recharge/storage enhancement using surplus tertiary treated wastewater.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Vulnerability and adaptation water resources",
+    "sector": "Water",
+    "extraction_rationale": "Calls for establishing a specific bilateral mechanism with defined measures (transboundary management; artificial recharge using treated wastewater)."
+  },
+  {
+    "policy_statement": "Implement the National Energy Efficiency Action Plan (NEEAP) launched in 2017 with 22 initiatives across sectors to reduce energy use by 6% by 2025 relative to average energy use over 2009-2013.",
+    "verbatim_text": "Launched in 2017, the National Energy Efficiency Action Plan lays out 22 a comprehensive set of initiatives to increase energy efficiency potential in Bahrain. The Plan identifies 22 new initiatives across all sectors to achieve a reduction in energy use of 6% by 2025 relative to average energy use over the period 2009-2013.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "1.4.3. Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Named national plan with quantified target and multiple initiatives listed below (building codes, standards, district cooling, etc.)."
+  },
+  {
+    "policy_statement": "Integrate energy efficiency objectives into building codes/regulations for design, construction, and maintenance of structures (NEEAP initiative).",
+    "verbatim_text": "Twenty two main initiatives have been established to realize this target, including: - Building codes: This involves the integration of energy efficiency objectives into regulations governing the design, construction, and maintenance of structures.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement the National Energy Efficiency Action Plan (NEEAP) launched in 2017 with 22 initiatives across sectors to reduce energy use by 6% by 2025 relative to average energy use over 2009-2013.",
+    "section_header": "1.4.3. Energy",
+    "sector": "Energy",
+    "extraction_rationale": "A specific NEEAP initiative described as regulatory integration into building codes."
+  },
+  {
+    "policy_statement": "Introduce demand-side minimum efficiency standards for lighting, appliances, motor vehicles, and street lighting (NEEAP initiative).",
+    "verbatim_text": "Twenty two main initiatives have been established to realize this target, including: - Demand-side efficiency standards: This involves new minimum standards for lighting, appliances, motor vehicles, and street lighting;",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement the National Energy Efficiency Action Plan (NEEAP) launched in 2017 with 22 initiatives across sectors to reduce energy use by 6% by 2025 relative to average energy use over 2009-2013.",
+    "section_header": "1.4.3. Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete policy instrument (minimum standards) applied to specified end-uses."
+  },
+  {
+    "policy_statement": "Improve supply-side efficiency in electricity generation including transmission and distribution efficiency enhancements and installation of smart meters (NEEAP initiative).",
+    "verbatim_text": "Twenty two main initiatives have been established to realize this target, including: - Supply-side efficiency standards: This focuses on electricity generation, including efficiency enhancements for the transmission and distribution of electricity, and the installation of smart meters;",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement the National Energy Efficiency Action Plan (NEEAP) launched in 2017 with 22 initiatives across sectors to reduce energy use by 6% by 2025 relative to average energy use over 2009-2013.",
+    "section_header": "1.4.3. Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Specific intervention package (T&D efficiency + smart meters) within a named plan."
+  },
+  {
+    "policy_statement": "Introduce district cooling using highly efficient industrial-grade equipment and insulated underground piping networks (NEEAP initiative).",
+    "verbatim_text": "Twenty two main initiatives have been established to realize this target, including: - District cooling: This involves the introduction of highly efficient, industrial-grade equipment to produce space cooling for buildings through an insulated underground piping network;",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement the National Energy Efficiency Action Plan (NEEAP) launched in 2017 with 22 initiatives across sectors to reduce energy use by 6% by 2025 relative to average energy use over 2009-2013.",
+    "section_header": "1.4.3. Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Specific technology/infrastructure intervention clearly described."
+  },
+  {
+    "policy_statement": "Retrofit government buildings and pursue other green building initiatives (NEEAP initiative).",
+    "verbatim_text": "Twenty two main initiatives have been established to realize this target, including: - Green building initiatives: This involves retrofitting of government buildings; and other initiatives; and",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement the National Energy Efficiency Action Plan (NEEAP) launched in 2017 with 22 initiatives across sectors to reduce energy use by 6% by 2025 relative to average energy use over 2009-2013.",
+    "section_header": "1.4.3. Energy",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific action (retrofitting government buildings) under NEEAP."
+  },
+  {
+    "policy_statement": "Reform power subsidies and transport-related subsidies to offset perverse incentives for wasteful consumption (NEEAP initiative).",
+    "verbatim_text": "Twenty two main initiatives have been established to realize this target, including: - Subsidy reform: This involves reforms to both power subsidies and those that affect transport to offset perverse incentives for wasteful consumption.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement the National Energy Efficiency Action Plan (NEEAP) launched in 2017 with 22 initiatives across sectors to reduce energy use by 6% by 2025 relative to average energy use over 2009-2013.",
+    "section_header": "1.4.3. Energy",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Clear policy reform mechanism (subsidy reform) with purpose stated."
+  },
+  {
+    "policy_statement": "Implement the National Renewable Energy Action Plan (NREAP) with targets of 5% renewable energy (255 MW installed capacity) by 2025 and 10% (710 MW) by 2035, using solar, wind, and waste-to-energy with public and private investment.",
+    "verbatim_text": "NREAP has two primary targets: having 5% of energy (255 MW of installed capacity) from renewable sources by 2025, and 10% (710 MW of installed capacity) by 2035 (SEU, 2017a). The plan seeks to realize these targets by a mixture of solar, wind, and waste-to-energy technologies and involves a mixture of public and private investment.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "1.4.3. Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Named national plan with quantified targets and a list of policy instruments established to realize targets."
+  },
+  {
+    "policy_statement": "Adopt net metering to enable consumers to generate on-site, grid-connected renewable energy (e.g., rooftop solar panels).",
+    "verbatim_text": "Three main policies have been established to realize the targets, as follows: - Net metering: This will enable consumers to generate on-site, grid-connected, renewable energy, for example via the installation of solar panels on roofs;",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement the National Renewable Energy Action Plan (NREAP) with targets of 5% renewable energy (255 MW installed capacity) by 2025 and 10% (710 MW) by 2035, using solar, wind, and waste-to-energy with public and private investment.",
+    "section_header": "1.4.3. Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Specific policy instrument explicitly named and described under NREAP."
+  },
+  {
+    "policy_statement": "Use feed-in tariffs via a tender-based mechanism with long-term power purchase agreements to support renewable energy.",
+    "verbatim_text": "Three main policies have been established to realize the targets, as follows: - Feed-in tariffs: This is a tender-based mechanism to support renewable energy characterized by long-term power purchase agreements;",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement the National Renewable Energy Action Plan (NREAP) with targets of 5% renewable energy (255 MW installed capacity) by 2025 and 10% (710 MW) by 2035, using solar, wind, and waste-to-energy with public and private investment.",
+    "section_header": "1.4.3. Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete market/policy mechanism described with implementation approach."
+  },
+  {
+    "policy_statement": "Apply renewable energy mandates for new buildings (NREAP policy instrument).",
+    "verbatim_text": "Three main policies have been established to realize the targets, as follows: - Mandates: This refers to renewable energy mandates for new buildings.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement the National Renewable Energy Action Plan (NREAP) with targets of 5% renewable energy (255 MW installed capacity) by 2025 and 10% (710 MW) by 2035, using solar, wind, and waste-to-energy with public and private investment.",
+    "section_header": "1.4.3. Energy",
+    "sector": "Buildings",
+    "extraction_rationale": "Explicit mandate requirement tied to new buildings under NREAP."
+  },
+  {
+    "policy_statement": "Implement project-level greenhouse gas mitigation initiatives including BAPCO's carbon recovery plan and GPIC's carbon dioxide recovery unit (2009).",
+    "verbatim_text": "Project-level initiatives: Two projects have been launched. The first is BAPCO's carbon recovery plan, which finds industrial applications for the waste CO2 associated with its oil extraction activities. The other is a carbon dioxide recovery unit launched by Gulf Petrochemicals Industries Company (GPIC) in 2009, a first for a petrochemicals company in the Middle East.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.4.4. Climate change",
+    "sector": "Industry",
+    "extraction_rationale": "Specific mitigation projects explicitly described as launched initiatives."
+  },
+  {
+    "policy_statement": "Improve climate change education and awareness by introducing changes in primary school curricula and delivering proposals for educational reforms to the Ministry of Education.",
+    "verbatim_text": "Education-based initiatives: This involves improving education and awareness on climate change primarily by introducing changes in educational curricula in primary schools. In addition, specific proposals for educational reforms were delivered to the Ministry of Education on the basis of studies of how other countries have introduced climate change into educational curricula.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.4.4. Climate change",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Describes concrete education policy actions (curriculum changes; proposals delivered to Ministry of Education)."
+  },
+  {
+    "policy_statement": "Pass environmental and wildlife laws (1995) to protect the environment, preserve species, and rehabilitate suitable habitats for wildlife.",
+    "verbatim_text": "In 1995, environmental and wildlife laws were passed, with the goals of protecting the environment, preserving species, and rehabilitating suitable habitats for wildlife.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.4.2. Environment",
+    "sector": "Nature",
+    "extraction_rationale": "Explicit legal action with stated goals; qualifies as binding mechanism."
+  },
+  {
+    "policy_statement": "Establish the Supreme Council for the Environment (SCE) (1996) with executive authority to issue environmental regulations, monitor compliance, and fine non-compliance.",
+    "verbatim_text": "In 1996, the Supreme Council for the Environment (SCE) was established to formulate environmental policy associated with the implementation of these laws. The SCE has significant executive authority, including the ability to issue environmental regulations, to monitor adherence to those regulations, and to fine those who fail to comply.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.4.2. Environment",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Creates an institution with enforcement powers (regulate/monitor/fine), a concrete governance mechanism."
+  },
+  {
+    "policy_statement": "Launch a formal environmental strategy (2006) approved by the Cabinet, with strategic goals across domains (air, water, agriculture, marine/coastal, tourism, transport, waste) and integrate core pillars into Economic Vision 2030.",
+    "verbatim_text": "In 2006, the Bahrain government launched a formal environmental strategy, which features a series of strategic goals in a variety of domains, including air, water, agriculture, the marine and coastal environment, tourism, transport, and waste management. The plan was subsequently approved by the Cabinet and the core pillars of environmental policy have been integrated into Economic Vision 2030.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.4.2. Environment",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Named/explicit strategy with Cabinet approval and integration into broader national vision."
+  },
+  {
+    "policy_statement": "Integrate Government Action Plans (GAPs) with the Sustainable Development Goals (SDGs) and commit to the SDG program, including delivering Bahrain's first voluntary national report in July 2018.",
+    "verbatim_text": "Given the significant overlap between the SDGs and Bahrain's Economic Vision 2030, the Bahrain government set about integrating the GAP with the SDGs. The Bahrain government is now committed to the SDG program, and delivered its first voluntary national report during July 2018, and takes steps to ensure that policy plans are articulated in terms of the language of the SDGs",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.4.1. Sustainability",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "States a committed integration action (GAP-SDG integration) and a concrete deliverable (VNR in July 2018)."
+  },
+  {
+    "policy_statement": "Establish and update the National Biodiversity Strategy and Action Plan (NBSAP) through a revision process conducted during 2013-2015.",
+    "verbatim_text": "Furthermore, in efforts to preserve its natural assets. the country embarked on a two-year process (2013-2015) to revise and update its first National Biodiversity Strategy and Action Plan (NBSAP) that had been developed in 2007.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.1.6. Terrestrial environment",
+    "sector": "Nature",
+    "extraction_rationale": "Explicit government process/action to revise and update a named national plan with defined timeframe."
+  },
+  {
+    "policy_statement": "Develop and enforce national GHG inventory data system improvements including establishing a national statistical data system, developing a National Inventory System (NIS), creating a high-level GHG inventory committee, and building an integrated database (recommendations).",
+    "verbatim_text": "Recommendations to address these challenges include the following: - Establish and enforce a national statistical data system... - Given the above two points, a National Inventory System (NIS) is developed in cooperation with key sectors in the country; ... - Establish a GHG inventory committee with high-level representation from key ministries/ institutions, having clear oversight and coordination authority; and - Develop an integrated database of relevant information",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.5. Challenges and recommendations",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "Although framed as recommendations, they specify concrete institutional/system actions to be established/developed (data system, NIS, committee, database)."
+  },
+  {
+    "policy_statement": "Bahrain is pursuing a policy to expand the reuse of treated wastewater in irrigation, incentivizing farmers to use treated wastewater instead of groundwater by providing free delivery of treated wastewater to farms.",
+    "verbatim_text": "At  present,  Bahrain  is  pursuing  a  policy  of  expansion in the re-use of treated wastewater in  irrigation. ... The policy incentivizes farmers to use treated wastewater instead of groundwater by providing free delivery of treated wastewater to the farmer lands.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## Treated wastewater supply",
+    "sector": "Water",
+    "extraction_rationale": "Explicit policy instrument ('pursuing a policy') with a defined intervention (expand reuse in irrigation) and a specific incentive mechanism (free delivery)."
+  },
+  {
+    "policy_statement": "As part of its treated wastewater reuse policy, Bahrain delivers an average of 154 thousand m3/day of treated wastewater to 547 farms covering 3,100 hectares (about 92% of agricultural land area in Bahrain Island, Muharraq Island, and Sitra Island).",
+    "verbatim_text": "Currently, an average of 154 thousand m 3 /d of treated wastewater is delivered  to  547  farms  with  a  total  area  of 3,100 hectares. This represents about 92% of all  agricultural  land  area  in  Bahrain  Island, Muharraq Island, and Sitra Island.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## Treated wastewater supply",
+    "sector": "Water",
+    "extraction_rationale": "Concrete, quantified implementation detail of an active policy (treated wastewater delivery for irrigation), suitable as a standalone policy action with measurable scale."
+  },
+  {
+    "policy_statement": "Bahrain established a National Water Resources Council in 2016 to reactivate the previously formed High Water Council and provide an organizational framework for sustainable water resource management.",
+    "verbatim_text": "In 2016, Bahrain moved  one step in this direction  by  establishing  a  National  Water Resources Council (Royal Decree No. 36/2009) to reactivate the previously formed High Water Council in 1982, seen as the most suitable organizational framework to ensure sustainable water resource management.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.3.3. Results",
+    "sector": "Water",
+    "extraction_rationale": "Institutional policy action (establishing a council) with a legal basis cited; supports governance for adaptation/management."
+  },
+  {
+    "policy_statement": "Bahrain considered two strategic adaptation interventions for the municipal water sector to stabilize future water supply-demand equilibrium under climate change (per-capita demand reduction and leakage reduction).",
+    "verbatim_text": "## Adaptation interventions\n\nTwo strategic interventions were considered to ensure a stable equilibrium between future water supply and demand under climate change.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "## Adaptation interventions",
+    "sector": "Water",
+    "extraction_rationale": "Umbrella intervention package explicitly introducing multiple specific sub-policies described in subsequent bullets."
+  },
+  {
+    "policy_statement": "Reduce per capita municipal water demand by 33% from 183 to 122 m3/person/year by 2035, with a policy start year of 2016, using demand-side management policies (awareness, strengthened block tariffs, and new legislation).",
+    "verbatim_text": "The first intervention aims to achieve a 33% reduction in per capita municipal water demand, from the current level of  183 to 122 m 3 per person per year by 2035, with a policy start year of  2016. To achieve this target, three complementary  demand  side  management  policies would be advanced, as outlined in the bullets below.",
+    "policy_type": "sub",
+    "parent_policy_name": "Bahrain considered two strategic adaptation interventions for the municipal water sector to stabilize future water supply-demand equilibrium under climate change (per-capita demand reduction and leakage reduction).",
+    "section_header": "## Adaptation interventions",
+    "sector": "Water",
+    "extraction_rationale": "Quantified target, timeframe, and implementation approach clearly specified as a planned intervention."
+  },
+  {
+    "policy_statement": "Implement awareness raising campaigns and government incentives to promote municipal water efficiency and conservation.",
+    "verbatim_text": "§ Awareness raising : This would involve social campaigns and government incentives to emphasize the importance of water efficiency and conservation among the general population.",
+    "policy_type": "sub",
+    "parent_policy_name": "Bahrain considered two strategic adaptation interventions for the municipal water sector to stabilize future water supply-demand equilibrium under climate change (per-capita demand reduction and leakage reduction).",
+    "section_header": "## Adaptation interventions",
+    "sector": "Water",
+    "extraction_rationale": "Specific intervention mechanism (social campaigns and incentives) presented as part of the demand-side package."
+  },
+  {
+    "policy_statement": "Strengthen block water tariffs for non-household users under EWA's tariff schedule effective 1 March 2016.",
+    "verbatim_text": "§ Strengthened  block  tariffs: Up  until  recently  water tariffs were heavily subsidized and did not recover  minimum  production  and  distribution costs.  Effective  1  March  2016,  water  tariffs  for commercial,  industrial,  touristic,  and  other  nonhousehold users are being gradually strengthened in accordance with the new tariff schedule established by EWA.",
+    "policy_type": "sub",
+    "parent_policy_name": "Bahrain considered two strategic adaptation interventions for the municipal water sector to stabilize future water supply-demand equilibrium under climate change (per-capita demand reduction and leakage reduction).",
+    "section_header": "## Adaptation interventions",
+    "sector": "Water",
+    "extraction_rationale": "Explicit tariff reform with an effective date and defined target groups; constitutes a policy lever."
+  },
+  {
+    "policy_statement": "Develop new legislation to promote water use efficiency and conservation by strengthening building codes and promoting water-saving devices (with retrofits for existing buildings).",
+    "verbatim_text": "§ New legislation: To promote water use efficiency and conservation, new legislation would be needed to strengthen existing building codes, promote water saving  devices  such  as  low-flow  shower  heads, faucet  aerators,  automatic  shut-off   nozzles  and others for new buildings while existing buildings would  be  retrofitted.",
+    "policy_type": "sub",
+    "parent_policy_name": "Bahrain considered two strategic adaptation interventions for the municipal water sector to stabilize future water supply-demand equilibrium under climate change (per-capita demand reduction and leakage reduction).",
+    "section_header": "## Adaptation interventions",
+    "sector": "Water",
+    "extraction_rationale": "Concrete proposed legislative action plus enumerated device standards/retrofit scope."
+  },
+  {
+    "policy_statement": "Reduce leakage in the municipal water distribution network to achieve a 22% reduction in per capita municipal water demand from 183 to 142 m3/person/year by 2035, with a policy start year of 2016 (implemented starting 2020 per phase-in schedule).",
+    "verbatim_text": "The  second  intervention  aims  to  reduce  leakage  in the  water  distribution  network. ... Through investments in detection and repair, this second intervention aims to achieve a 22% reduction in per capita municipal water demand, from the current level of 183 to 142 m 3 per person per year  by  2035,  with  a  policy  start  year  of 2016.",
+    "policy_type": "sub",
+    "parent_policy_name": "Bahrain considered two strategic adaptation interventions for the municipal water sector to stabilize future water supply-demand equilibrium under climate change (per-capita demand reduction and leakage reduction).",
+    "section_header": "## Adaptation interventions",
+    "sector": "Water",
+    "extraction_rationale": "Quantified leakage-related demand reduction target and deadline; framed as an intervention with investments."
+  },
+  {
+    "policy_statement": "Strengthen EWA's leak detection programme to conduct more frequent surveys and expand the use of leak detection technologies.",
+    "verbatim_text": "§ Leak detection: This would involve the strengthening of  the  leak  detection  programme  within  EWA's Leakage Detection and Control Group to perform more frequent leak detection surveys and expand the  use  of   leak  detection  technologies  (e.g.,  leak noise correlators, thermography free-floating inline  leak  detectors,  etc).",
+    "policy_type": "sub",
+    "parent_policy_name": "Bahrain considered two strategic adaptation interventions for the municipal water sector to stabilize future water supply-demand equilibrium under climate change (per-capita demand reduction and leakage reduction).",
+    "section_header": "## Adaptation interventions",
+    "sector": "Water",
+    "extraction_rationale": "Specific programmatic action to strengthen leak detection with examples of technologies."
+  },
+  {
+    "policy_statement": "Implement leak control measures including Active Leakage Control, Pressure Management, Network Rehabilitation, and improved speed and quality of repair.",
+    "verbatim_text": "§ Leak control: This  would  involve  several  available currently  technologies  including  Active  Leakage Control, Pressure Management, Networks Rehabilitations  and  Speed  &amp;  Quality  of   Repair (Lambert, 2003).",
+    "policy_type": "sub",
+    "parent_policy_name": "Bahrain considered two strategic adaptation interventions for the municipal water sector to stabilize future water supply-demand equilibrium under climate change (per-capita demand reduction and leakage reduction).",
+    "section_header": "## Adaptation interventions",
+    "sector": "Water",
+    "extraction_rationale": "Clearly specified set of operational measures to control leakage; part of the leakage reduction intervention."
+  },
+  {
+    "policy_statement": "Bahrain prohibited industry (by Amiri Decree No. 12/1980 and Ministerial Order No. 23 of 1980) from using the Alat and Khobar freshwater zones of the Dammam aquifer to reduce stress on these zones.",
+    "verbatim_text": "In an effort to diminish stress on the Alat and Khobar freshwater  zones  of   the  Dammam  aquifer,  industry was  largely  prohibited  by  government  decree  (i.e., Amiri  Decree  No.  12/1980  and  Ministerial  Order No. 23 of 1980) from using these zones.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## Industrial water demand",
+    "sector": "Water",
+    "extraction_rationale": "Binding regulatory restriction with cited legal instruments and clear regulated behavior (industrial groundwater abstraction)."
+  },
+  {
+    "policy_statement": "The National Energy Efficiency Action Plan (NEEAP) has been officially endorsed through Cabinet Resolution No 2392-1.",
+    "verbatim_text": "It has been officially endorsed through  Cabinet  Resolution  No  2392-1.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## 4.1.1.\t Energy\tefficiency",
+    "sector": "Energy",
+    "extraction_rationale": "Formal government endorsement via cabinet resolution is an explicit policy action (institutional adoption). Not extracted as the NEEAP itself is already captured in prior summary."
+  },
+  {
+    "policy_statement": "Bahrain established the Sustainable Energy Center (SEC) as an independent centre reporting to Cabinet via the Minister of Electricity and Water Affairs through Royal Decree 22/2019, replacing the Sustainable Energy Unit.",
+    "verbatim_text": "The Plan  was  prepared  by  the  Sustainable  Energy  Unit which has recently been transformed by Royal Decree 22/2019  which  established  the  Sustainable  Energy Center  (SEC).  The  SEC  is  an  independent  centre, which reports directly to Cabinet via the Minister of Electricity  and  Water  Affairs.  The  SEC  replaces  the previous  Sustainable  Energy  Unit  (SEU)  which  had been established in 2014.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## 4.1.1.\t Energy\tefficiency",
+    "sector": "Energy",
+    "extraction_rationale": "Institutional reform established by Royal Decree with governance details; distinct from NEEAP implementation already summarized."
+  },
+  {
+    "policy_statement": "Bahrain introduced block water tariffs in 1986, contributing to an average decline in per capita municipal water consumption of about 1.2% per year.",
+    "verbatim_text": "With the introduction of block water tariffs in 1986, these rates have been declining at an average rate of about 1.2% per year.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## Municipal water demand",
+    "sector": "Water",
+    "extraction_rationale": "Clear policy instrument (block water tariffs) with a date; although described historically, it is an implemented demand-management policy."
+  },
+  {
+    "policy_statement": "Bahrain is gradually strengthening electricity tariffs as part of electricity subsidy reform, increasing residential tariffs for the first 3,000 kWh/month from US$0.008/kWh to US$0.08/kWh by 2019 and increasing industrial tariffs above 5,000 kWh/month from US$0.04/kWh to US$0.08/kWh by 2019.",
+    "verbatim_text": "Electricity  Subsidy  Reform:  This  initiative  aims  to gradually increase electricity tariffs to reflect the actual costs of  power generation and promote more efficient electricity  consumption. ... For the first 3,000 kWh per month, the residential rate will be gradually increased from  US$  0.008/kWh  to  US$  0.08/kWh  by  2019. For  consumption  above  5,000  kWh  per  month,  the industrial  rate  will  be  gradually  increased  from  US$ 0.04/kWh  to  US$  0.08/kWh  by  2019.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement the National Energy Efficiency Action Plan (NEEAP) launched in 2017 with 22 initiatives across sectors to reduce energy use by 6% by 2025 relative to average energy use over 2009-2013.",
+    "section_header": "## Cross sectoral  initiatives",
+    "sector": "Energy",
+    "extraction_rationale": "Specific tariff reform initiative with quantified tariff changes and deadlines; listed as an initiative within NEEAP cross-sectoral actions."
+  },
+  {
+    "policy_statement": "Bahrain is reforming transport fuel subsidies by increasing retail gasoline prices (regular 91 octane from US$0.21 to US$0.30 and premium 95 octane from US$0.26 to US$0.42) to target a 4% reduction in annual fuel use in the light-duty vehicle fleet.",
+    "verbatim_text": "Transport Subsidy Reform: This  initiative  aims  for  a  4% reduction in annual fuel use in the light duty vehicle fleet. ... The price of regular grade gasoline (91 Octane) is  being  increased  by  42%,  from  US$  0.21  to US$ 0.30,  while  the  price  of   premium  grade  gasoline (95  Octane)  is  being  increased  by  60%,  from US$ 0.26 to US$ 0.42.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement the National Energy Efficiency Action Plan (NEEAP) launched in 2017 with 22 initiatives across sectors to reduce energy use by 6% by 2025 relative to average energy use over 2009-2013.",
+    "section_header": "## Transport initiatives",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified policy target and explicit price reform mechanism; clearly an implemented/underway policy initiative under NEEAP."
+  },
+  {
+    "policy_statement": "Bahrain implemented fuel economy labels for light-duty vehicles on all new vehicles of model year 2018 to increase consumer awareness as part of vehicle efficiency standards and labeling.",
+    "verbatim_text": "Vehicle Efficiency Standards &amp; Labeling: This initiative aims to improve efficiency in the transport sector by  setting  minimum  fuel  economy  standards  for light  duty  vehicles;  and  by  making  vehicle  fuel economy an explicit part of  the purchase decision by ensuring that labels are appropriately displayed thereby increasing consumer awareness. The fuel  economy  labels  for  light  duty  vehicles  were implemented on all new vehicles of model 2018.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement the National Energy Efficiency Action Plan (NEEAP) launched in 2017 with 22 initiatives across sectors to reduce energy use by 6% by 2025 relative to average energy use over 2009-2013.",
+    "section_header": "## Transport initiatives",
+    "sector": "Transport",
+    "extraction_rationale": "Concrete regulatory/information policy action with an explicit implementation milestone (model year 2018 labels)."
+  }
+]

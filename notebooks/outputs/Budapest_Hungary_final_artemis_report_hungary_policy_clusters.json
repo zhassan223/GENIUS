@@ -1,0 +1,98 @@
+[
+  {
+    "cluster_id": 0,
+    "cluster_type": "individual",
+    "section_header": "recommendations, suggestions and good practices",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "The Government should provide a mechanism defining when and on what basis a decision will be made on the back-end of the nuclear fuel cycle.",
+      "verbatim_text": "R1 Recommendation: The Government should provide the mechanism for when and on what basis the decision shall be made on the back-end of the nuclear fuel cycle.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "RECOMMENDATIONS, SUGGESTIONS AND GOOD PRACTICES",
+      "sector": "Nuclear / Radioactive Waste & Spent Fuel Management",
+      "extraction_rationale": "Explicit recommended government action to establish a decision-making mechanism for spent fuel back-end; concrete governance intervention."
+    }
+  },
+  {
+    "cluster_id": 1,
+    "cluster_type": "individual",
+    "section_header": "recommendations, suggestions and good practices",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "HAEA should consider completing development of safety regulations for management and disposal of very low activity level radioactive waste.",
+      "verbatim_text": "S1 Suggestion:  HAEA  should  consider  completing  development  of  safety regulations  for  management  of  very  low  activity  level  radioactive  waste including disposal.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "RECOMMENDATIONS, SUGGESTIONS AND GOOD PRACTICES",
+      "sector": "Nuclear / Radioactive Waste Regulation",
+      "extraction_rationale": "Specific regulatory development action assigned to the regulator (HAEA), explicitly covering VLLW management including disposal."
+    }
+  },
+  {
+    "cluster_id": 2,
+    "cluster_type": "individual",
+    "section_header": "recommendations, suggestions and good practices",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "The Government should consider approving an updated national program without undue delay, taking into account the Paks II project and other relevant technical circumstances.",
+      "verbatim_text": "Suggestion: The Government should consider approving an updated national program without undue delay taking into account the Paks II project, and other relevant and technical circumstances.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "RECOMMENDATIONS, SUGGESTIONS AND GOOD PRACTICES",
+      "sector": "Nuclear / National Strategy & Planning",
+      "extraction_rationale": "Concrete governance action to approve an updated national programme with specified considerations (Paks II and technical circumstances)."
+    }
+  },
+  {
+    "cluster_id": 3,
+    "cluster_type": "individual",
+    "section_header": "recommendations, suggestions and good practices",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "PURAM should consider demonstrating compatibility of the KBS-3V disposal concept with the envisaged host rock by developing a preliminary safety case early in deep geological disposal facility development.",
+      "verbatim_text": "S3 Suggestion: PURAMshould consider demonstrating the compatibility of the KBS-3V concept to the envisaged host rock by developing a preliminary safety case early in the development of the deep geological disposal facility .",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "RECOMMENDATIONS, SUGGESTIONS AND GOOD PRACTICES",
+      "sector": "Nuclear / Geological Disposal Safety",
+      "extraction_rationale": "Specific technical/safety assessment action (develop preliminary safety case) tied to a named disposal concept and host rock compatibility."
+    }
+  },
+  {
+    "cluster_id": 4,
+    "cluster_type": "individual",
+    "section_header": "recommendations, suggestions and good practices",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "HAEA should consider assessing and developing its resources and competences to fulfil responsibilities for radioactive waste and spent fuel safety, particularly for deep geological and very low activity level waste disposal facilities.",
+      "verbatim_text": "S4 Suggestion: The HAEA should consider assessing and developing its resources and competences to fulfil its responsibilities related to the safety of radioactive waste and spent fuel management, in particular with regard to the development of deep geological and very low activity level radioactive waste disposal facilities.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "RECOMMENDATIONS, SUGGESTIONS AND GOOD PRACTICES",
+      "sector": "Nuclear / Institutional Capacity",
+      "extraction_rationale": "Explicit institutional capacity-building action for the regulator, scoped to specific facility types."
+    }
+  },
+  {
+    "cluster_id": 5,
+    "cluster_type": "individual",
+    "section_header": "recommendations, suggestions and good practices",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "PURAM should consider strengthening its management system to support decommissioning of Paks NPP, ensuring facility knowledge is collected, preserved, and available for further use.",
+      "verbatim_text": "S5 Suggestion: PURAM should consider strengthening its management system to  support  its  activities  related  to  the  decommissioning  of  Paks  NPP,  in particular to ensure that knowledge about the facility is collected, preserved, and available for further use.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "RECOMMENDATIONS, SUGGESTIONS AND GOOD PRACTICES",
+      "sector": "Nuclear / Decommissioning Governance",
+      "extraction_rationale": "Concrete management-system strengthening action with clear objective (knowledge preservation) for a specified decommissioning activity."
+    }
+  }
+]

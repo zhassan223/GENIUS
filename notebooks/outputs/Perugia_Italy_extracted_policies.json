@@ -1,0 +1,992 @@
+[
+  {
+    "policy_statement": "Italy’s Kyoto Protocol ratification law prescribes a national greenhouse gas emissions reduction of 6.5% compared to 1990 levels (EU burden sharing).",
+    "verbatim_text": "The ratification law prescribes that:\n\n1. Italy's greenhouse gas emissions should be reduced by 6.5%, compared to 1990 levels, as agreed under the European 'burden sharing' adopted by the European Union on 4 th March 2002;",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "FOREWORD",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Explicit legally-prescribed quantified emissions reduction target tied to Kyoto ratification."
+  },
+  {
+    "policy_statement": "Italy allocates EUR 25 million per year for 2002–2004 to support pilot projects on energy efficiency, clean fuels/engines, and increasing carbon sinks.",
+    "verbatim_text": "3. 25  millions  Euro/year  have  been  allocated,for the period 2002-2004, to support pilot projects to enhance energy efficiency, to promote clean fuels and engines, to increase carbon sinks;",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "FOREWORD",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Concrete resource allocation with amount and time period, and specified supported actions."
+  },
+  {
+    "policy_statement": "Italy allocates EUR 68 million per year by 2003 to support projects in developing countries to reduce greenhouse gas emissions and promote adaptation to climate change impacts.",
+    "verbatim_text": "4. 68  millions  Euro/year  have  been  allocated,  by 2003,  to  support  projects  in  the  developing countries aimed to reduce greenhouse gas emissions reduce, and to promote the adaptation to the adverse effects of climate change.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "FOREWORD",
+    "sector": "International cooperation",
+    "extraction_rationale": "Explicit funding allocation for mitigation and adaptation projects in developing countries."
+  },
+  {
+    "policy_statement": "Italy adopted a National Action Plan to reduce greenhouse gas emissions (19 December 2002) to implement the Kyoto Protocol ratification law guidelines.",
+    "verbatim_text": "The third National Communication of Italy to the United Nations Framework Convention on Climate Change is based on the National Action Plan to reduce greenhouse gas emissions, adopted by the Interministerial Committee for Economic Planning on 19 th December 2002. The National Action Plan is directed to implement the guidelines included in the Kyoto Protocol ratification law.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Policies and measures",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Named overarching plan adopted by CIPE; subsequent text lists multiple measures/scenarios under it."
+  },
+  {
+    "policy_statement": "Under current legislation (trend scenario), Italy includes a minimum 2% share of electricity production from new plants using renewable sources (Law Decree 79/1999).",
+    "verbatim_text": "The  'trend' emission scenario for 2010, 'under current legislation', includes measures already adopted:\n\n- minimum  share  (2%)  of  electricity  production from  new  plants  using  renewable  sources  (law decree 79/1999);",
+    "policy_type": "sub",
+    "parent_policy_name": "Italy implements programmes and initiatives in agriculture and forestry to increase and better manage forest areas/woodlands, reclaim abandoned territories, and protect areas at instability or desertification risk to increase carbon sinks.",
+    "section_header": "Policies and measures",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified renewable electricity obligation explicitly cited as an adopted measure within the Action Plan’s trend scenario."
+  },
+  {
+    "policy_statement": "Italy’s Prime Minister Decree of 4 August 1999 provides for ENEL to sell ~15,000 MW and mandates conversion of ~10,000 MW of existing oil-fired thermo-electric capacity to natural gas combined cycle.",
+    "verbatim_text": "- Prime  Minister  Decree  of  4  August  1999  providing for selling by ENEL of approximately 15,000 MW, and compulsory  conversion  of  existing  oil fired thermo-electric plants into natural gas combined cycle plants for about 10,000 MW;",
+    "policy_type": "sub",
+    "parent_policy_name": "Italy implements programmes and initiatives in agriculture and forestry to increase and better manage forest areas/woodlands, reclaim abandoned territories, and protect areas at instability or desertification risk to increase carbon sinks.",
+    "section_header": "Policies and measures",
+    "sector": "Energy",
+    "extraction_rationale": "Specific regulatory intervention with quantified MW amounts and binding language ('compulsory conversion')."
+  },
+  {
+    "policy_statement": "Italy increases the use of coal in power plants from 9% to 14% (as part of measures already adopted under the trend scenario).",
+    "verbatim_text": "- increase in the use of coal in power plants from 9% to 14%;",
+    "policy_type": "sub",
+    "parent_policy_name": "Italy implements programmes and initiatives in agriculture and forestry to increase and better manage forest areas/woodlands, reclaim abandoned territories, and protect areas at instability or desertification risk to increase carbon sinks.",
+    "section_header": "Policies and measures",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit quantified change in fuel mix stated as a measure in the trend scenario."
+  },
+  {
+    "policy_statement": "Italy implements Ministry of Industry Decrees of 24 April 2001 to increase end-use energy efficiency.",
+    "verbatim_text": "- Decrees  of  the  Ministry  of  Industry  of  24  April 2001 to increase end-use energy efficiency;",
+    "policy_type": "sub",
+    "parent_policy_name": "Italy implements programmes and initiatives in agriculture and forestry to increase and better manage forest areas/woodlands, reclaim abandoned territories, and protect areas at instability or desertification risk to increase carbon sinks.",
+    "section_header": "Policies and measures",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Named legal instruments (decrees) with a specified policy objective (end-use energy efficiency)."
+  },
+  {
+    "policy_statement": "Italy implements Law 449/97 allowing 41% tax deductibility of building retrofitting expenses, including renewable-energy-based plants.",
+    "verbatim_text": "- implementation of law 449/97, concerning deducibility  of  41% of building retrofitting expenses, including renewable-energy based plants;",
+    "policy_type": "sub",
+    "parent_policy_name": "Italy implements programmes and initiatives in agriculture and forestry to increase and better manage forest areas/woodlands, reclaim abandoned territories, and protect areas at instability or desertification risk to increase carbon sinks.",
+    "section_header": "Policies and measures",
+    "sector": "Buildings",
+    "extraction_rationale": "Clear fiscal incentive (41% deductibility) tied to building retrofit and renewable installations."
+  },
+  {
+    "policy_statement": "Italy exempts 300,000 tonnes per year of biodiesel from excise duties under Article 21 of Law 388/2000.",
+    "verbatim_text": "- exemption from excise duties of 300,000 t/year of bio-diesel, as set forth in art. 21 of law 388/2000.",
+    "policy_type": "sub",
+    "parent_policy_name": "Italy implements programmes and initiatives in agriculture and forestry to increase and better manage forest areas/woodlands, reclaim abandoned territories, and protect areas at instability or desertification risk to increase carbon sinks.",
+    "section_header": "Policies and measures",
+    "sector": "Transport",
+    "extraction_rationale": "Specific fiscal measure with quantified volume (t/year) and legal reference."
+  },
+  {
+    "policy_statement": "Under the reference scenario, Italy targets increased use of renewable sources totaling 75 TWh by 2010.",
+    "verbatim_text": "The 'reference scenario' includes the implementation  of  programmes  adopted  under  domestic laws  and  European  directives...\n- increased  use  of  renewable  sources  for  a  total amount of 75 TWh by 2010;",
+    "policy_type": "sub",
+    "parent_policy_name": "Italy implements programmes and initiatives in agriculture and forestry to increase and better manage forest areas/woodlands, reclaim abandoned territories, and protect areas at instability or desertification risk to increase carbon sinks.",
+    "section_header": "Policies and measures",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified renewable energy generation target with a date (2010) within the reference scenario package."
+  },
+  {
+    "policy_statement": "Under the reference scenario, Italy will progressively phase out landfills and increase energy production from waste.",
+    "verbatim_text": "- progressive phasing-out of landfills and increased energy production from waste;",
+    "policy_type": "sub",
+    "parent_policy_name": "Italy implements programmes and initiatives in agriculture and forestry to increase and better manage forest areas/woodlands, reclaim abandoned territories, and protect areas at instability or desertification risk to increase carbon sinks.",
+    "section_header": "Policies and measures",
+    "sector": "Waste",
+    "extraction_rationale": "Specific intervention describing a phase-out and a linked energy recovery expansion."
+  },
+  {
+    "policy_statement": "Under the reference scenario, Italy develops new infrastructure to shift passenger and freight transport from roads to railways and coasting navigation.",
+    "verbatim_text": "- new infrastructures, with effects on the transportation of passengers and goods from road to railways and coasting navigation;",
+    "policy_type": "sub",
+    "parent_policy_name": "Italy implements programmes and initiatives in agriculture and forestry to increase and better manage forest areas/woodlands, reclaim abandoned territories, and protect areas at instability or desertification risk to increase carbon sinks.",
+    "section_header": "Policies and measures",
+    "sector": "Transport",
+    "extraction_rationale": "Concrete infrastructure-led modal shift measure explicitly stated."
+  },
+  {
+    "policy_statement": "Under the reference scenario, Italy promotes the production and use of high-efficiency vehicles and fuels.",
+    "verbatim_text": "- promotion of the production and use of high-efficiency vehicles and fuels;",
+    "policy_type": "sub",
+    "parent_policy_name": "Italy implements programmes and initiatives in agriculture and forestry to increase and better manage forest areas/woodlands, reclaim abandoned territories, and protect areas at instability or desertification risk to increase carbon sinks.",
+    "section_header": "Policies and measures",
+    "sector": "Transport",
+    "extraction_rationale": "Specified intervention to promote efficient vehicles and fuels (policy action, even if instruments not detailed)."
+  },
+  {
+    "policy_statement": "Italy implements programmes and initiatives in agriculture and forestry to increase and better manage forest areas/woodlands, reclaim abandoned territories, and protect areas at instability or desertification risk to increase carbon sinks.",
+    "verbatim_text": "Measures in the agricultural and forestry sectors include the implementation of programmes and initiatives aimed at increasing the quantity and improving  the  management  of  forest  areas  and  woodlands, reclaiming of abandoned territories, and protection of territories that face instability or desertification risks:",
+    "policy_type": "parent",
+    "parent_policy_name": "National Action Plan to reduce greenhouse gas emissions",
+    "section_header": "Policies and measures",
+    "sector": "AFOLU",
+    "extraction_rationale": "Umbrella package introduced with multiple bullet-point measures listed underneath."
+  },
+  {
+    "policy_statement": "Implement management of existing forests as part of agricultural and forestry measures to increase carbon sinks.",
+    "verbatim_text": "- management of existing forests;",
+    "policy_type": "sub",
+    "parent_policy_name": "Italy implements programmes and initiatives in agriculture and forestry to increase and better manage forest areas/woodlands, reclaim abandoned territories, and protect areas at instability or desertification risk to increase carbon sinks.",
+    "section_header": "Policies and measures",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific listed measure under the agriculture/forestry package."
+  },
+  {
+    "policy_statement": "Implement revegetation of farmlands and grazing lands to support increased carbon sinks.",
+    "verbatim_text": "- revegetation of farmlands and grazing lands;",
+    "policy_type": "sub",
+    "parent_policy_name": "Italy implements programmes and initiatives in agriculture and forestry to increase and better manage forest areas/woodlands, reclaim abandoned territories, and protect areas at instability or desertification risk to increase carbon sinks.",
+    "section_header": "Policies and measures",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific listed land-based measure under the agriculture/forestry package."
+  },
+  {
+    "policy_statement": "Implement natural reforestation to support increased carbon sinks.",
+    "verbatim_text": "- natural reforestation;",
+    "policy_type": "sub",
+    "parent_policy_name": "Italy implements programmes and initiatives in agriculture and forestry to increase and better manage forest areas/woodlands, reclaim abandoned territories, and protect areas at instability or desertification risk to increase carbon sinks.",
+    "section_header": "Policies and measures",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific listed measure under the agriculture/forestry package."
+  },
+  {
+    "policy_statement": "Implement afforestation and reforestation in existing wooded lands, new areas, and areas at hydrogeological instability risk to increase carbon sinks.",
+    "verbatim_text": "- afforestation  and  reforestation  in  existing  wooded lands, in new areas and in areas subject to hydrogeological instability risk.",
+    "policy_type": "sub",
+    "parent_policy_name": "Italy implements programmes and initiatives in agriculture and forestry to increase and better manage forest areas/woodlands, reclaim abandoned territories, and protect areas at instability or desertification risk to increase carbon sinks.",
+    "section_header": "Policies and measures",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific listed afforestation/reforestation action with defined locations/contexts."
+  },
+  {
+    "policy_statement": "Deliberation CIPE No. 218/99 (21/12/1999) defines an action plan for environmental information on climate change, including dissemination of IPCC/UNFCCC documents, scientific and technical information, and local best-practice information programs for energy saving.",
+    "verbatim_text": "The key document to refer to for these actions is the Deliberation  n.  218/99  of  21/12/1999  by  the  CIPE (Interministerial  Committee  for  Economic  Planning), which has the objective to define an action plan for environmental  information  in  the  field  of  climate change. This action plan includes in particular:\n\n- presentation and dissemination of the main documents under the IPCC and the UNFCCC... \n- dissemination  of  technical  information  about energy  efficiency...\n- promotion  of  information  programs  at  the  local level ... for  energy  saving adopted by local Administrations.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Education, training and public awareness",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Named official deliberation with stated objective and specified action components (information and dissemination measures)."
+  },
+  {
+    "policy_statement": "National Climate Research Plan adopted as a component of the National Research Plan through joint efforts of the Ministry for the Environment and Territory and the Ministry for Education, University and Research.",
+    "verbatim_text": "Italy has adopted a National Climate Research Plan through the joint efforts of the Ministry for the Environment  and  Territory  and  the  Ministry  for Education, University and Research, which is a component of the National Research Plan.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Research and systematic observation",
+    "sector": "Research & development",
+    "extraction_rationale": "Explicit statement of adoption of a named plan by ministries."
+  },
+  {
+    "policy_statement": "Agreement Protocol (Turin, 5 June 2001) by the Conference of Presidents of Regional Governments and Autonomous Provinces coordinates policies aimed at reducing greenhouse gas emissions, including preparing an Environmental Energy Plan by end-2002.",
+    "verbatim_text": "AGREEMENT PROTOCOL OF THE CONFERENCE OF THE PRESIDENTS OF REGIONAL GOVERNMENTS AND OF AUTONOMOUS PROVINCES FOR THE COORDINATION OF POLICIES AIMED AT REDUCING EMISSIONS OF GREENHOUSE GASES INTO THE ATMOSPHERE\n...\nundertake to guarantee:\n...\nthat an Environmental Energy Plan shall be drawn up by the end of the year 2002, based on the individual energy balances...",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "AGREEMENT PROTOCOL OF THE CONFERENCE OF THE PRESIDENTS OF REGIONAL GOVERNMENTS AND OF AUTONOMOUS PROVINCES FOR THE COORDINATION OF POLICIES AIMED AT REDUCING EMISSIONS OF GREENHOUSE GASES INTO THE ATMOSPHERE",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Named protocol containing multiple explicit commitments ('undertake to guarantee') including a dated deliverable and several listed action areas."
+  },
+  {
+    "policy_statement": "Regions and Autonomous Provinces commit to orient their policies as far as possible toward reducing greenhouse gases and to coordinate central-state and local initiatives/financing with sustainability as a priority objective.",
+    "verbatim_text": "undertake to guarantee:\n\nthat their various policies shall be oriented, to the greatest extent possible, towards the reduction of greenhouse gases;\n\nthat initiatives and financing, both Central-State and local, shall be coordinated for the priority objective of sustainability;",
+    "policy_type": "sub",
+    "parent_policy_name": "Agreement Protocol (Turin, 5 June 2001) by the Conference of Presidents of Regional Governments and Autonomous Provinces coordinates policies aimed at reducing greenhouse gas emissions, including preparing an Environmental Energy Plan by end-2002.",
+    "section_header": "AGREEMENT PROTOCOL OF THE CONFERENCE OF THE PRESIDENTS OF REGIONAL GOVERNMENTS AND OF AUTONOMOUS PROVINCES FOR THE COORDINATION OF POLICIES AIMED AT REDUCING EMISSIONS OF GREENHOUSE GASES INTO THE ATMOSPHERE",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Explicit commitment language by subnational governments to align policies and coordinate financing toward GHG reduction/sustainability."
+  },
+  {
+    "policy_statement": "Regions and Autonomous Provinces commit to formulate optimal GHG reduction strategies within Plans for the Safeguarding and Reclamation of Air Quality.",
+    "verbatim_text": "undertake to guarantee:\n\nthat optimal strategies for the reduction of greenhouse gases shall be formulated as part of the Plans for the Safeguarding and Reclamation of Air Quality;",
+    "policy_type": "sub",
+    "parent_policy_name": "Agreement Protocol (Turin, 5 June 2001) by the Conference of Presidents of Regional Governments and Autonomous Provinces coordinates policies aimed at reducing greenhouse gas emissions, including preparing an Environmental Energy Plan by end-2002.",
+    "section_header": "AGREEMENT PROTOCOL OF THE CONFERENCE OF THE PRESIDENTS OF REGIONAL GOVERNMENTS AND OF AUTONOMOUS PROVINCES FOR THE COORDINATION OF POLICIES AIMED AT REDUCING EMISSIONS OF GREENHOUSE GASES INTO THE ATMOSPHERE",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Concrete planning commitment to embed GHG strategies in a specific planning instrument (air quality plans)."
+  },
+  {
+    "policy_statement": "An Environmental Energy Plan will be drawn up by end of 2002, based on energy balances and favoring renewable sources and technological innovation.",
+    "verbatim_text": "that an Environmental Energy Plan shall be drawn up by the end of the year 2002, based on the individual energy balances and favouring:\n\nrenewable sources and technological innovation;",
+    "policy_type": "sub",
+    "parent_policy_name": "Agreement Protocol (Turin, 5 June 2001) by the Conference of Presidents of Regional Governments and Autonomous Provinces coordinates policies aimed at reducing greenhouse gas emissions, including preparing an Environmental Energy Plan by end-2002.",
+    "section_header": "AGREEMENT PROTOCOL OF THE CONFERENCE OF THE PRESIDENTS OF REGIONAL GOVERNMENTS AND OF AUTONOMOUS PROVINCES FOR THE COORDINATION OF POLICIES AIMED AT REDUCING EMISSIONS OF GREENHOUSE GASES INTO THE ATMOSPHERE",
+    "sector": "Energy",
+    "extraction_rationale": "Dated plan commitment with specified priority content (renewables, innovation)."
+  },
+  {
+    "policy_statement": "The Environmental Energy Plan will include rationalisation of electricity production and rationalisation of energy consumption, including potential introduction of energy certification for the civil sector.",
+    "verbatim_text": "that an Environmental Energy Plan shall be drawn up by the end of the year 2002... and favouring:\n\nrationalisation of the production of electricity;\n\nrationalisation of energy consumption, in particular with regard to the civil sector, with measures eventually to include the introduction of energy certification;",
+    "policy_type": "sub",
+    "parent_policy_name": "Agreement Protocol (Turin, 5 June 2001) by the Conference of Presidents of Regional Governments and Autonomous Provinces coordinates policies aimed at reducing greenhouse gas emissions, including preparing an Environmental Energy Plan by end-2002.",
+    "section_header": "AGREEMENT PROTOCOL OF THE CONFERENCE OF THE PRESIDENTS OF REGIONAL GOVERNMENTS AND OF AUTONOMOUS PROVINCES FOR THE COORDINATION OF POLICIES AIMED AT REDUCING EMISSIONS OF GREENHOUSE GASES INTO THE ATMOSPHERE",
+    "sector": "Energy",
+    "extraction_rationale": "Specifies concrete elements to be included in the plan; includes an explicit mechanism (energy certification) though framed as possible ('eventually')."
+  },
+  {
+    "policy_statement": "The Environmental Energy Plan will link planning sectors for sustainability and promote eco-efficiency in the production sector, technological innovation support policies, and macroeconomic tools (taxation, fees, incentives), including international cooperation.",
+    "verbatim_text": "that an Environmental Energy Plan shall be drawn up by the end of the year 2002... and favouring:\n\nthe linking of different planning sectors in the interests of overall sustainability;\n\noptimisation of the role of policies for the support of technological innovation, as well as macroeconomic tools regarding taxation, fees and incentives;\n\npromotion in the production sector of eco-efficiency and international cooperation.",
+    "policy_type": "sub",
+    "parent_policy_name": "Agreement Protocol (Turin, 5 June 2001) by the Conference of Presidents of Regional Governments and Autonomous Provinces coordinates policies aimed at reducing greenhouse gas emissions, including preparing an Environmental Energy Plan by end-2002.",
+    "section_header": "AGREEMENT PROTOCOL OF THE CONFERENCE OF THE PRESIDENTS OF REGIONAL GOVERNMENTS AND OF AUTONOMOUS PROVINCES FOR THE COORDINATION OF POLICIES AIMED AT REDUCING EMISSIONS OF GREENHOUSE GASES INTO THE ATMOSPHERE",
+    "sector": "Economy-wide",
+    "extraction_rationale": "List of specified plan priorities and instruments (innovation support, fiscal tools, eco-efficiency, international cooperation)."
+  },
+  {
+    "policy_statement": "ENEL signed a voluntary agreement (20 July 2000) with relevant ministries committing to reduce its CO2 emissions by 20% by 2006.",
+    "verbatim_text": "The most important step has been the signing of a voluntary agreement on 20 July 2000 by the Ministry of the Environment, the Ministry of Production Activities and ENEL, with the latter, Italy's leading producer of electricity, voluntarily  committing  itself  to  reduce  its  emissions  of CO2 (by  -20%  within  2006).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.5.4.5 Indicators for the generation of electricity",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit quantified emissions reduction commitment with deadline under a voluntary agreement."
+  },
+  {
+    "policy_statement": "Legislative Decree No. 79 of 16 March 1999 requires that starting in 2002 producers and importers supply at least 2% of prior-year thermoelectricity as electricity from new renewable plants, with compliance possible via purchasing GRTN-issued green certificates.",
+    "verbatim_text": "Article 11 of Legislative Decree no. 79 of 16 March 1999 on the liberalisation  of  the  electricity  industry  stipulates that,  starting  in  2002,  producers  and  importers  are required  to  supply  to  the  national  electricity  system quantities of energy produced by new plants operated with renewable sources and equal to at least 2% of the thermoelectricity produced or imported in the course of the previous year. This requirement... can  also  be  met  by  purchasing from  other  operators  the  'green  certificates' issued by the Manager of the National Transmission  Network  (GRTN)  to  certify  production from renewable sources.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.5.4.5 Indicators for the generation of electricity",
+    "sector": "Energy",
+    "extraction_rationale": "Binding renewable portfolio requirement with start date and compliance mechanism (green certificates)."
+  },
+  {
+    "policy_statement": "Law No. 120 of 1 June 2002 requires the Ministry for the Environment and Territory to submit, by 30 September 2002, a national action plan to reduce greenhouse gas emissions and increase removals to the Interministerial Committee for Economic Planning (CIPE).",
+    "verbatim_text": "Law no. 120 of 1 June 2002, passed in ratification of the Kyoto Protocol... establishes that the Ministry for the Environment and Territory shall present within 30 September 2002 to the Interministerial Committee for Economic Planning, a national action plan for the reduction of greenhouse gas emission levels and increase of their removals.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.1 Summary of planned aimed measures almed at  of  achieving  the  objectives  of  the  Kyoto Protocol",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Binding legal requirement with a deadline and defined deliverable (national action plan)."
+  },
+  {
+    "policy_statement": "Guidelines identified by Law No. 120/2002 include: increasing national energy efficiency and renewable energy use; increasing CO2 removals from LULUCF under Kyoto Protocol Article 3.3 and 3.4; fully implementing JI/CDM; and promoting R&D and deployment of hydrogen, biomass CHP, solar thermal, wind, photovoltaic, waste and biogas power plants.",
+    "verbatim_text": "Law no. 120 of 1 June 2002... identifies the following guidelines on policies and measures:\n- increase the energy efficiency of the national economic system and foster the use of renewable sources of energy;\n- increase carbon dioxide removals deriving from land use, changes of land-use and forestry, as established under article 3 paragraphs 3 and 4 of the Kyoto Protocol;\n- full implementation of the JI and CD mechanisms established under the Kyoto Protocol;\n- promotion of research and development aiming at introducing hydrogen as a main fuel in energy systems and in the transport sector; promotion of biomass based combined heat and power plants and solar thermal power plants; promotion of wind and photovoltaic power plants and waste and biogas based power plants.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.1.1 General guidelines on policies and measures",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Officially identified policy guidelines tied to a law; specifies concrete intervention areas (renewables, JI/CDM, hydrogen, biomass CHP etc.)."
+  },
+  {
+    "policy_statement": "Enel voluntary agreement aims to reduce emissions by 22 MtCO2 by 2006 compared to 1990 through power plant efficiency/CC conversion, renewables obligation, distribution leak reductions, and DSM measures.",
+    "verbatim_text": "The voluntary agreement with Enel has the objective of reducing emissions of 22 MtCO2 by 2006, compared to the emissions of 1990, by:\n- increasing the efficiency of existing plants and converting 15.000 MW to combined-cycle plants...\n- increasing the use of renewable sources (2% obligation)...\n- reducing leaks from distribution networks...\n- DSM measures: (Demand Side Management)...",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.2.1 Measures implemented in the electric sector, including renewable sources",
+    "sector": "Energy",
+    "extraction_rationale": "Named agreement with quantified target and multiple explicit sub-actions listed."
+  },
+  {
+    "policy_statement": "Increase efficiency of existing plants and convert 15,000 MW to combined-cycle plants under the Enel voluntary agreement to cut CO2 emissions.",
+    "verbatim_text": "- increasing the efficiency of existing plants and converting 15.000 MW to combined-cycle plants; of the reduced 12 MtCO2, only 10 MtCO2 are to be attributed to the measures implemented after the Kyoto Protocol;",
+    "policy_type": "sub",
+    "parent_policy_name": "Enel voluntary agreement aims to reduce emissions by 22 MtCO2 by 2006 compared to 1990 through power plant efficiency/CC conversion, renewables obligation, distribution leak reductions, and DSM measures.",
+    "section_header": "4.2.1 Measures implemented in the electric sector, including renewable sources",
+    "sector": "Energy",
+    "extraction_rationale": "Specific intervention (15,000 MW conversion) explicitly listed as part of the agreement."
+  },
+  {
+    "policy_statement": "Increase the use of renewable sources via a 2% obligation under the Enel voluntary agreement to reduce emissions (stated as 2 MtCO2 in the agreement).",
+    "verbatim_text": "- increasing the use of renewable sources (2% obligation) capable of reducing emissions by 2 MtCO2 ;",
+    "policy_type": "sub",
+    "parent_policy_name": "Enel voluntary agreement aims to reduce emissions by 22 MtCO2 by 2006 compared to 1990 through power plant efficiency/CC conversion, renewables obligation, distribution leak reductions, and DSM measures.",
+    "section_header": "4.2.1 Measures implemented in the electric sector, including renewable sources",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified emissions impact tied to a specific mechanism (2% obligation) within the agreement."
+  },
+  {
+    "policy_statement": "Reduce leaks from electricity distribution networks by 0.1 MtCO2 under the Enel voluntary agreement.",
+    "verbatim_text": "- reducing leaks from distribution networks by 0.1 MtCO2;",
+    "policy_type": "sub",
+    "parent_policy_name": "Enel voluntary agreement aims to reduce emissions by 22 MtCO2 by 2006 compared to 1990 through power plant efficiency/CC conversion, renewables obligation, distribution leak reductions, and DSM measures.",
+    "section_header": "4.2.1 Measures implemented in the electric sector, including renewable sources",
+    "sector": "Energy",
+    "extraction_rationale": "Specific quantified measure (0.1 MtCO2) listed under the agreement."
+  },
+  {
+    "policy_statement": "Implement DSM measures to spread more efficient electric technologies with a net reduction effect of 0.4 MtCO2 (stated) under the Enel voluntary agreement.",
+    "verbatim_text": "- DSM measures: (Demand Side Management) by quantifying only the effects of the spread of most efficient electric technologies, it is possible to have a net reduction effect of 0.4 MtCO2...",
+    "policy_type": "sub",
+    "parent_policy_name": "Enel voluntary agreement aims to reduce emissions by 22 MtCO2 by 2006 compared to 1990 through power plant efficiency/CC conversion, renewables obligation, distribution leak reductions, and DSM measures.",
+    "section_header": "4.2.1 Measures implemented in the electric sector, including renewable sources",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete demand-side intervention with quantified CO2 impact under the agreement."
+  },
+  {
+    "policy_statement": "Italy will implement additional expansion of renewable sources requiring an increase of 0.3% each year of the mandatory 2% renewable electricity obligation from 2005 to 2012.",
+    "verbatim_text": "This additional expansion requires an increase of 0.3% each year of the mandatory 2% obligation, from 2005 to 2012..",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.3.3 Additional expansion of renewable sources",
+    "sector": "Energy",
+    "extraction_rationale": "Clear quantified policy change (annual percentage increase) with timeframe."
+  },
+  {
+    "policy_statement": "Italy will take steps to promote simplified authorization procedures for renewable energy plants with power capacity inferior to 10 MW (as an important measure for biomass/renewables objectives).",
+    "verbatim_text": "An important measure to aim to achieve such an objective is the promotion of simplified authorization procedures for plants with power capacity inferior to 10 MW, already proposed by some regional administrations.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.2.3.3 Additional expansion of renewable sources",
+    "sector": "Energy",
+    "extraction_rationale": "Specific regulatory/administrative intervention (simplified authorization) with a defined scope (<10 MW)."
+  },
+  {
+    "policy_statement": "To increase efficiency of electric motors, Italy plans: co-financing R&D and reconversion for last-generation high-efficiency (F1) engines; regulations requiring all electric engines introduced on the market be F1 type from 2007; incentives (tax credits) to replace existing engines with F1 engines through 2007; and an information campaign via a voluntary agreement with ANIE.",
+    "verbatim_text": "To the end of the application of this policy the following measures are necessary:\n- co-financing for research and re-conversation activities... (F1, high efficiency...);\n- regulations establishing that all electric engines introduced on the market are of the F1 (high efficiency) type as from 2007\n- decreasing incentive to the replacement of the existing engines with F1 engines (tax credit)... up to 2007, i.e. the last incentive year;\n- a parallel information campaign... through the application of the voluntary agreement with ANIE.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.3.3.1 Increase in the efficiency of electric motors",
+    "sector": "Industry",
+    "extraction_rationale": "Multi-part intervention with a binding regulatory start date (from 2007) plus financing/incentive components."
+  },
+  {
+    "policy_statement": "From 2008, Italy plans to ban the sale of transformers whose losses exceed the standard in CEI 14.13 to increase average efficiency of the transformer stock.",
+    "verbatim_text": "it is expected that, as from 2008, all transformers with leaks exceeding the standard indicated in the rules CEI 14.13. will not be allowed to be sold.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.3.3.2 Increase in the efficiency of the transformers stock",
+    "sector": "Industry",
+    "extraction_rationale": "Clear regulatory prohibition with an effective date and referenced technical standard."
+  },
+  {
+    "policy_statement": "Italy plans to raise the COS φ standard from 0.9 to 0.95 by adjusting tariff components linked to reactive power.",
+    "verbatim_text": "The raising of the COS standard is envisaged from 0.9 to 0.95... with an aggravation of the tariff component connection to the reactive power.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.3.3.3 Raising of the COS j standard",
+    "sector": "Industry",
+    "extraction_rationale": "Specific standard change with an implementation mechanism (tariff component)."
+  },
+  {
+    "policy_statement": "Italy plans to support cogeneration for industrial plants (capacity lower than 50 MW) via alternatives such as a dedicated tariff scheme, extending green certificates, and extending white-certificate/end-use efficiency regulations to industrial users.",
+    "verbatim_text": "Incentives to cogeneration shoud be actuated through the following alternative options:\n· the definition of a tariff scheme... for cogeneration plants with capacity lower than 50 MW...\n· extension to cogeneration plants with capacity lower than 50 MW of green certificates...\n· extension to the industrial users of regulations of Ministerial Decree... 24 April 2001 on end use of energy: white papers...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.3.3.4 Cogeneration in the industrial sector",
+    "sector": "Industry",
+    "extraction_rationale": "Explicit policy options to create incentives/market instruments for cogeneration below 50 MW."
+  },
+  {
+    "policy_statement": "Italy plans to establish adequate resolutions authorizing the use of wastes in cement works to overcome local-level difficulties, enabling substitution of conventional fuels without additional incentives.",
+    "verbatim_text": "In order to undertake the investments necessary to achieve this objective, a series of adequate resolutions, authorizing the employment of wastes in cement works, should be established to overcome the difficulties arising at local level. This measure does not require additional incentives.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.3.3.5 Production of energy from waste",
+    "sector": "Waste",
+    "extraction_rationale": "Concrete regulatory action (authorizing resolutions) enabling waste-to-energy use in cement sector."
+  },
+  {
+    "policy_statement": "By end of 2004, Italy plans to reformulate excise taxes on fuels to promote fuels with lower health/environment damage and lower CO2 emissions while keeping revenue constant.",
+    "verbatim_text": "By the end of 2004 the Ministry of Finance should reformulate the excise taxes on fuels in such a way that, with the revenue flow remaining equal, fuels that cause less damage to human health and to the environment, as well as lower emissions of CO2, are promoted.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.4.3.2 Systems aimed toward the optimisation of the private transport sector",
+    "sector": "Transport",
+    "extraction_rationale": "Time-bound fiscal policy commitment with clear intent and mechanism (excise tax reform)."
+  },
+  {
+    "policy_statement": "Italy plans annual vehicle inspections including checks of engine efficiency and exhaust reduction devices.",
+    "verbatim_text": "- -Annual frequency of vehicle inspections, including an inspection of the efficiency of the engine and the exhaust reduction devices.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.4.4 Additional initiatives planned for the transport sector",
+    "sector": "Transport",
+    "extraction_rationale": "Specific regulatory intervention described as a planned measure."
+  },
+  {
+    "policy_statement": "Italy plans improvements to fuel quality and standardisation beginning in 2004, including lowering maximum sulphur in gasoline and setting commercial standards for LPG and natural gas for motor propulsion.",
+    "verbatim_text": "- -Improvement of quality and standardisation of fuels beginning in 2004:\n- -Reduction of the maximum level of sulphur allowed in gasolines...\n- -Setting of Lpg commercial standards...\n- -Setting of commercial standards for natural gas...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.4.4 Additional initiatives planned for the transport sector",
+    "sector": "Transport",
+    "extraction_rationale": "Planned measures with a start date (beginning in 2004) and specific regulatory content."
+  },
+  {
+    "policy_statement": "Italy plans biodiesel blending in diesel up to 5%, with blending forecast to begin in 2006 at 1–1.5% and reach 4–5% by 2010, supported by a voluntary agreement and rules on diesel formulation (and possible tax reductions).",
+    "verbatim_text": "- -Bio-fuels. There are plans for the blending of diesel fuel used in engines with bio-diesel... up to a level of 5%...\n...it can be forecast that blending of the commercial product will begin in 2006 at levels of 1÷1.5%, reaching rates of 4÷5% in the year 2010.\nPlans call for a voluntary agreement... together with rules and regulations on the formulation of diesel oils sold to the public. There is the added possibility of a partial or total tax reduction for the bio-diesel fuel utilised.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.4.4 Additional initiatives planned for the transport sector",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified blending targets with timeline and stated implementation instruments."
+  },
+  {
+    "policy_statement": "Italy plans adjustment of excise taxes (or allocation of a portion of existing tax) to finance national sinks measures such as forestation/reforestation, estimated at 0.005 euro per unit of sale to the public.",
+    "verbatim_text": "- -adjustment of excise taxes on fuels and financing of national sinks... a reformulation of the increases in excise revenues resulting from the carbon tax could make possible the financing of internal measures of forestation/reforestation...\nThe increases in the excise tax (or the allocation of a portion of the existing tax) for the financing of these costs amounts to 0.005 euro/unit of sale to the public.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.4.4 Additional initiatives planned for the transport sector",
+    "sector": "Transport",
+    "extraction_rationale": "Specific fiscal measure with quantified levy earmarked for sinks financing."
+  },
+  {
+    "policy_statement": "Italy plans to extend the Ministerial Decrees of 24 April 2001 on final-use energy efficiency beyond 2006, maintaining the same annual increases as in 2002–2006.",
+    "verbatim_text": "There are plans for the ministerial decrees of April 2001 to remain in effect beyond 2006, with the same annual increases as those set for the period 2002-2006...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.5.4.1 Extension of effect of decrees on the effi- ciency of final uses",
+    "sector": "Buildings",
+    "extraction_rationale": "Explicit plan to extend an existing decree regime beyond a set end date (post-2006)."
+  },
+  {
+    "policy_statement": "Italy will implement a National Program for Introducing Solar Energy in Italian Penitentiaries, installing 3,000 m² of solar collectors within 5 years.",
+    "verbatim_text": "June 2001 Inter-Ministerial Agreement Ministries of the Environment and Justice\nNational Program for Introducing Solar Energy in Italian Penitentiaries: shall result in the installation of 3,000 m2 of collectors in 5 years.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.5.1 Measures implemented in the residential and tertiary sector",
+    "sector": "Buildings",
+    "extraction_rationale": "Concrete program with quantified deployment target and timeframe."
+  },
+  {
+    "policy_statement": "Italy plans additional measures for waste: (1) reduce biodegradable municipal waste to landfills by 50% by 2010 vs 1995 in line with Directive 99/31/EC deadlines; and (2) send 30% of municipal waste to energy-recovery treatments by 2010, increasing municipal waste electric capacity by 500 MWe vs 2000.",
+    "verbatim_text": "Two initiatives are proposed:\n- fulfilment of the deadlines set for the reduction of the biodegradable fraction of the municipal waste in landfills, as stipulated under Directive 99/31/EC, which calls for a reduction of 50% as early as 2010, compared to the 1995 level...\n- ...recovery of energy from waste: it is assumed that, by 2010, the portion of municipal waste sent to energy-recovery treatments shall be 30%... making for an additional increase of 500 MWe municipal electrical capacity from waste, compared to 2000...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.7.3 Waste: Stabilisation of the organic fraction and energy recovery",
+    "sector": "Waste",
+    "extraction_rationale": "Two explicit, quantified targets with deadlines and referenced EU directive / national decree alignment."
+  },
+  {
+    "policy_statement": "Italy plans to reduce N2O emissions from adipic acid production by adopting thermal or catalytic devices to treat effluent gases, via a voluntary agreement with the only enterprise involved.",
+    "verbatim_text": "In the case of adipic acid, the planned course of action calls for the adoption in Italy of the devices (thermal or catalytic) already used... The measure referred to consists of a voluntary agreement with the only enterprise involved.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.7.1 Industrial Processes",
+    "sector": "Industry",
+    "extraction_rationale": "Specific intervention and mechanism (abatement devices; voluntary agreement) explicitly stated."
+  },
+  {
+    "policy_statement": "Italy plans to reduce N2O emissions from nitric acid production by installing SCR systems for treatment of process gases, via a voluntary agreement with the relevant industrial sector.",
+    "verbatim_text": "As for nitric acid, the most advanced technology calls for installation of SCR (selective catalytic reduction) systems for the treatment of process gases... The proposed measure consists of a voluntary agreement with the respective industrial sector.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.7.1 Industrial Processes",
+    "sector": "Industry",
+    "extraction_rationale": "Clearly specified technology measure (SCR) with implementation instrument (voluntary agreement)."
+  },
+  {
+    "policy_statement": "Italy plans to reduce methane emissions from manure management by covering liquid manure holding tanks and conveying biogas to combustion or cogeneration plants; implementation depends on renewable electricity incentives and construction subsidies, and IPPC licensing requirements apply for large poultry/pig farms.",
+    "verbatim_text": "The proposed initiative involves covering the holding tanks used to store liquid animal waste and then conveying the resulting biogas to combustion or cogeneration plants.\n...The dimensions of the initiative would depend on:\n- the level of incentives available for the production of electricity from renewable sources, and\n- the availability of subsidies for the construction of the systems.\nAnother measure oriented towards this same objective is Directive 96/61/EC (Integrated Pollution Prevention and Control, or IPPC)...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.7.2 Agriculture",
+    "sector": "Agriculture",
+    "extraction_rationale": "Specific technical intervention to reduce CH4 with described enabling policy levers and related regulatory directive."
+  },
+  {
+    "policy_statement": "Italy plans measures to reduce fluorinated gas emissions including: growing aluminum recycling to about 80% of consumption by 2010 (to avoid PFCs), installing abatement devices and using lower-GWP fluids in semiconductor etching, and reducing mobile air-conditioner leak rates from 10% to 5%.",
+    "verbatim_text": "Four possible measures are currently being given consideration...\n- Aluminium... We have assumed that... recycled aluminium will grow... up to approximately 80% of the total consumption...\n- Production of semi-conductors... installation of abatement devices and the use... of fluids with a lower level of GWP...\n- Mobile air conditioners. Reduction of from 10% to 5% in the rate of leaks...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.7.4 Fluorinated gases",
+    "sector": "Industry",
+    "extraction_rationale": "Explicitly described measures with quantitative assumption (80% recycling) and clear interventions for F-gases."
+  },
+  {
+    "policy_statement": "Italy plans to reduce SF6 leakage from electrical equipment by 2010 through an agreement between manufacturers and the Ministry for the Environment (including users for disposal), under assumptions including reducing installed-equipment leakage rate to 0.5% and end-of-life leakage rate to 1% by 2010.",
+    "verbatim_text": "Electrical equipment... assumptions have been made: 1) stabilisation of manifacturing emissions at 2000 levels; 2) reduction of the leakage rate from installed equipment up to 0,5% by 2010; 3) reduction of the leakage rate from end-of-life equiment up to 1% by 2010. This will require the negotiation of an agreement between manifacturers and the Ministry for the Environment (also users shall be included as concerns the disposal of the systems).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.8 Forestry sector",
+    "sector": "Industry",
+    "extraction_rationale": "Concrete target rates and deadline; specifies governance mechanism (negotiated agreement)."
+  },
+  {
+    "policy_statement": "Italy will create a National Forestry Inventory of Carbon (INFOCARB) by 2005 and update it every 5 years to support correction of Italy’s forest management cap under Kyoto Protocol accounting.",
+    "verbatim_text": "From a technical perspective, the National Forestry Inventory of Carbon (INFOCARB) should be created by 2005. This inventory must then be updated every 5 years...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.8.1 Forest Management (art. 3.4)",
+    "sector": "Forestry",
+    "extraction_rationale": "Clear institutional deliverable with deadline and recurring update cycle."
+  },
+  {
+    "policy_statement": "Italy will establish and manage a National Register of Agro-Forestry Carbon Storage Pools to certify carbon removals and monitor annual changes for activities under Kyoto Protocol Articles 3.3 and 3.4.",
+    "verbatim_text": "The National Register of Agro-Forestry Carbon Storage Pools is the tool for certifying the quantities of carbon removed by Italian agricultural and forestry system.\n...The Register must analyse variations in the flows of greenhouse gases for the activities referred to under articles 3.3 and 3.4.\n...The Register shall ensure the necessary annual monitoring of the agro-forestry storage sites...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.8.4 National Register of Agro-Forestry Carbon Storage Pools",
+    "sector": "Forestry",
+    "extraction_rationale": "Named institutional mechanism with a defined function (certification, monitoring) relevant to carbon accounting."
+  },
+  {
+    "policy_statement": "Italy plans new afforestation/reforestation plantings during 2003–2008 totaling 40,000 hectares, with average removal estimated at 1 Mt CO2 during 2008–2012.",
+    "verbatim_text": "the new plantings to be made during the period 2003-2008, forecast at 40,000 hectares, for an average removal of 1 Mt CO2 during the period 2008-2012...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.8.2 Afforestation and Reforestation activities (art. 3.3)",
+    "sector": "Forestry",
+    "extraction_rationale": "Quantified area target with timeframe and quantified expected removals."
+  },
+  {
+    "policy_statement": "Italy plans reforestation in hydrogeologically unstable areas under Law No. 183/1989 at about 6,000 hectares per year for 2003–2012 (total 60,000 hectares).",
+    "verbatim_text": "The operating capacity of the Basin Authorities is approximately 6,000 hectares of reforestation per year for the period of 2003-2012, making for a total of 60,000 hectares.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.8.2 Afforestation and Reforestation activities (art. 3.3)",
+    "sector": "Forestry",
+    "extraction_rationale": "Concrete implementation rate and total area tied to a named legal framework (Law 183/89)."
+  },
+  {
+    "policy_statement": "Italy will implement programs to assist CDM and JI projects, potentially coordinated by a specific agency, to provide guidelines, consulting, information dissemination, and facilitate international implementation; a rapid preferential procedure for CDM/JI is proposed.",
+    "verbatim_text": "It is extremely important that the public sector adopt specific programs to assist the CDM and JI projects, eventually under the coordination of a specific agency. These programs (or the agency) can provide guidelines... facilitate their performance...\nAs part of such efforts, a rapid, preferential procedure could be established for the CDM and the JI...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4.9 Flexible Mechanisms",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Specific proposed government programmatic support with defined functions (guidelines, agency, preferential procedures)."
+  },
+  {
+    "policy_statement": "Implement the MOSE plan in Venice to limit maximum peak sea levels during high-water episodes as an adaptation measure to sea level rise.",
+    "verbatim_text": "The implementation of the Mose plan in Venice can be considered as one of the most representative efforts ever made to face the sea-rise issue. It should answer the purpose of 'keeping down' maximum peak levels during high water episodes.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "6.3.2 Sea level rise",
+    "sector": "Adaptation",
+    "extraction_rationale": "Named adaptation plan (MOSE) with a specific intended function (keeping down peak levels during high-water episodes)."
+  },
+  {
+    "policy_statement": "Adopt a set of measures to counter the negative effects of relative sea level rise in Italy, including (1) channelling and pumping works with draining pumps in reclaimed depressed areas, (2) dismantling wells for gas-hydrocarbons and water, (3) sand feeding, and (4) interventions related to the saline wedge (saltwater intrusion).",
+    "verbatim_text": "Among the others, the following measures should be adopted to thwart the negative effects of the relative sea level rise in Italy, such as:\n\n1.  Channelling  and  pumping  works  with  draining pumps  of  depressed  areas  following  reclamation works;\n\n2.  Dismantling  of  wells  for  gas-hydrocarbons  and water;\n\n3. Sand feeding;\n\n4. Saline wedge.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "6.3.2 Sea level rise",
+    "sector": "Adaptation",
+    "extraction_rationale": "The text introduces a discrete package of measures with an explicit 'should be adopted' commitment framing and then lists specific items; this supports extracting a parent policy plus sub-policies."
+  },
+  {
+    "policy_statement": "Carry out channelling and pumping works using draining pumps to remove water from reclaimed depressed coastal areas as a response to sea level rise.",
+    "verbatim_text": "1.  Channelling  and  pumping  works  with  draining pumps  of  depressed  areas  following  reclamation works;",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt a set of measures to counter the negative effects of relative sea level rise in Italy, including (1) channelling and pumping works with draining pumps in reclaimed depressed areas, (2) dismantling wells for gas-hydrocarbons and water, (3) sand feeding, and (4) interventions related to the saline wedge (saltwater intrusion).",
+    "section_header": "6.3.2 Sea level rise",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific measure listed under the sea-level-rise adaptation measures package."
+  },
+  {
+    "policy_statement": "Dismantle wells used for gas-hydrocarbons and water extraction to reduce subsidence impacts associated with relative sea level rise.",
+    "verbatim_text": "2.  Dismantling  of  wells  for  gas-hydrocarbons  and water;",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt a set of measures to counter the negative effects of relative sea level rise in Italy, including (1) channelling and pumping works with draining pumps in reclaimed depressed areas, (2) dismantling wells for gas-hydrocarbons and water, (3) sand feeding, and (4) interventions related to the saline wedge (saltwater intrusion).",
+    "section_header": "6.3.2 Sea level rise",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific measure listed under the sea-level-rise adaptation measures package."
+  },
+  {
+    "policy_statement": "Undertake sand feeding to address coastal erosion in the context of relative sea level rise impacts.",
+    "verbatim_text": "3. Sand feeding;",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt a set of measures to counter the negative effects of relative sea level rise in Italy, including (1) channelling and pumping works with draining pumps in reclaimed depressed areas, (2) dismantling wells for gas-hydrocarbons and water, (3) sand feeding, and (4) interventions related to the saline wedge (saltwater intrusion).",
+    "section_header": "6.3.2 Sea level rise",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific measure listed under the sea-level-rise adaptation measures package."
+  },
+  {
+    "policy_statement": "Implement measures to manage or reduce saline wedge (saltwater intrusion) impacts in coastal areas as part of adapting to relative sea level rise.",
+    "verbatim_text": "4. Saline wedge.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt a set of measures to counter the negative effects of relative sea level rise in Italy, including (1) channelling and pumping works with draining pumps in reclaimed depressed areas, (2) dismantling wells for gas-hydrocarbons and water, (3) sand feeding, and (4) interventions related to the saline wedge (saltwater intrusion).",
+    "section_header": "6.3.2 Sea level rise",
+    "sector": "Adaptation",
+    "extraction_rationale": "Specific measure listed under the sea-level-rise adaptation measures package (saline wedge/saltwater intrusion)."
+  },
+  {
+    "policy_statement": "Arrange a National Action Plan to Combat Desertification (approved 21 December 1999) that sets an information and awareness pathway for Regions and Basin Authorities to identify vulnerable areas and define prevention, mitigation, and adaptation strategies.",
+    "verbatim_text": "After having acknowledged the significance of the desertification issue, and having adhered to the UN Convention  to  Combat  Desertification,  the  Italian Government  has  arranged  a  National  Action  Plan (MATT, 1999). The Plan, approved upon deliberation of the Interministerial Committee for Economic Planning of 21.12.1999, outlines  an  information and awareness path  addressed to the Regions and the  Basin  Authorities  to  spot  the  most  vulnerable areas and define prevention, mitigation and adaptation  strategies.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "6.3.3 Desertification",
+    "sector": "Adaptation",
+    "extraction_rationale": "Named plan with approval date and explicit purpose/actions directed to specific authorities (Regions and Basin Authorities) to identify vulnerable areas and define strategies."
+  },
+  {
+    "policy_statement": "Implement the desertification National Action Plan through identified interventions including studies and research, infrastructures, and training/information activities across sectors such as land protection, sustainable water management, reducing production impacts, and restoring territorial balance, while using structural funds and sectoral policies rather than allocating dedicated new funds.",
+    "verbatim_text": "The intervention plan  includes  the  realisation  of  studies  and  researches,  infrastructures  and  training  and  information activities on several sectors, such as land protection, sustainable management of water resources, reduction of  the production activities impacts, and restoration of the territorial balance. The plan implementation  does  not  include    the  allocation  of  financial resources specifically committed to combat desertification; nevertheless, it provides for the adoption  of principles and priorities regulating the territorial protection through sectoral policies having an impact on desertification, promoting the use of structural funds and provisional plans to be included in the regulatory  framework,  such  as  Law  no  183/89  on  Land Protection.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "6.3.3 Desertification",
+    "sector": "Adaptation",
+    "extraction_rationale": "Describes concrete intervention types and an explicit financing/implementation approach (no dedicated funds; use of principles/priorities and structural funds) tied to the Plan."
+  },
+  {
+    "policy_statement": "Law 183/1989 establishes basin authorities and requires them to draw up basin plans to preserve, protect, and upgrade land and ensure proper use of water resources.",
+    "verbatim_text": "Framework measure on the subject of land protection, the management water resources and the protection environmental. ... basin authorities are established. ... basin authorities must draw up the plan, an informative, regulatory technical tool used to plan and program initiative and norms of use to preserve, protect and upgrade he land as well the proper use of water, based on physical and environmental characteris - tics of the territory.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (1989-05-18 Law 183)",
+    "sector": "Water Resources",
+    "extraction_rationale": "Establishes new institutions (basin authorities) and a binding planning instrument (basin plan) with defined purposes for land and water protection."
+  },
+  {
+    "policy_statement": "Law 36/1994 governs water use to promote saving and renewing resources and devolves to regions the identification of Optimal Territorial Settings (ATO) for efficient management of water services.",
+    "verbatim_text": "Governs the utilisation of water stipulating that the use of water geared towards saving and renewing resources, in order to avoid jeopardising water stocks... Devolves to the regions identification the Optimal Territorial Settings (ATO) the management of water services accord - ing to criteria of operating and economic efficiency.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (1994-01-05 Law 36)",
+    "sector": "Water Resources",
+    "extraction_rationale": "Contains specific governance/management requirements for water resources, including regional designation of ATOs."
+  },
+  {
+    "policy_statement": "Presidential Decree 107/1998 implements EU rules requiring consumer information on the energy consumption of appliances to reduce energy consumption.",
+    "verbatim_text": "Regulations containing measures for the - mentation of Directive 92/75/EEC information on the energy consumption of appliances. ... Requires that consumers be informed the energy consumption of appliances, reduce energy consumption.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (1998-03-09 Presidential Decree 107)",
+    "sector": "Energy",
+    "extraction_rationale": "Imposes a concrete instrument (mandatory energy consumption information/labeling) aimed at reducing energy consumption."
+  },
+  {
+    "policy_statement": "Law 267/1998 authorizes urgent programs in vulnerable hydro-geological zones to prevent hydro-geological risk and address landslide disaster areas in Campania.",
+    "verbatim_text": "Conversion into law... containing urgent measures for the tion of hydro-geological risk... Programs are approved for urgent in the most vulnerable hydro-geological zones. These programs are determined the Government... based on the proposals drawn up by the Region and by the Authority",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (1998-08-03 Law 267)",
+    "sector": "Land and Subsoil",
+    "extraction_rationale": "Establishes government-approved urgent programs targeted at hydro-geological risk in vulnerable zones."
+  },
+  {
+    "policy_statement": "Resolution 137/98 contains national initiatives to reduce greenhouse gas emissions, including efficiency improvements in thermoelectric facilities, reduced energy use in transport and other sectors, increased renewable energy, forest CO2 absorption, and reductions in non-energy sectors.",
+    "verbatim_text": "Contains the six national initiatives - sions reduction: - increasing the efficiency of the pool - moelectric facilities - reducing energy consumption in the - portation sector - increasing energy production from -renew able sources - reducing energy consumption in the indus - trial, residential and service-sectors - absorption of CO2 emissions by forests - reduction of emissions in non-energy - tors",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (1998-11-19 Resolution 137/98)",
+    "sector": "Inter-sector",
+    "extraction_rationale": "Explicit package of national initiatives for GHG reduction with clearly enumerated intervention areas."
+  },
+  {
+    "policy_statement": "Law 448/1998 introduces a 'Carbon Tax' reformulating taxation of fossil-fuel energy consumption with compensatory measures to incentivize emissions reductions, energy efficiency, and renewable energy; and authorizes municipalities to experimentally adopt a solid urban waste tax.",
+    "verbatim_text": "Art. 8 ('Carbon Tax'): Reformulate the taxation of energy - sumption originating from fossil as to avoid increasing overall tax - sure through compensatory measures (involving sectors, such as incentives the reduction of polluting emissions, increasing energy efficiency and of renewable sources of energy) Art. 31: authorises the municipal - ities to adopt, on an experimental tax on solid urban waste",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (1998-12-23 Law 448 tied to the 1999 budget law)",
+    "sector": "Inter-sector",
+    "extraction_rationale": "Creates fiscal instruments (carbon tax reform, municipal waste tax authority) tied to emissions reduction and efficiency/renewables."
+  },
+  {
+    "policy_statement": "Ministerial Decree (19 April 1999) approves a Code of Proper Agricultural Practices complying with EEC Directive 676/91 to protect water from nitrate pollution from agricultural activities.",
+    "verbatim_text": "Approval of the Code of Proper Agricultural Practices. ... The Code complies with EEC Directive 676/91 on the protection of water nitrate pollution originating from activities.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (1999-04-19 Ministerial Decree)",
+    "sector": "Agriculture and Forests",
+    "extraction_rationale": "Adopts a specific code linked to an EU directive targeting nitrate pollution from agriculture (water protection)."
+  },
+  {
+    "policy_statement": "Ministerial Decree 163/1999 sets environmental and health-care criteria enabling mayors in large or highly polluted municipalities to adopt measures limiting urban traffic circulation.",
+    "verbatim_text": "The regulations indicate the environmental and health-care criteria on the of which mayors of municipalities with than 150,000 residents... adopt measures limiting circulation of traffic in urban areas.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (1999-04-21 Ministerial Decree 163)",
+    "sector": "Transportation",
+    "extraction_rationale": "Creates formal criteria and authority for local traffic-limitation measures based on environmental/health thresholds."
+  },
+  {
+    "policy_statement": "Legislative Decree 152/1999 assigns governments and basin authorities to identify and designate areas threatened by drought, deterioration, and desertification as 'vulnerable to desertification' and to adopt specific safeguards to protect them.",
+    "verbatim_text": "In articles 2 and 3 of art. 20 the governments and the basin authorities assigned the task of controlling... there exist areas subject to or threatened instances of drought, deterioration desertification, designating them as vulnerable to desertification' and specific safeguards to protect them.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (1999-05-15 Legislative Decree 152)",
+    "sector": "Water Resources",
+    "extraction_rationale": "Explicit mandate to designate vulnerable areas and adopt safeguards—clear adaptation/desertification management measure."
+  },
+  {
+    "policy_statement": "Legislative Decree 372/1999 (integrated pollution prevention and control) contains measures designed to prevent or reduce emissions to air, water, and soil, including wastes, for protection of the global environment.",
+    "verbatim_text": "Implementation of Directive 96/61/EC the integrated prevention and reduction pollution. ... Contains measures designed to or reduce emissions in the air, water soil, including wastes, for the protection of the global environment.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (1999-08-04 Legislative Decree 372)",
+    "sector": "Inter-sector",
+    "extraction_rationale": "Implements an integrated regulatory framework aimed at preventing/reducing pollution across media (air/water/soil/waste)."
+  },
+  {
+    "policy_statement": "Resolution 157/1999 finances ten European Commission–approved projects for the protection of forests from fires.",
+    "verbatim_text": "financing program of initiatives regarding the - tion of forests against fires for 1999... Financing of ten projects approved the European Commission for the protec - tion of forests from fires.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (1999-08-06 Resolution 157)",
+    "sector": "Agriculture and Forests",
+    "extraction_rationale": "Specific funding commitment to defined number of projects for forest fire protection."
+  },
+  {
+    "policy_statement": "Resolution 126/1999 approves the 'White Book on the energy optimisation renewable sources' which identifies specific objectives for each energy source and outlines strategies and approaches.",
+    "verbatim_text": "White Book on the energy optimisation renewable sources. ... Approves the White Book which identi - fies specific objectives to be reached each source and outlines appropriate strategies and approaches.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (1999-08-06 Resolution 126)",
+    "sector": "Energy",
+    "extraction_rationale": "Formal approval of an objectives-and-strategies document for renewable sources/energy optimisation."
+  },
+  {
+    "policy_statement": "Ministerial Decree 401/1999 sets rules and procedures to grant aid and take direct action to support biomass-for-energy and the spread and use of renewable energy sources in the agricultural and agro-industrial sectors.",
+    "verbatim_text": "Sets general rules and procedures... for the purpose granting aid and taking direct action... regarding the produc - tion and use of biomass for energy - poses and the spread and use of renew - able sources of energy in the agricultural and agro-industrial sectors.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (1999-09-11 Ministerial Decree 401)",
+    "sector": "Agriculture and Forests",
+    "extraction_rationale": "Defines an aid/grant mechanism and direct actions for renewables/biomass energy specifically in agriculture/agro-industry."
+  },
+  {
+    "policy_statement": "Ministerial Decree (25 January 2000) establishes 'Ecological Sundays' with co-financing for municipal projects to raise awareness of sustainable transport and reduce traffic impacts.",
+    "verbatim_text": "'Ecological Sundays' ... Co-financing of projects designed heighten public awareness of sustain - able transportation, plus initiatives designed to reduce the impact of traffic while promoting systems - tainable trans port.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2000-01-25 Ministerial Decree 'Ecological Sundays')",
+    "sector": "Transportation",
+    "extraction_rationale": "Commits public co-financing for defined types of actions (awareness, traffic-impact reduction) under a named initiative."
+  },
+  {
+    "policy_statement": "Resolution 27/2000 approves the PROBIO national 'bio-combustible fuel' program to run territorial demonstration activities motivating authorities and producers to develop biofuels.",
+    "verbatim_text": "Approval of PROBIO national 'bio-com - bustible fuel' program. ... The objective of the program is to demonstration activities on a territorial basis for the purpose of motivating authorities, agricultural enterprises producers to engage in the development bio-combustible fuels.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2000-02-15 Resolution 27)",
+    "sector": "Agriculture and Forests",
+    "extraction_rationale": "Named national program with a specific intervention type (territorial demonstration activities) to develop biofuels."
+  },
+  {
+    "policy_statement": "Ministerial Decree (17 February 2000) finances programs to create/complete low- or zero-emission integrated transport systems, regulate urban traffic via computerized systems and road pricing, and promote low-environmental-impact fuels.",
+    "verbatim_text": "Financing of programs designed to: - create or complete integrated transportation systems with low or emissions, including electric hybrid vehicles... - regulate and control downtown urban traffic through computerised systems charging roadway fees. - promoting the use of fuels with low - ronmental impact.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2000-02-17 Ministerial Decree Financing of the 'Ecological Sundays' initiative)",
+    "sector": "Transportation",
+    "extraction_rationale": "Direct financing for a defined set of measures including vehicle technologies, traffic management, and fuel switching."
+  },
+  {
+    "policy_statement": "Law 33/2000 authorizes spending to immediately use financial resources needed to implement the Kyoto Protocol and to achieve objectives referred to under Law 448/1998.",
+    "verbatim_text": "Conversion into law... containing urgent measures... as well immediate use of the financial resources needed to implement the Kyoto Protocol. ... Authorisation of spending of 300 Lire for the year 1999 in order to the objectives referred to under Law of 23 December 1998",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2000-02-25 Law 33)",
+    "sector": "Inter-sector",
+    "extraction_rationale": "Explicit spending authorization linked to Kyoto Protocol implementation (resource allocation)."
+  },
+  {
+    "policy_statement": "Legislative Decree 164/2000 requires gas distribution companies to pursue energy savings and the development of renewable sources, and assigns ranking of 'ideal customer' status to companies using cogeneration plants.",
+    "verbatim_text": "Contains a number of instruments can favour initiatives to reduce - house gases, such as: - art. 16, paragraph 4: distribution - panies must pursue energy savings the development of renewable sources; - art. 22, paragraph 1: assignment ranking of 'ideal customer' to -compa nies that use cogeneration plants",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2000-05-23 Legislative Decree 164)",
+    "sector": "Energy",
+    "extraction_rationale": "Creates binding obligations and preferential treatment criteria to drive energy savings, renewables, and cogeneration."
+  },
+  {
+    "policy_statement": "Agreement Protocol between the Environment Ministry and the Ministry of Cultural Affairs promotes widespread use of renewable energy sources, including bio-climatic projects, to safeguard cultural heritage and the environment.",
+    "verbatim_text": "Agreement protocol between the for the Environment and Territory and the Ministry of Cultural Affairs. ... The ministries undertake to promote widespread use of renewable sources, including bio-climatic projects, purpose of safeguarding historic, architectural and archaeological resources",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2000-06-07 Agreement Protocol)",
+    "sector": "Energy",
+    "extraction_rationale": "Inter-ministerial commitment to promote renewables with a defined application (bio-climatic projects for heritage protection)."
+  },
+  {
+    "policy_statement": "Ministerial Decree (16 June 2000) finances projects to improve local transport, achieve energy savings, reduce CO2 emissions, and reduce air and noise pollution.",
+    "verbatim_text": "Criteria for the presentation and projects... Financing of projects designed improve the local transportation achieve energy savings, reduce - sions of CO2 and reduce air and pollution.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2000-06-16 Ministerial Decree)",
+    "sector": "Transportation",
+    "extraction_rationale": "Explicit financing instrument tied to quantified/defined outcomes (CO2 reduction, air/noise pollution reduction)."
+  },
+  {
+    "policy_statement": "Ministerial Decree 337/2000 earmarks carbon tax revenues (240 billion Lire) to finance greenhouse gas reduction programs, including national and regional programs, co-financing investments in renewable energy, and tax credits for district-heating networks with biomass in climatic zones E and EF.",
+    "verbatim_text": "Stipulates that the resources generated the carbon tax, equal to 240 billion be devoted to finance activities - grams to reduce emissions of greenhouse gases... Specifically, a sum of - lion Lire is to be used to finance - grams of national importance, and of 155 billion Lire to finance the - grams of the regions... An amount of 50 billion is allocated for the co-financing... investments for environmental safeguards involving renewable energy sources, while the remaining 10 billion Lire... are - marked for the granting of a subsidy the form of a tax credit of 20 Lire each kilowatt hour ((kWh) of heat - plied... through the - tion of district-heating networks with biomass in municipalities located climatic zones E and EF.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2000-07-20 Ministerial Decree 337)",
+    "sector": "Inter-sector",
+    "extraction_rationale": "Clear resource allocation with amounts and specified uses, including a defined tax credit per kWh for biomass district heating."
+  },
+  {
+    "policy_statement": "Legislative Decree 220/2000 introduces more severe minimum sentences for those who cause forest fires, with the option to increase punishment based on actual damage caused.",
+    "verbatim_text": "Urgent measures to fight forest fires. ... Calls for more severe minimum - tences for those who cause forest with the option of increasing the - ishment on the basis of the actual - age caused.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2000-09-04 Legislative Decree 220)",
+    "sector": "Agriculture and Forests",
+    "extraction_rationale": "Establishes a stricter enforcement/penalty regime for forest fires (binding legal mechanism)."
+  },
+  {
+    "policy_statement": "Law 353/2000 provides a framework for forest fire management by identifying criteria for regional forecasting, prevention, and active fire-fighting activities.",
+    "verbatim_text": "Framework law on forest fires ... Identily criteria for regional activities involving the forecasting, - vention and active fighting of fires.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2000-11-21 Law 353)",
+    "sector": "Agriculture and Forests",
+    "extraction_rationale": "Defines regional-level criteria for prevention and response—an actionable governance framework."
+  },
+  {
+    "policy_statement": "Ministerial Decree (20 December 2000) provides incentives to municipalities for a national car-sharing program to reduce the environmental impact of urban traffic through sustainable mobility policies.",
+    "verbatim_text": "Incentives provided to municipalities national car-sharing program. ... Promotes the integration and completion of the project for the creation of - nated and integrated system of local sharing services designed to reduce environmental impact of urban traffic through the implementation of policies sustainable mobility.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2000-12-20 Ministerial Decree Incentives to municipalities national car-sharing program)",
+    "sector": "Transportation",
+    "extraction_rationale": "Provides incentives for a named program (car-sharing) with an explicit environmental objective."
+  },
+  {
+    "policy_statement": "Ministerial Decree (20 December 2000) finances municipal initiatives for sustainable mobility to achieve structural and lasting reductions in the environmental impact generated by traffic by managing mobility demand for people and goods.",
+    "verbatim_text": "Financing to municipalities for the - ment of sustainable mobility. ... Promotes the undertaking of initiatives the organisation and management of demand for mobility of both individuals and goods, with the objective of achieving structural and lasting reductions environmental impact generated by traffic",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2000-12-20 Ministerial Decree Financing to municipalities for sustainable mobility)",
+    "sector": "Transportation",
+    "extraction_rationale": "Explicit financing tied to a specific intervention approach (demand management) and intended outcomes (structural reductions)."
+  },
+  {
+    "policy_statement": "National Research Program 2001–2003 calls for enactment of the Program for Sustainable Development and Climate Change and for the creation of a Euro-Mediterranean Centre for Research on Climate Change to support the research network.",
+    "verbatim_text": "National Research Program 2001-2003 ... Calls for the enactment of the Program for Sustainable Development Climate Change... Calls for the - ation of a Euro-Mediterranean Centre Research on Climate Change to support the network of centres and research - ratories involved in the program.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2000-12-21 Resolution 150 National Research Program 2001-2003)",
+    "sector": "Inter-sector",
+    "extraction_rationale": "Establishes/mandates research programming and institutional creation for climate research support."
+  },
+  {
+    "policy_statement": "Decree (22 December 2000) finances municipalities to support the use of methane gas and LPG as fuels for motor vehicles.",
+    "verbatim_text": "Financing to municipalities for the methane gas and LPG to fuel motor vehicles. ... Favours the use of fuels offering - ronmental impact, in particular LPG methane.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2000-12-22 Decree Financing to municipalities for methane gas and LPG to fuel vehicles)",
+    "sector": "Transportation",
+    "extraction_rationale": "Direct financing measure to shift vehicle fuels toward lower environmental impact options (LPG/methane)."
+  },
+  {
+    "policy_statement": "Law 388/2000 (2001 Budget Law) introduces multiple sustainable development measures, including tax relief for SMEs’ environmental investments, excise tax exemptions/reductions for certain biofuels and environmentally defensive fuel products, tax credits for geothermal/biomass district heating connections, incentives for sustainable development measures, and establishment of a fund to reduce atmospheric emissions and promote energy efficiency and renewables.",
+    "verbatim_text": "Law 388 ... Contains several measures and initiatives involving sustainable development. ... The - tion of the income of small and medium- size enterprises earmarked for environ - mental investments is not counted towards determining taxable income... Resources available 2001-2002: 307.7 billion Lire. art. 21 'Measures on exemptions from excise tax for bio-diesel fuel'... Art. 29 'Rules and regulations on geother - mal energy': users who connect a remote-heating network that operates geothermal energy or is fuelled by - masses receive a subsidy (tax credit) of 40,000 Lire for each kW of power used. ... Art. 110 Fund for the reduction of - sions in the atmosphere and for - motion of energy efficiency and - able sources of energy.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2000-12-23 Law 388)",
+    "sector": "Inter-sector",
+    "extraction_rationale": "Umbrella law explicitly listing several distinct measures across taxation, energy, and emissions reduction; appropriate to structure as a parent with article-level sub-policies."
+  },
+  {
+    "policy_statement": "Law 388/2000 excludes from taxable income the portion of SMEs’ income earmarked for environmental investments (with resources available in 2001–2002 stated as 307.7 billion Lire).",
+    "verbatim_text": "The - tion of the income of small and medium- size enterprises earmarked for environ - mental investments is not counted towards determining taxable income for the - poses of corporate taxation. Resources available 2001-2002: 307.7 billion Lire.",
+    "policy_type": "sub",
+    "parent_policy_name": "Law 388/2000 (2001 Budget Law) introduces multiple sustainable development measures, including tax relief for SMEs’ environmental investments, excise tax exemptions/reductions for certain biofuels and environmentally defensive fuel products, tax credits for geothermal/biomass district heating connections, incentives for sustainable development measures, and establishment of a fund to reduce atmospheric emissions and promote energy efficiency and renewables.",
+    "section_header": "Table of laws and measures (2000-12-23 Law 388)",
+    "sector": "Inter-sector",
+    "extraction_rationale": "Specific fiscal measure (tax base exclusion) with a stated resource envelope."
+  },
+  {
+    "policy_statement": "Law 388/2000 provides excise tax exemptions for biodiesel fuel and reduces excise taxes on specified biofuel-related products used as fuels (bio-ethanol and certain additives/alcohol for unleaded gasoline and diesel, excluding biodiesel).",
+    "verbatim_text": "art. 21 'Measures on exemptions from excise tax for bio-diesel fuel'. ... the excise is reduced on the following products used as fuels: bio-ethanol manufactured agricultural products, additives and - hol for unleaded gasoline and diesel with the exception of bio-diesel.",
+    "policy_type": "sub",
+    "parent_policy_name": "Law 388/2000 (2001 Budget Law) introduces multiple sustainable development measures, including tax relief for SMEs’ environmental investments, excise tax exemptions/reductions for certain biofuels and environmentally defensive fuel products, tax credits for geothermal/biomass district heating connections, incentives for sustainable development measures, and establishment of a fund to reduce atmospheric emissions and promote energy efficiency and renewables.",
+    "section_header": "Table of laws and measures (2000-12-23 Law 388)",
+    "sector": "Energy",
+    "extraction_rationale": "Clearly specified tax exemptions/reductions targeting biofuels."
+  },
+  {
+    "policy_statement": "Law 388/2000 provides a tax credit of 40,000 Lire per kW to users connecting to district-heating networks operating on geothermal energy or fuelled by biomass.",
+    "verbatim_text": "Art. 29 'Rules and regulations on geother - mal energy': users who connect a remote-heating network that operates geothermal energy or is fuelled by - masses receive a subsidy (tax credit) of 40,000 Lire for each kW of power used.",
+    "policy_type": "sub",
+    "parent_policy_name": "Law 388/2000 (2001 Budget Law) introduces multiple sustainable development measures, including tax relief for SMEs’ environmental investments, excise tax exemptions/reductions for certain biofuels and environmentally defensive fuel products, tax credits for geothermal/biomass district heating connections, incentives for sustainable development measures, and establishment of a fund to reduce atmospheric emissions and promote energy efficiency and renewables.",
+    "section_header": "Table of laws and measures (2000-12-23 Law 388)",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified incentive (tax credit per kW) linked to geothermal/biomass district heating."
+  },
+  {
+    "policy_statement": "Law 388/2000 establishes a fund for the reduction of atmospheric emissions and for promotion of energy efficiency and renewable energy sources, financing national and regional programs and including incentives such as 80% support for solar panels (as described).",
+    "verbatim_text": "Art. 110 Fund for the reduction of - sions in the atmosphere and for - motion of energy efficiency and - able sources of energy. Financing national and regional programs for reduction of atmospheric emissions, - motion of energy efficiency... Plan for the installation of - els... calling for: incentives of 80% panels.",
+    "policy_type": "sub",
+    "parent_policy_name": "Law 388/2000 (2001 Budget Law) introduces multiple sustainable development measures, including tax relief for SMEs’ environmental investments, excise tax exemptions/reductions for certain biofuels and environmentally defensive fuel products, tax credits for geothermal/biomass district heating connections, incentives for sustainable development measures, and establishment of a fund to reduce atmospheric emissions and promote energy efficiency and renewables.",
+    "section_header": "Table of laws and measures (2000-12-23 Law 388)",
+    "sector": "Inter-sector",
+    "extraction_rationale": "Creates a named fund with explicit purposes and financing scope; includes described incentive level for solar panels."
+  },
+  {
+    "policy_statement": "Ministerial Decree 106/SIAR/2001 starts the 'Ceiling Program' to construct photovoltaic plants (1–50 kWp) connected to the low-voltage distribution network during 2000–2002.",
+    "verbatim_text": "Formulation and start-up of the Ceiling Program. ... Aimed to the construction, in the 2000-2002, photovoltaic plants with power of from 1 to 50 kWp connected the low-voltage electric distribution - work",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2001-03-29 Ministerial Decree 106/SIAR/2001)",
+    "sector": "Energy",
+    "extraction_rationale": "Specific program with timeframe and quantitative system size range for PV installations."
+  },
+  {
+    "policy_statement": "Law 93/2001 requires that bilateral cooperation programs involving Italy include a preliminary evaluation of their effects on greenhouse gas emissions.",
+    "verbatim_text": "Art. 4 Emissions of greenhouse gases Programs of bilateral cooperation - ing Italy and the nations of Central-Eastern Europe, as well as developing countries, must include a preliminary evaluation their effect on of greenhouse gases - sions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2001-03-03 Law 93)",
+    "sector": "Inter-sector",
+    "extraction_rationale": "Binding procedural requirement (preliminary GHG evaluation) for cooperation programs."
+  },
+  {
+    "policy_statement": "A 2001 tender allocates 12 billion Lire for initiatives on minor islands, with 7 billion for renewable energy sources and energy savings and 5 billion for sustainable mobility.",
+    "verbatim_text": "Tender announcement issued by Ministry of the Environment... Funding of 12 billion Lire was allocated, with seven billion going to initiatives involving renewable energy sources energy savings, and five billion to on sustainable mobility.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2001-04-21 Tender announcement on Italy’s minor islands)",
+    "sector": "Inter-sector",
+    "extraction_rationale": "Explicit funding allocation with amounts and spending categories."
+  },
+  {
+    "policy_statement": "Ministerial Decree (24 April 2001) determines national quantitative objectives for energy savings and renewable energy development to be pursued by natural gas distribution companies, and sets principles and procedures for evaluating and controlling implementation.",
+    "verbatim_text": "Determines, in accordance with the - ments stipulated under the Kyoto Protocol, the national quantitative objectives - gy savings and the development of -renew able energy sources to be pursued by - panies that distribute natural gas; sets the principles for evaluating the obtained... formulates the procedures for the control the implementation",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2001-04-24 Ministerial Decree - quantitative objectives for increasing energy efficiency uses)",
+    "sector": "Energy",
+    "extraction_rationale": "Sets national quantitative objectives and implementation control procedures for distribution companies (clear policy mechanism)."
+  },
+  {
+    "policy_statement": "Ministerial Decree (25 July 2001) defines financing criteria for municipalities participating in 'Ecological Days 2001' for awareness campaigns, opinion polls, citizen knowledge initiatives on sustainable mobility, and more efficient organization of the days.",
+    "verbatim_text": "The 'Ecological Days 2001' campaign. ... Criteria for the financing to the - ities participating... - campaigns to increase awareness provide information to the general public; - opinion polls before, during and after... - initiatives directly designed to knowledge among citizens of the prob - lems of sustainable mobility; - initiatives directly geared to a more - cient organisation of the 'Ecological Days'.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2001-07-25 Ministerial Decree The 'Ecological Days 2001' campaign)",
+    "sector": "Transportation",
+    "extraction_rationale": "Specifies funded activity types and conditions for municipal participation in a named campaign."
+  },
+  {
+    "policy_statement": "Ministerial Decree (3 October 2001) generally prohibits the use of halons except for specifically indicated cases, in line with agreements to protect the ozone layer.",
+    "verbatim_text": "Recovery, recycling, regeneration and - tribution of halons. ... generically - hibits the use of halons, apart cases specifically indicated.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2001-10-03 Ministerial Decree Recovery, recycling, regeneration and distribution of halons)",
+    "sector": "Inter-sector",
+    "extraction_rationale": "Contains a clear prohibition (regulatory mechanism) with limited exceptions."
+  },
+  {
+    "policy_statement": "Law 82/2002 stipulates rules and regulations reducing polluting emissions from production plants that use petroleum coke in combustion plants.",
+    "verbatim_text": "Conversion into Law... containing urgent measures for the rules and regulations on the use of petroleum coke in combustion plants. Stipulates the rules and regulations reducing polluting emissions from produc - tion plants that utilise petroleum",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2002-05-06 Law 82)",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit regulatory rules aimed at reducing emissions from petroleum coke use."
+  },
+  {
+    "policy_statement": "Law 120/2002 (Kyoto Protocol ratification) binds the Environment Ministry, in agreement with the Finance Ministry and other ministries, to present by 30 September 2002 a national action plan to reduce greenhouse-gas emissions and increase absorption capacity, including a report on implementation and revisions to CIPE Resolution of 19 November 1998.",
+    "verbatim_text": "In addition to the ratification of Protocol, it also includes a series - tions aimed at achieving the objectives greenhouse-gas emission reduction. MATT, in agreement with MEF and other ministries involved, is bound to present the Interministerial Committee Economic Planning, within 30 September 2002, a national action plan aimed reducing greenhouse-gas emissions increasing their absorption capacity, report comprising the state of execution, the revision proposal to resolution 19 November 1998",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2002-06-01 Law 120)",
+    "sector": "Inter-sector",
+    "extraction_rationale": "Binding legal requirement with a deadline and specified content for a national action plan; although a related item exists in prior summary (I8), this text contains the same commitment—however it is central and explicitly stated here, so extracted as grounded in this chunk."
+  },
+  {
+    "policy_statement": "A national plan to reduce greenhouse-gas emissions targets a reduction of 93 million tonnes by 2008–2012 and identifies interventions across energy, agriculture/forestry sinks, transport, and cooperation, with financing via fuel excise tax re-modulation, use of an emissions-reduction/energy-efficiency fund, and revenues from energy-sector reform.",
+    "verbatim_text": "National plan to reduce greenhouse-gas emissions ... Reduction of 93 million tonnes of emissions by 2008-2012. Identifies modalities of intervention to comply the emission reduction objectives... The financing of the plan will focus on three main interventions: a)Internal re-modulation of excise taxes on fuels... b)Utilization of the 'Fund for reducing atmospheric emissions and promoting energy efficiency... c)Use of revenues generated by the appli - cation of art. 21 of the Reformation decree for the energy sector",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Table of laws and measures (2002-10-08 National plan to reduce greenhouse-gas emissions)",
+    "sector": "Inter-sector",
+    "extraction_rationale": "Contains a quantified target (93 Mt by 2008–2012) and describes financing instruments and intervention modalities."
+  }
+]

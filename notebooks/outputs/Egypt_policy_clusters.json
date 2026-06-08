@@ -1,0 +1,714 @@
+[
+  {
+    "cluster_id": 0,
+    "cluster_type": "parent_with_subs",
+    "section_header": "3.1 goal 1: achieving sustainable economic growth and low-emission development in various sectors",
+    "parent": {
+      "policy_statement": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix.",
+      "verbatim_text": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix\n\nThe Ministry of Electricity and Renewable Energy has taken several measures aimed at increasing the contribution of new and renewable energy, which is planned to reach 42% of the total electrical energy produced in 2035.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "3.1 Goal 1: Achieving Sustainable Economic Growth and Low-Emission Development in Various Sectors",
+      "sector": "Energy",
+      "extraction_rationale": "This objective sets a quantified target (42% renewables in electricity by 2035) and is followed by a list of implementation directions, making it an umbrella policy."
+    },
+    "subs": [
+      {
+        "policy_statement": "Deploy centralized renewable energy systems at large scale, including wind farms, concentrated solar power (CSP), solar PV plants, and bioenergy plants.",
+        "verbatim_text": "The following directions contribute to achieving this objective:\n\n-  Deployment of centralized systems of renewable energy on a large scale, such as wind farms, concentrated solar power (CSP), solar photovoltaic plants, as well as bioenergy plants",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix.",
+        "section_header": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix",
+        "sector": "Energy",
+        "extraction_rationale": "Concrete implementation direction listed under Objective (1.a)."
+      },
+      {
+        "policy_statement": "Promote small-scale decentralized renewable systems including waste-to-energy, bioenergy, rooftop PV, and solar water heaters.",
+        "verbatim_text": "-  Promoting small-scale decentralized systems including waste, bioenergy, rooftop photovoltaic solar cells and solar water heaters",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix.",
+        "section_header": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix",
+        "sector": "Energy",
+        "extraction_rationale": "Specific intervention to scale decentralized renewables."
+      },
+      {
+        "policy_statement": "Develop technologies to accommodate renewable energy use, such as intelligent control systems.",
+        "verbatim_text": "-  Developing  new  technologies  to  accommodate  the  use  of  renewable  energy sources,  such  as  intelligent  control  systems",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix.",
+        "section_header": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix",
+        "sector": "Energy",
+        "extraction_rationale": "Specific technology development direction under Objective (1.a)."
+      },
+      {
+        "policy_statement": "Optimize renewable energy use in off-grid applications.",
+        "verbatim_text": "- ‡ Optimizing the use of renewable energy in off-grid applications",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix.",
+        "section_header": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix",
+        "sector": "Energy",
+        "extraction_rationale": "Actionable direction supporting energy transition."
+      },
+      {
+        "policy_statement": "Use energy storage technologies such as batteries, molten salt, and pumped storage.",
+        "verbatim_text": "-  Take advantage of energy storage technologies, such as batteries, molten salt and pumped storage",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix.",
+        "section_header": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix",
+        "sector": "Energy",
+        "extraction_rationale": "Specific technology deployment direction."
+      },
+      {
+        "policy_statement": "Include alternative energy sources such as green hydrogen, blue hydrogen, and nuclear energy in the energy mix.",
+        "verbatim_text": "-  Inclusion of new alternative energy sources, such as green hydrogen, blue hydrogen and nuclear energy",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix.",
+        "section_header": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix",
+        "sector": "Energy",
+        "extraction_rationale": "Explicit intervention naming technologies to be included."
+      },
+      {
+        "policy_statement": "Increase renewable electricity generation within industrial facilities and use solar thermal energy in industrial processes.",
+        "verbatim_text": "-  Increasing  the  use  of  renewable  energy  to  generate  electricity  within  industrial facilities  and  the  applications  of  solar  thermal  energy  in  industrial  processes",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix.",
+        "section_header": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix",
+        "sector": "Energy",
+        "extraction_rationale": "Sector-specific deployment direction (industry)."
+      },
+      {
+        "policy_statement": "Phase out coal and switch to low-carbon fuels.",
+        "verbatim_text": "-  Phasing out coal and switching to low carbon fuels",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix.",
+        "section_header": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix",
+        "sector": "Energy",
+        "extraction_rationale": "Clear fuel-switching commitment."
+      },
+      {
+        "policy_statement": "Stimulate increased production and use of biofuels as an alternative to fossil fuels.",
+        "verbatim_text": "-  Stimulating the increased production and use of biofuels as an alternative to fossil fuels",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix.",
+        "section_header": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix",
+        "sector": "Energy",
+        "extraction_rationale": "Specific intervention to expand biofuels."
+      },
+      {
+        "policy_statement": "Pursue an equitable transition that accounts for the workforce in fossil fuel-based facilities.",
+        "verbatim_text": "-  Equitable transformation that takes into account the workforce in fossil fuel-based facilities",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix.",
+        "section_header": "Objective (1.a): Energy transition by increasing the share of all renewable and alternative energy sources in the energy mix",
+        "sector": "Just transition",
+        "extraction_rationale": "Explicit equity/just-transition direction linked to energy transition."
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "cluster_type": "parent_with_subs",
+    "section_header": "3.1 goal 1: achieving sustainable economic growth and low-emission development in various sectors",
+    "parent": {
+      "policy_statement": "Objective (1.b): Reducing emissions associated with the use of fossil fuels.",
+      "verbatim_text": "Objective (1.b): Reducing emissions associated with the use of fossil fuels\n\nThe following directions contribute to achieving this objective:",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "3.1 Goal 1: Achieving Sustainable Economic Growth and Low-Emission Development in Various Sectors",
+      "sector": "Energy",
+      "extraction_rationale": "Objective header followed by a list of actionable directions (transport, fuels, CCUS, subsidy reform), making it a parent policy."
+    },
+    "subs": [
+      {
+        "policy_statement": "Convert cars to run on compressed natural gas (CNG) instead of gasoline.",
+        "verbatim_text": "-  Converting cars to run on compressed natural gas instead of gasoline",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.b): Reducing emissions associated with the use of fossil fuels.",
+        "section_header": "Objective (1.b): Reducing emissions associated with the use of fossil fuels",
+        "sector": "Transport",
+        "extraction_rationale": "Specific intervention for fuel switching in road transport."
+      },
+      {
+        "policy_statement": "Raise efficiency of road infrastructure to reduce traffic congestion periods.",
+        "verbatim_text": "-  Raising the efficiency of road infrastructure, which would reduce periods of traffic congestion",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.b): Reducing emissions associated with the use of fossil fuels.",
+        "section_header": "Objective (1.b): Reducing emissions associated with the use of fossil fuels",
+        "sector": "Transport",
+        "extraction_rationale": "Specific infrastructure efficiency measure to reduce emissions from congestion."
+      },
+      {
+        "policy_statement": "Expand electricity-based mass transit networks (metro, electric trains, buses).",
+        "verbatim_text": "-  Expansion of mass transit networks based on electricity, such as metro networks, electric trains and buses",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.b): Reducing emissions associated with the use of fossil fuels.",
+        "section_header": "Objective (1.b): Reducing emissions associated with the use of fossil fuels",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete transport system expansion direction."
+      },
+      {
+        "policy_statement": "Encourage conversion of ships to operate on natural gas and liquefied natural gas (LNG).",
+        "verbatim_text": "-  Encouraging the conversion of ships to operate on natural gas and liquefied natural gas",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.b): Reducing emissions associated with the use of fossil fuels.",
+        "section_header": "Objective (1.b): Reducing emissions associated with the use of fossil fuels",
+        "sector": "Transport",
+        "extraction_rationale": "Specific maritime fuel-switching intervention."
+      },
+      {
+        "policy_statement": "Explore carbon capture, utilization and storage (CCUS) technologies.",
+        "verbatim_text": "-  Explore the possibilities of using carbon capture, utilization and storage technologies",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.b): Reducing emissions associated with the use of fossil fuels.",
+        "section_header": "Objective (1.b): Reducing emissions associated with the use of fossil fuels",
+        "sector": "Industry",
+        "extraction_rationale": "Explicit technology exploration direction to reduce emissions."
+      },
+      {
+        "policy_statement": "Develop and expand freight train network capacity as an alternative to road transport vehicles.",
+        "verbatim_text": "-  Developing the freight train network and increasing its capacity to be an alternative to transportation vehicles",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.b): Reducing emissions associated with the use of fossil fuels.",
+        "section_header": "Objective (1.b): Reducing emissions associated with the use of fossil fuels",
+        "sector": "Transport",
+        "extraction_rationale": "Modal shift intervention via rail freight capacity increases."
+      },
+      {
+        "policy_statement": "Promote consumer shift to non-motorized transportation (e.g., bicycles).",
+        "verbatim_text": "-  Promote consumer transformation to non-motorized transportation (e.g., bicycles)",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.b): Reducing emissions associated with the use of fossil fuels.",
+        "section_header": "Objective (1.b): Reducing emissions associated with the use of fossil fuels",
+        "sector": "Transport",
+        "extraction_rationale": "Behavioral/transport mode shift measure."
+      },
+      {
+        "policy_statement": "Implement/advance the Petroleum Energy Subsidy Reform Program.",
+        "verbatim_text": "-  Petroleum Energy Subsidy Reform Program",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.b): Reducing emissions associated with the use of fossil fuels.",
+        "section_header": "Objective (1.b): Reducing emissions associated with the use of fossil fuels",
+        "sector": "Energy",
+        "extraction_rationale": "Named reform program listed as a direction; qualifies as a policy instrument."
+      },
+      {
+        "policy_statement": "Deliver natural gas to homes as an alternative to using butane.",
+        "verbatim_text": "-  Delivering natural gas to homes as an alternative to using butane",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.b): Reducing emissions associated with the use of fossil fuels.",
+        "section_header": "Objective (1.b): Reducing emissions associated with the use of fossil fuels",
+        "sector": "Energy",
+        "extraction_rationale": "Specific fuel switching intervention in residential energy."
+      },
+      {
+        "policy_statement": "Recover associated petroleum gases and methane.",
+        "verbatim_text": "-  Recovery of associated petroleum gases and methane",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.b): Reducing emissions associated with the use of fossil fuels.",
+        "section_header": "Objective (1.b): Reducing emissions associated with the use of fossil fuels",
+        "sector": "Energy",
+        "extraction_rationale": "Specific action to reduce methane/flaring-related emissions."
+      },
+      {
+        "policy_statement": "Encourage transition activities to a green economy.",
+        "verbatim_text": "-  Encouraging transition activities to a green economy",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.b): Reducing emissions associated with the use of fossil fuels.",
+        "section_header": "Objective (1.b): Reducing emissions associated with the use of fossil fuels",
+        "sector": "Economy-wide",
+        "extraction_rationale": "Directional commitment under emissions-reduction objective; somewhat broad but explicitly an intervention direction."
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "cluster_type": "parent_with_subs",
+    "section_header": "3.1 goal 1: achieving sustainable economic growth and low-emission development in various sectors",
+    "parent": {
+      "policy_statement": "Objective (1.c): Maximizing energy efficiency.",
+      "verbatim_text": "Objective (1.c): Maximizing energy efficiency\n\nThe following directions contribute to achieving this objective:",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "3.1 Goal 1: Achieving Sustainable Economic Growth and Low-Emission Development in Various Sectors",
+      "sector": "Energy",
+      "extraction_rationale": "Objective with multiple specific implementation directions (power plants, buildings code, appliances, transport, industry)."
+    },
+    "subs": [
+      {
+        "policy_statement": "Improve efficiency of thermal power plants and electricity transmission and distribution networks.",
+        "verbatim_text": "-  Improving  the  efficiency  of  thermal  power  plants,  transmission  and  distribution networks",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.c): Maximizing energy efficiency.",
+        "section_header": "Objective (1.c): Maximizing energy efficiency",
+        "sector": "Energy",
+        "extraction_rationale": "Concrete grid and generation efficiency intervention."
+      },
+      {
+        "policy_statement": "Implement energy efficiency projects and measures in oil and gas sector companies.",
+        "verbatim_text": "-  Implementing  energy  efficiency  projects  and  measures  in  oil  and  gas  sector\n\ncompanies",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.c): Maximizing energy efficiency.",
+        "section_header": "Objective (1.c): Maximizing energy efficiency",
+        "sector": "Energy",
+        "extraction_rationale": "Sector-specific efficiency actions in oil and gas."
+      },
+      {
+        "policy_statement": "Improve energy efficiency of electrical appliances and equipment.",
+        "verbatim_text": "-  Improving the energy efficiency of electrical appliances and equipment",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.c): Maximizing energy efficiency.",
+        "section_header": "Objective (1.c): Maximizing energy efficiency",
+        "sector": "Energy",
+        "extraction_rationale": "Demand-side efficiency measure."
+      },
+      {
+        "policy_statement": "Promote energy management systems at all levels (systems and institutions).",
+        "verbatim_text": "-  Promoting energy management systems at all levels (systems and institutions)",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.c): Maximizing energy efficiency.",
+        "section_header": "Objective (1.c): Maximizing energy efficiency",
+        "sector": "Energy",
+        "extraction_rationale": "Institutional/systemic efficiency intervention."
+      },
+      {
+        "policy_statement": "Improve energy efficiency across different modes of transportation.",
+        "verbatim_text": "-  Improving the energy efficiency of different modes of transportation",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.c): Maximizing energy efficiency.",
+        "section_header": "Objective (1.c): Maximizing energy efficiency",
+        "sector": "Transport",
+        "extraction_rationale": "Explicit transport efficiency direction."
+      },
+      {
+        "policy_statement": "Improve energy efficiency in buildings and adopt and implement the National Green Building Code for new and existing buildings and communities.",
+        "verbatim_text": "-  Improving  energy  efficiency  in  buildings,  and  adopting  and  implementing  the National  Green  Building  Code  for  new  and  existing  buildings  and  communities",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.c): Maximizing energy efficiency.",
+        "section_header": "Objective (1.c): Maximizing energy efficiency",
+        "sector": "Buildings",
+        "extraction_rationale": "Names a specific code and commits to adoption/implementation."
+      },
+      {
+        "policy_statement": "Enhance energy efficiency of industrial processes in all industries.",
+        "verbatim_text": "-  Enhancing the energy efficiency of industrial processes in all industries",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.c): Maximizing energy efficiency.",
+        "section_header": "Objective (1.c): Maximizing energy efficiency",
+        "sector": "Industry",
+        "extraction_rationale": "Explicit industrial efficiency intervention."
+      },
+      {
+        "policy_statement": "Promote shifting facilities (tourist, commercial, industrial, residential) toward higher energy efficiency.",
+        "verbatim_text": "-  Promoting the shift towards increasing energy efficiency in tourist, commercial, industrial  and  residential  facilities",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.c): Maximizing energy efficiency.",
+        "section_header": "Objective (1.c): Maximizing energy efficiency",
+        "sector": "Energy",
+        "extraction_rationale": "Cross-sector demand-side efficiency measure."
+      },
+      {
+        "policy_statement": "Encourage establishment of smart cities and digital transformation to reduce energy consumption and provide a sustainable environment.",
+        "verbatim_text": "-  Encouraging the trend towards establishing smart cities and digital transformation that  contributes  to  reducing  energy  consumption  in  addition  to  providing  a sustainable environment",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.c): Maximizing energy efficiency.",
+        "section_header": "Objective (1.c): Maximizing energy efficiency",
+        "sector": "Buildings",
+        "extraction_rationale": "Specific urban development direction tied to reducing energy consumption."
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "cluster_type": "parent_with_subs",
+    "section_header": "3.1 goal 1: achieving sustainable economic growth and low-emission development in various sectors",
+    "parent": {
+      "policy_statement": "Objective (1.d): Adopt sustainable consumption and production trends to reduce greenhouse gas emissions from other non-energy activities.",
+      "verbatim_text": "Objective (1.d): Adopt sustainable consumption and production trends for reduction of greenhouse gas emissions from other non-energy activities\n\nThe following directions contribute to achieving this objective:",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "3.1 Goal 1: Achieving Sustainable Economic Growth and Low-Emission Development in Various Sectors",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Objective with a set of concrete measures across agriculture and waste; serves as umbrella."
+    },
+    "subs": [
+      {
+        "policy_statement": "Reduce GHG emissions from agricultural activities (e.g., animal production) using modern technologies, feeding systems, and crops with low water needs.",
+        "verbatim_text": "-  Reducing  greenhouse  gas  emissions  from  agricultural  activities,  such  as  animal production activities, through the use of modern technologies and various feeding systems and the use of crops with low water needs",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.d): Adopt sustainable consumption and production trends to reduce greenhouse gas emissions from other non-energy activities.",
+        "section_header": "Objective (1.d): Adopt sustainable consumption and production trends for reduction of greenhouse gas emissions from other non-energy activities",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific agricultural mitigation interventions."
+      },
+      {
+        "policy_statement": "Promote the 4Rs (reduce, reuse, recycle, recover) for municipal and agricultural waste.",
+        "verbatim_text": "-  Promote the concept of the ‹4Rs› which is to reduce, reuse, recycle and recover municipal  and  agricultural  waste",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.d): Adopt sustainable consumption and production trends to reduce greenhouse gas emissions from other non-energy activities.",
+        "section_header": "Objective (1.d): Adopt sustainable consumption and production trends for reduction of greenhouse gas emissions from other non-energy activities",
+        "sector": "Waste",
+        "extraction_rationale": "Clear waste management hierarchy measure."
+      },
+      {
+        "policy_statement": "Ensure safe disposal of solid waste in suitable landfills and collect gases from landfills.",
+        "verbatim_text": "-  Safe and proper disposal of solid waste in suitable landfills and collection of gases\n\nresulting from those landfills",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.d): Adopt sustainable consumption and production trends to reduce greenhouse gas emissions from other non-energy activities.",
+        "section_header": "Objective (1.d): Adopt sustainable consumption and production trends for reduction of greenhouse gas emissions from other non-energy activities",
+        "sector": "Waste",
+        "extraction_rationale": "Specific landfill management and gas capture action."
+      },
+      {
+        "policy_statement": "Encourage policies to reduce waste at the source, including limiting single-use plastic and using fewer or reusable packaging materials.",
+        "verbatim_text": "-  Encouraging supportive policies to reduce waste from the source, such as limiting the use of single-use plastic and using fewer or reusable packaging materials.",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (1.d): Adopt sustainable consumption and production trends to reduce greenhouse gas emissions from other non-energy activities.",
+        "section_header": "Objective (1.d): Adopt sustainable consumption and production trends for reduction of greenhouse gas emissions from other non-energy activities",
+        "sector": "Waste",
+        "extraction_rationale": "Explicit source-reduction policy examples."
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "cluster_type": "parent_with_subs",
+    "section_header": "3.1.2 enabling policies and tools",
+    "parent": {
+      "policy_statement": "Proposed enabling policies and tools for Goal 1 (mitigation in sustainable economic growth and low-emission development).",
+      "verbatim_text": "Examples of the proposed enabling policies and tools to serve the goal:",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "3.1.2 Enabling Policies and Tools",
+      "sector": "Cross-sector",
+      "extraction_rationale": "The document introduces a list of proposed enabling policies/tools; this functions as an umbrella for the listed items."
+    },
+    "subs": [
+      {
+        "policy_statement": "Develop additional incentives to expand electric car use and charging stations, and expand local production of EV batteries.",
+        "verbatim_text": "-  Developing  additional  incentive  policies  to  expand  the  use  of  electric  cars  and expanding the establishment of charging stations for electric car batteries, with the  expansion  of  the  production  of  such  batteries  locally",
+        "policy_type": "sub",
+        "parent_policy_name": "Proposed enabling policies and tools for Goal 1 (mitigation in sustainable economic growth and low-emission development).",
+        "section_header": "3.1.2 Enabling Policies and Tools",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete incentive and infrastructure policy direction for EVs."
+      },
+      {
+        "policy_statement": "Provide facilitation to the private sector to establish self-use power plants, conditional on high-efficiency co-generation or renewable energy plants.",
+        "verbatim_text": "-  Providing facilitations to the private sector in establishing a power plant for selfuse within the space, provided that they are high-efficiency co-generation plants or renewable energy plants",
+        "policy_type": "sub",
+        "parent_policy_name": "Proposed enabling policies and tools for Goal 1 (mitigation in sustainable economic growth and low-emission development).",
+        "section_header": "3.1.2 Enabling Policies and Tools",
+        "sector": "Energy",
+        "extraction_rationale": "Specific private-sector enabling measure with conditions."
+      },
+      {
+        "policy_statement": "Expand natural gas use in petrochemicals and facilitate use of solar thermal energy as an alternative in the industrial sector.",
+        "verbatim_text": "-  Expanding the use of natural gas in the petrochemical industry to maximize its value and to provide facilitations for the use of solar thermal energy as an alternative in the industrial sector.",
+        "policy_type": "sub",
+        "parent_policy_name": "Proposed enabling policies and tools for Goal 1 (mitigation in sustainable economic growth and low-emission development).",
+        "section_header": "3.1.2 Enabling Policies and Tools",
+        "sector": "Industry",
+        "extraction_rationale": "Concrete industrial fuel/heat switching facilitation."
+      },
+      {
+        "policy_statement": "Adopt and activate local and global green building codes.",
+        "verbatim_text": "-  Adopting and activating the local and global green building codes",
+        "policy_type": "sub",
+        "parent_policy_name": "Proposed enabling policies and tools for Goal 1 (mitigation in sustainable economic growth and low-emission development).",
+        "section_header": "3.1.2 Enabling Policies and Tools",
+        "sector": "Buildings",
+        "extraction_rationale": "Direct commitment to adopt/activate building codes."
+      },
+      {
+        "policy_statement": "Develop incentive policies to encourage use of biofuels in the transport sector.",
+        "verbatim_text": "-  Developing  incentive  policies  to  encourage  the  use  of  biofuels  in  the  transport sector",
+        "policy_type": "sub",
+        "parent_policy_name": "Proposed enabling policies and tools for Goal 1 (mitigation in sustainable economic growth and low-emission development).",
+        "section_header": "3.1.2 Enabling Policies and Tools",
+        "sector": "Transport",
+        "extraction_rationale": "Specific incentive policy direction."
+      },
+      {
+        "policy_statement": "Reassess studies/plans for industrial energy efficiency and operationalize those approved.",
+        "verbatim_text": "-  Reassessing all studies and plans for improving energy efficiency in the industrial sector and operationalizing what will be approved of them",
+        "policy_type": "sub",
+        "parent_policy_name": "Proposed enabling policies and tools for Goal 1 (mitigation in sustainable economic growth and low-emission development).",
+        "section_header": "3.1.2 Enabling Policies and Tools",
+        "sector": "Industry",
+        "extraction_rationale": "Action to convert existing plans into implemented measures."
+      },
+      {
+        "policy_statement": "NCCC to study ways to encourage local manufacture of renewable energy equipment (solar thermal and PV) across the value chain.",
+        "verbatim_text": "-  The National Council for Climate Change (NCCC) to study various ways to encourage the local manufacture of renewable energy equipment (focusing on solar thermal energy and photovoltaic cells) in all parts of the value chain.",
+        "policy_type": "sub",
+        "parent_policy_name": "Proposed enabling policies and tools for Goal 1 (mitigation in sustainable economic growth and low-emission development).",
+        "section_header": "3.1.2 Enabling Policies and Tools",
+        "sector": "Energy",
+        "extraction_rationale": "Specific institutional action assigned to NCCC."
+      },
+      {
+        "policy_statement": "Enable smart applications/systems by supporting, financing, and incubating startups to provide smart solutions that rationalize electricity use and increase efficiency/productivity.",
+        "verbatim_text": "-  Enabling  smart  applications  and  systems  in  various  sectors  such  as  the  energy sector  by  supporting,  financing  and  incubating  emerging  companies  to  provide smart  solutions  in  those  sectors  that  would  rationalize  the  use  of  electricity, increase  its  efficiency  and  increase  its  productivity.",
+        "policy_type": "sub",
+        "parent_policy_name": "Proposed enabling policies and tools for Goal 1 (mitigation in sustainable economic growth and low-emission development).",
+        "section_header": "3.1.2 Enabling Policies and Tools",
+        "sector": "Energy",
+        "extraction_rationale": "Explicit support/finance/incubation intervention."
+      },
+      {
+        "policy_statement": "Study the possibility of adopting green procurement standards.",
+        "verbatim_text": "-  Studying the possibility of adopting green procurement standards",
+        "policy_type": "sub",
+        "parent_policy_name": "Proposed enabling policies and tools for Goal 1 (mitigation in sustainable economic growth and low-emission development).",
+        "section_header": "3.1.2 Enabling Policies and Tools",
+        "sector": "Economy-wide",
+        "extraction_rationale": "A concrete policy development action (study/adoption) mentioned explicitly."
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "cluster_type": "parent_with_subs",
+    "section_header": "3.2 goal 2: enhancing adaptive capacity and resilience to climate change and alleviating the associated negative impacts",
+    "parent": {
+      "policy_statement": "Objective (2.e): Implementation of disaster risk reduction concepts.",
+      "verbatim_text": "Objective (2.e): Implementation of disaster risk reduction concepts\n\nThe following directions contribute to achieving this objective:",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "3.2 Goal 2: Enhancing Adaptive Capacity and Resilience to Climate Change and Alleviating the Associated Negative Impacts",
+      "sector": "Disaster risk reduction",
+      "extraction_rationale": "Objective includes a list of concrete DRR measures (early warning, monitoring, awareness, social protection)."
+    },
+    "subs": [
+      {
+        "policy_statement": "Establish early warning systems for all sectors by developing a unified database, activating climate change information centers in ministries, and issuing sector-specific recommendations (e.g., for farmers).",
+        "verbatim_text": "-  Establishing early warning systems for all sectors by developing a unified database. The database can be established by activating the role of climate change information centers  affiliated  with  various  ministries.  These  centers  have  information  and maps related to climate change and its impacts on the sector.",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (2.e): Implementation of disaster risk reduction concepts.",
+        "section_header": "Objective (2.e): Implementation of disaster risk reduction concepts",
+        "sector": "Disaster risk reduction",
+        "extraction_rationale": "Specific DRR system-building action with institutional mechanism described."
+      },
+      {
+        "policy_statement": "Activate and use interactive maps to study expected climate impacts on regions/projects and update interactive maps every five years as part of adaptation measures.",
+        "verbatim_text": "-  Activating the project of creating and using interactive maps to study the expected impacts of climate change on regions and new projects and hence various sectors and updating interactive maps every five years as part of climate change adaptation measures, according to new data and methodologies",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (2.e): Implementation of disaster risk reduction concepts.",
+        "section_header": "3.2.2 Enabling Policies and Tools",
+        "sector": "Adaptation",
+        "extraction_rationale": "Contains a clear action and update frequency (every five years)."
+      },
+      {
+        "policy_statement": "Ministry of Health and Population to study expected health impacts of climate change and develop and adopt a plan to address these impacts effectively.",
+        "verbatim_text": "-  The Ministry of Health and Population will study the expected health impacts as a result of climate change, and then develop and adopt a plan to address these impacts  effectively.",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (2.e): Implementation of disaster risk reduction concepts.",
+        "section_header": "3.2.2 Enabling Policies and Tools",
+        "sector": "Health",
+        "extraction_rationale": "Assigns responsibility to a ministry to produce and adopt a plan."
+      },
+      {
+        "policy_statement": "Use climate risk insurance as a financial mechanism to increase societies’ ability to overcome climate risks.",
+        "verbatim_text": "-  Using  the  climate  risk  insurance  tool  as  one  of  the  financial  mechanisms  that increase  the  ability  of  societies  to  overcome  the  risks  of  climate  change.",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (2.e): Implementation of disaster risk reduction concepts.",
+        "section_header": "3.2.2 Enabling Policies and Tools",
+        "sector": "Finance",
+        "extraction_rationale": "Specific financial instrument proposed for adaptation resilience."
+      },
+      {
+        "policy_statement": "Establish a coordination mechanism with civil society to implement pilot projects and coordinate among NGOs to disseminate applied models.",
+        "verbatim_text": "-  Establishing  a  mechanism  for  coordination  with  civil  society  to  implement  pilot projects, and coordination between NGOs to benefit from experiences and applied models for dissemination in society",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (2.e): Implementation of disaster risk reduction concepts.",
+        "section_header": "3.2.2 Enabling Policies and Tools",
+        "sector": "Governance",
+        "extraction_rationale": "Concrete governance mechanism proposal involving civil society."
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "cluster_type": "parent_with_subs",
+    "section_header": "3.3 goal 3: enhancing climate change action governance",
+    "parent": {
+      "policy_statement": "Objective (3.d): Enhancing institutional, procedural and legal arrangements such as the Monitoring, Reporting and Verification (MRV) system.",
+      "verbatim_text": "Objective  (3.d):  Enhancing  institutional,  procedural  and  legal  arrangements  such  as Monitoring,  Reporting  and  Verification  (MRV)  system\n\nThe following directions contribute to achieving this objective:",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "3.3 Goal 3: Enhancing Climate Change Action Governance",
+      "sector": "Governance/MRV",
+      "extraction_rationale": "Objective is explicitly about MRV and is followed by specific actions (operationalize MRV, update CAPMAS data, create institutions)."
+    },
+    "subs": [
+      {
+        "policy_statement": "Operationalize the climate change MRV system approved by the NCCC and included in Egypt’s 2018 updated biennial report.",
+        "verbatim_text": "-  Operationalizing the climate change MRV system, which was approved by the NCCC and included in the updated biennial report for Egypt (2018)",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (3.d): Enhancing institutional, procedural and legal arrangements such as the Monitoring, Reporting and Verification (MRV) system.",
+        "section_header": "Objective (3.d): Enhancing institutional, procedural and legal arrangements such as Monitoring, Reporting and Verification (MRV) system",
+        "sector": "Governance/MRV",
+        "extraction_rationale": "Clear action to operationalize an approved system."
+      },
+      {
+        "policy_statement": "Update statistical data collected by CAPMAS to include more climate change-related data.",
+        "verbatim_text": "-  Updating the statistical data collected by the Central Agency for Public Mobilization and Statistics (CAPMAS), to include more data related to climate change.",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (3.d): Enhancing institutional, procedural and legal arrangements such as the Monitoring, Reporting and Verification (MRV) system.",
+        "section_header": "Objective (3.d): Enhancing institutional, procedural and legal arrangements such as Monitoring, Reporting and Verification (MRV) system",
+        "sector": "Governance/MRV",
+        "extraction_rationale": "Specific data system enhancement action."
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "cluster_type": "parent_with_subs",
+    "section_header": "3.3.2 enabling policies and tools",
+    "parent": {
+      "policy_statement": "Proposed enabling policies and tools for Goal 3 (climate governance).",
+      "verbatim_text": "The proposed enabling policies and tools for this goal are:",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "3.3.2 Enabling Policies and Tools",
+      "sector": "Governance",
+      "extraction_rationale": "Introduces a list of proposed governance tools/policies; umbrella parent."
+    },
+    "subs": [
+      {
+        "policy_statement": "Issue a Prime-minister decision to form a committee within each ministry relevant to climate change to manage the file under NCCC guidelines.",
+        "verbatim_text": "-  Issuing  of  a  Prime-minister  decision  to  form  a  committee  within  each  of  the ministries relevant to climate change to be responsible for managing this file in light  of  the  guidelines  of  the  NCCC",
+        "policy_type": "sub",
+        "parent_policy_name": "Proposed enabling policies and tools for Goal 3 (climate governance).",
+        "section_header": "3.3.2 Enabling Policies and Tools",
+        "sector": "Governance",
+        "extraction_rationale": "Concrete institutional/legal step (PM decision) with defined purpose."
+      },
+      {
+        "policy_statement": "Enact laws and regulations to address climate change.",
+        "verbatim_text": "-  Enacting laws and regulations to address climate change",
+        "policy_type": "sub",
+        "parent_policy_name": "Proposed enabling policies and tools for Goal 3 (climate governance).",
+        "section_header": "3.3.2 Enabling Policies and Tools",
+        "sector": "Governance",
+        "extraction_rationale": "Explicit legal/regulatory commitment."
+      }
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "cluster_type": "parent_with_subs",
+    "section_header": "3.4 goal 4: enhancing climate financing infrastructure",
+    "parent": {
+      "policy_statement": "Objective (4.b): Promoting innovative financing mechanisms prioritizing adaptation actions, e.g., green bonds.",
+      "verbatim_text": "Objective  (4.b):  Promoting  innovative  financing  mechanisms  prioritizing  adaptation actions,  e.g.,  green  bonds\n\nThe following directions contribute to achieving this objective:",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "3.4 Goal 4: Enhancing Climate Financing Infrastructure",
+      "sector": "Finance",
+      "extraction_rationale": "Objective introduces green bonds/innovative finance and lists specific directions."
+    },
+    "subs": [
+      {
+        "policy_statement": "Encourage development of green bonds to cover sectors that have not yet been operated.",
+        "verbatim_text": "-  Encouraging the development of green bonds to cover sectors that have not yet been  operated",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (4.b): Promoting innovative financing mechanisms prioritizing adaptation actions, e.g., green bonds.",
+        "section_header": "Objective (4.b): Promoting innovative financing mechanisms prioritizing adaptation actions, e.g., green bonds",
+        "sector": "Finance",
+        "extraction_rationale": "Specific directive to expand green bond coverage."
+      }
+    ]
+  },
+  {
+    "cluster_id": 9,
+    "cluster_type": "parent_with_subs",
+    "section_header": "3.5 goal 5: enhancing scientific research, technology transfer, knowledge management and awareness to combat climate change",
+    "parent": {
+      "policy_statement": "Objective (5.c): Raising awareness on climate change among stakeholders (policy makers, citizens, students).",
+      "verbatim_text": "Objective  (5.c):  Raising  awareness  on  climate  change  among  different  stakeholders (high-level  policy/decision  makers,  citizens,  and  students)\n\nThe following directions contribute to achieving this objective:",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "3.5 Goal 5: Enhancing Scientific Research, Technology Transfer, Knowledge Management and Awareness to Combat Climate Change",
+      "sector": "Education/Awareness",
+      "extraction_rationale": "Objective with multiple concrete awareness and training directions."
+    },
+    "subs": [
+      {
+        "policy_statement": "Prepare specialized training programs for policy makers on climate change.",
+        "verbatim_text": "-  Preparing specialized training programs for policy makers on climate change",
+        "policy_type": "sub",
+        "parent_policy_name": "Objective (5.c): Raising awareness on climate change among stakeholders (policy makers, citizens, students).",
+        "section_header": "Objective (5.c): Raising awareness on climate change among stakeholders (high-level policy/decision makers, citizens, and students)",
+        "sector": "Education/Awareness",
+        "extraction_rationale": "Specific capacity-building intervention."
+      }
+    ]
+  },
+  {
+    "cluster_id": 10,
+    "cluster_type": "parent_with_subs",
+    "section_header": "3.5.2 enabling policies and tools",
+    "parent": {
+      "policy_statement": "Proposed enabling policies and tools for Goal 5 (research, education, awareness).",
+      "verbatim_text": "Examples of some of the proposed policies are:",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "3.5.2 Enabling Policies and Tools",
+      "sector": "Education/Research",
+      "extraction_rationale": "Introduces a list of proposed policies; umbrella parent."
+    },
+    "subs": [
+      {
+        "policy_statement": "Ministry of Education to make climate change issues and awareness of its effects an essential part of school education programs.",
+        "verbatim_text": "-  Ministry of Education to put climate change issues and raising awareness of its effects as an essential part of school education programs",
+        "policy_type": "sub",
+        "parent_policy_name": "Proposed enabling policies and tools for Goal 5 (research, education, awareness).",
+        "section_header": "3.5.2 Enabling Policies and Tools",
+        "sector": "Education/Awareness",
+        "extraction_rationale": "Clear institutional assignment to integrate climate change into curricula."
+      },
+      {
+        "policy_statement": "Ministry of Higher Education and Scientific Research to include climate change in university studies and postgraduate programs.",
+        "verbatim_text": "-  Ministry of Higher Education and Scientific Research to include the field of climate change in university studies and postgraduate programs",
+        "policy_type": "sub",
+        "parent_policy_name": "Proposed enabling policies and tools for Goal 5 (research, education, awareness).",
+        "section_header": "3.5.2 Enabling Policies and Tools",
+        "sector": "Education/Research",
+        "extraction_rationale": "Explicit policy direction for higher education program content."
+      }
+    ]
+  },
+  {
+    "cluster_id": 11,
+    "cluster_type": "individual",
+    "section_header": "7.2.1 annual m&e components",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Annual monitoring and evaluation (M&E) reporting for NCCS implementation by ministries and compilation by CCCD/NCCC.",
+      "verbatim_text": "-  It  is  proposed  that  each  ministry,  on  an  annual  basis,  will  prepare  an  overview report covering where the ministry stands against achieving the specified goals and objectives, what was helpful and what are the main challenges encountered.\n- ‡ It is proposed that the CCCD which acts as the technical secretariat of the NCCC will be responsible for collecting such annual reports from the ministries.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "7.2.1 Annual M&E Components",
+      "sector": "Governance/MRV",
+      "extraction_rationale": "Contains a concrete proposed recurring reporting requirement and assigned institutional responsibility (CCCD)."
+    }
+  },
+  {
+    "cluster_id": 12,
+    "cluster_type": "individual",
+    "section_header": "7.2.2 biennial m&e components",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Biennial M&E reporting by ministries on mitigation and adaptation actions, using standardized templates; CCCD collects and NCCC reviews every two years.",
+      "verbatim_text": "-  On a biennial basis, ministries will be responsible for reporting on the status of implementing the identified mitigation and adaptation actions and providing update for the new ones.\n-  As is the case in the annual M&E report, the CCCD will be responsible for collecting the biennial M&E reports from the ministries.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "7.2.2 Biennial M&E Components",
+      "sector": "Governance/MRV",
+      "extraction_rationale": "Sets a recurring biennial reporting obligation and defines process/roles."
+    }
+  }
+]

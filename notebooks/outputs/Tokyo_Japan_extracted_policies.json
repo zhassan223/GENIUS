@@ -1,0 +1,632 @@
+[
+  {
+    "policy_statement": "TMG will implement climate change adaptation into all relevant TMG initiatives across sectors.",
+    "verbatim_text": "## (1) Implement climate change adaptation into all of TMG's initiatives.\n\nThe effects of climate change adaptation are appearing in a broad range of fields, including natural disasters, human health, and agriculture, forestry, and fisheries. TMG will address climate change impacts at present and in the future by incorporating climate change adaptation into all relevant initiatives.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## 3. Basic Approaches to Adaptation",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Clear commitment ('will address... by incorporating... into all relevant initiatives') describing a cross-government policy approach."
+  },
+  {
+    "policy_statement": "TMG will promote adaptation measures based on the latest scientific knowledge and actively use the latest technologies related to adaptation.",
+    "verbatim_text": "## (2) Promote climate change adaptation based on scientific knowledge.\n\nTMG will promote adaptation measures based on the latest scientific knowledge. In addition, we will actively utilize the latest technologies related to climate change adaptation.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## 3. Basic Approaches to Adaptation",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Explicit commitment to base adaptation on updated science and technology use."
+  },
+  {
+    "policy_statement": "TMG will support municipalities' community-based adaptation efforts by actively providing information.",
+    "verbatim_text": "## (3) Support local efforts in cooperation with municipalities.\n\nTMG will support local efforts by actively providing information so that municipalities can develop their community-based initiatives.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## 3. Basic Approaches to Adaptation",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Defines a concrete support action (information provision) to enable municipal initiatives."
+  },
+  {
+    "policy_statement": "TMG will develop a system to collect and provide adaptation information and actively disseminate information (including risks) to raise awareness among Tokyo residents.",
+    "verbatim_text": "## (4) Promote dissemination of information, including risks, to facilitate understanding of Tokyo residents.\n\nTMG will develop a system to collect and provide information on climate change adaptation and actively disseminate the information.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## 3. Basic Approaches to Adaptation",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Commitment includes a specific intervention: developing an information collection/provision system."
+  },
+  {
+    "policy_statement": "TMG will accelerate intercity collaboration for climate adaptation by using C40 and other organizations to share knowledge.",
+    "verbatim_text": "## (5) Promote international cooperation in C40 and other organizations to accelerate intercity collaboration.\n\nTMG will accelerate intercity collaboration by utilizing organizations in which TMG has membership, such as C40 1 , in order to share knowledge.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## 3. Basic Approaches to Adaptation",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Explicit action to use specific international networks (C40) for collaboration/knowledge sharing."
+  },
+  {
+    "policy_statement": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "verbatim_text": "## Efforts for the Future\n\nIn response to natural threats, such as floods, inland floods, storm surges, and landslides due to intensified heavy rains and typhoons, TMG will promote the utilization of state-of-the-art technologies and the development of urban facilities in both structural and non-structural aspects.\n\nTo cope with increasingly larger typhoons and more frequent heavy rains in recent years, TMG will further improve our initiatives.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "## Natural Disasters — ## Efforts for the Future",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Introduces an umbrella set of measures with multiple structured subcomponents (structural and non-structural) detailed below."
+  },
+  {
+    "policy_statement": "TMG will develop regulating reservoirs (including extending the Wide-Area Regulating Reservoir under Loop Road No. 7 as an underground river), improve river discharge capacity in the Tama area, and implement preventive river maintenance using ICT/AI for inspections.",
+    "verbatim_text": "## Measures for rivers against heavy rains\n\n- ' Promote the development of regulating reservoirs under construction, such as the Wide-Area Regulating Reservoir under Loop Road No. 7, in parallel with that of river revetment.\n- ' Proceed with the study to operationalize new regulating reservoirs and extend the Wide-Area Regulating Reservoir under Loop Road No. 7 by making it an underground river.\n- ' In the Tama area damaged by Typhoon Hagibis in 2019, TMG will improve the discharge capacity of rivers through local improvements.\n\n## Promotion of strategic maintenance of rivers\n\n- ' Steadily implement maintenance based on a preventive maintenance plan...\n- ' Ensure more efficient and sophisticated inspections through the introduction of ICT/AI...",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## (1) Structural measures / ## i Development of rivers, sewerage systems, and coastal conservation facilities",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Specific infrastructure and maintenance actions for rivers with clear verbs ('promote,' 'proceed,' 'will improve,' 'introduce ICT/AI')."
+  },
+  {
+    "policy_statement": "TMG will develop sewerage trunk lines and storage to handle 75 mm/hour rainfall in high-risk areas, verify sewerage capacity via runoff simulation for 75 mm/hour rainfall, and strengthen countermeasures in newly identified high-risk districts.",
+    "verbatim_text": "## Development of sewerage facilities\n\n- ' Develop large trunk lines and storage facilities that can handle precipitation of 75 mm/hour...\n- ' By utilizing runoff analysis simulation technology, TMG will verify the capacity of sewerage facilities in case of precipitation of 75 mm/hour, add new districts at high risk of inundation, and strengthen the relevant countermeasures.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## (1) Structural measures / ## i Development of rivers, sewerage systems, and coastal conservation facilities",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Contains a quantifiable design standard (75 mm/hour) and concrete infrastructure and analytical actions."
+  },
+  {
+    "policy_statement": "TMG will set non-binding rainwater runoff control targets (equivalent to 10 mm/hour rainfall) for municipalities, post progress information, consider expanding subsidized prioritized basins, conduct model projects with municipalities, and promote greening to reduce flood damage.",
+    "verbatim_text": "## Promotion of measures for river basins\n\n- ' To encourage municipalities to make voluntary and systematic efforts to control rainwater runoff equivalent to precipitation of 10 mm/hour, TMG will set non-binding targets for the amount to be controlled and post information on progress made towards achieving such targets.\n- ' Consider adding prioritized basins that will be subsidized...\n- ' Carry out model projects in cooperation with municipalities...\n- ' Promote efforts to create and conserve greenery and reduce flood damage through a rainwater drainage function.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## (1) Structural measures / ## i Development of rivers, sewerage systems, and coastal conservation facilities",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Specific interventions include target-setting (10 mm/hour), subsidies, model projects, and greening for drainage."
+  },
+  {
+    "policy_statement": "TMG will use digital technology to improve disaster preparedness functions of agricultural canal reservoirs and intake gates.",
+    "verbatim_text": "## Enhancement of agricultural infrastructure\n\n- ' Utilize digital technology to improve the disaster preparedness function of reservoirs and intake gates of agricultural canals.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## (1) Structural measures / ## i Development of rivers, sewerage systems, and coastal conservation facilities",
+    "sector": "Agriculture/Forestry/Fisheries",
+    "extraction_rationale": "Concrete technology-enabled adaptation action for agricultural water infrastructure."
+  },
+  {
+    "policy_statement": "TMG will develop storm surge protection facilities for the eastern lowlands, formulate the next Port of Tokyo Coastal Conservation Facilities Development Plan, develop coastal conservation facilities considering climate impacts, and enable remote floodgate operations and monitoring.",
+    "verbatim_text": "## Measures for storm surges\n\n- ' Promote the development of storm surge protection facilities to protect the lives and livelihoods of approximately 3 million people living in the eastern lowlands.\n- ' Formulate the next Port of Tokyo Coastal Conservation Facilities Development Plan and promote the development of coastal conservation facilities taking into account the impacts of climate change.\n- ' Prepare for emergencies by remotely opening and closing floodgates whenever possible and monitoring camera videos and information signals sent from facilities.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## (1) Structural measures / ## i Development of rivers, sewerage systems, and coastal conservation facilities",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Specific infrastructure planning and operational measures; includes an affected population figure (~3 million)."
+  },
+  {
+    "policy_statement": "TMG will construct coastal conservation facilities (e.g., detached breakwaters) on islands to protect coastal villages from high tidal waves caused by typhoons and other disasters.",
+    "verbatim_text": "## Construction of coastal conservation facilities on the islands\n\n- ' Promote the construction of coastal conservation facilities, such as detached breakwaters, to protect villages etc. along the coast from high tidal waves caused by typhoons and other natural disasters.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## (1) Structural measures / ## i Development of rivers, sewerage systems, and coastal conservation facilities",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Concrete coastal infrastructure commitment for island protection."
+  },
+  {
+    "policy_statement": "TMG will promote removal of utility poles and strengthen support for municipality roads under the Strategy for Accelerating the Removal of Utility Poles.",
+    "verbatim_text": "## Promoting the removal of utility poles\n\n- ' Promote the removal of utility poles to prevent their collapse during earthquakes, storms and flooding, and facilitate a smooth response to disasters.\n- ' Work to strengthen support for municipality roads in addition to Tokyo metropolitan roads and efforts for urban development based on the Strategy for Accelerating the Removal of Utility Poles.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## ii Protection of functions of urban facilities",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Specific infrastructure resilience action (undergrounding/removal of poles) tied to a named strategy."
+  },
+  {
+    "policy_statement": "TMG will build redundancy in roads/bridges for disasters by building a highway network, constructing new bridges (including along borders with Chiba), improving access roads to the Tachikawa Wide-Area Disaster Management Base, and upgrading emergency transport routes (bridges, alternative routes, widening).",
+    "verbatim_text": "## Development of roads and bridges\n\n- ' Build a highway network to ensure redundancy 1 in the event of a disaster.\n- ' Promote the construction of new bridges along sections that border Chiba Prefecture...\n- ' Improve accessibility to the Tachikawa Wide-Area Disaster Management Base...\n- ' Improve the disaster preparedness of Tokyo... through the construction or replacement of bridges along emergency transport routes, the development of roads as alternative routes..., and the widening of emergency transport roads.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## ii Protection of functions of urban facilities",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Multiple concrete transport infrastructure commitments to maintain evacuation/logistics during disasters."
+  },
+  {
+    "policy_statement": "TMG will diagnose and systematically renew roadside trees in areas with many fallen trees to strengthen their disaster preparedness function.",
+    "verbatim_text": "## Strengthening the disaster preparedness function of roadside trees\n\n- ' To strengthen the disaster preparedness function of roadside trees, TMG will focus on the diagnosis of roadside trees in areas with many fallen trees due to typhoons for their systematic renewal.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## ii Protection of functions of urban facilities",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Specific intervention (diagnosis and renewal) targeting typhoon-related treefall risk."
+  },
+  {
+    "policy_statement": "TMG will improve stability of water supply by doubling water conveyance facilities, building wide-area transmission pipe networks with a dual system, and burying pipelines that cross rivers.",
+    "verbatim_text": "## More stable water supply\n\n- ' Double water conveyance facilities to improve the stability of water supply.\n- ' Construct wide-area water transmission pipe networks and promote a dual system for water transmission to water supply stations...\n- ' Bury pipelines that cross rivers, as surface pipes may be affected by river flooding...",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## ii Protection of functions of urban facilities",
+    "sector": "Water",
+    "extraction_rationale": "Concrete water infrastructure resilience measures to prevent service disruption during floods."
+  },
+  {
+    "policy_statement": "TMG will add and strengthen flood control measures for the Toei Subway based on newly announced expected inundation areas and examine measures for early restoration from large-scale floods.",
+    "verbatim_text": "## Flood control in subways\n\n- ' Take necessary additional measures for the Toei Subway in light of the announcement of new expected inundation areas that may assume the heaviest possible rainfall.\n- ' Strengthen measures against inundation by examining more effective measures for early restoration from large-scale floods, such as overflowing of the Arakawa River.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## ii Protection of functions of urban facilities",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Specific public transport flood resilience actions tied to inundation projections."
+  },
+  {
+    "policy_statement": "TMG will promote urban development with elevation in model districts to avoid catastrophic flood damage and continue coordination with the national government and wards.",
+    "verbatim_text": "## Promotion of urban development with elevation\n\n- ' Promote urban development with elevation to avoid catastrophic damage in the event of large-scale floods by continuing liaison meetings with the national government and promoting examination and operationalization in model districts in cooperation with the national government and wards.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## iii Promotion of urban development with disaster preparedness",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Concrete planning and operationalization commitment for elevated urban development."
+  },
+  {
+    "policy_statement": "TMG will elevate Shinozaki Park to secure evacuation routes to the Edogawa Levee.",
+    "verbatim_text": "## Promoting the elevation of a park\n\n- ' Elevate Shinozaki Park and secure evacuation routes to the Edogawa Levee.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## iii Promotion of urban development with disaster preparedness",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Specific named project (Shinozaki Park elevation) for evacuation resilience."
+  },
+  {
+    "policy_statement": "TMG will support municipalities' risk assessment efforts to prevent damage from broken residential land retaining walls.",
+    "verbatim_text": "## Efforts for building land retaining walls\n\n- ' Provide support for municipalities working on risk assessment to prevent damage caused by broken retaining walls for residential land.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## iii Promotion of urban development with disaster preparedness",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Concrete support action (risk assessment support) aimed at preventing failures."
+  },
+  {
+    "policy_statement": "TMG will prioritize erosion control work in landslide-prone areas with evacuation centers and where landslides have occurred, and manage slope protection facilities (e.g., ground anchors) with preventive maintenance; it will also manage forests for disaster preparedness and encourage relocation to safer areas via consolidated regional structure efforts.",
+    "verbatim_text": "## Implementation of erosion control work\n\n- ' Prioritize erosion control work in landslide prone areas where evacuation centers are located and locations where landslides have actually occurred.\n\n## Preventive maintenance management of existing ground anchors\n\n- ' Promote preventive maintenance management of various slope protection facilities...\n\n## Strengthening the disaster preparedness function of forests\n\n- ' Improve benefits... by thinning and pruning...\n- ' Develop disaster-resistant forests...\n\n## Making regional structure consolidated\n\n- ' Promote efforts for making regional structure consolidated... TMG will encourage relocation to safer areas...",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## iv Landslide measures",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Multiple specific landslide-risk actions including erosion control prioritization, preventive maintenance, forest management, and relocation encouragement."
+  },
+  {
+    "policy_statement": "TMG will strengthen flood response by developing personal flood-disaster materials and equipment.",
+    "verbatim_text": "## Strengthening disaster response in rescue activities\n\n- ' Strengthen the flood prevention activity system by developing personal materials and equipment for flood disasters.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## 2) Development of materials and equipment",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Specific preparedness investment/action: develop equipment and materials."
+  },
+  {
+    "policy_statement": "TMG will promote self-consumed renewable generation (solar, storage batteries) and fuel cells for emergency power availability, and install emergency power supplies at TMG and municipal facilities and other important bases.",
+    "verbatim_text": "## Expansion and installation of emergency power supplies\n\n- ' To ensure electricity is available... even in the event of a disaster, TMG will promote the spread of selfconsumed renewable generation, such as solar power generation and storage batteries, as well as fuel cells, for better regional disaster preparedness.\n- ' Promote the installation of emergency power supplies at TMG facilities, municipalities' buildings, and other important bases.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## 2) Development of materials and equipment",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete actions to deploy distributed energy resources and emergency power supplies for resilience."
+  },
+  {
+    "policy_statement": "TMG will promote the spread of ZEVs for disaster power supply (V2H/V2B), including installing public chargers and hydrogen stations and introducing portable V2L and V2H equipment.",
+    "verbatim_text": "## Promoting the spread of ZEVs\n\n- ' Promote the spread of zero-emission vehicles (ZEVs 2 ) as \"moving storage batteries\"...\n- ' Promote the installation of public chargers and hydrogen stations necessary for the spread, as well as the introduction of portable vehicle-to-load systems and V2H equipment necessary for the supply of power.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## 2) Development of materials and equipment",
+    "sector": "Transport",
+    "extraction_rationale": "Specific technology and infrastructure actions supporting resilience and low-emission transport."
+  },
+  {
+    "policy_statement": "TMG will improve island resilience by installing solar generation and storage on islands and considering regional renewable energy sharing.",
+    "verbatim_text": "## Better resilience in regions\n\n- ' Improve the resilience of the islands by promoting the installation of solar power generation equipment and storage batteries on the islands.\n- ' Consider the sharing of regional renewable energy and aim to strengthen regional disaster preparedness.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## 2) Development of materials and equipment",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete resilience measures for islands including renewable deployment and energy sharing consideration."
+  },
+  {
+    "policy_statement": "TMG will raise awareness of disaster preparedness through targeted communications and tools (Trial Examination, booklet, app, My Timeline), distribute flood risk maps and VR content, continue drills for foreigners with plain Japanese, and provide condominium-focused information tools.",
+    "verbatim_text": "## i Improvement of awareness of disaster preparedness\n\n- ' Raise awareness of disaster preparedness fine-tuned to different generations... through the Tokyo Disaster Preparedness Trial Examination... and distribution of the Tokyo Disaster Preparedness App.\n- ' Distribute Tokyo My Timeline... and introduce a reminder...\n- ' Raise public awareness of floods by distributing a flood risk map... and a VR video...\n- ' Continue disaster preparedness drills for foreigners...\n- ' Promote awareness raising by providing information through the Condominium Portal Site...",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## (2) Non-structural measures / ## 1) Preparation",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Specific non-structural interventions: apps, timelines, maps/VR, drills, and information portals."
+  },
+  {
+    "policy_statement": "TMG will strengthen evacuation support systems (including guidelines considering emerging infectious diseases and vulnerable groups), consider wide-area evacuation for large floods, expand shelter options including hotels/inns, update hazard maps, enhance flood measures for underground spaces, review/designate landslide-risk areas and support municipal alert/evacuation systems, and digitize disaster preparedness (digital signage, smart poles, open APIs).",
+    "verbatim_text": "## ii Development of the system\n\n- ' Strengthen the support system for welfare specialists... through the timely and appropriate revision of the evacuation center management and operation guidelines...\n- ' Consider wide-area evacuation measures in the event of a large-scale flood...\n- ' Support coordination for using TMG facilities and the utilization of hotels and inns...\n\n## Flood inundation area maps\n\n- ' Promote the update of hazard maps...\n\n## Flood control in large underground malls\n\n- ' Promote further enhancement of measures against inundation in underground spaces...\n\n## Landslide measures\n\n- ' Systematically review the designation of specific areas... and provide technical support...\n\n## Digitization of disaster measures\n\n- ' Work to provide information... by utilizing digital signage... and smart poles...\n- ' Promote the digitization of disaster preparedness... through open APIs 1 etc.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## (2) Non-structural measures / ## 1) Preparation",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Bundle of concrete system-building commitments across evacuation, mapping, underground flood control, landslides, and digitization."
+  },
+  {
+    "policy_statement": "TMG will support remote disaster response and business continuity by identifying operations that can be handled remotely, supporting SMBs in BCP formulation and telework introduction, and verifying the Central Market BCP while supporting BCPs for market-related businesses.",
+    "verbatim_text": "## Ensuring business continuity\n\n- ' Identify operations for which disaster response can be made remotely, and consider specific methods and systems for that purpose.\n- ' Support small- and medium-sized businesses (SMBs) in formulating BCPs... by promoting the introduction of telework.\n- ' Ensure the continuity of the market business by continuously verifying the Disaster Preparedness Manual (Central Market BCP)... and supporting the formulation of BCPs by market-related businesses.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## (2) Non-structural measures / ## 1) Preparation",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Concrete resilience measures for continuity: remote operations, SMB BCP/telework, and market continuity management."
+  },
+  {
+    "policy_statement": "TMG will provide technical and financial support for flood control measures by SMBs handling chemical substances based on Tokyo Metropolitan Government Chemical Substance Control Guidelines.",
+    "verbatim_text": "## Corporate support etc.\n\n- ' To promote flood control measures taken by businesses handling chemical substance, TMG will provide technical and financial support for flood control measures implemented by SMBs based on the Tokyo Metropolitan Government Chemical Substance Control Guidelines.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## (2) Non-structural measures / ## 1) Preparation",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Explicit resource/assistance commitment (technical and financial support) tied to named guidelines."
+  },
+  {
+    "policy_statement": "TMG will strengthen disaster information collection and sharing by researching digital technology use, rebuilding the Disaster Information System (DIS), publishing shelter congestion information, collecting information via SNS and drones, and redeveloping community radio including closed LTE.",
+    "verbatim_text": "## Strengthening the system for consolidating and sharing disaster information\n\n- ' For prompt information collection... TMG will research and verify the utilization of digital technology...\n- ' Rebuild the Disaster Information System (DIS)...\n- ' Consolidate information, such as congestion in municipal evacuation centers, by DIS...\n- ' Enhance the initial response system by considering a mechanism for collecting disaster information using SNS and our bureaus' drones.\n- ' Strengthen the information communication system between governments by redeveloping community radio systems, including the introduction of closed LTE...",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## 2) Response in the event of a disaster / ## i Collection, analysis, and provision of information",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Concrete system upgrades with named platform (DIS) and specified technologies (SNS, drones, closed LTE)."
+  },
+  {
+    "policy_statement": "TMG will use AI and digital tools to improve disaster-site information collection and command, including enabling web meetings/training and considering drone video use.",
+    "verbatim_text": "## Using AI at disaster sites\n\n- ' Use AI for information collection to strengthen the security command structure.\n- ' ...TMG will put the digital environment in place to collect and share information, hold web meetings, and provide training or guidance.\n- ' Consider the utilization of drone videos at disaster sites.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## 2) Response in the event of a disaster / ## i Collection, analysis, and provision of information",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Explicit commitment to AI-enabled information collection plus enabling digital operations."
+  },
+  {
+    "policy_statement": "TMG will research and build AI-based systems to support floodgate operations by predicting water level fluctuations using big data, consider inflow prediction tech for stormwater pumps, and promote real-time sewer water level monitoring via multifunctional manhole covers shared with municipalities.",
+    "verbatim_text": "## Using AI for predicting water levels\n\n- ' Carry out research on how to build a system that supports the operation of floodgates etc. using AI to analyze various big data...\n- ' Consider the development of inflow prediction technology that supports the operation of stormwater pumps.\n- ' Encourage municipalities... by utilizing a multifunctional manhole cover that measures water levels in sewerage pipes in real time and sharing the measurements...",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## 2) Response in the event of a disaster / ## i Collection, analysis, and provision of information",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Specific digital/AI interventions with defined operational purposes (floodgates, pumps, sewer monitoring)."
+  },
+  {
+    "policy_statement": "TMG will improve water-disaster information provision by adding flood forecast/water level information rivers, strengthening the Flood Control Integrated Information System, starting operation of the Storm Surge Disaster Prevention Information System, and continuing Tokyo Amesh rainfall information.",
+    "verbatim_text": "## Improved provision of information on disaster preparedness\n\n- ' ...TMG will consider specifying additional flood forecast rivers 1 and water level information rivers 2...\n- ' Improve the provision of information... by strengthening the Flood Control Integrated Information System and starting the operation of the Storm Surge Disaster Prevention Information System.\n- ' Continue to provide rainfall information through Tokyo Amesh.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## 2) Response in the event of a disaster / ## i Collection, analysis, and provision of information",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Concrete system and operational improvements for public warnings and information."
+  },
+  {
+    "policy_statement": "TMG will strengthen inter-organizational disaster response by enabling liaison staff dispatch to all municipalities and running PDCA-based practical training for large storm/flood scenarios to update plans and manuals.",
+    "verbatim_text": "## Strengthening cooperation with related organizations\n\n- ' Strengthen our seamless disaster response system by building a system to dispatch liaison staff to all municipalities in Tokyo as needed...\n- ' Actively implement the PDCA cycle... through practical training assuming large-scale storms and flooding, and then reflect the results in various plans and manuals.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## 2) Response in the event of a disaster / ## ii Enhancement of the system",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Defines a concrete coordination mechanism (liaison dispatch) and continuous improvement process (PDCA with training)."
+  },
+  {
+    "policy_statement": "TMG will enhance cargo transport during disasters via agreements with businesses, practical training, drone-based logistics demonstrations, and systems enabling bidirectional communication with cargo vehicles.",
+    "verbatim_text": "## Enhancement of the cargo transport system\n\n- ' Enhance the cargo transport system by concluding agreements with businesses...\n- ' Carry out research and demonstration experiments in model areas to build a cargo transport system using drones.\n- ' Develop a more efficient cargo transport system by building a system that enables bidirectional communication between TMG and cargo transport vehicles.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## 2) Response in the event of a disaster / ## ii Enhancement of the system",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Specific logistics resilience actions including agreements, drills, drone demos, and comms systems."
+  },
+  {
+    "policy_statement": "TMG will strengthen the emergency water supply system for flexible supply to life-supporting medical institutions during disruptions and conduct year-round comprehensive training to strengthen crisis response capabilities.",
+    "verbatim_text": "## Ensuring an emergency water supply system to protect Tokyo residents in the event of a disaster\n\n- ' Strengthen the emergency water supply system so that we can flexibly supply water to life-supporting medical institutions...\n- ' Carry out comprehensive training throughout the year to strengthen the crisis response capabilities...",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## 2) Response in the event of a disaster / ## ii Enhancement of the system",
+    "sector": "Water",
+    "extraction_rationale": "Concrete emergency service continuity commitment focused on medical institutions and training."
+  },
+  {
+    "policy_statement": "TMG will continue operating HQR (TFD Headquarters Rescue Operation Forces) for immediate fact-finding and rescue in abnormal weather-caused catastrophic floods.",
+    "verbatim_text": "## Operation of HQR\n\n- ' Continue to operate HQR (TFD Headquarters Rescue Operation Forces), which was established to respond to abnormal weather-caused catastrophic flood disasters, for immediate fact-finding and rescue activities.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## 2) Response in the event of a disaster / ## ii Enhancement of the system",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Clear continuation commitment for a named operational force."
+  },
+  {
+    "policy_statement": "TMG will increase the number of police officers qualified to operate disaster heavy equipment and provide guidance and joint training with private operators to improve skills and support public-private emergency disaster control.",
+    "verbatim_text": "## Improvement of operation skills of disaster heavy equipment\n\n- ' ...TMG will increase the number of police officers with heavy equipment operation qualifications...\nWe will also provide guidance and joint training with operators from private businesses to improve these officers' skills and promote public-private emergency disaster control measures.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## 2) Response in the event of a disaster / ## ii Enhancement of the system",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Specific capacity-building and training commitment with staffing increase."
+  },
+  {
+    "policy_statement": "TMG will set up a temporary help desk for disaster victims to handle inquiries and assistance requests.",
+    "verbatim_text": "## Consultation system\n\n- ' Set up a temporary help desk for victims in the event of a disaster to establish a system that enables us to properly deal with inquiries and requests  for assistance.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## 2) Response in the event of a disaster / ## ii Enhancement of the system",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Concrete service delivery measure (temporary help desk/system)."
+  },
+  {
+    "policy_statement": "TMG will train disaster volunteer coordinators and establish the Tokyo Disaster Volunteer Center with TVAC to support volunteer and NPO activities during disasters.",
+    "verbatim_text": "## Strengthening support of volunteer activities in the event of a disaster\n\n- ' Train volunteer coordinators for disasters in collaboration with the Tokyo Voluntary Action Center (TVAC)...\n- ' Set up the Tokyo Disaster Volunteer Center in cooperation with TVAC in the event of a disaster...",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## 2) Response in the event of a disaster / ## ii Enhancement of the system",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Specific institutional arrangements for volunteer coordination and deployment."
+  },
+  {
+    "policy_statement": "TMG will strengthen support for foreigners by providing multilingual disaster information, training disaster language volunteers with a matching process, establishing a Disaster Information Center for Foreigners when needed, and offering online multilingual consultations for legal/specialized issues.",
+    "verbatim_text": "## Support for foreigners\n\n- ' Establish a system to promptly provide multilingual disaster information...\n- ' ...offering training for disaster language volunteers and systematizing a matching process.\n- ' ...TMG will set up a Disaster Information Center for Foreigners...\n- ' ...we will provide online multilingual consultation...",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## 2) Response in the event of a disaster / ## ii Enhancement of the system",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Concrete actions creating multilingual information and support systems."
+  },
+  {
+    "policy_statement": "TMG will support disaster waste planning and wide-area cooperation for proper disposal and promote systems for temporary housing and emergency repairs after disasters.",
+    "verbatim_text": "## Efforts for early restoration and recovery\n\n- ' To dispose of disaster waste properly, smoothly, and promptly, TMG will support the formulation of disaster waste disposal plans and manuals for municipalities and carry out wide-area collaboration and cooperation.\n- ' Promote the development of a system to provide temporary housing and emergency repairs in the event of a disaster.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote structural and non-structural measures for natural disasters using state-of-the-art technologies and urban facility development, and further improve initiatives to cope with larger typhoons and more frequent heavy rains.",
+    "section_header": "## 2) Response in the event of a disaster / ## ii Enhancement of the system",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Post-disaster recovery commitments with specific deliverables (plans/manuals, housing/repairs system)."
+  },
+  {
+    "policy_statement": "TMG will use drones in disasters by consolidating drone imagery in DIS, verifying information for emergency planning, collecting landslide information, mapping/analyzing via AI, and deploying drone video transmission and remote inspections for roads, rivers, and coasts.",
+    "verbatim_text": "## ¢ Using Drones in the Event of a Disaster\n\nBy consolidating drone image information collected by bureaus in the Disaster Information System (DIS) and sharing it in TMG and with related organizations... we will verify the information to use it for the planning and adjustment of quick-response emergency measures.\n\nIntroduce a drone video transmission system... For roads, rivers, and coasts, TMG will use drones for remote inspection and sharing information in real-time, and consider developing a system to identify damage safely and promptly.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## Major Efforts through DX / ## ¢ Using Drones in the Event of a Disaster",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Named DX effort with specific systems (DIS consolidation, AI mapping, video transmission, remote inspection)."
+  },
+  {
+    "policy_statement": "TMG will implement a regional renewable energy sharing model, including a VPP-based energy sharing model project in Minami-Osawa and a model for storage/utilization to support resilience and balance supply and demand.",
+    "verbatim_text": "## ¢ Sharing of Regional Renewable Energy\n\n-  Implement an energy sharing model project in part of the Minami-Osawa district... utilizing a VPP 1 mechanism to remotely control solar power generation, storage batteries, hydrogen equipment based on renewable energy, and electric vehicles (EVs)...\n-  Build a model for the storage and utilization of renewable energy that realizes both energy management in normal times and resilience in the event of a disaster...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## Major Efforts through DX / ## ¢ Sharing of Regional Renewable Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Specific model project with location and mechanism (VPP) plus resilience objective."
+  },
+  {
+    "policy_statement": "TMG will strengthen health adaptation by implementing preventive and ex-post measures to minimize heatstroke, infectious disease risks, and air-pollution health hazards.",
+    "verbatim_text": "## Efforts for the Future\n\nTMG will further strengthen appropriate preventive and ex-post measures to minimize adverse health effects due to temperature rise, such as patients with heat stroke or infectious diseases and health hazards caused by air pollution.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "## Health — ## Efforts for the Future",
+    "sector": "Health",
+    "extraction_rationale": "Umbrella commitment introducing multiple sub-areas (heat, infectious diseases, air pollution) detailed below."
+  },
+  {
+    "policy_statement": "TMG will promote public heat countermeasures by fostering momentum for Uchimizu, creating cool spots with misting devices, constructing about 245 km of heat-blocking/water-retaining pavements by FY2030, promoting urban greening, increasing Tokyo Zero Emission Houses and supporting municipal heat-shielding/efficient appliance upgrades, and using smart poles to collect temperature/humidity data.",
+    "verbatim_text": "## (1) Heat countermeasures\n\n- ' Foster momentum for 'Uchimizu'... through the distribution of 'Uchimizu' goods...\n- ' Install heat countermeasure equipment, including fine misting devices...\n- ' Construct a total of approximately 245 km of heat blocking and water-retaining pavements... by FY 2030.\n- ' Steadily operate the Greenery Program...\n- ' Increase the number of Tokyo Zero Emission Houses...\n- ' Collect temperature and humidity data through smart poles...",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will strengthen health adaptation by implementing preventive and ex-post measures to minimize heatstroke, infectious disease risks, and air-pollution health hazards.",
+    "section_header": "## (1) Heat countermeasures",
+    "sector": "Health",
+    "extraction_rationale": "Contains multiple concrete interventions and a quantified pavement target (245 km by FY2030)."
+  },
+  {
+    "policy_statement": "TMG will reduce mosquito-borne infectious disease risk by providing occurrence/prevention/source-control information, conducting mosquito surveillance, and ensuring pathogen inspection systems; it will also surveil fire ants with partners and raise awareness to reduce risks from harmful alien species.",
+    "verbatim_text": "## Countermeasures for mosquito-borne infectious diseases\n\n- ' Reduce the risk of infectious disease outbreak by providing information...\n- ' Conduct surveillance of mosquitoes... and ensure an inspection system for pathogens.\n\n## Measures against alien species which cause damage to humans\n\n- ' ...TMG will... conducting surveillance of fire ants, and raising awareness of Tokyo residents.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will strengthen health adaptation by implementing preventive and ex-post measures to minimize heatstroke, infectious disease risks, and air-pollution health hazards.",
+    "section_header": "## (2) Countermeasures for infectious diseases",
+    "sector": "Health",
+    "extraction_rationale": "Concrete surveillance, information provision, and inspection system commitments for infectious disease and alien species risks."
+  },
+  {
+    "policy_statement": "TMG will reduce air pollutant emissions by encouraging factory measures, vehicle emission reduction, and voluntary business efforts; coordinate with the Nine Local Governments Coalition to analyze mechanisms and take measures; and publish air quality data as open data for advanced-tech-enabled air pollution measures.",
+    "verbatim_text": "## Reduction of air pollutant emissions\n\n- ' To reduce the concentrations of PM2.5 and photochemical oxidants, TMG will reduce the emissions... at factories, vehicle emission reduction measures, and voluntary efforts by businesses.\n- ' Work with other members of the Nine Local Governments Coalition to analyze the mechanism and take measures accordingly...\n- ' Make air quality data available as open data...",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will strengthen health adaptation by implementing preventive and ex-post measures to minimize heatstroke, infectious disease risks, and air-pollution health hazards.",
+    "section_header": "## (3) Measures for air pollution",
+    "sector": "Air quality",
+    "extraction_rationale": "Specific regulatory/coordination/data actions aimed at reducing PM2.5 and photochemical oxidants."
+  },
+  {
+    "policy_statement": "TMG will promote Tokyo-Style Smart Agriculture to maintain stable agricultural production under climate change and realize high profits on a small scale using IoT, AI, and other advanced technologies, including R&D across three fields.",
+    "verbatim_text": "## ¢ Tokyo-Style Smart Agriculture Project\n\nTo maintain stable agricultural production even under climate change, including large typhoons and extreme heat... TMG will promote Tokyo-Style Smart Agriculture... by making use of IoT, AI, and other advanced technologies.\n\n...move ahead with research and development in the following three fields:",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "## Major Efforts through DX / ## ¢ Tokyo-Style Smart Agriculture Project",
+    "sector": "Agriculture/Forestry/Fisheries",
+    "extraction_rationale": "Named project with structured subcomponents (three R&D fields) described below."
+  },
+  {
+    "policy_statement": "TMG will develop/verify the Tokyo Future Agrisystem (small solar-powered plant factory) and consider verification tests to expand coverage to strawberries and reduce facility/equipment costs using small computers.",
+    "verbatim_text": "## (1) Tokyo Future Agrisystem (small solar-powered plant factory)\n\nTMG will consider a verification test of expanding coverage to strawberries based on the knowledge of tomatoes and cucumbers we have developed and additional cost savings in facilities and equipment by taking advantage of small computers.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote Tokyo-Style Smart Agriculture to maintain stable agricultural production under climate change and realize high profits on a small scale using IoT, AI, and other advanced technologies, including R&D across three fields.",
+    "section_header": "## (1) Tokyo Future Agrisystem (small solar-powered plant factory)",
+    "sector": "Agriculture/Forestry/Fisheries",
+    "extraction_rationale": "Concrete planned action: verification testing and expansion to specific crop (strawberries)."
+  },
+  {
+    "policy_statement": "TMG will conduct verification tests of new agricultural systems using IoT/AI and advanced technologies (e.g., farm stand support, environmentally controlled fruit cultivation, lightweight flexible solar cells).",
+    "verbatim_text": "## (2) Technical verification of new agricultural systems built on IoT, AI, and other advanced technologies\n\nTMG will conduct verification tests of new elements of agriculture, such as a farm stand support system, an environmentally controlled cultivation system for fruit tree root restriction cultivation, and systems using lightweight flexible solar cells.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote Tokyo-Style Smart Agriculture to maintain stable agricultural production under climate change and realize high profits on a small scale using IoT, AI, and other advanced technologies, including R&D across three fields.",
+    "section_header": "## (2) Technical verification of new agricultural systems built on IoT, AI, and other advanced technologies",
+    "sector": "Agriculture/Forestry/Fisheries",
+    "extraction_rationale": "Specific R&D verification actions with examples of systems/technologies."
+  },
+  {
+    "policy_statement": "TMG will aim to implement new agricultural technologies using local 5G, including ultra-high resolution cameras, smart glasses, and autonomous driving robots, in collaboration with private businesses.",
+    "verbatim_text": "## (3) Development of new agricultural technologies based on local 5G\n\nIn collaboration with private businesses, TMG aims to implement new agricultural technologies using local 5G, which incorporate advanced technologies, such as ultra-high resolution cameras, smart glasses, and autonomous driving robots.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will promote Tokyo-Style Smart Agriculture to maintain stable agricultural production under climate change and realize high profits on a small scale using IoT, AI, and other advanced technologies, including R&D across three fields.",
+    "section_header": "## (3) Development of new agricultural technologies based on local 5G",
+    "sector": "Agriculture/Forestry/Fisheries",
+    "extraction_rationale": "Concrete implementation aim with specific enabling technology (local 5G) and examples."
+  },
+  {
+    "policy_statement": "TMG will ensure stable supply of high-quality tap water by reducing drought and raw water quality risks, improving sewer systems and treatment facilities, and continuing monitoring for water quality improvements.",
+    "verbatim_text": "## Efforts for the Future\n\nTMG will reduce the risks posed by severe droughts and deterioration of raw water quality as much as possible to ensure stable supply of high-quality tap water.\n\nWe will create a comfortable water environment through improvements in water quality by enhancing the combined sewer system and developing advanced treatment facilities... In addition, we will continue monitoring.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "## Water resources and water environment — ## Efforts for the Future",
+    "sector": "Water",
+    "extraction_rationale": "Umbrella commitment for multiple water supply and water quality measures detailed in subsections."
+  },
+  {
+    "policy_statement": "TMG will improve water supply stability by doubling water conveyance facilities.",
+    "verbatim_text": "## (1) Stable supply of high-quality tap water\n\n## More stable water supply\n\n- ' Double water conveyance facilities to improve the stability of water supply.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will ensure stable supply of high-quality tap water by reducing drought and raw water quality risks, improving sewer systems and treatment facilities, and continuing monitoring for water quality improvements.",
+    "section_header": "## (1) Stable supply of high-quality tap water",
+    "sector": "Water",
+    "extraction_rationale": "Specific infrastructure action clearly stated."
+  },
+  {
+    "policy_statement": "TMG will enhance water conservation forests through thinning/pruning and deer damage measures, purchase devastated private forests and restore with local governments, and use drones to manage and investigate forest conditions.",
+    "verbatim_text": "## Conservation and management of water conservation forests\n\n- ' Implement thinning, pruning, and other conservation tasks and take measures against deer damage...\n- ' Purchase devastated privately owned forests and cooperate with local governments to restore such forests.\n- ' Efficiently conserve and manage water conservation forests by using drones...",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will ensure stable supply of high-quality tap water by reducing drought and raw water quality risks, improving sewer systems and treatment facilities, and continuing monitoring for water quality improvements.",
+    "section_header": "## (1) Stable supply of high-quality tap water",
+    "sector": "Water",
+    "extraction_rationale": "Concrete forest management and acquisition/restoration actions linked to water security."
+  },
+  {
+    "policy_statement": "TMG will improve purification plant operations by considering new purification technologies, reducing environmental load, and introducing ICT and other latest technologies.",
+    "verbatim_text": "## Ensuring correct and effective purification for changes in raw water quality\n\n- ' Consider more efficient maintenance of purification plants by introducing new purification technologies, reducing the environmental load, and introducing ICT and other latest technologies.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will ensure stable supply of high-quality tap water by reducing drought and raw water quality risks, improving sewer systems and treatment facilities, and continuing monitoring for water quality improvements.",
+    "section_header": "## (1) Stable supply of high-quality tap water",
+    "sector": "Water",
+    "extraction_rationale": "Specific operational and technology adoption commitment."
+  },
+  {
+    "policy_statement": "TMG will reduce pollution loads by continuously improving combined sewer systems (including capturing initial stormwater and introducing separate sewer systems for some facilities/development districts).",
+    "verbatim_text": "## (2) Measures for preservation of water quality of public water bodies Improvement of the combined sewer system\n\n- ' Strive to reduce pollution load discharged to rivers or the sea through the continuous improvement of the combined sewer system, such as the development of facilities to capture initial stormwater mixed with sanitary sewage... and the introduction of a separate sewer system for some public facilities and development districts.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will ensure stable supply of high-quality tap water by reducing drought and raw water quality risks, improving sewer systems and treatment facilities, and continuing monitoring for water quality improvements.",
+    "section_header": "## (2) Measures for preservation of water quality of public water bodies",
+    "sector": "Water",
+    "extraction_rationale": "Concrete infrastructure and system changes to reduce discharges."
+  },
+  {
+    "policy_statement": "TMG will introduce advanced and semi-advanced treatment facilities at water reclamation centers to improve treated sewage quality.",
+    "verbatim_text": "## Improvement of quality of treated water\n\n- ' Introduce advanced and semi-advanced treatment facilities at water reclamation centers to further improve the quality of treated sewage.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will ensure stable supply of high-quality tap water by reducing drought and raw water quality risks, improving sewer systems and treatment facilities, and continuing monitoring for water quality improvements.",
+    "section_header": "## (2) Measures for preservation of water quality of public water bodies",
+    "sector": "Water",
+    "extraction_rationale": "Specific infrastructure upgrade commitment."
+  },
+  {
+    "policy_statement": "TMG will systematically dredge sludge from tidal rivers and canals (including the Sumida River) to improve water quality and prevent bad odors.",
+    "verbatim_text": "## Dredging sludge from rivers and canals systematically\n\n- ' Systematically dredge sludge from tidal rivers and canals, including Sumida River, to improve water quality and prevent bad odors.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will ensure stable supply of high-quality tap water by reducing drought and raw water quality risks, improving sewer systems and treatment facilities, and continuing monitoring for water quality improvements.",
+    "section_header": "## (2) Measures for preservation of water quality of public water bodies",
+    "sector": "Water",
+    "extraction_rationale": "Concrete maintenance activity with specified water bodies."
+  },
+  {
+    "policy_statement": "TMG will continue monitoring water quality and researching aquatic organisms to verify initiative effects and inform future improvements.",
+    "verbatim_text": "## Monitoring of water quality as well as research and study of aquatic organisms\n\n- ' Continue monitoring of water quality as well as research and study of aquatic organisms to verify the effects of initiatives and identify the improvements in the waterfront environment for better initiatives in the future.",
+    "policy_type": "sub",
+    "parent_policy_name": "TMG will ensure stable supply of high-quality tap water by reducing drought and raw water quality risks, improving sewer systems and treatment facilities, and continuing monitoring for water quality improvements.",
+    "section_header": "## (2) Measures for preservation of water quality of public water bodies",
+    "sector": "Water",
+    "extraction_rationale": "Ongoing monitoring and research commitment with a clear purpose."
+  },
+  {
+    "policy_statement": "TMG will revise a local biodiversity strategy as a cross-bureau, medium- to long-term comprehensive plan and use it to promote green infrastructure for conservation and restoration of nature.",
+    "verbatim_text": "## Revision of a local biodiversity strategy\n\n- ' Revise a local biodiversity strategy as a crossbureau, medium- to long-term comprehensive plan for biodiversity in Tokyo...\n\n## Three levels of biodiversity\n\n- ' Through this strategy, TMG will reaffirm the various functions of the natural environment to actively use them in green infrastructure for the purpose of the conservation and restoration of nature.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## Natural environment — ## Efforts for the Future",
+    "sector": "Nature",
+    "extraction_rationale": "Named strategic revision plus explicit intent to use it for green infrastructure and conservation/restoration."
+  },
+  {
+    "policy_statement": "TMG will expand biodiversity conservation areas by designating good natural land as conservation areas and conserving/managing them to serve as biodiversity bases and reduce flood damage via rainwater drainage.",
+    "verbatim_text": "## Expansion of conservation areas to protect valuable biodiversity\n\n- ' By designating parcels of good natural land as conservation areas and appropriately conserving and managing them, TMG will maintain such areas to serve as a base for biodiversity in Tokyo and reduce flood damage through the drainage of rainwater.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## Natural environment — ## Efforts for the Future",
+    "sector": "Nature",
+    "extraction_rationale": "Concrete land designation/management action with dual objectives (biodiversity and flood reduction)."
+  },
+  {
+    "policy_statement": "TMG will ensure reforestation in the Tama area through thinning and pruning to restore public benefits of devastated cedar/cypress plantation forests.",
+    "verbatim_text": "## Reforestation in the Tama area\n\n- ' To restore public benefits of plantation forests of Japanese cedar and cypress in the Tama area that have been devastated, we will ensure their reforestation through thinning and pruning.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## Natural environment — ## Efforts for the Future",
+    "sector": "Nature",
+    "extraction_rationale": "Specific forest restoration action with defined methods (thinning and pruning)."
+  },
+  {
+    "policy_statement": "TMG will create and conserve greenery via the Greenery Program and Urban Redevelopment Systems, promote designation of productive green land with municipalities, and secure green spaces through the Development Permit System.",
+    "verbatim_text": "## Creation and conservation of greenery\n\n- ' Steadily operate the Greenery Program in development and building plans...\n- ' ...TMG will promote the designation as productive green land or specific productive green land in cooperation with municipalities\n- ' Secure green spaces by steadily operating the Development Permit System...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## Natural environment — ## Efforts for the Future",
+    "sector": "Nature",
+    "extraction_rationale": "Concrete land-use and program operations to secure greenery; includes coordination with municipalities."
+  },
+  {
+    "policy_statement": "TMG will green riverbanks and improve river facilities using natural environment, maintain park forests for comfort/safety, and improve roadside tree greenery through efficient maintenance.",
+    "verbatim_text": "- ' Systematically promote the greening of riverbanks... and implement efforts to improve the quality of river facilities by making use of the natural environment.\n- ' Promote appropriate maintenance of park forests... TMG will also improve the quality of greenery by efficiently maintaining roadside trees.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## Natural environment — ## Efforts for the Future",
+    "sector": "Nature",
+    "extraction_rationale": "Specific ecosystem-based adaptation actions (riverbank greening, park forest maintenance)."
+  },
+  {
+    "policy_statement": "TMG will conduct adaptive management in 31 Tokyo Metropolitan parks focusing on environmental improvement, species monitoring, and stakeholder coordination; in marine parks it will expand/develop beaches, tidal flats, and rocky shores and monitor them.",
+    "verbatim_text": "## Environmental improvement of Tokyo Metropolitan parks and marine parks\n\n- ' In 31 Tokyo Metropolitan parks... TMG will carry out adaptive management 1 by focusing on environmental improvement, monitoring species, and facilitating cooperation and information sharing between stakeholders.\nTo secure a habitat... in marine parks, we will not only promote the development and expansion of beaches, tidal flats, and rocky shores, but also monitor them.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## Natural environment — ## Efforts for the Future",
+    "sector": "Nature",
+    "extraction_rationale": "Quantified scope (31 parks) with specific management actions and habitat development/monitoring."
+  },
+  {
+    "policy_statement": "TMG will promote conservation and proper use of natural parks by deploying rangers and using digital technology to deepen users’ understanding of nature’s value.",
+    "verbatim_text": "## Promoting the conservation and sustainable use of natural parks\n\n- ' Promote the conservation and proper use of natural parks by deploying rangers and deepen users' understanding of the value of nature by using digital technology.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## Natural environment — ## Efforts for the Future",
+    "sector": "Nature",
+    "extraction_rationale": "Concrete management and outreach approach including staffing (rangers) and digital tech."
+  },
+  {
+    "policy_statement": "TMG will manage deer impacts via the deer management plan (monitoring, fences, capture enhancement, damage control) and strengthen rare species protection and alien species measures with municipalities.",
+    "verbatim_text": "## Proper management of wildlife\n\n- ' ...TMG will, based on the deer management plan, conduct monitoring surveys, install and manage vegetation protection fences, and promote capture enhancement and damage control measures...\n- ' Promote the protection of rare species... and strengthen measures against alien species in cooperation with municipalities.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## Natural environment — ## Efforts for the Future",
+    "sector": "Nature",
+    "extraction_rationale": "Specific wildlife management actions with mechanisms and cooperation."
+  },
+  {
+    "policy_statement": "TMG will establish (prepare to set up) the Tokyo Climate Change Adaptation Center in FY2021 and collaborate with it to collect, analyze, and provide information on climate impacts and adaptation.",
+    "verbatim_text": "## Establishment of Local Climate Change Adaptation Center\n\nTMG is preparing to set up in FY 2021 the Tokyo Climate Change Adaptation Center (tentative name)...\n\nTMG will collaborate with the center to collect, organize, analyze, and provide information on climate change impacts and adaptation to climate change.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## 5. Promotion of Adaptation Measures",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Concrete institutional commitment with timeline (FY2021) and defined functions."
+  },
+  {
+    "policy_statement": "TMG will promote adaptation under a government-wide system using PDCA-based progress management and cooperation across bureaus.",
+    "verbatim_text": "## Cooperation within TMG\n\nTMG will strongly promote adaptation measures under the promotional system throughout the government, by means of the progress management ensured with the PDCA cycle, and in cooperation with our bureaus.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "## 5. Promotion of Adaptation Measures",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Defines governance mechanism for implementation (PDCA progress management across government)."
+  }
+]

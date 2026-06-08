@@ -1,0 +1,38 @@
+[
+  {
+    "policy_statement": "Japan will reduce its greenhouse gas emissions by 46% in fiscal year 2030 from fiscal year 2013 levels (to 760 million t-CO2), while continuing efforts toward a 50% reduction goal.",
+    "verbatim_text": "Japan aims to reduce its greenhouse gas emissions by 46 percent in fiscal year 2030 from its fiscal year 2013 levels, setting an ambitious target which is aligned with the longterm  goal  of  achieving  net-zero  by  2050. Furthermore, Japan will continue strenuous efforts in its challenge to meet the lofty goal of cutting its emission by 50 percent.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Japan's Greenhouse Gas Emission Reduction Target",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Quantified mitigation target with a clear baseline year (FY2013) and target year (FY2030), plus a stated higher-ambition effort level (50%)."
+  },
+  {
+    "policy_statement": "Japan’s NDC implementation period will run from April 1, 2021 to March 31, 2031 (single-year target for fiscal year 2030).",
+    "verbatim_text": "FromApril 1, 2021 to March 31, 2031\n\nSingle year target (fiscal year 2030)",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2. Time frames and/or periods for implementation:",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Defines an explicit implementation timeframe and specifies the target as a single-year (FY2030), which is an operational commitment detail for the NDC."
+  },
+  {
+    "policy_statement": "Japan has legally positioned net-zero (carbon neutrality) by 2050 as a basic principle through the Act Partially Amending the Act on Promotion of Global Warming Countermeasures (Act No. 54 of 2021).",
+    "verbatim_text": "By the Act Partially Amending the Act on Promotion of Global Warming Countermeasures (Act No. 54 of 2021) which was enacted in 204th session of the Diet, net-zero by 2050 became a Basic Principle of the Act.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4. Planning processes:",
+    "sector": "Economy-wide",
+    "extraction_rationale": "States a binding mechanism: a legislative amendment that enshrines net-zero by 2050 as a basic principle."
+  },
+  {
+    "policy_statement": "Japan will establish and implement the Joint Crediting Mechanism (JCM) to quantitatively evaluate and use international emission reductions/removals toward its NDC, aiming to secure approximately 100 million t-CO2 of accumulated emission reductions and removals by fiscal year 2030 through public-private collaborations, and will appropriately count acquired credits while ensuring environmental integrity and avoiding double-counting.",
+    "verbatim_text": "Japan will establish and implement the Joint Crediting Mechanism (JCM) in order to quantitatively evaluate contributions of Japan to greenhouse gas emission reductions and removals... and in order to use such contributions to achieve Japan's NDC. By doing so, through public-private collaborations, Japan aims to secure accumulated emission reductions and removals at the level of approximately 100 million t-CO2 by fiscal year 2030. Japan will appropriately count the acquired credits to achieve its NDC. With regards to the JCM which Japan has initiated to establish, Japan secures environmental integrity and the avoidance of double-counting in line with the international rules including the Paris Agreement.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "(g) The intention to use voluntary cooperation under Article 6 of the Paris Agreement, if applicable.",
+    "sector": "Carbon markets",
+    "extraction_rationale": "Named mechanism with a quantified cumulative target (100 million t-CO2 by FY2030), plus explicit commitments to establish/implement, count credits, and ensure integrity/avoid double counting."
+  }
+]

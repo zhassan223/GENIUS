@@ -1,0 +1,51 @@
+{
+  "doc_id": "Qatar_0f24b40ae3",
+  "total_chunks": 1,
+  "total_policies_before_resolve": 22,
+  "total_policies_after_resolve": 22,
+  "resolver_stats": {
+    "input_count": 22,
+    "dedup_removed": 0,
+    "statement_dedup_removed": 0,
+    "deterministic_links": 0,
+    "llm_arbitrated": 0,
+    "orphan_count": 0,
+    "output_count": 22
+  },
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "word_count": 5542,
+      "has_overlap": false,
+      "ancestor_headings": [],
+      "policies_extracted": 22,
+      "elapsed_seconds": 0.02,
+      "carry_forward_length": 0,
+      "error": null
+    }
+  ],
+  "chunk_provenance": {
+    "Qatar intends to reduce 25% of its GHG emissions by 2030 relative to a Business-As-Usual (BAU) baseline scenario.": 0,
+    "Qatar Petroleum (QP) is committed to zero routine flaring by 2030 and to reducing onshore flaring to the absolute minimum, including technically feasible non-routine flaring.": 0,
+    "Qatar will use carbon capture and storage (CCS) as a pivotal measure in the oil and gas sector, including CCS in new LNG facilities and developing/implementing CCS concepts for remaining LNG facilities subject to economic, safety, and environmental considerations.": 0,
+    "Qatar Petroleum introduced a smart leak detection and repair program (LDAR) in 2019 in all upstream and downstream oil and gas facilities, and Qatar plans to move toward a fully integrated fugitive methane monitoring and repair program across all assets.": 0,
+    "Qatar is enhancing energy efficiency in the oil and gas sector through an energy efficiency program that includes initiatives intended to be implemented by 2025 (including seasonal optimization of gas turbine generators and boilers, improved measurement/balancing for fuel gas/steam, and improved reliability of heat recovery steam generators).": 0,
+    "Qatar commissioned a CO2 recovery and sequestration facility at Ras Laffan in 2019 with a design capacity of 2.2 MTPA of CO2 capture and storage.": 0,
+    "Qatar introduced its first 800 MW solar power plant, which is expected to be operational soon, and aims to expand such efforts to make renewable energy a key driver for ecological and commercial benefits.": 0,
+    "Qatar is deploying energy efficiency measures including district cooling and systematic energy labeling for electronic devices, and has implemented specification improvement standards for equipment such as air conditioners to reduce electricity consumption.": 0,
+    "Qatar has an initiative to phase out incandescent lamps and adopt energy-efficient lighting.": 0,
+    "Qatar has committed to electrify its public transport system and is investing in installing charging infrastructure across the country.": 0,
+    "Qatar will gradually adopt Euro 6 emission standards for vehicles and promote a shift toward electric vehicles for private use to reduce transport emissions.": 0,
+    "Qatar is transforming building standards by adopting the Global Sustainability Assessment System (GSAS) standards to facilitate transition toward green buildings.": 0,
+    "Qatar plans to promote decentralized renewable energy production and use in buildings while making building energy consumption more efficient.": 0,
+    "Qatar is implementing recycling and re-using construction waste in the construction sector and plans to explore using environmentally friendly battery-powered generators for construction activities.": 0,
+    "Qatar has introduced a new and ambitious water conservation regulation and is implementing measures such as consumer awareness messages, retrofitting/replacing aerators in government facilities, and switching to treated sewage effluent (TSE) for irrigation in parks.": 0,
+    "As part of developing Qatar's Water Plan and Strategy, Qatar developed a National Water Policy; finalized a draft National Water Law and its executive by-law; and completed a draft law regulating groundwater well drilling.": 0,
+    "Qatar is restoring marine habitats (including growing mangrove trees) and planting indigenous trees in urban areas to increase carbon sequestration potential.": 0,
+    "Qatar has committed to formulating a comprehensive urban development plan and a sustainable urbanization and population distribution policy guided by National Vision 2030.": 0,
+    "Qatar has launched a national food security strategy focused on four pillars: enhancing international trade and logistics, increasing domestic self-sufficiency in niches, building strategic reserves, and enhancing domestic markets.": 0,
+    "Qatar plans to develop a hydroponics greenhouse cluster to reach 70% self-sufficiency in greenhouse vegetables and has launched multiple programs and subsidies for greenhouse production.": 0,
+    "Qatar plans to put in place adequate reserves (including perishables, selected non-perishables, potable water and groundwater reserves) to buffer against potential production disruptions.": 0,
+    "Qatar will design a National Measurement, Reporting and Verification (MRV) System, governed by the Ministry of Municipality and Environment Climate Change Department, to measure and validate progress toward NDC commitments using verified sector-specific MRV communications prepared by national stakeholders.": 0
+  }
+}

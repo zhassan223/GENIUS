@@ -21,9 +21,126 @@ import json
 import re
 from collections import defaultdict
 from difflib import SequenceMatcher
-from typing import List, Dict, Optional, Literal
+from typing import List, Dict, Optional, Literal, Tuple
 
 from pydantic import BaseModel, Field
+
+
+# =============================================================================
+# F2: SOURCE-GROUNDED LANGUAGE FILTER
+# =============================================================================
+#
+# Generated text fields (mechanism_description, causal_mechanism_detail,
+# key_indicators) must not use mandate-strength verbs unless those verbs
+# (or close lemma-family relatives) appear in the source verbatim text.
+#
+# The filter is deterministic and runs after every LM call. It:
+#   1. Detects banned verbs in the generated text.
+#   2. For each match, checks whether the same lemma stem appears in source.
+#   3. If yes — leaves it alone (the LM was grounded).
+#   4. If no — replaces the offender with a neutral verb and records the
+#      original token in a violations list.
+#
+# The prompt-side clause that asks the model not to invent these verbs is
+# below in MechanismExtractionSignature and PolicyEnrichmentSignature.
+
+_BANNED_LANGUAGE_VERBS = re.compile(
+    r"\b(mandat\w+|requir\w+|enforc\w+|compel\w+|oblig\w+)\b",
+    flags=re.IGNORECASE,
+)
+
+# A 5-character stem catches lemma siblings: "mandate"/"mandating"/"mandates"
+# all share "manda"; "require"/"required"/"requiring"/"requirement" share
+# "requi"; "enforce"/"enforces"/"enforcement" share "enfor"; "compel"/
+# "compelled"/"compelling" share "compe"; "oblige"/"obligation" share "oblig".
+_LANGUAGE_STEM_LEN = 5
+
+
+def _strip_unsupported_modal_verbs(
+    generated: Optional[str],
+    *source_texts: Optional[str],
+    replacement: str = "set",
+) -> Tuple[str, List[str]]:
+    """F2 post-filter.
+
+    Returns (cleaned_text, violations).
+    A violation is a banned verb that appeared in `generated` whose
+    lemma stem does not appear in any provided source text.
+
+    Examples:
+      generated="Mandating a shift to electric drivetrains"
+      source   ="By 2050, all motorised road transport will need to be BEV"
+      → ("set a shift to electric drivetrains", ["Mandating"])
+
+      generated="Require recycling of debris"
+      source   ="Require recycling of debris through the Construction ordinance"
+      → ("Require recycling of debris", [])      # source contains "Requi…"
+    """
+    if not generated:
+        return generated or "", []
+    src_blob = " ".join((s or "") for s in source_texts).lower()
+    violations: List[str] = []
+
+    def _replace(match: "re.Match[str]") -> str:
+        token = match.group(0)
+        stem = token[:_LANGUAGE_STEM_LEN].lower()
+        if stem in src_blob:
+            return token  # source justifies the verb; leave it
+        violations.append(token)
+        return replacement
+
+    cleaned = _BANNED_LANGUAGE_VERBS.sub(_replace, generated)
+    return cleaned, violations
+
+
+def apply_language_filter_to_record(record: dict) -> dict:
+    """Apply F2 to a stage-1 / stage-3 policy record dict in place.
+
+    Mutates `record` and returns it. Adds a `language_violations` key
+    containing the union of violations across all generated fields.
+
+    Safe to call on records that don't contain every field — missing
+    fields are simply skipped.
+    """
+    sources = (
+        record.get("verbatim_text", ""),
+        record.get("policy_statement", ""),
+    )
+    all_violations: List[str] = []
+
+    for field in (
+        "mechanism_description",
+        "causal_mechanism_detail",
+        "causal_pathway",
+        "primary_causal_pathway",
+        "key_indicators",
+    ):
+        val = record.get(field)
+        if not isinstance(val, str) or not val:
+            continue
+        cleaned, viols = _strip_unsupported_modal_verbs(val, *sources)
+        if viols:
+            record[field] = cleaned
+            all_violations.extend(viols)
+
+    # Preserve any existing violations (e.g. from a previous stage's pass).
+    prior = record.get("language_violations")
+    if isinstance(prior, list):
+        all_violations = list(dict.fromkeys(prior + all_violations))
+    record["language_violations"] = all_violations
+    return record
+
+
+def apply_language_filter_to_records(records: List[dict]) -> List[dict]:
+    """Vectorised wrapper for apply_language_filter_to_record().
+
+    Call ONCE after Stage 1 (so mechanism_description is filtered) and
+    AGAIN after Stage 3 enrichment (so key_indicators is filtered). The
+    function is idempotent — running it twice on a clean record is a no-op.
+    """
+    for r in records:
+        apply_language_filter_to_record(r)
+    return records
 
 
 # =============================================================================
@@ -906,6 +1023,33 @@ class MechanismExtractionSignature(dspy.Signature):
     - A policy that COMBINES benchmarking AND mandatory retuning in a single
       ordinance should be classified by its most direct intervention
       (building_performance_ordinance → energy_use_reduction).
+
+    ═══════════════════════════════════════════════════════════════════════
+    F2 — SOURCE-GROUNDED LANGUAGE RULE (applies to mechanism_description)
+    ═══════════════════════════════════════════════════════════════════════
+
+    Do NOT use the verbs `mandate`, `mandating`, `mandates`, `mandated`,
+    `mandatory`, `require`, `requires`, `requirement`, `requiring`,
+    `required`, `enforce`, `enforces`, `enforcement`, `compel`,
+    `compelled`, `compelling`, `oblige`, `obligation`, or `obligated` in
+    `mechanism_description` UNLESS that verb (or a member of the same
+    lemma family) actually appears in `verbatim_text`.
+
+    These verbs assert binding legal force. If the source document does
+    not assert binding force, do not invent it.
+
+    When the source uses softer language ("commits to", "will", "intends
+    to", "plans to", "supports", "expands", "implements", "develops"),
+    preserve that strength in your description. Acceptable substitutions
+    when the source is non-mandatory:
+
+        mandate / require → commit to, set a target of, plan to, will pursue
+        enforce          → implement, deliver, operationalize
+
+    A deterministic post-filter will rewrite any banned verb whose stem
+    does not appear in `verbatim_text`. To avoid that rewrite — which
+    flags the run for review — only use these verbs when the source
+    justifies them.
     """
 
     policy_statement: str = dspy.InputField(
@@ -1121,6 +1265,20 @@ class SecondaryTypologySignature(dspy.Signature):
     mechanism_description: str = dspy.InputField(
         desc="Plain-English causal mechanism description for context only."
     )
+    role: str = dspy.InputField(
+        desc=(
+            "Row role: individual, parent, or sub. Use only for hierarchy context "
+            "when assigning subtypes; do not override explicit row evidence."
+        ),
+        default="individual",
+    )
+    parent_statement: str = dspy.InputField(
+        desc=(
+            "When role is sub, the parent policy statement for hierarchy context; "
+            "otherwise leave empty. Context only."
+        ),
+        default="",
+    )
     location_vulnerability_context: str = dspy.InputField(
         desc=(
             "Location vulnerability context for disambiguation only. "
@@ -1272,6 +1430,20 @@ class PolicyEnrichmentSignature(dspy.Signature):
                        would exist entirely without climate concerns.
 
     {EDGE_CASES_REFERENCE}
+
+    ==================================================================================
+    F2 — SOURCE-GROUNDED LANGUAGE RULE (applies to key_indicators)
+    ==================================================================================
+
+    `key_indicators` is meant to QUOTE specific words/phrases from the
+    source text. Do NOT paraphrase using mandate-strength verbs unless
+    those verbs (mandate / require / enforce / compel / oblige and their
+    morphological variants) actually appear in `verbatim_text`.
+
+    If you need to characterize the policy in your own words, use neutral
+    language ("commits to", "sets a target of", "implements", "plans
+    to"). A deterministic post-filter rewrites violations and flags the
+    run for review.
     """
 
     # ---- Inputs ----
@@ -1508,14 +1680,20 @@ class ConsistentPolicyClassifier(dspy.Module):
         canonical_mechanism: str,
         mechanism_description: str,
         location_vulnerability_context: str = "No vulnerability context provided",
+        role: Optional[str] = None,
+        parent_statement: Optional[str] = None,
     ) -> dict:
         """Assign and normalize the expert secondary subtype for one policy."""
+        _role = (role or "").strip() or "individual"
+        _parent = (parent_statement or "").strip()
         prediction = self.classify_secondary_typology(
             primary_category=primary_category,
             policy_statement=policy_statement,
             verbatim_text=verbatim_text,
             canonical_mechanism=canonical_mechanism,
             mechanism_description=mechanism_description,
+            role=_role,
+            parent_statement=_parent,
             location_vulnerability_context=location_vulnerability_context,
         )
 
@@ -1542,6 +1720,24 @@ class ConsistentPolicyClassifier(dspy.Module):
             evidence_quote = "None"
             confidence = min(confidence, 0.84)
 
+        # F4: secondary-evidence gate. Demote when the evidence quote isn't
+        # substring-grounded in source OR doesn't contain the per-subtype
+        # required token groups.
+        gate_demoted_reason: Optional[str] = None
+        if code != "None":
+            from .category_gates import secondary_passes_gate as _f4_gate
+            ok, reason = _f4_gate(
+                code,
+                evidence_quote,
+                policy_statement=policy_statement,
+                verbatim_text=verbatim_text,
+            )
+            if not ok:
+                code = "None"
+                evidence_quote = "None"
+                confidence = 0.0
+                gate_demoted_reason = reason
+
         if code == "None":
             evidence_quote = "None"
             confidence = 0.0
@@ -1551,6 +1747,7 @@ class ConsistentPolicyClassifier(dspy.Module):
             "typology_confidence": confidence,
             "typology_evidence_quote": evidence_quote,
             "secondary_categories": secondary_category_for_typology(code),
+            "gate_demoted_reason": gate_demoted_reason,
             "classification_schema_version": CLASSIFICATION_SCHEMA_VERSION,
             "secondary_profile": SECONDARY_PROFILE,
         }
@@ -1688,6 +1885,14 @@ class ConsistentPolicyClassifier(dspy.Module):
             and not _mechanism_forces_exclusion(canonical_mechanism)
         ):
             climate_screen = "explicit_self"
+
+        # F1 (financial-instrument half): one-direction override. If the LM
+        # said 'yes' but no FI keyword appears in policy_statement /
+        # verbatim_text, downgrade to 'no'. Never upgrades.
+        if is_financial == "yes":
+            from .category_gates import is_financial_instrument_in_source as _f1_fi
+            if not _f1_fi(policy_statement, verbatim_text):
+                is_financial = "no"
 
         return {
             "climate_screen": climate_screen,

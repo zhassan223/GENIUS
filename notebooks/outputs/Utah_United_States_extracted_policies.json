@@ -1,0 +1,272 @@
+[
+  {
+    "policy_statement": "Adopt and implement the Climate Positive 2040 plan to reduce carbon pollution and build resiliency, including pursuing long-term climate and energy goals through transformational system-level changes.",
+    "verbatim_text": "Climate Positive 2040 highlights the transformational changes needed for Salt Lake City to reach long-term climate and energy goals. This plan represents a holistic approach for Salt Lake City government, businesses and households to reduce carbon pollution and build resiliency to impacts and vulnerabilities in a warming world.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Climate Positive 2040",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Named city plan describing a coordinated set of actions across sectors; serves as an umbrella for multiple specific targets and initiatives described in later sections."
+  },
+  {
+    "policy_statement": "Ensure renewable energy provides 100% of Salt Lake City community electricity needs by 2032.",
+    "verbatim_text": "Salt Lake City is working to ensure that renewable energy provides 100% of community electricity needs by 2032.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "RENEWABLE ENERGY",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified target with deadline (100% renewable electricity by 2032)."
+  },
+  {
+    "policy_statement": "Implement the Joint Clean Energy Cooperation Statement with Rocky Mountain Power to work together in good faith on energy goals including energy efficiency, EV infrastructure, smart grid investments, and pathways to net-100% renewable energy.",
+    "verbatim_text": "Salt Lake City Mayor Jackie Biskupski and Rocky Mountain Power CEO Cindy Crane signed a Joint Clean Energy Cooperation Statement in August 2016 that details a vision to work together in good faith on energy goals. Energy efficiency, electric vehicle infrastructure, smart grid investments and pathways to net-100% renewable energy are all part of the vision.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "RENEWABLE ENERGY",
+    "sector": "Energy",
+    "extraction_rationale": "Formal cooperation statement describing specific intervention areas (efficiency, EV infrastructure, smart grid, pathways to net-100% renewables)."
+  },
+  {
+    "policy_statement": "Commission a third-party renewable energy feasibility study with Summit County and Park City on pathways to 100% renewable energy for each community, to be published in early 2017.",
+    "verbatim_text": "The City partnered with Summit County and Park City to commission a third-party study on pathways to 100% renewable energy for each individual community. This study will be published in early 2017 and help inform ongoing priorities and investments.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "RENEWABLE ENERGY",
+    "sector": "Energy",
+    "extraction_rationale": "Specific planned intervention with a stated deliverable and timeline (publish early 2017)."
+  },
+  {
+    "policy_statement": "Release and implement Salt Lake City's Transit Master Plan (2016) and continue collaborating with Utah Transit Authority on enhanced transit service options, including affordability initiatives such as the discounted Hive Pass.",
+    "verbatim_text": "The City released its first Transit Master Plan in 2016 and continues to collaborate with Utah Transit Authority (UTA) on enhanced service options. Affordability is also crucial and served as a catalyst for the discounted transit Hive Pass for City residents.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "CLEAN TRANSPORTATION",
+    "sector": "Transport",
+    "extraction_rationale": "Specific plan (Transit Master Plan) and ongoing collaboration plus a named affordability program (Hive Pass)."
+  },
+  {
+    "policy_statement": "Develop plans and invest in infrastructure to support active, zero-emissions transportation options such as walking and biking.",
+    "verbatim_text": "The Salt Lake City Transportation Division has developed plans and invested in infrastructure to support active, zero-emissions transportation options such as walking and biking.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "CLEAN TRANSPORTATION",
+    "sector": "Transport",
+    "extraction_rationale": "Concrete intervention (plans and infrastructure investment) aimed at active transportation."
+  },
+  {
+    "policy_statement": "Invest in public EV charging infrastructure and collaborate on programs to offer discounted EVs to residents, and prioritize related initiatives and broader policy measures going forward.",
+    "verbatim_text": "The City has invested in public EV charging infrastructure and collaborated on programs to offer discounted EVs to residents. Work on related initiatives, plus broader policy measures, will remain a priority for Salt Lake City going forward.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "CLEAN TRANSPORTATION",
+    "sector": "Transport",
+    "extraction_rationale": "Specific interventions (EV charging investment, discounted EV programs) and stated ongoing priority."
+  },
+  {
+    "policy_statement": "Implement Project Skyline to accelerate investment in energy efficiency and raise awareness of energy performance among the largest commercial facilities, encouraging owners to evaluate energy use, set goals, and implement cost-effective improvements.",
+    "verbatim_text": "Project Skyline accelerates investment in energy efficiency and raises public awareness of building energy performance among the largest commercial facilities in Salt Lake City. Building owners across the City are encouraged to pursue energy-saving targets by evaluating building energy use, setting energy savings goals and implementing cost-effective improvement projects.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Project Skyline",
+    "sector": "Buildings",
+    "extraction_rationale": "Named initiative with specific actions directed at commercial building performance (benchmarking/evaluation, goal-setting, improvements)."
+  },
+  {
+    "policy_statement": "Continue encouraging adoption of updated, increasingly efficient state-level energy codes for new construction in Utah.",
+    "verbatim_text": "Salt Lake City will continue to encourage the adoption of updated, increasingly efficient energy codes that support a responsible built environment statewide.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "High-Performance New Construction",
+    "sector": "Buildings",
+    "extraction_rationale": "Explicit ongoing government action commitment related to strengthening energy codes."
+  },
+  {
+    "policy_statement": "Prioritize energy benchmarking and tune-ups for commercial buildings using a combination of policy, incentives, and educational resources, and provide guides for home improvements to improve residential efficiency.",
+    "verbatim_text": "Salt Lake City prioritizes energy benchmarking and tune-ups for commercial buildings through a combination of policy, incentives, and educational resources. The City also provides guides for home improvements, including details on thermostat controls, home insulation and efficient appliances, to help move residential buildings toward a cleaner energy future.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Area Sources",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific interventions (benchmarking, tune-ups, home improvement guides) described as city priorities/actions."
+  },
+  {
+    "policy_statement": "Sponsor the annual Clear the Air Challenge to reduce mobile-source emissions.",
+    "verbatim_text": "the City sponsors an annual Clear the Air Challenge. The program has reduced over 3,600 tons of carbon emissions since its inception in 2006.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Transportation",
+    "sector": "Transport",
+    "extraction_rationale": "Named, ongoing city-sponsored program with quantified emissions reductions (evidence of programmatic action)."
+  },
+  {
+    "policy_statement": "Enforce an idle-free ordinance to limit vehicle idling within Salt Lake City boundaries (adopted in 2011).",
+    "verbatim_text": "In 2011, the City adopted an idle-free ordiance to limit vehicle idling within Salt Lake City boundaries.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Transportation",
+    "sector": "Transport",
+    "extraction_rationale": "Binding mechanism (ordinance) with clear regulatory intent."
+  },
+  {
+    "policy_statement": "Implement and support investments in local and sustainable food initiatives through the Salt Lake City Food Policy Task Force programs, including Culinary Incubator Kitchen, Dining with Discretion, Excess SLC Food Recovery, Green City Growers, and Salt Lake City FruitShare.",
+    "verbatim_text": "They work with the City to identify opportunities to increase access to fresh and nutritious food for all City residents:\n\nCulinary Incubator Kitchen gives food businesses an advantage in the local marketplace by providing an affordable kitchen space for food prep as well as business marketing tools and resources.\n\nExcess SLC Food Recovery is a partnership between community organizations that diverts consumable food waste from the landfill to food assistance programs.\n\nGreen City Growers was created to expand community garden access for residents by making Cityowned/managed land available for development.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Investments in Local and Sustainable Food",
+    "sector": "AFOLU",
+    "extraction_rationale": "A named investment/program area with multiple distinct initiatives listed beneath it; appropriate as a parent policy capturing the grouped interventions."
+  },
+  {
+    "policy_statement": "Support the Culinary Incubator Kitchen by providing affordable kitchen space and business marketing tools/resources for food businesses.",
+    "verbatim_text": "Culinary Incubator Kitchen gives food businesses an advantage in the local marketplace by providing an affordable kitchen space for food prep as well as business marketing tools and resources.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement and support investments in local and sustainable food initiatives through the Salt Lake City Food Policy Task Force programs, including Culinary Incubator Kitchen, Dining with Discretion, Excess SLC Food Recovery, Green City Growers, and Salt Lake City FruitShare.",
+    "section_header": "Investments in Local and Sustainable Food",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific named initiative listed under the food investments program."
+  },
+  {
+    "policy_statement": "Run Dining with Discretion to provide resources that empower residents to make low carbon food choices.",
+    "verbatim_text": "Dining with Discretion\n\nprovides resources to empower residents to make low carbon food choices.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement and support investments in local and sustainable food initiatives through the Salt Lake City Food Policy Task Force programs, including Culinary Incubator Kitchen, Dining with Discretion, Excess SLC Food Recovery, Green City Growers, and Salt Lake City FruitShare.",
+    "section_header": "Dining with Discretion",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific named program with a defined intervention (providing resources) under the food investments grouping."
+  },
+  {
+    "policy_statement": "Support Excess SLC Food Recovery to divert consumable food waste from landfill to food assistance programs.",
+    "verbatim_text": "Excess SLC Food Recovery\n\nis a partnership between community organizations that diverts consumable food waste from the landfill to food assistance programs.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement and support investments in local and sustainable food initiatives through the Salt Lake City Food Policy Task Force programs, including Culinary Incubator Kitchen, Dining with Discretion, Excess SLC Food Recovery, Green City Growers, and Salt Lake City FruitShare.",
+    "section_header": "Excess SLC Food Recovery",
+    "sector": "Waste",
+    "extraction_rationale": "Specific named partnership intervention to divert food waste; listed under the food investments program."
+  },
+  {
+    "policy_statement": "Implement Green City Growers to expand community garden access by making City-owned/managed land available for development.",
+    "verbatim_text": "Green City Growers\n\nwas created to expand community garden access for residents by making Cityowned/managed land available for development.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement and support investments in local and sustainable food initiatives through the Salt Lake City Food Policy Task Force programs, including Culinary Incubator Kitchen, Dining with Discretion, Excess SLC Food Recovery, Green City Growers, and Salt Lake City FruitShare.",
+    "section_header": "Green City Growers",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific named program with a concrete mechanism (making city land available)."
+  },
+  {
+    "policy_statement": "Implement Salt Lake City FruitShare to divert surplus fruit from local trees to individuals with low access to healthy foods.",
+    "verbatim_text": "Salt Lake City FruitShare\n\ndiverts surplus fruit from local trees to individuals with low access to healthy foods.",
+    "policy_type": "sub",
+    "parent_policy_name": "Implement and support investments in local and sustainable food initiatives through the Salt Lake City Food Policy Task Force programs, including Culinary Incubator Kitchen, Dining with Discretion, Excess SLC Food Recovery, Green City Growers, and Salt Lake City FruitShare.",
+    "section_header": "Salt Lake City FruitShare",
+    "sector": "AFOLU",
+    "extraction_rationale": "Specific named diversion program listed under the food investments program."
+  },
+  {
+    "policy_statement": "Adopt and implement Salt Lake City's Zero Waste Resolution, including goals of achieving zero waste by 2040 and diverting/recycling/composting 70% of the waste stream by 2025.",
+    "verbatim_text": "Salt Lake City's Zero Waste Resolution values what we typically throw away as resources that can be returned to the local economy. Through a joint resolution signed in 2011, the City set a goal of Zero Waste by 2040 and a goal of diverting, recycling or composting 70% of the waste stream by 2025.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "ZERO WASTE COMMUNITY",
+    "sector": "Waste",
+    "extraction_rationale": "Named resolution with quantified targets and multiple subsequent strategies/ordinances, functioning as an umbrella policy."
+  },
+  {
+    "policy_statement": "Establish fee structures for residential waste and recycling services that encourage waste reduction.",
+    "verbatim_text": "## Waste Reduction\n\nEstablish fee structures for residential waste and recycling services that encourage the reduction of waste.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement Salt Lake City's Zero Waste Resolution, including goals of achieving zero waste by 2040 and diverting/recycling/composting 70% of the waste stream by 2025.",
+    "section_header": "Waste Reduction",
+    "sector": "Waste",
+    "extraction_rationale": "Concrete policy instrument (fee structures) listed as a key strategy under the Zero Waste pathway."
+  },
+  {
+    "policy_statement": "Expand composting capability in the city to enable food waste diversion.",
+    "verbatim_text": "## Increased Recycling\n\nExpand composting capability in the city to enable food waste diversion.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement Salt Lake City's Zero Waste Resolution, including goals of achieving zero waste by 2040 and diverting/recycling/composting 70% of the waste stream by 2025.",
+    "section_header": "Increased Recycling",
+    "sector": "Waste",
+    "extraction_rationale": "Specific infrastructure/service expansion action listed under Zero Waste strategies."
+  },
+  {
+    "policy_statement": "Work with local and state partners to develop a long-term plan for regional materials management and explore recycling market development opportunities.",
+    "verbatim_text": "## Highest and Best Use\n\nWork with local and state partners to develop a long-term plan for regional materials management and explore recycling market development opportunities.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement Salt Lake City's Zero Waste Resolution, including goals of achieving zero waste by 2040 and diverting/recycling/composting 70% of the waste stream by 2025.",
+    "section_header": "Highest and Best Use",
+    "sector": "Waste",
+    "extraction_rationale": "Specified planning and partnership action listed as a key Zero Waste strategy."
+  },
+  {
+    "policy_statement": "Require recycling of debris for major construction and renovation projects permitted by the City through the Construction and Demolition Ordinance.",
+    "verbatim_text": "The Construction and Demolition Ordinance requires recycling of debris for major construction and renovation projects permitted by the City.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement Salt Lake City's Zero Waste Resolution, including goals of achieving zero waste by 2040 and diverting/recycling/composting 70% of the waste stream by 2025.",
+    "section_header": "ZERO WASTE COMMUNITY",
+    "sector": "Waste",
+    "extraction_rationale": "Binding mechanism (ordinance requirement) described as part of the city's zero waste actions."
+  },
+  {
+    "policy_statement": "Require multi-family properties, businesses, and special events to implement recycling programs beginning in 2017 through the Business Recycling Ordinance.",
+    "verbatim_text": "The Business Recycling Ordinance requires multi-family properties, businesses and special events to implement recycling programs beginning in 2017.",
+    "policy_type": "sub",
+    "parent_policy_name": "Adopt and implement Salt Lake City's Zero Waste Resolution, including goals of achieving zero waste by 2040 and diverting/recycling/composting 70% of the waste stream by 2025.",
+    "section_header": "ZERO WASTE COMMUNITY",
+    "sector": "Waste",
+    "extraction_rationale": "Binding ordinance with a clear implementation start date (beginning in 2017)."
+  },
+  {
+    "policy_statement": "Embed Climate Positive solutions in city government operations through a set of internal operational policies including comprehensive energy management, net zero construction, renewable energy development, and a clean vehicle fleet.",
+    "verbatim_text": "Salt Lake City leads by example by embedding Climate Positive solutions in its own internal government operations. The following are a few key examples:",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "CITY OPERATIONS",
+    "sector": "Cross-sector",
+    "extraction_rationale": "Introduces a grouped set of specific internal operational commitments listed as examples; suitable umbrella/parent."
+  },
+  {
+    "policy_statement": "Implement a Comprehensive Energy Management Executive Order requiring measures such as energy benchmarking, efficiency investments, facility operator training, and employee engagement to reduce energy waste and spur clean energy development.",
+    "verbatim_text": "The City adopted an Executive Order to enhance interdepartmental coordination, encourage energy waste reduction and spur the development of clean energy. This comprehensive Order requires measures such as energy benchmarking, efficiency investments, facility operator training and employee engagement.",
+    "policy_type": "sub",
+    "parent_policy_name": "Embed Climate Positive solutions in city government operations through a set of internal operational policies including comprehensive energy management, net zero construction, renewable energy development, and a clean vehicle fleet.",
+    "section_header": "Comprehensive Energy Management",
+    "sector": "Energy",
+    "extraction_rationale": "Binding mechanism (Executive Order) with specified required measures."
+  },
+  {
+    "policy_statement": "Require new Salt Lake City government facilities above 10,000 square feet (with certain exceptions) to be constructed to Net Zero Energy standards and include onsite and/or offsite renewables to offset anticipated annual carbon emissions.",
+    "verbatim_text": "New Salt Lake City government facilities above 10,000 square feet, with the exception of certain use types, must be constructed to Net Zero Energy standards. These projects must include onsite and/or offsite renewable energy projects that offset the anticipated annual carbon emissions of the facility.",
+    "policy_type": "sub",
+    "parent_policy_name": "Embed Climate Positive solutions in city government operations through a set of internal operational policies including comprehensive energy management, net zero construction, renewable energy development, and a clean vehicle fleet.",
+    "section_header": "Net Zero Construction",
+    "sector": "Buildings",
+    "extraction_rationale": "Mandatory requirement (“must”) with a clear applicability threshold (>10,000 sq ft) and specified compliance mechanism (renewables to offset emissions)."
+  },
+  {
+    "policy_statement": "Install renewable energy generation on at least 16 separate government properties by end of 2017, obtain the equivalent of three megawatts of solar via Rocky Mountain Power Subscriber Solar, and achieve 50% renewable electricity for government operations by 2020.",
+    "verbatim_text": "By the end of 2017, Salt Lake City will have at least 16 separate government properties that include renewable energy generation. The City has also enrolled in the Rocky Mountain Power 'Subscriber Solar' program and will receive the equivalent of three megawatts of solar power through this initiative. Salt Lake City is committed to achieving 50% renewable electricity for its government operations by 2020.",
+    "policy_type": "sub",
+    "parent_policy_name": "Embed Climate Positive solutions in city government operations through a set of internal operational policies including comprehensive energy management, net zero construction, renewable energy development, and a clean vehicle fleet.",
+    "section_header": "Renewable Energy Development",
+    "sector": "Energy",
+    "extraction_rationale": "Multiple quantified targets with deadlines and a specified procurement mechanism (Subscriber Solar 3 MW equivalent)."
+  },
+  {
+    "policy_statement": "Develop and implement Tailpipe Emissions Reduction Plans to guide fleet investments and operations, and expand/maintain a city fleet that included over 130 hybrid-electric or all-electric vehicles (as of end of 2016).",
+    "verbatim_text": "Numerous departments and divisions at the City have developed Tailpipe Emissions Reduction Plans to inform their investments and operations. Over 130 hybrid-electric or all-electric vehicles were included in the City fleet at the end of 2016.",
+    "policy_type": "sub",
+    "parent_policy_name": "Embed Climate Positive solutions in city government operations through a set of internal operational policies including comprehensive energy management, net zero construction, renewable energy development, and a clean vehicle fleet.",
+    "section_header": "Clean Vehicle Fleet",
+    "sector": "Transport",
+    "extraction_rationale": "Concrete operational policy approach (formal plans guiding investments) with evidence of implementation scale (over 130 hybrid/all-electric vehicles)."
+  },
+  {
+    "policy_statement": "Offer the Hive Pass program providing a 50% discounted public transit pass for Salt Lake City residents across regular buses, TRAX, and the S-Line Streetcar.",
+    "verbatim_text": "The Hive Pass offers a 50% discount to Salt Lake City residents and covers use on regular buses, TRAX, and the S-Line Streetcar.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Transportation",
+    "sector": "Transport",
+    "extraction_rationale": "Named city program with a quantifiable benefit (50% discount) and defined coverage."
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "policy_statement": "Adopt and implement Climate Action Plan 2030 as a City-wide policy document with approximately 150 measures across five transition areas to achieve the Environment Programme 2030 climate goals.",
+    "verbatim_text": "The Climate Action Plan 2030 describes concrete measures to achieve them. This Climate Action Plan includes approximately 150 measures in five areas of transition.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Leading the world in a just climate transition",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "City-wide plan adoption and implementation framing with defined measure set and scope; constitutes an actionable policy instrument."
+  },
+  {
+    "policy_statement": "Limit emissions within Stockholm’s geographical area to a maximum of 0.6 tonnes CO2e per resident by 2030 and ensure negative emissions are greater than remaining emissions, as part of being climate-positive by 2030 and fossil-free by 2040.",
+    "verbatim_text": "Milestone 2.1 A Stockholm that is climate-positive by 2030and fossil-freeby2040\narea shall not exceed 0.6 tonnes carbon dioxide equivalents (CO 2 e) per resident. Negative emissions must be greater than the remaining emissions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Climate goals in Environment Programme2030",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Quantified target with deadline and defined condition on negative emissions."
+  },
+  {
+    "policy_statement": "Reduce transport-sector emissions within Stockholm’s geographical area by 80% by 2030 compared with 2010.",
+    "verbatim_text": "Milestone 2.2 Reduced climate impact from the transport sector\narea shall be reduced by 80% by 2030 (compared with 2010).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Climate goals in Environment Programme2030",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified reduction target with baseline year and deadline."
+  },
+  {
+    "policy_statement": "Halve consumption-based greenhouse gas emissions in Stockholm by 2030 compared with 2019 (from 10.7 to 5.4 tonnes CO2e per resident).",
+    "verbatim_text": "Milestone 2.4 Ahalving of emissions from consumption\nConsumption-based greenhouse gas emissions in Stockholm shall be halved by 2030 compared with 2019.\n\nAccording to the City's milestone 2.4, A halving of emissions from consumption, these emissions must be halved to 5.4 tonnes per resident by 2030.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Climate impact from consumption a different perspective",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Quantified target with baseline and per-capita numeric endpoint."
+  },
+  {
+    "policy_statement": "Establish a local emissions budget for Stockholm for 2024–2040 with a maximum of 9 million tonnes CO2e emitted over the period to complement Milestone 2.1.",
+    "verbatim_text": "This action plan defines a local emissions budget for Stockholm as a complement to milestone 2.1 A Stockholm that is climate-positive by 2030 and fossil-free by 2040 .\nStockholm's emissions budget 2024-2040 states that a maximum of 9 million tonnes CO2e may be emitted for the period 2024-2040.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Emission budget sets the pace in reducing emissions",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Quantified carbon budget over a defined period; explicit policy instrument."
+  },
+  {
+    "policy_statement": "Reduce car traffic by 30% by 2030 from the 2017 level.",
+    "verbatim_text": "By 2030, the City aims to reduce car traffic by 30% from the 2017 level, which requires strong measures.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3. Encourage sustainable, fossil-free transport",
+    "sector": "Transport",
+    "extraction_rationale": "Clear quantified target with baseline year and deadline."
+  },
+  {
+    "policy_statement": "Install and commission a bio-CCS (BECCS) plant in Stockholm to enable capture and permanent storage of 800,000 tonnes of carbon dioxide annually (commissioning planned for 2027).",
+    "verbatim_text": "Building and commissioning a bio-CCS plant in Stockholm will enable 800,000 tonnes of carbon dioxide to be captured and stored annually.\n\nNegative emissions in the emissions budget assume that a bioCCS/BECCS plant in connection with the biofuel-fired CHP KVV8 at the Värtaverket plant will be built and taken into operation in 2027.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2. Develop a climate-positive energy system",
+    "sector": "Energy",
+    "extraction_rationale": "Specific infrastructure intervention with quantified annual capture and an operational start-year assumption."
+  },
+  {
+    "policy_statement": "Cease all firing using fossil oil by 2025.",
+    "verbatim_text": "All firing using fossil oil must have ceased by 2025.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2. Develop a climate-positive energy system",
+    "sector": "Energy",
+    "extraction_rationale": "Clear phase-out requirement with a deadline."
+  },
+  {
+    "policy_statement": "Cease incineration of fossil plastics in district heating by 2040, with the aim to phase it out as soon as possible through increased sorting and recycling of plastics.",
+    "verbatim_text": "Through increased sorting and recycling of plastics, the aim is to phase out the incineration of fossil plastics in district heating as soon as possible, with the goal of ceasing by 2040.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2. Develop a climate-positive energy system",
+    "sector": "Waste",
+    "extraction_rationale": "Explicit phase-out goal with an end-date and mechanism direction (sorting/recycling)."
+  },
+  {
+    "policy_statement": "Reduce the City’s relative energy use by 10% by 2026 (compared with 2022), as a first step toward more efficient energy use.",
+    "verbatim_text": "In addition to making the transition to renewable energy, energy needs to be used more efficiently. In a first step, the City aims to reduce its relative energy use by 10% by 2026. 14",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2. Develop a climate-positive energy system",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified energy-efficiency target with deadline."
+  },
+  {
+    "policy_statement": "Build 140,000 homes with associated community services by 2035 while reducing emissions from the construction and civil engineering sector by 2030 and ultimately achieving climate-neutrality.",
+    "verbatim_text": "The City aims to build 140,000 homes with associated community services by 2035. At the same time, emissions from the construction and civil engineering sector are significant and need to be reduced by 2030, and eventually to be climate-neutral.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4. Plan, build and develop the city in a circular and sustainable way",
+    "sector": "Buildings",
+    "extraction_rationale": "Contains a quantified housing delivery target and a stated emissions-reduction requirement for the sector with a timeframe."
+  },
+  {
+    "policy_statement": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "verbatim_text": "This section summarises a large number of measures, with councils, committees and executive boards designated to assume responsibility for helping to achieve the climate goals by 2030.\nThe following tables list approximately 150 measures divided into the five transition areas. ... New measures will be gradually generated within the five transition areas.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Tables presenting measures in the transition areas",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Introduces a named, structured set of measures with responsible entities and ongoing development; serves as an umbrella for many specific sub-measures."
+  },
+  {
+    "policy_statement": "Develop a City-wide forum to coordinate applications for external financial support (2024–2030).",
+    "verbatim_text": "0.2 Develop a City-wide forum for the coordination of applications for external financial support.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Tables presenting measures in the transition areas",
+    "sector": "Finance",
+    "extraction_rationale": "Specific institutional intervention with implementation period in the measures table."
+  },
+  {
+    "policy_statement": "Develop work with digital tools in the climate transition including IoT and AI, as well as data management, structuring and visualisation (2024–2030).",
+    "verbatim_text": "0.3 Develop work with digital tools in the climate transition including IoT and AI, as well as data management, structuring and visualisation.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Tables presenting measures in the transition areas",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Concrete enabling measure specifying technologies and timeframe."
+  },
+  {
+    "policy_statement": "Develop labour market and education initiatives to meet the climate transition’s skills supply needs (2024–2030).",
+    "verbatim_text": "1.3 Develop labour market and education initiatives with a focus on meeting the skills supply needs required by the climate transition.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 1: Work to achieve a just, inclusive climate transition",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Specific programmatic initiative (skills supply) with duration indicated in the measures table."
+  },
+  {
+    "policy_statement": "Develop local arenas for collaboration where municipality, business and civil society collaborate to improve health and reduce climate impact (2024–2030).",
+    "verbatim_text": "1.6 Develop local arenas for collaboration, where the municipality, business and civil society collaborate to improve health and reduce climate impact.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 1: Work to achieve a just, inclusive climate transition",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Specified intervention (local collaboration arenas) with timeframe."
+  },
+  {
+    "policy_statement": "Create extended opportunities for Stockholmers to rent, repair, exchange, share, borrow or give instead of buying new (2024–2026).",
+    "verbatim_text": "1.9 Create extended opportunities for Stockholmers to rent, repair, exchange, share, borrow or give instead of buying new.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 1: Work to achieve a just, inclusive climate transition",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Concrete consumption-reduction intervention (sharing/repair) with defined implementation period."
+  },
+  {
+    "policy_statement": "Collaborate with civil society and business to reduce plastics use and increase reuse and recycling of plastics (2024–2030).",
+    "verbatim_text": "1.13 Collaborate with civil society and business to reduce the use of plastics and increase the reuse and recycling of plastics.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 1: Work to achieve a just, inclusive climate transition",
+    "sector": "Waste",
+    "extraction_rationale": "Specific collaboration action targeting plastics with timeframe."
+  },
+  {
+    "policy_statement": "Strive to strengthen the electricity grid in Stockholm where expansion is needed and coordinate planning between grid companies and the City (2024–2030).",
+    "verbatim_text": "2.1 Strive to strengthen the electricity grid in Stockholm where there is a need for expansion, and coordinate planning between electricity grid companies and the City.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 2 measures: Electricity grid and electricity generation",
+    "sector": "Energy",
+    "extraction_rationale": "Specific infrastructure/planning action with stated timeframe."
+  },
+  {
+    "policy_statement": "Install solar panels on existing and new City-managed buildings based on a cost-efficiency principle (2024–2030).",
+    "verbatim_text": "2.2 Installation of solar panels based on a cost- efficiency principle on existing and new buildings managed by the City of Stockholm.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 2 measures: Electricity grid and electricity generation",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete renewable generation deployment measure with duration."
+  },
+  {
+    "policy_statement": "Commission the RUS (Resource Extraction Stockholm) facility in Högdalen for sorting food waste, plastic and metal (2024).",
+    "verbatim_text": "2.6 Commissioning of RUS facility (RUS stands for Resource Extraction Stockholm) for the sorting of food waste, plastic and metal in Högdalen.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 2 measures: District heating and waste management",
+    "sector": "Waste",
+    "extraction_rationale": "Specific facility commissioning with location and year."
+  },
+  {
+    "policy_statement": "Build and commission a bio-CCS (BECCS) plant in Värtan (2027).",
+    "verbatim_text": "2.10 Build and commission bio-CCS (Bio Energy Carbon Capture and Storage, BECCS) plant in Värtan.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 2 measures: Carbon capture and storage",
+    "sector": "Energy",
+    "extraction_rationale": "Specific capital project with commissioning year and named technology."
+  },
+  {
+    "policy_statement": "Investigate CCS/CCU from energy recovery through waste incineration and, if necessary and appropriate, introduce CCS/CCU in collaboration with other municipalities (2024–2030).",
+    "verbatim_text": "2.12b Investigate the introduction of CCS/CCU from energy recovery through waste incineration. If necessary and appropriate, CCS/CCU is to be introduced in collaboration with other municipalities.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 2 measures: Carbon capture and storage",
+    "sector": "Waste",
+    "extraction_rationale": "Conditional but explicit commitment to investigate and potentially implement CCS/CCU with timeframe."
+  },
+  {
+    "policy_statement": "Strive to reduce relative energy use in existing buildings and facilities by 10% during 2023–2026.",
+    "verbatim_text": "2.17b Strive to reduce relative energy use in existing buildings and facilities by 10% in the period 2023 2026.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 2 measures: Energy use within the City's organisation",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified efficiency target with specified period."
+  },
+  {
+    "policy_statement": "Build adequate and appropriate charging infrastructure throughout the City, including coordinating planned infrastructure for equal access (2024–2030).",
+    "verbatim_text": "3.6a Coordinate planned charging infrastructure for equal access, in accordance with quantified goals.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 3 measures: Increased electrification of road transport",
+    "sector": "Transport",
+    "extraction_rationale": "Concrete implementation measure for charging rollout with timeframe."
+  },
+  {
+    "policy_statement": "Implement Class 3 Clean Air Zone in Stockholm (2024–2030).",
+    "verbatim_text": "3.8 Implement Class 3 Clean Air Zone",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 3 measures: Increased electrification of road transport",
+    "sector": "Transport",
+    "extraction_rationale": "Regulatory intervention explicitly stated as implementation with duration."
+  },
+  {
+    "policy_statement": "Continue expansion of electrical connections for ships at quayside in Stockholm (shore power) (2024–2030).",
+    "verbatim_text": "3.19 Continued expansion of the electrical connections for ships at quayside Stockholm.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 3 measures: Shipping",
+    "sector": "Transport",
+    "extraction_rationale": "Specific infrastructure measure for maritime electrification with timeframe."
+  },
+  {
+    "policy_statement": "Develop and conduct climate analyses at different stages of the planning and development process, from comprehensive planning to detailed planning (2025–2030).",
+    "verbatim_text": "4.1 Develop and conduct climate analyses at the different stages of the planning and development process, from comprehensive planning to detailed planning.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 4 measures: Climate impact in the planning and development process",
+    "sector": "Buildings",
+    "extraction_rationale": "Concrete procedural requirement with timeframe to embed climate analysis in planning."
+  },
+  {
+    "policy_statement": "Enable resource-efficient use of the built environment by making it easier for builders to adapt existing buildings instead of demolition and new production (2024–2030).",
+    "verbatim_text": "4.2 Enable resource-efficient use of the built environment by making it easier for builders to adapt existing buildings instead of demolition and new production.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 4 measures: Climate impact in the planning and development process",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific intervention to prioritize retrofit/adaptation over demolition/new build with set duration."
+  },
+  {
+    "policy_statement": "Conduct climate analysis when designing construction and civil engineering projects and identify and implement measures to reduce emissions (2024–2030).",
+    "verbatim_text": "4.7 Conduct a climate analysis when designing construction and civil engineering projects, and identify and implement measures to reduce emissions.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 4 measures: Construction and civil engineering projects",
+    "sector": "Buildings",
+    "extraction_rationale": "Concrete requirement embedded in project design with implementation period."
+  },
+  {
+    "policy_statement": "Specify requirements for limit values for climate impact from new production (A1–A5) in City construction, and where appropriate set stricter requirements (2024–2030).",
+    "verbatim_text": "4.9b Specify requirements for limit values for climate impact from new production (A1-A5), and where appropriate, try to set stricter",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 4 measures: Construction and civil engineering projects",
+    "sector": "Buildings",
+    "extraction_rationale": "Regulatory/procurement requirement specifying climate impact limit values with duration."
+  },
+  {
+    "policy_statement": "Conduct mapping and reporting of emissions from purchases to develop measures to halve emissions by 2030 (2024–2026).",
+    "verbatim_text": "5.2 from purchases, with the aim of developing measures to halve emissions by 2030.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 5 measures: Mapping of emissions for each council, committee and company",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Action to map/report procurement emissions explicitly tied to halving-by-2030 objective and timeframe."
+  },
+  {
+    "policy_statement": "Develop requirements and digital tools for reporting climate data from suppliers in connection with procurement (2024–2030).",
+    "verbatim_text": "5.6 Develop requirements and digital tools for reporting climate data from suppliers in connection with procurement.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 5 measures: General measures for the purchasing process",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Specific procurement-related intervention with defined duration."
+  },
+  {
+    "policy_statement": "Implement and establish systematic work to reduce the climate impact of food and meals in City operations (2024–2026).",
+    "verbatim_text": "5.11 Implement and establish systematic work to reduce the climate impact of food and meals in",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 5 measures: Food and meals purchased in the City's operations",
+    "sector": "Food",
+    "extraction_rationale": "Explicit implementation commitment with timeframe and quantified potential in the table (though not required for extractability)."
+  },
+  {
+    "policy_statement": "Implement measures to reduce food waste and follow up with annual measurement, with each operation reporting measures taken and evaluating effects (2024–2030).",
+    "verbatim_text": "5.12 Implement measures to reduce food waste, and follow up with annual measurement. Each operation reports the measures taken and evaluates their effects.",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 5 measures: Food and meals purchased in the City's operations",
+    "sector": "Food",
+    "extraction_rationale": "Concrete operational measure with monitoring requirement and duration."
+  },
+  {
+    "policy_statement": "Establish systematic work to reduce plastic consumables use and increase sorting of operational waste (including plastic packaging) in City operations (2024–2030).",
+    "verbatim_text": "5.15 Establish systematic work to reduce the use plastic consumables and increase the sorting of operational waste (including plastic packaging) in the",
+    "policy_type": "sub",
+    "parent_policy_name": "Tables presenting measures in the transition areas: implement and manage approximately 150 assigned measures (with designated responsible bodies) to achieve the climate goals by 2030, with new measures generated over time.",
+    "section_header": "Transition area 5 measures: Reduced use of plastics and increased recycling of plastics from the City of Stockholm's organisation",
+    "sector": "Waste",
+    "extraction_rationale": "Specific operational waste/plastics reduction measure with timeframe."
+  }
+]

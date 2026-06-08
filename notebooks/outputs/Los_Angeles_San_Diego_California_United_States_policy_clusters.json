@@ -1,0 +1,18 @@
+[
+  {
+    "cluster_id": 0,
+    "cluster_type": "individual",
+    "section_header": "effect on gas rates and bills",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "SoCalGas proposes increasing gas rates starting in 2009 to recover the program costs associated with its proposed Climate Action Initiative (Application A.07-08-031), subject to CPUC approval.",
+      "verbatim_text": "SoCalGas proposes that 2009 be the first year that rates are increased to recover program costs proposed in this application. ... If the Commission approves this request, a residential customer's average monthly bill of 46 therms per month of gas usage would increase by 9 cents per month, from $52.22 to $52.31.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "EFFECT ON GAS RATES AND BILLS",
+      "sector": "Energy",
+      "extraction_rationale": "This is an explicit proposed intervention with a defined timing (first year 2009) and mechanism (rate increase) to fund program costs, contingent on regulatory approval; it is more than background context."
+    }
+  }
+]

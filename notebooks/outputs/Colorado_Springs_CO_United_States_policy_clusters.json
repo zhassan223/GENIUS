@@ -1,0 +1,2048 @@
+[
+  {
+    "cluster_id": 0,
+    "cluster_type": "parent_with_subs",
+    "section_header": "goals and policies / provide parks, trees, and trails for the people / goal ml-1",
+    "parent": {
+      "policy_statement": "Ensure adequate and sustainable funding for parks, recreation, urban forest, and open space assets.",
+      "verbatim_text": "Policy ML-1.A: Ensure adequate and sustainable funding for parks, recreation, urban forest, and open space assets.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+      "sector": "AFOLU",
+      "extraction_rationale": "A formal policy statement committing to ensuring sustainable funding for parks/urban forest/open space; accompanied by multiple implementation strategies."
+    },
+    "subs": [
+      {
+        "policy_statement": "Establish coordinated, dedicated, permanent, and sustainable funding sources for parks/forestry/trails/streetscapes/open space acquisition, development, and ongoing maintenance.",
+        "verbatim_text": "Strategy ML-1.A-1: Establish coordinated, dedicated, permanent, and sustainable sources to adequately fund parks, forestry, trails, streetscape, and open space property acquisition, development, and ongoing maintenance.",
+        "policy_type": "sub",
+        "parent_policy_name": "Ensure adequate and sustainable funding for parks, recreation, urban forest, and open space assets.",
+        "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific intervention to create dedicated funding sources."
+      },
+      {
+        "policy_statement": "Consider increasing the TOPS (Trails Open Space and Parks) sales tax above the current 0.10 percent.",
+        "verbatim_text": "Strategy ML-1.A-2: Specifically consider an increase of the TOPS (Trails Open Space and Parks) sales tax from the current 0.10 percent.",
+        "policy_type": "sub",
+        "parent_policy_name": "Ensure adequate and sustainable funding for parks, recreation, urban forest, and open space assets.",
+        "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+        "sector": "Finance",
+        "extraction_rationale": "Explicit fiscal measure (tax rate change) to support funding."
+      },
+      {
+        "policy_statement": "Use partnerships, grants, private donations, and businesses to leverage revenue sources and fund priority parks, streetscape, open space, recreation, and trail projects.",
+        "verbatim_text": "Strategy ML-1.A-3: Use partnerships, grants, private donations, and businesses to leverage dedicated revenue sources and fund strategic parks, facility adoption programs, streetscape, open space, recreation, and trails priority projects.",
+        "policy_type": "sub",
+        "parent_policy_name": "Ensure adequate and sustainable funding for parks, recreation, urban forest, and open space assets.",
+        "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific implementation approach leveraging partnerships and financing."
+      },
+      {
+        "policy_statement": "Evaluate and implement fee-based and other revenue options for City parks and recreation facilities while retaining equitable access.",
+        "verbatim_text": "Strategy ML-1.A-4: Evaluate and implement additional opportunities for fee-based and other options to generate revenue from City parks and recreation facilities while retaining equitable access.",
+        "policy_type": "sub",
+        "parent_policy_name": "Ensure adequate and sustainable funding for parks, recreation, urban forest, and open space assets.",
+        "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+        "sector": "Finance",
+        "extraction_rationale": "Resource-allocation mechanism via fees; includes equity condition."
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "cluster_type": "parent_with_subs",
+    "section_header": "goals and policies / provide parks, trees, and trails for the people / goal ml-1",
+    "parent": {
+      "policy_statement": "Optimize sustainable on- and off-street access to Pike National Forest and other Natural Resources and Regional Recreation areas for all residents and visitors.",
+      "verbatim_text": "Policy ML-1.B: Optimize sustainable on and off-street access to Pike National Forest and other Natural Resources and Regional Recreation areas (Typology 3) for all residents and visitors.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+      "sector": "Transport",
+      "extraction_rationale": "Formal policy to optimize access; followed by multiple strategies specifying coordination and trail connectivity actions."
+    },
+    "subs": [
+      {
+        "policy_statement": "Coordinate physical planning with managers of regional parks and open space (county, state parks, U.S. Forest Service, military installations).",
+        "verbatim_text": "Strategy ML-1.B-1: Coordinate physical planning with managers of regional parks and open space in and around Colorado Springs, such as El Paso County, Colorado State Parks, the U.S. Forest Service, and military installations.",
+        "policy_type": "sub",
+        "parent_policy_name": "Optimize sustainable on- and off-street access to Pike National Forest and other Natural Resources and Regional Recreation areas for all residents and visitors.",
+        "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific coordination intervention to improve access and management."
+      },
+      {
+        "policy_statement": "Support completion of regional and interjurisdictional trail systems such as Ring the Peak.",
+        "verbatim_text": "Strategy ML-1.B-2: Support the completion of regional and interjurisdictional trail systems, such as Ring the Peak.",
+        "policy_type": "sub",
+        "parent_policy_name": "Optimize sustainable on- and off-street access to Pike National Forest and other Natural Resources and Regional Recreation areas for all residents and visitors.",
+        "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete infrastructure/system completion commitment."
+      },
+      {
+        "policy_statement": "Participate in changes to the vision and current plans for Pike National Forest to improve public access.",
+        "verbatim_text": "Strategy ML-1.B-3: Participate in changes to the vision and current plans for the Pike National Forest that leads to improved public access.",
+        "policy_type": "sub",
+        "parent_policy_name": "Optimize sustainable on- and off-street access to Pike National Forest and other Natural Resources and Regional Recreation areas for all residents and visitors.",
+        "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+        "sector": "AFOLU",
+        "extraction_rationale": "Commitment to participate in plan changes with defined objective (improved access)."
+      },
+      {
+        "policy_statement": "Establish off-street trail connectivity from Downtown and other key areas directly to Pike National Forest, including major trail heads.",
+        "verbatim_text": "Strategy ML-1.B-4: Establish off-street trail connectivity from Downtown and other key areas of the city directly to the Pike National Forest, including major trail heads.",
+        "policy_type": "sub",
+        "parent_policy_name": "Optimize sustainable on- and off-street access to Pike National Forest and other Natural Resources and Regional Recreation areas for all residents and visitors.",
+        "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+        "sector": "Transport",
+        "extraction_rationale": "Specific intervention: build/establish trail connectivity."
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "cluster_type": "parent_with_subs",
+    "section_header": "goals and policies / provide parks, trees, and trails for the people / goal ml-1",
+    "parent": {
+      "policy_statement": "Develop an inclusive and safe non-motorized system connecting the city and serving varied trail user needs.",
+      "verbatim_text": "Policy ML-1.C: Develop an inclusive and safe non-motorized system that connects the city and serves the varied needs of trail users including various age groups and ability levels.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+      "sector": "Transport",
+      "extraction_rationale": "Formal policy with a set of detailed strategies and quantitative access targets."
+    },
+    "subs": [
+      {
+        "policy_statement": "Establish, design, and implement connected trail/open space/park facilities within a maximum 10-minute walk or ½ mile from most homes and businesses.",
+        "verbatim_text": "Strategy ML-1.C-1: Establish, design, and implement a network of connected trail, open space, and park facilities within a maximum 10-minute walk or ½ mile distance from most homes and businesses.",
+        "policy_type": "sub",
+        "parent_policy_name": "Develop an inclusive and safe non-motorized system connecting the city and serving varied trail user needs.",
+        "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+        "sector": "Transport",
+        "extraction_rationale": "Quantifiable access target (10-minute/½ mile) plus implementation action."
+      },
+      {
+        "policy_statement": "Encourage installation and maintenance of trails with wayfinding to support pedestrian and bicycle connectivity to parks/open spaces and trail networks.",
+        "verbatim_text": "Strategy ML-1.C-2: Encourage installation and maintenance of trails with wayfinding to allow for pedestrian and bicycle-friendly connectivity to local parks, outdoor places, open spaces, and regional trail networks.",
+        "policy_type": "sub",
+        "parent_policy_name": "Develop an inclusive and safe non-motorized system connecting the city and serving varied trail user needs.",
+        "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+        "sector": "Transport",
+        "extraction_rationale": "Specific intervention: trails installation/maintenance and wayfinding."
+      },
+      {
+        "policy_statement": "Continue to meet ADA requirements through Universal Design approaches in trail design when feasible.",
+        "verbatim_text": "Strategy ML-1.C-3: Continue to meet the requirements and specifications of the Americans with Disabilities Act (ADA) through Universal Design approaches with trail design when feasible.",
+        "policy_type": "sub",
+        "parent_policy_name": "Develop an inclusive and safe non-motorized system connecting the city and serving varied trail user needs.",
+        "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+        "sector": "Transport",
+        "extraction_rationale": "Commitment tied to a binding mechanism (ADA compliance) and design approach."
+      },
+      {
+        "policy_statement": "Design, construct, and increase maintenance of trails to facilitate safe recreational and commuter use.",
+        "verbatim_text": "Strategy ML-1.C-4: Design, construct, and increase maintenance of trails to facilitate sustainable, appropriate, safe, and secure recreational and commuter usage.",
+        "policy_type": "sub",
+        "parent_policy_name": "Develop an inclusive and safe non-motorized system connecting the city and serving varied trail user needs.",
+        "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+        "sector": "Transport",
+        "extraction_rationale": "Specific infrastructure and O&M actions."
+      },
+      {
+        "policy_statement": "Ensure seamless connectivity within the trail system and between on- and off-street trails.",
+        "verbatim_text": "Strategy ML-1.C-5: Ensure seamless connectivity within the trail system and between on and off-street trails.",
+        "policy_type": "sub",
+        "parent_policy_name": "Develop an inclusive and safe non-motorized system connecting the city and serving varied trail user needs.",
+        "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+        "sector": "Transport",
+        "extraction_rationale": "Concrete system-integration action."
+      },
+      {
+        "policy_statement": "Close physical gaps and address challenging crossings within the existing and planned Tier 1 and Tier 2 trail system.",
+        "verbatim_text": "Strategy ML-1.C-6: Focus on closing physical gaps and addressing challenging crossings within the existing and planned Tier 1 and Tier 2 trail system.",
+        "policy_type": "sub",
+        "parent_policy_name": "Develop an inclusive and safe non-motorized system connecting the city and serving varied trail user needs.",
+        "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+        "sector": "Transport",
+        "extraction_rationale": "Specific intervention targeting network gaps/crossings."
+      },
+      {
+        "policy_statement": "Complete Ring the Springs, a 54-kilometer trail system connecting many of the city's parks and trails.",
+        "verbatim_text": "Strategy ML-1.C-7: Complete Ring the Springs, a 54-kilometer trails system that connects many of the city's parks and trails.",
+        "policy_type": "sub",
+        "parent_policy_name": "Develop an inclusive and safe non-motorized system connecting the city and serving varied trail user needs.",
+        "section_header": "GOALS AND POLICIES / PROVIDE PARKS, TREES, AND TRAILS FOR THE PEOPLE / GOAL ML-1",
+        "sector": "Transport",
+        "extraction_rationale": "Quantified infrastructure completion target (54 km)."
+      }
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "cluster_type": "parent_with_subs",
+    "section_header": "engage with our landscapes / goal ml-2",
+    "parent": {
+      "policy_statement": "Support a parks and recreation system providing safe, year-round access to facilities, programs, events, and services.",
+      "verbatim_text": "Policy ML-2.A: Support a parks and recreation system that provides safe, year-round access to facilities, programs, events, and services.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+      "sector": "AFOLU",
+      "extraction_rationale": "Formal policy with multiple specific strategies including investment, partnerships, and infrastructure improvements."
+    },
+    "subs": [
+      {
+        "policy_statement": "Invest public safety resources to ensure safe experiences in parks/open space and encourage use during hours of operation.",
+        "verbatim_text": "Strategy ML-2.A-1: Invest public safety resources necessary to allow a safe experience in the city's parks, recreation and open space system, and encourage use and activation of park facilities throughout their hours of operation.",
+        "policy_type": "sub",
+        "parent_policy_name": "Support a parks and recreation system providing safe, year-round access to facilities, programs, events, and services.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Resource allocation toward public safety for parks activation."
+      },
+      {
+        "policy_statement": "Develop local trails coalitions with landowners to build a destination hiking and mountain biking trail system.",
+        "verbatim_text": "Strategy ML-2.A-2: Develop local trails coalitions with regional, county, state, and federal landowners to build on a destination hiking and mountain biking trails system to attract tourism and serve local interests.",
+        "policy_type": "sub",
+        "parent_policy_name": "Support a parks and recreation system providing safe, year-round access to facilities, programs, events, and services.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "Transport",
+        "extraction_rationale": "Specific institutional action (coalitions) to develop trails system."
+      },
+      {
+        "policy_statement": "Establish criteria to encourage sustainable and low-impact events at parks.",
+        "verbatim_text": "Strategy ML-2.A-3: Establish criteria to encourage sustainable and low impact events at parks.",
+        "policy_type": "sub",
+        "parent_policy_name": "Support a parks and recreation system providing safe, year-round access to facilities, programs, events, and services.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Creation of criteria is a concrete governance/standards action."
+      },
+      {
+        "policy_statement": "Activate parks and trails with regularly occurring events (e.g., farmer's markets, food trucks, educational events, tours, cultural festivals).",
+        "verbatim_text": "Strategy ML-2.A-4: Activate spaces in parks and trails with regularly occurring events such as farmer's markets, food trucks, educational events, tours, and cultural festivals that build community and provide market opportunities.",
+        "policy_type": "sub",
+        "parent_policy_name": "Support a parks and recreation system providing safe, year-round access to facilities, programs, events, and services.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific intervention: recurring activation programming."
+      },
+      {
+        "policy_statement": "Invest in park infrastructure (restrooms, water fountains, picnic areas, benches, stages, utilities access, Wi‑Fi) to facilitate and expand service levels.",
+        "verbatim_text": "Strategy ML-2.A-5: Invest in infrastructure, such as restrooms, water fountains, picnic areas, benches, seating areas, stages for events, access to utilities, and Wi-Fi, in developed parks in order to facilitate and expand upon their level of service by event organizers and park users.",
+        "policy_type": "sub",
+        "parent_policy_name": "Support a parks and recreation system providing safe, year-round access to facilities, programs, events, and services.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Resource allocation to specific infrastructure improvements."
+      },
+      {
+        "policy_statement": "Improve and expand Park Department technology and online services to maximize accessibility and use of parks and recreation.",
+        "verbatim_text": "Strategy ML-2.A-6: Improve and expand upon technology and online services for the Park's Department in order to maximize accessibility and use of our parks and recreation system.",
+        "policy_type": "sub",
+        "parent_policy_name": "Support a parks and recreation system providing safe, year-round access to facilities, programs, events, and services.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Concrete service improvement intervention."
+      },
+      {
+        "policy_statement": "Support entrepreneurial partnerships with the City to enhance parks and recreation facilities/programs consistent with the Parks Master Plan and Majestic Landscapes vision.",
+        "verbatim_text": "Strategy ML-2.A-7: Support entrepreneurial partnerships with the City to provide enhanced parks and recreation facilities and programs consistent with the Parks Master Plan and this Majestic Landscapes vision.",
+        "policy_type": "sub",
+        "parent_policy_name": "Support a parks and recreation system providing safe, year-round access to facilities, programs, events, and services.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific partnership-based implementation action."
+      },
+      {
+        "policy_statement": "Implement interactive recreation and educational features in parks (e.g., climbing walls, splash pads, nature playgrounds, dog parks, community gardens).",
+        "verbatim_text": "Strategy ML-2.A-8: Implement interactive recreation and educational features within parks, such as climbing walls, splash pads, nature playgrounds, dog parks, and community gardens.",
+        "policy_type": "sub",
+        "parent_policy_name": "Support a parks and recreation system providing safe, year-round access to facilities, programs, events, and services.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific interventions listed; includes community gardens."
+      },
+      {
+        "policy_statement": "Invest in ancillary services (bike and car share and mass transit) to support sustainable access to parks.",
+        "verbatim_text": "Strategy ML-2.A-9: Invest in ancillary services such as bike and car share and mass transit to support sustainable access to parks.",
+        "policy_type": "sub",
+        "parent_policy_name": "Support a parks and recreation system providing safe, year-round access to facilities, programs, events, and services.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "Transport",
+        "extraction_rationale": "Resource allocation for sustainable mobility services."
+      },
+      {
+        "policy_statement": "Provide public education and online information about year-round parks and recreation opportunities to maximize use of available capacity.",
+        "verbatim_text": "Strategy ML-2.A-10: Provide public education and online information about year round parks and recreation opportunities and events in order to maximize the use of available capacity, especially for off season activities.",
+        "policy_type": "sub",
+        "parent_policy_name": "Support a parks and recreation system providing safe, year-round access to facilities, programs, events, and services.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific education/information service commitment."
+      }
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "cluster_type": "parent_with_subs",
+    "section_header": "engage with our landscapes / goal ml-2",
+    "parent": {
+      "policy_statement": "Market and regionally promote visitation of Sports and Active Recreation and Regional and Natural Recreation areas for increased economic development, tourism, and recreation participation.",
+      "verbatim_text": "Policy ML-2.B: Market and regionally promote visitation of the Sports and Active Recreation areas (Typology 2) and Regional and Natural Recreation areas (Typology 3) for increased economic development, tourism, and recreation participation.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+      "sector": "AFOLU",
+      "extraction_rationale": "Formal policy; includes multiple strategies (branding, partnerships, cameras, education)."
+    },
+    "subs": [
+      {
+        "policy_statement": "Celebrate the Olympic City USA brand by encouraging sports-related physical activity in parks, open spaces, and along trail systems.",
+        "verbatim_text": "Strategy ML-2.B-1: Celebrate the Olympic City USA brand in Colorado Springs by encouraging sports-related physical activity in parks, open spaces, and along trail systems.",
+        "policy_type": "sub",
+        "parent_policy_name": "Market and regionally promote visitation of Sports and Active Recreation and Regional and Natural Recreation areas for increased economic development, tourism, and recreation participation.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific programmatic action tied to branding and physical activity."
+      },
+      {
+        "policy_statement": "Partner with national sports governing bodies and sports teams/organizations to invest in new and redeveloped athletic facilities that complement the parks system and increase resident opportunities.",
+        "verbatim_text": "Strategy ML-2.B-2: Partner with national sports governing bodies and other professional and non-profit sports teams and organizations to invest in new and redeveloped athletic facilities. These facilities should complement and add value to our parks and recreation system, and increase opportunities for city residents.",
+        "policy_type": "sub",
+        "parent_policy_name": "Market and regionally promote visitation of Sports and Active Recreation and Regional and Natural Recreation areas for increased economic development, tourism, and recreation participation.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Investment commitment via partnerships for facility development/redevelopment."
+      },
+      {
+        "policy_statement": "Add video cameras to highlight views from parks and open space.",
+        "verbatim_text": "Strategy ML-2.B-3: Add video cameras to highlight views from parks and open space (much like traffic or weather cameras).",
+        "policy_type": "sub",
+        "parent_policy_name": "Market and regionally promote visitation of Sports and Active Recreation and Regional and Natural Recreation areas for increased economic development, tourism, and recreation participation.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific intervention to support marketing/visibility."
+      },
+      {
+        "policy_statement": "Educate citizens and visitors about cultural significance of public assets and encourage 'leave no trace' practices for natural resources and landscapes.",
+        "verbatim_text": "Strategy ML-2.B-4: Educate citizens and visitors about the cultural significance of our public assets and encourage 'leave no trace' practices for all natural resources and landscapes.",
+        "policy_type": "sub",
+        "parent_policy_name": "Market and regionally promote visitation of Sports and Active Recreation and Regional and Natural Recreation areas for increased economic development, tourism, and recreation participation.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Concrete education/behavior-change program action."
+      }
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "cluster_type": "parent_with_subs",
+    "section_header": "engage with our landscapes / goal ml-2",
+    "parent": {
+      "policy_statement": "Provide green infrastructure lands, facilities, and services tailored and aligned to the conditions and needs of all areas of the city.",
+      "verbatim_text": "Policy ML-2.C: Provide green infrastructure lands, facilities, and services that are tailored and aligned to meet the conditions and needs of all areas of the city.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+      "sector": "AFOLU",
+      "extraction_rationale": "Formal policy with multiple strategies including quantified access and development coordination."
+    },
+    "subs": [
+      {
+        "policy_statement": "Align City and new private development investments to provide park/open space/trail access within a 10-minute or ½ mile walk.",
+        "verbatim_text": "Strategy ML-2.C-1: Align City and new private development investments in parks, open space, and trails with a focus on providing access within a 10 minute or ½ mile walk for residents and business users.",
+        "policy_type": "sub",
+        "parent_policy_name": "Provide green infrastructure lands, facilities, and services tailored and aligned to the conditions and needs of all areas of the city.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Quantified access target tied to investment alignment."
+      },
+      {
+        "policy_statement": "Identify and support opportunities to increase the proportion of residents and businesses within a ¼ mile walk of parks, trails, open space, and publicly accessible outdoor amenities.",
+        "verbatim_text": "Strategy ML-2.C-2: While maintaining a city-wide focus on progress toward Strategy ML- 2.C-1, also identify and support opportunities to increase the proportion of community residents and businesses within a ¼ mile walking distance of parks, trails, open space and other publically accessible outdoor spaces and amenities.",
+        "policy_type": "sub",
+        "parent_policy_name": "Provide green infrastructure lands, facilities, and services tailored and aligned to the conditions and needs of all areas of the city.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Quantifiable proximity target (¼ mile) and explicit action to increase proportion."
+      },
+      {
+        "policy_statement": "Maximize opportunities for citywide, non-exclusive access to linear and linked open space systems with convenient non-motorized connections.",
+        "verbatim_text": "Strategy ML-2.C-3: Maximize opportunities for citywide and non-exclusive access to linear and linked open space systems with convenient non-motorized connection.",
+        "policy_type": "sub",
+        "parent_policy_name": "Provide green infrastructure lands, facilities, and services tailored and aligned to the conditions and needs of all areas of the city.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific access/connectivity intervention."
+      },
+      {
+        "policy_statement": "De-emphasize reliance on a single neighborhood-park size/program standard (e.g., 5 acres) in favor of diverse facility size/program options.",
+        "verbatim_text": "Strategy ML-2.C-4: De-emphasize reliance on a single standard for both the size and program for neighborhood parks (e.g. 5 acres) in favor of options for facilities of different sizes and programs.",
+        "policy_type": "sub",
+        "parent_policy_name": "Provide green infrastructure lands, facilities, and services tailored and aligned to the conditions and needs of all areas of the city.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Standards change commitment affecting park provision."
+      },
+      {
+        "policy_statement": "Coordinate with developers/private interests to construct and maintain pocket parks in higher density Unique Places.",
+        "verbatim_text": "Strategy ML-2.C-5: Coordinate with local developers and private interests to construct and maintain pocket parks with higher density Unique Places.",
+        "policy_type": "sub",
+        "parent_policy_name": "Provide green infrastructure lands, facilities, and services tailored and aligned to the conditions and needs of all areas of the city.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific partnership and construction/maintenance action."
+      },
+      {
+        "policy_statement": "Repurpose underserved areas with new parks and encourage creation or redevelopment of Neighborhood Greenspaces associated with neighborhood focal points and activity centers.",
+        "verbatim_text": "Strategy ML-2.C-6: Repurpose underserved areas with new parks and encourage creation or redevelopment of Neighborhood Greenspaces (Typology 1) associated with neighborhood focal points, unique places, and activity centers (also see Chapter 2: Vibrant Neighborhoods and Chapter 3: Unique Places).",
+        "policy_type": "sub",
+        "parent_policy_name": "Provide green infrastructure lands, facilities, and services tailored and aligned to the conditions and needs of all areas of the city.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific intervention targeted at underserved areas and greenspace redevelopment."
+      },
+      {
+        "policy_statement": "Encourage new development and redevelopment near existing parks and open spaces to increase public access and use.",
+        "verbatim_text": "Strategy ML-2.C-7: Encourage new development and redevelopment to occur near existing parks and open spaces to increase their access to and use by the public.",
+        "policy_type": "sub",
+        "parent_policy_name": "Provide green infrastructure lands, facilities, and services tailored and aligned to the conditions and needs of all areas of the city.",
+        "section_header": "ENGAGE WITH OUR LANDSCAPES / GOAL ML-2",
+        "sector": "AFOLU",
+        "extraction_rationale": "Land-use siting guidance intended to increase access/utilization."
+      }
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "cluster_type": "parent_with_subs",
+    "section_header": "complete our creeks / goal ml-3",
+    "parent": {
+      "policy_statement": "Utilize, maintain, and expand open space and natural areas along creeks for stormwater conveyance while meeting recreation, education, and transportation needs.",
+      "verbatim_text": "Policy ML-3.A: Utilize, maintain, and expand upon open space and natural areas along creeks to convey stormwater while meeting recreation, education, and transportation needs consistent with the Complete Creeks Typology 4b.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "COMPLETE OUR CREEKS / GOAL ML-3",
+      "sector": "Water",
+      "extraction_rationale": "Formal waterways/stormwater policy with multiple implementation strategies."
+    },
+    "subs": [
+      {
+        "policy_statement": "Design stormwater projects to incorporate recreation, education, and transportation uses when feasible.",
+        "verbatim_text": "Strategy ML-3.A-1: Design stormwater projects to incorporate recreation, education, and transportation uses and facilities when feasible.",
+        "policy_type": "sub",
+        "parent_policy_name": "Utilize, maintain, and expand open space and natural areas along creeks for stormwater conveyance while meeting recreation, education, and transportation needs.",
+        "section_header": "COMPLETE OUR CREEKS / GOAL ML-3",
+        "sector": "Water",
+        "extraction_rationale": "Specific design requirement for multipurpose stormwater projects."
+      },
+      {
+        "policy_statement": "Incorporate creeks and waterways as focal points for recreation, education, and off-street transportation within and near neighborhoods.",
+        "verbatim_text": "Strategy ML-3.A-2: Incorporate creeks and waterways as focal points for recreation, education, and off-street transportation, within and abutting neighborhoods.",
+        "policy_type": "sub",
+        "parent_policy_name": "Utilize, maintain, and expand open space and natural areas along creeks for stormwater conveyance while meeting recreation, education, and transportation needs.",
+        "section_header": "COMPLETE OUR CREEKS / GOAL ML-3",
+        "sector": "Water",
+        "extraction_rationale": "Specific planning/design intervention for waterways."
+      },
+      {
+        "policy_statement": "Implement efforts like the Pikes Peak Regional Greenway Master Plan and Fountain Creek Restoration Plan on other stream corridors to improve stormwater management and reduce flooding while optimizing other benefits.",
+        "verbatim_text": "Strategy ML-3.A-3: Implement efforts similar to the Pikes Peak Regional Greenway Master Plan and Fountain Creek Restoration Plan along other stream corridors, to improve stormwater management and decrease flooding issues while optimizing other uses and benefits of these waterways.",
+        "policy_type": "sub",
+        "parent_policy_name": "Utilize, maintain, and expand open space and natural areas along creeks for stormwater conveyance while meeting recreation, education, and transportation needs.",
+        "section_header": "COMPLETE OUR CREEKS / GOAL ML-3",
+        "sector": "Water",
+        "extraction_rationale": "Concrete expansion/replication of named plan-type efforts to other corridors."
+      },
+      {
+        "policy_statement": "Educate citizens on development impacts on wildlife and encourage preservation of significant wildlife corridors and contiguous open lands through regulation.",
+        "verbatim_text": "Strategy ML-3.A-4: Educate citizens on the impact of development on wildlife and encourage the preservation of significant wildlife corridors and contiguous open lands through regulation.",
+        "policy_type": "sub",
+        "parent_policy_name": "Utilize, maintain, and expand open space and natural areas along creeks for stormwater conveyance while meeting recreation, education, and transportation needs.",
+        "section_header": "COMPLETE OUR CREEKS / GOAL ML-3",
+        "sector": "AFOLU",
+        "extraction_rationale": "Includes a regulatory mechanism ('through regulation') plus education component."
+      },
+      {
+        "policy_statement": "Use the City Streamside Design Guidelines for recommendations on floodplain treatments, vegetation management, and streambank stabilization to mitigate flood events.",
+        "verbatim_text": "Strategy ML-3.A-5: Refer to the City of Colorado Springs Streamside Design Guidelines for specific recommendations regarding floodplain treatments, vegetation management, stream bank stabilization, and other elements that mitigate flood events.",
+        "policy_type": "sub",
+        "parent_policy_name": "Utilize, maintain, and expand open space and natural areas along creeks for stormwater conveyance while meeting recreation, education, and transportation needs.",
+        "section_header": "COMPLETE OUR CREEKS / GOAL ML-3",
+        "sector": "Water",
+        "extraction_rationale": "Specific implementation directive to use a named guideline document."
+      }
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "cluster_type": "parent_with_subs",
+    "section_header": "complete our creeks / goal ml-3",
+    "parent": {
+      "policy_statement": "Preserve and maintain the creek and waterway system as an essential component of stormwater infrastructure.",
+      "verbatim_text": "Policy ML-3.B: Preserve and maintain the creek and waterway system as an essential component of stormwater infrastructure.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "COMPLETE OUR CREEKS / GOAL ML-3",
+      "sector": "Water",
+      "extraction_rationale": "Formal policy supported by multiple strategies on easements, management plans, and O&M coordination."
+    },
+    "subs": [
+      {
+        "policy_statement": "Encourage streamside/near-trail developments to dedicate lanes, access, or easements for creek improvements, connectivity, and trailhead elements.",
+        "verbatim_text": "Strategy ML-3.B-1: Encourage streamside adjacent developments and those that are located near existing or future trail systems to dedicate lanes, access, or easements to allow for creek improvements, points of connectivity, and other critical-trailhead elements.",
+        "policy_type": "sub",
+        "parent_policy_name": "Preserve and maintain the creek and waterway system as an essential component of stormwater infrastructure.",
+        "section_header": "COMPLETE OUR CREEKS / GOAL ML-3",
+        "sector": "Water",
+        "extraction_rationale": "Specific land dedication/easement action tied to development."
+      },
+      {
+        "policy_statement": "Create management plans for greenways to address maintenance and enhance ecological functions.",
+        "verbatim_text": "Strategy ML-3.B-2: Create management plans for greenways to strategically address maintenance and ensure ecological functions are enhanced.",
+        "policy_type": "sub",
+        "parent_policy_name": "Preserve and maintain the creek and waterway system as an essential component of stormwater infrastructure.",
+        "section_header": "COMPLETE OUR CREEKS / GOAL ML-3",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific plan creation commitment."
+      },
+      {
+        "policy_statement": "Create a coordinated cross-department/agency operations and maintenance program for complete creeks to protect and enhance creek ecology.",
+        "verbatim_text": "Strategy ML-3.B-3: Create a coordinated system among City departments and other organizations and agencies for the development of an operations and maintenance program for our complete creeks. This will ensure the protection, preservation, and enhancement of our creeks ecology.",
+        "policy_type": "sub",
+        "parent_policy_name": "Preserve and maintain the creek and waterway system as an essential component of stormwater infrastructure.",
+        "section_header": "COMPLETE OUR CREEKS / GOAL ML-3",
+        "sector": "Water",
+        "extraction_rationale": "Specific institutional/programmatic intervention."
+      },
+      {
+        "policy_statement": "Support interjurisdictional efforts to identify, restore, and support aquatic habitat (e.g., Fountain Creek Corridor) in appropriate areas.",
+        "verbatim_text": "Strategy ML-3.B-4: Support interjurisdictional efforts to identify, restore, and support aquatic habitat in appropriate areas, such as the Fountain Creek Corridor.",
+        "policy_type": "sub",
+        "parent_policy_name": "Preserve and maintain the creek and waterway system as an essential component of stormwater infrastructure.",
+        "section_header": "COMPLETE OUR CREEKS / GOAL ML-3",
+        "sector": "Water",
+        "extraction_rationale": "Specific restoration/support commitment with example location."
+      }
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "cluster_type": "parent_with_subs",
+    "section_header": "value our scenery and environment / goal ml-4",
+    "parent": {
+      "policy_statement": "Emphasize preservation of undeveloped land and natural areas that preserves environmentally and culturally significant areas and incorporates low-impact recreation.",
+      "verbatim_text": "Policy ML-4.A: Emphasize preservation of undeveloped land and natural areas that result in the preservation of the most environmentally and culturally significant areas and incorporate low-impact recreation.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+      "sector": "AFOLU",
+      "extraction_rationale": "Formal preservation policy with multiple strategies including acquisition/protection and alignment of plans."
+    },
+    "subs": [
+      {
+        "policy_statement": "Acquire or protect additional properties for preservation as part of Natural Resources and Regional Recreation (Typology 3) and Greenways (Typology 5).",
+        "verbatim_text": "Strategy ML-4.A-1: Acquire or protect additional properties to preserve as part of Natural Resources and Regional Recreation Typology 3 and Greenways Typology 5.",
+        "policy_type": "sub",
+        "parent_policy_name": "Emphasize preservation of undeveloped land and natural areas that preserves environmentally and culturally significant areas and incorporates low-impact recreation.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific land acquisition/protection action."
+      },
+      {
+        "policy_statement": "Protect, document, and interpret cultural resources within parks, open spaces, and along trails for education.",
+        "verbatim_text": "Strategy ML-4.A-2: Protect, document, and interpret for education, cultural resources within parks, open spaces, and along trails.",
+        "policy_type": "sub",
+        "parent_policy_name": "Emphasize preservation of undeveloped land and natural areas that preserves environmentally and culturally significant areas and incorporates low-impact recreation.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "AFOLU",
+        "extraction_rationale": "Concrete protection and interpretation measures."
+      },
+      {
+        "policy_statement": "Support adaptive plans to protect significant wildlife habitat in coordination with development proposals and plans.",
+        "verbatim_text": "Strategy ML-4.A-3: Support adaptive plans for protection of significant wildlife habitat in coordination with development proposals and plans.",
+        "policy_type": "sub",
+        "parent_policy_name": "Emphasize preservation of undeveloped land and natural areas that preserves environmentally and culturally significant areas and incorporates low-impact recreation.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific planning commitment tied to development coordination."
+      },
+      {
+        "policy_statement": "Align annexations, master plans, and large-scale planned unit developments to contribute and connect to natural areas.",
+        "verbatim_text": "Strategy ML-4.A-4: Align annexation, master plans, and large-scale planned unit developments to contribute and connect to natural areas.",
+        "policy_type": "sub",
+        "parent_policy_name": "Emphasize preservation of undeveloped land and natural areas that preserves environmentally and culturally significant areas and incorporates low-impact recreation.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "AFOLU",
+        "extraction_rationale": "Land-use planning alignment intervention affecting development decisions."
+      },
+      {
+        "policy_statement": "For major development projects in sensitive wildlife areas, consider requiring wildlife and habitat health studies similar to traffic impact studies.",
+        "verbatim_text": "Strategy ML-4.A-5: For major development projects in sensitive wildlife areas, consider a requirement for wildlife and habitat health studies similar to traffic impact studies.",
+        "policy_type": "sub",
+        "parent_policy_name": "Emphasize preservation of undeveloped land and natural areas that preserves environmentally and culturally significant areas and incorporates low-impact recreation.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "AFOLU",
+        "extraction_rationale": "Potential regulatory/assessment requirement specified for certain projects."
+      }
+    ]
+  },
+  {
+    "cluster_id": 9,
+    "cluster_type": "parent_with_subs",
+    "section_header": "value our scenery and environment / goal ml-4",
+    "parent": {
+      "policy_statement": "Promote built landscape practices and environmentally-conscious design that uses water wisely, reduces pesticides/fertilizers, restores biodiversity, and improves resiliency.",
+      "verbatim_text": "Policy ML-4.B: Promote built landscape practices and innovative and environmentally-conscious design that uses water wisely, reflects and respects our natural environment, reduces pesticide and fertilizer application, restores biodiversity, and improves resiliency.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+      "sector": "AFOLU",
+      "extraction_rationale": "Formal policy with multiple implementable strategies (pesticides limits, conservation tech, xeric plants, irrigation upgrades, codes)."
+    },
+    "subs": [
+      {
+        "policy_statement": "Encourage limited and environmentally sensitive use of pesticides and herbicides on City property.",
+        "verbatim_text": "Strategy ML-4.B-1: Encourage the limited and environmentally sensitive use of pesticides and herbicides on City property.",
+        "policy_type": "sub",
+        "parent_policy_name": "Promote built landscape practices and environmentally-conscious design that uses water wisely, reduces pesticides/fertilizers, restores biodiversity, and improves resiliency.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific practice change for city-managed lands."
+      },
+      {
+        "policy_statement": "Consider establishing wildlife-sensitive composting and recycling programs on City-owned and partner-entity properties.",
+        "verbatim_text": "Strategy ML-4.B-2: Consider establishment of wildlife-sensitive composting and recycling programs on Cityowned and partner-entity properties.",
+        "policy_type": "sub",
+        "parent_policy_name": "Promote built landscape practices and environmentally-conscious design that uses water wisely, reduces pesticides/fertilizers, restores biodiversity, and improves resiliency.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "Waste",
+        "extraction_rationale": "Specific program option (composting/recycling) identified."
+      },
+      {
+        "policy_statement": "Further implement water conservation technologies and standards for all City property.",
+        "verbatim_text": "Strategy ML-4.B-3: Further implement water conservation technologies and standards for all City property.",
+        "policy_type": "sub",
+        "parent_policy_name": "Promote built landscape practices and environmentally-conscious design that uses water wisely, reduces pesticides/fertilizers, restores biodiversity, and improves resiliency.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "Water",
+        "extraction_rationale": "Concrete standards/technology implementation across city properties."
+      },
+      {
+        "policy_statement": "Increase use of xeric and native plants and replace some high-water turf with lower-water native grass species to reduce water demand and maintenance costs.",
+        "verbatim_text": "Strategy ML-4.B-4: Encourage increased use of xeric and native plants throughout most landscaped park and median areas. Reduce the water demand footprint and maintenance costs in parks by identifying high water use turf areas not suitable for recreation and replacing a percentage of these areas with lower-water requiring native grass species.",
+        "policy_type": "sub",
+        "parent_policy_name": "Promote built landscape practices and environmentally-conscious design that uses water wisely, reduces pesticides/fertilizers, restores biodiversity, and improves resiliency.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "Water",
+        "extraction_rationale": "Specific land management intervention to reduce water demand."
+      },
+      {
+        "policy_statement": "Upgrade irrigation systems at public parks and city facilities to expand use of non-potable water and more efficient systems.",
+        "verbatim_text": "Strategy ML-4.B-5: Upgrade irrigation systems at public parks and city facilities to expand use of non-potable water resources and more efficient systems.",
+        "policy_type": "sub",
+        "parent_policy_name": "Promote built landscape practices and environmentally-conscious design that uses water wisely, reduces pesticides/fertilizers, restores biodiversity, and improves resiliency.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "Water",
+        "extraction_rationale": "Concrete infrastructure upgrade action with efficiency/non-potable focus."
+      },
+      {
+        "policy_statement": "Create a plan to incorporate Colorado native species and ecosystems into Colorado Springs.",
+        "verbatim_text": "Strategy ML-4.B-6: Create a plan to incorporate Colorado native species and ecosystems into Colorado Springs.",
+        "policy_type": "sub",
+        "parent_policy_name": "Promote built landscape practices and environmentally-conscious design that uses water wisely, reduces pesticides/fertilizers, restores biodiversity, and improves resiliency.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific planning task stated."
+      },
+      {
+        "policy_statement": "Update the Commercial Landscape Code and Policy Manual and fund on-site inspections to ensure healthy, resilient, water-conserving landscapes.",
+        "verbatim_text": "Strategy ML-4.B-7: Update the Commercial Landscape Code and Policy Manual to improve its effectiveness at ensuring healthy, resilient, water-conserving landscapes. Provide adequate funding to ensure on-site inspections of each project.",
+        "policy_type": "sub",
+        "parent_policy_name": "Promote built landscape practices and environmentally-conscious design that uses water wisely, reduces pesticides/fertilizers, restores biodiversity, and improves resiliency.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "AFOLU",
+        "extraction_rationale": "Regulatory update plus explicit funding for inspections."
+      },
+      {
+        "policy_statement": "Explore implementing a Residential Landscape Code incorporating landscape practices supporting this goal.",
+        "verbatim_text": "Strategy ML-4.B-8: Explore the possibility of implementing a Residential Landscape Code incorporating a variety of landscape practices supporting this goal.",
+        "policy_type": "sub",
+        "parent_policy_name": "Promote built landscape practices and environmentally-conscious design that uses water wisely, reduces pesticides/fertilizers, restores biodiversity, and improves resiliency.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "AFOLU",
+        "extraction_rationale": "Potential regulatory instrument explicitly identified."
+      },
+      {
+        "policy_statement": "Manage invasion of noxious weed and tree species on all City property.",
+        "verbatim_text": "Strategy ML-4.B-9: Manage the invasion of noxious weed and tree species on all City property.",
+        "policy_type": "sub",
+        "parent_policy_name": "Promote built landscape practices and environmentally-conscious design that uses water wisely, reduces pesticides/fertilizers, restores biodiversity, and improves resiliency.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "AFOLU",
+        "extraction_rationale": "Concrete management action for invasive species."
+      }
+    ]
+  },
+  {
+    "cluster_id": 10,
+    "cluster_type": "parent_with_subs",
+    "section_header": "value our scenery and environment / goal ml-4",
+    "parent": {
+      "policy_statement": "Implement standards, policies, and practices that encourage and support enhanced air and water quality.",
+      "verbatim_text": "Policy ML-4.C: Implement standards, policies, and practices that encourage and support enhanced air and water quality.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+      "sector": "Cross-cutting",
+      "extraction_rationale": "Formal policy with multiple strategies including power plant decommissioning coordination, multimodal investments, urban forest, and fleet upgrades."
+    },
+    "subs": [
+      {
+        "policy_statement": "Coordinate with Colorado Springs Utilities on decommissioning the Drake Power Plant and replacement power.",
+        "verbatim_text": "Strategy ML-4.C-1: Coordinate with Colorado Springs Utilities on the decommissioning of the Drake Power Plant and replacement power.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement standards, policies, and practices that encourage and support enhanced air and water quality.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "Energy",
+        "extraction_rationale": "Specific coordination action tied to a major emissions-relevant infrastructure change."
+      },
+      {
+        "policy_statement": "Evaluate and align investments in long-term multimodal transportation (mass transit, self-driving cars, EV charging, biking/walking trails) to improve air and water quality.",
+        "verbatim_text": "Strategy ML-4.C-2: Evaluate and align investments in long-term multimodal transportation solutions such as mass transit, self-driving car technologies, electric vehicle charging stations, and bicycle and walking trails to support improvements in air and water quality.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement standards, policies, and practices that encourage and support enhanced air and water quality.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "Transport",
+        "extraction_rationale": "Specific investment alignment action across multiple low-emission mobility solutions."
+      },
+      {
+        "policy_statement": "Create a more sustainable program to maintain, revitalize, diversify, and expand the city's urban forest using resilient, adaptive, Colorado native tree species along streets and medians.",
+        "verbatim_text": "Strategy ML-4.C-3: Create a more sustainable program to maintain, revitalize, create, diversify, and expand the city's urban forest, focusing on resilient, adaptive, and Colorado native tree species, along streets and in medians.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement standards, policies, and practices that encourage and support enhanced air and water quality.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "AFOLU",
+        "extraction_rationale": "Concrete program creation with defined focus and scope."
+      },
+      {
+        "policy_statement": "Support and implement cost-effective upgrades to the City's vehicle and equipment fleets to incorporate zero- and low-emissions technology.",
+        "verbatim_text": "Strategy ML-4.C-4: Support and implement cost effective upgrades to Colorado Springs' vehicle and equipment fleets to incorporate zero and low emissions technology.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement standards, policies, and practices that encourage and support enhanced air and water quality.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "Transport",
+        "extraction_rationale": "Specific intervention to decarbonize municipal fleets."
+      },
+      {
+        "policy_statement": "Initiate an Adaptable Climate Response Plan with input from and guidance for private, non-profit, and public organizations.",
+        "verbatim_text": "Strategy ML-4.C-5: Initiate an Adaptable Climate Response Plan that includes input from and guidance for private, non-profit, and public organizations.",
+        "policy_type": "sub",
+        "parent_policy_name": "Implement standards, policies, and practices that encourage and support enhanced air and water quality.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "Cross-cutting",
+        "extraction_rationale": "Named plan initiative with explicit multi-stakeholder involvement."
+      }
+    ]
+  },
+  {
+    "cluster_id": 11,
+    "cluster_type": "parent_with_subs",
+    "section_header": "value our scenery and environment / goal ml-4",
+    "parent": {
+      "policy_statement": "Cultivate an ethic of environmental stewardship and landscape health through community education and engagement.",
+      "verbatim_text": "Policy ML-4.D: Cultivate an ethic of environmental stewardship and landscape health through community education and engagement.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+      "sector": "Cross-cutting",
+      "extraction_rationale": "Formal policy with multiple strategies including a recognition program, volunteerism, and utility/school partnerships."
+    },
+    "subs": [
+      {
+        "policy_statement": "Create a City program recognizing individuals, businesses, and nonprofits for outstanding environmental stewardship behaviors and practices.",
+        "verbatim_text": "Strategy ML-4.D-1: Create a City program that recognizes individuals, businesses, and nonprofits for outstanding environmental stewardship behaviors and practices.",
+        "policy_type": "sub",
+        "parent_policy_name": "Cultivate an ethic of environmental stewardship and landscape health through community education and engagement.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "Cross-cutting",
+        "extraction_rationale": "Specific program creation commitment."
+      },
+      {
+        "policy_statement": "Continue creating volunteer/nonprofit opportunities to build parks, install amenities, and maintain parks, trails, and open space resources.",
+        "verbatim_text": "Strategy ML-4.D-2: Continue to create opportunities for volunteers and non-profit groups to help build parks, install park amenities, and assist in maintaining parks, trails, and open space resources.",
+        "policy_type": "sub",
+        "parent_policy_name": "Cultivate an ethic of environmental stewardship and landscape health through community education and engagement.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "AFOLU",
+        "extraction_rationale": "Ongoing programmatic action to support stewardship and maintenance."
+      },
+      {
+        "policy_statement": "Partner with Colorado Springs Utilities and school districts to support education and incentives for water and energy conservation and environmental quality best practices.",
+        "verbatim_text": "Strategy ML-4.D-3: Partner with Colorado Springs Utilities and school districts to support educational efforts and provide incentives to support water and energy conservation, and environmental quality best practices.",
+        "policy_type": "sub",
+        "parent_policy_name": "Cultivate an ethic of environmental stewardship and landscape health through community education and engagement.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "Cross-cutting",
+        "extraction_rationale": "Specific partnership plus incentives and education actions."
+      },
+      {
+        "policy_statement": "Educate and encourage citizens to better care for street trees on private property.",
+        "verbatim_text": "Strategy ML-4.D-4: Educate and encourage citizens to better care for street trees on private property.",
+        "policy_type": "sub",
+        "parent_policy_name": "Cultivate an ethic of environmental stewardship and landscape health through community education and engagement.",
+        "section_header": "VALUE OUR SCENERY AND ENVIRONMENT / GOAL ML-4",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific education/behavior-change intervention."
+      }
+    ]
+  },
+  {
+    "cluster_id": 12,
+    "cluster_type": "parent_with_subs",
+    "section_header": "invest in resilient and adaptable landscapes / goal ml-5",
+    "parent": {
+      "policy_statement": "Recognize vulnerability of natural and built landscapes to hazards, degradation, and overuse, and strengthen resilience through management and planning actions.",
+      "verbatim_text": "Policy ML-5.A: Recognize the vulnerability of both our natural and built landscapes to natural hazards, degradation, and overuse.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "INVEST IN RESILIENT AND ADAPTABLE LANDSCAPES / GOAL ML-5",
+      "sector": "Cross-cutting",
+      "extraction_rationale": "Formal resilience policy accompanied by multiple strategies including management plans and hazard mitigation plan updates."
+    },
+    "subs": [
+      {
+        "policy_statement": "Develop and implement a citywide integrated urban forest and noxious weed management plan for City property.",
+        "verbatim_text": "Strategy ML-5.A-1: Develop and implement an effective citywide integrated urban forest and noxious weed management plan to enhance the beauty, integrity, and usability of City property.",
+        "policy_type": "sub",
+        "parent_policy_name": "Recognize vulnerability of natural and built landscapes to hazards, degradation, and overuse, and strengthen resilience through management and planning actions.",
+        "section_header": "INVEST IN RESILIENT AND ADAPTABLE LANDSCAPES / GOAL ML-5",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific plan development and implementation commitment."
+      },
+      {
+        "policy_statement": "Focus on projects to restore degraded natural areas and open spaces.",
+        "verbatim_text": "Strategy ML-5.A-2: Focus on projects to restore degraded natural areas and open spaces.",
+        "policy_type": "sub",
+        "parent_policy_name": "Recognize vulnerability of natural and built landscapes to hazards, degradation, and overuse, and strengthen resilience through management and planning actions.",
+        "section_header": "INVEST IN RESILIENT AND ADAPTABLE LANDSCAPES / GOAL ML-5",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific restoration action direction."
+      },
+      {
+        "policy_statement": "Plan for, improve, and complete a comprehensive system of wildlife corridors including crossings of major transportation barriers.",
+        "verbatim_text": "Strategy ML-5.A-3: Plan for, improve, and complete a comprehensive system of wildlife corridors including crossings of major transportation barriers.",
+        "policy_type": "sub",
+        "parent_policy_name": "Recognize vulnerability of natural and built landscapes to hazards, degradation, and overuse, and strengthen resilience through management and planning actions.",
+        "section_header": "INVEST IN RESILIENT AND ADAPTABLE LANDSCAPES / GOAL ML-5",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific infrastructure/ecological connectivity commitment."
+      },
+      {
+        "policy_statement": "Incentivize mitigation on private property in the Wildland Urban Interface and provide adequate public funding for forest management on public land.",
+        "verbatim_text": "Strategy ML-5.A-4: Incentivize mitigation on private property within the Wildland Urban Interface (WUI) and provide adequate public funding for forest management on public land.",
+        "policy_type": "sub",
+        "parent_policy_name": "Recognize vulnerability of natural and built landscapes to hazards, degradation, and overuse, and strengthen resilience through management and planning actions.",
+        "section_header": "INVEST IN RESILIENT AND ADAPTABLE LANDSCAPES / GOAL ML-5",
+        "sector": "AFOLU",
+        "extraction_rationale": "Uses incentives and explicit public funding commitment for forest management."
+      },
+      {
+        "policy_statement": "Continue to update and implement the Colorado Springs Hazard Mitigation Plan.",
+        "verbatim_text": "Strategy ML-5.A-5: Continue to update and implement the Colorado Springs Hazard Mitigation Plan.",
+        "policy_type": "sub",
+        "parent_policy_name": "Recognize vulnerability of natural and built landscapes to hazards, degradation, and overuse, and strengthen resilience through management and planning actions.",
+        "section_header": "INVEST IN RESILIENT AND ADAPTABLE LANDSCAPES / GOAL ML-5",
+        "sector": "Disaster Risk Reduction",
+        "extraction_rationale": "Explicit commitment to update and implement a named hazard mitigation plan."
+      }
+    ]
+  },
+  {
+    "cluster_id": 13,
+    "cluster_type": "parent_with_subs",
+    "section_header": "invest in resilient and adaptable landscapes / goal ml-5",
+    "parent": {
+      "policy_statement": "Focus on resilient landscapes in the face of drought, flood, and fire hazards.",
+      "verbatim_text": "Policy ML-5.B: Focus on resilient landscapes in the face of drought, flood, and fire hazards.",
+      "policy_type": "parent",
+      "parent_policy_name": null,
+      "section_header": "INVEST IN RESILIENT AND ADAPTABLE LANDSCAPES / GOAL ML-5",
+      "sector": "Disaster Risk Reduction",
+      "extraction_rationale": "Formal hazard-resilience policy with multiple specific strategies involving partnerships and incentives."
+    },
+    "subs": [
+      {
+        "policy_statement": "Promote innovative green landscape design (rooftop/vertical gardens) and reduce impervious surfaces.",
+        "verbatim_text": "Strategy ML-5.B-1: Promote innovative design and integration of green landscapes such as rooftop and vertical gardens, and reduction of impervious surfaces.",
+        "policy_type": "sub",
+        "parent_policy_name": "Focus on resilient landscapes in the face of drought, flood, and fire hazards.",
+        "section_header": "INVEST IN RESILIENT AND ADAPTABLE LANDSCAPES / GOAL ML-5",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific design interventions to improve resilience and reduce runoff."
+      },
+      {
+        "policy_statement": "Develop fire mitigation partnerships and create natural area management plans with land managers, utility providers, public safety officials, and state/federal representatives.",
+        "verbatim_text": "Strategy ML-5.B-2: Develop fire mitigation partnerships and create natural area management plans with land managers, utility providers, public safety officials, and state and federal representatives.",
+        "policy_type": "sub",
+        "parent_policy_name": "Focus on resilient landscapes in the face of drought, flood, and fire hazards.",
+        "section_header": "INVEST IN RESILIENT AND ADAPTABLE LANDSCAPES / GOAL ML-5",
+        "sector": "Disaster Risk Reduction",
+        "extraction_rationale": "Concrete partnership and management plan actions targeted at fire risk."
+      },
+      {
+        "policy_statement": "Work with wildlife habitat managers to balance wildlife needs with management for fire, floods, and drought.",
+        "verbatim_text": "Strategy ML-5.B-3: Work with natural resource managers of wildlife habitat to balance wildlife needs with management for fire, floods, and drought.",
+        "policy_type": "sub",
+        "parent_policy_name": "Focus on resilient landscapes in the face of drought, flood, and fire hazards.",
+        "section_header": "INVEST IN RESILIENT AND ADAPTABLE LANDSCAPES / GOAL ML-5",
+        "sector": "AFOLU",
+        "extraction_rationale": "Specific coordination action to manage competing resilience objectives."
+      },
+      {
+        "policy_statement": "Form stormwater, floodplain, and vegetation management partnerships with relevant districts/agencies and land managers.",
+        "verbatim_text": "Strategy ML-5.B-4: Form stormwater, floodplain, and vegetation management partnerships with flood control districts, watershed managers, City and County public works departments, ditch companies, and other land managers.",
+        "policy_type": "sub",
+        "parent_policy_name": "Focus on resilient landscapes in the face of drought, flood, and fire hazards.",
+        "section_header": "INVEST IN RESILIENT AND ADAPTABLE LANDSCAPES / GOAL ML-5",
+        "sector": "Water",
+        "extraction_rationale": "Specific multi-entity partnership intervention addressing flood/stormwater/vegetation."
+      },
+      {
+        "policy_statement": "Incentivize reclamation of degraded private landscapes with drought-resilient landscapes that improve quality of life and property values.",
+        "verbatim_text": "Strategy ML-5.B-5: Incentivize the reclamation of degraded private landscapes with landscapes that are drought-resilient and improve quality of life and property values.",
+        "policy_type": "sub",
+        "parent_policy_name": "Focus on resilient landscapes in the face of drought, flood, and fire hazards.",
+        "section_header": "INVEST IN RESILIENT AND ADAPTABLE LANDSCAPES / GOAL ML-5",
+        "sector": "AFOLU",
+        "extraction_rationale": "Uses incentives to drive private-land adaptation and restoration."
+      }
+    ]
+  },
+  {
+    "cluster_id": 14,
+    "cluster_type": "individual",
+    "section_header": "goal vn-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Prioritize replicable, effective, and up-to-date neighborhood plans and programs for areas with the most potential for change and need of direction.",
+      "verbatim_text": "Policy VN-1.A: Prioritize replicable, effective, and up-to-date neighborhood plans and programs for those areas with the most potential for change and need of direction.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL VN-1",
+      "sector": "Urban planning",
+      "extraction_rationale": "An explicit policy commitment to prioritize specific planning products (neighborhood plans/programs) for targeted areas."
+    }
+  },
+  {
+    "cluster_id": 15,
+    "cluster_type": "individual",
+    "section_header": "goal vn-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Inform and engage with neighborhoods and residents during development review, capital improvement planning, and decisions on City/County facilities and services.",
+      "verbatim_text": "Policy VN-1.B: Inform and engage with neighborhoods, neighborhood-based organizations, and individual residents during the development review process, capital improvement planning, and decisions on City and County facilities and services.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL VN-1",
+      "sector": "Urban planning",
+      "extraction_rationale": "Commits the City to a specific engagement practice across multiple decision processes."
+    }
+  },
+  {
+    "cluster_id": 16,
+    "cluster_type": "individual",
+    "section_header": "goal vn-2",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Promote neighborhoods that incorporate common desired neighborhood elements.",
+      "verbatim_text": "Policy VN-2.A: Promote neighborhoods that incorporate common desired neighborhood elements.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL VN-2",
+      "sector": "Urban planning",
+      "extraction_rationale": "A stated policy direction guiding neighborhood development outcomes (design/land use characteristics)."
+    }
+  },
+  {
+    "cluster_id": 17,
+    "cluster_type": "individual",
+    "section_header": "goal vn-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Preserve and enhance the physical elements that define a neighborhood's character.",
+      "verbatim_text": "Policy VN-3.A: Preserve and enhance the physical elements that define a neighborhood's character.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL VN-3",
+      "sector": "Urban planning",
+      "extraction_rationale": "Explicit commitment to preservation/enhancement actions as part of neighborhood reinvestment."
+    }
+  },
+  {
+    "cluster_id": 18,
+    "cluster_type": "individual",
+    "section_header": "goal vn-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Support unique and innovative community design elements and features such as urban farms and gardens, co-op housing, live/work spaces, and neighborhood gathering places.",
+      "verbatim_text": "Policy VN-3.B: Support unique and innovative community design elements and features such as urban farms and gardens, co-op housing, live/work spaces, or neighborhood gathering places.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL VN-3",
+      "sector": "Urban planning",
+      "extraction_rationale": "Policy specifies concrete types of supported design/community features, including urban agriculture-related elements."
+    }
+  },
+  {
+    "cluster_id": 19,
+    "cluster_type": "individual",
+    "section_header": "goal vn-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Promote neighborhood-level shopping and service options to increase local access and walkability (including healthy food markets and other supportive businesses).",
+      "verbatim_text": "Policy VN-3.C: Promote neighborhood-level shopping and service options to include a variety of healthy food markets, coffee houses, restaurants, and other supportive businesses that increase local access and walkability.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL VN-3",
+      "sector": "Urban planning",
+      "extraction_rationale": "Outcome-oriented policy to promote specific local services to improve access/walkability."
+    }
+  },
+  {
+    "cluster_id": 20,
+    "cluster_type": "individual",
+    "section_header": "goal vn-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Create strong neighborhood identity through inclusion and integration of arts and culture.",
+      "verbatim_text": "Policy VN-3.D: Create strong neighborhood identity through the inclusion and integration of arts and culture.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL VN-3",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Explicit policy to integrate arts/culture into neighborhood identity—an actionable planning directive."
+    }
+  },
+  {
+    "cluster_id": 21,
+    "cluster_type": "individual",
+    "section_header": "goal vn-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Encourage and support the integration of mixed-use development in neighborhoods.",
+      "verbatim_text": "Policy VN-3.E: Encourage and support the integration of mixed-use development in neighborhoods.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL VN-3",
+      "sector": "Urban planning",
+      "extraction_rationale": "Clear land-use policy direction promoting mixed-use development."
+    }
+  },
+  {
+    "cluster_id": 22,
+    "cluster_type": "individual",
+    "section_header": "goal vn-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Enhance mobility and connectivity between neighborhoods and with surrounding jurisdictions.",
+      "verbatim_text": "Policy VN-3.F: Enhance mobility and connectivity between neighborhoods across Colorado Springs and with surrounding jurisdictions.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL VN-3",
+      "sector": "Transport",
+      "extraction_rationale": "Policy commitment to improve connectivity, supported by strategies on bike lanes/sidewalks/trails."
+    }
+  },
+  {
+    "cluster_id": 23,
+    "cluster_type": "individual",
+    "section_header": "goal up-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Emphasize placemaking throughout the city with design and programming that supports a distinctive identity and experience.",
+      "verbatim_text": "Policy UP-1.A: Emphasize placemaking throughout the city with design and programming that supports a distinctive identity and experience.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL UP-1",
+      "sector": "Urban planning",
+      "extraction_rationale": "Explicit policy committing to placemaking via design/programming across the city."
+    }
+  },
+  {
+    "cluster_id": 24,
+    "cluster_type": "individual",
+    "section_header": "goal up-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Establish a network of connections (gateways, signature streets, festival streets, and trails) to support and define unique places.",
+      "verbatim_text": "Policy UP-1.B: Establish a network of connections such as gateways, signature streets, festival streets, and trails to support, define, and provide context for our unique places.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL UP-1",
+      "sector": "Urban planning",
+      "extraction_rationale": "Commits to establishing specific connectivity/placemaking elements (gateways/streets/trails)."
+    }
+  },
+  {
+    "cluster_id": 25,
+    "cluster_type": "individual",
+    "section_header": "goal up-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Locate and design new and repurposed civic facilities as highly visible focal points expressing quality design and community identity.",
+      "verbatim_text": "Policy UP-1.C: Locate and design new and repurposed civic facilities to make them highly visible focal points that express quality design, permanence, importance, and community identity.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL UP-1",
+      "sector": "Urban planning",
+      "extraction_rationale": "Policy sets a clear design/location direction for civic facilities."
+    }
+  },
+  {
+    "cluster_id": 26,
+    "cluster_type": "individual",
+    "section_header": "goal up-2",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Support infill and land use investment throughout mature and developed areas of the city.",
+      "verbatim_text": "Policy UP-2.A: Support infill and land use investment throughout the mature and developed areas of the city.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL UP-2",
+      "sector": "Urban planning",
+      "extraction_rationale": "Explicit commitment to support infill and investment in specified areas."
+    }
+  },
+  {
+    "cluster_id": 27,
+    "cluster_type": "individual",
+    "section_header": "goal up-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Proactively participate and invest in Downtown development as the city's premier urban activity center.",
+      "verbatim_text": "Policy UP-3.A: Proactively participate and invest in the development of Downtown as the city's premier urban activity center.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL UP-3",
+      "sector": "Urban planning",
+      "extraction_rationale": "Includes an investment commitment (participate and invest) tied to Downtown development."
+    }
+  },
+  {
+    "cluster_id": 28,
+    "cluster_type": "individual",
+    "section_header": "goal up-4",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Actively plan and encourage a development pattern of unique centers along new and redeveloped corridors and other designated areas.",
+      "verbatim_text": "Policy UP-4.A: Actively plan and encourage a development pattern consisting of unique centers located along new and redeveloped corridors and at other designated areas throughout the city.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL UP-4",
+      "sector": "Urban planning",
+      "extraction_rationale": "Specific planning commitment directing development pattern (centers/corridors)."
+    }
+  },
+  {
+    "cluster_id": 29,
+    "cluster_type": "individual",
+    "section_header": "goal up-4",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Within unique centers, incorporate density and mixed uses with higher design standards and multimodal access including transit.",
+      "verbatim_text": "Policy UP-4.B: Within unique centers, incorporate density and mixed uses along with higher standards of design, attention to the public realm, and design for multimodal access including transit.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL UP-4",
+      "sector": "Transport",
+      "extraction_rationale": "Explicit policy linking land use density/mixed-use with multimodal/transit-oriented design."
+    }
+  },
+  {
+    "cluster_id": 30,
+    "cluster_type": "individual",
+    "section_header": "goal up-4",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Ensure that the City Zoning Code supports the intent of unique places.",
+      "verbatim_text": "Policy UP-4.C: Ensure that the City Zoning Code supports the intent of unique places.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL UP-4",
+      "sector": "Urban planning",
+      "extraction_rationale": "Commits to aligning zoning code with the plan’s unique places intent."
+    }
+  },
+  {
+    "cluster_id": 31,
+    "cluster_type": "individual",
+    "section_header": "goal up-4",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Leverage funding tools, partnerships, and policies to fund and maintain redevelopment centers, corridors, and gateways.",
+      "verbatim_text": "Policy UP-4.D: Leverage funding tools, partnerships, and policies to fund and maintain redevelopment centers, corridors, and gateways.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL UP-4",
+      "sector": "Urban planning",
+      "extraction_rationale": "Resource/funding-oriented policy direction (use of tools/partnerships to fund/maintain)."
+    }
+  },
+  {
+    "cluster_id": 32,
+    "cluster_type": "individual",
+    "section_header": "goal up-5",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Actively evaluate plans for urban places and corridors from the perspective of fiscal and environmental sustainability.",
+      "verbatim_text": "Policy UP-5.A: Actively evaluate plans for existing, new, and redeveloping urban places and corridors from the perspective of fiscal and environmental sustainability.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL UP-5",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Policy requires sustainability evaluation (fiscal and environmental) for plans."
+    }
+  },
+  {
+    "cluster_id": 33,
+    "cluster_type": "individual",
+    "section_header": "goal up-5",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Encourage cost-effective development that promotes the wise use of resources.",
+      "verbatim_text": "Policy UP-5.B: Encourage cost-effective development that promotes the wise use of resources.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL UP-5",
+      "sector": "Buildings",
+      "extraction_rationale": "Resource-efficiency policy direction for development; supported by strategies on code revisions for energy/water efficiency."
+    }
+  },
+  {
+    "cluster_id": 34,
+    "cluster_type": "individual",
+    "section_header": "goal te-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Preserve and strengthen key economic sectors and grow medium- and high-wage jobs in targeted industry clusters.",
+      "verbatim_text": "Policy TE-1.A: Preserve and strengthen key economic sectors and strive to grow medium and high-wage jobs in targeted industry clusters.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL TE-1",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Economic development policy with explicit job-quality focus and targeted clusters."
+    }
+  },
+  {
+    "cluster_id": 35,
+    "cluster_type": "individual",
+    "section_header": "goal te-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Build on the city's sports, recreation, and outdoors economy and Olympic City USA brand, including investing in infrastructure and facilities.",
+      "verbatim_text": "Policy TE-1.B: Build on our emerging sports, recreation, and outdoors economy. This includes the Olympic Training Center, Olympic Museum sports and recreation organizations and other related businesses and industries.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL TE-1",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Policy direction to support a specific economic sector; associated strategies include infrastructure/facility investment."
+    }
+  },
+  {
+    "cluster_id": 36,
+    "cluster_type": "individual",
+    "section_header": "goal te-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Leverage the city's livability as a workforce and economic driver.",
+      "verbatim_text": "Policy TE-1.C: Leverage the city's livability as a workforce and economic driver.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL TE-1",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Policy sets direction to use livability improvements to attract/retain workforce and investment."
+    }
+  },
+  {
+    "cluster_id": 37,
+    "cluster_type": "individual",
+    "section_header": "goal te-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Enhance Cornerstone Institution campuses while integrating them into the surrounding community.",
+      "verbatim_text": "Policy TE-1.D: Enhance our Cornerstone Institutions (Typology\n\n1) campuses, while also integrating them into the surrounding community.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL TE-1",
+      "sector": "Urban planning",
+      "extraction_rationale": "Explicit campus development/integration policy affecting land use and community connectivity."
+    }
+  },
+  {
+    "cluster_id": 38,
+    "cluster_type": "individual",
+    "section_header": "goal te-2",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Preserve and strengthen the city's Industry Icons typology (industrial/manufacturing base).",
+      "verbatim_text": "Policy TE-2.A: Preserve and strengthen the city's Industry Icons Typology (Typology 5).",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL TE-2",
+      "sector": "Industry",
+      "extraction_rationale": "Direct policy commitment to protect and strengthen industrial employment areas."
+    }
+  },
+  {
+    "cluster_id": 39,
+    "cluster_type": "individual",
+    "section_header": "goal te-2",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Create a positive atmosphere for spinoffs, startups, and entrepreneurship (including supportive land regulations for diverse workplace types).",
+      "verbatim_text": "Policy TE-2.B: Create a positive atmosphere for spinoffs, startups, and entrepreneurship.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL TE-2",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Economic development policy to support entrepreneurship; backed by strategies on adapting processes and land regulations."
+    }
+  },
+  {
+    "cluster_id": 40,
+    "cluster_type": "individual",
+    "section_header": "goal te-2",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Enhance the physical environment by creating new amenities to attract and retain businesses and residents.",
+      "verbatim_text": "Policy TE-2.C: Enhance the physical environment by creating new amenities that help attract and retain new businesses and residents.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL TE-2",
+      "sector": "Urban planning",
+      "extraction_rationale": "Commits to creating amenities (an intervention) to support economic attraction/retention."
+    }
+  },
+  {
+    "cluster_id": 41,
+    "cluster_type": "individual",
+    "section_header": "goal te-2",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Provide high-quality infrastructure and technology citywide (including expanding internet capacity and redundant utility services).",
+      "verbatim_text": "Policy TE-2.D: Provide high-quality infrastructure and technology citywide.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL TE-2",
+      "sector": "Infrastructure",
+      "extraction_rationale": "Explicit infrastructure/technology policy direction with implementation strategies (internet/utility redundancy/cybersecurity)."
+    }
+  },
+  {
+    "cluster_id": 42,
+    "cluster_type": "individual",
+    "section_header": "goal te-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Foster cross-jurisdictional collaboration and planning with other public agencies on economic development and fiscal sustainability.",
+      "verbatim_text": "Policy TE-3.A: Foster cross-jurisdictional collaboration and planning with other public agencies including El Paso County, City of Manitou Springs, City of Fountain, Town of Monument, Pikes Peak Area Council of Governments, Colorado Department of Transportation, and surrounding jurisdictions.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL TE-3",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Commits to intergovernmental collaboration as an ongoing policy approach."
+    }
+  },
+  {
+    "cluster_id": 43,
+    "cluster_type": "individual",
+    "section_header": "goal te-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Coordinate and partner with regional military installations (including land use consistency near installations).",
+      "verbatim_text": "Policy TE-3.B: Coordinate and partner with regional military installations.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL TE-3",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Policy commitment to coordinate with military installations, affecting planning and development decisions."
+    }
+  },
+  {
+    "cluster_id": 44,
+    "cluster_type": "individual",
+    "section_header": "goal te-4",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Prioritize development within existing City boundaries and built environment rather than the periphery.",
+      "verbatim_text": "Policy TE-4.A: Prioritize development within the existing City boundaries and built environment (not in the periphery).",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL TE-4",
+      "sector": "Urban planning",
+      "extraction_rationale": "Explicit growth-management policy to focus development inward (infill/compact development)."
+    }
+  },
+  {
+    "cluster_id": 45,
+    "cluster_type": "individual",
+    "section_header": "goal te-4",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Improve local funding mechanisms to better support economic development efforts.",
+      "verbatim_text": "Policy TE-4.B: Improve local funding mechanisms to better support economic development efforts.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL TE-4",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Funding mechanism policy (resource allocation/financial tools) supporting economic development."
+    }
+  },
+  {
+    "cluster_id": 46,
+    "cluster_type": "individual",
+    "section_header": "goal te-4",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Promote sustainable efforts and initiatives in the public and private sector, including renewable energy, clean technology, waste reduction, and recycling.",
+      "verbatim_text": "Policy TE-4.C: Promote sustainable efforts and initiatives in the public and private sector.\n\nStrategy TE-4.C-2: Promote the development of businesses, jobs, and programs focused on renewable energy, clean technology, waste reduction, and recycling.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL TE-4",
+      "sector": "Energy",
+      "extraction_rationale": "Explicit sustainability policy with clear climate-relevant action areas (renewables/clean tech/waste reduction/recycling)."
+    }
+  },
+  {
+    "cluster_id": 47,
+    "cluster_type": "individual",
+    "section_header": "goal te-5",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Create a plan for a Smart City future.",
+      "verbatim_text": "Policy TE-5.A: Create a plan for a Smart City future.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL TE-5",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Specific commitment to produce a Smart City plan."
+    }
+  },
+  {
+    "cluster_id": 48,
+    "cluster_type": "individual",
+    "section_header": "goal te-5",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Implement Smart City innovations and technology (beginning with pilot projects and scaling proven applications).",
+      "verbatim_text": "Policy TE-5.B: Implement Smart City innovations and technology.\n\nStrategy TE-5.B-1: Test prioritized Smart Cities ideas beginning with pilot projects.\n\nStrategy TE-5.B-2: Implement proven and cost-effective Smart Cities applications and technology.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL TE-5",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Policy and supporting strategies commit to piloting and implementing Smart City technologies."
+    }
+  },
+  {
+    "cluster_id": 49,
+    "cluster_type": "individual",
+    "section_header": "goal sc-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Plan for and implement transportation projects to improve overall mobility and manage the impacts of cars on the built environment.",
+      "verbatim_text": "Policy SC-1.A: Plan for and implement transportation projects for the overall mobility of people and to manage the impacts of cars on our built environment.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL SC-1",
+      "sector": "Transport",
+      "extraction_rationale": "Direct commitment to plan and implement transportation projects with specified intent."
+    }
+  },
+  {
+    "cluster_id": 50,
+    "cluster_type": "individual",
+    "section_header": "goal sc-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Proactively consider and incorporate senior mobility needs in transportation planning and project decisions.",
+      "verbatim_text": "Policy SC-1.B: Proactively consider and incorporate the needs of our senior population in all relevant transportation planning and project decisions.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL SC-1",
+      "sector": "Transport",
+      "extraction_rationale": "Explicit policy requiring incorporation of senior needs into transportation decisions."
+    }
+  },
+  {
+    "cluster_id": 51,
+    "cluster_type": "individual",
+    "section_header": "goal sc-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Improve transportation connectivity to the Denver metro area through I-25 capacity expansion, including support for I-25 Gap improvements.",
+      "verbatim_text": "Policy SC-1.C: Improve transportation connectivity to the Denver metro area through I-25 capacity expansion.\n\nStrategy SC-1.C-1: Continue to advocate for and support funding and completion of the I-25 Gap improvements.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL SC-1",
+      "sector": "Transport",
+      "extraction_rationale": "Policy plus a concrete funded project advocacy commitment (I-25 Gap)."
+    }
+  },
+  {
+    "cluster_id": 52,
+    "cluster_type": "individual",
+    "section_header": "goal sc-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Establish and maintain convenient multimodal connections between neighborhoods, destinations, employment/activity centers, and Downtown.",
+      "verbatim_text": "Policy SC-1.D: Establish and maintain convenient multimodal connections between neighborhoods, local destinations, employment and activity centers, and Downtown.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL SC-1",
+      "sector": "Transport",
+      "extraction_rationale": "Explicit multimodal connectivity commitment supported by numerous implementation strategies."
+    }
+  },
+  {
+    "cluster_id": 53,
+    "cluster_type": "individual",
+    "section_header": "goal sc-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Develop a Smart City plan that includes comprehensive recommendations for multimodal projects and priorities, including creating and implementing a long-term Electric Vehicle (EV) Plan.",
+      "verbatim_text": "Policy SC-1.E: Develop a 'Smart City' plan that includes comprehensive recommendations for multimodal projects and priorities the City can implement over time.\n\nStrategy SC-1.E-5: Create and implement a long-term Electric Vehicle (EV) Plan in collaboration with Colorado Springs Utilities and other stakeholders.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL SC-1",
+      "sector": "Transport",
+      "extraction_rationale": "Policy commits to Smart City mobility planning; strategy explicitly commits to creating and implementing an EV Plan."
+    }
+  },
+  {
+    "cluster_id": 54,
+    "cluster_type": "individual",
+    "section_header": "goal sc-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Maximize multimodal transportation options serving Downtown to reduce the need for individual car ownership and use.",
+      "verbatim_text": "Policy SC-1.F: Maximize multimodal transportation options serving the Downtown area to reduce the need for individual car ownership and use by visitors, residents, and employees.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL SC-1",
+      "sector": "Transport",
+      "extraction_rationale": "Explicit policy with clear objective (reduce car ownership/use) through multimodal options."
+    }
+  },
+  {
+    "cluster_id": 55,
+    "cluster_type": "individual",
+    "section_header": "goal sc-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Reduce barriers and negative impacts of major transportation corridors while maintaining needed capacity and function.",
+      "verbatim_text": "Policy SC-1.G: Reduce the barrier and other negative impacts of major transportation corridors without unreasonably reducing their capacity and function.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL SC-1",
+      "sector": "Transport",
+      "extraction_rationale": "Policy directive to mitigate corridor impacts, supported by strategies on crossings and retrofits."
+    }
+  },
+  {
+    "cluster_id": 56,
+    "cluster_type": "individual",
+    "section_header": "goal sc-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Improve neighborhood livability by connecting neighborhoods to Neighborhood Centers and reducing vehicular speeds.",
+      "verbatim_text": "Policy SC-1.H: Improve neighborhood livability by providing connections between neighborhoods and Neighborhood Centers (Chapter 3: Typology 1) and by reducing vehicular speeds.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL SC-1",
+      "sector": "Transport",
+      "extraction_rationale": "Concrete transportation/urban design policy aiming at speed management and local connections."
+    }
+  },
+  {
+    "cluster_id": 57,
+    "cluster_type": "individual",
+    "section_header": "goal sc-2",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Systematically support and encourage the density and design needed for robust transit, beginning with Downtown, key corridors, activity centers, and trip generators.",
+      "verbatim_text": "Policy SC-2.A: Systematically support and encourage the density and design needed to support this network beginning with Downtown, key corridors, activity centers, and trip generators.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL SC-2",
+      "sector": "Transport",
+      "extraction_rationale": "Transit-supportive land use policy (density/design) tied to specific locations."
+    }
+  },
+  {
+    "cluster_id": 58,
+    "cluster_type": "individual",
+    "section_header": "goal sc-2",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Enhance and strategically expand the existing transit system to make it a more viable option.",
+      "verbatim_text": "Policy SC-2.B: Continue to enhance the existing transit system to make it a more viable option and strategically expand the existing system in response to new needs.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL SC-2",
+      "sector": "Transport",
+      "extraction_rationale": "Explicit policy commitment to expand/enhance transit service."
+    }
+  },
+  {
+    "cluster_id": 59,
+    "cluster_type": "individual",
+    "section_header": "goal sc-2",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Actively plan for high-speed commuter rail or similar service along the Front Range, including preserving potential rail corridors.",
+      "verbatim_text": "Policy SC-2.C: Actively plan for a high-speed commuter rail or similar service along the Front Range.\n\nStrategy SC-2.C-2: Preserve existing and potential railway corridors within the city for possible use as future rail corridors between Colorado Springs and Denver.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL SC-2",
+      "sector": "Transport",
+      "extraction_rationale": "Policy and strategy include a concrete protective action (corridor preservation) for future rail."
+    }
+  },
+  {
+    "cluster_id": 60,
+    "cluster_type": "individual",
+    "section_header": "goal sc-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Design new and redeveloped projects to reduce contributions to regional stormwater flows and improve runoff quality.",
+      "verbatim_text": "Policy SC-3.A: Design new and redeveloped projects to reduce their contribution to regional stormwater flows and to improve the quality of the runoff that is generated.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL SC-3",
+      "sector": "Water",
+      "extraction_rationale": "Stormwater management policy with clear performance objectives (flow reduction, water quality)."
+    }
+  },
+  {
+    "cluster_id": 61,
+    "cluster_type": "individual",
+    "section_header": "goal sc-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Design stormwater infrastructure as an integral, connected part of development/redevelopment and preserve naturalistic stream features where feasible.",
+      "verbatim_text": "Policy SC-3.B: Design stormwater infrastructure as an integral and connected part of new development and redeveloping areas and preserve or incorporate naturalistic stream profiles and features where feasible.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL SC-3",
+      "sector": "Water",
+      "extraction_rationale": "Commits to integrated stormwater design and nature-based features where feasible."
+    }
+  },
+  {
+    "cluster_id": 62,
+    "cluster_type": "individual",
+    "section_header": "goal sc-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Continue to invest in upgrading and maintaining stormwater facilities and infrastructure.",
+      "verbatim_text": "Policy SC-3.C: Continue to invest in upgrading and maintaining facilities and infrastructure to manage stormwater.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL SC-3",
+      "sector": "Water",
+      "extraction_rationale": "Explicit investment commitment for stormwater infrastructure upgrades/maintenance."
+    }
+  },
+  {
+    "cluster_id": 63,
+    "cluster_type": "individual",
+    "section_header": "goal sc-4",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Efficiently use existing utility system capacity.",
+      "verbatim_text": "Policy SC-4.A: Efficiently use the existing utility system capacity.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL SC-4",
+      "sector": "Energy",
+      "extraction_rationale": "Utilities policy focused on efficiency and capacity management (supported by infill/density strategies)."
+    }
+  },
+  {
+    "cluster_id": 64,
+    "cluster_type": "individual",
+    "section_header": "goal sc-4",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Support Colorado Springs Utilities and other investments in smart technologies to reduce energy consumption.",
+      "verbatim_text": "Policy SC-4.B: Support CSU and other investments in smart technologies to reduce energy consumption.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL SC-4",
+      "sector": "Energy",
+      "extraction_rationale": "Explicit policy to invest/support smart technologies for energy reduction."
+    }
+  },
+  {
+    "cluster_id": 65,
+    "cluster_type": "individual",
+    "section_header": "goal rc-1",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Preserve historic and cultural resources and integrate history/heritage themes into design and development.",
+      "verbatim_text": "Policy RC-1.A: Continue to preserve and advance Colorado Springs' historic and cultural resources and integrate themes and features into design and development that represent Colorado Springs' history and heritage.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-1",
+      "sector": "Urban planning",
+      "extraction_rationale": "Explicit preservation and design-integration policy for historic/cultural resources."
+    }
+  },
+  {
+    "cluster_id": 66,
+    "cluster_type": "individual",
+    "section_header": "goal rc-2",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Support existing and new defining institutions for arts and culture.",
+      "verbatim_text": "Policy RC-2.A: Support existing and new Defining Institutions (Typology 1) for arts and culture.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-2",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Direct support commitment for arts/culture institutions."
+    }
+  },
+  {
+    "cluster_id": 67,
+    "cluster_type": "individual",
+    "section_header": "goal rc-2",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Promote arts and cultural hubs and focal points as elements of activity centers throughout the city.",
+      "verbatim_text": "Policy RC-2.B: Promote existing and new arts and cultural hubs, venues, and focal points as elements of activity centers throughout the city.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-2",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Policy integrating cultural infrastructure into urban activity centers."
+    }
+  },
+  {
+    "cluster_id": 68,
+    "cluster_type": "individual",
+    "section_header": "goal rc-2",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Increase accessibility and awareness of the city's attractions, activities, and resources across all cultural typologies.",
+      "verbatim_text": "Policy RC-2.C: Increase accessibility and awareness about the city's unique attractions, activities, and resources, across all cultural typologies.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-2",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Commitment to actions that increase access/awareness (e.g., marketing, wayfinding tech)."
+    }
+  },
+  {
+    "cluster_id": 69,
+    "cluster_type": "individual",
+    "section_header": "goal rc-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Integrate arts, culture, and education as part of the planning process.",
+      "verbatim_text": "Policy RC-3.A: Integrate arts, culture, and education as part of the planning process.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-3",
+      "sector": "Urban planning",
+      "extraction_rationale": "Explicit requirement to incorporate arts/culture/education in planning."
+    }
+  },
+  {
+    "cluster_id": 70,
+    "cluster_type": "individual",
+    "section_header": "goal rc-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Reinforce Downtown as an historic, cultural, and entertainment center of the community and region.",
+      "verbatim_text": "Policy RC-3.B: Reinforce Downtown as an historic, cultural, and entertainment center of the community and the region.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-3",
+      "sector": "Urban planning",
+      "extraction_rationale": "Policy direction focusing on Downtown’s role, supported by strategies including Experience Downtown implementation and activating vacant storefronts."
+    }
+  },
+  {
+    "cluster_id": 71,
+    "cluster_type": "individual",
+    "section_header": "goal rc-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Encourage creation and evolution of creative districts and corridors through support and attraction of museums, performance venues, and galleries.",
+      "verbatim_text": "Policy RC-3.C: Encourage the creation and evolution of Creative Districts and Corridors (Typology 4) throughout the city through support and attraction of additional museums, performance venues, and galleries for the fine and performance arts.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-3",
+      "sector": "Urban planning",
+      "extraction_rationale": "Policy commits to expanding creative districts/corridors with specific cultural facilities."
+    }
+  },
+  {
+    "cluster_id": 72,
+    "cluster_type": "individual",
+    "section_header": "goal rc-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Integrate arts into the natural landscape with outdoor concert venues and public art in parks and along greenways.",
+      "verbatim_text": "Policy RC-3.D: Integrate the arts into the natural landscape with outdoor concert venues and public art in parks and along greenways to support Pop-Up Culture (Typology 6).",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-3",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Actionable policy linking arts programming/infrastructure with parks/greenways."
+    }
+  },
+  {
+    "cluster_id": 73,
+    "cluster_type": "individual",
+    "section_header": "goal rc-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Encourage adaptability of public rights-of-way and public gathering space to accommodate events and exhibits (including festival streets).",
+      "verbatim_text": "Policy RC-3.E: Encourage the adaptability of public rights-of-way and public gathering space to accommodate a wide variety of events and exhibits.\n\nStrategy RC-3.E-3: Designate festival streets within the Unique Places typologies around the city that can be temporarily closed or otherwise repurposed for special events.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-3",
+      "sector": "Urban planning",
+      "extraction_rationale": "Policy and strategy provide specific intervention: designate festival streets and adapt ROW for events."
+    }
+  },
+  {
+    "cluster_id": 74,
+    "cluster_type": "individual",
+    "section_header": "goal rc-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Support creative placemaking and environments for artistic expression within creative districts and corridors (including partnerships for artist housing and studio space).",
+      "verbatim_text": "Policy RC-3.F: Support creative placemaking and environments for artistic expression within Creative Districts and Corridors.\n\nStrategy RC-3.F-1: Continue partnerships with local and state organizations like ArtSpace to develop attainable housing and studio space for local artists, similar to the Space to Create Colorado initiative.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-3",
+      "sector": "Urban planning",
+      "extraction_rationale": "Policy plus concrete implementation via partnerships to develop attainable housing/studio space for artists."
+    }
+  },
+  {
+    "cluster_id": 75,
+    "cluster_type": "individual",
+    "section_header": "goal rc-3",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Empower neighborhoods to add music, art, and culture to community events (via neighborhood plans).",
+      "verbatim_text": "Policy RC-3.G: Empower neighborhoods to add music, art, and culture to their communities and community events.\n\nStrategy RC-3.G-1: Encourage neighborhood-specific arts, culture, and educational opportunities in Neighborhood Plans.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-3",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Policy direction to enable/encourage neighborhood-level cultural programming through planning."
+    }
+  },
+  {
+    "cluster_id": 76,
+    "cluster_type": "individual",
+    "section_header": "goal rc-4",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Recognize and incentivize local and regional food production/procurement, including creating a city-run recognition program and adopting procurement rules encouraging local/regional vendors.",
+      "verbatim_text": "Policy RC-4.A: Recognize and incentivize the production and procurement of local and regional food as fundamental to our city's identity as a Healthy Eating & Active Living (HEAL) city.\n\nStrategy RC-4.A-1: Create a city-run recognition program that highlights restaurants, stores, and institutions that utilize and sell local and regional food products.\n\nStrategy RC-4.A-2: Adopt procurement rules that encourage the use of local and regional food vendors for city contract.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-4",
+      "sector": "Agriculture & food",
+      "extraction_rationale": "Contains concrete program creation and procurement rule changes tied to local food systems."
+    }
+  },
+  {
+    "cluster_id": 77,
+    "cluster_type": "individual",
+    "section_header": "goal rc-4",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Encourage culinary events and pop-up food culture (including continuing zoning and code supportive of food trucks and farmers markets).",
+      "verbatim_text": "Policy RC-4.B: Encourage culinary events, collectives, and other food-related Pop-Up Culture that celebrate local chefs and food artisans.\n\nStrategy RC-4.B-1: Continue to provide zoning and other Code regulations supportive of both temporary and more permanent locations for food trucks, and farmers markets throughout the city.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-4",
+      "sector": "Agriculture & food",
+      "extraction_rationale": "Policy with specific regulatory mechanism (zoning/code support) for food trucks and farmers markets."
+    }
+  },
+  {
+    "cluster_id": 78,
+    "cluster_type": "individual",
+    "section_header": "goal rc-4",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Support options for healthy and locally produced food, including zoning that increases access to local food and supports urban agriculture.",
+      "verbatim_text": "Policy RC-4.C: Support options for healthy and locally produced food.\n\nStrategy RC-4.C-1: Support zoning that increases access to local food and supports urban agriculture.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-4",
+      "sector": "Agriculture & food",
+      "extraction_rationale": "Includes explicit land-use/zoning intervention to support urban agriculture and food access."
+    }
+  },
+  {
+    "cluster_id": 79,
+    "cluster_type": "individual",
+    "section_header": "goal rc-5",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Build on collaboration with philanthropic foundations, nonprofits, and faith-based groups to connect residents with resources and activities.",
+      "verbatim_text": "Policy RC-5.A: Build on the momentum of local organizations to connect residents with community-based resources and activities.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-5",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Policy commitment to partner/collaborate with community organizations."
+    }
+  },
+  {
+    "cluster_id": 80,
+    "cluster_type": "individual",
+    "section_header": "goal rc-5",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Maintain and financially support the sustainability of arts and cultural programming, facilities, and initiatives of community assets.",
+      "verbatim_text": "Policy RC-5.B: Maintain and financially support the sustainability of arts and cultural programming, facilities and initiatives of our Community Assets (Typology 2).",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-5",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Explicit financial support commitment for arts/cultural programming and facilities."
+    }
+  },
+  {
+    "cluster_id": 81,
+    "cluster_type": "individual",
+    "section_header": "goal rc-6",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Reinforce defining institutions and community assets as hubs of educational activity (including partnerships with higher learning institutions).",
+      "verbatim_text": "Policy RC-6.A: Reinforce the city's Defining Institutions and Community Assets as hubs of educational activity.\n\nStrategy RC-6.A-1: Partner with the city's institutions of higher learning on their plans for growth, adaptation, and reinvestment.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-6",
+      "sector": "Cross-sector",
+      "extraction_rationale": "Policy and strategy commit to partnerships and planning support for education hubs."
+    }
+  },
+  {
+    "cluster_id": 82,
+    "cluster_type": "individual",
+    "section_header": "goal rc-6",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Support a network of public resources and community assets to address educational/training needs and function as places for community activity (including reviewing/approving plans to enhance neighborhood integration).",
+      "verbatim_text": "Policy RC-6.B: Support a network of public resources, schools, community centers and other Community Assets that address the city's educational and training needs and also function as places for community activity.\n\nStrategy RC-6.B-1: Review and approve plans for new or redeveloped educational facilities and other Community Assets (Typology 2) to enhance integration within the surrounding neighborhood with an emphasis on access connectivity.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "GOAL RC-6",
+      "sector": "Urban planning",
+      "extraction_rationale": "Commits to supporting and approving educational/community facilities in ways that improve integration and access connectivity."
+    }
+  },
+  {
+    "cluster_id": 83,
+    "cluster_type": "individual",
+    "section_header": "capacity calculations methodology",
+    "parent": null,
+    "subs": [],
+    "individual": {
+      "policy_statement": "Recalculate the city’s future development capacity analysis periodically (at least every five years) using a recalibrated methodology reflecting emerging trends, patterns, and conditions.",
+      "verbatim_text": "Therefore, it is recommended that this capacity analysis be recalculated on a periodic basis (at least every five years), using a recalibrated methodology that best reflects emerging trends, pattern and conditions.",
+      "policy_type": "individual",
+      "parent_policy_name": null,
+      "section_header": "CAPACITY CALCULATIONS METHODOLOGY",
+      "sector": "Urban Planning",
+      "extraction_rationale": "This is an explicit recommendation with a defined minimum frequency (“at least every five years”) and a specified action (recalculate the capacity analysis using a recalibrated methodology)."
+    }
+  }
+]

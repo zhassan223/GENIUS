@@ -1,0 +1,236 @@
+[
+  {
+    "policy_statement": "The Government of Armenia approved the Nationally Determined Contributions (2021-2030) with an unconditional target to reduce emissions by 40% below 1990 levels by 2030.",
+    "verbatim_text": "On  April  22,  2021  the  Government  of Armenia  approved  Armenia's  Nationally Determined Contributions (NDC) for a tenyear  implementation  period  (2021-2030), setting  the  new  unconditional  mitigation target of 40% reduction below 1990 emissions levels, to be achieved in 2030.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "S-3. Mitigation Policies and Actions",
+    "sector": "Economy-wide",
+    "extraction_rationale": "Contains a quantified national mitigation target with a deadline (40% below 1990 by 2030) approved by government."
+  },
+  {
+    "policy_statement": "Under the Republic of Armenia Energy Sector Development Strategic Program (till 2040), Armenia plans to increase solar generation to at least 15% of total electricity generation (or 1.8 billion kWh) by 2030.",
+    "verbatim_text": "According to the Republic of  Armenia Energy Sector Development Strategic Program (till 2040)\", 2021, the RA Government has intended to increase the share of solar energy generation in total to at least 15% or 1.8 billion kWh by 2030.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "S-3. Mitigation Policies and Actions",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified sector target (share and kWh) with a deadline (2030) within an adopted strategic program."
+  },
+  {
+    "policy_statement": "Armenia plans to construct about 1000 MW of solar power plants (including autonomous ones) by 2030 to support reaching solar generation targets.",
+    "verbatim_text": "According  to  'The  Republic  of  Armenia Energy Sector Development Strategic Program (till 2040)\", 2021, it is planned to increase the share of solar energy generation  in  total  to  at  least  15%  or  1.8 billion  kWh  by  2030.  To  this  end,  solar power  plants  with  the  capacity  of  about 1000 MW, including autonomous ones, are planned to be constructed.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.4 Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete infrastructure plan with quantified capacity (~1000 MW) and timeline (by 2030)."
+  },
+  {
+    "policy_statement": "Armenia plans to commission the Masrik-1 utility-scale solar PV plant (55 MW peak) by 2022 and hold tenders for additional solar PV plants totaling about 520 MW (including two 200 MW plants).",
+    "verbatim_text": "It is planned by 2022 to commission Masrik-1 utility scale solar PV with a peak capacity  of  55  MW.  Further,  new  tenders will be held for the construction of another 7 solar PVs with a total installed capacity of about 520 MW, whereby the capacity of two of these plants will be 200 MW each.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.4 Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Specific planned actions with clear capacities and a commissioning date plus procurement/tenders."
+  },
+  {
+    "policy_statement": "Armenia will support construction of solar PV power plants up to 500 kW without licensing and allow sale of excess electricity to the grid through net metering, enabled by 2016 amendments to the energy laws.",
+    "verbatim_text": "Creating regulatory framework and incentives for promotion of solar generation for own needs through amendments to the RA Law on Energy and to the RA Law on Energy Saving and Renewable Energy, 2016. Customers are enabled to generate electricity from solar energy for own needs with a peak capacity of up to 500 kW without licensing, as well as to sell the excess generation to the grid (net metering).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.1 Mitigation actions and their effects",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit legal/regulatory mechanism (law amendments) establishing a concrete policy instrument (license exemption up to 500 kW and net metering)."
+  },
+  {
+    "policy_statement": "Armenia targets total installed capacity of autonomous producers to reach 100 MW by 2023 (as envisaged by the Energy Sector Development Strategy up to 2040).",
+    "verbatim_text": "It is envisaged by the Strategy (up to 2040) that total installed capa- cities of autonomous producers will reach 100 MWby 2023.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.1 Mitigation actions and their effects",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified capacity target with a deadline for a defined policy category (autonomous producers)."
+  },
+  {
+    "policy_statement": "The RA Government adopted a decree on applying measures for energy saving and increasing energy efficiency in facilities built at the expense of state funds, and subsequent legal/technical regulations requiring energy efficiency compliance in new residential buildings and in state-funded construction/renovation projects.",
+    "verbatim_text": "For  this  reason,  back  in  2014  the  RA Government  adopted  a  Decree  \"On  the application  of  measures  aimed  at  energy saving and increasing energy efficiency in facilities built at the expense of state funds\", laterAmendment  to the 'RA Energy Saving and Renewable Energy\" Law, 2016, providing  for  mandatory  compliance  with the EE requirements in newly  constructed residential buildings and in facilities under construction  (reconstructed,  repaired)  at the  expense  of  state  funds,    with  the subsequent adoption of technical regulation setting energy requirements for energy  saving  in  the  mentioned  facilities (2018).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "1.7 Housing",
+    "sector": "Buildings",
+    "extraction_rationale": "Binding mechanisms: government decree, law amendment, and technical regulation establishing mandatory EE requirements."
+  },
+  {
+    "policy_statement": "Armenia aims to reduce electricity distribution losses to 6.4% in 2027 under Electric Networks of Armenia's 2016-2027 investment program.",
+    "verbatim_text": "Reduction of distribution losses to 6.4% in 2027 (ENA 2016-2027 Investment program).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.1 Mitigation actions and their effects",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified performance target (losses to 6.4%) with a deadline under an investment program."
+  },
+  {
+    "policy_statement": "Armenia plans to reach total small hydropower plant (SHPP) capacity of 430 MW by 2023, supported by the Hydro Energy Development Concept and 15-year Power Purchase Agreements under the Energy Law.",
+    "verbatim_text": "In 2016 the GoA approved the Hydro Energy Development Concept of the RA, which envisages commissioning of new SHPPs. The Energy Law supports the development of SHPPs through the Power Purchasing Agreement for the 15- year period.\n\nQuantitative goal: To reach the total capacity of SHPPs of 430 MWby 2023.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.1 Mitigation actions and their effects",
+    "sector": "Energy",
+    "extraction_rationale": "Clear policy support instrument (15-year PPA) and quantified capacity target with timeline."
+  },
+  {
+    "policy_statement": "Under the Strategy and Action Plan, Armenia will construct medium utility-scale solar PV power plants totaling 175 MW by end-2024, including Masrik-1 (55 MW) in 2022 and additional 120 MW by end-2024.",
+    "verbatim_text": "According to the Strategy and Action Plan, medium utility-scale solar power plants with total capa- city of 175 MWwill be constructed by the end of 2024. It includes: • PV 'Masrik-1', with a peak capa- city of 55 MW(about 110 GWh of annually produced electricity) in 2022; • Additional solar PVs with total capacity of 120 MWwill be cons- tructed by the end of 2024 (about 192 GWh of annually produced electricity).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.1 Mitigation actions and their effects",
+    "sector": "Energy",
+    "extraction_rationale": "Specific construction commitment with quantified capacities and deadlines tied to named Strategy/Action Plan."
+  },
+  {
+    "policy_statement": "Under the Strategy and Action Plan, Armenia envisages construction of two 200 MW solar PV plants (400 MW total) in 2023 and 2024, including the 200 MW 'Ayg-1' plant.",
+    "verbatim_text": "According to the Strategy and Action Plan construction of 2 Solar PVs with the capacity of 200MW each is envisaged in 2023 and 2024.\n\nRequest for Qualification was announced in 2020 seeking private developers for a pro- ject to design, finance, build, own, and operate the first of considered 2 plants, which will be grid-connected 200MW solar PV power plant called 'Ayg-1'.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.1 Mitigation actions and their effects",
+    "sector": "Energy",
+    "extraction_rationale": "Planned utility-scale build-out with quantified capacities, years, and a named project with procurement step."
+  },
+  {
+    "policy_statement": "Armenia will support installation of solar PV plants up to 5 MW through tariff policy and power purchase agreements, targeting 315 MW of such PV capacity by 2030.",
+    "verbatim_text": "According to the Strategy and Action Plan, the construction of solar PV power plants with an installed capacity of up to5MW (inclusively) will be supported through tariff policy and power purchase agreement.\n\nThe quantitative goal is to support the installation of the total of 315 MWof solar PV power plants with an installed capacity of up to5MW (inclusively) by 2030.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.1 Mitigation actions and their effects",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit support mechanism (tariff policy and PPA) plus a quantified capacity goal with deadline."
+  },
+  {
+    "policy_statement": "Armenia established a basic national MRV system with inter-agency coordination and verification under the Ministry of Environment, and indicates that legal/formal arrangements are still needed to specify institutional obligations for climate data provision and quality assurance.",
+    "verbatim_text": "The basic national MRV system, comprising of horizontal inter-agency coordination  and  verification  mechanism under the overall formal coordination by the Ministry of Environment, has already been established in the country.\n\nHowever, legal / formal arrangements are still needed to specify obligations of corresponding institutions in terms of climate-related  data  provision  and  quality assurance.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "S-5. Measurement, Reporting and Verification",
+    "sector": "Cross-cutting",
+    "extraction_rationale": "States an established system (MRV) and identifies the need for legal/formal arrangements; the establishment qualifies as an implemented governance measure."
+  },
+  {
+    "policy_statement": "The Government of Armenia approved RA Government Protocol Decision N 49-8 (8 December 2016) approving a list of measures (including for 2017–2021) to fulfill obligations under international environmental conventions including the UNFCCC and Paris Agreement, and assigning responsible agencies.",
+    "verbatim_text": "The most recent update of the list of measures took place in 2016, when the RA Government  Protocol  Decision  N  49-8  of December 8, 2016, 'On approval of the list of measures to be implemented in the fulfillment of the Republic of Armenia's Obligations  Emanated  from  a  number  of International  Environmental  Conventions' was adopted, outlining, inter alia the measures to be implemented within 20172021  in  fulfillment  of  the  obligations  and provisions  arising  from  the  UNFCCC  and Paris  Agreement,  as  well  as  assigns  the responsible  agencies.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "CHAPTER 5. MEASUREMENT, REPORTING AND VERIFICATION",
+    "sector": "Cross-cutting / MRV",
+    "extraction_rationale": "Cites an adopted government protocol decision that approves a measures list with a timeframe and assigns responsible agencies (binding administrative action)."
+  },
+  {
+    "policy_statement": "Under Protocol Decision N 49-8 (2016), Armenia assigned the Ministry of Environment responsibility for overall coordination of GHG inventories, national communications, biennial update reports, and establishment of the MRV system.",
+    "verbatim_text": "According  to  the Decision, the Ministry of Environment of RA assumes responsibility for the overall coordination  of  development  of  the  GHG inventories, national communications, biennial  update  reports  of  Armenia  and establishment of the Monitoring, Reporting and Verification (MRV) system.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "CHAPTER 5. MEASUREMENT, REPORTING AND VERIFICATION",
+    "sector": "Cross-cutting / MRV",
+    "extraction_rationale": "Defines an institutional mandate assigned by a government decision (governance mechanism for MRV and reporting)."
+  },
+  {
+    "policy_statement": "Armenia established an Inter-agency Coordinating Council on UNFCCC implementation by Prime Minister Decree N 955 (2012), approving its composition and rules of procedure.",
+    "verbatim_text": "To this aim,  in 2012 the Prime Minister (PM) of the Republic of Armenia adopted Decree N 955 'On the establishment of an Inter-agency Coordinating  Council  on  the  implementation of the requirements and provisions of the  UNFCCC  and  the  approval  of  the composition and rules of procedures of the Inter-agency Coordinating Council'.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "CHAPTER 5. MEASUREMENT, REPORTING AND VERIFICATION",
+    "sector": "Cross-cutting / MRV",
+    "extraction_rationale": "A formal decree establishing a coordination body and procedures is a concrete institutional policy instrument."
+  },
+  {
+    "policy_statement": "Armenia developed and submitted a proposal to reform the Inter-agency Coordinating Council on Climate Change to strengthen coordination and civil society participation, including raising chairmanship to Vice PM and creating four permanent working groups plus a temporary working group; approval is being pursued (consultations toward PM approval in 2021).",
+    "verbatim_text": "To improve the process of development of the low carbon and climate-resilient policies and reporting under the Paris Agreement, a proposal  aimed  at  updating  the  composition, mandate, functions and procedures of the  Inter-agency  Coordination  Council  on Climate Change has been developed ... and  submitted  by  the  Ministry  of Environment for the approval by the Prime Minister.\n\nAccording  to  the  proposed  changes,  the new Council is to be chaired by the Vice PM and co-chaired by the Minister of Environment... Furthermore, the draft Decision envisages establishment  of  4  new  Inter-agency  permanent working groups... Moreover,  a  temporary working group is to be established...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "CHAPTER 5. MEASUREMENT, REPORTING AND VERIFICATION",
+    "sector": "Cross-cutting / MRV",
+    "extraction_rationale": "A drafted decision/proposed reform with specified governance changes and structures is a concrete planned policy action (though pending approval)."
+  },
+  {
+    "policy_statement": "Armenia developed a draft Law 'On Atmospheric Air Protection' to set up a unified system for recording hazardous substances and GHG emissions; it is being finalized and intended for government approval/submission in 2021.",
+    "verbatim_text": "The draft Law 'On Atmospheric Air  Protection'  has been developed envisaging setting set up a unified system for the recording of hazardous substances and GHG emissions... The document has undergone intensive consultations with the Government and stakeholders. It is currently being finalized by the Ministry of Environment and will be submitted for the Government approval in 2021.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "GHG Inventory",
+    "sector": "Cross-cutting / MRV",
+    "extraction_rationale": "Draft legislation with a defined mechanism (unified recording system) and planned submission/approval timeline qualifies as a policy initiative."
+  },
+  {
+    "policy_statement": "Armenia approved the CEPA Implementation Roadmap (PM Decision 666-L) requiring establishment of a national greenhouse gas inventory system and a national MRV mechanism by 2026.",
+    "verbatim_text": "In  order  to  address  this  obligation,  the CEPA Implementation Roadmap has been approved by Decision 666-L of the Prime Minister and endorsed at the second meeting  of  the  Armenia-EU  Partnership Council  on  13  June  2019.  The  Roadmap also requires the establishment of a national greenhouse gas  inventory  system  and  of  a  national MRV mechanism by 2026.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "GHG Inventory",
+    "sector": "Cross-cutting / MRV",
+    "extraction_rationale": "An approved roadmap with a deadline (by 2026) requiring establishment of inventory/MRV systems is a concrete policy requirement."
+  },
+  {
+    "policy_statement": "Armenia amended the Law on Ozone Depleting Substances on 26 May 2020 to include HFCs, renaming it the Law on Protection of the Ozone Layer, and adopted Government Decision No 1368-N (20 August 2020) approving a list of 18 HFC gases.",
+    "verbatim_text": "To this end, corresponding amendments were made to the Law of RA on Ozone Depleting Substances on 26 May 2020 aimed to extend its coverage so that HFCs are included. Accordingly, the title of the law has been changed to the Law of RA on Protection of the Ozone Layer. Later, on 20 August 2020, the Government Decision No 1368-N on 'Approval of HFCs list' was adopted that set a list of 18 HFC gases.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "GHG Inventory",
+    "sector": "IPPU / F-gases",
+    "extraction_rationale": "Explicit legal amendments and a government decision expanding scope to HFCs and setting an HFC list are binding policy/regulatory actions."
+  },
+  {
+    "policy_statement": "Climate Change-related Statistics was developed and adopted in February 2020 by a Resolution of the State Council on Statistics, setting priorities/actions to improve the climate change-related national statistical system including data for GHG inventories and mitigation/adaptation efforts.",
+    "verbatim_text": "Climate Change-related Statistics was developed and adopted in February 2020 by a Resolution of the State Council on Statistics.  The  Road  Map outlines  the  priorities and  actions  for  improvement  of  climate change-related national statistical system, including the data needed for development of national GHG inventories, as well as on climate  change  mitigation  and  adaptation efforts.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "GHG Inventory",
+    "sector": "Cross-cutting / MRV",
+    "extraction_rationale": "Adoption by a formal resolution establishing a roadmap/priorities for climate statistics is a concrete institutional policy measure."
+  },
+  {
+    "policy_statement": "Armenia proposed a continuous GHG inventory data-collection approach based on MoUs: an MoU between the Ministry of Environment and the Statistics Committee for current-scope data provision, plus MoUs with other state organizations, utility companies/natural monopolies, and (if needed) private sector data via the Statistics Committee.",
+    "verbatim_text": "Based on the experience gained and lessons learned through development of BURs, and as a result of discussions with the Statistics Committee, the following approach is proposed... (i)  on  a  basis  of  a  MoU  signed  between the Ministry of Environment and the Statistics  Committee...; (ii) individual MoUs on data provision  are  signed  with  the  state  organizations...; (iii) individual MoUs are signed with utility companies and natural monopolies...; (iv) any data from private sector  entities... is to be obtained through the Statistics Committee...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "GHG Inventory",
+    "sector": "Cross-cutting / MRV",
+    "extraction_rationale": "Specifies an institutional mechanism (MoUs with defined parties and roles) to enable continuous data flow for national reporting; framed as a proposed policy arrangement."
+  },
+  {
+    "policy_statement": "Armenia developed and had approved by the CDM Executive Board an updated standardized ex-ante grid emission factor baseline for the next three years (approved February 2021) to support unified assessment of mitigation effects for renewable energy and energy efficiency activities.",
+    "verbatim_text": "The updated standardized (ex-ante) baseline  on  grid  emission  factor (GEF) for  the next 3 years was developed by the Ministry of Environment... and approved by the CDM Executive Board in February 2021... The standardized baseline, once approved, will  allow  continuing  the  established practice of the unified and creditable assessment  of  climate  change  mitigation effect of renewable energy and energy efficiency activities in the country...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Mitigation",
+    "sector": "Cross-cutting / MRV",
+    "extraction_rationale": "An approved standardized baseline (methodological instrument) enabling consistent mitigation impact accounting is a concrete policy-relevant MRV measure."
+  },
+  {
+    "policy_statement": "Armenia is establishing a building-sector MRV system through the UNDP-GCF project 'De-risking and Scaling-up Investment in Energy Efficient Building Retrofits', including finalizing and submitting to EPIU a roadmap for piloting EMIS in public buildings and monitoring methodology for energy savings and GHG reductions, and supporting EMIS establishment in municipalities/public entities.",
+    "verbatim_text": "The establishment of  domestic  MRV  system for mitigation actions in building sector is facilitated by the 'De-risking and Scalingup Investment in Energy Efficient Building Retrofits' UNDP-GCF project... To  that  end,  the Roadmap for  piloting  of  Energy  Management Information Systems (EMIS) in public buildings, as well as the Report on monitoring  methodology for calculation of  energy savings  and  greenhouse  gas  reductions... have been finalized and submitted to the EPIU.\n\nProject also supports the establishment of EMIS in municipalities and public entities.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Mitigation",
+    "sector": "Buildings / Energy efficiency",
+    "extraction_rationale": "Describes an ongoing project implementing concrete MRV infrastructure and methodologies (roadmap, EMIS piloting, monitoring methods)."
+  },
+  {
+    "policy_statement": "Armenia developed a draft Government Decision to approve the National Framework Strategy on Adaptation to Climate Change Impacts for 2021–2030 and the Action Plan for 2021–2025, which envisages establishing an NAP Accountability, Monitoring and Evaluation (AME) process building on the national MRV system.",
+    "verbatim_text": "The draft Decision of the Government of Armenia on \"Approval of the National Framework  Strategy  on  Adaptation  to  Climate Change Impacts for 2021-2030 and the Action  Plan  for  2021-2025\"  was  developed (approval is expected in 2021), envisaging, inter alia, to establish NAP Accountability, Monitoring and Evaluation (AME) process. It  is  envisaged  that  the  AME  system  will build  on  the  country's Monitoring,  Reporting  and  Verification  (MRV)  system  for  climate change mitigation.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Adaptation",
+    "sector": "Adaptation",
+    "extraction_rationale": "A draft government decision for an adaptation strategy/action plan with specified MRV/AME establishment is a concrete policy instrument (pending approval)."
+  },
+  {
+    "policy_statement": "Armenia initiated the UNDP-GEF CBIT project 'Building Armenia's national transparency framework under Paris Agreement' to establish national institutional arrangements for an enhanced transparency framework and shift from ad hoc reporting to continuous MRV to track progress against NDC commitments and meet reporting requirements.",
+    "verbatim_text": "To  this  aim,  Armenia  has  initiated  the UNDP-GEF  'Building  Armenia's  national transparency framework under Paris Agreement' project to be implemented under the Capacity Building Initiative for Transparency  (CBIT)...\n\nThe  project  will  establish  national  institutional arrangements for an enhanced transparency framework to shift from the current practice of ad hoc reporting to a continuous process of MRV that will allow the country to  track  its  progress  against  its  commitments under the NDC...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Building domestic MRV system through participation in CBIT",
+    "sector": "Cross-cutting / MRV",
+    "extraction_rationale": "An initiated, named project with explicit objective to establish institutional arrangements for continuous MRV/transparency qualifies as a concrete policy/program action."
+  }
+]

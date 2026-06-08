@@ -1,0 +1,42 @@
+{
+  "doc_id": "London_England_1932fd8e2a",
+  "total_chunks": 1,
+  "total_policies_before_resolve": 13,
+  "total_policies_after_resolve": 13,
+  "resolver_stats": {
+    "input_count": 13,
+    "dedup_removed": 0,
+    "statement_dedup_removed": 0,
+    "deterministic_links": 0,
+    "llm_arbitrated": 0,
+    "orphan_count": 0,
+    "output_count": 13
+  },
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "word_count": 4251,
+      "has_overlap": false,
+      "ancestor_headings": [],
+      "policies_extracted": 13,
+      "elapsed_seconds": 0.02,
+      "carry_forward_length": 0,
+      "error": null
+    }
+  ],
+  "chunk_provenance": {
+    "London is committed to being a zero carbon city by 2050, with the Mayor setting out actions within his powers to achieve this as soon as possible.": 0,
+    "London will follow an emissions pathway aligned with IPCC recommendations to reduce emissions by 60% on 1990 levels by 2030 and by nearly 80% by 2040.": 0,
+    "At least 70% of London's buildings need to reach energy performance level EPC C by 2030.": 0,
+    "Minimum Energy Efficiency Standards should be set to EPC C across all building types, with effective enforcement, to bring buildings up to an EPC C rating.": 0,
+    "By 2041, around 80% of all trips in London should be made by sustainable modes (cycling, walking and public transport).": 0,
+    "By 2050, all of London's motorised road transport will need to be battery electric or fuel cell electric vehicles.": 0,
+    "The Mayor and GLA group will work with boroughs and stakeholders to deliver a zero carbon transport system by 2050, including implementing the T-Charge and Ultra Low Emission Zone, developing rapid EV charging networks, ending new diesel taxi licensing and ensuring all new taxis are zero-emissions capable, and rolling out electric buses.": 0,
+    "The Mayor will ensure new buildings are zero carbon by setting strong policy through the London Plan.": 0,
+    "The Mayor will support boroughs, Londoners and businesses via technical/support frameworks for energy efficiency and heat networks, and through grant programmes.": 0,
+    "The Mayor will improve energy efficiency in all GLA buildings, transition GLA vehicle fleets to zero emissions, increase renewables on GLA estates, and use collective energy procurement to encourage new renewable projects inside and outside London.": 0,
+    "The Mayor will work with pension funds and other investors to divest from fossil fuels and increase investment in energy efficiency, low carbon transport, and low carbon heat solutions.": 0,
+    "Boroughs will accelerate building stock improvements using support from the Mayor's Energy for Londoners programmes RE:FIT and RE:NEW.": 0,
+    "Boroughs will use low-cost funding from the £500m Mayor's Energy Efficiency Fund (MEEF) for energy efficiency and renewable projects.": 0
+  }
+}

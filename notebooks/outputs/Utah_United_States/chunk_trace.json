@@ -1,0 +1,59 @@
+{
+  "doc_id": "Utah_United_States_187bec85f3",
+  "total_chunks": 1,
+  "total_policies_before_resolve": 30,
+  "total_policies_after_resolve": 30,
+  "resolver_stats": {
+    "input_count": 30,
+    "dedup_removed": 0,
+    "statement_dedup_removed": 0,
+    "deterministic_links": 9,
+    "llm_arbitrated": 5,
+    "orphan_count": 0,
+    "output_count": 30
+  },
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "word_count": 3375,
+      "has_overlap": false,
+      "ancestor_headings": [],
+      "policies_extracted": 30,
+      "elapsed_seconds": 0.06,
+      "carry_forward_length": 0,
+      "error": null
+    }
+  ],
+  "chunk_provenance": {
+    "Adopt and implement the Climate Positive 2040 plan to reduce carbon pollution and build resiliency, including pursuing long-term climate and energy goals through transformational system-level changes.": 0,
+    "Ensure renewable energy provides 100% of Salt Lake City community electricity needs by 2032.": 0,
+    "Implement the Joint Clean Energy Cooperation Statement with Rocky Mountain Power to work together in good faith on energy goals including energy efficiency, EV infrastructure, smart grid investments, and pathways to net-100% renewable energy.": 0,
+    "Commission a third-party renewable energy feasibility study with Summit County and Park City on pathways to 100% renewable energy for each community, to be published in early 2017.": 0,
+    "Release and implement Salt Lake City's Transit Master Plan (2016) and continue collaborating with Utah Transit Authority on enhanced transit service options, including affordability initiatives such as the discounted Hive Pass.": 0,
+    "Develop plans and invest in infrastructure to support active, zero-emissions transportation options such as walking and biking.": 0,
+    "Invest in public EV charging infrastructure and collaborate on programs to offer discounted EVs to residents, and prioritize related initiatives and broader policy measures going forward.": 0,
+    "Implement Project Skyline to accelerate investment in energy efficiency and raise awareness of energy performance among the largest commercial facilities, encouraging owners to evaluate energy use, set goals, and implement cost-effective improvements.": 0,
+    "Continue encouraging adoption of updated, increasingly efficient state-level energy codes for new construction in Utah.": 0,
+    "Prioritize energy benchmarking and tune-ups for commercial buildings using a combination of policy, incentives, and educational resources, and provide guides for home improvements to improve residential efficiency.": 0,
+    "Sponsor the annual Clear the Air Challenge to reduce mobile-source emissions.": 0,
+    "Enforce an idle-free ordinance to limit vehicle idling within Salt Lake City boundaries (adopted in 2011).": 0,
+    "Implement and support investments in local and sustainable food initiatives through the Salt Lake City Food Policy Task Force programs, including Culinary Incubator Kitchen, Dining with Discretion, Excess SLC Food Recovery, Green City Growers, and Salt Lake City FruitShare.": 0,
+    "Support the Culinary Incubator Kitchen by providing affordable kitchen space and business marketing tools/resources for food businesses.": 0,
+    "Run Dining with Discretion to provide resources that empower residents to make low carbon food choices.": 0,
+    "Support Excess SLC Food Recovery to divert consumable food waste from landfill to food assistance programs.": 0,
+    "Implement Green City Growers to expand community garden access by making City-owned/managed land available for development.": 0,
+    "Implement Salt Lake City FruitShare to divert surplus fruit from local trees to individuals with low access to healthy foods.": 0,
+    "Adopt and implement Salt Lake City's Zero Waste Resolution, including goals of achieving zero waste by 2040 and diverting/recycling/composting 70% of the waste stream by 2025.": 0,
+    "Establish fee structures for residential waste and recycling services that encourage waste reduction.": 0,
+    "Expand composting capability in the city to enable food waste diversion.": 0,
+    "Work with local and state partners to develop a long-term plan for regional materials management and explore recycling market development opportunities.": 0,
+    "Require recycling of debris for major construction and renovation projects permitted by the City through the Construction and Demolition Ordinance.": 0,
+    "Require multi-family properties, businesses, and special events to implement recycling programs beginning in 2017 through the Business Recycling Ordinance.": 0,
+    "Embed Climate Positive solutions in city government operations through a set of internal operational policies including comprehensive energy management, net zero construction, renewable energy development, and a clean vehicle fleet.": 0,
+    "Implement a Comprehensive Energy Management Executive Order requiring measures such as energy benchmarking, efficiency investments, facility operator training, and employee engagement to reduce energy waste and spur clean energy development.": 0,
+    "Require new Salt Lake City government facilities above 10,000 square feet (with certain exceptions) to be constructed to Net Zero Energy standards and include onsite and/or offsite renewables to offset anticipated annual carbon emissions.": 0,
+    "Install renewable energy generation on at least 16 separate government properties by end of 2017, obtain the equivalent of three megawatts of solar via Rocky Mountain Power Subscriber Solar, and achieve 50% renewable electricity for government operations by 2020.": 0,
+    "Develop and implement Tailpipe Emissions Reduction Plans to guide fleet investments and operations, and expand/maintain a city fleet that included over 130 hybrid-electric or all-electric vehicles (as of end of 2016).": 0,
+    "Offer the Hive Pass program providing a 50% discounted public transit pass for Salt Lake City residents across regular buses, TRAX, and the S-Line Streetcar.": 0
+  }
+}

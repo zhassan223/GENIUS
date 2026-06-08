@@ -1,0 +1,722 @@
+[
+  {
+    "policy_statement": "Egypt’s sustainable energy policy roadmap targets 22% of total electricity consumption from renewables by 2022 and 80% of electricity demand from local generation by 2020.",
+    "verbatim_text": "Egypt developed its sustainable energy policy road map with the aim to increase the operating and technical efficiency of distribution utilities, improve energy conservation and load management and diversify the sources of the regional electricity supply.\n\nThe goals of this roadmap are three folds:\n\n1. 22% of total electricity consumption sourced from renewables by 2022.\n\n... \n\n4. 80% of electricity demand from local generation (of all fuels) by 2020.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.1. Main ambitions and framing regulations",
+    "sector": "Energy",
+    "extraction_rationale": "Contains quantified national targets with deadlines (renewables share by 2022; local generation share by 2020)."
+  },
+  {
+    "policy_statement": "Egypt plans to increase the share of renewable energies in electricity supply from 9% to 20% by 2020, supported by laws, regulations, and decrees.",
+    "verbatim_text": "The Egyptian Government has set plans to increase the share of Renewable Energies (RE) in its electricity supply from the current 9 per cent to 20 per cent by 2020. Many laws, by-laws, regulations and decrees have been developed and endorsed.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.1. Main ambitions and framing regulations",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified target (20% by 2020) and reference to enabling legal instruments."
+  },
+  {
+    "policy_statement": "Egypt enacted the Renewable Energy and Energy Efficiency Comprehensive Law (EG-REEEL) No. 203 of 2014 to promote renewable energy self-consumption with supporting schemes and incentives and to promote private sector investment in renewable energy.",
+    "verbatim_text": "In accordance with this ambition, the Renewable Energy and Energy Efficiency Comprehensive Law (EGREEEL) No. 203 of year 2014 has been developed to promote RE self-consumption, which has a comprehensive basis for supporting schemes and incentives and promote the use of renewable energy. ... a dedicated and comprehensive law with incentives for the private sector to invest in RE.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.1. Main ambitions and framing regulations",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit legal/regulatory mechanism (named law) with stated purpose and incentives."
+  },
+  {
+    "policy_statement": "Egypt announced net-metering and feed-in-tariff incentives (including endorsement of net metering in September 2014 with the Feed-in-Tariff Law), leading to installation of around 6,000 rooftop PV systems.",
+    "verbatim_text": "In the last two years, several Net-metering and Feed-in-tariff incentives were announced and have led to erecting around 6,000 rooftop PV systems in remote areas. ...\n\nThe REEEL addresses three main issues:\n\n1. Establishment of new RE installations and grid connections, including 'net metering' which has been endorsed in September 2014 with the Feed-in-Tariff Law.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.1. Main ambitions and framing regulations",
+    "sector": "Energy",
+    "extraction_rationale": "Policy incentives explicitly named (net metering, feed-in tariff) and tied to implementation statement."
+  },
+  {
+    "policy_statement": "Egypt’s Energy Efficiency Plan in the Electricity Sector targeted savings of 5,566 GWh between 2012 and 2015 via efficient household lighting (distribution of 60 million bulbs), appliance standards and labelling, and street-lighting energy savings (1,200 GWh).",
+    "verbatim_text": "Egypt has developed an Energy Efficiency Plan in the Electricity Sector saving 5,566 GWH between 2012 and 2015, mainly by measures in the lighting sector, including:\n\n- -The first phase: Change to high efficiency lighting in the household sector. The planned distribution of 60 million bulbs shall save 3,320 GWH,\n- -The second phase: programme of energy efficiency standards and labelling for household appliances. This shall save 1,663 GWH, and\n- -Energy saving in street lighting of 1,200 GWH; supported by the Association of Energy Efficiency Engineers (AEEE).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.1. Main ambitions and framing regulations",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified energy-saving commitments with specific interventions and timeframe."
+  },
+  {
+    "policy_statement": "Egypt adopted an institutional strategy for energy efficiency to establish decentralised Energy Efficiency Offices (EEOs) in energy-intensive sectors responsible for achieving sector-specific energy efficiency indicators.",
+    "verbatim_text": "The Egyptian Cabinet adopted an institutional strategy for energy efficiency, with the aim to establish bundles of decentralised Energy Efficiency Offices (EEOs) in energy-intensive sectors. These EEOs will be responsible for achieving sector-specific energy efficiency indicators.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.1. Main ambitions and framing regulations",
+    "sector": "Energy",
+    "extraction_rationale": "Institutional mechanism with a defined implementation approach (EEOs) and responsibilities."
+  },
+  {
+    "policy_statement": "MoERE approved and adopted a National Action Plan to increase energy efficiency in the electricity sector by approximately 10%.",
+    "verbatim_text": "Following the model of the Arabic energy efficiency guidelines, the MoERE approved and adopted a National Action Plan that provides an increase of approximately 10 per cent in energy efficiency in the electricity sector.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.1. Main ambitions and framing regulations",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit adoption of a plan with a quantified efficiency improvement target."
+  },
+  {
+    "policy_statement": "Egypt’s National Renewable Energy Action Plan (NREAP), finalized March 2015, plans for 20% of total energy generation (9,500 MW) from renewable sources including 7,200 MW wind, 2,300 MW solar, and 5.8% from water.",
+    "verbatim_text": "The National Renewable Energy Action Plan (NREAP) was developed and finalized in March 2015. Furthermore, Egypt is planning to produce 20 per cent of its total energy generation out of renewable energy sources (9500 MW), including:\n\n- -12 % will be produced by wind energy (7200 MW),\n- -2.2 % solar energy, (2300 MW), and\n- -5.8 % energy produced by water.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.1. Main ambitions and framing regulations",
+    "sector": "Energy",
+    "extraction_rationale": "Named plan with quantified capacity and share targets."
+  },
+  {
+    "policy_statement": "Egypt’s NEEAP aims to achieve a 5% reduction in electricity consumption by 2020, consistent with regional guidelines approved by the Arab Ministerial Council of Electricity.",
+    "verbatim_text": "This plan aims to achieve an initial target, specified in the National Energy Strategy, of a 5% reduction in electricity consumption by 2020. The plan is consistent with regional and international efforts known as the 'Arab End Use Electricity Efficiency Improvement and Conversation Guidelines' which were approved by the Arab Ministerial Council of Electricity in 2010.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Energy Efficiency in building sector",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified target with deadline linked to a named plan (NEEAP)."
+  },
+  {
+    "policy_statement": "Egypt’s national target is to lower primary energy consumption by 4.96% every year under a National Plan developed by the Cabinet’s Energy Efficiency Unit and the Supreme Energy Council.",
+    "verbatim_text": "In early 2014, the Egyptian Supreme Energy Council (ESEC) as per its Decree No. 9/11/05/12 and Energy Efficiency Unit (EEU) at the Cabinet developed a National Plan to save energy in electricity and energy sectors. ... The national target is to lower the primary energy consumption by 4.96 per cent every year.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.1. Main ambitions and framing regulations",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified annual target tied to a specific national plan and decree context."
+  },
+  {
+    "policy_statement": "Luxor’s SECAP sets short-term (2020) targets to reduce energy consumption by around 10–15% and reduce GHG emissions by 10% versus the 2015 BAU scenario.",
+    "verbatim_text": "Short-term objectives 2020:\n\n- -Reduce energy consumption across the board by around 10% to 15%, and\n- -Reduce GHG emission by 10% in 2020, compared to the business as usual scenario (2015 baseline).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.5. City of Luxor vision and objectives",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Quantified mitigation targets with a defined year and baseline."
+  },
+  {
+    "policy_statement": "Luxor’s SECAP sets 2030 targets to reduce GHG emissions by at least 26% (and if possible 30%) compared to the BAU scenario.",
+    "verbatim_text": "Medium and long-term objectives 2030:\n\n- -Continue reducing GHG emission with the objective of reaching at least a reduction of 26 per cent by 2030 and if possible going to 30 per cent reduction compare to the BAU scenario.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.5. City of Luxor vision and objectives",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Quantified target with timeframe and baseline comparison."
+  },
+  {
+    "policy_statement": "The Governorate will adopt and systematically apply guiding principles to integrate sustainable development into decision-making, including reducing energy consumption and integrating renewable energy in activities/projects, promoting energy cost-benefit analyses, setting an example via energy efficiency initiatives, partnerships, and public education on energy efficiency and renewables.",
+    "verbatim_text": "The Governorate adopted fundamental principles that aim to integrate sustainable development into all decision-making processes related to local development. The Governorate systematically considers these principles when taking into consideration future action programmes and their energy implications:\n\n- -Ensure energy consumption reduction and the integration of renewable energy development into all activities and projects taking place in its territory...\n- -Promote energy cost-benefit analyses...\n- -Set an example... by promoting concrete initiatives in energy efficiency and energy conservation...\n- -Partnerships: encourage citizens, private sector, NGO participation...\n- -Educate and inform the local population and actors...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.4. Guiding principles for the municipal strategy on sustainable energy",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Explicit municipal commitments describing systematic application and specific action principles."
+  },
+  {
+    "policy_statement": "To implement the SECAP, the Governorate should secure a Sustainable Energy Activity Unit (SEAU) as an autonomous CES-MED unit coordinating with the Strategic Planning Unit and connecting with NREA to embed sustainable energy strategy in development plans.",
+    "verbatim_text": "In order to implement the SECAP, the Governorate should secure its Sustainable Energy Activity Unit (SEAU).\n\nThe SEAU will be in charge of all Governorates' energy related questions. This unit is planned to be an autonomous CES-MED Unit in the Governorate of Luxor, coordinating with the Governorate's Strategic Planning Unit. Also, the CES-MED Unit will be directly in connection with the NREA...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.7. Organisational Aspects – Organisational structure to implement the SECAP",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Institutional setup commitment with defined role and coordination structure."
+  },
+  {
+    "policy_statement": "The Governorate will elaborate a Citizen Awareness Promotion Plan (CAPP) including actions such as a permanent municipal information point, open house, publications, brochures/posters, and an information letter on sustainability and SECAP progress.",
+    "verbatim_text": "The elaboration of the « Citizen Awareness Promotion Plan - CAPP » is meant to educate and inform the local population and stakeholders.\n\nIt could encompass several actions, including:\n\n- The creation of a permanent municipal information point;\n- The organisation of an open house;\n- The publication of articles in local and regional newspapers;\n- The distribution of brochures and posters; and\n- The distribution of an information letter that includes current events on sustainability as well as local success stories.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "3.7.6. Citizen awareness promotion plan",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Concrete planned instrument (CAPP) with enumerated interventions."
+  },
+  {
+    "policy_statement": "Planned actions for the City of Luxor under the SECAP (Section III) include priority actions spanning transport, boats, residential buildings, hotels/resorts, and governorate buildings.",
+    "verbatim_text": "this section highlights the priority actions for the City of Luxor -Governorate of Luxor as follows:\n\n| Priority Action #1 - Transport: Urban Sustainable Mobility Master Plan |\n| Priority Action #2 - Transport and Tourism: Sustainable and Green Boats |\n| Priority Action #3 - Sustainable Approach of Residential Buildings |\n| Priority Action #4 - Tourism and Energy: Green and Sustainable Hotels and Resorts Facilities |\n| Priority Action #5 - Sustainable Approach of Governorate Buildings |",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Section III: Actions Planned – Priority actions",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Introduces a named set of priority actions that are expanded later; serves as umbrella for multiple specific measures."
+  },
+  {
+    "policy_statement": "Luxor will implement actions on Governorate buildings and services (street lighting, water distribution & sanitation, waste management) as the first priority within its direct responsibility to demonstrate leadership and enable wider stakeholder mobilisation.",
+    "verbatim_text": "The first priority of the Governorate and the City Council should be to act on its direct perimeter of responsibility: Governorate buildings and services (street lighting, water distribution & sanitation, waste management). It is only while being exemplary on its own perimeter that the City Council will be able to promote the mobilisation of all stakeholders...",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.1. Action on Governorate buildings and services",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Defines an action area with multiple subsections and specific measures that follow."
+  },
+  {
+    "policy_statement": "For municipal buildings, the Municipality will implement a staff awareness campaign and behavioural measures to reduce electricity use (targeting a 10% cut) and promote an internal challenge supported by the Environmental Awareness Unit (EAU).",
+    "verbatim_text": "More efforts should be done in raising staff awareness on simple change of behaviour to save energy without significant investment... \n\nIt would be interesting to promote a challenge between services/units to invite all workers from the Governorate to make significant efforts in saving energy.\n\nThe best performing service would be celebrated as 'energy saver/climate saver'' and would get a special gratification. The Environmental Awareness Unit (EAU) within the Governorate Communication Department will promote these activities.",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement actions on Governorate buildings and services (street lighting, water distribution & sanitation, waste management) as the first priority within its direct responsibility to demonstrate leadership and enable wider stakeholder mobilisation.",
+    "section_header": "Municipal buildings – 4.1.1.2 Energy savings / short-term actions",
+    "sector": "Buildings",
+    "extraction_rationale": "Concrete intervention (awareness/behaviour measures, competition) explicitly planned for municipal buildings."
+  },
+  {
+    "policy_statement": "For municipal buildings, the Governorate will implement a long-term programme to replace equipment with energy-efficient systems, including switching to LED lighting and installing motion sensors, and improving heating/cooling management systems.",
+    "verbatim_text": "Beyond promoting awareness and behavioural change, it is necessary to develop a clear and comprehensive plan to replace old devices and equipment and install energy efficient systems...\n\n- -Switch from AC/Heating reverse systems to central management of heating and cooling; and\n- -Switch to LED lighting and install motion sensors in offices.",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement actions on Governorate buildings and services (street lighting, water distribution & sanitation, waste management) as the first priority within its direct responsibility to demonstrate leadership and enable wider stakeholder mobilisation.",
+    "section_header": "Municipal buildings – 4.1.1.3 Energy-savings / long-term actions",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific technology interventions are explicitly proposed as a programme for municipal buildings."
+  },
+  {
+    "policy_statement": "The City of Luxor will create a revolving fund to replace old street lighting lamps with LED, reinvesting savings to achieve full replacement over time.",
+    "verbatim_text": "The City of Luxor looks for an initial financial support to feed in a revolving fund dedicated to old lamps replacement. The City should set up a specific budget monitoring mechanism and put aside financial resources preserved due to more efficient lamps replacing old devices. Resources saved will be invested again in lamp replacement.",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement actions on Governorate buildings and services (street lighting, water distribution & sanitation, waste management) as the first priority within its direct responsibility to demonstrate leadership and enable wider stakeholder mobilisation.",
+    "section_header": "Street lighting – 4.1.2.2 Revolving fund to replace old lamps",
+    "sector": "Buildings",
+    "extraction_rationale": "Defines a financing mechanism (revolving fund) and reinvestment approach for LED street lighting replacement."
+  },
+  {
+    "policy_statement": "The City of Luxor will develop a street lighting strategic plan with differentiated lighting levels and technical solutions (e.g., sensors, midnight reduction) supported by public consultation and monitoring of energy and budget savings.",
+    "verbatim_text": "The City of Luxor would gain from developing a street lighting strategic plan, identifying areas of differentiated usage... \n\nSuch an improvement... should lead to designing a lighting system combining qualitative lighting and reduced energy consumption. ...\n\n1. Based on the city development plan identify 3 or 4 types of streets and areas...\n2. Organise public consultation...\n... 4. Implement step by step the plan... Such monitoring must measure energy consumption reduction and highlight what it means in budget cuts.",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement actions on Governorate buildings and services (street lighting, water distribution & sanitation, waste management) as the first priority within its direct responsibility to demonstrate leadership and enable wider stakeholder mobilisation.",
+    "section_header": "Street lighting – 4.1.2.2 Street lighting strategic plan",
+    "sector": "Buildings",
+    "extraction_rationale": "Concrete planning instrument with implementation steps and monitoring requirements."
+  },
+  {
+    "policy_statement": "For water delivery, Governorate services will conduct a detailed assessment of the water distribution network and wastewater treatment to identify energy-saving investments (e.g., variable speed pumps, high-efficiency equipment) and consider establishing a SCADA monitoring and control system.",
+    "verbatim_text": "The Governorate services should conduct a detailed assessment of the current status of the water distribution network and the wastewater treatment process. ... switching from classical pumps to variable speed devices and high efficiency equipment might result in cutting electricity consumption by 30% or more. Likewise establishing a SCADA (Supervisory Control and Data Acquisition) system for monitoring and control could help...",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement actions on Governorate buildings and services (street lighting, water distribution & sanitation, waste management) as the first priority within its direct responsibility to demonstrate leadership and enable wider stakeholder mobilisation.",
+    "section_header": "Water delivery – 4.1.3.2 Action to promote",
+    "sector": "Water",
+    "extraction_rationale": "Specific interventions and assessment commitment for reducing water-sector electricity use."
+  },
+  {
+    "policy_statement": "For solid waste management, the Governorate will undertake a comprehensive waste management assessment to enable separate collection and recycling, optimize collection, explore biodigesters, and explore landfill methane recovery; and will implement public awareness to reduce waste and improve recycling.",
+    "verbatim_text": "The Governorate would gain realising a comprehensive assessment of its waste management, with the following objectives:\n\n- -Get a good understanding of the breakdown in different type of waste...\n- -Optimize the service...\n- -Structure recycling' chains...\n- -Specifically explore the benefit of installing bio-digesters units...\n- -Explore the benefit or recovering methane form the landfill...\n\nAdditionally... would benefit from designing and implementing a plan to raise public awareness on waste management...",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement actions on Governorate buildings and services (street lighting, water distribution & sanitation, waste management) as the first priority within its direct responsibility to demonstrate leadership and enable wider stakeholder mobilisation.",
+    "section_header": "Solid waste management – 4.1.4.2 Possible actions",
+    "sector": "Waste",
+    "extraction_rationale": "Enumerated concrete actions and assessments for waste system reform and methane mitigation."
+  },
+  {
+    "policy_statement": "The City of Luxor will implement a fleet plan to improve fleet management and awareness to reduce fuel consumption and progressively replace old vehicles with new ones (including using leasing to avoid heavy investments).",
+    "verbatim_text": "The City of Luxor could engage in a comprehensive plan to:\n\n- -Continue upgrading the fleet management tool and invest more in people awareness in order to reduce energy consumption of the fleet as its actually stands, and\n- -Replace old vehicles with new ones, looking for progressive replacement through leasing to avoid too heavy investments.",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement actions on Governorate buildings and services (street lighting, water distribution & sanitation, waste management) as the first priority within its direct responsibility to demonstrate leadership and enable wider stakeholder mobilisation.",
+    "section_header": "4.1.5. City of Luxor / Governorate fleet",
+    "sector": "Transport",
+    "extraction_rationale": "Clear intervention plan for municipal fleet management and replacement."
+  },
+  {
+    "policy_statement": "The Governorate of Luxor will set up a dedicated Environmental Awareness Unit (EAU) to raise awareness across key publics on energy, water, waste, and climate issues, and will launch actions including materials, an annual energy festival/day, and targeted campaigns (e.g., positive energy schools, mosque campaigns, tourism operators).",
+    "verbatim_text": "The Governorate of Luxor will set up a dedicated unit, focusing on raising awareness in different publics...\n\nThe EAU will launch its mission focusing on 3 priority targets - Governorate staff; children & mothers; tourist operators...\n\nThe unit will develop its activities... including:\n- -Spreading information and training material...\n- -Develop an annual event ' Energy festival or Energy day '...\n- -Unroll specific awareness campaigns... ' Positive energy schools '... \n... Promoting an awareness raising campaign in mosques ...\n... Mobilise all tourism' operators...",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement actions on Governorate buildings and services (street lighting, water distribution & sanitation, waste management) as the first priority within its direct responsibility to demonstrate leadership and enable wider stakeholder mobilisation.",
+    "section_header": "Awareness campaign – 4.1.6.2 Environmental Awareness Unit",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Institutional creation ('will set up') plus a list of concrete awareness actions."
+  },
+  {
+    "policy_statement": "Luxor will implement the action plan on the City of Luxor by mobilizing stakeholders (residents, shops, businesses, tourism operators, farmers, etc.) to achieve energy reduction and renewable energy development.",
+    "verbatim_text": "Beyond its direct scope of responsibility (on buildings and services), the Governorate of Luxor also has to mobilize all stakeholders acting in its boundaries. It is only through the overall commitment of stakeholders (residents, shops, businesses, tourism' operators, local groups, farmers, etc.) that a significant reduction in energy consumption and development of renewable energy will be achieved",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.2. Action plan on the City of Luxor",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Introduces a broad action plan area under which multiple sectoral actions are detailed."
+  },
+  {
+    "policy_statement": "For transport, Luxor will promote a short-term negotiation process with transport providers to adopt a common charter to improve transport services (routes, stops, timing) and reduce inefficient competition.",
+    "verbatim_text": "It seems that the only option would be to promote a negotiation process with all transport providers to adopt a common charter for global improvement of transport services aiming at clarifying routes, stops, timing, in order to promote synergies and avoid competition...",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement the action plan on the City of Luxor by mobilizing stakeholders (residents, shops, businesses, tourism operators, farmers, etc.) to achieve energy reduction and renewable energy development.",
+    "section_header": "Transport – 4.2.1.2 Possible actions (Short term)",
+    "sector": "Transport",
+    "extraction_rationale": "Specific short-term intervention (common charter) with defined scope."
+  },
+  {
+    "policy_statement": "Luxor will develop and implement a Sustainable, Clean and Green Urban Mobility Master Plan, including prioritising public transport and walking/cycling, creating/empowering a public transport authority, promoting new engine technologies, adopting a rapid transit bus system from the airport to the city centre, and establishing emissions monitoring.",
+    "verbatim_text": "Ideally... Luxor would implement a Sustainable, Clean and Green Urban Mobility Master Plan (SCGUMMP) that could entail the following:\n\n- -Integrating transport and city planning policies, while prioritising public transportation... and active modes...\n- -Structuring the urban transport sector by empowering a public transport authority...\n- -Developing communication and participation strategies...\n- -Encouraging the rollout of new engine technologies...\n- -Promoting active modes... and developing the use of electric bicycle,\n- -Adopt Rapid Transit Bus (RTB) system from the airport to the city centre of Luxor,\n- -Implementing a common methodology to measure GHG emissions...",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement the action plan on the City of Luxor by mobilizing stakeholders (residents, shops, businesses, tourism operators, farmers, etc.) to achieve energy reduction and renewable energy development.",
+    "section_header": "Transport – 4.2.1.2 Possible actions (Longer term)",
+    "sector": "Transport",
+    "extraction_rationale": "Detailed multi-component plan with specific interventions and governance elements."
+  },
+  {
+    "policy_statement": "For tourism, the Governorate will establish a 'Green tourism support unit' to provide advice and audits to hotels/resorts investing in energy efficiency and renewable energy, and may set up an investment fund providing attractive loans to support these investments.",
+    "verbatim_text": "To shift behaviour and speed up the shift, the Governorate should establish a ' Green tourism support unit ' providing advices to tourism operators willing to invest in energy efficiency and renewable energy. This technical unit will ensure audits to any resort and hotel willing to make necessary investments...\n\nThe technical unit could also set up an investment fund that would help resorts and hotels doing the right choice, providing loans at an attractive rate...",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement the action plan on the City of Luxor by mobilizing stakeholders (residents, shops, businesses, tourism operators, farmers, etc.) to achieve energy reduction and renewable energy development.",
+    "section_header": "Tourism Sector – 4.2.2.2 Possible actions",
+    "sector": "Tourism",
+    "extraction_rationale": "Creates specific institutional and financing mechanisms to drive tourism-sector mitigation actions."
+  },
+  {
+    "policy_statement": "For tourism transport, Luxor will support upgrading cruise boats and docks, including establishing a 'Green boat refurbishment fund', using solar PV on boats and along docks, improving waste management on boats, and supplying docking boats with renewable electricity to avoid diesel use while docked.",
+    "verbatim_text": "The Governorate of Luxor could facilitate the establishment of ' Green boat refurbishment fund '... \n\nSome on board functions and services could also be supplied only from renewable electricity produced with solar PV installed on the rooftop of cruise boats.\n\n... the fleet improvement programme should extend to redesigning the docks... promote solar PV equipment as a major source of renewable energy supply... renewable energy will supply docking boats avoiding unnecessary use of diesel motors when cruise boats and dhows are not sailing.",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement the action plan on the City of Luxor by mobilizing stakeholders (residents, shops, businesses, tourism operators, farmers, etc.) to achieve energy reduction and renewable energy development.",
+    "section_header": "Tourism Sector – Cruise fleet",
+    "sector": "Transport",
+    "extraction_rationale": "Specific interventions and a proposed fund tied to a defined tourism transport sub-sector."
+  },
+  {
+    "policy_statement": "For residential buildings, Luxor will run a public awareness campaign to reduce household electricity use, including promoting 24°C thermostat settings, efficient lighting/appliances, and other behavioural measures.",
+    "verbatim_text": "There is a lot to do to raise public awareness on energy issues, inviting inhabitants to reduce their consumption... Such awareness campaign to promote efficient behaviour should focus on few measures:\n\n- -Promoting the proper temperature at home... thermostats to be always at 24 degrees Celsius in summer would save up to 25 per cent...\n- -Promoting behavioural changes at home... replacing classical bulbs with efficient devices... emphasises on buying green label appliances...",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement the action plan on the City of Luxor by mobilizing stakeholders (residents, shops, businesses, tourism operators, farmers, etc.) to achieve energy reduction and renewable energy development.",
+    "section_header": "Residential buildings – 4.2.3.2 Short-term actions",
+    "sector": "Buildings",
+    "extraction_rationale": "Defined campaign with concrete measures and quantified potential savings."
+  },
+  {
+    "policy_statement": "For residential buildings, Luxor will promote installation of solar water heating (SWH) systems to replace electric water heaters, including training companies to produce/sell/install SWH and exploring monthly-fee business models for provision and maintenance.",
+    "verbatim_text": "The most obvious plan to develop on the medium term is the promotion of Solar Heating System...\n\n- -Promote the use of solar water heating (SWH) system instead of the current electric water heating (EWH) systems.\n- -Involve and train companies that will produce, sell and install SWH systems, and\n- -A possible model to market SWH would be to ask for a monthly fee...",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement the action plan on the City of Luxor by mobilizing stakeholders (residents, shops, businesses, tourism operators, farmers, etc.) to achieve energy reduction and renewable energy development.",
+    "section_header": "Residential buildings – 4.2.3.3 Medium-term actions",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific technology shift (EWH to SWH) plus market/training measures."
+  },
+  {
+    "policy_statement": "For residential buildings, Luxor will develop an energy-retrofitting programme including mapping housing energy performance, training local companies, partnering with a bank as third-party investor to finance retrofits repaid from savings, and promoting high-performance standards for new buildings.",
+    "verbatim_text": "To design and implement an adequate energy-retrofitting plan for residential buildings, the Governorate of Luxor should engage in the following steps:\n\n- -Assess the need through a detailed mapping of housing...\n- -Train small local companies...\n- -Develop a partnership with a bank acting as a 'third party investor'...\n- -Promote retrofitting in selected targets...\n\nThe Governorate should also work on promoting energy high-performance references for new building to be constructed.",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement the action plan on the City of Luxor by mobilizing stakeholders (residents, shops, businesses, tourism operators, farmers, etc.) to achieve energy reduction and renewable energy development.",
+    "section_header": "Residential buildings – 4.2.3.4 Long-term actions",
+    "sector": "Buildings",
+    "extraction_rationale": "Concrete multi-step programme with financing mechanism and standards orientation."
+  },
+  {
+    "policy_statement": "For tertiary buildings, Luxor will implement an action plan including mapping tertiary buildings’ energy use, conducting awareness and training for private entrepreneurs, providing technical support, and developing showcase partnerships with non-commercial service providers (e.g., hospitals, mosques, churches).",
+    "verbatim_text": "It is necessary to add a first step to properly assess the need through a detailed mapping of tertiary buildings... \n\nPrivate entrepreneurs and services\n- -Unroll a vast awareness raising campaign...\n- -Offer them technical support...\n\nNon-commercial service' providers\n- -The Governorate should develop partnerships... to develop showcases of efficient building also using renewable energy,\n- -Promote energy efficiency in hospitals...\n- -Engage a partnership with priests and imams...",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement the action plan on the City of Luxor by mobilizing stakeholders (residents, shops, businesses, tourism operators, farmers, etc.) to achieve energy reduction and renewable energy development.",
+    "section_header": "Tertiary buildings – 4.2.4.2 Possible actions",
+    "sector": "Buildings",
+    "extraction_rationale": "Contains a defined plan with concrete actions (mapping, campaigns, partnerships) for the tertiary sector."
+  },
+  {
+    "policy_statement": "For industry, Luxor will conduct energy audits and raise awareness among business owners about reducing energy consumption and developing renewable energy solutions, as a short-term step toward a comprehensive industrial action plan.",
+    "verbatim_text": "Three options could be promoted on the short term...\n\n- -Get a better understanding of energy consumption and GHG emission of the industry in Luxor...\n- -Raise awareness among business owners...\n- -Raise awareness among the business sector on the benefit of developing renewable energy solutions...\n\nOne practical option would be to develop energy audits for companies willing to address energy issues.",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement the action plan on the City of Luxor by mobilizing stakeholders (residents, shops, businesses, tourism operators, farmers, etc.) to achieve energy reduction and renewable energy development.",
+    "section_header": "Industry – 4.2.6.2 Short-term actions",
+    "sector": "Industry",
+    "extraction_rationale": "Specific interventions (audits, awareness, analysis) aimed at industry energy reduction."
+  },
+  {
+    "policy_statement": "Luxor will establish a 'Green Industry Unit' to provide advice and technical support for industrial process efficiency, rooftop renewable energy, and waste reduction/recycling, and later extend support to the service sector.",
+    "verbatim_text": "The 'Green Industry Unit' initially set up to offer services to Industry' operators could progressively expend its support to the service sector (tertiary buildings) and the industry. This technical unit would provide advices and technical support...\n\nThe GIU will support companies in different projects:\n\n- -Improving industrial processes to reduce energy consumption;\n- -Promoting renewable energy units on the roof tops of factories and workshops; and\n- -Improving production models to reduce waste generation and improve reuse and recycling.",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will implement the action plan on the City of Luxor by mobilizing stakeholders (residents, shops, businesses, tourism operators, farmers, etc.) to achieve energy reduction and renewable energy development.",
+    "section_header": "Industry – 4.2.6.3 Long-term action",
+    "sector": "Industry",
+    "extraction_rationale": "Institutional measure ('unit') with explicit project support scope."
+  },
+  {
+    "policy_statement": "Luxor will pursue renewable energy development as a SECAP action area, including solar PV, solar heating, biogas, and potential hydro along the Nile, to reduce dependency on imported energy and create local economic benefits.",
+    "verbatim_text": "Following this route, the Governorate of Luxor will reduce its dependency on 'imported energy' and spark a new economy...\n\n## Solar PV\n...\n## Solar heating\n...\n## Biogas\n...\n## Hydro along the Nile River",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "4.3. Renewable energy development",
+    "sector": "Energy",
+    "extraction_rationale": "Introduces a dedicated renewables action area with multiple technology subcomponents."
+  },
+  {
+    "policy_statement": "The Governorate of Luxor should develop a partnership with Terra Sola to advance multiple solar PV objectives: PV on all Governorate buildings, PV on symbolic buildings (schools, mosques, churches, hospitals), solar 'umbrellas' on parking lots and bus stations, and small-scale household PV.",
+    "verbatim_text": "As Terra Sola also plans to establish a dedicated fund to developing and supporting small and medium-sized renewable energy projects in Luxor, the Governorate of Luxor should develop a partnership with this company targeting different objectives:\n\n- -Develop solar PV units on all Governorate buildings...\n- -Develop specific projects for other symbolic buildings : schools, mosques, churches, hospitals and health centres;\n- -Implement solar 'umbrella' on parking lots and bus stations...\n- -Promote small scale units for households.",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will pursue renewable energy development as a SECAP action area, including solar PV, solar heating, biogas, and potential hydro along the Nile, to reduce dependency on imported energy and create local economic benefits.",
+    "section_header": "Solar PV",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit proposed partnership with enumerated solar PV deployment actions."
+  },
+  {
+    "policy_statement": "Luxor will promote small-scale residential/private solar PV using financing models such as city-funded installation with transfer after payback, co-investment with residents, or bank loans guaranteed by the city/utility with commitment to buy electricity produced.",
+    "verbatim_text": "Different options could be proposed to develop this process:\n\n- -The City of Luxor proposes residents to invest and install 5 kW units on their roof... When the total value of electricity produced matches the initial investment, the PV unit ownership gets transferred...\n- -The City of Luxor invites resident to share the investment...\n- -The City of Luxor passes a deal with a bank that will offer attractive loans to residents ... the City utility offers its guarantee ... and commits to buy all the electricity produced.",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will pursue renewable energy development as a SECAP action area, including solar PV, solar heating, biogas, and potential hydro along the Nile, to reduce dependency on imported energy and create local economic benefits.",
+    "section_header": "Solar PV for residents and private owners",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete policy financing/market mechanisms for distributed PV adoption, including a specific system size (5 kW)."
+  },
+  {
+    "policy_statement": "Luxor will promote solar heating by raising awareness, identifying heat needs across sectors, matching technical solutions, and developing pilot projects, including showcasing solar heating in Governorate buildings and rewarding notable implementations.",
+    "verbatim_text": "This component of the plan could then:\n\n- -Raise awareness in all sectors on the expected benefits of this technology;\n- -Identify specific need...\n- -Identify technical solutions...\n- -Develop pilot projects...\n\nThe role of the Governorate would be to promote the technology, develop show vase projects in its own building, value initial investment and reward the most remarkable realisations.",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will pursue renewable energy development as a SECAP action area, including solar PV, solar heating, biogas, and potential hydro along the Nile, to reduce dependency on imported energy and create local economic benefits.",
+    "section_header": "Solar heating",
+    "sector": "Energy",
+    "extraction_rationale": "Enumerated intervention steps and a municipal role for pilots/showcases."
+  },
+  {
+    "policy_statement": "Luxor will commission a comprehensive study (pre-study) on biogas potential from agricultural by-products and organic waste to recommend the optimal biodigester setup and energy uses; the pre-study budget is 20,000 euros.",
+    "verbatim_text": "The Governorate of Luxor should command a comprehensive study to explore the benefit of such a technology in the surrounding of the City. ...\n\nSuch a pre-study would require an investment of 20.000 Euro that would be necessary before entering the detailed conception phase.",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will pursue renewable energy development as a SECAP action area, including solar PV, solar heating, biogas, and potential hydro along the Nile, to reduce dependency on imported energy and create local economic benefits.",
+    "section_header": "Biogas",
+    "sector": "Energy",
+    "extraction_rationale": "Specific commitment to commission a study with explicit budget."
+  },
+  {
+    "policy_statement": "Luxor will undertake a 20,000 euro prefeasibility study to assess installing river-flow hydro turbines along the Nile (e.g., near the bridge between banks) and decide whether to proceed with the technology.",
+    "verbatim_text": "It would be very interesting to check if this technology could be adapted in Luxor...\n\nA 20.000 Euro prefeasibility study could give enough information to decide if the Governorate of Luxor should proceed with this technology or not.",
+    "policy_type": "sub",
+    "parent_policy_name": "Luxor will pursue renewable energy development as a SECAP action area, including solar PV, solar heating, biogas, and potential hydro along the Nile, to reduce dependency on imported energy and create local economic benefits.",
+    "section_header": "Hydro along the Nile River",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit action (prefeasibility study) with budget and decision purpose."
+  },
+  {
+    "policy_statement": "Governorate of Luxor established a Unit for Crises Management to deal with climate extreme events and other crises in the governorate.",
+    "verbatim_text": "The Governorate of Luxor has developed a set to actions to meet Step 1: Preparing the ground for climate adaption. For example, the Governorate established a Unit for Crises Management (GCM) to deal with any climate extreme events and any other crises in the governorate.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Adaptation Scoreboard",
+    "sector": "Adaptation governance",
+    "extraction_rationale": "Concrete institutional action (established a unit) to manage climate extremes; not just background."
+  },
+  {
+    "policy_statement": "Governorate of Luxor created a daily communication tool with the National Weather Forecast Authority and the Governorate's Central Operation Room to track and coordinate responses to extreme weather events.",
+    "verbatim_text": "The Governorate of Luxor also created a daily communication tool with the National Weather Forecast Authority (NWFA) and the Governorate's Central Operation Room (COR) to track any changes or extreme events in the weather or climate, and to record and coordinate with concerned departments to deal with such extreme events, whether in the Governorate of Luxor or the City of Luxor.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Adaptation Scoreboard",
+    "sector": "Adaptation governance",
+    "extraction_rationale": "Specific operational coordination mechanism for extreme events; clear action already implemented."
+  },
+  {
+    "policy_statement": "Develop an early warning system to alert citizens in case of extreme weather events or natural disasters, with an estimated budget of about €50,000 per year.",
+    "verbatim_text": "Developing an early warning system, to alert citizens in the case of extreme weather events or natural disasters such as heat waves, fires, floods, etc. is vital. This should be established as early as possible and would require a budget of about 50.000 € / year.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "7.1. Public health and quality of life",
+    "sector": "Disaster risk management",
+    "extraction_rationale": "Specific intervention with a stated budget, indicating planned resource needs."
+  },
+  {
+    "policy_statement": "Launch educational and awareness-raising campaigns on health impacts of heat waves, floods, and vector-borne diseases, with an estimated budget of about €30,000 per year.",
+    "verbatim_text": "Educational and awareness raising campaigns should be developed to inform people about health impacts  of  heat  waves,  floods,  vector  borne  diseases,  etc.,  and  educate  residents  on  the  ways  to protect their health and prevent infection or disease outbreaks.\n\nThis should be launched as early as possible and would require a budget of about 30.000 € / year.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "7.1. Public health and quality of life",
+    "sector": "Health",
+    "extraction_rationale": "Concrete programme with budget and scope; not merely aspirational."
+  },
+  {
+    "policy_statement": "Priority Action #1: Urban Sustainable Mobility Master Plan (SCGUMMP) for Luxor to improve mobility while reducing energy consumption and GHG emissions from transport, with a project lifetime of 1 year (Oct 2017–Dec 2018).",
+    "verbatim_text": "1. Urban Sustainable Mobility Master Plan ... Location: City of Luxor, Governorate of Luxor Start date: October 2017 Project lifetime: 1 year ... End: December 2018",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "Section V: Project Fiches — Priority Action #1 for SECAP",
+    "sector": "Transport",
+    "extraction_rationale": "Named priority action/project with clear scope and timeline; has multiple components/deliverables beneath."
+  },
+  {
+    "policy_statement": "Develop an Integrated Sustainable Mobility Master Plan for a period of 15 years, including costing and an implementation roadmap with short/medium-term priorities.",
+    "verbatim_text": "Deliverables should be as follows:\n\n- Integrated Sustainable Mobility Master Plan for a period of 15 years (the best mobility scenario for the city) to improve mobility in the City Luxor and attain Egypt's vision, SDS 2030 and SDG 7, 9, 11, 12, and 17,\n- Costing of these different components,\n- Implementation road map, including priorities to be addressed on the short and medium terms,",
+    "policy_type": "sub",
+    "parent_policy_name": "Priority Action #1: Urban Sustainable Mobility Master Plan (SCGUMMP) for Luxor to improve mobility while reducing energy consumption and GHG emissions from transport, with a project lifetime of 1 year (Oct 2017–Dec 2018).",
+    "section_header": "Section V: Project Fiches — Priority Action #1 for SECAP",
+    "sector": "Transport",
+    "extraction_rationale": "Specific mandated deliverables (master plan, costing, roadmap) under the Priority Action #1 project."
+  },
+  {
+    "policy_statement": "Implement a common methodology to measure and report GHG emissions and monitor benefits from sustainable urban mobility, including Nile river clean transportation and sustainable cruising.",
+    "verbatim_text": "- Implementing a common methodology to measure GHG emissions, report on them and monitor all other benefits deriving from the development of sustainable urban mobility, including river Nile clean transportation and sustainable cursing.",
+    "policy_type": "sub",
+    "parent_policy_name": "Priority Action #1: Urban Sustainable Mobility Master Plan (SCGUMMP) for Luxor to improve mobility while reducing energy consumption and GHG emissions from transport, with a project lifetime of 1 year (Oct 2017–Dec 2018).",
+    "section_header": "Section V: Project Fiches — Priority Action #1 for SECAP",
+    "sector": "Transport",
+    "extraction_rationale": "Concrete monitoring/reporting intervention explicitly listed as part of the master plan components."
+  },
+  {
+    "policy_statement": "Achieve a 30% reduction in transport energy consumption by 2030 through the mobility master plan (including contributions from new engine technologies, active mobility, urban planning/traffic optimization, and public transport/RTB).",
+    "verbatim_text": "Providing the Sustainable, Clean and Green Urban Mobility Master Plan implementation would have started in 2020 the latest and would demonstrate a 50% progress in implementation in 2030 the expected impact of such a plan should generate a 30% reduction in energy consumption by 2030, including: • New engine technologies will allow securing à 10% reduction, • Active mobility development (cycling and walking) allow 5% reduction, • Urban planning allows traffic optimization that will reduce consumption by 10%, • Public transport system and RTB service to airport result in another 5%",
+    "policy_type": "sub",
+    "parent_policy_name": "Priority Action #1: Urban Sustainable Mobility Master Plan (SCGUMMP) for Luxor to improve mobility while reducing energy consumption and GHG emissions from transport, with a project lifetime of 1 year (Oct 2017–Dec 2018).",
+    "section_header": "Section V: Project Fiches — Priority Action #1 for SECAP",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified target (30% by 2030) with specified contributing measures; clearly a policy commitment within the project fiche."
+  },
+  {
+    "policy_statement": "Priority Action #2: Sustainable and Green Boats to convert tourist cruise boats from diesel to LPG or CNG/NG, with project lifetime Dec 2017–Dec 2020.",
+    "verbatim_text": "2. Sustainable and Green Boats ... Start date: December 2017 ... Project lifetime: 3 years ... End: December 2020 ... consists mainly in converting all these boats using fossil fuel to operate with LPG (Liquid Petroleum Gaz) or CNG (Compressed natural gas)",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "City of Luxor - Governorate of Luxor Priority Action # 2 for SECAP",
+    "sector": "Transport",
+    "extraction_rationale": "Named priority action with defined technology shift and timeline; supports multiple sub-commitments and numeric targets."
+  },
+  {
+    "policy_statement": "Convert 110 tourist cruise boats and 155 small passenger boats to run by natural gas.",
+    "verbatim_text": "The ambition is to convert 110 cruise boats and 155 small passengers boats.",
+    "policy_type": "sub",
+    "parent_policy_name": "Priority Action #2: Sustainable and Green Boats to convert tourist cruise boats from diesel to LPG or CNG/NG, with project lifetime Dec 2017–Dec 2020.",
+    "section_header": "City of Luxor - Governorate of Luxor Priority Action # 2 for SECAP",
+    "sector": "Transport",
+    "extraction_rationale": "Explicit quantified conversion target for fleets under the priority action."
+  },
+  {
+    "policy_statement": "Develop a study to install solar PV onto cruise boats for supplying electricity from renewable energy.",
+    "verbatim_text": "- Develop a study to install Solar PV onto cruise boats for supplying electricity from renewable energy.",
+    "policy_type": "sub",
+    "parent_policy_name": "Priority Action #2: Sustainable and Green Boats to convert tourist cruise boats from diesel to LPG or CNG/NG, with project lifetime Dec 2017–Dec 2020.",
+    "section_header": "City of Luxor - Governorate of Luxor Priority Action # 2 for SECAP",
+    "sector": "Energy",
+    "extraction_rationale": "Specific technical study commitment linked to renewable electricity supply for boats."
+  },
+  {
+    "policy_statement": "Optimize overall cruise fleet management with an objective to improve overall efficiency by 30% mainly by improving occupancy rates.",
+    "verbatim_text": "Short and medium terms priorities:\n- -Optimize  the  overall  cruise  fleet  management  with  an  objective  of  improvement  its  overall efficiency by 30% mainly working on occupancy rate improvement.",
+    "policy_type": "sub",
+    "parent_policy_name": "Priority Action #2: Sustainable and Green Boats to convert tourist cruise boats from diesel to LPG or CNG/NG, with project lifetime Dec 2017–Dec 2020.",
+    "section_header": "City of Luxor - Governorate of Luxor Priority Action # 2 for SECAP",
+    "sector": "Transport",
+    "extraction_rationale": "Quantified operational efficiency objective (30%) stated as a priority deliverable."
+  },
+  {
+    "policy_statement": "Priority Action #5: Green Governorate Buildings Plan (GGBP/GMBP) to reduce energy consumption and GHG emissions in Governorate buildings through energy efficiency measures and renewable energy (solar PV and solar water heating).",
+    "verbatim_text": "The City of Luxor - Governorate of Luxor has the desire to move forward to holistically solve these challenges by promoting sustainable energy in Governorate (municipal) buildings in the city of Luxor through the development of a comprehensive plan to reduce energy consumption and consequently GHG emissions. ... 'Green Municipal Buildings Plan - GMBP.'",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "City of Luxor - Governorate of Luxor Priority Action # 5 for SECAP",
+    "sector": "Buildings",
+    "extraction_rationale": "Named plan with multiple concrete measures and quantified investments and outputs."
+  },
+  {
+    "policy_statement": "Deliver by 2020: provide LED lamp replacement benefits to 12,800 households, SWH installation benefits to 6,400 households, and more sophisticated retrofitting to 1,330 households by 2022.",
+    "verbatim_text": "Deliverables should be as follows:\n\n- Implementation of the GRP priorities;\n- -12,800 households benefiting lamp replacement (320,000 LED lamps) before 2020,\n- -6,400 households benefiting SWH installation before 2020, and\n- -1,330 households benefiting a more sophisticated retrofitting by 2022.",
+    "policy_type": "sub",
+    "parent_policy_name": "Priority Action #3: Green Residential Plan (GRP)",
+    "section_header": "City of Luxor - Governorate of Luxor Priority Action # 3 for SECAP",
+    "sector": "Buildings",
+    "extraction_rationale": "Clear numeric targets with deadlines; direct deliverables under the GRP."
+  },
+  {
+    "policy_statement": "By 2030, expand programmes to reach 50% of residential buildings with LED lamps, 30% with SWH, and 20% with full retrofitting.",
+    "verbatim_text": "Expansion of these different programmes based on funds replenishment with a target of reaching out:\n- -50 per cent of residential buildings by 2030 with LED lamps,\n- -30 per cent of residential buildings by 2030 with SWH, and\n- -20 per cent of residential buildings by 2030 with full retrofitting.",
+    "policy_type": "sub",
+    "parent_policy_name": "Priority Action #3: Green Residential Plan (GRP)",
+    "section_header": "City of Luxor - Governorate of Luxor Priority Action # 3 for SECAP",
+    "sector": "Buildings",
+    "extraction_rationale": "Quantified long-term coverage targets for 2030; actionable policy expansion goals."
+  },
+  {
+    "policy_statement": "Priority Action #4: Sustainable and Green Tourism Plan (SGTP) to green hotels and resorts by promoting energy conservation/efficiency and renewable solutions (solar PV and solar water heating), starting Dec 2017 for 5 years.",
+    "verbatim_text": "4. Greening Hotels and Resorts ... Start date: December 2017 ... Project lifetime: 5 years ... The Sustainable and Green Tourism Plan (SGTP) will focus on hotels and resorts to promote energy conservation, energy efficiency and develop renewable solutions to cover energy needs.",
+    "policy_type": "parent",
+    "parent_policy_name": null,
+    "section_header": "City of Luxor (Governorate of Luxor) - Priority Action # 4 for SECAP",
+    "sector": "Tourism",
+    "extraction_rationale": "Named priority action with defined interventions and timeframe; includes multiple components (SWH fund, awareness, incentives)."
+  },
+  {
+    "policy_statement": "Set up a revolving fund to support investment in solar water heating in hotels and resorts, implemented in phases of 10 hotels per year with €500k/year investment capacity for the first two years.",
+    "verbatim_text": "The priority action #4 proposes to set up a revolving fund to support investment in hotels. This investment could be done in phases of 10 hotels per year with an investment capacity of 500K€ per year for the first two years (1m€) and another round on investment as soon as the fund has been replenished.",
+    "policy_type": "sub",
+    "parent_policy_name": "Priority Action #4: Sustainable and Green Tourism Plan (SGTP) to green hotels and resorts by promoting energy conservation/efficiency and renewable solutions (solar PV and solar water heating), starting Dec 2017 for 5 years.",
+    "section_header": "City of Luxor (Governorate of Luxor) - Priority Action # 4 for SECAP",
+    "sector": "Energy",
+    "extraction_rationale": "Specific financing mechanism (revolving fund) with phased implementation and budget numbers."
+  },
+  {
+    "policy_statement": "Supply natural gas to hotels/resorts in Luxor's eastern bank, saving about 8,157 MWh/year of electricity and reducing GHG emissions by 2.8 tCO2eq/y (as stated).",
+    "verbatim_text": "This priority action plans to supply natural gas to hotels/resorts in the eastern bank of the City of Luxor, which will save 8,157 MWh/year of electricity (8 GWh/year) from the total use 27 GWh/year (2015 reference) and will reduce GHG emissions by 2.8 tCO2eq/y.",
+    "policy_type": "sub",
+    "parent_policy_name": "Priority Action #4: Sustainable and Green Tourism Plan (SGTP) to green hotels and resorts by promoting energy conservation/efficiency and renewable solutions (solar PV and solar water heating), starting Dec 2017 for 5 years.",
+    "section_header": "City of Luxor (Governorate of Luxor) - Priority Action # 4 for SECAP",
+    "sector": "Energy",
+    "extraction_rationale": "Explicit planned intervention (gas connections) with quantified energy saving and emissions reduction figures."
+  },
+  {
+    "policy_statement": "Replace lighting in public buildings with LED lamps and incorporate motion sensors (about 8,500 LED lamps), with an estimated €40,000 investment and expected savings of 283 MWh/year.",
+    "verbatim_text": "Switch to LED lighting installation and incorporate motion sensors in offices of Governorate buildings. ...\n\nReplacing lamps in all public buildings with LED devices, would require installing 8,500 LED lamps ... This would cost ... a total investment of 40,000 € (822,000 EGP).\n\nEnergy  saved  from  such  new  equipment  would  represent  283  MWh/y",
+    "policy_type": "sub",
+    "parent_policy_name": "Priority Action #5: Green Governorate Buildings Plan (GGBP/GMBP) to reduce energy consumption and GHG emissions in Governorate buildings through energy efficiency measures and renewable energy (solar PV and solar water heating).",
+    "section_header": "City of Luxor - Governorate of Luxor Priority Action # 5 for SECAP",
+    "sector": "Buildings",
+    "extraction_rationale": "Specific quantified intervention (LED+sensors), investment amount, and expected energy savings."
+  },
+  {
+    "policy_statement": "Install solar PV on Governorate building roofs via a staged approach, with a first round installing 7,500 kWp (estimated €10,000,000 investment) producing about 14,238,560 kWh/year.",
+    "verbatim_text": "The priority  action  #5 recommends  a  staged  approach  with  a  first  round  tapping  on  50%  of  the  entire potential, meaning installing 7,500 kWp: for example, 50 units of 100 kWp and 10 units of 250 kWp.\n\n| Nb. of 1 kWp unit | Investment | Prod in kWh |\n| 7 500 | 10 000 000 | 14 238 560 |",
+    "policy_type": "sub",
+    "parent_policy_name": "Priority Action #5: Green Governorate Buildings Plan (GGBP/GMBP) to reduce energy consumption and GHG emissions in Governorate buildings through energy efficiency measures and renewable energy (solar PV and solar water heating).",
+    "section_header": "City of Luxor - Governorate of Luxor Priority Action # 5 for SECAP",
+    "sector": "Energy",
+    "extraction_rationale": "Quantified renewable capacity target with staged deployment, investment and generation figures."
+  },
+  {
+    "policy_statement": "Equip 100 Governorate buildings with solar water heating by installing five SWH units (3 collectors) per building (total cost €292,000; production 1,380,000 kWh).",
+    "verbatim_text": "The priority action #5 propose to equip develop 100 buildings with 5 SWH units of 3 collectors.\n\n| Cost in € for 100 x 5 units | Production in KWh |\n| 292 000 | 1 380 000 |",
+    "policy_type": "sub",
+    "parent_policy_name": "Priority Action #5: Green Governorate Buildings Plan (GGBP/GMBP) to reduce energy consumption and GHG emissions in Governorate buildings through energy efficiency measures and renewable energy (solar PV and solar water heating).",
+    "section_header": "City of Luxor - Governorate of Luxor Priority Action # 5 for SECAP",
+    "sector": "Energy",
+    "extraction_rationale": "Specific quantified rollout of solar water heating across buildings with cost and production."
+  },
+  {
+    "policy_statement": "Prepare and elaborate a Citizen Awareness Promotion Plan (CAPP) as part of Luxor’s SECAP, including an 'Awareness Raising Actions' component.",
+    "verbatim_text": "In addition to the requirement linked to the public consultation of the SEAP, a Citizen Awareness Promotion Plan (CAPP) has to be elaborated by the municipality as part of the Sustainable Energy Climate and Action Plan document (SECAP).\n\n## Preparing and including the 'Awareness Raising Actions' component in the SECAP",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Section VI: Citizen Awareness Promotion Plan (CAPP)",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Explicit requirement ('has to be elaborated') to create a defined plan as part of SECAP."
+  },
+  {
+    "policy_statement": "Develop a communication plan to brand Luxor as a clean and green city and highlight the benefits of a sustainable energy (energy efficiency) plan including solar PV and solar water heating on municipal building roofs.",
+    "verbatim_text": "A communication plan needs to be developed to highlight the benefits of a new strategic and comprehensive sustainable energy (energy efficiency) plan to brand the City of Luxor as a clean and green city including the use solar PV cells and SWHsystems on Governorate (municipal) buildings' roofs.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "4. Summary of related Awareness Raising (AR) actions",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Clear action ('needs to be developed') to produce a specific communication plan with stated content."
+  },
+  {
+    "policy_statement": "Develop and establish a Strategic Sustainable Energy Unit (SSEU) to oversee staff training and related sustainable energy issues.",
+    "verbatim_text": "Also, a Strategic Sustainable Energy Unit (SSEU) to be developed and established to oversee the training of staff and all concerned issue",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Staff training",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Institutional set-up action explicitly stated ('to be developed and established')."
+  },
+  {
+    "policy_statement": "Implement an Awareness Raising Programme (ARP) to promote the Green Governorate (Municipal) Buildings Plan (GMBP), including specific outreach actions (information point, open house, articles, brochures/posters, and information letters tracking SECAP progress).",
+    "verbatim_text": "The Awareness Raising Programme (ARP), would include meetings, workshops, lectures and workshops for staff and managers that could encompass several actions:\n\n- -The creation of a permanent municipal information point,\n- -The organisation of an open house,\n- -The publication of articles in local and regional newspapers,\n- -The distribution of brochures and posters,\n- -The distribution of an information letter that includes current events on sustainability and local success stories:\n- Information on national energy policies and local implications,\n- The prevailing energy conditions in the municipality, and\n- The state of progress of the different actions implemented within the framework of the sustainable energy strategy and the SECAP.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "Awareness Raising Programme (ARP)",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Defines an organized programme and enumerates concrete measures, meeting the 'specific intervention' criterion."
+  },
+  {
+    "policy_statement": "Implement a pilot communication action (6 months from March–August 2018) to raise citizens’ awareness to rationalize energy consumption and encourage switching to clean energy through seminars and meetings targeting youth and women.",
+    "verbatim_text": "## -Project lifetime (start and end date):\n\n6 months, starting from March 2018 to include the month of Ramadan in May, and ending in August.\n\n## -Summary of the Communication Action\n\n- -General objective(s):  Build  awareness on  the  importance  of  rationalizing  consumption  and switching to the use of clean energy as much as possible.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.1.1. Template — Proposed Communication or Awareness Raising Action related to Specific/Pilot Project: Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Time-bound awareness campaign specified with objectives and delivery channels."
+  },
+  {
+    "policy_statement": "Organize a 'Green Corner Festival' for environmental education and awareness in a primary school to promote energy rationalisation and clean energy use, with coordination for permits and potential replication in other schools.",
+    "verbatim_text": "## 2. Title of the Communication Action related to the pilot project:\n\nGreen Corner Festival for Environmental Education and Awareness\n\n... Coordinate with the Ministry of Education to facilitate the replication of the festival and to broadcast the idea of the Green / Environmental Corner in all elementary and preparatory schools",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.1.2. Template — Proposed Communication or Awareness Raising Action related to Specific/Pilot Project: Energy",
+    "sector": "Energy",
+    "extraction_rationale": "Concrete intervention (named festival) with explicit intent to replicate via Ministry of Education coordination."
+  },
+  {
+    "policy_statement": "Hold an art-based awareness event: an 8-day Sculpture Symposium ('Together towards a clean environment') to promote rationalizing consumption and switching to clean energy, budgeted at 100,000 L.E. (~5,000 Euros).",
+    "verbatim_text": "Sculpture Symposium entitled: 'Together towards a clean environment'\n\n... 8 days in the second half of February.\n\n## 6. Cost estimate\n\n- -100,000 L.E. (around 5000 Euros)",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.1.3. Template — Proposed Communication or Awareness Raising Action related to Specific/Pilot Project: Energy",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Specific, costed, time-defined public awareness action."
+  },
+  {
+    "policy_statement": "Run an environmental campaign to reduce microbus exhaust by making a compulsory awareness/training cycle and vehicle checks tied to license renewal, including prohibiting license renewal without attending the session and passing engine inspection/repairs.",
+    "verbatim_text": "Organizing a campaign in the form of a compulsory cycle and a campaign of detection and obligation to repair the damage caused by engines that cause the emission of carbon monoxide\n\n... The renewal of any license without: a) obtaining and abiding by the awareness training session done at the Union by the environmental management team is prohibited; b) undergoing the detection of the engine and repairing the damage resulting in the increase of harmful emissions.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.2.1 Template — Proposed Communication or Awareness Raising Action related to Specific/Pilot Project: Environment",
+    "sector": "Transport",
+    "extraction_rationale": "Contains a binding mechanism (license renewal prohibition) and concrete enforcement actions."
+  },
+  {
+    "policy_statement": "Conduct an awareness and guidance campaign (twice a week for 7 months, Feb–Sept) to promote switching microbuses to liquefied natural gas (LNG), including training from GASCO and preparing to switch 7 minibuses as initial demonstration vehicles.",
+    "verbatim_text": "The  campaign  will  raise  awareness  and  provide  guidance:  twice  a  week  for  7  months  from February till September\n\nDesign the campaign, presentations and publications, and switch 7 minibuses to work as follows:\n\nOne microbus to operate on the line El-Zeneya, another microbus on the line of El-Bayadeya, and five microbuses in the main lines with their processing and paint supported or free of charge as a mobile-display in the governorate.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "2.2.2. Template — Proposed Communication or Awareness Raising Action related to Specific/Pilot Project: Environment",
+    "sector": "Transport",
+    "extraction_rationale": "Time/frequency specified and includes a concrete initial conversion action (7 minibuses)."
+  },
+  {
+    "policy_statement": "Al-Qurna Priority action #1: Establish a Tourist Centre and Ticketing Office in Al-Qurna with trained staff to improve heritage site management, provide ticketing and visitor services, and reduce bus emissions by accommodating waiting drivers/tourists.",
+    "verbatim_text": "## 5.1.1 Tourist Centre and Ticketing Office\n\nThough the West Bank is rich with some of the most important monuments and cultural tourism attractions, it doesn't contain any tourist information centre or proper ticket centre...\n\nThe proposed project is a tourist information centre equipped with necessary facilities and trained staff...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.1 Tourist Centre and Ticketing Office — Al-Qurna - Priority action # 1 for SECAP",
+    "sector": "Buildings",
+    "extraction_rationale": "A defined SECAP project fiche with clear intervention and objectives; treated as a standalone policy in this annex."
+  },
+  {
+    "policy_statement": "Al-Qurna Priority action #2: Implement 'Clear Transportation on the West Bank' by creating staged parking lots with waiting areas (and optional PV sheds) for tourist vehicles and converting West Bank microbuses from diesel/gasoline to natural gas, starting with 4 microbuses in phase 1.",
+    "verbatim_text": "## 5.1.2 Clear transportation on the west bank\n\nThe proposed project suggests 2 parking lots (to be divided into 4 stages)... hence protecting the site and decreasing emissions.\n\nThe project proposes the conversion of all the microbuses' engines on the West Bank, from diesel and gasoline into natural gas. The first Phase focuses on 4 microbuses, while the next phases will be for the rest (16 microbuses).",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.2 Clear transportation on the west bank — Al-Qurna - Priority action # 2 for SECAP",
+    "sector": "Transport",
+    "extraction_rationale": "Concrete infrastructure and fuel-switch measures with phased implementation explicitly described."
+  },
+  {
+    "policy_statement": "Make conversion of West Bank microbuses to natural-gas-based engines mandatory at license renewal (as a potential enforcement measure) in Al-Qurna transport action.",
+    "verbatim_text": "The  traffic  department  (MoI)  could  partner  enforcing  a  mandatory  conversion  to  use  a  natural  gas  based  engine  when renewing the vehicle license.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.2 Clear transportation on the west bank — Technical description / For Residents",
+    "sector": "Transport",
+    "extraction_rationale": "Although phrased as 'could', it specifies a binding mechanism tied to license renewal; extracted as an intended enforcement measure described in the fiche."
+  },
+  {
+    "policy_statement": "Al-Qurna Priority action #3: Install solar off-grid PV with lithium batteries for heritage sites (Kings Valley) starting with a 40 kW first phase to reduce emissions/vibrations from fossil-fuel generators and support electric vehicle charging needs.",
+    "verbatim_text": "## 5.1.3. Solar PV for Heritage Sites\n\nThe main problem is in the redundant system to light the Kings Valley's ... using two fossil fuel generators, of 150 kW and 160 kW respectively...\n\nThe project proposes a solar off-grid PV to allow for the usage of lithium batteries system to offer in its first phase 40 kW.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.3 Solar PV for Heritage Sites — Al-Qurna - Priority action #3 for SECAP",
+    "sector": "Energy",
+    "extraction_rationale": "Specific technology intervention with capacity stated (40 kW) and purpose."
+  },
+  {
+    "policy_statement": "Al-Qurna Priority action #4: Implement agricultural waste management by providing Luxor’s agriculture department with tractors, shredders and trailers to replace burning of sugarcane/banana waste and improve air quality.",
+    "verbatim_text": "## 5.1.4 Management of Agriculture waste\n\nThe problem is that instead of managing agricultural waste, farmers usually burn the pre-harvest sugarcane...\n\nTo provide the department of agriculture in Luxor Governorate, MoAgr., with:\n- 20 agricultural tractor,\n- 20 shredder, and",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.4 Management of Agriculture waste — Al-Qurna - Priority action #4 for SECAP",
+    "sector": "AFOLU",
+    "extraction_rationale": "Concrete resource/equipment provision aimed at stopping burning; clearly an intervention."
+  },
+  {
+    "policy_statement": "Al-Qurna Priority action #5: Set up an Environmental Public Awareness Unit to mobilize stakeholders on energy conservation/efficiency, environmental protection, and protection of heritage sites; planned as a 5-year programme (2016–2021).",
+    "verbatim_text": "## 5.1.5. Environmental public awareness unit\n\nLuxor Governorate will set up a dedicated unit, focusing on raising awareness in different public audiences...\n\nStart date: 2016\n\nProject lifetime: 5 years\n\ndate: 2021",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.5 Environmental public awareness unit — Al-Qurna Village - Priority action # 5 for SECAP",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Explicit commitment to establish a dedicated unit with timeframe; distinct from earlier citywide EAU entry in the summary because it is an Al-Qurna SECAP priority action fiche with its own parameters."
+  },
+  {
+    "policy_statement": "Al-Qurna Priority action #6: Implement 'Waterfront Aesthetics' through an awareness campaign and a national coordination meeting to safeguard the waterfront and preserve its environmental/visual quality for tourism.",
+    "verbatim_text": "## 5.1.6. Waterfront Aesthetics\n\nThe project suggests:\n- An Awareness Campaign to shed light on the importance of preserving the aesthetics of the Waterfront...\n\n- A National meeting to coordinate among Mehleb committee and other officials in charge to safeguard the waterfront.",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.1.6 Waterfront Aesthetics — Al-Qurna - Priority action #6 for SECAP",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Defined project fiche with concrete actions (campaign + coordination meeting)."
+  },
+  {
+    "policy_statement": "Al-Qurna Priority action #7: Develop an Integrated Master Plan combining urban development, rural development, and archaeological/heritage site management plans through a multi-stakeholder committee, TOR/RFP process, workshops, and national meeting.",
+    "verbatim_text": "## 5.2.1. Integrated Master Plan\n\nThere must be a master plan that combines the inputs of different authorities...\n\nThus, an integrated master plan must be developed: urban development plan, rural development plan, archaeological site management plan...",
+    "policy_type": "individual",
+    "parent_policy_name": null,
+    "section_header": "5.2.1 Integrated Master Plan — Al-Qurna - Priority action #7 for SECAP",
+    "sector": "Cross-sectoral",
+    "extraction_rationale": "Explicit plan-development commitment with defined process steps and scope."
+  }
+]
