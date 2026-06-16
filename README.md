@@ -42,4 +42,4 @@ If supplying a PDF, Docling converts it on first run and caches the result.
 
 ## Architecture
 
-See `docs/pipeline_architecture_v4.md` for a full description of the 9-step pipeline and design decisions.
+See `docs/pipeline_architecture_v4.md` for a full description of the pipeline.
