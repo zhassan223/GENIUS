@@ -23,7 +23,6 @@ docs/
   pipeline_architecture_v4.md  ← how the pipeline works
   cities/                      ← pre-converted city markdowns
 
-pdfs/                      ← source PDFs
 ```
 
 ## Adding a city
